@@ -1,5 +1,7 @@
 # esme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esme.md)
+
 <p><span class="chinese">我对艾思梅耳语道。</span><span class="english">I whispered to Esme.</span></p>
 
 <p><span class="chinese">我迟疑地向艾思梅微笑。</span><span class="english">I smiled hesitantly at Esme.</span></p>

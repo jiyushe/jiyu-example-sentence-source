@@ -1,5 +1,7 @@
 # 本名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benming.md)
+
 <p><span class="chinese">托尼·莫里森本名克洛伊·安东尼·沃福德，1931年出生在俄亥俄州的洛雷恩。</span><span class="english">The writer was born Chloe Anthony Wofford in 1931 in Lorain, Ohio.</span></p>
 
 <p><span class="chinese">1874年于匈牙利出生、本名为艾瑞克•怀兹的胡迪尼……举家搬迁。</span><span class="english">Born as erik weisz in hungary in 1874 houdini moved with his family.</span></p>

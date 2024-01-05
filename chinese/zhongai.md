@@ -1,5 +1,7 @@
 # 钟爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongai.md)
+
 <p><span class="chinese">我钟爱91.5</span><span class="english">My favorite is 91.5.</span></p>
 
 <p><span class="chinese">她很钟爱孙子。</span><span class="english">She dotes on her grandson.</span></p>

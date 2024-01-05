@@ -1,5 +1,7 @@
 # 红色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongse.md)
+
 <p><span class="chinese">红色的一角。</span><span class="english">A red corner.</span></p>
 
 <p><span class="chinese">红色男爵比萨？</span><span class="english">Red Baron pizza?</span></p>

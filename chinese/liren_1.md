@@ -1,5 +1,7 @@
 # 利刃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liren_1.md)
+
 <p><span class="chinese">屠夫需利刃。</span><span class="english">A butcher needs sharp knives.</span></p>
 
 <p><span class="chinese">利刃抵向他的喉咙，突然</span><span class="english">THE KNIFE reaches his throat as</span></p>

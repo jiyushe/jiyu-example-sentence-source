@@ -1,5 +1,7 @@
 # machinable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/machinable.md)
+
 <p><span class="chinese">两台机床联动可加工特长工件。</span><span class="english">Machinable two machine interaction points workpiece.</span></p>
 
 <p><span class="chinese">可加工注塑模，冷冲模，拉深模等各种精密模具。</span><span class="english">Machinable injection mold, Die, drawing die, and other precision molds.</span></p>

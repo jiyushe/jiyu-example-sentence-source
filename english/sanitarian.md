@@ -1,5 +1,7 @@
 # sanitarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanitarian.md)
+
 <p><span class="chinese">纳豆是日本的一种传统性食品，近年研究发现其具有许多保健功能。</span><span class="english">Natto is a kind of traditional food in Japan, it has many sanitarian functions.</span></p>
 
 <p><span class="chinese">农村卫生人力资源是农村医疗卫生事业的“第一资源”。</span><span class="english">Human resource is the key source for the whole sanitarian in the rural areas of China.</span></p>

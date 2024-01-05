@@ -1,5 +1,7 @@
 # find 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/find.md)
+
 <p><span class="chinese">去找蒂米！</span><span class="english">Find Timmy!</span></p>
 
 <p><span class="chinese">雇个教练。</span><span class="english">Find a coach.</span></p>

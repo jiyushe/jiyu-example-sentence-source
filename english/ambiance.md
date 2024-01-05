@@ -1,5 +1,7 @@
 # ambiance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambiance.md)
+
 <p><span class="chinese">不要忘记留意环境。</span><span class="english">Don’t forget about ambiance.</span></p>
 
 <p><span class="chinese">我敢保证气氛一定会很棒。</span><span class="english">I'm sure the ambiance will be great.</span></p>

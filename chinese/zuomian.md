@@ -1,5 +1,7 @@
 # 左面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuomian.md)
+
 <p><span class="chinese">那么这就是左面部分。</span><span class="english">So, that's the left hand side.</span></p>
 
 <p><span class="chinese">在他左面是药师佛。</span><span class="english">On his left is the Buddha of Medicine.</span></p>

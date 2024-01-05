@@ -1,5 +1,7 @@
 # babble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babble.md)
+
 <p><span class="chinese">一阵唧唧喳喳的说话声。</span><span class="english">A babble of voices.</span></p>
 
 <p><span class="chinese">我在鹅卵石上呀呀学语。</span><span class="english">I babble on the pebble.</span></p>

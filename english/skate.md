@@ -1,5 +1,7 @@
 # skate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skate.md)
+
 <p><span class="chinese">你经常滑冰吗？</span><span class="english">Do you skate a lot?</span></p>
 
 <p><span class="chinese">你会穿着皮毛衣服滑冰吗？</span><span class="english">Do you skate in fur?</span></p>

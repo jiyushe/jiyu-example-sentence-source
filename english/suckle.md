@@ -1,5 +1,7 @@
 # suckle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suckle.md)
+
 <p><span class="chinese">到我给宝宝喂奶的时候了。</span><span class="english">It's time to suckle my baby.</span></p>
 
 <p><span class="chinese">结肠炎可以喝羊奶吗？</span><span class="english">Can colonitis drink a sheep to suckle?</span></p>

@@ -1,5 +1,7 @@
 # 总产值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongchanzhi.md)
+
 <p><span class="chinese">全行业的总产值大约在7300亿元人民币左右。</span><span class="english">Industry-wide output of about 7300 billion yuan.</span></p>
 
 <p><span class="chinese">在这些年里它的工业总产值增长了5.6倍。</span><span class="english">Its total industrial output value was up 5.6 times in these years.</span></p>

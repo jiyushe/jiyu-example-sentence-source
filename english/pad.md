@@ -1,5 +1,7 @@
 # pad 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pad.md)
+
 <p><span class="chinese">啥是跳舞毯？</span><span class="english">What is dance pad?</span></p>
 
 <p><span class="chinese">这里有一张棉垫。</span><span class="english">Here's a cotton pad.</span></p>

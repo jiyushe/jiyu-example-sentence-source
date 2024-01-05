@@ -1,5 +1,7 @@
 # forbidding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forbidding.md)
+
 <p><span class="chinese">房子黑森森的，令人望而生畏。</span><span class="english">The house looked dark and forbidding.</span></p>
 
 <p><span class="chinese">但不禁止分享，畅销品同样可以卖的很好。</span><span class="english">Bestsellers can still do well without forbidding sharing.</span></p>

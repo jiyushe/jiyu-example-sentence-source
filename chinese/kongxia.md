@@ -1,5 +1,7 @@
 # 空暇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongxia.md)
+
 <p><span class="chinese">请你在空暇时间做一下。</span><span class="english">Please do it at your leisure.</span></p>
 
 <p><span class="chinese">没空暇时间旅游松弛身心？</span><span class="english">Don't have the time to travel and relax?</span></p>

@@ -1,5 +1,7 @@
 # 干爹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gandie.md)
+
 <p><span class="chinese">因为害怕他们的美国干爹。</span><span class="english">Because the are scared of their father USA.</span></p>
 
 <p><span class="chinese">你好，吴启韩，你的干爹肚子饿，请你帮他买吃的，好吗？</span><span class="english">Hello Qi-Han, your godfather hungry, please help him buy food.</span></p>

@@ -1,5 +1,7 @@
 # 夜叉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yecha.md)
+
 <p><span class="chinese">你是一个夜叉鬼吗？</span><span class="english">When asked, 'Are you a yakkha?</span></p>
 
 <p><span class="chinese">去年十一月，曼谷玉佛寺入口处的隐医和夜叉。</span><span class="english">Last November, Hermit Doctor and yaksha in Wat Phra Kaew, Bangkok.</span></p>

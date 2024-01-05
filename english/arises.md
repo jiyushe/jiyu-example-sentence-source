@@ -1,5 +1,7 @@
 # arises
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arises.md)
+
 <p><span class="chinese">癌症源自于一个单细胞。</span><span class="english">Cancer arises from one single cell.</span></p>
 
 <p><span class="chinese">白云生处有人家。</span><span class="english">A little home stands where cloud arises.</span></p>

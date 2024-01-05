@@ -1,5 +1,7 @@
 # population
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/population.md)
+
 <p><span class="chinese">我们的大量非本地人口。</span><span class="english">Our large nonnative population.</span></p>
 
 <p><span class="chinese">人口是的迅速增长。</span><span class="english">The population is growing fase.</span></p>

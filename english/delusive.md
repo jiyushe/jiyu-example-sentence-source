@@ -1,5 +1,7 @@
 # delusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delusive.md)
+
 <p><span class="chinese">那么，这个例子中究竟有什么应被视作欺幻呢？</span><span class="english">So exactly what in this case is supposed to be delusive?</span></p>
 
 <p><span class="chinese">一切善法，也是虚妄的，你也不要太狂妄你自己。</span><span class="english">All goodness is delusive , don't be too proud of yourself either.</span></p>

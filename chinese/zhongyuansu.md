@@ -1,5 +1,7 @@
 # 重元素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyuansu.md)
+
 <p><span class="chinese">这些元素是超重元素。</span><span class="english">These are what are known as the superheavies.</span></p>
 
 <p><span class="chinese">另外，我们还计算并简单分析了114号和116号超重元素。</span><span class="english">Then super heavy element 114 and 116 are also calculated and studied.</span></p>

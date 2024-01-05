@@ -1,5 +1,7 @@
 # 渔翁得利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuwengdeli.md)
+
 <p><span class="chinese">而你怎样才能渔翁得利在今天的市场上。</span><span class="english">And how you can profit from it in today's market.</span></p>
 
 <p><span class="chinese">有几个人相信他们会渔翁得利拥抱。</span><span class="english">There are a few who believe they will profit from it and embrace it.</span></p>

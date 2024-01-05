@@ -1,5 +1,7 @@
 # 慷慨激昂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangkaijiang.md)
+
 <p><span class="chinese">他是个慷慨激昂的演说者。</span><span class="english">He is a fervid orator.</span></p>
 
 <p><span class="chinese">无休止的慷慨激昂，无休止的戏谑挖苦。</span><span class="english">On and on the harangue went, an endless sport.</span></p>

@@ -1,5 +1,7 @@
 # topographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topographic.md)
+
 <p><span class="chinese">碗状地形凹陷。</span><span class="english">A bowl-shaped topographic depression.</span></p>
 
 <p><span class="chinese">这些盆地在地形图中很明显。</span><span class="english">These basins are evident in the topographic image.</span></p>

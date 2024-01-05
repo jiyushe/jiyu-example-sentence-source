@@ -1,5 +1,7 @@
 # sash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sash.md)
+
 <p><span class="chinese">我的腰带这样行吗？</span><span class="english">Is my sash right?</span></p>
 
 <p><span class="chinese">绦带关系在腰部。</span><span class="english">Sash belt ties at waist.</span></p>

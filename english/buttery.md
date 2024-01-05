@@ -1,5 +1,7 @@
 # buttery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buttery.md)
+
 <p><span class="chinese">你可以在饮食服务处买到茶和圆面包。</span><span class="english">You could purchase tea and buns at the buttery.</span></p>
 
 <p><span class="chinese">目前，他可以使用这次食品车式的待遇来作为他战斗的力量。</span><span class="english">For now, he may use the buttery treat as a battle cry.</span></p>

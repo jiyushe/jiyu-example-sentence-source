@@ -1,5 +1,7 @@
 # dilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilation.md)
+
 <p><span class="chinese">膨胀量大于收缩量。</span><span class="english">The dilation was greater than the shrinkage.</span></p>
 
 <p><span class="chinese">瞳孔的扩张和眼睛的跟踪注视。</span><span class="english">Pupil dilation and the following of the eyes.</span></p>

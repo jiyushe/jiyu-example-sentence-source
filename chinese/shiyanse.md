@@ -1,5 +1,7 @@
 # 使眼色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyanse.md)
+
 <p><span class="chinese">那小姑娘向我使眼色。</span><span class="english">The lass winked at me.</span></p>
 
 <p><span class="chinese">“我使眼色！”小癞蛤蟆说。</span><span class="english">"I wink! "said the one.</span></p>

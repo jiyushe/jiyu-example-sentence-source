@@ -1,5 +1,7 @@
 # dander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dander.md)
+
 <p><span class="chinese">我期望你能够放下你的愤怒，只为了他。</span><span class="english">I expect that you can take off your dander only for him.</span></p>
 
 <p><span class="chinese">头皮发红很痒，常常有头皮屑。为什么会这样?。</span><span class="english">Scalp is aglow very urticant, often have dander. Why to meet such?</span></p>

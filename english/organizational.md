@@ -1,5 +1,7 @@
 # organizational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organizational.md)
+
 <p><span class="chinese">我学了组织行为学。</span><span class="english">I studies organizational behavior.</span></p>
 
 <p><span class="chinese">组织生活中存在惯性。</span><span class="english">Inertia pervades organizational life.</span></p>

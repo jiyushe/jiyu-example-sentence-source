@@ -1,5 +1,7 @@
 # bandy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandy.md)
+
 <p><span class="chinese">弯曲的腿和扭曲的指头。</span><span class="english">Bandy legs and crooked toes.</span></p>
 
 <p><span class="chinese">她想和我换一支笔。</span><span class="english">She wants to bandy a pen with me.</span></p>

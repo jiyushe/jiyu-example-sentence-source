@@ -1,5 +1,7 @@
 # musk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musk.md)
+
 <p><span class="chinese">是什麽让麝香鼠护卫它的麝香？</span><span class="english">What makes the muskrat guard his musk?</span></p>
 
 <p><span class="chinese">麝香被用作香料和兴奋剂。</span><span class="english">Musk is used for perfumes and stimulant.</span></p>

@@ -1,5 +1,7 @@
 # orgiastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orgiastic.md)
+
 <p><span class="chinese">这是多么大的狂欢啊！</span><span class="english">This is how big orgiastic ah!</span></p>
 
 <p><span class="chinese">孩子们的狂欢日即将到来。</span><span class="english">The orgiastic day of children is coming.</span></p>

@@ -1,5 +1,7 @@
 # plainness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plainness.md)
+
 <p><span class="chinese">他是一个直率的人。</span><span class="english">He is a man of plainness.</span></p>
 
 <p><span class="chinese">少许点缀，就打破平淡。</span><span class="english">A little ornament can break the plainness.</span></p>

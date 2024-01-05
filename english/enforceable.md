@@ -1,5 +1,7 @@
 # enforceable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enforceable.md)
+
 <p><span class="chinese">它不具有法律强制性</span><span class="english">It's not legally enforceable.</span></p>
 
 <p><span class="chinese">这样严竣的法令不易实施。</span><span class="english">Such a strict law is not easily enforceable.</span></p>

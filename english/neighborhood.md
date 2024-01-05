@@ -1,5 +1,7 @@
 # neighborhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neighborhood.md)
+
 <p><span class="chinese">是卡斯特罗区。</span><span class="english">it's the Castro neighborhood.</span></p>
 
 <p><span class="chinese">不要在这附近逗留。</span><span class="english">Don't go in this neighborhood.</span></p>

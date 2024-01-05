@@ -1,5 +1,7 @@
 # remade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remade.md)
+
 <p><span class="chinese">这件上衣需要返工。</span><span class="english">This jacket needs to be remade.</span></p>
 
 <p><span class="chinese">他们已改订了暑期计划。</span><span class="english">They have remade their plans for the summer vacation.</span></p>

@@ -1,5 +1,7 @@
 # mira
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mira.md)
+
 <p><span class="chinese">弥拉在心里猜测了一番。</span><span class="english">Mira made a guess mentally.</span></p>
 
 <p><span class="chinese">我是来自昴宿星高级议会的米拉。</span><span class="english">I am Mira from the Pleiadian high council.</span></p>

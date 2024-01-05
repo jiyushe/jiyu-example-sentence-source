@@ -1,5 +1,7 @@
 # hexangular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexangular.md)
+
 <p><span class="chinese">将篮体用M5的内六角紧顶螺钉固定在底座上。</span><span class="english">Fix the Basket on the base with the M5 inner hexangular set screw.</span></p>
 
 <p><span class="chinese">将毛巾架用M5的内六角紧顶螺钉固定在底座上。</span><span class="english">Fix the Towel Bar on the base with the M5 inner hexangular set screw.</span></p>

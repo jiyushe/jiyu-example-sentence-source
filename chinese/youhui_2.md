@@ -1,5 +1,7 @@
 # 油灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youhui_2.md)
+
 <p><span class="chinese">不要依靠油灰状的黏性材料。</span><span class="english">Do not depend on the putty.</span></p>
 
 <p><span class="chinese">又冷又湿，像面团——几乎像油灰。</span><span class="english">Cold, wet, doughy—like putty almost.</span></p>

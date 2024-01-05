@@ -1,5 +1,7 @@
 # invigorating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invigorating.md)
+
 <p><span class="chinese">改革就是要搞活经济。</span><span class="english">Reform means invigorating the economy.</span></p>
 
 <p><span class="chinese">在凉爽的天气里轻松地散步令人心旷神怡。</span><span class="english">A brisk walk in cool weather is invigorating.</span></p>

@@ -1,5 +1,7 @@
 # 打字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazi.md)
+
 <p><span class="chinese">你能打字吗？</span><span class="english">Can you type?</span></p>
 
 <p><span class="chinese">是的，通过电传打字电报。</span><span class="english">Yes, via teletype.</span></p>

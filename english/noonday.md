@@ -1,5 +1,7 @@
 # noonday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noonday.md)
+
 <p><span class="chinese">享受早晨的欢欣和中午的喜悦。</span><span class="english">Comfort in morning, joy in the noonday.</span></p>
 
 <p><span class="chinese">天很热，正午的阳光下，温度高达近90华氏度。</span><span class="english">It was hot, nearly 90 degrees in the noonday sun.</span></p>

@@ -1,5 +1,7 @@
 # fluorite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorite.md)
+
 <p><span class="chinese">萤石是一种常见呈晶簇产出的矿物。</span><span class="english">Fluorite is common mineral assumed druses.</span></p>
 
 <p><span class="chinese">目的研究中药紫石英使用的安全性。</span><span class="english">Objective To evaluate the security of Fluorite.</span></p>

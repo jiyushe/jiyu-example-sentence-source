@@ -1,5 +1,7 @@
 # unmanageable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmanageable.md)
+
 <p><span class="chinese">暴民们很快地变得狂暴和无法控制。</span><span class="english">The rabble soon grew violent and unmanageable.</span></p>
 
 <p><span class="chinese">随着时间的流逝，这些代码可能变得难以管理，错误很快就会乘虚而入。</span><span class="english">Over time, this code may become unmanageable and soon bugs creep in.</span></p>

@@ -1,5 +1,7 @@
 # 身先士卒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxianshizu.md)
+
 <p><span class="chinese">白羊座身先士卒，第一个闯进屋门。</span><span class="english">Aries pushes the others aside to get to the door first.</span></p>
 
 <p><span class="chinese">不管做什么事，作为一名领导者，都必须身先士卒。</span><span class="english">No matter what you do, as a leader, must take the lead.</span></p>

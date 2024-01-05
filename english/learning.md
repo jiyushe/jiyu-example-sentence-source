@@ -1,5 +1,7 @@
 # learning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/learning.md)
+
 <p><span class="chinese">你学的真快！</span><span class="english">You're learning fast.</span></p>
 
 <p><span class="chinese">她就要来学法语。</span><span class="english">She is learning French.</span></p>

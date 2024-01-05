@@ -1,5 +1,7 @@
 # 左侧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoce.md)
+
 <p><span class="chinese">左侧有一扇门半掩着。</span><span class="english">A door to the left stood _.</span></p>
 
 <p><span class="chinese">左侧有一扇门半掩着。</span><span class="english">A door to the left stood ajar.</span></p>

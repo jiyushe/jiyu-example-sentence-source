@@ -1,5 +1,7 @@
 # southampton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southampton.md)
+
 <p><span class="chinese">船停泊在南安普敦。</span><span class="english">The ship is berthed at Southampton.</span></p>
 
 <p><span class="chinese">我可以从滑多铁卢以南安普敦去吗？</span><span class="english">Can I to from Waterloo to Southampton?</span></p>

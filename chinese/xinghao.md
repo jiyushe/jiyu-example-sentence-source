@@ -1,5 +1,7 @@
 # 型号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinghao.md)
+
 <p><span class="chinese">她的文胸型号是48v。</span><span class="english">Her bra size was 48V.</span></p>
 
 <p><span class="chinese">记下钻头系列号和型号。</span><span class="english">Record bit serial number.</span></p>

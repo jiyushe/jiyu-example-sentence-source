@@ -1,5 +1,7 @@
 # eave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eave.md)
+
 <p><span class="chinese">删减窗上口和檐口之间的距离。</span><span class="english">Inbulge window head to eave distance.</span></p>
 
 <p><span class="chinese">增加窗上口和檐口之间的距离。</span><span class="english">Increase window head to eave distance.</span></p>

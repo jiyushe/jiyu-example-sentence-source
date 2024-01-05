@@ -1,5 +1,7 @@
 # brahmaputra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brahmaputra.md)
+
 <p><span class="chinese">布拉马特拉河在中国境内被称为雅鲁藏布江。</span><span class="english">Brahmaputra river is known as as Yarlung Zangbo in China.</span></p>
 
 <p><span class="chinese">黄土高原是世界最大的黄土地貌。</span><span class="english">Brahmaputra Grand Canyon is the biggest canyon in the world.</span></p>

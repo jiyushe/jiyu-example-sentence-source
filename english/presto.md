@@ -1,5 +1,7 @@
 # presto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presto.md)
+
 <p><span class="chinese">最精彩的商店购买普雷斯托比萨饼烤炉。</span><span class="english">Best of the store to buy pizza oven presto.</span></p>
 
 <p><span class="chinese">你是如何开始普雷斯托热身共计医生？</span><span class="english">How Did You Get Presto TuneUp Total Doctor?</span></p>

@@ -1,5 +1,7 @@
 # eared
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eared.md)
+
 <p><span class="chinese">一个短耳猫头鹰迎风飞在卡克托维克的风力发电机组上方。</span><span class="english">A short eared owl flies infront of Kaktovik's wind turbine.</span></p>
 
 <p><span class="chinese">还有著杰寺的很美的藏马鸡。</span><span class="english">More of the beautiful white eared pheasants of Zhujie Temple.</span></p>

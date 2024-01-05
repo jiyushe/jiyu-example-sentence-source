@@ -1,5 +1,7 @@
 # medic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medic.md)
+
 <p><span class="chinese">军医问我。</span><span class="english">The medic asked.</span></p>
 
 <p><span class="chinese">他更像一个医生。</span><span class="english">It is more like being a medic.</span></p>

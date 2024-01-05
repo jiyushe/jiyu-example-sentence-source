@@ -1,5 +1,7 @@
 # 鲜活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhuo_1.md)
+
 <p><span class="chinese">生活中的每刻都是鲜活的。</span><span class="english">Every moment of life is living.</span></p>
 
 <p><span class="chinese">生命在于鲜活心智。</span><span class="english">Life is always freshening mind.</span></p>

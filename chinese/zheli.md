@@ -1,5 +1,7 @@
 # 哲理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheli.md)
+
 <p><span class="chinese">这其中大有哲理。</span><span class="english">There is much philosophy in it.</span></p>
 
 <p><span class="chinese">历史是最富哲理的教科书。</span><span class="english">History is the most philosophical textbook.</span></p>

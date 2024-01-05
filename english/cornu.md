@@ -1,5 +1,7 @@
 # cornu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornu.md)
+
 <p><span class="chinese">结论可利用气相色谱共有峰之比鉴别羚羊角。</span><span class="english">CONCLUSION The ratio of GC peaks can be used to identify Saigae Tataricae Cornu.</span></p>
 
 <p><span class="chinese">目的建立中药材鹿茸的分子分类学鉴定试剂盒。</span><span class="english">OBJECTIVE To make the kit to identify Cornu Cervi Pantotrichum with molecular taxonomy.</span></p>

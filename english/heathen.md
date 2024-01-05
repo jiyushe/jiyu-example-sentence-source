@@ -1,5 +1,7 @@
 # heathen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heathen.md)
+
 <p><span class="chinese">有几个坏小子故意损坏了公共汽车候车亭。</span><span class="english">Some young heathen has vandalized the bus shelter.</span></p>
 
 <p><span class="chinese">一位信心伟人被一个异教君王下了逐客令！</span><span class="english">A man of faith was asked to leave by a heathen king!</span></p>

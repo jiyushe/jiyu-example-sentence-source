@@ -1,5 +1,7 @@
 # 水泄不通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixiebutong.md)
+
 <p><span class="chinese">新闻记者把她的公寓围得水泄不通。</span><span class="english">The press laid siege to her flat.</span></p>
 
 <p><span class="chinese">乐迷为了一睹乐队丰采，把大厅挤得水泄不通。</span><span class="english">Fans packed the hall to see the band.</span></p>

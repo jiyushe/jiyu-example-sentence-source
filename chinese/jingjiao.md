@@ -1,5 +1,7 @@
 # 惊叫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjiao.md)
+
 <p><span class="chinese">天羽儿惊叫。</span><span class="english">Day feather son scream.</span></p>
 
 <p><span class="chinese">一声惊叫声打破了寂静。</span><span class="english">A scream broke the silence.</span></p>

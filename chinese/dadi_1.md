@@ -1,5 +1,7 @@
 # 大堤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadi_1.md)
+
 <p><span class="chinese">他们加固了大堤以防御洪水。</span><span class="english">They fortified the dam aginst the flood.</span></p>
 
 <p><span class="chinese">在洪汛期到来之前，我们必须要抢建大堤！</span><span class="english">Before the flood season comes, we must rush to build the dam.</span></p>

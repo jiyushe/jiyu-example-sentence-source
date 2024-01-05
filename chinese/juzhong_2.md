@@ -1,5 +1,7 @@
 # 聚众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzhong_2.md)
+
 <p><span class="chinese">外面是一片聚众闹事的景象。</span><span class="english">It's a mob scene out there.</span></p>
 
 <p><span class="chinese">周五那里总是有人聚众闹事。</span><span class="english">It's always mobbed on Fridays.</span></p>

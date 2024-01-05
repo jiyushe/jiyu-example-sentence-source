@@ -1,5 +1,7 @@
 # 勉为其难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianweiqinan.md)
+
 <p><span class="chinese">让我预测25年后会发生什么有些勉为其难了。</span><span class="english">It's hard for me to predict what will happen in 25 years.</span></p>
 
 <p><span class="chinese">生活已经足够艰辛，要再多喂四张嘴也是勉为其难。</span><span class="english">Life was hard enough already without four extra mouths to feed.</span></p>

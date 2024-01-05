@@ -1,5 +1,7 @@
 # 取证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quzheng.md)
+
 <p><span class="chinese">现代国家原则上都禁止非法取证。</span><span class="english">Mod ern countries all prohibit it in principle.</span></p>
 
 <p><span class="chinese">香港资优教育学院将保存未领取证书一年。</span><span class="english">Certificates will be destroyed uncollected for ONE year.</span></p>

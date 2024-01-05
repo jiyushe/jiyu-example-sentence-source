@@ -1,5 +1,7 @@
 # 酒店
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiudian.md)
+
 <p><span class="chinese">白天鹅酒店。</span><span class="english">White swan hotel.</span></p>
 
 <p><span class="chinese">万豪酒店跟达美航空的呢？</span><span class="english">Delta Airlines’ app?</span></p>

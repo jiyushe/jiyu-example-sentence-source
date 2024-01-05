@@ -1,5 +1,7 @@
 # piedmont
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piedmont.md)
+
 <p><span class="chinese">车道山前必有路，有路我也刹不住。</span><span class="english">Lane Piedmont Road, a road I do not brake.</span></p>
 
 <p><span class="chinese">来自皮尔蒙特的清甜型汽酒。</span><span class="english">Semi-dry white sparkling wine from Piedmont.</span></p>

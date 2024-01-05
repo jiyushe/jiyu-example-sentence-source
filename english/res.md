@@ -1,5 +1,7 @@
 # res
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/res.md)
+
 <p><span class="chinese">高第的影片将可很快。</span><span class="english">High Res Videos will be available soon.</span></p>
 
 <p><span class="chinese">因为这些代码没有改变。</span><span class="english">res Because the code doesn't change res.</span></p>

@@ -1,5 +1,7 @@
 # sarcosine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarcosine.md)
+
 <p><span class="chinese">肌氨酸标准曲线可以用来定量样品中的肌氨酸。</span><span class="english">A sarcosine standard curve is generated to quantify sarcosine in the samples.</span></p>
 
 <p><span class="chinese">发荧光的样品量越多，或者颜色越鲜艳，说明肌氨酸水平较低。</span><span class="english">The more the samples fluoresced, or glowed, the lower the level of sarcosine.</span></p>

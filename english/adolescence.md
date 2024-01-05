@@ -1,5 +1,7 @@
 # adolescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adolescence.md)
+
 <p><span class="chinese">她会再来一次“青春期”。</span><span class="english">She goes through adolescence twice.</span></p>
 
 <p><span class="chinese">是的，青春期是一个不好过的时期。</span><span class="english">Yes, adolescence can be a trying time.</span></p>

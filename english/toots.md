@@ -1,5 +1,7 @@
 # toots
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toots.md)
+
 <p><span class="chinese">图茨先生是穿着丧服的。</span><span class="english">Mr Toots was dressed in mourning.</span></p>
 
 <p><span class="chinese">很多的茎和根都是辐射对称的。</span><span class="english">Many stems and toots show radial symmetry.</span></p>

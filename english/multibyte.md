@@ -1,5 +1,7 @@
 # multibyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multibyte.md)
+
 <p><span class="chinese">代码转换成多字节编码。</span><span class="english">Code conversion to multibyte encodings.</span></p>
 
 <p><span class="chinese">的方法来确定是否一个字符是多字节？</span><span class="english">Way to determine if a charset is multibyte?</span></p>

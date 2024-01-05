@@ -1,5 +1,7 @@
 # guiltily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guiltily.md)
+
 <p><span class="chinese">他们表现出内疚了吗？</span><span class="english">Did they behave guiltily?</span></p>
 
 <p><span class="chinese">我进来时，她内疚地抬起了头。</span><span class="english">She looked up guiltily as I came in.</span></p>

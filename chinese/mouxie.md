@@ -1,5 +1,7 @@
 # 某些
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mouxie.md)
+
 <p><span class="chinese">某些情况下，是的。</span><span class="english">In some cases, yes.</span></p>
 
 <p><span class="chinese">某些女人喜欢它。</span><span class="english">Some women like it.</span></p>

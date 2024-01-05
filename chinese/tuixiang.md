@@ -1,5 +1,7 @@
 # 推想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuixiang.md)
+
 <p><span class="chinese">这一推想很重要。</span><span class="english">This is an important formulation.</span></p>
 
 <p><span class="chinese">我的推想已经证实了！</span><span class="english">My reckon have been already confirmed!</span></p>

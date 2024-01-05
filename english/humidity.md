@@ -1,5 +1,7 @@
 # humidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humidity.md)
+
 <p><span class="chinese">土壤潮湿有助于植物生长。</span><span class="english">The humidity of soil helps to grow.</span></p>
 
 <p><span class="chinese">生石灰湿度高于正常值。</span><span class="english">Humidity of quick lime above normal.</span></p>

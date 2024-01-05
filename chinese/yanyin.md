@@ -1,5 +1,7 @@
 # 宴饮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyin.md)
+
 <p><span class="chinese">他们回到家，通宵宴饮。</span><span class="english">They returned home to feast away the night.</span></p>
 
 <p><span class="chinese">还有很多宴饮歌待我去唱。</span><span class="english">So many drinking songs were waiting to be sung.</span></p>

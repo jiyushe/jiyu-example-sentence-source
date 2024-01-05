@@ -1,5 +1,7 @@
 # constitutional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constitutional.md)
+
 <p><span class="chinese">你可以专攻宪法，</span><span class="english">You can specialize in constitutional law,</span></p>
 
 <p><span class="chinese">制宪会议达成了什么事？</span><span class="english">What happened at the Constitutional Convention?</span></p>

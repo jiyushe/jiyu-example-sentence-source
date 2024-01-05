@@ -1,5 +1,7 @@
 # 比值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhi_4.md)
+
 <p><span class="chinese">储蓄率的比值是净数值。</span><span class="english">The ratio is a net figure.</span></p>
 
 <p><span class="chinese">比值会接近一个确定的极限值</span><span class="english">the ratio will approach a definite limit.</span></p>

@@ -1,5 +1,7 @@
 # 立春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lichun.md)
+
 <p><span class="chinese">你知道立春的由来吗？</span><span class="english">Do you know the origin of Spring begins?</span></p>
 
 <p><span class="chinese">“立春”拉开了春季的帷幕。</span><span class="english">Start of Spring lifts the curtain of spring.</span></p>

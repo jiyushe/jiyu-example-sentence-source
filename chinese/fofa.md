@@ -1,5 +1,7 @@
 # 佛法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fofa.md)
+
 <p><span class="chinese">谁用佛法护佑我们？</span><span class="english">who blesses us with the Dharma?</span></p>
 
 <p><span class="chinese">你参加过佛法课程吗？</span><span class="english">Have you attended Dharma classes?</span></p>

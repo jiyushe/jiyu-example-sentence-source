@@ -1,5 +1,7 @@
 # teeming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teeming.md)
+
 <p><span class="chinese">这条河是鱼多。</span><span class="english">This river is teeming with fish.</span></p>
 
 <p><span class="chinese">每年的这个时候，河里都是鱼。</span><span class="english">This time of year, rivers are teeming with fish.</span></p>

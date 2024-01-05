@@ -1,5 +1,7 @@
 # firehouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firehouse.md)
+
 <p><span class="chinese">他们可能在消防队。</span><span class="english">They may be at the firehouse.</span></p>
 
 <p><span class="chinese">这个教堂、那个公园、这个公墓、那个消防站等等。</span><span class="english">This church. That park. This cemetery. That firehouse.</span></p>

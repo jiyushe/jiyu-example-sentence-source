@@ -1,5 +1,7 @@
 # presupposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presupposition.md)
+
 <p><span class="chinese">这是个人前期预设的结果。</span><span class="english">It is the outcome of presupposition.</span></p>
 
 <p><span class="chinese">语义预设和语义蕴涵关系。</span><span class="english">The relation of Semantic Presupposition and Semantic Entailment.</span></p>

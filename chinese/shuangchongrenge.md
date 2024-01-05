@@ -1,5 +1,7 @@
 # 双重人格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangchongrenge.md)
+
 <p><span class="chinese">为什么我的双重人格让我好受伤？</span><span class="english">Why does my dual personality make me good get hurt?</span></p>
 
 <p><span class="chinese">双重人格需要用双重谎言来支撑。</span><span class="english">The double-edged lies needed to be sustain a double-edged life.</span></p>

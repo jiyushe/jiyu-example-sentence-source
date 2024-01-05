@@ -1,5 +1,7 @@
 # 上门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangmen.md)
+
 <p><span class="chinese">我要去上门推销。</span><span class="english">I'm going on sales calls.</span></p>
 
 <p><span class="chinese">你需要妹妹上门服务吗？</span><span class="english">You need to sister-site service?</span></p>

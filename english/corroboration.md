@@ -1,5 +1,7 @@
 # corroboration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corroboration.md)
+
 <p><span class="chinese">有必要更明确地进一步证实。</span><span class="english">Definitely more independent corroboration is necessary.</span></p>
 
 <p><span class="chinese">第一章探讨了补强证据规则的基础理论。</span><span class="english">The first chapter explores basic theory of rule of corroboration.</span></p>

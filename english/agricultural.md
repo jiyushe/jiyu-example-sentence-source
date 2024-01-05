@@ -1,5 +1,7 @@
 # agricultural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agricultural.md)
+
 <p><span class="chinese">美国是农业的超级大国。</span><span class="english">The US is the agricultural superpower.</span></p>
 
 <p><span class="chinese">把他誉为“农技铁人”。</span><span class="english">Put him as the "Agricultural Iron Man."</span></p>

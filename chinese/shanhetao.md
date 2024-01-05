@@ -1,5 +1,7 @@
 # 山核桃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanhetao.md)
+
 <p><span class="chinese">中国山核桃的一个新变种——大别山山核桃。</span><span class="english">A new variety of Carya in China.</span></p>
 
 <p><span class="chinese">他说，“山核桃只是有点点小贵。</span><span class="english">Pecans are "just a small luxury."</span></p>

@@ -1,5 +1,7 @@
 # 升高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenggao.md)
+
 <p><span class="chinese">升高，-你确定？</span><span class="english">Higher. -Really?</span></p>
 
 <p><span class="chinese">我们升高压强。</span><span class="english">We raise the pressure.</span></p>

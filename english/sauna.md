@@ -1,5 +1,7 @@
 # sauna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sauna.md)
+
 <p><span class="chinese">热得像在蒸桑拿。</span><span class="english">It's as hot as in a sauna.</span></p>
 
 <p><span class="chinese">在芬兰，要坚持桑拿浴。</span><span class="english">Stick to the sauna in Finland.</span></p>

@@ -1,5 +1,7 @@
 # amplifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amplifier.md)
+
 <p><span class="chinese">电子管放大器?。</span><span class="english">VTA? Vacuum Tube Amplifier?</span></p>
 
 <p><span class="chinese">算值控制放大器?。</span><span class="english">VCA? Value Control Amplifier?</span></p>

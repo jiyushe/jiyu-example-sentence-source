@@ -1,5 +1,7 @@
 # rbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rbs.md)
+
 <p><span class="chinese">总部设在爱丁堡的苏格兰皇家银行上个月参加了资产保险计划。</span><span class="english">Edinburgh-based RBS joined the asset insurance program last month.</span></p>
 
 <p><span class="chinese">在过去两年中，苏格兰皇家银行已经拓展了在亚太地区的立足点。</span><span class="english">Over the past two years RBS has expanded its Asia- Pacific footprint.</span></p>

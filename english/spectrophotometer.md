@@ -1,5 +1,7 @@
 # spectrophotometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectrophotometer.md)
+
 <p><span class="chinese">方法采用红外分光光度计测定。</span><span class="english">Methods Determination of the use of infrared spectrophotometer.</span></p>
 
 <p><span class="chinese">把他们放在光电比色计或分光光度计上进行测定。</span><span class="english">Submit them to test on a photoelectric colorimeter or spectrophotometer.</span></p>

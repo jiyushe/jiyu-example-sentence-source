@@ -1,5 +1,7 @@
 # 败家子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baijiazi_1.md)
+
 <p><span class="chinese">他是个败家子.</span><span class="english">He's a black sheep.</span></p>
 
 <p><span class="chinese">他是个败家子。</span><span class="english">He is a black sheep.</span></p>

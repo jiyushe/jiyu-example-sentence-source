@@ -1,5 +1,7 @@
 # odious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odious.md)
+
 <p><span class="chinese">出来，欧迪亚斯。</span><span class="english">Come out, Odious.</span></p>
 
 <p><span class="chinese">恶债不予偿还。</span><span class="english">Odious debt is not repayable.</span></p>

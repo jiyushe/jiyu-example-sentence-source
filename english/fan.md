@@ -1,5 +1,7 @@
 # fan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fan.md)
+
 <p><span class="chinese">李凡说到。</span><span class="english">Li Fan said.</span></p>
 
 <p><span class="chinese">培根的大粉丝？</span><span class="english">Big fan of bacon?</span></p>

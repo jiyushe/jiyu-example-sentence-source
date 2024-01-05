@@ -1,5 +1,7 @@
 # reportedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reportedly.md)
+
 <p><span class="chinese">据说他攀法接近佤联军。</span><span class="english">He is reportedly close to the UWSA.</span></p>
 
 <p><span class="chinese">报告说大约70只土罐已经被盗走。</span><span class="english">Around 70 amphoras were reportedly taken.</span></p>

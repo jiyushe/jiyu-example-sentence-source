@@ -1,5 +1,7 @@
 # coastland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coastland.md)
+
 <p><span class="chinese">海洋渔业是浙江沿海地区的一项重要活动。</span><span class="english">Marine fishery is an important activity throughout coastland in Zhejiang province.</span></p>
 
 <p><span class="chinese">沿海地区，海陆风为污染物重要传输因子之一。</span><span class="english">In order to understand influence of sea- land breeze on air pollution in the coastland.</span></p>

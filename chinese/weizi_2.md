@@ -1,5 +1,7 @@
 # 帷子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizi_2.md)
+
 <p><span class="chinese">院子四面的帷子都是用捻的细麻做的。</span><span class="english">All the hangings around the court were of fine twined linen.</span></p>
 
 <p><span class="chinese">院子四面的帷子，都是用捻的细麻做的。</span><span class="english">All the curtains around the courtyard were of finely twisted linen.</span></p>

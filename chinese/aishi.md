@@ -1,5 +1,7 @@
 # 碍事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aishi.md)
+
 <p><span class="chinese">这桌子放在门口太碍事了.</span><span class="english">The table at door is in the way.</span></p>
 
 <p><span class="chinese">我一直嫌那伞架碍事。</span><span class="english">I never like that umbrella stand.</span></p>

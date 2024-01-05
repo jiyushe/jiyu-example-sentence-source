@@ -1,5 +1,7 @@
 # 九州
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzhou.md)
+
 <p><span class="chinese">月儿弯弯照九州，几家欢乐几家愁。</span><span class="english">The moon shines on Kyushu, grad.</span></p>
 
 <p><span class="chinese">清秋烟雨，情满九州。</span><span class="english">A misty rain, feeling full of kyushu.</span></p>

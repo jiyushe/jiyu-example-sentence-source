@@ -1,5 +1,7 @@
 # raf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raf.md)
+
 <p><span class="chinese">此外，英国皇家空军有一个比利时人，叫让。德塞利兹。</span><span class="english">Also in the RAF was a Belgian named Jean de Selys.</span></p>
 
 <p><span class="chinese">英国皇家空军111中队，在声明中说。</span><span class="english">Mark Gorringe, of the RAF s 111 Squadron, said in a statement.</span></p>

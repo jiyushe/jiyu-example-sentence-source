@@ -1,5 +1,7 @@
 # 民意测验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minyiceyan.md)
+
 <p><span class="chinese">我想让格林伯格做我的民意测验人。</span><span class="english">I wanted Greenberg to be my pollster.</span></p>
 
 <p><span class="chinese">他认为民意测验毫无意义而不加考虑。</span><span class="english">He dismisses the opinion polls as worthless.</span></p>

@@ -1,5 +1,7 @@
 # efficaciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/efficaciously.md)
+
 <p><span class="chinese">利用PCR技术检测性病病原体，可有效的预防，治疗和控制性病。</span><span class="english">Testing VD pathogen through PCR may efficaciously prevent, cure and control VD.</span></p>
 
 <p><span class="chinese">要真正有效地实现低代价发展，关键是要构建一种低代价的发展模式。</span><span class="english">To fulfill it efficaciously , the key is to constitute a low-cost developing pattern.</span></p>

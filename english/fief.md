@@ -1,5 +1,7 @@
 # fief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fief.md)
+
 <p><span class="chinese">第一章封土骑士军役制度。</span><span class="english">Chapter 1 Fief military service system.</span></p>
 
 <p><span class="chinese">第二章货币封土军役制度。</span><span class="english">Chapter 2 Money fief military service system.</span></p>

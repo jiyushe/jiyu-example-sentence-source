@@ -1,5 +1,7 @@
 # entomology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entomology.md)
+
 <p><span class="chinese">他爱好昆虫学。</span><span class="english">His hobby is entomology.</span></p>
 
 <p><span class="chinese">澳大利亚昆虫学杂志。</span><span class="english">Australian Journal of Entomology.</span></p>

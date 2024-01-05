@@ -1,5 +1,7 @@
 # 泄洪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiehong.md)
+
 <p><span class="chinese">2002年泄洪后检查未发现损坏现象。</span><span class="english">After 2002 flood, by inspecting again no damage was found.</span></p>
 
 <p><span class="chinese">2010年7月初，堰塞湖终于通过泄洪渠开始放水。</span><span class="english">In early July 2010, the lake finally began flowing over the spillway.</span></p>

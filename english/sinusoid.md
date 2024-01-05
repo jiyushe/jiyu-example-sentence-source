@@ -1,5 +1,7 @@
 # sinusoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinusoid.md)
+
 <p><span class="chinese">提出了一种新的正弦信号频率估计方法。</span><span class="english">A new method for estimating the frequency of a sinusoid signal is proposed.</span></p>
 
 <p><span class="chinese">正弦波模型已被证明是一种行之有效的语音信号编码技术。</span><span class="english">Sinusoid modeling has proven to be an efficient technique in speech coding.</span></p>

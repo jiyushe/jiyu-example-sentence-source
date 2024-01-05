@@ -1,5 +1,7 @@
 # anticipation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticipation.md)
+
 <p><span class="chinese">她期待的声音有些颤抖。</span><span class="english">Her voice trembled with anticipation.</span></p>
 
 <p><span class="chinese">那条狗期待着狗食而口水直流。</span><span class="english">The dog drooled in anticipation of his dinner.</span></p>

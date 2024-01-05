@@ -1,5 +1,7 @@
 # supranational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supranational.md)
+
 <p><span class="chinese">美国方面不愿将法律权利交付给某种超国家权威。</span><span class="english">America was reluctant to cede any legal power to a supranational authority.</span></p>
 
 <p><span class="chinese">鉴于不列颠辉煌的历史，很难令它向一个超国家的组织屈服。</span><span class="english">Surrendering to supranational rule is hard for Britain given its celebrated past.</span></p>

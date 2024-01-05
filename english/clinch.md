@@ -1,5 +1,7 @@
 # clinch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clinch.md)
+
 <p><span class="chinese">钉子会钉牢的。</span><span class="english">The nails will clinch.</span></p>
 
 <p><span class="chinese">她需要得9.75分才能赢得冠军。</span><span class="english">She needs 9.75 to clinch the title.</span></p>

@@ -1,5 +1,7 @@
 # 团体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuanti.md)
+
 <p><span class="chinese">这就是这个新团体。</span><span class="english">That's this new group.</span></p>
 
 <p><span class="chinese">团体私教训练。</span><span class="english">Group Personal Training.</span></p>

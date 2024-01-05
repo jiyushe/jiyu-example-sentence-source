@@ -1,5 +1,7 @@
 # gable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gable.md)
+
 <p><span class="chinese">带天窗的斜屋顶连接着两边的山墙。</span><span class="english">It has a dormer roof joining both gable ends.</span></p>
 
 <p><span class="chinese">学会说英语是事不宜迟。</span><span class="english">Being gable to speak English is a top priority.</span></p>

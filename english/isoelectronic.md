@@ -1,5 +1,7 @@
 # isoelectronic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isoelectronic.md)
+
 <p><span class="chinese">氯离子，与氩的电子数相同。</span><span class="english">Chloride minus. Isoelectronic with argon.</span></p>
 
 <p><span class="chinese">好，这就是等电子离子的概念。</span><span class="english">So, that's the idea of isoelectronic ions.</span></p>

@@ -1,5 +1,7 @@
 # graduate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graduate.md)
+
 <p><span class="chinese">我是理式学院毕业生。</span><span class="english">I am a college graduate.</span></p>
 
 <p><span class="chinese">你儿子啥时候毕业？""</span><span class="english">When does your son graduate?</span></p>

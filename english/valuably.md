@@ -1,5 +1,7 @@
 # valuably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valuably.md)
+
 <p><span class="chinese">我只买有多宝的六合彩！</span><span class="english">I only buy have valuably six gather the color!</span></p>
 
 <p><span class="chinese">但是目前可谓是有价无车。</span><span class="english">But does not have at present the vehicle valuably.</span></p>

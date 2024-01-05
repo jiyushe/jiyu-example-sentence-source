@@ -1,5 +1,7 @@
 # 学说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueshuo.md)
+
 <p><span class="chinese">这就是巴甫洛夫学说。</span><span class="english">It is Pavlovian.</span></p>
 
 <p><span class="chinese">有这样几个学说</span><span class="english">There were doctrines.</span></p>

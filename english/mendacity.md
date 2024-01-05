@@ -1,5 +1,7 @@
 # mendacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mendacity.md)
+
 <p><span class="chinese">这也说明了他的狡猾。</span><span class="english">It also accounts for his mendacity and dishonesty.</span></p>
 
 <p><span class="chinese">他现在能担得起一条欺君之罪么？</span><span class="english">Can he can bear duty the offense of a mendacity marquis now?</span></p>

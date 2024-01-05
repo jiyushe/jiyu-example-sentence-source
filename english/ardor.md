@@ -1,5 +1,7 @@
 # ardor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ardor.md)
+
 <p><span class="chinese">他满腔热忱地从事工作。</span><span class="english">He took up his pursuit with ardor.</span></p>
 
 <p><span class="chinese">希望，曾用马刺煽旺你的热情。</span><span class="english">Hope, whose spur fanned your ardor into flame.</span></p>

@@ -1,5 +1,7 @@
 # 战无不胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanwubusheng.md)
+
 <p><span class="chinese">我们是战无不胜的。</span><span class="english">We were invincible.</span></p>
 
 <p><span class="chinese">因此，爱情战无不胜，只战不胜贫穷与牙痛。</span><span class="english">Love conquers all things except poverty and toothache.</span></p>

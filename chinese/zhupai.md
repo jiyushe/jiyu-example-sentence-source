@@ -1,5 +1,7 @@
 # 猪排
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhupai.md)
+
 <p><span class="chinese">我见到件猪排啊！</span><span class="english">I saw a porkchop!</span></p>
 
 <p><span class="chinese">有猪排和米饭调制的肉饭。</span><span class="english">Pork chops with rice pilau.</span></p>

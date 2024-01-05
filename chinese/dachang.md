@@ -1,5 +1,7 @@
 # 大氅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachang.md)
+
 <p><span class="chinese">用灰色的大氅裹你外形。</span><span class="english">Wrap thy form in a mantle grey.</span></p>
 
 <p><span class="chinese">借来的大氅不暖身。</span><span class="english">A borrowed cloak does not keep one warm.</span></p>

@@ -1,5 +1,7 @@
 # precipitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precipitable.md)
+
 <p><span class="chinese">大气总水汽量是天文观测和气象科学领域最为重要的参量之一。</span><span class="english">The total precipitable water in atmosphere is astronomical observation and meteorology.</span></p>
 
 <p><span class="chinese">介绍一种测量大气水汽总量的新方法和仪器。</span><span class="english">A new instrument for measuring the total precipitable water in the atmosphere is introduced.</span></p>

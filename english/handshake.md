@@ -1,5 +1,7 @@
 # handshake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handshake.md)
+
 <p><span class="chinese">例1—WebSocket升级握手</span><span class="english">Example 1—WebSocket upgrade handshake</span></p>
 
 <p><span class="chinese">同别人握手要显得亲切，不要冷若冰霜。</span><span class="english">Let your handshake be firm, not fishy.</span></p>

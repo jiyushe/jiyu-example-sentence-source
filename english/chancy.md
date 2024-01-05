@@ -1,5 +1,7 @@
 # chancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chancy.md)
+
 <p><span class="chinese">这是一次邂逅相遇。</span><span class="english">It was a chancy meeting.</span></p>
 
 <p><span class="chinese">在新加坡的邂逅更是加剧了这种情况。</span><span class="english">The chancy meeting in Singapore made the situation worse.</span></p>

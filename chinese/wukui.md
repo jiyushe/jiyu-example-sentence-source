@@ -1,5 +1,7 @@
 # 无愧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wukui.md)
+
 <p><span class="chinese">上帝选择了你，你受之无愧否？</span><span class="english">God chose you.</span></p>
 
 <p><span class="chinese">上帝选择了你，你受之无愧否？</span><span class="english">God chose you. Did you deserve it?</span></p>

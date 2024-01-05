@@ -1,5 +1,7 @@
 # 别有洞天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bieyoudongtian.md)
+
 <p><span class="chinese">一则此处风光独特，别有洞天。</span><span class="english">A unique scenery here, hidden but beautiful spot.</span></p>
 
 <p><span class="chinese">没想到，一个外藏椁里还“别有洞天”。</span><span class="english">Unexpectedly, a wife, also in possession of "Space."</span></p>

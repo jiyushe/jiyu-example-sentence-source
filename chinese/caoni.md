@@ -1,5 +1,7 @@
 # 草拟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoni.md)
+
 <p><span class="chinese">草拟合同。</span><span class="english">Draw up the contract.</span></p>
 
 <p><span class="chinese">草拟一个脚本用于指导你的拍摄。</span><span class="english">Draft a script to guide your shoot.</span></p>

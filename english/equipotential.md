@@ -1,5 +1,7 @@
 # equipotential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equipotential.md)
+
 <p><span class="chinese">表面本身是一等位面。</span><span class="english">The surface itself is an equipotential.</span></p>
 
 <p><span class="chinese">那份报导是有关于等位面的。</span><span class="english">The report is about equipotential surface.</span></p>

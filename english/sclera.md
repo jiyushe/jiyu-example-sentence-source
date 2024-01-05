@@ -1,5 +1,7 @@
 # sclera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sclera.md)
+
 <p><span class="chinese">它们是由结膜和巩膜间的出血造成的。</span><span class="english">They are caused by bleeding between the conjunctiva and the sclera.</span></p>
 
 <p><span class="chinese">通过这样处理可有效的将虹膜与瞳孔、巩膜分离。</span><span class="english">Such treatment can be effective to separate iris, pupil, and sclera.</span></p>

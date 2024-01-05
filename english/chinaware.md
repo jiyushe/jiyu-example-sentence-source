@@ -1,5 +1,7 @@
 # chinaware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chinaware.md)
+
 <p><span class="chinese">一套瓷器。</span><span class="english">A set of chinaware.</span></p>
 
 <p><span class="chinese">我在找瓷器区。</span><span class="english">I'm looking for chinaware.</span></p>

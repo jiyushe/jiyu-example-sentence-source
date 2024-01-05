@@ -1,5 +1,7 @@
 # 浏览
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liulan.md)
+
 <p><span class="chinese">浏览或购买维克森今天。</span><span class="english">Browse or Buy Vixen Today.</span></p>
 
 <p><span class="chinese">是反复浏览一份目录。</span><span class="english">It's de-scanning a catalog.</span></p>

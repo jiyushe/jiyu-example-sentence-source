@@ -1,5 +1,7 @@
 # broach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broach.md)
+
 <p><span class="chinese">我们要钻孔开启另一个酒桶吗?</span><span class="english">Shall we broach another cask of wine?</span></p>
 
 <p><span class="chinese">我想向她提出这个问题。</span><span class="english">I would like to broach the subject to her.</span></p>

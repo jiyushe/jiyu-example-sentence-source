@@ -1,5 +1,7 @@
 # 他妈的
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tamade.md)
+
 <p><span class="chinese">这他妈的是怎么回事？</span><span class="english">What is this shite?</span></p>
 
 <p><span class="chinese">什么他妈的生活。</span><span class="english">What a fuckin’ life.</span></p>

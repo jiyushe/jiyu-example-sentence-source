@@ -1,5 +1,7 @@
 # gassed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gassed.md)
+
 <p><span class="chinese">她在战争中受到毒气的严重伤害。</span><span class="english">She was badly gassed in the war.</span></p>
 
 <p><span class="chinese">我知道，我几年前加过油。</span><span class="english">I know, I gassed up a few years ago.</span></p>

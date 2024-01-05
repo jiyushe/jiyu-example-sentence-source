@@ -1,5 +1,7 @@
 # charles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charles.md)
+
 <p><span class="chinese">查尔斯·斯坎隆报道。</span><span class="english">Charles Scanlon reports.</span></p>
 
 <p><span class="chinese">你是查尔斯-W-格瑞姆斯？</span><span class="english">Are you Charles W.Grimes?</span></p>

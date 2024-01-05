@@ -1,5 +1,7 @@
 # impervious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impervious.md)
+
 <p><span class="chinese">在高剂量的情况下，PCP可以让人失去痛感。</span><span class="english">PCP can make one nearly impervious to pain at high doses.</span></p>
 
 <p><span class="chinese">对尼尔的愠怒和甜言蜜语，他都无动于衷。</span><span class="english">He remained impervious to all nell's sulks and blandishments.</span></p>

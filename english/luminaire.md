@@ -1,5 +1,7 @@
 # luminaire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luminaire.md)
+
 <p><span class="chinese">灯具相对水平方向向上倾斜的角度。</span><span class="english">Upward inclination of a luminaire from the horizontal.</span></p>
 
 <p><span class="chinese">灯具应该在额定功率和频率下使用。</span><span class="english">Luminaire shall only be used with rated voltage and frequency.</span></p>

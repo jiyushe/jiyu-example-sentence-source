@@ -1,5 +1,7 @@
 # 破土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/potu.md)
+
 <p><span class="chinese">植物的嫩芽破土而出。</span><span class="english">Plants sprout out of the ground.</span></p>
 
 <p><span class="chinese">第一枝嫩芽破土而出。</span><span class="english">The first bud come out exaltedly.</span></p>

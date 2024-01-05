@@ -1,5 +1,7 @@
 # intercessor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercessor.md)
+
 <p><span class="chinese">天主教徒向玛利亚祈祷，并把她看作仲裁者。</span><span class="english">Catholics pray to Mary as an intercessor.</span></p>
 
 <p><span class="chinese">基督在世上的生活中已经开始祂代祷的职事。</span><span class="english">In His life on earth Christ began His work as Intercessor.</span></p>

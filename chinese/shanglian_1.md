@@ -1,5 +1,7 @@
 # 赏脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanglian_1.md)
+
 <p><span class="chinese">能赏脸同我跳支舞吗？</span><span class="english">Can I have the pleasure of dance?</span></p>
 
 <p><span class="chinese">你能否赏脸和我跳一支华尔兹舞呢？</span><span class="english">Can you oblige me with a waltz dance?</span></p>

@@ -1,5 +1,7 @@
 # 爱美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aimei_1.md)
+
 <p><span class="chinese">老实说，你爱美吗？</span><span class="english">To be frank, do you love beauty?</span></p>
 
 <p><span class="chinese">爱美是人的天性。</span><span class="english">It's human nature to love beauty.</span></p>

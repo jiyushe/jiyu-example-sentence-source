@@ -1,5 +1,7 @@
 # 润饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/runshi_1.md)
+
 <p><span class="chinese">他的论文尚需润饰。</span><span class="english">His essay needs polishing.</span></p>
 
 <p><span class="chinese">选择润饰工具。</span><span class="english">Selects the Retouch tools.</span></p>

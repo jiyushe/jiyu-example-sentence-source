@@ -1,5 +1,7 @@
 # repartition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repartition.md)
+
 <p><span class="chinese">可以对我的硬盘进行重新分区吗？</span><span class="english">Can I repartition my hard disk?</span></p>
 
 <p><span class="chinese">高光亮度、优良的整平性和分散能力。</span><span class="english">Excellent bright, levelling, metal repartition and good covering power.</span></p>

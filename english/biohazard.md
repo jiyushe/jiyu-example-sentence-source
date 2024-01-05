@@ -1,5 +1,7 @@
 # biohazard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biohazard.md)
+
 <p><span class="chinese">浣熊市?。</span><span class="english">Raccoon city? biohazard?</span></p>
 
 <p><span class="chinese">用生物危害袋安全地运送标本。</span><span class="english">The specimen will be safely transferred into a biohazard bag.</span></p>

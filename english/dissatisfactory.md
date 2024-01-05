@@ -1,5 +1,7 @@
 # dissatisfactory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissatisfactory.md)
+
 <p><span class="chinese">一个不满意的顾客足以影响25人的购买意愿。</span><span class="english">A dissatisfactory client enough affects 25 people buy intention.</span></p>
 
 <p><span class="chinese">而另一些学生逃课则是因为教学实在是过于差强人意。</span><span class="english">Others play truant because the teaching is truly dissatisfactory.</span></p>

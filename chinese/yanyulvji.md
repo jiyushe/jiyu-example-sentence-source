@@ -1,5 +1,7 @@
 # 严于律己
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyulvji.md)
+
 <p><span class="chinese">严于律己，更要宽以待人。</span><span class="english">Be strict to oneself , be more tolerant to others.</span></p>
 
 <p><span class="chinese">她严于律己，乐于助人，在工作和生活上对自己严格要求。</span><span class="english">She is very strict with herself in her work and daily life.</span></p>

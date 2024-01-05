@@ -1,5 +1,7 @@
 # 罪犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuifan.md)
+
 <p><span class="chinese">罪犯无视法律。</span><span class="english">Criminals defy the law.</span></p>
 
 <p><span class="chinese">我感觉像个罪犯。</span><span class="english">I felt like a criminal.</span></p>

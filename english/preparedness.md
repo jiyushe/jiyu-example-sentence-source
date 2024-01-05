@@ -1,5 +1,7 @@
 # preparedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preparedness.md)
+
 <p><span class="chinese">有必要拟写、演练和检验防范计划。</span><span class="english">Preparedness plans need to be written, rehearsed and tested.</span></p>
 
 <p><span class="chinese">中国军队应该做些什么来提高他们的战斗准备？</span><span class="english">What should Chinese military do to improve their battle preparedness?</span></p>

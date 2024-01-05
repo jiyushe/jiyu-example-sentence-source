@@ -1,5 +1,7 @@
 # 蓬蓬勃勃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengpengbobo.md)
+
 <p><span class="chinese">到了90年代，狄金森研究才蓬蓬勃勃地开展起来。</span><span class="english">In 90s, the study about her began to develop vigorously.</span></p>
 
 <p><span class="chinese">无论是的炎热哒夏天，或者是严寒哒冬天，它总是的那么哒蓬蓬勃勃。</span><span class="english">Whether hot summer or cold winter, it is always less of thriving.</span></p>

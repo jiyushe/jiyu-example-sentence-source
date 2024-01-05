@@ -1,5 +1,7 @@
 # 保守主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoshouzhuyi.md)
+
 <p><span class="chinese">他自称是一个保守主义者。</span><span class="english">He listed himself as a conservative.</span></p>
 
 <p><span class="chinese">这里还有个保守主义的问题</span><span class="english">Then there's this issue of conservatism.</span></p>

@@ -1,5 +1,7 @@
 # controller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/controller.md)
+
 <p><span class="chinese">虚拟逻辑控制器。</span><span class="english">Vitual Logic Controller.</span></p>
 
 <p><span class="chinese">就从其控制器说起。</span><span class="english">Start with its controller.</span></p>

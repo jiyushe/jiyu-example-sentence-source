@@ -1,5 +1,7 @@
 # oxbridge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxbridge.md)
+
 <p><span class="chinese">他的随笔或许带有陈腐的学究气。</span><span class="english">His essays can be Oxbridge musty.</span></p>
 
 <p><span class="chinese">人们只要一提到牛津剑桥大学就会很兴奋。</span><span class="english">People always go into raptures at the mere mention of Oxbridge.</span></p>

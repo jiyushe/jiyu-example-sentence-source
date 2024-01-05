@@ -1,5 +1,7 @@
 # regroup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regroup.md)
+
 <p><span class="chinese">他们会在后方重新组合出现。</span><span class="english">It would regroup and reappear in the rear.</span></p>
 
 <p><span class="chinese">享受这一刻，如果有必要的话重新部署一下。</span><span class="english">Be in the moment and take time to regroup if need be.</span></p>

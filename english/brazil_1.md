@@ -1,5 +1,7 @@
 # Brazil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brazil_1.md)
+
 <p><span class="chinese">巴西队后来2-1获胜。</span><span class="english">Brazil went on to win 2-1.</span></p>
 
 <p><span class="chinese">中国队和巴西队打成平局。</span><span class="english">China drew against Brazil.</span></p>

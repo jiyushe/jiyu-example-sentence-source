@@ -1,5 +1,7 @@
 # pathetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathetic.md)
+
 <p><span class="chinese">我是多么可怜啊！</span><span class="english">How pathetic I am.</span></p>
 
 <p><span class="chinese">他们看起来是多么的可怜。</span><span class="english">They look so pathetic.</span></p>

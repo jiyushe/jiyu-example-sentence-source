@@ -1,5 +1,7 @@
 # 其实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishi_1.md)
+
 <p><span class="chinese">其实不完全是。</span><span class="english">Not, quite.</span></p>
 
 <p><span class="chinese">这些问题其实暗藏玄机。</span><span class="english">Here's the gimmick.</span></p>

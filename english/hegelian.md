@@ -1,5 +1,7 @@
 # hegelian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hegelian.md)
+
 <p><span class="chinese">什么是黑格尔的理性的狡计？</span><span class="english">What is the guile of Hegelian reason?</span></p>
 
 <p><span class="chinese">是烂熟的黑格尔的艺术终结？</span><span class="english">Is the familiar art of Hegelian ended?</span></p>

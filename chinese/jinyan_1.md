@@ -1,5 +1,7 @@
 # 进言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyan_1.md)
+
 <p><span class="chinese">我们向对动物的残酷行为提出进言。</span><span class="english">We remonstrated against cruelty to animals.</span></p>
 
 <p><span class="chinese">向智者进言常常引来一场争论。</span><span class="english">A word to the wise usually starts an argument.</span></p>

@@ -1,5 +1,7 @@
 # unascertained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unascertained.md)
+
 <p><span class="chinese">并且研究了未确知正规子群。</span><span class="english">Unascertained normal subgroup is also studied.</span></p>
 
 <p><span class="chinese">文中给出了确定信比分布的途径。此外，本文还提出了“未确知数”的概念和定义。</span><span class="english">In addition, the concept and definition of unascertained number are proposed in the paper.</span></p>

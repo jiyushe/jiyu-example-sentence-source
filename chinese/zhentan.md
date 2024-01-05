@@ -1,5 +1,7 @@
 # 侦探
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhentan.md)
+
 <p><span class="chinese">艾伯林侦探“上帝会帮助我们。”</span><span class="english">Det. Aberline God help us.</span></p>
 
 <p><span class="chinese">现在侦探工作开始了。</span><span class="english">Now the detective work starts.</span></p>

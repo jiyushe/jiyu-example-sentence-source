@@ -1,5 +1,7 @@
 # 思念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sinian.md)
+
 <p><span class="chinese">思念，是一个人的兵荒马乱。</span><span class="english">Miss, is a man of war.</span></p>
 
 <p><span class="chinese">那她思念的又是谁？</span><span class="english">That she misses is Who?</span></p>

@@ -1,5 +1,7 @@
 # 顺风耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunfenger.md)
+
 <p><span class="chinese">他们可是超级顺风耳哦！</span><span class="english">They are super ears.</span></p>
 
 <p><span class="chinese">伊恩是那个矮矮的、有著一对顺风耳的男孩。</span><span class="english">Ian is the short boy whose ears stick out.</span></p>

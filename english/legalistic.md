@@ -1,5 +1,7 @@
 # legalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legalistic.md)
+
 <p><span class="chinese">从现在开始，议事日程必须是纯然采用法律行动。</span><span class="english">Instead a purely legalistic attack must be the order from now on.</span></p>
 
 <p><span class="chinese">也许他们都生长于教会oppressively守法。</span><span class="english">Maybe they were raised in a church that was oppressively legalistic.</span></p>

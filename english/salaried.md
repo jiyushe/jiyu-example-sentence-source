@@ -1,5 +1,7 @@
 # salaried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salaried.md)
+
 <p><span class="chinese">他是一个打工仔。</span><span class="english">He is a salaried man.</span></p>
 
 <p><span class="chinese">财阀职业经理人的作用。</span><span class="english">The role of salaried managers in the zaibatsu.</span></p>

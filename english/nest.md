@@ -1,5 +1,7 @@
 # nest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nest.md)
+
 <p><span class="chinese">空巢综合症？</span><span class="english">Empty Nest Syndrome?</span></p>
 
 <p><span class="chinese">回到它的巢居。</span><span class="english">Unto his nest again.</span></p>

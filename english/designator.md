@@ -1,5 +1,7 @@
 # designator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/designator.md)
+
 <p><span class="chinese">个字母的ICAO航空公司代码。</span><span class="english">A letter of ICAO airline designator code.</span></p>
 
 <p><span class="chinese">构建超时焦点多屏幕指示器</span><span class="english">Building a timeout-focus multi-screen designator</span></p>

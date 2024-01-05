@@ -1,5 +1,7 @@
 # dee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dee.md)
+
 <p><span class="chinese">嗨哟-嗨哟-嗨哟喂！</span><span class="english">A hey and a hi dee ho!</span></p>
 
 <p><span class="chinese">为泰—森配音的是迪伊·布拉德利·贝克。</span><span class="english">Thi-Sen was voiced by Dee Bradley Baker.</span></p>

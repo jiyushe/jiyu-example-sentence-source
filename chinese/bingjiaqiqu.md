@@ -1,5 +1,7 @@
 # 并驾齐驱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingjiaqiqu.md)
+
 <p><span class="chinese">他与同学们并驾齐驱。</span><span class="english">He bore up with his classmates.</span></p>
 
 <p><span class="chinese">她与她的同学们并驾齐驱。</span><span class="english">She bore up with her schoolmates.</span></p>

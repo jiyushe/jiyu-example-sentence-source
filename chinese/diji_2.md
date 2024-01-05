@@ -1,5 +1,7 @@
 # 地极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diji_2.md)
+
 <p><span class="chinese">他要执掌权柄，从这海直到那海，从大河直到地极。</span><span class="english">He will rule from sea to sea and from the River to the ends of the earth.</span></p>
 
 <p><span class="chinese">他发响声震遍天下，发电光闪到地极。</span><span class="english">He directeth it under the whole heaven, and his lightning unto the ends of the earth.</span></p>

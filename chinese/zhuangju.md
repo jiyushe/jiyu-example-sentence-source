@@ -1,5 +1,7 @@
 # 壮举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangju.md)
+
 <p><span class="chinese">届时，你会看到那一“奔月”的壮举。</span><span class="english">Then you will see the moon shot.</span></p>
 
 <p><span class="chinese">您是如何做到这一壮举的呢？</span><span class="english">How did you accomplish that feat?</span></p>

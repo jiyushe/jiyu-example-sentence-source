@@ -1,5 +1,7 @@
 # rotation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotation.md)
+
 <p><span class="chinese">有效提示的PMA图形旋转。</span><span class="english">PMA figure rotation with cue.</span></p>
 
 <p><span class="chinese">保证自动转动。</span><span class="english">Assure the self-controlled rotation.</span></p>

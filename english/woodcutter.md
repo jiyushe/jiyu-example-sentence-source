@@ -1,5 +1,7 @@
 # woodcutter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodcutter.md)
+
 <p><span class="chinese">樵夫是做什么的呀?。</span><span class="english">What does a woodcutter do?</span></p>
 
 <p><span class="chinese">维拉发现右乳有一肿块。</span><span class="english">She found a woodcutter nearby.</span></p>

@@ -1,5 +1,7 @@
 # amd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amd.md)
+
 <p><span class="chinese">最主要的原因还是市场，这是AMD从ATI那学来的。</span><span class="english">The main reason is marketing, it seems AMD is learning from ATI.</span></p>
 
 <p><span class="chinese">我们还能指望AMD在短期内降价么？想都别想！</span><span class="english">Do we expect AMD to drop its prices in response? Don't count on it.</span></p>

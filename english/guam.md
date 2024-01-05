@@ -1,5 +1,7 @@
 # guam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guam.md)
+
 <p><span class="chinese">艾莉斯，你的关岛之旅怎么样？</span><span class="english">How was your vacation to Guam , Alice?</span></p>
 
 <p><span class="chinese">昨夜，日本人进攻了威克岛。</span><span class="english">Last night, Japanese forces attacked Guam.</span></p>

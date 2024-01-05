@@ -1,5 +1,7 @@
 # patentee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patentee.md)
+
 <p><span class="chinese">申请被批准后，该单位为专利权人。</span><span class="english">After the application is approved, the entity shall be the patentee.</span></p>
 
 <p><span class="chinese">专利权人以书面声明放弃其专利权的。</span><span class="english">where the patentee abandons his or its patent right by a written declaration.</span></p>

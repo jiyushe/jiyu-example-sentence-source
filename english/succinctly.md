@@ -1,5 +1,7 @@
 # succinctly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succinctly.md)
+
 <p><span class="chinese">简洁地讲述一个故事是需要花功夫的。</span><span class="english">It takes work to tell a story succinctly.</span></p>
 
 <p><span class="chinese">你只需要简洁地表达出你的意思。</span><span class="english">You just kind of say what you mean but you say it succinctly.</span></p>

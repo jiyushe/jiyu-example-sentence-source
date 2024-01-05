@@ -1,5 +1,7 @@
 # fluoresce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluoresce.md)
+
 <p><span class="chinese">这些试剂带有不同颜色的荧光色。</span><span class="english">These chemicals fluoresce with different colours.</span></p>
 
 <p><span class="chinese">当DNA经过光束时标记物发出荧光。</span><span class="english">When the DNA pass over the beam, the labels fluoresce.</span></p>

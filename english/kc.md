@@ -1,5 +1,7 @@
 # kc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kc.md)
+
 <p><span class="chinese">在制品的压缩因子与浸灰碱条件有相关性和规律性。</span><span class="english">Kc of limed skin was related with treating conditions.</span></p>
 
 <p><span class="chinese">我可以借你的讲义吗？可以给他吗？</span><span class="english">Hey, KC. KC, can I borrow your handout? Can he have it?</span></p>

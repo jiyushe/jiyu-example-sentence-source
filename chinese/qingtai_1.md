@@ -1,5 +1,7 @@
 # 青苔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtai_1.md)
+
 <p><span class="chinese">余花落尽青苔院。</span><span class="english">I do flowers moss hospital.</span></p>
 
 <p><span class="chinese">墙上长着斑斑点点的青苔。</span><span class="english">The wall was patched with moss.</span></p>

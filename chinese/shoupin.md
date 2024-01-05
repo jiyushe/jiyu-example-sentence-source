@@ -1,5 +1,7 @@
 # 受聘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoupin.md)
+
 <p><span class="chinese">2008年杨毅受聘担任公司总经理。</span><span class="english">Mr. Yang was recruited as CEO in 2008.</span></p>
 
 <p><span class="chinese">暂时解雇不久后，工人们又再度受聘。</span><span class="english">Workers were re-employed after the layoff.</span></p>

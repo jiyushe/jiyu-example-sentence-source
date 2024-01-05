@@ -1,5 +1,7 @@
 # insurgency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insurgency.md)
+
 <p><span class="chinese">我们无法从一场叛乱中杀出一条路来。</span><span class="english">We cannot kill our way out of an insurgency.</span></p>
 
 <p><span class="chinese">那是否意味着恢复武装起义？</span><span class="english">Does this mean returning to the armed insurgency?</span></p>

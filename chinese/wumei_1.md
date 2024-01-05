@@ -1,5 +1,7 @@
 # 妩媚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumei_1.md)
+
 <p><span class="chinese">她妩媚地瞅他一眼。</span><span class="english">She ogles to him.</span></p>
 
 <p><span class="chinese">她妩媚地看着他。</span><span class="english">She ogles at him smiling.</span></p>

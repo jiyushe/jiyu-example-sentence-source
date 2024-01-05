@@ -1,5 +1,7 @@
 # shipping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipping.md)
+
 <p><span class="chinese">预知定价和运送详情请点击这里。</span><span class="english">Pricing and shipping details here.</span></p>
 
 <p><span class="chinese">货到也门的亚丁的到岸价是多少？</span><span class="english">How much is shipping to Aden, Yemen?</span></p>

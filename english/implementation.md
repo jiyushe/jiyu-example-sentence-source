@@ -1,5 +1,7 @@
 # implementation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implementation.md)
+
 <p><span class="chinese">具体实施了吗？</span><span class="english">Where’s the implementation?</span></p>
 
 <p><span class="chinese">以下是一个样例实现。</span><span class="english">Here is a sample implementation.</span></p>

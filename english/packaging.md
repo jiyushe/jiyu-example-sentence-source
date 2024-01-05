@@ -1,5 +1,7 @@
 # packaging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/packaging.md)
+
 <p><span class="chinese">我可以重新设计我的产品包装吗？</span><span class="english">Can I rework packaging design?</span></p>
 
 <p><span class="chinese">这种包装是一饱口福。</span><span class="english">This packaging is a real treat.</span></p>

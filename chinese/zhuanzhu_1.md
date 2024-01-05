@@ -1,5 +1,7 @@
 # 专著
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhu_1.md)
+
 <p><span class="chinese">的高度评价，并为该专著作序。</span><span class="english">He also wrote preface for the monograph.</span></p>
 
 <p><span class="chinese">你有没有出版过专著或发表过论文?。</span><span class="english">Have you got any monographs or thesis published?</span></p>

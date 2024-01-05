@@ -1,5 +1,7 @@
 # turtleneck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turtleneck.md)
+
 <p><span class="chinese">昨天我买了一件新的高领绒衣。</span><span class="english">I bought a new turtleneck yesterday.</span></p>
 
 <p><span class="chinese">他喜好前后反穿他的长领毛衣。</span><span class="english">He likes to wear his turtleneck backwards.</span></p>

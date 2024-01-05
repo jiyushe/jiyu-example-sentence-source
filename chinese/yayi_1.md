@@ -1,5 +1,7 @@
 # 衙役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yayi_1.md)
+
 <p><span class="chinese">衙役们，将此人重责十下竹杖。</span><span class="english">Bailiffs ! Give this man ten strokes with the bamboo poles.</span></p>
 
 <p><span class="chinese">递上银子，笑着的看着衙役离开的背影。</span><span class="english">Pass silver, laughing seeing by Ya of the service leaves of figure.</span></p>

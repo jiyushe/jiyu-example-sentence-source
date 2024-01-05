@@ -1,5 +1,7 @@
 # psychotropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychotropic.md)
+
 <p><span class="chinese">未经批准擅自进口、出口精神药品的。</span><span class="english">Those who import or export psychotropic drugs without authorization.</span></p>
 
 <p><span class="chinese">个别滥用药物者在一指定期间可同时滥用海洛英及精神药物。</span><span class="english">An abuser may take both heroin and psychotropic substances during a given period.</span></p>

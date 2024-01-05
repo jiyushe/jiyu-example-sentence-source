@@ -1,5 +1,7 @@
 # prototype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prototype.md)
+
 <p><span class="chinese">在顶端，那个函数原型。</span><span class="english">So up top, the function prototype.</span></p>
 
 <p><span class="chinese">什么是一个函数的原型呢？</span><span class="english">What's the prototype of a function?</span></p>

@@ -1,5 +1,7 @@
 # 荣幸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongxing.md)
+
 <p><span class="chinese">欢迎您，A-Welcome！，很荣幸参加这个节目！</span><span class="english">B-It's a pleasure!</span></p>
 
 <p><span class="chinese">我感到非常荣幸。</span><span class="english">I felt very honored.</span></p>

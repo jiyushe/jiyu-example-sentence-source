@@ -1,5 +1,7 @@
 # absence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absence.md)
+
 <p><span class="chinese">迟到两次等于缺席一次。</span><span class="english">Two lates equals an absence.</span></p>
 
 <p><span class="chinese">离别酒，我先干为敬。</span><span class="english">Absence of wine, I do for worship.</span></p>

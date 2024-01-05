@@ -1,5 +1,7 @@
 # 党校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangxiao.md)
+
 <p><span class="chinese">并设有中共上海市财贸党校。</span><span class="english">And with the CPC Shanghai Municipal FINANCE COMMITTEE.</span></p>
 
 <p><span class="chinese">1992年于湖南省委党校大学专科毕业。</span><span class="english">He graduated from Hunan Provincial Party College in 1992.</span></p>

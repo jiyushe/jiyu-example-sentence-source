@@ -1,5 +1,7 @@
 # cert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cert.md)
+
 <p><span class="chinese">请使用有效的香港邮政电子证书。</span><span class="english">Please use valid Hongkong Post e- Cert.</span></p>
 
 <p><span class="chinese">我们明天肯定可以出发。</span><span class="english">We'll be able to start tomorrow for a cert.</span></p>

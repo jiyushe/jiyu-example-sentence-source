@@ -1,5 +1,7 @@
 # 空位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongwei.md)
+
 <p><span class="chinese">在前面的空位平行停车。</span><span class="english">Parallel park in this space ahead.</span></p>
 
 <p><span class="chinese">现在有六个空位。</span><span class="english">FYI, there are only 6 seats available.</span></p>

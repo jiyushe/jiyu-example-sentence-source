@@ -1,5 +1,7 @@
 # colombian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colombian.md)
+
 <p><span class="chinese">在被捕的29人当中，大约有13人是哥伦比亚公民。</span><span class="english">Of the 29 arrested, about 13 were Colombian citizens.</span></p>
 
 <p><span class="chinese">春季纯哥伦比亚丈夫，真正的男子汉含铁血。</span><span class="english">The spring of pure Colombian husband, real men hemosiderosis.</span></p>

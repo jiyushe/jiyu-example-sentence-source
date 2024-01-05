@@ -1,5 +1,7 @@
 # ongoing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ongoing.md)
+
 <p><span class="chinese">这就是现在的政策。</span><span class="english">That's been the ongoing policy.</span></p>
 
 <p><span class="chinese">没有持续的成员资格。</span><span class="english">There is no ongoing membership.</span></p>

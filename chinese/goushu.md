@@ -1,5 +1,7 @@
 # 购书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goushu.md)
+
 <p><span class="chinese">我打算去天河购书中心。</span><span class="english">A. I am going to Haizhu BookCenter.</span></p>
 
 <p><span class="chinese">他花了大量的钱在购书上。</span><span class="english">He has spent a large amount of money on books.</span></p>

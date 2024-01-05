@@ -1,5 +1,7 @@
 # spreader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spreader.md)
+
 <p><span class="chinese">茶皂素在乳油型农药中应用，可以作为增效、著剂，提高农药的施用效果。</span><span class="english">Tea saponin could be used as synergist spreader in emulsion pesticide.</span></p>
 
 <p><span class="chinese">旧厨房铲或过期的信用卡将工作一吊具罚款。</span><span class="english">An old kitchen spatula or expired credit card will work fine for a spreader.</span></p>

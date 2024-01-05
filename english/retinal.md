@@ -1,5 +1,7 @@
 # retinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retinal.md)
+
 <p><span class="chinese">视网膜色素变性怎样治疗？</span><span class="english">How is retinal pigment denaturation treated?</span></p>
 
 <p><span class="chinese">目的建立大鼠视网膜光损伤模型。</span><span class="english">Objective To establish retinal photic injury model of rat.</span></p>

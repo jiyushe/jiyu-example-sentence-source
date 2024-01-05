@@ -1,5 +1,7 @@
 # 释义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyi_8.md)
+
 <p><span class="chinese">验证是否给出了该单词释义。</span><span class="english">Verify that the definition is present.</span></p>
 
 <p><span class="chinese">如果大家再查一下，会找到更好的释义。</span><span class="english">If you look further, you'll find better definitions.</span></p>

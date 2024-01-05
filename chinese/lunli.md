@@ -1,5 +1,7 @@
 # 论理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunli.md)
+
 <p><span class="chinese">你敢跟你父亲论理吗？</span><span class="english">Dare you reason with your father?</span></p>
 
 <p><span class="chinese">论理他早该回家了。</span><span class="english">He should have come home long ago.</span></p>

@@ -1,5 +1,7 @@
 # conventional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conventional.md)
+
 <p><span class="chinese">传统的答案是，没有。</span><span class="english">The conventional answer is no.</span></p>
 
 <p><span class="chinese">常规针蒯治疗。</span><span class="english">Conventional needle Kuai treats.</span></p>

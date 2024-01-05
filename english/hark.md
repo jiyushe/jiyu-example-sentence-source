@@ -1,5 +1,7 @@
 # hark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hark.md)
+
 <p><span class="chinese">锣鼓听声，听话听音。</span><span class="english">Hark ! I can hear their voices.</span></p>
 
 <p><span class="chinese">听铁蹄震撼大地！</span><span class="english">Hark to our stomps on the ground!</span></p>

@@ -1,5 +1,7 @@
 # superfluid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superfluid.md)
+
 <p><span class="chinese">讨论了中子星内中子超流涡旋。</span><span class="english">Neutron superfluid vertex in neutron stars is discussed in this paper.</span></p>
 
 <p><span class="chinese">这种超流体的一个令人惊讶的性质是它向上流动。</span><span class="english">One of the astonishing properties of this superfluid is that it flows uphill.</span></p>

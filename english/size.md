@@ -1,5 +1,7 @@
 # size 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/size.md)
+
 <p><span class="chinese">文件尺寸。</span><span class="english">File size.</span></p>
 
 <p><span class="chinese">大小对比。</span><span class="english">Size contrast.</span></p>

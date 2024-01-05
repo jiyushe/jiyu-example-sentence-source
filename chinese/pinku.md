@@ -1,5 +1,7 @@
 # 贫苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinku.md)
+
 <p><span class="chinese">少年懒惰，老来贫苦。</span><span class="english">A lazy youth, a lousy age.</span></p>
 
 <p><span class="chinese">他出身于一个贫苦家庭。</span><span class="english">He rose from a poor family.</span></p>

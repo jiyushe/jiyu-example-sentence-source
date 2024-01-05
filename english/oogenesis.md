@@ -1,5 +1,7 @@
 # oogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oogenesis.md)
+
 <p><span class="chinese">食蚊鱼卵子发育过程分为6个时相。</span><span class="english">The oogenesis of Gambusia affinis is divided into 6 phases.</span></p>
 
 <p><span class="chinese">卵发生进行了超微结构的研究。</span><span class="english">The ultrastructure of oogenesis in the fern Osmunda cinnamomea L.</span></p>

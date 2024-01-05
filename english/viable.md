@@ -1,5 +1,7 @@
 # viable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viable.md)
+
 <p><span class="chinese">这可能并不可行。</span><span class="english">It would not have been viable.</span></p>
 
 <p><span class="chinese">也是一个可行的产业，”桑格说。</span><span class="english">It's a viable business," Sango said.</span></p>

@@ -1,5 +1,7 @@
 # 耷拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dala.md)
+
 <p><span class="chinese">谁说过我们穷的滴沥耷拉？</span><span class="english">So whoever said we were poor?</span></p>
 
 <p><span class="chinese">她的帽子耷拉到脸颊。</span><span class="english">Her hat slouched down to her cheek.</span></p>

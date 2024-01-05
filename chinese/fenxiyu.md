@@ -1,5 +1,7 @@
 # 分析语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenxiyu.md)
+
 <p><span class="chinese">汉语属于汉藏语系分析语，有声调。</span><span class="english">Chinese belongs to Sino-Tibetan language analysis language, with tones.</span></p>
 
 <p><span class="chinese">分析语评论应该标明出处，以避免歪曲事实或语境。</span><span class="english">Analysis and commentary should be labeled and not misrepresent fact or context.</span></p>

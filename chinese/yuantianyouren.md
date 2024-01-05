@@ -1,5 +1,7 @@
 # 怨天尤人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuantianyouren.md)
+
 <p><span class="chinese">我们没有理由怨天尤人。</span><span class="english">We have no cause for complaint.</span></p>
 
 <p><span class="chinese">别怨天尤人了!你数说数说你的幸福吧!</span><span class="english">Don't complain!Recount your blessings!</span></p>

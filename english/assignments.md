@@ -1,5 +1,7 @@
 # assignments
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assignments.md)
+
 <p><span class="chinese">这里也有首页分配。</span><span class="english">There were also home assignments.</span></p>
 
 <p><span class="chinese">全部五份作业如下。</span><span class="english">All five assignments are listed below.</span></p>

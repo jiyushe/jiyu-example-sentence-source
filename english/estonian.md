@@ -1,5 +1,7 @@
 # estonian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estonian.md)
+
 <p><span class="chinese">或者至少一组爱沙尼亚研究人员是这么声称的。</span><span class="english">At least, that’s what a group of Estonian researchers are claiming.</span></p>
 
 <p><span class="chinese">正是爱沙尼亚这种与众不同使LMC吸引各国前往。</span><span class="english">And it is that sort of Estonian quirkiness that gives the LMC its pull.</span></p>

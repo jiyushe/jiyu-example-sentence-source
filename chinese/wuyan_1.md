@@ -1,5 +1,7 @@
 # 无烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyan_1.md)
+
 <p><span class="chinese">一座无烟城。</span><span class="english">A SMOKELESS CITY.</span></p>
 
 <p><span class="chinese">为什么要做到无烟？</span><span class="english">Why go smoke-free?</span></p>

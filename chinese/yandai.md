@@ -1,5 +1,7 @@
 # 烟袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandai.md)
+
 <p><span class="chinese">他带着满意的神情抽起烟袋来。</span><span class="english">He began to smoke his pipe with a satisfied air.</span></p>
 
 <p><span class="chinese">现在抽大烟袋已不常见了。</span><span class="english">Nowadays smoking pipes is no longer a common sight.</span></p>

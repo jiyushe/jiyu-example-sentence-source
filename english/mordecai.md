@@ -1,5 +1,7 @@
 # mordecai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mordecai.md)
+
 <p><span class="chinese">人就把以斯帖这话告诉末底改。</span><span class="english">And they told to Mordecai Esther's words.</span></p>
 
 <p><span class="chinese">惟独末底改不跪不拜。</span><span class="english">But Mordecai bowed not, nor did him reverence.</span></p>

@@ -1,5 +1,7 @@
 # 薪金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjin_1.md)
+
 <p><span class="chinese">他的薪金增加了。</span><span class="english">His salary has increased.</span></p>
 
 <p><span class="chinese">他们为增加薪金而罢工。</span><span class="english">They struck for more pay.</span></p>

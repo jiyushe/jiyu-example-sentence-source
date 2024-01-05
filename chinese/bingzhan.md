@@ -1,5 +1,7 @@
 # 兵站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzhan.md)
+
 <p><span class="chinese">这个兵站有富足的食品供应。</span><span class="english">The military depot has a plentiful supply of food.</span></p>
 
 <p><span class="chinese">每年，曼特尔兵站吸引大约十亿游客。</span><span class="english">Ord Mantell attracts about a billion tourists annually.</span></p>

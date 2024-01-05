@@ -1,5 +1,7 @@
 # rath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rath.md)
+
 <p><span class="chinese">然而，拉特动用的网络现在却用来去抓那些小一些的鱼虾。</span><span class="english">But the net that Rath used is now being cast to catch ever smaller fry.</span></p>
 
 <p><span class="chinese">根据相切接触条件用纯解析的方法，易理解，计算简单。</span><span class="english">This paper presented a pure analytical method is rath er easy to be understood, and easy to calucate.</span></p>

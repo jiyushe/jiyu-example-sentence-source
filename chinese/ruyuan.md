@@ -1,5 +1,7 @@
 # 如愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruyuan.md)
+
 <p><span class="chinese">于酒、于诗、于德，如愿</span><span class="english">Wine, poetry or virtue, as you wish. But be</span></p>
 
 <p><span class="chinese">向如愿骨许愿是一项古老的习俗。</span><span class="english">Wishing upon a wishbone is an ancient custom.</span></p>

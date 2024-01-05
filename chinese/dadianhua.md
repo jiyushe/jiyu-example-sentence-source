@@ -1,5 +1,7 @@
 # 打电话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadianhua.md)
+
 <p><span class="chinese">他给她打电话。</span><span class="english">He phoned her.</span></p>
 
 <p><span class="chinese">他打电话给米克。</span><span class="english">He phoned Mick.</span></p>

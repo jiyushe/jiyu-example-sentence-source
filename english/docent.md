@@ -1,5 +1,7 @@
 # docent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/docent.md)
+
 <p><span class="chinese">你们在参观时需要一位导赏员吗？</span><span class="english">Do you need a docent while visit?</span></p>
 
 <p><span class="chinese">在某一方面来说，耶稣亦有如导赏员一样训练门徒。</span><span class="english">In a way, Jesus was like a docent for his disciples in training.</span></p>

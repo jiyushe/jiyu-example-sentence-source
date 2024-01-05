@@ -1,5 +1,7 @@
 # 短工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duangong.md)
+
 <p><span class="chinese">我可以做侍应生或者通过短工中介找到工作。</span><span class="english">I’ll be a bartender or get work through a temp agency.</span></p>
 
 <p><span class="chinese">这些受雇者，基本上都是短工。</span><span class="english">These employees are essentially short, the freedom of movement.</span></p>

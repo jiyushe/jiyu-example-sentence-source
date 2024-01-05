@@ -1,5 +1,7 @@
 # 召唤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaohuan.md)
+
 <p><span class="chinese">上帝那充满牢骚的召唤。</span><span class="english">God's querulous calling.</span></p>
 
 <p><span class="chinese">那车道召唤她。</span><span class="english">The driveway called her.</span></p>

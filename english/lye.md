@@ -1,5 +1,7 @@
 # lye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lye.md)
+
 <p><span class="chinese">你把它和碱液混合。</span><span class="english">You mix it with lye.</span></p>
 
 <p><span class="chinese">之后泰勒倒出碱液。</span><span class="english">And Tyler pours the lye.</span></p>

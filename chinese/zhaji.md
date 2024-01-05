@@ -1,5 +1,7 @@
 # 札记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaji.md)
+
 <p><span class="chinese">所以欢迎来带盖茨札记。</span><span class="english">So, welcome to the Gates Notes.</span></p>
 
 <p><span class="chinese">保存一份札记，写写你自己的生活经历，甚至创作小说。</span><span class="english">Start keeping a journal and write about your experiences, or be ultra-creative and start writing some fiction.</span></p>

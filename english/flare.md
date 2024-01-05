@@ -1,5 +1,7 @@
 # flare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flare.md)
+
 <p><span class="chinese">麻烦可能再次爆发。</span><span class="english">Trouble could flare anew.</span></p>
 
 <p><span class="chinese">眩光的强度。</span><span class="english">The strength of the flare.</span></p>

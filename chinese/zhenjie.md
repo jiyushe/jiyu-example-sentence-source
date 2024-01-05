@@ -1,5 +1,7 @@
 # 贞洁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjie.md)
+
 <p><span class="chinese">美貌与贞洁常相斥。</span><span class="english">Beauty and chastity seldom meet.</span></p>
 
 <p><span class="chinese">除非与祢结合，我不会贞洁！</span><span class="english">Nor chaste, except you ravish me.</span></p>

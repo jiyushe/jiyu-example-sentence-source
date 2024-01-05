@@ -1,5 +1,7 @@
 # oppositely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oppositely.md)
+
 <p><span class="chinese">相反的，倘若嫡母能生育自己的孩子，庶子的家庭地位则较低落。</span><span class="english">Oppositely his family position would be lower if his Dyi-mu have sons.</span></p>
 
 <p><span class="chinese">而且当然，小孩也的也是这么想，是父母的无理取闹。</span><span class="english">And of course, the teens see it in exactly the same way, except oppositely.</span></p>

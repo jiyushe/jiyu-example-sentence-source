@@ -1,5 +1,7 @@
 # contamination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contamination.md)
+
 <p><span class="chinese">五氯苯酚中所含的二恶英正是污染物。</span><span class="english">PCP contains dioxins as contamination.</span></p>
 
 <p><span class="chinese">防止咖啡中的赭曲霉毒素A污染</span><span class="english">Prevention of Ochratoxin A contamination in coffee</span></p>

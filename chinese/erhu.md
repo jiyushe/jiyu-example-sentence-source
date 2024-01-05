@@ -1,5 +1,7 @@
 # 二胡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erhu.md)
+
 <p><span class="chinese">二胡被称为中国的小提琴。</span><span class="english">Erhu is called Chinese violin.</span></p>
 
 <p><span class="chinese">二胡的音域有三个八度。</span><span class="english">The range consists of three octaves.</span></p>

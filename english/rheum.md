@@ -1,5 +1,7 @@
 # rheum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheum.md)
+
 <p><span class="chinese">同时为波叶组大黄资源利用奠定了基础。</span><span class="english">In the meanwhile, as tell us how to use the sect Rheum resources.</span></p>
 
 <p><span class="chinese">结论唐古特大黄染色体的核型属于较原始的类型。</span><span class="english">CONCLUSION The karyotype of Rheum tanguticum belongs to original type.</span></p>

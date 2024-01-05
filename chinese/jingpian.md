@@ -1,5 +1,7 @@
 # 镜片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingpian.md)
+
 <p><span class="chinese">镜片一定要是黑色的么？</span><span class="english">Must lenses always be black?</span></p>
 
 <p><span class="chinese">你们有用完即丢的镜片吗？</span><span class="english">Do you have disposable lenses?</span></p>

@@ -1,5 +1,7 @@
 # 耳闻目睹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erwenmudu.md)
+
 <p><span class="chinese">其间耳闻目睹的事，算起来也很不少。</span><span class="english">During that time I witnessed or heard about a lot of things.</span></p>
 
 <p><span class="chinese">未来，你会更多地期望耳闻目睹这位年轻的新秀。</span><span class="english">In the future, you can expect to hear and see much more of this young talent.</span></p>

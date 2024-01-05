@@ -1,5 +1,7 @@
 # pastry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pastry.md)
+
 <p><span class="chinese">你吃油酥点心吃得太多了。</span><span class="english">You eat too much pastry.</span></p>
 
 <p><span class="chinese">这点心松脆可口。</span><span class="english">The pastry is light and crisp.</span></p>

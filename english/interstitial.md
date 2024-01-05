@@ -1,5 +1,7 @@
 # interstitial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interstitial.md)
+
 <p><span class="chinese">这些附加的离子叫做填隙式离子。</span><span class="english">These additional ions are called interstitial ions.</span></p>
 
 <p><span class="chinese">柯根化综合症包括间质性角膜炎。</span><span class="english">Cogan's syndrome consists of an interstitial keratitis.</span></p>

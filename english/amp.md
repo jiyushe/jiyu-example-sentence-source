@@ -1,5 +1,7 @@
 # amp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amp.md)
+
 <p><span class="chinese">低噪音，高精密仪表放大器。</span><span class="english">Low noise, high-precision op amp.</span></p>
 
 <p><span class="chinese">整个城市笼罩在阴湿的雨里。</span><span class="english">Thed amp rain mantled the whole city.</span></p>

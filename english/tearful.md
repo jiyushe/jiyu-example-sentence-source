@@ -1,5 +1,7 @@
 # tearful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tearful.md)
+
 <p><span class="chinese">她含泪给了我一个拥抱，便离开了。</span><span class="english">She gave me a tearful hug, and she left.</span></p>
 
 <p><span class="chinese">含泪微笑，黑暗相伴。</span><span class="english">Tearful smile, swallowed by the darkness.</span></p>

@@ -1,5 +1,7 @@
 # pau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pau.md)
+
 <p><span class="chinese">比亚里茨，加索尔，圣让皮耶德港也在那里。</span><span class="english">Biarritz, Pau and Saint-Jean-Pied-de-Port are here.</span></p>
 
 <p><span class="chinese">加索尔拿到了这个助攻，但这一切都起源于科比的那次伟大的跳起传球。</span><span class="english">Pau got the dime, but Kobe’s play was the bucket’s genesis.</span></p>

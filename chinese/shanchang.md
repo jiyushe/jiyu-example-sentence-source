@@ -1,5 +1,7 @@
 # 擅长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanchang.md)
+
 <p><span class="chinese">他擅长作诗。</span><span class="english">He is good at verse.</span></p>
 
 <p><span class="chinese">我很擅长说西班牙语。</span><span class="english">I'm good at Spanish.</span></p>

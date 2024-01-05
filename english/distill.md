@@ -1,5 +1,7 @@
 # distill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distill.md)
+
 <p><span class="chinese">在这个点无法浓缩。</span><span class="english">You can't distill it at that point here.</span></p>
 
 <p><span class="chinese">他们不去浓缩提炼收集音乐的过程。</span><span class="english">They do not distill the music-gathering process.</span></p>

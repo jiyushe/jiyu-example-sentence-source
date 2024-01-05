@@ -1,5 +1,7 @@
 # berliner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berliner.md)
+
 <p><span class="chinese">1956年，莫斯科一座犹太人会堂。</span><span class="english">In a Moscow synagogue, 1956, Yakov Berliner.</span></p>
 
 <p><span class="chinese">11月12日，这个在波茨坦广场的边防兵被一个手持鲜花的柏林人拥抱。</span><span class="english">This guard at Potsdamer Platz is hugged by a Berliner carrying flowers on Nov. 12.</span></p>

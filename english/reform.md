@@ -1,5 +1,7 @@
 # reform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reform.md)
+
 <p><span class="chinese">现在让我们谈谈医改。</span><span class="english">Health care reform.</span></p>
 
 <p><span class="chinese">但它要求真正的改革。</span><span class="english">But it takes real reform.</span></p>

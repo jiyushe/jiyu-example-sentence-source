@@ -1,5 +1,7 @@
 # naturopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naturopathy.md)
+
 <p><span class="chinese">有没有降低血压的物理疗法呀？</span><span class="english">The naturopathy that reduces blood pressure?</span></p>
 
 <p><span class="chinese">它是一种无创伤非药物性绿色的自然疗法。</span><span class="english">It is a green naturopathy without insult and drugs.</span></p>

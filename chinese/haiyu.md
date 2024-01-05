@@ -1,5 +1,7 @@
 # 海域
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiyu.md)
+
 <p><span class="chinese">他冒险驶入陌生的海域。</span><span class="english">He adventured on a unknown seas.</span></p>
 
 <p><span class="chinese">确信你的梦境来自于遥远的海域。</span><span class="english">Sure thou art come Over far-off seas.</span></p>

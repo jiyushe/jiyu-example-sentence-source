@@ -1,5 +1,7 @@
 # animation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animation.md)
+
 <p><span class="chinese">单击这里以查看该动画。</span><span class="english">Click to see this animation.</span></p>
 
 <p><span class="chinese">这个例子没有使用动画。</span><span class="english">This example doesn't use animation.</span></p>

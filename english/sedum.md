@@ -1,5 +1,7 @@
 # sedum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedum.md)
+
 <p><span class="chinese">中国景天属山景天组的修订。</span><span class="english">Revision of the section Oreades on Chinese Sedum.</span></p>
 
 <p><span class="chinese">目的研究景天三七全草的化学成分。</span><span class="english">Objective To study the chemical constituents of Sedum aixoon L.</span></p>

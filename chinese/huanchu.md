@@ -1,5 +1,7 @@
 # 患处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanchu.md)
+
 <p><span class="chinese">不要用油脂涂抹患处。</span><span class="english">Don't grease the affected part.</span></p>
 
 <p><span class="chinese">把这膏药每日一次fu贴患处。</span><span class="english">Put a plaster on the sore once a day.</span></p>

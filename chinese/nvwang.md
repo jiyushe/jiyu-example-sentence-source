@@ -1,5 +1,7 @@
 # 女王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvwang.md)
+
 <p><span class="chinese">做一个女王。</span><span class="english">Be a queen.</span></p>
 
 <p><span class="chinese">玛丽，苏格兰女王。</span><span class="english">Mary, Queen of Scots.</span></p>

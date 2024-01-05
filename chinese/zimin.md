@@ -1,5 +1,7 @@
 # 子民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimin.md)
+
 <p><span class="chinese">这，就是你们的命运，塞克的子民啊。</span><span class="english">This is your destiny, son of Zek.</span></p>
 
 <p><span class="chinese">但上帝对他的子民自有安排，他告诉这些人要并肩绕耶利哥城而行。</span><span class="english">But God had a plan for his people.</span></p>

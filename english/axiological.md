@@ -1,5 +1,7 @@
 # axiological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axiological.md)
+
 <p><span class="chinese">莫里茨·盖格尔运用现象学的方法建立了价值论美学。</span><span class="english">By using phenomenological method, Moritz Geiger found axiological aesthetics.</span></p>
 
 <p><span class="chinese">第四，从价值维度阐释学习的价值。</span><span class="english">Fourth, this dissertation studies the value of learning from axiological dimension.</span></p>

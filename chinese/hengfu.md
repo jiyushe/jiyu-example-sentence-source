@@ -1,5 +1,7 @@
 # 横幅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengfu.md)
+
 <p><span class="chinese">你们要横幅和扩音器吗？</span><span class="english">Would you like a streamer and amplifier?</span></p>
 
 <p><span class="chinese">“再销售”的横幅，以促进我的网站。</span><span class="english">"Remarketing" banners to promote my site.</span></p>

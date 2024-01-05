@@ -1,5 +1,7 @@
 # stole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stole.md)
+
 <p><span class="chinese">你偷了它。</span><span class="english">You stole it.</span></p>
 
 <p><span class="chinese">谁偷了我的马？</span><span class="english">Who stole my horse?</span></p>

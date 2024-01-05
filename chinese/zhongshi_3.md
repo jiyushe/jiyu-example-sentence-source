@@ -1,5 +1,7 @@
 # 中试
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshi_3.md)
+
 <p><span class="chinese">我可以在我受托的案子中试一试。</span><span class="english">I can try that in this case that I have.</span></p>
 
 <p><span class="chinese">并进行了中试试验。</span><span class="english">The medium-scale experiment was also conducted.</span></p>

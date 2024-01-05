@@ -1,5 +1,7 @@
 # 脑力劳动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naolilaodong.md)
+
 <p><span class="chinese">脑力劳动的成果取决于你精力的多少。</span><span class="english">Mental work is a result of your energy levels.</span></p>
 
 <p><span class="chinese">对于促进体力劳动和脑力劳动，制定具体目标同样有效。</span><span class="english">Both physical and cognitive tasks seemed to be spurred on by specific goals.</span></p>

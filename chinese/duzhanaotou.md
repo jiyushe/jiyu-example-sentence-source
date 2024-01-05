@@ -1,5 +1,7 @@
 # 独占鳌头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duzhanaotou.md)
+
 <p><span class="chinese">霍普同样在国际舞台上独占鳌头。</span><span class="english">Hope dominates the international stage as well.</span></p>
 
 <p><span class="chinese">只要提到家喻户晓的人类四脚朋友，猫咪独占鳌头！</span><span class="english">When it comes to famous four-legged friends, cats rule!</span></p>

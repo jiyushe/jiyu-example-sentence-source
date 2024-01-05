@@ -1,5 +1,7 @@
 # karen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karen.md)
+
 <p><span class="chinese">这是卡伦。</span><span class="english">This is Karen.</span></p>
 
 <p><span class="chinese">卡伦密店在伦敦。</span><span class="english">Karen Millen shop in London.</span></p>

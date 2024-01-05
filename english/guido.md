@@ -1,5 +1,7 @@
 # guido
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guido.md)
+
 <p><span class="chinese">有的人叫他“吉多尼”——也就是“大”吉多。</span><span class="english">SOME people call him "Guidone"—big Guido.</span></p>
 
 <p><span class="chinese">这是发生在圭多和安东尼亚的时候，他们决定要一个孩子的故事。</span><span class="english">This is the story of what happens to Guido and Antonia when they decide to have a child.</span></p>

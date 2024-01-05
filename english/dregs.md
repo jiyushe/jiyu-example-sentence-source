@@ -1,5 +1,7 @@
 # dregs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dregs.md)
+
 <p><span class="chinese">残渣被搅起。</span><span class="english">The dregs are stirred up.</span></p>
 
 <p><span class="chinese">涤尽渣滓罪﹐斩绝恶萌芽。</span><span class="english">Wash off the dregs of crime.</span></p>

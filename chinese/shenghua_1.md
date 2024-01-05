@@ -1,5 +1,7 @@
 # 生化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenghua_1.md)
+
 <p><span class="chinese">分子与生化寄生虫学。</span><span class="english">Molecular and Biochemical Parasitology.</span></p>
 
 <p><span class="chinese">这里如果有生化迷可以去看看。</span><span class="english">Here if have a bio-chemical fan can see.</span></p>

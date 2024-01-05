@@ -1,5 +1,7 @@
 # prong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prong.md)
+
 <p><span class="chinese">尖齿叉子或干草叉等工具上的尖头。</span><span class="english">A prong on an implement such as a fork or pitchfork.</span></p>
 
 <p><span class="chinese">镀白金色戒指配以一大颗印地安蓝色爪镶水晶。</span><span class="english">Rhodium plated ring with a large Indian Sapphire prong set crystal.</span></p>

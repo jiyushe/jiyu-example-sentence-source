@@ -1,5 +1,7 @@
 # amplitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amplitude.md)
+
 <p><span class="chinese">这是振幅。</span><span class="english">This is the amplitude.</span></p>
 
 <p><span class="chinese">这就是所谓的“振幅键控”。</span><span class="english">This is called "amplitude shift keying".</span></p>

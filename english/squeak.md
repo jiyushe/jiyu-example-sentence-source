@@ -1,5 +1,7 @@
 # squeak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squeak.md)
+
 <p><span class="chinese">老鼠接着吱吱叫。</span><span class="english">And squeak goes the rat.</span></p>
 
 <p><span class="chinese">小老鼠尖叫起来。</span><span class="english">Squeak squeak, siad the mouse.</span></p>

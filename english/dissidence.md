@@ -1,5 +1,7 @@
 # dissidence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissidence.md)
+
 <p><span class="chinese">异议登记是物权法的一项重要制度。</span><span class="english">Dissidence registration is a very important system of real right law.</span></p>
 
 <p><span class="chinese">第三部分分析了我国案外人异议之诉制度的现状。</span><span class="english">The third part analyzes the current situations of the outer party dissidence.</span></p>

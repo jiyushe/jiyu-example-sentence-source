@@ -1,5 +1,7 @@
 # abutting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abutting.md)
+
 <p><span class="chinese">与我省邻接的地区遭受了一次地震。</span><span class="english">An earthquake hit the area abutting our province.</span></p>
 
 <p><span class="chinese">行人通道紧連英皇道及兴发街。</span><span class="english">A pedestrian passage abutting King's Road and Hing Fat Street.</span></p>

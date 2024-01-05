@@ -1,5 +1,7 @@
 # 赔偿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peichang.md)
+
 <p><span class="chinese">作了全部赔偿。</span><span class="english">Full amends was made.</span></p>
 
 <p><span class="chinese">踩坏了照价赔偿。</span><span class="english">Put a bad price as compensation.</span></p>

@@ -1,5 +1,7 @@
 # stratosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratosphere.md)
+
 <p><span class="chinese">其上是平流层顶。</span><span class="english">Above the stratosphere is the stratopause.</span></p>
 
 <p><span class="chinese">在它之外是发白的平流层，然后是进入散逸层。</span><span class="english">It gives way to the whitish stratosphere and then into the mesosphere.</span></p>

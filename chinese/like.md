@@ -1,5 +1,7 @@
 # 力克
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/like.md)
+
 <p><span class="chinese">亚力克乘着渡船逃离了。</span><span class="english">Aleck took a ferry to escape.</span></p>
 
 <p><span class="chinese">她想那也许就是亚力克了。</span><span class="english">She thought that might be Alec.</span></p>

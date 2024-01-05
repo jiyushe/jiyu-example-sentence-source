@@ -1,5 +1,7 @@
 # niagara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/niagara.md)
+
 <p><span class="chinese">我曾有过如尼亚加拉瀑布流水一样多的新点子。</span><span class="english">I had been a Niagara Falls of new ideas.</span></p>
 
 <p><span class="chinese">米瑞和贝利尼横跨尼亚加拉瀑布！</span><span class="english">Mirette and Bellini Cross Niagara Falls!</span></p>

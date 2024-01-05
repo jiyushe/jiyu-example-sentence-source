@@ -1,5 +1,7 @@
 # monumental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monumental.md)
+
 <p><span class="chinese">傅高义要讲述一个不朽的故事。</span><span class="english">But Vogel has a monumental story to tell.</span></p>
 
 <p><span class="chinese">哈德良对纪念物的建筑独具慧眼。</span><span class="english">He had a fine eye for monumental architecture.</span></p>

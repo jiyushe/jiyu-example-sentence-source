@@ -1,5 +1,7 @@
 # flatfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flatfish.md)
+
 <p><span class="chinese">淡灰白色鱼肉的比目鱼。</span><span class="english">Grayish-white flesh of a flatfish.</span></p>
 
 <p><span class="chinese">一种欧洲大比目鱼的肉。</span><span class="english">Flesh of a large european flatfish.</span></p>

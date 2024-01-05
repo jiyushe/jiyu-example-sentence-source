@@ -1,5 +1,7 @@
 # speciation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speciation.md)
+
 <p><span class="chinese">创造论者认为，我们从未见过物种的形成。</span><span class="english">Creationists argue that speciation has never been seen.</span></p>
 
 <p><span class="chinese">食性分化推动了同域物种形成。</span><span class="english">Host plants differentiation accelerates sympatric speciation.</span></p>

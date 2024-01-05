@@ -1,5 +1,7 @@
 # 碣石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieshi_1.md)
+
 <p><span class="chinese">碣石湾和红海湾。</span><span class="english">The Jieshi bay and Honghai Bay.</span></p>
 
 <p><span class="chinese">在碣石买的大排量摩托车能上真牌？</span><span class="english">Can big rows amount buying in stone tablet stone motorcycle real plate?</span></p>

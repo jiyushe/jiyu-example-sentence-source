@@ -1,5 +1,7 @@
 # 田里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianli_1.md)
+
 <p><span class="chinese">路，看农尔毛驴田里。</span><span class="english">Gimbel's donkey in a field.</span></p>
 
 <p><span class="chinese">我愿在田里锄地。</span><span class="english">I'd like to hoe in the field.</span></p>

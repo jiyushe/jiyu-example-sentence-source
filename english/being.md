@@ -1,5 +1,7 @@
 # being
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/being.md)
+
 <p><span class="chinese">罗杰就是我。</span><span class="english">Roger being me.</span></p>
 
 <p><span class="chinese">被尊敬。</span><span class="english">Being respected.</span></p>

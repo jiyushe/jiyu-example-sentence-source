@@ -1,5 +1,7 @@
 # discriminator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discriminator.md)
+
 <p><span class="chinese">介绍了一种由集成电压比较器MAX921构成的脉冲幅度甄别器。</span><span class="english">A low-power pulse amplitude discriminator is described in this paper.</span></p>
 
 <p><span class="chinese">该反符合电路主要用于输入信号幅度甄别和反符合测量。</span><span class="english">This circuit can be widely used in input amplitude discriminator and anticoincidence test.</span></p>

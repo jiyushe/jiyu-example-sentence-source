@@ -1,5 +1,7 @@
 # canonically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canonically.md)
+
 <p><span class="chinese">第四，历史批判教给我们,不要用圣经来解读圣经。</span><span class="english">Fourth,historical criticism teaches you we don't interpret the Bible canonically.</span></p>
 
 <p><span class="chinese">同时使公司内部的办公更加有效和规范化。</span><span class="english">It also makes the work in the service applying company efficiently and canonically.</span></p>

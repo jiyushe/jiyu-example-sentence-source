@@ -1,5 +1,7 @@
 # product 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/product.md)
+
 <p><span class="chinese">产品目录。</span><span class="english">Product catalog.</span></p>
 
 <p><span class="chinese">产品描述。</span><span class="english">Product as described.</span></p>

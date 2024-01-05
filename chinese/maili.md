@@ -1,5 +1,7 @@
 # 卖力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maili.md)
+
 <p><span class="chinese">你工作卖力么？</span><span class="english">Do you work hard?</span></p>
 
 <p><span class="chinese">他们俩都干得非常卖力。</span><span class="english">They both worked very hard.</span></p>

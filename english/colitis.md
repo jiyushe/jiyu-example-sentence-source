@@ -1,5 +1,7 @@
 # colitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colitis.md)
+
 <p><span class="chinese">一个患结肠炎的女孩从身边走过"</span><span class="english">A girl with colitis goes by."</span></p>
 
 <p><span class="chinese">如果你患有大肠炎。</span><span class="english">If you have ulcerative colitis.</span></p>

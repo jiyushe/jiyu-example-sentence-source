@@ -1,5 +1,7 @@
 # 干粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganliang.md)
+
 <p><span class="chinese">宠物食品只提供干粮。</span><span class="english">Include only dry food for pets.</span></p>
 
 <p><span class="chinese">我带了干粮来，我们吃午饭吧。</span><span class="english">I have some foods. It's time for lunch.</span></p>

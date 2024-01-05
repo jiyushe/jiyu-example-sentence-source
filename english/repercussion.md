@@ -1,5 +1,7 @@
 # repercussion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repercussion.md)
+
 <p><span class="chinese">总统的逝世引起出乎意料的反响。</span><span class="english">The president's death had unexpected repercussion.</span></p>
 
 <p><span class="chinese">这大概是计算的最大影响。</span><span class="english">This is probably the biggest repercussion of the calculation.</span></p>

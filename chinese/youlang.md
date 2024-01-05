@@ -1,5 +1,7 @@
 # 游廊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youlang.md)
+
 <p><span class="chinese">我跟他们一起到外面游廊上去。</span><span class="english">I went with them out to the veranda.</span></p>
 
 <p><span class="chinese">他们的客人在游廊里浅酌着美酒。</span><span class="english">Their guests sipped drinks on the veranda.</span></p>

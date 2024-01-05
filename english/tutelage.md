@@ -1,5 +1,7 @@
 # tutelage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tutelage.md)
+
 <p><span class="chinese">在他们的帮助下，彼德成为了一个阿尼马格斯。</span><span class="english">It was under their tutelage that he learned to become an Animagus.</span></p>
 
 <p><span class="chinese">该表的简易性旨在便于监护。</span><span class="english">The simplicity of the table is intentional for purposes of tutelage.</span></p>

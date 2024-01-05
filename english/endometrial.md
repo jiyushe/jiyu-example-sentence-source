@@ -1,5 +1,7 @@
 # endometrial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endometrial.md)
+
 <p><span class="chinese">而且，子宫内膜癌的发病率也下降了。</span><span class="english">There is also a reduction in endometrial cancer.</span></p>
 
 <p><span class="chinese">子宫内膜癌每年造成近8000例死亡。</span><span class="english">Endometrial cancer causes nearly 8, 000 deaths a year.</span></p>

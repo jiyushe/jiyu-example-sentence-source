@@ -1,5 +1,7 @@
 # 剥削
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boxue_1.md)
+
 <p><span class="chinese">剥削真的过时了吗?。</span><span class="english">Is Exploitation Really Anachronic?</span></p>
 
 <p><span class="chinese">他们贫穷，被剥削。</span><span class="english">These are the poor. These are the beaten.</span></p>

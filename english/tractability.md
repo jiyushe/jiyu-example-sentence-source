@@ -1,5 +1,7 @@
 # tractability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tractability.md)
+
 <p><span class="chinese">领导追溯性测试和模拟回收。</span><span class="english">Leads tractability tests and mock recalls.</span></p>
 
 <p><span class="chinese">你会发现狗既温顺又友好。</span><span class="english">You will find the dog's tractability and friendliness.</span></p>

@@ -1,5 +1,7 @@
 # winder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winder.md)
+
 <p><span class="chinese">技术先进的高速，高产量，高性能，低噪音的通用型高速松式络筒。</span><span class="english">This machine is a slack winder with currency and high speed.</span></p>
 
 <p><span class="chinese">所以当中国是夏天时，在澳大利亚吹着冷风。</span><span class="english">So when it is summer in China, it is cold winder in Australia.</span></p>

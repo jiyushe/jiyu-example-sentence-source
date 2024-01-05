@@ -1,5 +1,7 @@
 # moll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moll.md)
+
 <p><span class="chinese">她一般会被看作是他的moll，或者有时被看成一个gunmoll。</span><span class="english">She is known as his moll or sometimes as a gun moll.</span></p>
 
 <p><span class="chinese">目前，我在日常对话中很少用到moll这个词。</span><span class="english">Now I don’t use the word moll in conversation too often.</span></p>

@@ -1,5 +1,7 @@
 # ideologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ideologist.md)
+
 <p><span class="chinese">孔子是我国古代伟大的思想家和教育家。</span><span class="english">Confucius was a great ideologist and educator in ancient China.</span></p>
 
 <p><span class="chinese">郑观应是这一思想的积极倡导者。</span><span class="english">The reformer and ideologist Zheng Guanying was the exponential.</span></p>

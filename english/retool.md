@@ -1,5 +1,7 @@
 # retool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retool.md)
+
 <p><span class="chinese">重组商业计划。</span><span class="english">Retool your business plan.</span></p>
 
 <p><span class="chinese">我们必须对乡镇经济进行重组。</span><span class="english">We must retool the town's economy.</span></p>

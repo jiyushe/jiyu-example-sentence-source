@@ -1,5 +1,7 @@
 # superabundance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superabundance.md)
+
 <p><span class="chinese">科学可以提供工具来恢复一些我们的富余。</span><span class="english">Science could yet provide the tools to restore some of our superabundance.</span></p>
 
 <p><span class="chinese">我们委员会不需要任何其他帮助。给我们帮忙的人太多了。</span><span class="english">Our committee doesn't need any more help. We have superabundance of helpers.</span></p>

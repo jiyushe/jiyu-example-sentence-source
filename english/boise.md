@@ -1,5 +1,7 @@
 # boise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boise.md)
+
 <p><span class="chinese">博伊斯的日出。</span><span class="english">Boise Sunrise.</span></p>
 
 <p><span class="chinese">博伊斯在一边台阶上蹲着望着，满脸鄙夷不屑的神气。</span><span class="english">Boise was sitting on the steps, watching them with contempt.</span></p>

@@ -1,5 +1,7 @@
 # ramona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramona.md)
+
 <p><span class="chinese">雷蒙娜走了进来。</span><span class="english">Ramona entered the room.</span></p>
 
 <p><span class="chinese">“因为，”瑞摩娜说。</span><span class="english">"Because, " said Ramona.</span></p>

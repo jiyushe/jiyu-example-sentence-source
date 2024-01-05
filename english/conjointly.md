@@ -1,5 +1,7 @@
 # conjointly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjointly.md)
+
 <p><span class="chinese">气压装置和储气装置是连体设计的。</span><span class="english">The air pressure device and the air storage device are designed conjointly.</span></p>
 
 <p><span class="chinese">当我们认知一个客体时，「主观意识」「辑有效性」共同出现的。</span><span class="english">In the cognition of an object of sense, both sides are presented conjointly.</span></p>

@@ -1,5 +1,7 @@
 # diane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diane.md)
+
 <p><span class="chinese">下一个我想见见黛安娜。</span><span class="english">I would like to see Diane next.</span></p>
 
 <p><span class="chinese">她的妈妈会怕黛安娜？</span><span class="english">Was her mother afraid of Diane?</span></p>

@@ -1,5 +1,7 @@
 # spick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spick.md)
+
 <p><span class="chinese">她的房子总是收拾得非常整洁。</span><span class="english">Everything in her house is always spick and span.</span></p>
 
 <p><span class="chinese">嗯，我保证每天都要把这儿收拾得一尘不染。</span><span class="english">Yeah. I promise that I'll keep it spick and span.</span></p>

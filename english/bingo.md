@@ -1,5 +1,7 @@
 # bingo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bingo.md)
+
 <p><span class="chinese">玩宾果游戏。</span><span class="english">Play the Bingo Game.</span></p>
 
 <p><span class="chinese">小冰高就是它的名字。</span><span class="english">And Bingo was his name.</span></p>

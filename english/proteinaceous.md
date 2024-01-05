@@ -1,5 +1,7 @@
 # proteinaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proteinaceous.md)
+
 <p><span class="chinese">脱脂奶粉是廉价的蛋白质洗脱剂。</span><span class="english">Nonfat dry milk is an inexpensive proteinaceous eluent.</span></p>
 
 <p><span class="chinese">提示ET的粘附素是包括血凝素及鞭毛在内的一类蛋白样物质。</span><span class="english">It was suggested that the adhesin of ET was proteinaceous flagellum.</span></p>

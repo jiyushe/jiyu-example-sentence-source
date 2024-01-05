@@ -1,5 +1,7 @@
 # missouri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/missouri.md)
+
 <p><span class="chinese">她认为是密苏里州。</span><span class="english">She thinks its Missouri.</span></p>
 
 <p><span class="chinese">奥巴马于周一晚些时侯赶向密苏里州。</span><span class="english">Later Monday he is heading to  Missouri.</span></p>

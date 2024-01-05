@@ -1,5 +1,7 @@
 # apostasy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apostasy.md)
+
 <p><span class="chinese">亚历克斯因叛党而被判处死刑。</span><span class="english">Alex was sentenced to death for apostasy.</span></p>
 
 <p><span class="chinese">那么，我们如何与教义上的背道作战呢？</span><span class="english">How, then, do we fight against doctrinal apostasy?</span></p>

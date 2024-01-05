@@ -1,5 +1,7 @@
 # wearisome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wearisome.md)
+
 <p><span class="chinese">我在做一项无聊的工作。</span><span class="english">I am doing a wearisome work.</span></p>
 
 <p><span class="chinese">那是个令人生厌的会议。</span><span class="english">That was a wearisome meeting.</span></p>

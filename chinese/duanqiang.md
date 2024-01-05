@@ -1,5 +1,7 @@
 # 短枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanqiang.md)
+
 <p><span class="chinese">约书亚就向城伸出手里的短枪。</span><span class="english">So Joshua held out his javelin toward Ai.</span></p>
 
 <p><span class="chinese">箭袋和发亮的枪，并短枪在它身上铮铮有声。</span><span class="english">The quiver rattleth against him, the glittering spear and the shield.</span></p>

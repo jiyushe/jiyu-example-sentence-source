@@ -1,5 +1,7 @@
 # shimmy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shimmy.md)
+
 <p><span class="chinese">甲三季度增加了质感，摆振肚皮舞。</span><span class="english">A three-quarter shimmy adds texture to belly dancing.</span></p>
 
 <p><span class="chinese">我想跳舞的时候摇摇摆摆，走路的时候扭来扭去。</span><span class="english">I want to shimmy when I dance and wiggle when I walk.</span></p>

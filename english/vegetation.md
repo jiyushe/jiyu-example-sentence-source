@@ -1,5 +1,7 @@
 # vegetation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vegetation.md)
+
 <p><span class="chinese">植被是红色。</span><span class="english">Vegetation is red.</span></p>
 
 <p><span class="chinese">幼鱼藏在植物。</span><span class="english">Young hide in vegetation.</span></p>

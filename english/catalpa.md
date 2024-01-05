@@ -1,5 +1,7 @@
 # catalpa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalpa.md)
+
 <p><span class="chinese">梓博传短讯给黑天使，表示知道对方是可欣。</span><span class="english">Catalpa bo send text messages to dark angel, said know each other is a hin.</span></p>
 
 <p><span class="chinese">梓博要求业主尽快维修单位，业主诸多推搪。</span><span class="english">Catalpa Po for repair units as soon as possible the owner, the owner of lining.</span></p>

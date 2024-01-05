@@ -1,5 +1,7 @@
 # yeshiva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yeshiva.md)
+
 <p><span class="chinese">这是犹太大学的一部分。</span><span class="english">It is part of Yeshiva University.</span></p>
 
 <p><span class="chinese">该清真寺内设立有青海阿横伊斯兰教经学院。</span><span class="english">It has a Heng Islam Yeshiva of Qinghai in this mosque.</span></p>

@@ -1,5 +1,7 @@
 # financier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/financier.md)
+
 <p><span class="chinese">我是一个金融家出身。</span><span class="english">My background is as a financier.</span></p>
 
 <p><span class="chinese">刘晏是唐代著名的理财家。</span><span class="english">Liu Yan is a famous financier in Tang Dynasty.</span></p>

@@ -1,5 +1,7 @@
 # 百姓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baixing.md)
+
 <p><span class="chinese">于是众百姓大声欢呼。</span><span class="english">Then all the people shouted.</span></p>
 
 <p><span class="chinese">我只是个平头百姓。</span><span class="english">I'm just an ordinary citizen.</span></p>

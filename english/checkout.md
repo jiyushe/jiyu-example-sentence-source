@@ -1,5 +1,7 @@
 # checkout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checkout.md)
+
 <p><span class="chinese">在收款台的旁边。</span><span class="english">Right by the checkout desk.</span></p>
 
 <p><span class="chinese">结帐线的照片由斯丽拍摄。</span><span class="english">Checkout line photo by szlea.</span></p>

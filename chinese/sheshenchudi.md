@@ -1,5 +1,7 @@
 # 设身处地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheshenchudi.md)
+
 <p><span class="chinese">只是不设身处地从第一人称想象。</span><span class="english">You just can't picture it from the inside.</span></p>
 
 <p><span class="chinese">很多花样百出的俱乐部的项目都不会为我们设身处地的着想。</span><span class="english">Most gimmicky club things just don't do it for me.</span></p>

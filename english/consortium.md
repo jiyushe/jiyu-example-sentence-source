@@ -1,5 +1,7 @@
 # consortium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consortium.md)
+
 <p><span class="chinese">英国石油为首的财团可以依靠中石油的经验。</span><span class="english">The BP consortium can rely on the experience of CNPC.</span></p>
 
 <p><span class="chinese">寻找财团军需官，卖破烂物并且修理。</span><span class="english">Find the Consortium Quartermaster, sell junk and repair.</span></p>

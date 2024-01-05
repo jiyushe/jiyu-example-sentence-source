@@ -1,5 +1,7 @@
 # astragali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astragali.md)
+
 <p><span class="chinese">目的优选黄芪最佳提取工艺条件。</span><span class="english">Optimizing the best extracting process for Radix astragali.</span></p>
 
 <p><span class="chinese">目的研究黄芪的抗衰老作用及作用机制。</span><span class="english">Objective To evaluate the effect of radix astragali in antiaging.</span></p>

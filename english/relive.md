@@ -1,5 +1,7 @@
 # relive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relive.md)
+
 <p><span class="chinese">重温这些自虐的单身时光吧！</span><span class="english">Relive those times of self-inflicted celibacy!</span></p>
 
 <p><span class="chinese">相反，我则在不断试图重温我的孩提时代。</span><span class="english">I, in turn, kept trying to relive my childhood.</span></p>

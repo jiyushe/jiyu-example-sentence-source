@@ -1,5 +1,7 @@
 # 强占
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangzhan.md)
+
 <p><span class="chinese">换句话说，就是,强占劳动果实。</span><span class="english">In other words, it means taking the fruits of my labor.</span></p>
 
 <p><span class="chinese">投资人正押注其他可能强占市场的技术.</span><span class="english">Investors are betting on other technologies taking hold.</span></p>

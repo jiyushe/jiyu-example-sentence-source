@@ -1,5 +1,7 @@
 # vina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vina.md)
+
 <p><span class="chinese">你怎么把琴演奏出最美妙的音乐？</span><span class="english">How did you get the best sound out of your vina?</span></p>
 
 <p><span class="chinese">七弦琴的断弦不再弹唱你的荣耀。</span><span class="english">The broken strings of Vina sing no more your praise.</span></p>

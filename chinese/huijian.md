@@ -1,5 +1,7 @@
 # 回见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huijian.md)
+
 <p><span class="chinese">好咧，回见啊。</span><span class="english">Ok, See you soon.</span></p>
 
 <p><span class="chinese">好，不久以后回见。</span><span class="english">OK, see you again soon.</span></p>

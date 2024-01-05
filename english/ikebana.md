@@ -1,5 +1,7 @@
 # ikebana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ikebana.md)
+
 <p><span class="chinese">我很喜欢插花，并且我由参加插花的课程。</span><span class="english">I like ikebana very much and I take classes in it.</span></p>
 
 <p><span class="chinese">我很喜欢插花，并而且我由参加插花的课程。</span><span class="english">I like ikebana very much and I take classes in it.</span></p>

@@ -1,5 +1,7 @@
 # argosy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argosy.md)
+
 <p><span class="chinese">我们明天乘“阿戈西”号启程。</span><span class="english">We sail tomorrow on the Argosy.</span></p>
 
 <p><span class="chinese">在电子时代，操控一艘大船不再需要很多人手。</span><span class="english">At electronics ages, operate an argosy to no longer need a lot of hands.</span></p>

@@ -1,5 +1,7 @@
 # 斑斑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banban.md)
+
 <p><span class="chinese">斑斑，你还活着！</span><span class="english">Scabbers, you're alive!</span></p>
 
 <p><span class="chinese">我们记得斑斑的血渍。</span><span class="english">We remember a blood stain.</span></p>

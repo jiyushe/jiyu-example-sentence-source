@@ -1,5 +1,7 @@
 # stymie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stymie.md)
+
 <p><span class="chinese">这种脆弱性将妨碍互联网经济的发展。</span><span class="english">This vulnerability could stymie the Internet economy.</span></p>
 
 <p><span class="chinese">管制者或许会对实时竞价系统的发展进行阻挠。</span><span class="english">Regulators may yet stymie the growth of real-time bidding.</span></p>

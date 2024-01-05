@@ -1,5 +1,7 @@
 # rhombohedral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhombohedral.md)
+
 <p><span class="chinese">相反，它有一种拉长的斜方六面体结构。</span><span class="english">" Rather, "it has an elongated rhombohedral structure.</span></p>
 
 <p><span class="chinese">在纯三角相的PZT73陶瓷中发现两个内耗峰。</span><span class="english">Two internal friction peaks were found in pure rhombohedral PZT73 ceramics.</span></p>

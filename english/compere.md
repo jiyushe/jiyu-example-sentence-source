@@ -1,5 +1,7 @@
 # compere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compere.md)
+
 <p><span class="chinese">这个主持人是不适合这样一个复杂的辩论。</span><span class="english">This compere is unsuitable for such a complex debate.</span></p>
 
 <p><span class="chinese">主持人特里贝克届时将介绍名宿们。</span><span class="english">The legends will be introduced by experienced compere Terry Baker.</span></p>

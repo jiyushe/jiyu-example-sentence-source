@@ -1,5 +1,7 @@
 # optimization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optimization.md)
+
 <p><span class="chinese">内容最优化系统。</span><span class="english">Content optimization systems.</span></p>
 
 <p><span class="chinese">缓存只是一种最优化。</span><span class="english">Caching is simply an optimization.</span></p>

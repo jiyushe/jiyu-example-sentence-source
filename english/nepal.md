@@ -1,5 +1,7 @@
 # nepal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nepal.md)
+
 <p><span class="chinese">这是尼泊尔。</span><span class="english">This is Nepal.</span></p>
 
 <p><span class="chinese">这是一个伟大的日子对尼泊尔。</span><span class="english">This is a big day for Nepal.</span></p>

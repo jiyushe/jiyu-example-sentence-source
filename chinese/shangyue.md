@@ -1,5 +1,7 @@
 # 上月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangyue.md)
+
 <p><span class="chinese">人类不可能飞上月球。</span><span class="english">Humans can't?y to the moon.</span></p>
 
 <p><span class="chinese">他的传记上月出版了。</span><span class="english">His biography appeared last month.</span></p>

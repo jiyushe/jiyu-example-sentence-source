@@ -1,5 +1,7 @@
 # passel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passel.md)
+
 <p><span class="chinese">“他们是一群大傻瓜，”她怒气冲冲地说。</span><span class="english">"They are a passel of fools" she said shortly.</span></p>
 
 <p><span class="chinese">从果农摘下的第一批青涩的果子，到收获结束果农运走的最后一批，我都购买和品尝过。</span><span class="english">From fruit grower got first passel green fruit to got last one, I just bought and tasted.</span></p>

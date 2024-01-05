@@ -1,5 +1,7 @@
 # 莫名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moming.md)
+
 <p><span class="chinese">这真是一次莫名的患病。</span><span class="english">This was a strange illness.</span></p>
 
 <p><span class="chinese">我喜欢这种凄清的美，莫名所以地喜欢。</span><span class="english">I liked such bleak beauty without any reason.</span></p>

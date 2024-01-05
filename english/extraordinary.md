@@ -1,5 +1,7 @@
 # extraordinary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extraordinary.md)
+
 <p><span class="chinese">太不可思议了</span><span class="english">It's simply extraordinary.</span></p>
 
 <p><span class="chinese">我是一个非凡的人。</span><span class="english">I am an extraordinary person.</span></p>

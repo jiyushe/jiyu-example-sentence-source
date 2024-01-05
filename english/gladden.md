@@ -1,5 +1,7 @@
 # gladden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gladden.md)
+
 <p><span class="chinese">让一个孩子的心充满喜悦。</span><span class="english">Gladden the heart of a child.</span></p>
 
 <p><span class="chinese">崇拜上帝，使孩子满心欢喜。</span><span class="english">Worship your God . Gladden the heart of a child.</span></p>

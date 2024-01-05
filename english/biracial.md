@@ -1,5 +1,7 @@
 # biracial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biracial.md)
+
 <p><span class="chinese">给我的混血儿子讲的关于人种的教导。</span><span class="english">Lessons on race for my biracial son.</span></p>
 
 <p><span class="chinese">你很难在2011年对一个混血小孩解释这事。</span><span class="english">It’s hard to explain to a biracial child in 2011.</span></p>

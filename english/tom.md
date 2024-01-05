@@ -1,5 +1,7 @@
 # tom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tom.md)
+
 <p><span class="chinese">杰克和汤姆。</span><span class="english">Jack and Tom.</span></p>
 
 <p><span class="chinese">跟他说说，汤姆。</span><span class="english">Tell him, Tom.</span></p>

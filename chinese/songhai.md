@@ -1,5 +1,7 @@
 # 送还
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songhai.md)
+
 <p><span class="chinese">⊙、相逢方一笑，相送还成泣。</span><span class="english">Meet a smile, send into tears.</span></p>
 
 <p><span class="chinese">他追了六个街区送还给我。</span><span class="english">He'd run six blocks to return it.</span></p>

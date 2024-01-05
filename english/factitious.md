@@ -1,5 +1,7 @@
 # factitious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/factitious.md)
+
 <p><span class="chinese">人为什么有时候会感觉得累？</span><span class="english">Factitious what can feel tiredly occasionally?</span></p>
 
 <p><span class="chinese">而这些是非对错的标准显然都是人为的。</span><span class="english">So we know that the right and wrong are factitious.</span></p>

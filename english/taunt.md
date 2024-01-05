@@ -1,5 +1,7 @@
 # taunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taunt.md)
+
 <p><span class="chinese">他成了邻居们嘲讽的对象。</span><span class="english">He became a taunt to his neighbours.</span></p>
 
 <p><span class="chinese">它们并不会在一旁嘲笑你，迫使你看完已经开始的书。</span><span class="english">They do not taunt you to finish what you started.</span></p>

@@ -1,5 +1,7 @@
 # parting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parting.md)
+
 <p><span class="chinese">分割车刀架。</span><span class="english">Parting tool holder.</span></p>
 
 <p><span class="chinese">我们有一个小的礼物。</span><span class="english">So we have a parting gift.</span></p>

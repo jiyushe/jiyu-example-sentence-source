@@ -1,5 +1,7 @@
 # screech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screech.md)
+
 <p><span class="chinese">汽车打滑了，车轮发出刺耳的声音。</span><span class="english">The car skids, the tires screech.</span></p>
 
 <p><span class="chinese">汽车尖叫一声煞住了。</span><span class="english">To cry or screech like a cat in heat.</span></p>

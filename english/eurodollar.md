@@ -1,5 +1,7 @@
 # eurodollar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eurodollar.md)
+
 <p><span class="chinese">用于欧洲国家之间的各种贸易。</span><span class="english">Eurodollar is used for trade within Europe.</span></p>
 
 <p><span class="chinese">欧元用于欧洲国家之间的各种贸易。</span><span class="english">Eurodollar is used for trade within Europe.</span></p>

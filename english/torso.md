@@ -1,5 +1,7 @@
 # torso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torso.md)
+
 <p><span class="chinese">躯干保持向上。</span><span class="english">Keep your torso upright.</span></p>
 
 <p><span class="chinese">一部分被放入Jones的身体。</span><span class="english">One part gets put into Jones' torso.</span></p>

@@ -1,5 +1,7 @@
 # keratinocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keratinocyte.md)
+
 <p><span class="chinese">文章系统阐述了表皮细胞体外培养的安全性标准。</span><span class="english">In this paper, we described the safety standards of keratinocyte culture in vitro.</span></p>
 
 <p><span class="chinese">目的探讨姜黄油对角质形成细胞超微结构的影响。</span><span class="english">Objective To investigate the effects of turmeric oil on ultrastructure of keratinocyte.</span></p>

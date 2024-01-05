@@ -1,5 +1,7 @@
 # kaolinite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaolinite.md)
+
 <p><span class="chinese">黄壤则主要含高岭石和石英。</span><span class="english">While yellow soils mainly contain kaolinite and quartz.</span></p>
 
 <p><span class="chinese">脉石矿物主要有石英、白云母和高岭土。</span><span class="english">The main gangue minerals are quartz, mica and kaolinite.</span></p>

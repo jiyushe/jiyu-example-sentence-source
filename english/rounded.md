@@ -1,5 +1,7 @@
 # rounded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rounded.md)
+
 <p><span class="chinese">船绕过海岬。</span><span class="english">The ship rounded the cape.</span></p>
 
 <p><span class="chinese">小数向下取整。</span><span class="english">Fractions are rounded down.</span></p>

@@ -1,5 +1,7 @@
 # unpopularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpopularity.md)
+
 <p><span class="chinese">当时的民意调查印证了肯尼迪的说法，政客确实并不受人欢迎。</span><span class="english">Polls from the time bear out JFK's maxim about the unpopularity of politicians.</span></p>
 
 <p><span class="chinese">这项任命更耐人寻味的是，连马先生本身的政党人士也不支持。</span><span class="english">The appointment is doubly interesting because of its unpopularity within Mr Ma's own party.</span></p>

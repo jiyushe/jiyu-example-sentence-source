@@ -1,5 +1,7 @@
 # eau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eau.md)
+
 <p><span class="chinese">香水，淡香水，古龙水。</span><span class="english">Perfumes, Eau de toilette, Eau-de-cologne.</span></p>
 
 <p><span class="chinese">我可是用了“三宅一生”的淡香水呢！</span><span class="english">I use the eau de toilette from Issey Miyake!</span></p>

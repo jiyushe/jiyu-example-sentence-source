@@ -1,5 +1,7 @@
 # 脐带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qidai_1.md)
+
 <p><span class="chinese">他把这种联系比作脐带。</span><span class="english">This is an umbilical cord he's talking about.</span></p>
 
 <p><span class="chinese">从胎盘袋子中拉出的剪断的脐带。</span><span class="english">Placenta in bag with cut navel cord jutting out.</span></p>

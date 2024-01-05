@@ -1,5 +1,7 @@
 # hissing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hissing.md)
+
 <p><span class="chinese">这嘶嘶声真使我难受。</span><span class="english">That hissing gets on my nerves.</span></p>
 
 <p><span class="chinese">蒸汽漏出来时发出嘶嘶的声音。</span><span class="english">The steam escaped with a hissing sound.</span></p>

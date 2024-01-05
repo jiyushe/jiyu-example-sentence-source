@@ -1,5 +1,7 @@
 # 晾晒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangshai.md)
+
 <p><span class="chinese">一堆洗好的衣服晾晒在一座破落房屋的门廊前。</span><span class="english">Laundry is strung across a sagging front porch.</span></p>
 
 <p><span class="chinese">他们要把玉米在打谷场晾晒干。</span><span class="english">They are going to weather the corn in the thrashing field.</span></p>

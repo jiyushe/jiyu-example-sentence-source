@@ -1,5 +1,7 @@
 # consuming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consuming.md)
+
 <p><span class="chinese">制作模型火车是他废寝忘食的爱好。</span><span class="english">Building model trains is his consuming passion.</span></p>
 
 <p><span class="chinese">而中国要走向消费型社会也可谓是长路漫漫。</span><span class="english">But China is a long way from consuming too much.</span></p>

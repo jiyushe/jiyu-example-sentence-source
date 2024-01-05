@@ -1,5 +1,7 @@
 # 残雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canxue.md)
+
 <p><span class="chinese">2001年六月八日，我在残雪长沙的家中采访了她。</span><span class="english">I interviewed Can Xue at her home in Changsha on June 8, 2001.</span></p>
 
 <p><span class="chinese">寒冷冬日的残雪仍然借着严寒的余威覆盖大地。</span><span class="english">The snow of colder days still holds on with its chilling grip.</span></p>

@@ -1,5 +1,7 @@
 # thyroglobulin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thyroglobulin.md)
+
 <p><span class="chinese">目的动态观察甲状腺球蛋白浓度变化对鉴别良、恶性甲状腺结节的临床价值。</span><span class="english">Objective To study the value of changes of thyroglobulin in detecting property of thyroid nodule.</span></p>
 
 <p><span class="chinese">探讨甲状腺球蛋白检测在甲状腺癌诊断及疗效监测中的应用价值。</span><span class="english">To determine the value of thyroglobulin detection for diagnosis and monitoring of thyroid carcinoma.</span></p>

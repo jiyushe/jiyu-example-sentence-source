@@ -1,5 +1,7 @@
 # toiletry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toiletry.md)
+
 <p><span class="chinese">据说他还携带一个8英寸的化妆盒儿。</span><span class="english">He was also reportedly carrying a small black 8 toiletry bag.</span></p>
 
 <p><span class="chinese">另外一种西方人喜欢化妆品是除臭剂。</span><span class="english">Another toiletry that westerners like to use is deodorant. Because we stink!</span></p>

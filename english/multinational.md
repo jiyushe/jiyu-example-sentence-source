@@ -1,5 +1,7 @@
 # multinational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multinational.md)
+
 <p><span class="chinese">我访问过在中国的印度跨国公司苏司兰。</span><span class="english">I have visited Indian Multinational Suzlon in china.</span></p>
 
 <p><span class="chinese">跨国公司没有做好</span><span class="english">Multinational corporations aren't really doing their job</span></p>

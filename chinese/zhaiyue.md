@@ -1,5 +1,7 @@
 # 斋月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaiyue.md)
+
 <p><span class="chinese">什么是斋月？</span><span class="english">What is Ramadan?</span></p>
 
 <p><span class="chinese">接下来的那个斋月就好些了。</span><span class="english">The next Ramadhan was better.</span></p>

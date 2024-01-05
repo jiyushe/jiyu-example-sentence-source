@@ -1,5 +1,7 @@
 # 等闲视之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dengxianshizhi.md)
+
 <p><span class="chinese">这里所涉及的数字，不能等闲视之。</span><span class="english">The numbers involved are not trivial.</span></p>
 
 <p><span class="chinese">当然，这一趋势不能等闲视之。</span><span class="english">Of course, this can’t be taken lightly.</span></p>

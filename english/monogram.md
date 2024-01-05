@@ -1,5 +1,7 @@
 # monogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monogram.md)
+
 <p><span class="chinese">会标多色的的路易威登袋格里塔是一个古典和优雅。</span><span class="english">Monogram Multicolor Louis Vuitton bags Greta is a classic and elegant.</span></p>
 
 <p><span class="chinese">您的东西全在里面，除了一只小皮夹子，上面有您名字的起首字母。</span><span class="english">It's all there except for a little pocketbook with your monogram on it.</span></p>

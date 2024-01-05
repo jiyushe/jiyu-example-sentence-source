@@ -1,5 +1,7 @@
 # satchel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satchel.md)
+
 <p><span class="chinese">她带了一个鼓鼓囊囊的帆布包。</span><span class="english">She carried a filled canvas satchel.</span></p>
 
 <p><span class="chinese">他把他的书包扣在他的自行车上。</span><span class="english">He buckled his satchel on to his bicycle.</span></p>

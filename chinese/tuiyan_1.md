@@ -1,5 +1,7 @@
 # 推演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiyan_1.md)
+
 <p><span class="chinese">你到底是怎么推演出来的？</span><span class="english">How in the world did you deduce that?</span></p>
 
 <p><span class="chinese">不过，与之相关的风险和收益之间的推演数据结果已经改变了。</span><span class="english">But the risk-benefit calculus has changed.</span></p>

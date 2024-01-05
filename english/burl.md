@@ -1,5 +1,7 @@
 # burl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burl.md)
+
 <p><span class="chinese">1961年，伯尔·艾夫斯录制的另一首歌很快轰动一时。</span><span class="english">In 1961, Burl lves recorded a song that became another major hit.</span></p>
 
 <p><span class="chinese">每周，在伯尔？艾夫斯的电台专栏里，人们可以听到。</span><span class="english">Mountain could be heard on the Burl lves radio program each week.</span></p>

@@ -1,5 +1,7 @@
 # pollination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollination.md)
+
 <p><span class="chinese">三分之一的庄稼须依赖昆虫授粉。</span><span class="english">One-third of food crops rely on insect pollination.</span></p>
 
 <p><span class="chinese">这减少出现自花授粉的可能性。</span><span class="english">This eliminates the possibility of self- pollination.</span></p>

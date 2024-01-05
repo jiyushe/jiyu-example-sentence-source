@@ -1,5 +1,7 @@
 # 电子管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianziguan.md)
+
 <p><span class="chinese">电子管放大器?。</span><span class="english">VTA? Vacuum Tube Amplifier?</span></p>
 
 <p><span class="chinese">感觉就像我是在一个电子管功放播放。</span><span class="english">It felt like I was playing on a tube amp.</span></p>

@@ -1,5 +1,7 @@
 # 重重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongchong_2.md)
+
 <p><span class="chinese">我只听到一声重重的关门声。</span><span class="english">I only heard a heavy door.</span></p>
 
 <p><span class="chinese">层层迷雾遮蔽了重重峰峦。</span><span class="english">Fogs hide the mountain peaks.</span></p>

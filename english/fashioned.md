@@ -1,5 +1,7 @@
 # fashioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fashioned.md)
+
 <p><span class="chinese">或者来个老式的茶话会。</span><span class="english">Or an old fashioned tea party?</span></p>
 
 <p><span class="chinese">他不追求夸张的警句。</span><span class="english">He fashioned no stilted epigram.</span></p>

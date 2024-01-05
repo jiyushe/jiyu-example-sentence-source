@@ -1,5 +1,7 @@
 # cheque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheque.md)
+
 <p><span class="chinese">她的支票被拒付而退回。</span><span class="english">Her cheque has bounced.</span></p>
 
 <p><span class="chinese">您用现金还是支票？</span><span class="english">En efectivo o con cheque?</span></p>

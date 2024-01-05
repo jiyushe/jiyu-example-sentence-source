@@ -1,5 +1,7 @@
 # reformer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reformer.md)
+
 <p><span class="chinese">然而，她是一个改革派吗？</span><span class="english">But is she a reformer?</span></p>
 
 <p><span class="chinese">他是不屈不挠的改革者的典型。</span><span class="english">He typifies the uncompromising reformer.</span></p>

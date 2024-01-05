@@ -1,5 +1,7 @@
 # cilantro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cilantro.md)
+
 <p><span class="chinese">香茅草，红咖喱，香菜。</span><span class="english">Lemon grass, red curry, cilantro.</span></p>
 
 <p><span class="chinese">胡荽和胡荽叶是同一种香料。</span><span class="english">Coriander and cilantro are the same spice.</span></p>

@@ -1,5 +1,7 @@
 # slowdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slowdown.md)
+
 <p><span class="chinese">和你们的羊毛贸易已有所减少，迷昏药那里有。</span><span class="english">There has been a slowdown in the wool trade with you.</span></p>
 
 <p><span class="chinese">现在这种放缓是暂时性的还是趋势性的？</span><span class="english">And will such slowdown be temporary or become a trend?</span></p>

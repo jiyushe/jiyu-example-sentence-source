@@ -1,5 +1,7 @@
 # stain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stain.md)
+
 <p><span class="chinese">油漆和涂料。</span><span class="english">Paint and stain.</span></p>
 
 <p><span class="chinese">可以去掉这块污渍吗？</span><span class="english">Cay you remove the stain?</span></p>

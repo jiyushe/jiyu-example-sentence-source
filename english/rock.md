@@ -1,5 +1,7 @@
 # rock 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rock.md)
+
 <p><span class="chinese">钟楼岩石。</span><span class="english">Belfry rock.</span></p>
 
 <p><span class="chinese">我真的爱岩壁。</span><span class="english">I really love rock.</span></p>

@@ -1,5 +1,7 @@
 # infall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infall.md)
+
 <p><span class="chinese">海盗的入侵导致了村民的悲惨生活。</span><span class="english">The infall of the pirates caused the villagers to live a miserable life.</span></p>
 
 <p><span class="chinese">后者称之为淋失，只有在降雨量高的地区中的砂质土上，才会有这个问题。</span><span class="english">The latter, called leaching loss, is a problem only in sandy soils in high ra infall areas.</span></p>

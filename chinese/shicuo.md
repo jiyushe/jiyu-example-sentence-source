@@ -1,5 +1,7 @@
 # 失措
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shicuo.md)
+
 <p><span class="chinese">她因悲伤而茫然失措。</span><span class="english">She was numb with grief.</span></p>
 
 <p><span class="chinese">还会在遇到困难的时候茫然失措吗？</span><span class="english">Still lost in times of trouble?</span></p>

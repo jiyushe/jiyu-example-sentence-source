@@ -1,5 +1,7 @@
 # erstwhile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erstwhile.md)
+
 <p><span class="chinese">我从前的内兄想见我。</span><span class="english">My erstwhile brother-in-law wants to see me.</span></p>
 
 <p><span class="chinese">他们的情况比以前的竞争对手都要好。</span><span class="english">Both are in better shape than their erstwhile rivals.</span></p>

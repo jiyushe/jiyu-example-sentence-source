@@ -1,5 +1,7 @@
 # 婉转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanzhuan.md)
+
 <p><span class="chinese">谛听我的笛音婉转。</span><span class="english">Listening to my sweet pipings.</span></p>
 
 <p><span class="chinese">羡慕我的婉转笛音。</span><span class="english">With envy of my sweet pipings.</span></p>

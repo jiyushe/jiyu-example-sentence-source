@@ -1,5 +1,7 @@
 # sandbank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandbank.md)
+
 <p><span class="chinese">这艘油轮在一个沙洲上搁浅了。</span><span class="english">The oil tanker ran aground on a sandbank.</span></p>
 
 <p><span class="chinese">他们的帆船搁浅在沙丘上了。</span><span class="english">Their yacht was left high and dry on a sandbank.</span></p>

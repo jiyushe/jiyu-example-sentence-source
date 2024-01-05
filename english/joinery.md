@@ -1,5 +1,7 @@
 # joinery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joinery.md)
+
 <p><span class="chinese">装饰材﹐唐木家俱﹐雕刻木艺品﹐木质手把﹐细木器。</span><span class="english">Decoration, furniture, wood carving, handles, joinery and inlaid work.</span></p>
 
 <p><span class="chinese">所有的木工作业要符合一般的建筑标准。</span><span class="english">All joinery work shall be in accordance with normal Builder's standards.</span></p>

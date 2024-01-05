@@ -1,5 +1,7 @@
 # finger 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finger_1.md)
+
 <p><span class="chinese">手指画。</span><span class="english">Finger painting.</span></p>
 
 <p><span class="chinese">我切到手指了。</span><span class="english">I cut my finger.</span></p>

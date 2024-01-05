@@ -1,5 +1,7 @@
 # archipelago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archipelago.md)
+
 <p><span class="chinese">印尼是世界上最大的群岛，由于地处太平洋火圈，很容易发生地震。</span><span class="english">Indonesia is the world's largest archipelago.</span></p>
 
 <p><span class="chinese">旅游业和捕鱼业在这个多岛国家大大发展。</span><span class="english">Tourism and fishing are being developed on the archipelago.</span></p>

@@ -1,5 +1,7 @@
 # slipway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slipway.md)
+
 <p><span class="chinese">若干地区存在船台及船坞等资本的过度供给。</span><span class="english">Some areas are slack in slipway and dock.</span></p>
 
 <p><span class="chinese">采用CFD方法对船体从船台上纵向重力式下水这一运动过程进行动态数值模拟。</span><span class="english">This article presents a CFD method which simulates longitudinal gravity launching of a hull along a slipway.</span></p>

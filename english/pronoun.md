@@ -1,5 +1,7 @@
 # pronoun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronoun.md)
+
 <p><span class="chinese">这里你应该用复数代词。</span><span class="english">Here you should use plural pronoun.</span></p>
 
 <p><span class="chinese">与复数代名词或名词连用。</span><span class="english">We use ' have' with a plural pronoun or noun.</span></p>

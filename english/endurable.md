@@ -1,5 +1,7 @@
 # endurable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endurable.md)
+
 <p><span class="chinese">我觉得这个女人难以忍受。</span><span class="english">I found the woman scarcely endurable.</span></p>
 
 <p><span class="chinese">那歌声使冰天雪地的寒冬变得较易忍受。</span><span class="english">And make that season of ice and snow more endurable.</span></p>

@@ -1,5 +1,7 @@
 # 游仙诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxianshi.md)
+
 <p><span class="chinese">而他又如何叙写游仙诗？</span><span class="english">Why did he write these poetry?</span></p>
 
 <p><span class="chinese">释家的文扃、儒家的朱熹创作游仙诗，反映了宋代思想的融合。</span><span class="english">The poetry of Wenjiong and Zhuxi reflect the combination of idea of Song Dynasty.</span></p>

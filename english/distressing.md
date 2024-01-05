@@ -1,5 +1,7 @@
 # distressing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distressing.md)
+
 <p><span class="chinese">看来我刚才在白白地使您痛苦。</span><span class="english">I seem to have been distressing you for nothing.</span></p>
 
 <p><span class="chinese">这样浪费粮食令人痛心。</span><span class="english">It is distressing to see food being wasted like this.</span></p>

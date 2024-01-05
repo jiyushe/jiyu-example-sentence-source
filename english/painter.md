@@ -1,5 +1,7 @@
 # painter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/painter.md)
+
 <p><span class="chinese">我是漆工。</span><span class="english">I am a painter.</span></p>
 
 <p><span class="chinese">詹姆斯•潘特报道。</span><span class="english">James Painter reports.</span></p>

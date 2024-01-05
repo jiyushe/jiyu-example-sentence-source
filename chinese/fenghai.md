@@ -1,5 +1,7 @@
 # 风害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenghai.md)
+
 <p><span class="chinese">防风墙不仅仅保护土地和庄稼免遭风害。</span><span class="english">Windbreaks not only protect land and crops from the wind.</span></p>
 
 <p><span class="chinese">在林冠层可以清楚地看到互相保护免遭风害的作用。</span><span class="english">Mutual protection against wind is distinctly recognizable at the crown canopy.</span></p>

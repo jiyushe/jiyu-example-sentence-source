@@ -1,5 +1,7 @@
 # beheld
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beheld.md)
+
 <p><span class="chinese">他注视著那条船下沈。</span><span class="english">He beheld the boat sink.</span></p>
 
 <p><span class="chinese">我们看着那艘船沉下去。</span><span class="english">We beheld the ship sinking.</span></p>

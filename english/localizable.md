@@ -1,5 +1,7 @@
 # localizable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/localizable.md)
+
 <p><span class="chinese">各文本定位或变化多端。</span><span class="english">All texts are localizable or changeable.</span></p>
 
 <p><span class="chinese">局部骨髓组织减少。</span><span class="english">Localizable tissue of bone marrow was decreased.</span></p>

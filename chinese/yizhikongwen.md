@@ -1,5 +1,7 @@
 # 一纸空文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhikongwen.md)
+
 <p><span class="chinese">此法已成为一纸空文。</span><span class="english">This law has become a dead letter.</span></p>
 
 <p><span class="chinese">此法已成了一纸空文。</span><span class="english">This law get becoming a dead letter.</span></p>

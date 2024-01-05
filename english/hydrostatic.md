@@ -1,5 +1,7 @@
 # hydrostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrostatic.md)
+
 <p><span class="chinese">在储层中的正常静水压力。</span><span class="english">Normal hydrostatic pressure in a reservoir.</span></p>
 
 <p><span class="chinese">在5000英尺深处静压力是多少？</span><span class="english">What is the hydrostatic pressure at 5000 feet?</span></p>

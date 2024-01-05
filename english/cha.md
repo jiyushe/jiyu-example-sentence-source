@@ -1,5 +1,7 @@
 # cha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cha.md)
+
 <p><span class="chinese">如何得知贡茶这品牌?。</span><span class="english">How do you know Gong Cha ?</span></p>
 
 <p><span class="chinese">又称边销茶。</span><span class="english">Also known as Bianxiao Cha.</span></p>

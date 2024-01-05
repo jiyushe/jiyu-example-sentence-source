@@ -1,5 +1,7 @@
 # 抗击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangji.md)
+
 <p><span class="chinese">怎么抗击这样的恶魔？</span><span class="english">How do you fight demons like that?</span></p>
 
 <p><span class="chinese">那么，你要怎么抗击冬季抑郁呢？</span><span class="english">So how do you beat the winter blues?</span></p>

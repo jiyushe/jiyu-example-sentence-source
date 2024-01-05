@@ -1,5 +1,7 @@
 # interloper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interloper.md)
+
 <p><span class="chinese">这个抢镜头的家伙是谁？</span><span class="english">Who was this crazed interloper?</span></p>
 
 <p><span class="chinese">她感到在自己家里像个外人。</span><span class="english">She felt like an interloper in her own family.</span></p>

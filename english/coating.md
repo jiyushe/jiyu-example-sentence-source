@@ -1,5 +1,7 @@
 # coating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coating.md)
+
 <p><span class="chinese">这层涂料能防潮。</span><span class="english">This coating repels moisture.</span></p>
 
 <p><span class="chinese">地上薄薄地铺了一层雪。</span><span class="english">A thin, glassy coating of ice.</span></p>

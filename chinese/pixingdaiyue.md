@@ -1,5 +1,7 @@
 # 披星戴月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pixingdaiyue.md)
+
 <p><span class="chinese">巡道工人披星戴月地执行任务。</span><span class="english">The trackmen work very hard from morning till dusk.</span></p>
 
 <p><span class="chinese">从今往后，再也没有那样一个男子，为她披星戴月，地狱人间。</span><span class="english">From now on, no longer as a man, for her daytime and human hell.</span></p>

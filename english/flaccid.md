@@ -1,5 +1,7 @@
 # flaccid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flaccid.md)
+
 <p><span class="chinese">扣打距毛，运动失调，尾偏斜和尾可能松垂。</span><span class="english">Knuckling at fetlocks, ataxia, tail deviation and tail may be flaccid.</span></p>
 
 <p><span class="chinese">这包括弛缓性和遗忘的大先生的保罗吉亚玛提播放。</span><span class="english">That includes the flaccid and forgettable Mr. Big played by Paul Giamatti.</span></p>

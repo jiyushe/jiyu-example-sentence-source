@@ -1,5 +1,7 @@
 # 西装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizhuang_2.md)
+
 <p><span class="chinese">他把他的新西装弄皱了。</span><span class="english">He crumpled his new suit.</span></p>
 
 <p><span class="chinese">王伟我的西装呢？</span><span class="english">Wang Wei Where is my suit?</span></p>

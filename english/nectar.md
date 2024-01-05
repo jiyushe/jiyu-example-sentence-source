@@ -1,5 +1,7 @@
 # nectar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nectar.md)
+
 <p><span class="chinese">来一小瓶中国果茶吧。</span><span class="english">A small Bottle of China nectar.</span></p>
 
 <p><span class="chinese">它们从花中吸取花蜜。</span><span class="english">They drink nectar from flowers.</span></p>

@@ -1,5 +1,7 @@
 # 吸力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xili.md)
+
 <p><span class="chinese">真空吸尘器的吸力很弱。</span><span class="english">The vacuum cleaner has weak suction.</span></p>
 
 <p><span class="chinese">地心吸力使苹果落地。</span><span class="english">An apple falls by the force of gravitation.</span></p>

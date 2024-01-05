@@ -1,5 +1,7 @@
 # 葬礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zangli.md)
+
 <p><span class="chinese">去参加我们的葬礼。</span><span class="english">Going to our funerals.</span></p>
 
 <p><span class="chinese">葬礼意义重大</span><span class="english">Burial is very critical.</span></p>

@@ -1,5 +1,7 @@
 # 惟命是从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weimingshicong_1.md)
+
 <p><span class="chinese">我不喜欢对上司惟命是从。</span><span class="english">I hate to truckle to my superiors.</span></p>
 
 <p><span class="chinese">我得对上司惟命是从，这叫我心里实在难受。</span><span class="english">I am sick of having to truckle to my superiors.</span></p>

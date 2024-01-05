@@ -1,5 +1,7 @@
 # adjustability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjustability.md)
+
 <p><span class="chinese">多个后方休克安装位置更好的适应性。</span><span class="english">Several more rear shock mounting position for better adjustability.</span></p>
 
 <p><span class="chinese">表示电感器。可指定电感器铁芯和可调整性。</span><span class="english">Represents an inductor. Inductor core and adjustability can be specified.</span></p>

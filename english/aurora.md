@@ -1,5 +1,7 @@
 # aurora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aurora.md)
+
 <p><span class="chinese">曙光映红了天空。</span><span class="english">The aurora flushed into the sky.</span></p>
 
 <p><span class="chinese">奥罗拉当然还是睡着了。</span><span class="english">Sure enough, Aurora falls asleep.</span></p>

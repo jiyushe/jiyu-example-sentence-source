@@ -1,5 +1,7 @@
 # epigastrium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epigastrium.md)
+
 <p><span class="chinese">没有过上腹部烧灼感。</span><span class="english">There has been no burning in epigastrium.</span></p>
 
 <p><span class="chinese">食欲不振，上腹部有不适感。</span><span class="english">Inappetence , epigastrium has unwell feeling.</span></p>

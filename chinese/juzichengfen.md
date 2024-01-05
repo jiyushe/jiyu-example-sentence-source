@@ -1,5 +1,7 @@
 # 句子成分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzichengfen.md)
+
 <p><span class="chinese">为什么要从句子成分学起？</span><span class="english">Why should we start from the sentence constituent?</span></p>
 
 <p><span class="chinese">我在做划分句子成分的练习。</span><span class="english">We are doing exercises on dividing sentence elements.</span></p>

@@ -1,5 +1,7 @@
 # lucas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucas.md)
+
 <p><span class="chinese">卢卡斯是长脸，皮肤更白。</span><span class="english">Lucas was fair and his face was long.</span></p>
 
 <p><span class="chinese">小卢卡斯你不呆在床上在这里做什么?</span><span class="english">What are you doing out of bed, tiny Lucas?</span></p>

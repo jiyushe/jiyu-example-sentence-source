@@ -1,5 +1,7 @@
 # sedimentology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedimentology.md)
+
 <p><span class="chinese">沉积学和海洋生物学都是实践性很强的学科。</span><span class="english">Both sedimentology and marine biology are practice-needed curriculum.</span></p>
 
 <p><span class="chinese">火山沉积作用是介于火山学和沉积学之间的边缘研究领域。</span><span class="english">Volcanic sedimentation is a frontier realm between volcanology and sedimentology.</span></p>

@@ -1,5 +1,7 @@
 # unconscionable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconscionable.md)
+
 <p><span class="chinese">这些人太没良心了。</span><span class="english">These people are too unconscionable.</span></p>
 
 <p><span class="chinese">他吃饭的时过长。</span><span class="english">He takes an unconscionable time eating.</span></p>

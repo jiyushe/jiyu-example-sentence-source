@@ -1,5 +1,7 @@
 # circumnavigate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumnavigate.md)
+
 <p><span class="chinese">他计划搭乘氦气球环绕世界一周。</span><span class="english">He plans to circumnavigate the world in a helium balloon.</span></p>
 
 <p><span class="chinese">麦哲伦是第一个环球航行的人。</span><span class="english">Magellan was the first person to circumnavigate the globe.</span></p>

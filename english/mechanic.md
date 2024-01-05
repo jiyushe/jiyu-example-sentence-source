@@ -1,5 +1,7 @@
 # mechanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mechanic.md)
+
 <p><span class="chinese">他是个熟练的机械师。</span><span class="english">He is an adept mechanic.</span></p>
 
 <p><span class="chinese">彼得是一个心灵手巧的技工。</span><span class="english">Peter is a clever mechanic.</span></p>

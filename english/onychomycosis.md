@@ -1,5 +1,7 @@
 # onychomycosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onychomycosis.md)
+
 <p><span class="chinese">灰指甲病分为亚型。</span><span class="english">Onychomycosis is divided into subtypes.</span></p>
 
 <p><span class="chinese">长春哪里治灰指甲好？</span><span class="english">Where does Changchun administer onychomycosis well?</span></p>

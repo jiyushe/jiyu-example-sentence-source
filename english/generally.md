@@ -1,5 +1,7 @@
 # generally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generally.md)
+
 <p><span class="chinese">这通常都是无害的。</span><span class="english">This is generally harmless.</span></p>
 
 <p><span class="chinese">内壁上的息肉一般是要切除的。</span><span class="english">Polyps are generally removed.</span></p>

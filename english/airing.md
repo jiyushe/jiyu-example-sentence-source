@@ -1,5 +1,7 @@
 # airing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airing.md)
+
 <p><span class="chinese">你的衣服在绳子上晾着。</span><span class="english">Your suit is airing on the line.</span></p>
 
 <p><span class="chinese">炫耀学问是一种坏作风。</span><span class="english">He is always airing his knowledge.</span></p>

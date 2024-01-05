@@ -1,5 +1,7 @@
 # 雷暴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leibao.md)
+
 <p><span class="chinese">雷暴天气使孩子受到了惊吓。</span><span class="english">The thunderstorm terrified the child.</span></p>
 
 <p><span class="chinese">在雷暴期间，灯光是否会闪烁不定？</span><span class="english">Do lights blink during lightning storms?</span></p>

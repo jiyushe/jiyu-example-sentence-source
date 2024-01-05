@@ -1,5 +1,7 @@
 # tue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tue.md)
+
 <p><span class="chinese">这情景使我想起那段快乐的时日。</span><span class="english">Tue sight reminded me of happy day.</span></p>
 
 <p><span class="chinese">激光管的长度缩短了十分之九。</span><span class="english">The length of laser tue was reduced ten times.</span></p>

@@ -1,5 +1,7 @@
 # 拉下马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laxiama.md)
+
 <p><span class="chinese">曼联家老头曾说把利物浦拉下马是我一生最大的成就。</span><span class="english">Knocking Liverpool off their fucking perch is my greatest achievement.</span></p>
 
 <p><span class="chinese">他们希望找到那样一个人帮他们把凯若琳·雷诺兹拉下马。</span><span class="english">They wanted that people could help them to bring Caroline Reynolds down.</span></p>

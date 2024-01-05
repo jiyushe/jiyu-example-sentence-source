@@ -1,5 +1,7 @@
 # manliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manliness.md)
+
 <p><span class="chinese">我喜欢男人般刚毅吗？</span><span class="english">Do I like my manliness?</span></p>
 
 <p><span class="chinese">对大多数男人来说，男子气概就是他们的一切。</span><span class="english">Manliness for most dudes is all they have.</span></p>

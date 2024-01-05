@@ -1,5 +1,7 @@
 # templar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/templar.md)
+
 <p><span class="chinese">圣堂骑士骑士在教堂中埋葬。</span><span class="english">Templar Knights entombed in the church.</span></p>
 
 <p><span class="chinese">固定失踪的UI资讯坦普勒骑兵。</span><span class="english">Fixed missing UI info for Templar Cavalry.</span></p>

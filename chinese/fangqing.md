@@ -1,5 +1,7 @@
 # 放晴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangqing.md)
+
 <p><span class="chinese">很快就会放晴。</span><span class="english">It'll soon clear up.</span></p>
 
 <p><span class="chinese">那意味着天空会放晴了。</span><span class="english">That means it will clear up.</span></p>

@@ -1,5 +1,7 @@
 # 追逐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuizhu.md)
+
 <p><span class="chinese">他总在不断地追逐女人。</span><span class="english">He's always chasing women.</span></p>
 
 <p><span class="chinese">让我们象风一样地去追逐梦想！</span><span class="english">Chase after them as the wind!</span></p>

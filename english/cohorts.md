@@ -1,5 +1,7 @@
 # cohorts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cohorts.md)
+
 <p><span class="chinese">最后我们从70篇文献中、分40个层次整理有关资料。</span><span class="english">Ultimately, we abstracted data from 70 articles and 40 cohorts.</span></p>
 
 <p><span class="chinese">所以至少和班级一起修一门课，有时候更多。</span><span class="english">So you take at least one, sometimes more classes with your cohorts.</span></p>

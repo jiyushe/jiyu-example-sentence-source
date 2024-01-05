@@ -1,5 +1,7 @@
 # rationalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rationalistic.md)
+
 <p><span class="chinese">这其实是一种理性主义的观点。</span><span class="english">That is actually quite a rationalistic claim.</span></p>
 
 <p><span class="chinese">理性主义传统在西方可谓源远流长。</span><span class="english">Rationalistic tradition had been from Ancient Greek in western philosophy.</span></p>

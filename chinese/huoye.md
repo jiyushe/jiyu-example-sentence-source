@@ -1,5 +1,7 @@
 # 活页
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoye.md)
+
 <p><span class="chinese">最好是活页本。</span><span class="english">This is the best loose-leaf.</span></p>
 
 <p><span class="chinese">它正好可以套在我的活页本的环扣上！</span><span class="english">It's fits into the rings of my binder!</span></p>

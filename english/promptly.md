@@ -1,5 +1,7 @@
 # promptly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promptly.md)
+
 <p><span class="chinese">请及时祈付。</span><span class="english">Please pay promptly.</span></p>
 
 <p><span class="chinese">他连忙去那儿。</span><span class="english">He went there promptly.</span></p>

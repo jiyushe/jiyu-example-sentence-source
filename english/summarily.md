@@ -1,5 +1,7 @@
 # summarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summarily.md)
+
 <p><span class="chinese">那项建议当即遭到拒绝。</span><span class="english">The proposal was summarily dismissed.</span></p>
 
 <p><span class="chinese">他很快被开除出国家队。</span><span class="english">He was summarily expelled from the national team.</span></p>

@@ -1,5 +1,7 @@
 # surplus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surplus.md)
+
 <p><span class="chinese">剩余价值规律。</span><span class="english">Law of surplus value.</span></p>
 
 <p><span class="chinese">这是一个相当大的盈余。</span><span class="english">This is a pretty big surplus.</span></p>

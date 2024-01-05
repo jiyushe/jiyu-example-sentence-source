@@ -1,5 +1,7 @@
 # consummation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consummation.md)
+
 <p><span class="chinese">未来会是一个大同世界。</span><span class="english">The future lay in a unitary world of total consummation.</span></p>
 
 <p><span class="chinese">这个对比，就是这十章圣经的总结。</span><span class="english">This contrast is the consummation of these ten chapters.</span></p>

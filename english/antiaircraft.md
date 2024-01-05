@@ -1,5 +1,7 @@
 # antiaircraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiaircraft.md)
+
 <p><span class="chinese">用防空炮火塞满整个天空！</span><span class="english">Fill the sky with antiaircraft fire!</span></p>
 
 <p><span class="chinese">高射炮击落了三架轰炸机。</span><span class="english">Antiaircraft guns downed three bombers.</span></p>

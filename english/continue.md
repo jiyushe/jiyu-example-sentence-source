@@ -1,5 +1,7 @@
 # continue 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continue.md)
+
 <p><span class="chinese">如果是，继续。</span><span class="english">If yes, continue.</span></p>
 
 <p><span class="chinese">梦在延续着。</span><span class="english">The dream continue.</span></p>

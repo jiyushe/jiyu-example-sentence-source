@@ -1,5 +1,7 @@
 # salicylate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salicylate.md)
+
 <p><span class="chinese">GY2B菌株对菲的降解可能通过水杨酸途径。</span><span class="english">Strain Sphingomonas sp. GY2B degrade phenanthrene via salicylate pathway.</span></p>
 
 <p><span class="chinese">并观察到水杨酸钠及消炎痛不具有抑制NO产生的作用。</span><span class="english">Sodium salicylate and indomethacin did not inhibit inducible NO production.</span></p>

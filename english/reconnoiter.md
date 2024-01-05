@@ -1,5 +1,7 @@
 # reconnoiter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconnoiter.md)
+
 <p><span class="chinese">他的意图是侦察一下。</span><span class="english">His intention had been to reconnoiter.</span></p>
 
 <p><span class="chinese">有五百艘战船的掩护和攻击。</span><span class="english">There are 5 hundreds warships to reconnoiter and attack.</span></p>

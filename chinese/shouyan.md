@@ -1,5 +1,7 @@
 # 寿宴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyan.md)
+
 <p><span class="chinese">我们全家和所有的亲戚都来参加祖父的八十岁寿宴。</span><span class="english">All our family came to our grandfather's eightieth birthday party.</span></p>
 
 <p><span class="chinese">这时候，中方总要为他举办寿宴，周恩来总理也会参加。</span><span class="english">On these occasions he was given a dinner in his honour and Premier Zhou Enlai would attend.</span></p>

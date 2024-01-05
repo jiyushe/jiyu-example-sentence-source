@@ -1,5 +1,7 @@
 # esu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esu.md)
+
 <p><span class="chinese">伊苏，你能谈论一下日本吗？</span><span class="english">Esu can you comment on Japan?</span></p>
 
 <p><span class="chinese">谢谢你如此，伊苏和阿达玛。</span><span class="english">Thank you so much, Esu and Adama.</span></p>

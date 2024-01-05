@@ -1,5 +1,7 @@
 # earthrise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthrise.md)
+
 <p><span class="chinese">目睹地出令他们感到谦卑。</span><span class="english">Witnessing an earthrise made them feel humble.</span></p>
 
 <p><span class="chinese">例如，她看到那些散养的母鸡下的蛋要比普通鸡蛋的蛋黄黄很多。</span><span class="english">For example, she could see the yolks are more yellow in the eggs from the range-free hens at Earthrise Farm.</span></p>

@@ -1,5 +1,7 @@
 # constrict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constrict.md)
+
 <p><span class="chinese">您确定要压缩当前的图像数据库吗?。</span><span class="english">Are you sure to constrict the picture database?</span></p>
 
 <p><span class="chinese">恐慌会使血管收缩，增加心脏负担。</span><span class="english">Nerves constrict the blood vessels in the extremities of the body.</span></p>

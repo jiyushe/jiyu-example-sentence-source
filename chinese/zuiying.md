@@ -1,5 +1,7 @@
 # 嘴硬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuiying.md)
+
 <p><span class="chinese">我知道我嘴硬。</span><span class="english">I know i'm quarrelsome.</span></p>
 
 <p><span class="chinese">这样，所有的银行都嘴硬？</span><span class="english">So, do all banks have moats?</span></p>

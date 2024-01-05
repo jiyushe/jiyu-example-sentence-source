@@ -1,5 +1,7 @@
 # 轻武器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingwuqi.md)
+
 <p><span class="chinese">而且轻武器到处都是。</span><span class="english">The country is also awash with small arms.</span></p>
 
 <p><span class="chinese">轻武器喋喋不休，警示着步枪的超音雷。</span><span class="english">With the patter of small arms, the warnings-st of the rifles.</span></p>

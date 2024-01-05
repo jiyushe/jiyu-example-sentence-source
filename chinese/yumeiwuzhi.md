@@ -1,5 +1,7 @@
 # 愚昧无知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yumeiwuzhi.md)
+
 <p><span class="chinese">可能是我自己愚昧无知.</span><span class="english">It may just be my own stupidity.</span></p>
 
 <p><span class="chinese">厚颜无耻由于愚昧无知。</span><span class="english">Ignorance is the mother of impudence.</span></p>

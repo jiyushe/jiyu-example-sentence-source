@@ -1,5 +1,7 @@
 # 凑近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/coujin.md)
+
 <p><span class="chinese">让嘴凑近酒器，不要后退。</span><span class="english">Lips to the vessels, never shrink.</span></p>
 
 <p><span class="chinese">她凑近仔细看看，原来是些灰不溜秋的小东西。</span><span class="english">She peered closer. They were little grey things.</span></p>

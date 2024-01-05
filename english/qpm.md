@@ -1,5 +1,7 @@
 # qpm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qpm.md)
+
 <p><span class="chinese">这是准相位匹配研究内容的一次拓展。</span><span class="english">This is an extension for the research of QPM.</span></p>
 
 <p><span class="chinese">并从耦合波方程出发，说明了准相位匹配技术的原理。</span><span class="english">And the theory of QPM was explained on the base of coupling wave equation.</span></p>

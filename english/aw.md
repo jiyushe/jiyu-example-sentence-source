@@ -1,5 +1,7 @@
 # aw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aw.md)
+
 <p><span class="chinese">它包含有一个你不懂的单词。</span><span class="english">It has aw ord you may not know.</span></p>
 
 <p><span class="chinese">欧萱曾是丑小鸭，被造型师批评！</span><span class="english">Jeanette Aw was once an ugly duckling!</span></p>

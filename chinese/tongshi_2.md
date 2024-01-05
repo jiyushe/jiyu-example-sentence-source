@@ -1,5 +1,7 @@
 # 通史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshi_2.md)
+
 <p><span class="chinese">对中国史学通史的阶段性划分。</span><span class="english">The phased division of General History of Chinese History.</span></p>
 
 <p><span class="chinese">学衡派对于中国通史的编写曾作过一系列探讨。</span><span class="english">Xueheng School to prepare for the General History of China made a series to explore.</span></p>

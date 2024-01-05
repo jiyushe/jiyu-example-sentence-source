@@ -1,5 +1,7 @@
 # 建文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianwen.md)
+
 <p><span class="chinese">大明建文年制！较罕见的精品！</span><span class="english">Daming has four-year! Relatively rare fine!</span></p>
 
 <p><span class="chinese">守卫告诉建文太子在宫里。</span><span class="english">Tell the guards in the palace of Prince jianwen.</span></p>

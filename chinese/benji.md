@@ -1,5 +1,7 @@
 # 畚箕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benji.md)
+
 <p><span class="chinese">畚箕通常用于扫垃圾。</span><span class="english">A dustpan is often used to pickup rubbish.</span></p>
 
 <p><span class="chinese">于是，兄弟两人拿着扫帚和畚箕，到阳台上去扫阳光。</span><span class="english">Thus, the two brothers with a broom and dustpan to sweep up the sun terrace.</span></p>

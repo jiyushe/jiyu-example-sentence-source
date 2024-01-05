@@ -1,5 +1,7 @@
 # securely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/securely.md)
+
 <p><span class="chinese">两脚好象都系得紧紧的。</span><span class="english">Both seemed securely tied.</span></p>
 
 <p><span class="chinese">船舶是否安全系泊？</span><span class="english">Is vessel securely moored?</span></p>

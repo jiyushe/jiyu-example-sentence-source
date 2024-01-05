@@ -1,5 +1,7 @@
 # psychedelic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychedelic.md)
+
 <p><span class="chinese">没有人能写出比辛迪·巴雷特更棒的迷幻单曲。</span><span class="english">Nobody wrote better psychedelic singles than Syd Barrett.</span></p>
 
 <p><span class="chinese">漫长迷幻的夏天已经过去了，梦还没有结束。</span><span class="english">The long psychedelic summer is over, the dreams continue.</span></p>

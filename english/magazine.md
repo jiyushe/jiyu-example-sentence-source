@@ -1,5 +1,7 @@
 # magazine 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magazine.md)
+
 <p><span class="chinese">他正在翻阅一本杂志。</span><span class="english">He was leafing a magazine.</span></p>
 
 <p><span class="chinese">她把那本杂志递给他。</span><span class="english">She passed him the magazine.</span></p>

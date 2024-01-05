@@ -1,5 +1,7 @@
 # foreseeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreseeable.md)
+
 <p><span class="chinese">为可预见的事准备好偿债基金。</span><span class="english">Sinking funds for foreseeable events.</span></p>
 
 <p><span class="chinese">至少在可预见之将来，千秋之事可期。</span><span class="english">Or at least for the foreseeable future.</span></p>

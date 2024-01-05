@@ -1,5 +1,7 @@
 # troublemaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troublemaking.md)
+
 <p><span class="chinese">我对他总是捣乱很恼火。</span><span class="english">I'm very annoyed at his troublemaking.</span></p>
 
 <p><span class="chinese">但是不，艾奇逊说，还是要捣乱的，并且确定地要捣乱。</span><span class="english">But no, says Acheson, troublemaking will continue, and definitely so.</span></p>

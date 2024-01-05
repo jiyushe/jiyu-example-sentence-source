@@ -1,5 +1,7 @@
 # unpromising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpromising.md)
+
 <p><span class="chinese">好没出息，就是这样一个伤感情的女人。</span><span class="english">Unpromising good, that is, hurt the feelings of a woman.</span></p>
 
 <p><span class="chinese">您经常说女孩长大肯定没出息。</span><span class="english">You always say that girls grow up definitely unpromising.</span></p>

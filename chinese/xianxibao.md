@@ -1,5 +1,7 @@
 # 腺细胞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxibao.md)
+
 <p><span class="chinese">前列腺腺细胞及其核的形态多样。</span><span class="english">The shape of prostate cells is variable, so is nuclears.</span></p>
 
 <p><span class="chinese">ER阳性细胞为胸腺上皮细胞和胸腺细胞。</span><span class="english">ER positive cells were thymic epithelial cells and thymocytes.</span></p>

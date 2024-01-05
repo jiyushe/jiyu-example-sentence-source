@@ -1,5 +1,7 @@
 # reversely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reversely.md)
+
 <p><span class="chinese">在这种分闸状态下，反向移动也行。</span><span class="english">On this state, it is be able to move reversely yet.</span></p>
 
 <p><span class="chinese">当他看到了变胖的织女，马上往反方向跑了回去。</span><span class="english">When he see the FAT Weaver Maiden, he immediately ran reversely.</span></p>

@@ -1,5 +1,7 @@
 # handbill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handbill.md)
+
 <p><span class="chinese">里面还有宣传单。</span><span class="english">There still is announce handbill inside.</span></p>
 
 <p><span class="chinese">每天早晨，我们洗脸盆里塞上的传单，就出自他之手。</span><span class="english">Every morning it was he who put handbill in our washbowl.</span></p>

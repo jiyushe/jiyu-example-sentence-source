@@ -1,5 +1,7 @@
 # 小产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaochan.md)
+
 <p><span class="chinese">你知道我从来没有小产吗？</span><span class="english">Do you know that I never miscarried?</span></p>
 
 <p><span class="chinese">他上周刚小产，身子虚得很。</span><span class="english">He is very weak from last week's abortion.</span></p>

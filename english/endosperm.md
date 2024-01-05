@@ -1,5 +1,7 @@
 # endosperm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endosperm.md)
+
 <p><span class="chinese">胚微小，胚乳丰富，含油。</span><span class="english">Embryo minute, endosperm copious , oily.</span></p>
 
 <p><span class="chinese">刺梨的胚乳属核型。</span><span class="english">The endosperm formation is nuclear type.</span></p>

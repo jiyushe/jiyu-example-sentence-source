@@ -1,5 +1,7 @@
 # adventurous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adventurous.md)
+
 <p><span class="chinese">顽皮大胆的小学生会往上爬。</span><span class="english">Adventurous schoolboys climbed up them.</span></p>
 
 <p><span class="chinese">——整个计划貌似很冒险和疯狂。</span><span class="english">The entire plan seemed adventurous and wild.</span></p>

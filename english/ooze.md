@@ -1,5 +1,7 @@
 # ooze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ooze.md)
+
 <p><span class="chinese">他似乎对环境一点也不在乎。</span><span class="english">He seems to ooze contempt for the environment.</span></p>
 
 <p><span class="chinese">我讲的是富有关怀的开场白。</span><span class="english">I'm talking about intros that ooze with concern.</span></p>

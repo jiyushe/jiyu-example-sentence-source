@@ -1,5 +1,7 @@
 # 称赞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengzan.md)
+
 <p><span class="chinese">我不称赞。</span><span class="english">I praise you not.</span></p>
 
 <p><span class="chinese">我的称赞使她感到美滋滋的。</span><span class="english">My praise made her sing.</span></p>

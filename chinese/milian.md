@@ -1,5 +1,7 @@
 # 迷恋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/milian.md)
+
 <p><span class="chinese">我迷恋着兰花。</span><span class="english">I was obsessed with orchids.</span></p>
 
 <p><span class="chinese">她狂热地迷恋着舞台生活。</span><span class="english">She was mad about the stage.</span></p>

@@ -1,5 +1,7 @@
 # 粗壮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuzhuang.md)
+
 <p><span class="chinese">“一个粗壮的红脸膛中年人”。</span><span class="english">A portly, rubicund man of middle age"."</span></p>
 
 <p><span class="chinese">“他们有非常粗壮的古树，”他说。</span><span class="english">"They had really thick, old trees, " he said.</span></p>

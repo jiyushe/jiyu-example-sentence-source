@@ -1,5 +1,7 @@
 # penumbral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penumbral.md)
+
 <p><span class="chinese">阴影的路线将半影的路线分作西方和东方两部分。</span><span class="english">The path of the umbral shadow bisects the penumbral path from west to east.</span></p>
 
 <p><span class="chinese">月球本影和半影没有扫过的地方，根本看不见日食。</span><span class="english">Penumbral lunar Benying and did not sweep the place, simply can not see the solar eclipse.</span></p>

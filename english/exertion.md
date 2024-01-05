@@ -1,5 +1,7 @@
 # exertion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exertion.md)
+
 <p><span class="chinese">医生说他必须避免做任何要用劲的事。</span><span class="english">The doctor says he must avoid all exertion.</span></p>
 
 <p><span class="chinese">他在用力时从来没有气短过。</span><span class="english">He's never been short of breath on exertion.</span></p>

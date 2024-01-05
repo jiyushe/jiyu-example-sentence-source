@@ -1,5 +1,7 @@
 # 丘脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiunao.md)
+
 <p><span class="chinese">丘脑下部及脑干功能基本保存。</span><span class="english">Functions of the hypothalamus and brainstem are basically preserved.</span></p>
 
 <p><span class="chinese">整天闻一种气味，会使丘脑‘麻木’。</span><span class="english">By being exposed to a smell all day long its tricking the hypothalamus.</span></p>

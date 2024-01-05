@@ -1,5 +1,7 @@
 # 回答
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huida.md)
+
 <p><span class="chinese">请回答,先生</span><span class="english">Yes sir.</span></p>
 
 <p><span class="chinese">有人回答吗</span><span class="english">Any takers?</span></p>

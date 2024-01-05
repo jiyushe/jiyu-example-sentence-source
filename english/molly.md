@@ -1,5 +1,7 @@
 # molly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molly.md)
+
 <p><span class="chinese">莫莉，我爱你。</span><span class="english">I love you, molly.</span></p>
 
 <p><span class="chinese">莫利是个富有的女人。</span><span class="english">Molly was a rich woman.</span></p>

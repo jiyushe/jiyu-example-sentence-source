@@ -1,5 +1,7 @@
 # irresponsible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irresponsible.md)
+
 <p><span class="chinese">你不负责任，不可信赖。</span><span class="english">You're irresponsible and untrustworthy.</span></p>
 
 <p><span class="chinese">但是，你知道真正不负责任的是什么？</span><span class="english">But you know what’s really irresponsible?</span></p>

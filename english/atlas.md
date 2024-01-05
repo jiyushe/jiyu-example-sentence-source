@@ -1,5 +1,7 @@
 # atlas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atlas.md)
+
 <p><span class="chinese">还有你的阿特拉斯？</span><span class="english">Still got your atlas?</span></p>
 
 <p><span class="chinese">该地图集还强调了其它方面的不平衡状况。</span><span class="english">The Atlas highlights other imbalances.</span></p>

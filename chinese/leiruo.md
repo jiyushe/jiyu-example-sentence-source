@@ -1,5 +1,7 @@
 # 羸弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiruo.md)
+
 <p><span class="chinese">它扯裂了我们羸弱的生命。</span><span class="english">and slits the thin-spun life.</span></p>
 
 <p><span class="chinese">象水蛭叮咬羸弱的英伦。</span><span class="english">But leech-like to their fainting country cling.</span></p>

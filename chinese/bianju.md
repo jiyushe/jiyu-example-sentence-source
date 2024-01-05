@@ -1,5 +1,7 @@
 # 编剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianju.md)
+
 <p><span class="chinese">就是他们了，我们的编剧。</span><span class="english">It's them, our scriptwriters.</span></p>
 
 <p><span class="chinese">所以﹐我可能会当编剧吧。</span><span class="english">So maybe I'll be a scriptwriter.</span></p>

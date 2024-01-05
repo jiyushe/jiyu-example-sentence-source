@@ -1,5 +1,7 @@
 # 纸老虎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhilaohu.md)
+
 <p><span class="chinese">他实际上只是一个纸老虎。</span><span class="english">He's really a paper tiger.</span></p>
 
 <p><span class="chinese">一切抄袭派都是纸老虎。</span><span class="english">All the plagiarists are paper tigers.</span></p>

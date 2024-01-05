@@ -1,5 +1,7 @@
 # verapamil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verapamil.md)
+
 <p><span class="chinese">异搏定可导致心脏充血困难…</span><span class="english">Verapamil can cause congestive heart failure.</span></p>
 
 <p><span class="chinese">异搏停对急性心肌梗塞起保护作用，以6小时内最为明显。</span><span class="english">The protective effect of verapamil was most prominent by 6 hours.</span></p>

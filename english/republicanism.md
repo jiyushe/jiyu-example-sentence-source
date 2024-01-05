@@ -1,5 +1,7 @@
 # republicanism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/republicanism.md)
+
 <p><span class="chinese">它产生了共和主义。</span><span class="english">It led to Republicanism.</span></p>
 
 <p><span class="chinese">他们终于放宽了共和主义的严厉约束政策。</span><span class="english">They eventually loosened the strait-jacket policy of republicanism.</span></p>

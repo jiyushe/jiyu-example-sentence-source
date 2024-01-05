@@ -1,5 +1,7 @@
 # delegate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delegate.md)
+
 <p><span class="chinese">他不能委派代表来指挥。</span><span class="english">He can't delegate command.</span></p>
 
 <p><span class="chinese">巴比特是一名正式代表。</span><span class="english">Babbitt was an official delegate.</span></p>

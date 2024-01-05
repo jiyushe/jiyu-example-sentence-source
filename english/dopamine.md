@@ -1,5 +1,7 @@
 # dopamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dopamine.md)
+
 <p><span class="chinese">这样有助于多巴胺和睾丸素的分泌。</span><span class="english">It'll get the dopamine and testosterone flowing.</span></p>
 
 <p><span class="chinese">我的神经喷射着多巴胺，机器开始震动。</span><span class="english">My neurons spit out dopamine. The machine whirs.</span></p>

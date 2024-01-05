@@ -1,5 +1,7 @@
 # cumulative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cumulative.md)
+
 <p><span class="chinese">那么这种效应是累积性的。</span><span class="english">So the effect in cumulative.</span></p>
 
 <p><span class="chinese">这里边有累积的影响。</span><span class="english">These are cumulative effects.</span></p>

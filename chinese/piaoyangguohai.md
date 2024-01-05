@@ -1,5 +1,7 @@
 # 飘洋过海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoyangguohai.md)
+
 <p><span class="chinese">飘洋过海到外国土地。</span><span class="english">To cross the sea to any foreign soil.</span></p>
 
 <p><span class="chinese">博思韦尔飘洋过海，并死在了丹麦的监狱中。</span><span class="english">Bothwell went over the sea,and died in a prison in Denmark.</span></p>

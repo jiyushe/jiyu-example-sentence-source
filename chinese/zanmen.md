@@ -1,5 +1,7 @@
 # 咱们
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanmen.md)
+
 <p><span class="chinese">咱们是怎么知道的？</span><span class="english">How do we know?</span></p>
 
 <p><span class="chinese">咱们正式开始上课</span><span class="english">Let's start now.</span></p>

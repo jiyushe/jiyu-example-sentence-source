@@ -1,5 +1,7 @@
 # 新馆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinguan.md)
+
 <p><span class="chinese">开设新馆的步伐已经放慢。</span><span class="english">The pace of new openings has slowed.</span></p>
 
 <p><span class="chinese">新馆的展厅面积更大，但依然很理想。</span><span class="english">The new ones are larger, but still ideal.</span></p>

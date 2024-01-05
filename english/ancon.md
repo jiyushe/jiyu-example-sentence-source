@@ -1,5 +1,7 @@
 # ancon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ancon.md)
+
 <p><span class="chinese">肘关节伸不直怎么办？</span><span class="english">Is ancon joint extended how to do continuously?</span></p>
 
 <p><span class="chinese">有网球肘病去哪家医院治好？</span><span class="english">Which hospital tennis ancon disease goes to curing?</span></p>

@@ -1,5 +1,7 @@
 # rhine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhine.md)
+
 <p><span class="chinese">国家地理。河流与生命系列之莱茵河。</span><span class="english">N. G. Rivers. And. Life. Rhine. HDTV.</span></p>
 
 <p><span class="chinese">莱茵河发源于瑞士。</span><span class="english">The River Rhine rises in Switzerland.</span></p>

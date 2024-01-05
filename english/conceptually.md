@@ -1,5 +1,7 @@
 # conceptually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceptually.md)
+
 <p><span class="chinese">但在概念上它们很相似。</span><span class="english">But conceptually it is very similar.</span></p>
 
 <p><span class="chinese">可是有什么是没有做的？</span><span class="english">What is it not doing conceptually though?</span></p>

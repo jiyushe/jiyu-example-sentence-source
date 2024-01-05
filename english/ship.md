@@ -1,5 +1,7 @@
 # ship 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ship.md)
+
 <p><span class="chinese">船靠码头了。</span><span class="english">The ship docked.</span></p>
 
 <p><span class="chinese">船翻了。</span><span class="english">The ship capsized.</span></p>

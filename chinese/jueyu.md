@@ -1,5 +1,7 @@
 # 绝育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueyu.md)
+
 <p><span class="chinese">绝育的重要性怎么强调都不过分。</span><span class="english">The importance of neutering cannot be overstated.</span></p>
 
 <p><span class="chinese">他们有了第五个孩子之后，她做了绝育手术。</span><span class="english">She's been sterilized after she had five children.</span></p>

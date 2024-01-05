@@ -1,5 +1,7 @@
 # 飞黄腾达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feihuangtengda.md)
+
 <p><span class="chinese">约翰一家已飞黄腾达起来了。</span><span class="english">The Johnsons have come up in the world.</span></p>
 
 <p><span class="chinese">总之，利德盖特是我们所说的飞黄腾达的人。</span><span class="english">In brief, Lydgate was what is called a successful man.</span></p>

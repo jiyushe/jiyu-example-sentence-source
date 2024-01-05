@@ -1,5 +1,7 @@
 # 进化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinhua.md)
+
 <p><span class="chinese">它们是如何进化的？</span><span class="english">How did they evolve?</span></p>
 
 <p><span class="chinese">他会进化。</span><span class="english">He's going to evolve.</span></p>

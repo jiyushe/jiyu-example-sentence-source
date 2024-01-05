@@ -1,5 +1,7 @@
 # ospf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ospf.md)
+
 <p><span class="chinese">本页将解释路由器如何在OSPF网路内通讯。</span><span class="english">This page will explain how routers communicate in an OSPF network.</span></p>
 
 <p><span class="chinese">在OSPF区域的每个路由器有相同的链路状态资料库。</span><span class="english">Every router in the OSPF area will have the same link-state database.</span></p>

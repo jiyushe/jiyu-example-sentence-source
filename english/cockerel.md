@@ -1,5 +1,7 @@
 # cockerel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockerel.md)
+
 <p><span class="chinese">怀恩多特白色小公鸡。</span><span class="english">A Wyandotte white cockerel.</span></p>
 
 <p><span class="chinese">小公鸡自然是极其自信的。</span><span class="english">The cockerel is, naturally, cocksure.</span></p>

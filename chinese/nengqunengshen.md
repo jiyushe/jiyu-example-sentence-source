@@ -1,5 +1,7 @@
 # 能屈能伸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nengqunengshen.md)
+
 <p><span class="chinese">重要的是能屈能伸，并愿意接受改变。</span><span class="english">Above all, be flexible and willing to undergo change.</span></p>
 
 <p><span class="chinese">总之，它可大可小，能屈能伸。</span><span class="english">In short it can be as big and small and tolerant as  it is.</span></p>

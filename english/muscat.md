@@ -1,5 +1,7 @@
 # muscat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muscat.md)
+
 <p><span class="chinese">麝香葡萄酒。</span><span class="english">Muscatel ---- a muscat wine.</span></p>
 
 <p><span class="chinese">如果你喜欢的话可以在马斯喀特过得很奢侈。</span><span class="english">Muscat can do luxury if you want it.</span></p>

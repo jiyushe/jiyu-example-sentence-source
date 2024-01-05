@@ -1,5 +1,7 @@
 # 利用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyong.md)
+
 <p><span class="chinese">它们被循环利用了</span><span class="english">They get recycled.</span></p>
 
 <p><span class="chinese">利用再生纸。</span><span class="english">Use recycled paper.</span></p>

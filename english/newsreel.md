@@ -1,5 +1,7 @@
 # newsreel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newsreel.md)
+
 <p><span class="chinese">我在新闻片里看到你站在总裁的身旁。</span><span class="english">What do you think of the newsreel?</span></p>
 
 <p><span class="chinese">一部可爱的老新闻片报道了这场活动。</span><span class="english">A lovely vintage newsreel reported on the campaign.</span></p>

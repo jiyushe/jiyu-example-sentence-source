@@ -1,5 +1,7 @@
 # rosenthal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosenthal.md)
+
 <p><span class="chinese">乔罗森塔尔去世二千六。</span><span class="english">And Joe Rosenthal died in two thousand six.</span></p>
 
 <p><span class="chinese">我的伴侣彼得奥洛夫斯基，管家人罗森塔尔以及赫尔，比尔莫金</span><span class="english">companion Peter Orlovsky, caretakers Rosenthal &Hale, Bill Morgan</span></p>

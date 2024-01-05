@@ -1,5 +1,7 @@
 # written
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/written.md)
+
 <p><span class="chinese">电子信函是书写的。</span><span class="english">Email is Written.</span></p>
 
 <p><span class="chinese">书上就是这么写的。</span><span class="english">It's written down here.</span></p>

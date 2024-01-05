@@ -1,5 +1,7 @@
 # 跌跌撞撞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diediezhuangzhuang.md)
+
 <p><span class="chinese">那个醉汉跌跌撞撞地走下山。</span><span class="english">The drunk tottered down the hill.</span></p>
 
 <p><span class="chinese">他头晕目眩跌跌撞撞地穿过房内。</span><span class="english">He reeled giddily across the room.</span></p>

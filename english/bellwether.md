@@ -1,5 +1,7 @@
 # bellwether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bellwether.md)
+
 <p><span class="chinese">在服装行业，巴黎仍然保持着领头羊的地位。</span><span class="english">Paris remains the bellwether of fashion industry.</span></p>
 
 <p><span class="chinese">我们再一次以乔治·卢卡斯的马首是瞻。</span><span class="english">Yet again, we look to George Lucas as a bellwether.</span></p>

@@ -1,5 +1,7 @@
 # 体检
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tijian.md)
+
 <p><span class="chinese">我每年都做全身体检。</span><span class="english">I do a full workup every year.</span></p>
 
 <p><span class="chinese">我并没有每年都做体检。</span><span class="english">I do not get yearly check-ups.</span></p>

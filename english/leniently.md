@@ -1,5 +1,7 @@
 # leniently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leniently.md)
+
 <p><span class="chinese">他阅卷评分很宽。</span><span class="english">He marked the paper leniently.</span></p>
 
 <p><span class="chinese">他们把他从轻发落。</span><span class="english">They dealt with him leniently.</span></p>

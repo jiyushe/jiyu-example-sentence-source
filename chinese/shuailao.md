@@ -1,5 +1,7 @@
 # 衰老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuailao.md)
+
 <p><span class="chinese">什么时候会开始衰老？</span><span class="english">When to meet senesce?</span></p>
 
 <p><span class="chinese">真爱用不衰老。</span><span class="english">True love never grows old.</span></p>

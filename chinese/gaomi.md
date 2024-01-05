@@ -1,5 +1,7 @@
 # 告密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaomi.md)
+
 <p><span class="chinese">通报大人不算告密。</span><span class="english">Telling an adult is not snitching.</span></p>
 
 <p><span class="chinese">有人告密说，他偷了邻居的宠物。</span><span class="english">He was narked to steal his neighbour's pet.</span></p>

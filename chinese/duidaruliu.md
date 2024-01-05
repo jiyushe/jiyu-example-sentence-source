@@ -1,5 +1,7 @@
 # 对答如流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duidaruliu.md)
+
 <p><span class="chinese">旁人能用英语对答如流，打从心底非常羡慕。</span><span class="english">Others can use fluent, playing from the heart envy.</span></p>
 
 <p><span class="chinese">他对我讲泰语，如果我也能对答如流多好啊。</span><span class="english">Sorry, I can not speak Thai. Can you speak English?</span></p>

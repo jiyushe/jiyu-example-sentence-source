@@ -1,5 +1,7 @@
 # timberland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timberland.md)
+
 <p><span class="chinese">这之后，你来猛推我好了，我们逃不脱这自我毁灭之路的宿命。</span><span class="english">Destructive path that we're on, timberland metzingen, two psychopaths but we.</span></p>
 
 <p><span class="chinese">语言是用来交换思想，进行交流勾通用的！</span><span class="english">Language is for the exchange of ideas, timberland shoe outlet, for communication.</span></p>

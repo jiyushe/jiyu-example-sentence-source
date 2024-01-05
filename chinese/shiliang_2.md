@@ -1,5 +1,7 @@
 # 食粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiliang_2.md)
+
 <p><span class="chinese">书籍是精神食粮。</span><span class="english">Books are food for the mind.</span></p>
 
 <p><span class="chinese">我们的食粮够吃半年的。</span><span class="english">Our food will last for half a year.</span></p>

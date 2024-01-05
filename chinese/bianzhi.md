@@ -1,5 +1,7 @@
 # 编制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzhi.md)
+
 <p><span class="chinese">电脑程序编制。</span><span class="english">Computer programming.</span></p>
 
 <p><span class="chinese">编制项目总结报告。</span><span class="english">Makes project summary reports.</span></p>

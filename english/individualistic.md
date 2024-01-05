@@ -1,5 +1,7 @@
 # individualistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/individualistic.md)
+
 <p><span class="chinese">其中之一是非常个人主义。</span><span class="english">One reason is that we are very individualistic.</span></p>
 
 <p><span class="chinese">世界正在变成一个分散如原子的，极端个人主义的地方。</span><span class="english">It is becoming an atomised, individualistic world.</span></p>

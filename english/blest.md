@@ -1,5 +1,7 @@
 # blest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blest.md)
+
 <p><span class="chinese">我一点也不知道呀!</span><span class="english">I'm blest if I know!</span></p>
 
 <p><span class="chinese">我一点也不知道。</span><span class="english">I'm blest if II know.</span></p>

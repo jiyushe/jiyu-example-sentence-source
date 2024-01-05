@@ -1,5 +1,7 @@
 # 不速之客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/busuzhike.md)
+
 <p><span class="chinese">他是个不速之客。</span><span class="english">He is a gate-crasher.</span></p>
 
 <p><span class="chinese">然后有一位潜行的不速之客来访了。</span><span class="english">Then a prowling visitor arrives.</span></p>

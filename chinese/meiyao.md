@@ -1,5 +1,7 @@
 # 煤窑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyao.md)
+
 <p><span class="chinese">为了迎接柳条女人，他把妻子锁在了煤窑里。</span><span class="english">He'd locked his wife in the coal cellar in preparation.</span></p>
 
 <p><span class="chinese">当地的许多私人小煤窑都被关闭了。</span><span class="english">Many small private collieries in the area have been shut down.</span></p>

@@ -1,5 +1,7 @@
 # brushstroke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brushstroke.md)
+
 <p><span class="chinese">我下决心狠狠的赚一笔。</span><span class="english">I am determined of firm firm earn brushstroke.</span></p>
 
 <p><span class="chinese">又可以给你带来一笔不上的流量。</span><span class="english">Can give the flow that you bring brushstroke not to go up again.</span></p>

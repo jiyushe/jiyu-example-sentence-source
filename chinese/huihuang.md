@@ -1,5 +1,7 @@
 # 辉煌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huihuang.md)
+
 <p><span class="chinese">生活可能辉煌灿烂。</span><span class="english">Life can be good.</span></p>
 
 <p><span class="chinese">没错伙计们，HTC....静静地....辉煌...Bam...</span><span class="english">Quietly. Brilliant.</span></p>

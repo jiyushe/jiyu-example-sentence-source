@@ -1,5 +1,7 @@
 # carver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carver.md)
+
 <p><span class="chinese">一个好的雕刻者不应敷衍他的印章。</span><span class="english">Does a good carver temporize to carve his seal?</span></p>
 
 <p><span class="chinese">卡夫认为所有的三个事例都不属实。</span><span class="english">Carver thinks all three of these examples are bunk.</span></p>

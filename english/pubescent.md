@@ -1,5 +1,7 @@
 # pubescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pubescent.md)
+
 <p><span class="chinese">子房和瘦果身体短柔毛。</span><span class="english">Ovary and achene body pubescent.</span></p>
 
 <p><span class="chinese">颖片和外稃短柔毛或者全部具短硬毛。</span><span class="english">Glumes and lemmas pubescent or hispidulous throughout.</span></p>

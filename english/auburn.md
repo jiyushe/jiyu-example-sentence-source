@@ -1,5 +1,7 @@
 # auburn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auburn.md)
+
 <p><span class="chinese">你将去奥尔本学习？</span><span class="english">V you will study in auburn.</span></p>
 
 <p><span class="chinese">她把棕色的头发放到耳后，仰起铺满浓妆的脸。</span><span class="english">She pushed her auburn hair back and raised her painted face.</span></p>

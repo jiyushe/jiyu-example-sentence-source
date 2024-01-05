@@ -1,5 +1,7 @@
 # 有产者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youchanzhe.md)
+
 <p><span class="chinese">于是他把小有产者带走了。</span><span class="english">And he led his little bourgeois away.</span></p>
 
 <p><span class="chinese">它们既没有看见这个有产者，也没有看见蛋糕。</span><span class="english">They had seen neither the bourgeois nor the brioche.</span></p>

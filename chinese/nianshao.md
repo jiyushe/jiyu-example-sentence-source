@@ -1,5 +1,7 @@
 # 年少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianshao.md)
+
 <p><span class="chinese">年少无知的我们，做错了许多事。</span><span class="english">Ignorance of us, many things wrong.</span></p>
 
 <p><span class="chinese">如血般的鲜红喧染了年少的心。</span><span class="english">Bloody red noise with the young heart.</span></p>

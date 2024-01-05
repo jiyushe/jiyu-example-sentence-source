@@ -1,5 +1,7 @@
 # purifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purifier.md)
+
 <p><span class="chinese">买水净化器。</span><span class="english">Buy a water purifier.</span></p>
 
 <p><span class="chinese">你有一个空气净化器首页？</span><span class="english">Do you have an air home purifier ?</span></p>

@@ -1,5 +1,7 @@
 # adjustment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjustment.md)
+
 <p><span class="chinese">但哪些调整呢？</span><span class="english">But which adjustment?</span></p>
 
 <p><span class="chinese">色温调整。</span><span class="english">Color Temperature adjustment.</span></p>

@@ -1,5 +1,7 @@
 # housewares
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housewares.md)
+
 <p><span class="chinese">我去意大利米兰参观国际家庭用品展览。</span><span class="english">I went to Milan to attend an international housewares show.</span></p>
 
 <p><span class="chinese">这些小店是我消磨时间最多的场所，这里陈列着很多家具和家用品。</span><span class="english">The shops I spent the most time in were, of course, filled with furniture and housewares.</span></p>

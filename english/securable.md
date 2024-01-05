@@ -1,5 +1,7 @@
 # securable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/securable.md)
+
 <p><span class="chinese">所有的安全资源有一个比空安全描述符更好的描述符。</span><span class="english">All the securable resources have a better than null security descriptor.</span></p>
 
 <p><span class="chinese">最后综合考虑确定出各个区块的合理安全泥浆密度窗口。</span><span class="english">Eventually, reasonable and securable drilling mud destiny of different blocks can be ascertained.</span></p>

@@ -1,5 +1,7 @@
 # jebel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jebel.md)
+
 <p><span class="chinese">我没有见过大山，没有养成仰望的习惯。</span><span class="english">I haven't seen the jebel , haven't get into the habit of look up.</span></p>
 
 <p><span class="chinese">我们还去了杰贝尔.阿卡达山上的其它几个小村镇。</span><span class="english">We also went to several smaller towns on the Jebel Akhdar mountains.</span></p>

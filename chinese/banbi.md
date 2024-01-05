@@ -1,5 +1,7 @@
 # 板壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banbi.md)
+
 <p><span class="chinese">安装左侧的增压板壁。</span><span class="english">Fit plenum panel wall on the left.</span></p>
 
 <p><span class="chinese">拆下左侧的增压板壁。</span><span class="english">Remove plenum panel wall on the left.</span></p>

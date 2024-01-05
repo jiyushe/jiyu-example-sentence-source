@@ -1,5 +1,7 @@
 # geta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geta.md)
+
 <p><span class="chinese">别挂电话，我拿一支铅笔。</span><span class="english">Hold on a minute while I geta pencil.</span></p>
 
 <p><span class="chinese">这个国度是什么时间成为主权国的？</span><span class="english">When did it to geta sovereign country?</span></p>

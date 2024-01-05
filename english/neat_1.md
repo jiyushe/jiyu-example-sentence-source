@@ -1,5 +1,7 @@
 # neat 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neat_1.md)
+
 <p><span class="chinese">针脚很匀。</span><span class="english">The stitches are neat.</span></p>
 
 <p><span class="chinese">这个例子很不错。</span><span class="english">And this is kind of neat.</span></p>

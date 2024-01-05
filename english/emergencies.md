@@ -1,5 +1,7 @@
 # emergencies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emergencies.md)
+
 <p><span class="chinese">很多人为应付紧急情况而蓄水。</span><span class="english">Many people store water for emergencies.</span></p>
 
 <p><span class="chinese">你们将讨论突发卫生事件。</span><span class="english">You will be discussing health emergencies.</span></p>

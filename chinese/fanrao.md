@@ -1,5 +1,7 @@
 # 烦扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanrao.md)
+
 <p><span class="chinese">难道是什么事情烦扰了她？</span><span class="english">Is it something bothering her?</span></p>
 
 <p><span class="chinese">我们帮不了你，因此，你停止烦扰而走开吧。</span><span class="english">We can't help you ,so bug off.</span></p>

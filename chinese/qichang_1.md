@@ -1,5 +1,7 @@
 # 齐唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichang_1.md)
+
 <p><span class="chinese">唱到歌曲的副歌时，观众也跟着齐唱起来。</span><span class="english">The audience joined in the chorus.</span></p>
 
 <p><span class="chinese">齐唱歌曲教师要求学生伴随录音齐声歌曲。</span><span class="english">Ask some students to talk about it.</span></p>

@@ -1,5 +1,7 @@
 # consolidate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consolidate.md)
+
 <p><span class="chinese">他们还有什么可巩固的？</span><span class="english">What do they have to consolidate?</span></p>
 
 <p><span class="chinese">如何巩固和发展中国天然橡胶产业?。</span><span class="english">How to consolidate and develop CNRI?</span></p>

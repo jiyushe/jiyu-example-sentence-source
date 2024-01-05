@@ -1,5 +1,7 @@
 # 失败
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibai.md)
+
 <p><span class="chinese">但这个方法失败了。</span><span class="english">This failed.</span></p>
 
 <p><span class="chinese">我们都会失败。</span><span class="english">We all fail.</span></p>

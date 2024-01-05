@@ -1,5 +1,7 @@
 # 素描
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sumiao.md)
+
 <p><span class="chinese">他热爱素描</span><span class="english">He sketches things.</span></p>
 
 <p><span class="chinese">我可以在我的素描本上画画。</span><span class="english">I can draw in my sketch-book.</span></p>

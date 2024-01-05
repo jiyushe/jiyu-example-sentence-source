@@ -1,5 +1,7 @@
 # derail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derail.md)
+
 <p><span class="chinese">转辙器打开会使火车出轨。</span><span class="english">An open switch will derail a train.</span></p>
 
 <p><span class="chinese">现在的问题是，父母逼的太紧反而会让孩子出轨。</span><span class="english">The problem is, too much can derail it.</span></p>

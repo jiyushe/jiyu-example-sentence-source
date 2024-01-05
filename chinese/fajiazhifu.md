@@ -1,5 +1,7 @@
 # 发家致富
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fajiazhifu.md)
+
 <p><span class="chinese">卡明是凭自己的本事发家致富的。</span><span class="english">Cumming was wealthy in his own right.</span></p>
 
 <p><span class="chinese">你不需要为发家致富放弃什么。</span><span class="english">You don’t have to give up anything to become wealthy.</span></p>

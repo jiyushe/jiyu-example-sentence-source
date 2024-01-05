@@ -1,5 +1,7 @@
 # pseudoplastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pseudoplastic.md)
+
 <p><span class="chinese">淀粉糊为假塑性流体。</span><span class="english">Starch paste was pseudoplastic fluid.</span></p>
 
 <p><span class="chinese">试验表明，COM是一种拟塑性流体。</span><span class="english">It is found that COM is a pseudoplastic fluid.</span></p>

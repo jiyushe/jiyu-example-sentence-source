@@ -1,5 +1,7 @@
 # emr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emr.md)
+
 <p><span class="chinese">研究结果可为电解锰渣的建材资源化利用提供有益参考。</span><span class="english">The results can help to provide a useful reference to use EMR as building materials.</span></p>
 
 <p><span class="chinese">浸取剂的酸碱性是影响电解锰渣浸出毒性的主要因素。</span><span class="english">The pH value of the leaching agent is main factor affecting the leaching toxicity of EMR.</span></p>

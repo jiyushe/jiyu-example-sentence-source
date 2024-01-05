@@ -1,5 +1,7 @@
 # 西汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xihan.md)
+
 <p><span class="chinese">西汉南越王博物馆值得看看。</span><span class="english">Nanyue King is worth visiting.</span></p>
 
 <p><span class="chinese">西汉南越王博物馆值得看看。</span><span class="english">Mausoleum of the Nanyue King is worth visiting.</span></p>

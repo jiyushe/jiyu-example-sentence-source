@@ -1,5 +1,7 @@
 # sunroof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunroof.md)
+
 <p><span class="chinese">天窗又能起什么作用呢？</span><span class="english">And what role does a sunroof play?</span></p>
 
 <p><span class="chinese">关闭遮阳蓬顶至车顶开口处的中心玻璃板。</span><span class="english">Close sunroof to center glass panel in roof opening.</span></p>

@@ -1,5 +1,7 @@
 # esp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esp.md)
+
 <p><span class="chinese">ESP的潜在应用领域包括</span><span class="english">Potential uses for ESP include</span></p>
 
 <p><span class="chinese">这是一项有关超感官知觉的试验。</span><span class="english">This is an experiment that tests for ESP.</span></p>

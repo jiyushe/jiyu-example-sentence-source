@@ -1,5 +1,7 @@
 # radiance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiance.md)
+
 <p><span class="chinese">在绚丽的夏日中。</span><span class="english">The radiance of summer day.</span></p>
 
 <p><span class="chinese">夏日里的阳光灼灼。</span><span class="english">The radiance of a summer day.</span></p>

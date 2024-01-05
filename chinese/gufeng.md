@@ -1,5 +1,7 @@
 # 古风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufeng.md)
+
 <p><span class="chinese">这间亭子具有古风。</span><span class="english">The pavilion has an antiquated appearance.</span></p>
 
 <p><span class="chinese">诗人用许多伊丽莎白时代的词语使她的作品有古风。</span><span class="english">The poet archaized her work with many Elizabethan words.</span></p>

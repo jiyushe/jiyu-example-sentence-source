@@ -1,5 +1,7 @@
 # 忍无可忍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renwukeren.md)
+
 <p><span class="chinese">我这个人不易被激怒，但是他的行为让人忍无可忍!</span><span class="english">I am not easily provoked , but his behaviour is intolerable!</span></p>
 
 <p><span class="chinese">“够了！”子轩朔易终于是忍无可忍。</span><span class="english">"Is ample! "The son Xuan Shuo is easily and finally unbearable.</span></p>

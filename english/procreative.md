@@ -1,5 +1,7 @@
 # procreative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procreative.md)
+
 <p><span class="chinese">同时，体重和生育次数可以影响妇女骨密度值。</span><span class="english">At the same time, weight and procreative times affected bone mass as well.</span></p>
 
 <p><span class="chinese">冲压生产﹐虽是传统工业﹐但仍具有很大的发展前景。</span><span class="english">Though punch procreative is tradition industry, but its developing view is wide.</span></p>

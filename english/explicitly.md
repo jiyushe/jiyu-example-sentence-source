@@ -1,5 +1,7 @@
 # explicitly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explicitly.md)
+
 <p><span class="chinese">他也是明确这样说的。</span><span class="english">He says as much explicitly.</span></p>
 
 <p><span class="chinese">它没有直接被表示出来</span><span class="english">It is not explicitly shown.</span></p>

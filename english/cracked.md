@@ -1,5 +1,7 @@
 # cracked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cracked.md)
+
 <p><span class="chinese">石头裂了。</span><span class="english">The stone cracked.</span></p>
 
 <p><span class="chinese">这个高脚杯有裂痕。</span><span class="english">This goblet is cracked.</span></p>

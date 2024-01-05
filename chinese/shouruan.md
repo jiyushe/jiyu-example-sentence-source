@@ -1,5 +1,7 @@
 # 手软
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouruan.md)
+
 <p><span class="chinese">我们对敌人绝不能手软。</span><span class="english">We must not be soft on enemies.</span></p>
 
 <p><span class="chinese">他对他的对手毫不手软。</span><span class="english">He is not charitable to his opponents.</span></p>

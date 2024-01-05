@@ -1,5 +1,7 @@
 # 石蜡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shila.md)
+
 <p><span class="chinese">我用石蜡涂盖表层。</span><span class="english">He then coated it with wax.</span></p>
 
 <p><span class="chinese">石蜡靠加上软化剂发生变化。</span><span class="english">The beewax were changed by adding softeners.</span></p>

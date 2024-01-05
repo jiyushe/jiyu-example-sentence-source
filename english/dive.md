@@ -1,5 +1,7 @@
 # dive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dive.md)
+
 <p><span class="chinese">然后你就钻研进去了。</span><span class="english">Then you just dive in.</span></p>
 
 <p><span class="chinese">鲁尼的跳水将我们置于死地。</span><span class="english">We lost to a Rooney dive.</span></p>

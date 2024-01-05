@@ -1,5 +1,7 @@
 # merchandising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merchandising.md)
+
 <p><span class="chinese">视觉陈列中色彩的运用</span><span class="english">Using Color in Visual Merchandising</span></p>
 
 <p><span class="chinese">视觉陈列中色彩的运用</span><span class="english">Tips on Effective Visual Merchandising</span></p>

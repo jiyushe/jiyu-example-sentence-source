@@ -1,5 +1,7 @@
 # raspy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raspy.md)
+
 <p><span class="chinese">他拒绝的是一张浑浊的尘网。</span><span class="english">He refused a raspy dust nets.</span></p>
 
 <p><span class="chinese">侏儒感到喉咙又干又涩。</span><span class="english">The dwarf's throat felt dry and raspy.</span></p>

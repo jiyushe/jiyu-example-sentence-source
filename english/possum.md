@@ -1,5 +1,7 @@
 # possum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/possum.md)
+
 <p><span class="chinese">莫丝有了一只新负鼠。</span><span class="english">Moth had a new possum.</span></p>
 
 <p><span class="chinese">休想拿走我的负鼠。</span><span class="english">About taking my possum.</span></p>

@@ -1,5 +1,7 @@
 # 主帅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushuai.md)
+
 <p><span class="chinese">我，是我灵魂的主帅！</span><span class="english">I am the capitain of my soul!</span></p>
 
 <p><span class="chinese">凯西奥祝我们的主帅健康！</span><span class="english">Cassio. To the health of our general!</span></p>

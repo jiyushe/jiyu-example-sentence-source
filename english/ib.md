@@ -1,5 +1,7 @@
 # ib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ib.md)
+
 <p><span class="chinese">如已登记，请提供您的介绍经纪商号码。</span><span class="english">If already registered, please provide your IB number.</span></p>
 
 <p><span class="chinese">国际中学文凭同样为本地大学认可的大学入学资格。</span><span class="english">IB is also a valid qualification for non-JUPAS admission.</span></p>

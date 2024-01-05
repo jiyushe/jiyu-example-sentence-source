@@ -1,5 +1,7 @@
 # vivo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vivo.md)
+
 <p><span class="chinese">您在马德里呆了多久了？</span><span class="english">Soy de China, pero vivo en Madrid.</span></p>
 
 <p><span class="chinese">我是中国人，但我住在马德里。</span><span class="english">Soy de China, pero vivo en Madrid.</span></p>

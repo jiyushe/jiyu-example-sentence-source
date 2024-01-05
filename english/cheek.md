@@ -1,5 +1,7 @@
 # cheek 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheek.md)
+
 <p><span class="chinese">另一个地方。</span><span class="english">Your other cheek.</span></p>
 
 <p><span class="chinese">他抚摩着我的脸颊。</span><span class="english">He stroked my cheek.</span></p>

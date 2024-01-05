@@ -1,5 +1,7 @@
 # 异想天开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiangtiankai.md)
+
 <p><span class="chinese">我们笑他异想天开。</span><span class="english">We laughed at his fancy.</span></p>
 
 <p><span class="chinese">要敢于异想天开。</span><span class="english">We should dare to whimsical.</span></p>

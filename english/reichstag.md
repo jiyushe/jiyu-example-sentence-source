@@ -1,5 +1,7 @@
 # reichstag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reichstag.md)
+
 <p><span class="chinese">德国国会大厦的墙壁板。</span><span class="english">The slab of Reichstag wall.</span></p>
 
 <p><span class="chinese">这个建筑物无论如何，保留它的原始名字德国国会大厦。</span><span class="english">The building, however, retained its original name of Reichstag.</span></p>

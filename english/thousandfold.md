@@ -1,5 +1,7 @@
 # thousandfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thousandfold.md)
+
 <p><span class="chinese">掠夺你的礼物，而她独享千重之福！</span><span class="english">Rend of thy gifts and hers a thousandfold for one!</span></p>
 
 <p><span class="chinese">此十千宇宙在颤动、抖动、震动。</span><span class="english">And this ten- thousandfold cosmos shivered &quivered &quaked.</span></p>

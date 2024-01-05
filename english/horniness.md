@@ -1,5 +1,7 @@
 # horniness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horniness.md)
+
 <p><span class="chinese">中山钢锋硬质合金刃具有限公司！</span><span class="english">Zhong Shan Gang Feng Horniness Alloy Cutlery Co. , Ltd.</span></p>
 
 <p><span class="chinese">某公司承制了两台包括硬质合金堆焊的设备。</span><span class="english">Two equipments with surfacing of horniness alloy were maufactured.</span></p>

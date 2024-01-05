@@ -1,5 +1,7 @@
 # goliath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goliath.md)
+
 <p><span class="chinese">我去和歌利亚打。</span><span class="english">Iam going to fight Goliath.</span></p>
 
 <p><span class="chinese">大卫战胜了歌利亚成为国王。</span><span class="english">David beat Goliath and became a king.</span></p>

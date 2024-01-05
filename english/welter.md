@@ -1,5 +1,7 @@
 # welter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/welter.md)
+
 <p><span class="chinese">猪常常在泥里打滚。</span><span class="english">Pigs often welter in the mud.</span></p>
 
 <p><span class="chinese">对于未来的计划，Welter告诉InfoQ</span><span class="english">As for future plans, Welter tells InfoQ</span></p>

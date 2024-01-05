@@ -1,5 +1,7 @@
 # undisguised
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undisguised.md)
+
 <p><span class="chinese">不寻常的一句话却真实得露骨。</span><span class="english">The sentence is not unusual in the real undisguised.</span></p>
 
 <p><span class="chinese">她用毫不掩饰的轻蔑眼光看着他。</span><span class="english">She looked at him with immediate and undisguised contempt.</span></p>

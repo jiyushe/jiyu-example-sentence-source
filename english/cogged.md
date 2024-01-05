@@ -1,5 +1,7 @@
 # cogged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cogged.md)
+
 <p><span class="chinese">为什么呢？它认为你在作弊！</span><span class="english">Why? It thinks you are in cogged !</span></p>
 
 <p><span class="chinese">一定是被认为作弊了！</span><span class="english">It is to be thought certainly cogged ! Sweat!</span></p>

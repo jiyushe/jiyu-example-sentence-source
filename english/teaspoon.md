@@ -1,5 +1,7 @@
 # teaspoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teaspoon.md)
+
 <p><span class="chinese">加1茶匙伏特加可以延长保存期限。</span><span class="english">To increase its life add 1 teaspoon vodka.</span></p>
 
 <p><span class="chinese">加一茶匙柠檬皮到汤里增添风味。</span><span class="english">Add one teaspoon of lemon zest to the soup.</span></p>

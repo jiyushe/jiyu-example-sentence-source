@@ -1,5 +1,7 @@
 # retold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retold.md)
+
 <p><span class="chinese">这个故事也被重复讲了很多次。</span><span class="english">This story, too, has been retold many times.</span></p>
 
 <p><span class="chinese">这些是用英语复述的格林童话。</span><span class="english">These are Grimm's fairy tales retold  in English.</span></p>

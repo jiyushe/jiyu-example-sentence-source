@@ -1,5 +1,7 @@
 # 能耗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nenghao.md)
+
 <p><span class="chinese">我们真的可以生活在零能耗的房子里吗？</span><span class="english">Will we all really live in zero-energy homes?</span></p>
 
 <p><span class="chinese">零能耗简直太棒了！但是这种建筑要花多少钱才能建造呢？</span><span class="english">That's great. But how much did you say the build cost was?</span></p>

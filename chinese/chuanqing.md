@@ -1,5 +1,7 @@
 # 传情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanqing.md)
+
 <p><span class="chinese">我身边的朋友都认为我的笑容很甜美，眼睛会传情。</span><span class="english">My friends who know me think that my smile is very sweet.</span></p>
 
 <p><span class="chinese">教师语言是用来“传道、授业、解惑”并用来传情达意的。</span><span class="english">The teachers language is a kind of professional language.</span></p>

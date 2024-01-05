@@ -1,5 +1,7 @@
 # 退场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuichang.md)
+
 <p><span class="chinese">我以跑动得34分被击败而退场。</span><span class="english">I was bowled out for 34.</span></p>
 
 <p><span class="chinese">头一个击球员被迫退场了。</span><span class="english">The first batsman was bowled out.</span></p>

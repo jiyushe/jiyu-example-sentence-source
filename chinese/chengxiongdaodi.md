@@ -1,5 +1,7 @@
 # 称兄道弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxiongdaodi.md)
+
 <p><span class="chinese">昔日称兄道弟的他现在竟玷污了我唯一的自尊。</span><span class="english">Former call he now have defiled my only self-esteem.</span></p>
 
 <p><span class="chinese">另外我不会与任何人称兄道弟。</span><span class="english">In addition, I will not fraternizing with any person.</span></p>

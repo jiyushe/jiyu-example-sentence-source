@@ -1,5 +1,7 @@
 # 菊科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juke.md)
+
 <p><span class="chinese">这类植物应归入菊科。</span><span class="english">This plant belongs to the daisy family.</span></p>
 
 <p><span class="chinese">栌菊木是菊科的单型属。</span><span class="english">Nouelia Franchet is a monotype genus of Compositae.</span></p>

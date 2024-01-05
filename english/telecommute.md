@@ -1,5 +1,7 @@
 # telecommute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telecommute.md)
+
 <p><span class="chinese">但许多人都希望采用远程办公。</span><span class="english">But many people want to telecommute.</span></p>
 
 <p><span class="chinese">在家办公。即使每周一天也会大不相同。</span><span class="english">Telecommute. Even one day a week will make a big difference.</span></p>

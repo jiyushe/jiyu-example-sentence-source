@@ -1,5 +1,7 @@
 # cleared
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleared.md)
+
 <p><span class="chinese">他清了清嗓子。</span><span class="english">He cleared his throat.</span></p>
 
 <p><span class="chinese">哈斯塔清了清嗓子。</span><span class="english">Hastur cleared his throat.</span></p>

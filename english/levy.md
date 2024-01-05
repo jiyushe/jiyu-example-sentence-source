@@ -1,5 +1,7 @@
 # levy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levy.md)
+
 <p><span class="chinese">国会被授权征税。</span><span class="english">Congress is empowered to levy taxes.</span></p>
 
 <p><span class="chinese">请问阁下是否支持胶袋徵费?。</span><span class="english">Do you support the plastic-bag levy?</span></p>

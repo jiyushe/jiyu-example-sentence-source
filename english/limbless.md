@@ -1,5 +1,7 @@
 # limbless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limbless.md)
+
 <p><span class="chinese">他们是截肢，往往描绘成眼镜蛇样的运动。</span><span class="english">They are limbless and often depicted as cobra-like in movement.</span></p>
 
 <p><span class="chinese">现在，这个25岁的失去手足的年轻人所玩完成的事情要比很多年龄时他二倍的人还多。</span><span class="english">Now at 25 years old this limbless young man has accomplished more than most people even twice his age.</span></p>

@@ -1,5 +1,7 @@
 # grandma 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandma.md)
+
 <p><span class="chinese">我在这儿，姥姥。</span><span class="english">I'm here, Grandma.</span></p>
 
 <p><span class="chinese">谢谢您，姥姥。</span><span class="english">Thank you Grandma.</span></p>

@@ -1,5 +1,7 @@
 # 独具匠心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dujujiangxin.md)
+
 <p><span class="chinese">铁路之父詹天佑独具匠心筑路与创造。</span><span class="english">Railway father Zhan Tianyou showed ingenuity in building railways.</span></p>
 
 <p><span class="chinese">冯小刚独具匠心，打造了自己的贺岁品牌，成功地占领了部分电影市场。</span><span class="english">Feng Xiaogang is original and different, making his own brand for the New Year.</span></p>

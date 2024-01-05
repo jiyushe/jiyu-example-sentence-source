@@ -1,5 +1,7 @@
 # dorset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dorset.md)
+
 <p><span class="chinese">波恩茅斯是多塞特郡最大的城市。</span><span class="english">Bournemouth is the largest town in Dorset.</span></p>
 
 <p><span class="chinese">我们驾了一辆单骑独座的小马车经过道塞特家的住宅。</span><span class="english">We drove in a buggy past the Dorset house.</span></p>

@@ -1,5 +1,7 @@
 # tetrachloride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetrachloride.md)
+
 <p><span class="chinese">没人会称之四氯化钛。</span><span class="english">Nobody says titanium tetrachloride.</span></p>
 
 <p><span class="chinese">我们如何知道,镁会还原四氯化钛？</span><span class="english">How do we know that mag will reduce titanium tetrachloride?</span></p>

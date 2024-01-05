@@ -1,5 +1,7 @@
 # assistantship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assistantship.md)
+
 <p><span class="chinese">你的助学金是做什么的？</span><span class="english">What kind of works you will do for this assistantship?</span></p>
 
 <p><span class="chinese">你认为他们会考虑我的研究生助教奖学金的申请吗？</span><span class="english">What kind of works you will do for this assistantship ?</span></p>

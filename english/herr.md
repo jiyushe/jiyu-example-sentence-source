@@ -1,5 +1,7 @@
 # herr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herr.md)
+
 <p><span class="chinese">我同意王先生。</span><span class="english">Ich bin für Herr Wang.</span></p>
 
 <p><span class="chinese">我同意王先生。</span><span class="english">Ich bin fuer Herr Wang.</span></p>

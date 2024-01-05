@@ -1,5 +1,7 @@
 # 水师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuishi_1.md)
+
 <p><span class="chinese">她丈夫是一名美国水师陆战队士兵。</span><span class="english">Her husband is a U. S. marine.</span></p>
 
 <p><span class="chinese">北洋水师是中国最早的海军部队。</span><span class="english">Beiyang Navy is the earliest naval force of China.</span></p>

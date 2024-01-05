@@ -1,5 +1,7 @@
 # toastmaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toastmaster.md)
+
 <p><span class="chinese">您加入演讲会多久了？</span><span class="english">How long have you been a Toastmaster?</span></p>
 
 <p><span class="chinese">主持人介绍今天会议的主题和三位演讲人。</span><span class="english">The toastmaster introduced today's theme and three speakers.</span></p>

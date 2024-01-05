@@ -1,5 +1,7 @@
 # slat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slat.md)
+
 <p><span class="chinese">甚至没有像现在这样盲目单板式。</span><span class="english">Not even so much as a single slat of blind.</span></p>
 
 <p><span class="chinese">板条冲洗机一小时内可清理72或144个板条。</span><span class="english">Slat washer cleans 72 or 144 slats in one hour.</span></p>

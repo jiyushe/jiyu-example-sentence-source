@@ -1,5 +1,7 @@
 # 不休
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxiu.md)
+
 <p><span class="chinese">你的记忆呶呶不休、哀痛悲戚。</span><span class="english">Your memory nags and grieves.</span></p>
 
 <p><span class="chinese">他们在一些鸡毛蒜皮的小事上争吵不休。</span><span class="english">They haggled over the trifles.</span></p>

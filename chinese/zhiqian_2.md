@@ -1,5 +1,7 @@
 # 纸钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqian_2.md)
+
 <p><span class="chinese">家家户户烧纸钱，安鬼平和鬼团圆。</span><span class="english">Every family, Ann demons and ghosts.</span></p>
 
 <p><span class="chinese">他把纸钱扔到火里。</span><span class="english">He threw the paper money in the fire.</span></p>

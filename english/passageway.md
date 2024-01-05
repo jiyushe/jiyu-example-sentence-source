@@ -1,5 +1,7 @@
 # passageway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passageway.md)
+
 <p><span class="chinese">鼻腔阻塞。</span><span class="english">obstructed nasal passageway.</span></p>
 
 <p><span class="chinese">谁锁住了黄金水道?。</span><span class="english">Who Locks the Golden Passageway?</span></p>

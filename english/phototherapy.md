@@ -1,5 +1,7 @@
 # phototherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phototherapy.md)
+
 <p><span class="chinese">光疗灯。</span><span class="english">Phototherapy lamp.</span></p>
 
 <p><span class="chinese">什么是光疗法？</span><span class="english">What is Phototherapy?</span></p>

@@ -1,5 +1,7 @@
 # frailty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frailty.md)
+
 <p><span class="chinese">人生的短暂和脆弱。</span><span class="english">That human frailty you blather about.</span></p>
 
 <p><span class="chinese">他的文章中也贯穿了一种对于人类弱点的包容。</span><span class="english">So does an acceptance of human frailty.</span></p>

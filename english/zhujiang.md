@@ -1,5 +1,7 @@
 # zhujiang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zhujiang.md)
+
 <p><span class="chinese">这是珠江的一条支流。</span><span class="english">This is a tributary of Zhujiang River.</span></p>
 
 <p><span class="chinese">一并珠江啤酒和一杯杜松子酒。谢谢。</span><span class="english">A bottle of Zhujiang Beer and a cup of Gin. Thanks.</span></p>

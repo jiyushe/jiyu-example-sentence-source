@@ -1,5 +1,7 @@
 # 挟制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezhi.md)
+
 <p><span class="chinese">我邻人知道被挟制货船的高度和重量。</span><span class="english">My neighbor knows the height and weight of the high jacked freight.</span></p>
 
 <p><span class="chinese">无止尽的天灾军团对这个世界的挟制会越来越大。</span><span class="english">The restless scourge will become a even greater threat to this world.</span></p>

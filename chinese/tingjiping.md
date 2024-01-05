@@ -1,5 +1,7 @@
 # 停机坪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingjiping.md)
+
 <p><span class="chinese">大厦顶部有三个直升机停机坪。</span><span class="english">Three helipads are on the roof.</span></p>
 
 <p><span class="chinese">没有停机坪延误，没有哭喊的婴孩儿。</span><span class="english">No tarmac delays, no screaming babies.</span></p>

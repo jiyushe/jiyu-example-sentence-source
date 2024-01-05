@@ -1,5 +1,7 @@
 # vertiginous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vertiginous.md)
+
 <p><span class="chinese">第三，你将有一种感到无法想象而造成的眩晕感。</span><span class="english">Third, you'll have the vertiginous sensation of your mind boggling.</span></p>
 
 <p><span class="chinese">首先是爱情的冲击，伴随着眼花缭乱的情感迸发和环绕在脊梁背上的甜蜜热火。</span><span class="english">First the shock of love with its vertiginous rush and the sweet fire in his spine.</span></p>

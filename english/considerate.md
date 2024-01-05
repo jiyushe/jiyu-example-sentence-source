@@ -1,5 +1,7 @@
 # considerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/considerate.md)
+
 <p><span class="chinese">关心体贴别人。</span><span class="english">Be considerate of others.</span></p>
 
 <p><span class="chinese">应常为穷人着想。</span><span class="english">Be considerate toward the poor.</span></p>

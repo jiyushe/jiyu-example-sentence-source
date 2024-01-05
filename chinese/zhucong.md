@@ -1,5 +1,7 @@
 # 主从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhucong.md)
+
 <p><span class="chinese">城主从天上掉下来了！</span><span class="english">The duke fell from the sky!</span></p>
 
 <p><span class="chinese">主从不退缩，主与我们同在。</span><span class="english">He stands beside us, and He never retreats.</span></p>

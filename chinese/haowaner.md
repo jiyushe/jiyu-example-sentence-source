@@ -1,5 +1,7 @@
 # 好玩儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haowaner.md)
+
 <p><span class="chinese">可能只是有人做的，觉得好玩儿而已。</span><span class="english">Maybe someone did it just for fun!</span></p>
 
 <p><span class="chinese">我听说这儿有很多好玩儿的东西。</span><span class="english">I heard there are many fun things here.</span></p>

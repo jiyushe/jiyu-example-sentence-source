@@ -1,5 +1,7 @@
 # cohere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cohere.md)
+
 <p><span class="chinese">构成砖的分子凝聚为一。</span><span class="english">The particles making up a brick cohere.</span></p>
 
 <p><span class="chinese">他的宗教信仰与政治信仰是一致的吗?。</span><span class="english">Do his religious and political beliefs cohere?</span></p>

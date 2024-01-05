@@ -1,5 +1,7 @@
 # electrotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrotherapy.md)
+
 <p><span class="chinese">违反86条中的任何一条，都要接受电疗。</span><span class="english">In disobeying 86 any, want to accept electrotherapy.</span></p>
 
 <p><span class="chinese">电疗如何治疗颈椎病？</span><span class="english">How does electrotherapy treat cervical vertebra disease?</span></p>

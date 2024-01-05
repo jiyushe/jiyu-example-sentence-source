@@ -1,5 +1,7 @@
 # goy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goy.md)
+
 <p><span class="chinese">她还跟那个异教徒一起么？</span><span class="english">She still with the goy?</span></p>
 
 <p><span class="chinese">把我的心交给一个未曾见过面的人。</span><span class="english">Losing my heart to a goy I've not met.</span></p>

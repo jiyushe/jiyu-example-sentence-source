@@ -1,5 +1,7 @@
 # symposia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symposia.md)
+
 <p><span class="chinese">专题讨论会和研讨会提交的截止日期为10月31日。</span><span class="english">The deadline for symposia and workshop submissions is October 31.</span></p>
 
 <p><span class="chinese">此谓信，乃诚信之信。这也是我从座谈之中得到的最大体会。</span><span class="english">The main experience I got from the symposia was the importance of sincerity.</span></p>

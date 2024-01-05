@@ -1,5 +1,7 @@
 # hatching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatching.md)
+
 <p><span class="chinese">母鸡正在孵小鸡。</span><span class="english">The hen is hatching chickens.</span></p>
 
 <p><span class="chinese">小鸡正从蛋壳里孵出来。</span><span class="english">Chicks are hatching from the eggs.</span></p>

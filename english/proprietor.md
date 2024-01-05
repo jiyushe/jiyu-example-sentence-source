@@ -1,5 +1,7 @@
 # proprietor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proprietor.md)
+
 <p><span class="chinese">他是一家杂货铺的店东。</span><span class="english">He's the proprietor of a grocery store.</span></p>
 
 <p><span class="chinese">这个老板娘是个希腊人，手臂上长满了汗毛。</span><span class="english">The proprietor was a Greek with hairy arms.</span></p>

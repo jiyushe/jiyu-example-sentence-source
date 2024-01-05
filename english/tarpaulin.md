@@ -1,5 +1,7 @@
 # tarpaulin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarpaulin.md)
+
 <p><span class="chinese">甲板上的货物用一张大油布罩了起来。</span><span class="english">The deck cargo was covered with a large tarpaulin.</span></p>
 
 <p><span class="chinese">所有钢卷露天堆存，苫布覆盖。</span><span class="english">C. All coils were stowed at open yard covered by tarpaulin fully.</span></p>

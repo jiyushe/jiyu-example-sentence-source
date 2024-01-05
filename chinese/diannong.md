@@ -1,5 +1,7 @@
 # 佃农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diannong.md)
+
 <p><span class="chinese">他是个佃农？</span><span class="english">Was he a sharecropper?</span></p>
 
 <p><span class="chinese">佃农对土地的使用权佃农拥有土地的法律使用权。</span><span class="english">The legal tenure by which a villein held land.</span></p>

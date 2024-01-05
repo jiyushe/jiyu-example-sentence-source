@@ -1,5 +1,7 @@
 # realise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realise.md)
+
 <p><span class="chinese">我理解你的立场。</span><span class="english">I realise your position.</span></p>
 
 <p><span class="chinese">你知道瓜尔迪是异端分子吗？</span><span class="english">Do you realise Guardi is a heretic?</span></p>

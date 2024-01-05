@@ -1,5 +1,7 @@
 # dividual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dividual.md)
+
 <p><span class="chinese">注重训练的针对性与运动员的个体差异。</span><span class="english">Training should be adapted to the athletes' in dividual differences.</span></p>
 
 <p><span class="chinese">如果母亲是艾滋病病毒感染者，她需要自己做出决定。</span><span class="english">If the mother is positive, that mother needs to take an in dividual decision.</span></p>

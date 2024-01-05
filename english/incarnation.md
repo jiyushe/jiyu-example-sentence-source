@@ -1,5 +1,7 @@
 # incarnation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incarnation.md)
+
 <p><span class="chinese">袮道成肉身用希望填充我们。</span><span class="english">Your Incarnation fills me with hope.</span></p>
 
 <p><span class="chinese">我是一个非物质的无形化身。</span><span class="english">I am an immaterial impalpable incarnation.</span></p>

@@ -1,5 +1,7 @@
 # roofed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roofed.md)
+
 <p><span class="chinese">他的嘴唇被小胡子遮盖住了。</span><span class="english">His lips are roofed by a moustache.</span></p>
 
 <p><span class="chinese">小屋上面用干草盖上了屋顶。</span><span class="english">The shed was roofed with dried straw.</span></p>

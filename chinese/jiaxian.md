@@ -1,5 +1,7 @@
 # 夹馅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaxian.md)
+
 <p><span class="chinese">销量爆炸似的增长，然后现代夹馅面包诞生了。</span><span class="english">Sales exploded, and the modern Twinkie was born.</span></p>
 
 <p><span class="chinese">小的、半圆形的或正方形的夹馅风味极佳的面食。</span><span class="english">Small circular or square cases of dough with savory fillings.</span></p>

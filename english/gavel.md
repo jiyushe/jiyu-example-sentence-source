@@ -1,5 +1,7 @@
 # gavel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gavel.md)
+
 <p><span class="chinese">一位法官敲响他的小木槌。</span><span class="english">A judge bangs his gavel.</span></p>
 
 <p><span class="chinese">他敲下了木槌。</span><span class="english">He raps his gavel as we.</span></p>

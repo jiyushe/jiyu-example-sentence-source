@@ -1,5 +1,7 @@
 # 为着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizhe.md)
+
 <p><span class="chinese">你为着个人目标努力工作着。</span><span class="english">You work hard towards a personal goal.</span></p>
 
 <p><span class="chinese">严寒或酷暑时，为着花粉，疲于奔命。</span><span class="english">Cold or heat, for the pollen, exhausted.</span></p>

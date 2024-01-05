@@ -1,5 +1,7 @@
 # 建功立业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangongliye.md)
+
 <p><span class="chinese">志向是人们立身处世、建功立业的根基。</span><span class="english">Ambition is also the basis of communication and making achievements.</span></p>
 
 <p><span class="chinese">他给我们讲述他当登山运动员时建功立业的一些令人毛骨耸然的事。</span><span class="english">He told us some hair-raising stories about his exploits as a mountaineer.</span></p>

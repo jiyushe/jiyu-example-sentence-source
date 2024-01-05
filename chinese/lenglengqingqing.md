@@ -1,5 +1,7 @@
 # 冷冷清清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lenglengqingqing.md)
+
 <p><span class="chinese">他飞快地穿过冷冷清清的小巷。</span><span class="english">He flew along unfrequented alleys.</span></p>
 
 <p><span class="chinese">坐伴着小溪，冷冷清清。</span><span class="english">When sitting by the lonely stream.</span></p>

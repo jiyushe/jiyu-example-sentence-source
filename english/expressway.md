@@ -1,5 +1,7 @@
 # expressway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressway.md)
+
 <p><span class="chinese">沿高速公路向南行驶。</span><span class="english">Cracked up on the expressway.</span></p>
 
 <p><span class="chinese">我们要走高速公路吗？</span><span class="english">Shall we take the expressway?</span></p>

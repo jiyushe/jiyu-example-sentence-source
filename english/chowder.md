@@ -1,5 +1,7 @@
 # chowder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chowder.md)
+
 <p><span class="chinese">鸡汤，蛤肉浓汤。</span><span class="english">Chicken vegetable or clam chowder.</span></p>
 
 <p><span class="chinese">忌廉蘑菇汤和蛤蛎浓汤。</span><span class="english">Cream of mushroom and clam chowder.</span></p>

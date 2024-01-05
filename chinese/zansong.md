@@ -1,5 +1,7 @@
 # 赞颂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zansong.md)
+
 <p><span class="chinese">这是一首赞颂的歌。</span><span class="english">This is an encomiastic song.</span></p>
 
 <p><span class="chinese">他死后曾大受赞颂。</span><span class="english">He was much hymned after his death.</span></p>

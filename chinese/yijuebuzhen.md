@@ -1,5 +1,7 @@
 # 一蹶不振
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijuebuzhen.md)
+
 <p><span class="chinese">蹒跚而行还是一蹶不振？</span><span class="english">Stumble or slump?</span></p>
 
 <p><span class="chinese">摄影家一蹶不振。</span><span class="english">The photographer was devastated.</span></p>

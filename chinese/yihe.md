@@ -1,5 +1,7 @@
 # 怡和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yihe.md)
+
 <p><span class="chinese">你可以步行到怡和卢森堡，是个惊人的地方。</span><span class="english">Does she still come to the Luxembourg?</span></p>
 
 <p><span class="chinese">置地公司乃怡和集团成员之一。</span><span class="english">It is a member of the Jardine Matheson Group.</span></p>

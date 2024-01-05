@@ -1,5 +1,7 @@
 # co2
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/co2.md)
+
 <p><span class="chinese">形成了二氧化碳。</span><span class="english">Goes up the stack as CO2.</span></p>
 
 <p><span class="chinese">过盛的二氧化碳使地球保持温暖。</span><span class="english">Excess CO2 warms the Earth.</span></p>

@@ -1,5 +1,7 @@
 # incompatibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incompatibility.md)
+
 <p><span class="chinese">为什么存在二进制不兼容性？</span><span class="english">Why is there binary incompatibility?</span></p>
 
 <p><span class="chinese">不同建模语言之间的不兼容性。</span><span class="english">Incompatibility among modeling languages.</span></p>

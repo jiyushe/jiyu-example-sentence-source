@@ -1,5 +1,7 @@
 # arguer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arguer.md)
+
 <p><span class="chinese">通常论者不会再回到原来的问题。</span><span class="english">Often, the arguer never returns to the original issue.</span></p>
 
 <p><span class="chinese">他真是个狡诈的辩论家，总是拒绝给出直截了当的回答。</span><span class="english">What a shifty arguer he is, refusing ever to give a straight answer.</span></p>

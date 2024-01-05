@@ -1,5 +1,7 @@
 # rocker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rocker.md)
+
 <p><span class="chinese">静音摇臂支撑结构，噪声更低。</span><span class="english">The mute rocker arm, less noise.</span></p>
 
 <p><span class="chinese">成品摇臂括号。</span><span class="english">The finished rocker arm brackets.</span></p>

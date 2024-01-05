@@ -1,5 +1,7 @@
 # 庄家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangjia.md)
+
 <p><span class="chinese">请押到庄家。</span><span class="english">Put on banker please.</span></p>
 
 <p><span class="chinese">有没有市场庄家在这方面的安全。</span><span class="english">There are no market makers in this security.</span></p>

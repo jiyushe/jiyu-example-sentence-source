@@ -1,5 +1,7 @@
 # prig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prig.md)
+
 <p><span class="chinese">他是一个自以为是的家伙。</span><span class="english">He is a self-righteous prig.</span></p>
 
 <p><span class="chinese">他是一个自以为是的家夥。</span><span class="english">He is a self-righteous prig.</span></p>

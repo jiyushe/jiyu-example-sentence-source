@@ -1,5 +1,7 @@
 # kinsey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinsey.md)
+
 <p><span class="chinese">金赛报道多重高潮再去爱男性中比女性多。</span><span class="english">Men report multiple orgasm more than women in the Kinsey report.</span></p>
 
 <p><span class="chinese">外贸部的金西先生有电话，他在吗？</span><span class="english">We have a call for Mr. Kinsey in the Overseas Business Department. Is he there?</span></p>

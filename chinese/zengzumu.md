@@ -1,5 +1,7 @@
 # 曾祖母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengzumu.md)
+
 <p><span class="chinese">我的曾祖母。</span><span class="english">My great-grandmother.</span></p>
 
 <p><span class="chinese">我的曾祖母去世了。</span><span class="english">My great-grandmother passed away.</span></p>

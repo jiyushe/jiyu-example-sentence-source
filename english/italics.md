@@ -1,5 +1,7 @@
 # italics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/italics.md)
+
 <p><span class="chinese">有很多的斜体字。</span><span class="english">There's a lot of italics.</span></p>
 
 <p><span class="chinese">紫色斜体字不够......</span><span class="english">Not enough purple italics....</span></p>

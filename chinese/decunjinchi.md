@@ -1,5 +1,7 @@
 # 得寸进尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/decunjinchi.md)
+
 <p><span class="chinese">你今天得寸进尺了。</span><span class="english">You’re pushing your luck today.</span></p>
 
 <p><span class="chinese">但那也许是得寸进尺了。</span><span class="english">But that was probably asking too much.</span></p>

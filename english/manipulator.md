@@ -1,5 +1,7 @@
 # manipulator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manipulator.md)
+
 <p><span class="chinese">这就是一个操纵者是如何开始的。</span><span class="english">This is how a manipulator starts.</span></p>
 
 <p><span class="chinese">汇率操纵者的标签将是一个有象征意义的打击。</span><span class="english">The manipulator label would be a symbolic slap.</span></p>

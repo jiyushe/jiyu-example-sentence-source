@@ -1,5 +1,7 @@
 # 打磨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/damo.md)
+
 <p><span class="chinese">这是一颗来自印度的经打磨后光洁的电气石。</span><span class="english">A polished tourmaline from India gleams.</span></p>
 
 <p><span class="chinese">用砂纸打磨这块木头，磨出一个光滑的斜面。</span><span class="english">Sand the wood until it has a nice bevel.</span></p>

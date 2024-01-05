@@ -1,5 +1,7 @@
 # tenancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenancy.md)
+
 <p><span class="chinese">要写明土地的租佃性质。</span><span class="english">To specify the nature of land tenancy.</span></p>
 
 <p><span class="chinese">要写明租佃土地的数量和町数。</span><span class="english">To specify the amount of land tenancy and the town a few.</span></p>

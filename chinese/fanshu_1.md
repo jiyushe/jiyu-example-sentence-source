@@ -1,5 +1,7 @@
 # 藩属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanshu_1.md)
+
 <p><span class="chinese">英格兰是他忠心的藩属。</span><span class="english">England was his faithful tributary.</span></p>
 
 <p><span class="chinese">希律是一个“藩属王”，代表公元前63年入侵的罗马帝国在治理这地。</span><span class="english">Herod was a 'client' king, ruling on behalf of the Romans who had invaded in 63 BCE.</span></p>

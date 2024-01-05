@@ -1,5 +1,7 @@
 # hispaniola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hispaniola.md)
+
 <p><span class="chinese">伊斯帕尼奥拉号向金银岛的航行开始了。</span><span class="english">The Hispaniola had begun her voyage to Treasure Island.</span></p>
 
 <p><span class="chinese">在返回西班牙之前，哥伦布还去过古巴和海地。</span><span class="english">Columbus also explored nearby Cuba and Hispaniola before returning to Spain.</span></p>

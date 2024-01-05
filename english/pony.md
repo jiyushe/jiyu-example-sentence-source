@@ -1,5 +1,7 @@
 # pony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pony.md)
+
 <p><span class="chinese">我有一头小马驹。</span><span class="english">I have a pony.</span></p>
 
 <p><span class="chinese">它是一场马戏表演。</span><span class="english">It's a dog and pony show.</span></p>

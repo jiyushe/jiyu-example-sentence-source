@@ -1,5 +1,7 @@
 # trajectory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trajectory.md)
+
 <p><span class="chinese">这是一条长长的轨迹。</span><span class="english">So this is a long trajectory.</span></p>
 
 <p><span class="chinese">也许刘易斯也是类似的情形？</span><span class="english">Might Lewis be on a similar trajectory?</span></p>

@@ -1,5 +1,7 @@
 # diligently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diligently.md)
+
 <p><span class="chinese">我们努力追求进步。</span><span class="english">We are pursuing the progress diligently.</span></p>
 
 <p><span class="chinese">我努力分析他们引用的研究。</span><span class="english">I searched diligently for the studies they cited.</span></p>

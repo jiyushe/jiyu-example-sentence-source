@@ -1,5 +1,7 @@
 # hiking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hiking.md)
+
 <p><span class="chinese">登山鞋。</span><span class="english">Hiking shoes.</span></p>
 
 <p><span class="chinese">我不喜欢徒步旅行。</span><span class="english">I don't like hiking.</span></p>

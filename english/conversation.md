@@ -1,5 +1,7 @@
 # conversation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conversation.md)
+
 <p><span class="chinese">一段会话。</span><span class="english">It is a conversation.</span></p>
 
 <p><span class="chinese">私下聊天，-是。</span><span class="english">Private conversation. -Yes.</span></p>

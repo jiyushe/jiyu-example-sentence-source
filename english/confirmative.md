@@ -1,5 +1,7 @@
 # confirmative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confirmative.md)
+
 <p><span class="chinese">才没有。我喜欢所有的美女。</span><span class="english">You don't have to be so confirmative.</span></p>
 
 <p><span class="chinese">退休制度之改变需在确定后再宣布，以避免教师惶恐不安。</span><span class="english">The change of retirement system should be announced after the system was confirmative to avoid teachers' panic.</span></p>

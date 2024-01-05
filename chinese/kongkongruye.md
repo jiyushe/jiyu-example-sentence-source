@@ -1,5 +1,7 @@
 # 空空如也
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongkongruye.md)
+
 <p><span class="chinese">没有你在，我的心只能空空如也。</span><span class="english">I need you , O I love U.</span></p>
 
 <p><span class="chinese">现在，整间屋子就空空如也了。</span><span class="english">The room is now completely bare.</span></p>

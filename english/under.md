@@ -1,5 +1,7 @@
 # under 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/under.md)
+
 <p><span class="chinese">那艘船沈下去了。</span><span class="english">The boat went under.</span></p>
 
 <p><span class="chinese">你现在被逮捕了。</span><span class="english">You are under arrest.</span></p>

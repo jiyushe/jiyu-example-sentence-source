@@ -1,5 +1,7 @@
 # 交往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaowang.md)
+
 <p><span class="chinese">他与她断绝了交往。</span><span class="english">He broke with her.</span></p>
 
 <p><span class="chinese">你跟他交往过吗？</span><span class="english">Did you go out with him?</span></p>

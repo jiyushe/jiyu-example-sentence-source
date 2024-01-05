@@ -1,5 +1,7 @@
 # purposive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purposive.md)
+
 <p><span class="chinese">主观方面是故意的，并且具有非法占有的目的。</span><span class="english">In subjective, it's purposive and with the intention to illegally possess.</span></p>
 
 <p><span class="chinese">黑格尔哲学的中心教义是有目的进化发展的思想。</span><span class="english">The central doctrine of Hegel's philosophy is the idea of purposive evolution.</span></p>

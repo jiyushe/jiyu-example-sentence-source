@@ -1,5 +1,7 @@
 # guarded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guarded.md)
+
 <p><span class="chinese">是否设有围栏或安全罩？</span><span class="english">Was it fenced or guarded?</span></p>
 
 <p><span class="chinese">关隘有重兵把守。</span><span class="english">The pass was heavily guarded.</span></p>

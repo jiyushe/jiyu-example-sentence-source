@@ -1,5 +1,7 @@
 # hill 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hill.md)
+
 <p><span class="chinese">邦克山是什么？</span><span class="english">What was Bunker Hill?</span></p>
 
 <p><span class="chinese">缤纷的爬满了山坡。</span><span class="english">caper along the hill.</span></p>

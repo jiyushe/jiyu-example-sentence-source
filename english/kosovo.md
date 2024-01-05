@@ -1,5 +1,7 @@
 # kosovo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kosovo.md)
+
 <p><span class="chinese">本章充分论述科索沃战争。</span><span class="english">This chapter fully discusses the Kosovo War.</span></p>
 
 <p><span class="chinese">因为他们认为科索沃永远是塞尔维亚的一部分。</span><span class="english">For them Kosovo will always be part of Serbia.</span></p>

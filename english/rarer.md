@@ -1,5 +1,7 @@
 # rarer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rarer.md)
+
 <p><span class="chinese">而法式深吻则更加少见。</span><span class="english">French kissing is rarer still.</span></p>
 
 <p><span class="chinese">有集中甚至比黄金更稀有。</span><span class="english">And several are even rarer than gold.</span></p>

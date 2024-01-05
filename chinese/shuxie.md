@@ -1,5 +1,7 @@
 # 抒写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxie.md)
+
 <p><span class="chinese">我想抒写一本不一样的爱情史。</span><span class="english">I want to express a different love history.</span></p>
 
 <p><span class="chinese">我想抒写一本不一样的爱情史。</span><span class="english">I would like to express a distinct love history.</span></p>

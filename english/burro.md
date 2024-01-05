@@ -1,5 +1,7 @@
 # burro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burro.md)
+
 <p><span class="chinese">这头驴刚刚好。</span><span class="english">This burro is just right.</span></p>
 
 <p><span class="chinese">他看见一头戴着帽子的驴！</span><span class="english">He saw a burro wearing a hat!</span></p>

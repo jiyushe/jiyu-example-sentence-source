@@ -1,5 +1,7 @@
 # 配乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiyue.md)
+
 <p><span class="chinese">他将为这个剧本配乐。</span><span class="english">He will musicalize the play.</span></p>
 
 <p><span class="chinese">配乐英语诗朗诵。</span><span class="english">Reading English poems with soft music.</span></p>

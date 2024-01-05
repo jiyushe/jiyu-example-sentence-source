@@ -1,5 +1,7 @@
 # copywriter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copywriter.md)
+
 <p><span class="chinese">这里就需要体现营销者比聪明的广告文案高明之处了。</span><span class="english">This is where the smart copywriter becomes a marketer.</span></p>
 
 <p><span class="chinese">我现在于亚泰文化公司任助理撰稿员。</span><span class="english">I work as an assistant copywriter for Yatai Culture Corporation.</span></p>

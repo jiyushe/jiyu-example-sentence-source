@@ -1,5 +1,7 @@
 # leif
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leif.md)
+
 <p><span class="chinese">嗨，利夫。听说你要去意大利了，是真的吗？</span><span class="english">Hi, Leif. I heard that you would go to Italy, really?</span></p>
 
 <p><span class="chinese">阿桑奇的辩护律师赖伊夫·西尔贝斯基没有回电发表评论。</span><span class="english">Assange's defense lawyer Leif Silbersky didn't answer calls seeking comment.</span></p>

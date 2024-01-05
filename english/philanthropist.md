@@ -1,5 +1,7 @@
 # philanthropist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philanthropist.md)
+
 <p><span class="chinese">没有一位慈善家是孤立的。</span><span class="english">No philanthropist is an island.</span></p>
 
 <p><span class="chinese">他也?B先生是位慈善家。</span><span class="english">He also called Mr. B a philanthropist.</span></p>

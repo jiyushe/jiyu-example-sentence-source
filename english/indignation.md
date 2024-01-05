@@ -1,5 +1,7 @@
 # indignation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indignation.md)
+
 <p><span class="chinese">她由于愤怒而不能平静。</span><span class="english">She seethed with indignation.</span></p>
 
 <p><span class="chinese">他们义愤填膺。</span><span class="english">They flamed with indignation.</span></p>

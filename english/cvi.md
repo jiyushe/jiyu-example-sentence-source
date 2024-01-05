@@ -1,5 +1,7 @@
 # cvi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cvi.md)
+
 <p><span class="chinese">单纯缺血组永久性结扎成年大鼠双侧颈总动脉建立大鼠CVI模型。</span><span class="english">The CVI models were produced by permanent ligation of bilateral common carotid arteries.</span></p>
 
 <p><span class="chinese">用CVI开发了测试技术专业课相关的虚拟仪器应用程序。</span><span class="english">Some application programs were developed using CVI for the courses of testing techniques.</span></p>

@@ -1,5 +1,7 @@
 # usurper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usurper.md)
+
 <p><span class="chinese">篡位者。</span><span class="english">The usurper.</span></p>
 
 <p><span class="chinese">但他并非一位篡位者。</span><span class="english">However, he was not a usurper.</span></p>

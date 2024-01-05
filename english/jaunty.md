@@ -1,5 +1,7 @@
 # jaunty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jaunty.md)
+
 <p><span class="chinese">她把帽子歪戴着，一副俏皮的样子。</span><span class="english">She cocked her hat at a jaunty angle.</span></p>
 
 <p><span class="chinese">快乐的孩子们跳跳蹦蹦地走著。</span><span class="english">The happy children walked with jaunty steps.</span></p>

@@ -1,5 +1,7 @@
 # 门环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menhuan.md)
+
 <p><span class="chinese">这位推销员猛拍门环。</span><span class="english">The salesman pounded the door knocker.</span></p>
 
 <p><span class="chinese">我使劲扣他家的门环，也不见有人来开门。</span><span class="english">I knocked hard on his door, but no one opened it.</span></p>

@@ -1,5 +1,7 @@
 # oaten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oaten.md)
+
 <p><span class="chinese">什么是澳大利亚燕麦干草？</span><span class="english">What is Australian Oaten Hay?</span></p>
 
 <p><span class="chinese">澳大利亚燕麦干草如何利用？</span><span class="english">How is Australian Oaten Hay used?</span></p>

@@ -1,5 +1,7 @@
 # 隘口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aikou.md)
+
 <p><span class="chinese">波德河隘口穿山而过。</span><span class="english">Powder River Pass cut through them.</span></p>
 
 <p><span class="chinese">这名徒步旅行者成功地登上了高山隘口。</span><span class="english">The hiker negociated the high mountain pass.</span></p>

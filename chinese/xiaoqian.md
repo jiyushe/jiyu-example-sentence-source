@@ -1,5 +1,7 @@
 # 小钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqian.md)
+
 <p><span class="chinese">再长点的旅途则会稍微收点小钱。</span><span class="english">Longer trips will incur a small charge.</span></p>
 
 <p><span class="chinese">不要成为小钱精明，大钱糊涂。</span><span class="english">Don't try to be penny-wise and pound-foolish.</span></p>

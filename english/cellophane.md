@@ -1,5 +1,7 @@
 # cellophane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cellophane.md)
+
 <p><span class="chinese">就像隔了玻璃纸。</span><span class="english">like I took it through cellophane."</span></p>
 
 <p><span class="chinese">黄黄绿绿的玻璃纸花。</span><span class="english">Cellophane flowers of yellow and green.</span></p>

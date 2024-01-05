@@ -1,5 +1,7 @@
 # 小朋友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaopengyou.md)
+
 <p><span class="chinese">小朋友，节日快乐！</span><span class="english">Children, happy holidays!</span></p>
 
 <p><span class="chinese">我在基督教青年会教小朋友。</span><span class="english">I work at the YMCA with kids.</span></p>

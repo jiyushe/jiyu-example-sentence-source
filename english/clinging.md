@@ -1,5 +1,7 @@
 # clinging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clinging.md)
+
 <p><span class="chinese">他是那种老要依靠人家的人。</span><span class="english">He is of a clinging sort.</span></p>
 
 <p><span class="chinese">如今在浓雾中闪烁银光。</span><span class="english">Is silver now with clinging mist.</span></p>

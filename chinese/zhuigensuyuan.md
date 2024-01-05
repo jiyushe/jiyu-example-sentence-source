@@ -1,5 +1,7 @@
 # 追根溯源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuigensuyuan.md)
+
 <p><span class="chinese">第二部分追根溯源探讨生态批评的理论渊源。</span><span class="english">The second-part studies the origin of the ecocriticism.</span></p>
 
 <p><span class="chinese">不可能通过历史追根溯源查出他是一个什么样的人。</span><span class="english">It is impossible to trace out by history what kind of man he was.</span></p>

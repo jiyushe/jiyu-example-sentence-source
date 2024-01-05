@@ -1,5 +1,7 @@
 # 不毛之地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bumaozhidi.md)
+
 <p><span class="chinese">一片荒原，不毛之地。</span><span class="english">A barren land, bare waste.</span></p>
 
 <p><span class="chinese">在那种不毛之地过日子？你别傻了。</span><span class="english">Out in the sticks? Don't be nuts.</span></p>

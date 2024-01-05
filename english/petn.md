@@ -1,5 +1,7 @@
 # petn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petn.md)
+
 <p><span class="chinese">利用小型激光器驱动飞片技术成功起爆了PETN安全炸药。</span><span class="english">The PETN explosive is detonated by mini size laser driven flyer.</span></p>
 
 <p><span class="chinese">以实验为基础对真空蒸镀太安炸药薄膜的机理进行研究。</span><span class="english">The mechanism of evaporating PETN explosive film in vacuum is studied experimentally.</span></p>

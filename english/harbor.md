@@ -1,5 +1,7 @@
 # harbor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harbor.md)
+
 <p><span class="chinese">你心怀不满。</span><span class="english">You harbor grudges.</span></p>
 
 <p><span class="chinese">这是个天然港。</span><span class="english">It is a natural harbor.</span></p>

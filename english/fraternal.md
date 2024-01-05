@@ -1,5 +1,7 @@
 # fraternal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fraternal.md)
+
 <p><span class="chinese">但是你们是龙凤胎。</span><span class="english">But you're fraternal twins.</span></p>
 
 <p><span class="chinese">在这里，像兄弟般互助。</span><span class="english">Here, like fraternal mutual aid.</span></p>

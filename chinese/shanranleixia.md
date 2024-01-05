@@ -1,5 +1,7 @@
 # 潸然泪下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanranleixia.md)
+
 <p><span class="chinese">他在吃过几口这无味的食品后便潸然泪下。</span><span class="english">The king eats a few tasteless mouthfuls , then bursts into tears.</span></p>
 
 <p><span class="chinese">许多委员会的成员潸然泪下但还是赞成B.K.的死刑。</span><span class="english">Many of the parole board members were in tears but voted for death.</span></p>

@@ -1,5 +1,7 @@
 # sutton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sutton.md)
+
 <p><span class="chinese">坎齐·萨顿打开了自己的银行……和心扉。</span><span class="english">Kinzie Sutton opened her bank—and her heart.</span></p>
 
 <p><span class="chinese">奥斯明顿的白马，在英国的萨顿波因茨外。</span><span class="english">The Osmington White Horse, outside Sutton Poyntz, UK.</span></p>

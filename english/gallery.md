@@ -1,5 +1,7 @@
 # gallery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallery.md)
+
 <p><span class="chinese">下载免费图标库！</span><span class="english">Free Icon Gallery !</span></p>
 
 <p><span class="chinese">船只模型展示馆。</span><span class="english">Ship model gallery.</span></p>

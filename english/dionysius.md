@@ -1,5 +1,7 @@
 # dionysius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dionysius.md)
+
 <p><span class="chinese">弥尔顿在这段中引用狄奥尼修斯的话。</span><span class="english">Milton's quoting Dionysius Alexandrinus in this passage.</span></p>
 
 <p><span class="chinese">狄奥尼修斯所描述的英雄时代的议事会正是这样由贵族组成的。</span><span class="english">Dionysius actually speaks of the council in the heroic age as composed of nobles.</span></p>

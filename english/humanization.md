@@ -1,5 +1,7 @@
 # humanization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanization.md)
+
 <p><span class="chinese">另一个是人性化的产品。</span><span class="english">Another is the humanization of Products.</span></p>
 
 <p><span class="chinese">“教化”是儒学的一个核心观念。</span><span class="english">Humanization is a core idea of Confucian.</span></p>

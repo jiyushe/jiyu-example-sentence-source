@@ -1,5 +1,7 @@
 # usgs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usgs.md)
+
 <p><span class="chinese">美国地质调查局将胡安·德·富卡海峡归类为海峡。</span><span class="english">The USGS defines the Strait of Juan de Fuca as a channel.</span></p>
 
 <p><span class="chinese">高分辨率图像及其说明由美国地质调查局提供。</span><span class="english">Images and captions courtesy USGS. High-resolution images.</span></p>

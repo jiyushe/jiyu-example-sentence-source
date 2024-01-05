@@ -1,5 +1,7 @@
 # acre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acre.md)
+
 <p><span class="chinese">多数发生在博卡杜·阿克雷。</span><span class="english">Much of that was in Boca do Acre.</span></p>
 
 <p><span class="chinese">中国计划增加早稻播种面积。</span><span class="english">China expects higher rice planting acre.</span></p>

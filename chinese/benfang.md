@@ -1,5 +1,7 @@
 # 奔放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benfang.md)
+
 <p><span class="chinese">他开始恢复与生俱来的热情奔放。</span><span class="english">His natural ebullience began to return.</span></p>
 
 <p><span class="chinese">这一年，将会是水瓶座热情奔放的一年。</span><span class="english">Passion will be your war-horse, this year.</span></p>

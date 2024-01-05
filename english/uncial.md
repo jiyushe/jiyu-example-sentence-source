@@ -1,5 +1,7 @@
 # uncial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncial.md)
+
 <p><span class="chinese">在安色尔字体书写风格开始在爱尔兰。</span><span class="english">The Uncial writing style began in Ireland.</span></p>
 
 <p><span class="chinese">的O是字母键字母的安色尔字体。</span><span class="english">The O is the key letter of the Uncial alphabet.</span></p>

@@ -1,5 +1,7 @@
 # 头油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touyou.md)
+
 <p><span class="chinese">适用于脱发。斑秃。普秃。头油大人群。</span><span class="english">Apply to hair loss. Bald spot. General bald. TouYou big crowd.</span></p>
 
 <p><span class="chinese">工业试验证明，拔头油是一种优良的乙烯裂解原料。</span><span class="english">Commercial test proves that topped oil is an excellent ethylene pyrolysis feedstock.</span></p>

@@ -1,5 +1,7 @@
 # memorizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memorizer.md)
+
 <p><span class="chinese">汽车电脑的主要部分是单片机、存储器等。</span><span class="english">Auto computer mostly includes singlechip and memorizer.</span></p>
 
 <p><span class="chinese">本发明提供一种便携存储器及其分区数据保护方法。</span><span class="english">The invention provides a portable memorizer and a partitioned data protecting method thereof.</span></p>

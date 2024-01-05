@@ -1,5 +1,7 @@
 # endocytosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endocytosis.md)
+
 <p><span class="chinese">这种胞吞作用在枯否细胞极为活跃，在肝细胞则较微弱。</span><span class="english">The endocytosis was very active in Kupffer cells but weak in hepatocytes.</span></p>
 
 <p><span class="chinese">细胞表面的膜蛋白是介于受体介导的内吞作用…</span><span class="english">Cell-surface membrane proteins that are used in receptor-mediated endocytosis.</span></p>

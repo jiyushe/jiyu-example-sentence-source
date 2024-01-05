@@ -1,5 +1,7 @@
 # slam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slam.md)
+
 <p><span class="chinese">灌篮了。</span><span class="english">A slam dunk!</span></p>
 
 <p><span class="chinese">盾牌猛击。</span><span class="english">Shield Slam ftl.</span></p>

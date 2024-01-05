@@ -1,5 +1,7 @@
 # shiny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shiny.md)
+
 <p><span class="chinese">一个发亮的湿湿的鼻子！</span><span class="english">One shiny wet nose!</span></p>
 
 <p><span class="chinese">金光闪闪的长金链！</span><span class="english">A big, shiny gold chain!</span></p>

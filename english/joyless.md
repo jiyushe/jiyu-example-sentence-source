@@ -1,5 +1,7 @@
 # joyless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joyless.md)
+
 <p><span class="chinese">为什么?我还是不快乐?。</span><span class="english">Why? Am I joyless still?</span></p>
 
 <p><span class="chinese">黄家驹为什么那么不快乐？</span><span class="english">Home Huang foal why so joyless ?</span></p>

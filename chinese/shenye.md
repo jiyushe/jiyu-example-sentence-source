@@ -1,5 +1,7 @@
 # 深夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenye.md)
+
 <p><span class="chinese">不要在深夜吃东西。</span><span class="english">Do not eat late at night.</span></p>
 
 <p><span class="chinese">我们谈到深夜才散。</span><span class="english">We talked till deep night.</span></p>

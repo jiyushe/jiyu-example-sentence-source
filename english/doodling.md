@@ -1,5 +1,7 @@
 # doodling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doodling.md)
+
 <p><span class="chinese">莎拉在纸上乱涂乱画。</span><span class="english">Sarah is doodling on a piece of paper.</span></p>
 
 <p><span class="chinese">这是你开始涂鸦的绝好机会。</span><span class="english">The chances are you’ll start doodling.</span></p>

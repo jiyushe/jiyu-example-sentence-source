@@ -1,5 +1,7 @@
 # 嫖客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoke.md)
+
 <p><span class="chinese">经常可以在有皮条客和嫖客的地方看到他们。</span><span class="english">Often seen in the company of pimps and hustlers.</span></p>
 
 <p><span class="chinese">合法化是否令她们的嫖客更温柔？</span><span class="english">Does legalisation make their punters more tender?</span></p>

@@ -1,5 +1,7 @@
 # 史籍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiji_1.md)
+
 <p><span class="chinese">你们是否琢磨过这个地方的史籍呢？</span><span class="english">Have you thought about the history of this place?</span></p>
 
 <p><span class="chinese">史钞，摘抄史部书的史籍。</span><span class="english">History notes, excerpt of the history books history books.</span></p>

@@ -1,5 +1,7 @@
 # 月底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuedi.md)
+
 <p><span class="chinese">7月底太阳使他热汗淋淋。</span><span class="english">The July sun had made him hot.</span></p>
 
 <p><span class="chinese">他们有两个吸孔，一在每个月底。</span><span class="english">They have two suckers , one at each end.</span></p>

@@ -1,5 +1,7 @@
 # retrogradation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrogradation.md)
+
 <p><span class="chinese">结果表明甲酰胺可以有效抑制淀粉回生。</span><span class="english">Formamide could effectively restrain the starch retrogradation.</span></p>
 
 <p><span class="chinese">淀粉的凝沉是限制淀粉应用的关键因素。</span><span class="english">Starch retrogradation is a critical factor that limits its application.</span></p>

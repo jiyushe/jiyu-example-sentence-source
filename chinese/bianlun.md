@@ -1,5 +1,7 @@
 # 辩论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianlun.md)
+
 <p><span class="chinese">我赢了这场辩论!</span><span class="english">I won the debate!</span></p>
 
 <p><span class="chinese">所有其他的辩论都是它的脚注而已。</span><span class="english">All else is footnote.</span></p>

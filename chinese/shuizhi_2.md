@@ -1,5 +1,7 @@
 # 税制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhi_2.md)
+
 <p><span class="chinese">您支持单一销售税制还是双销售税制?。</span><span class="english">Do you prefer a single–tax or a two-taxes system?</span></p>
 
 <p><span class="chinese">在某种意义上,这种税制结构是退化的</span><span class="english">So, in a sense, the tax structure was regressive.</span></p>

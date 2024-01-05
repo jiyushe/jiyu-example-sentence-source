@@ -1,5 +1,7 @@
 # revel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revel.md)
+
 <p><span class="chinese">陶醉于“可能性游戏”</span><span class="english">Revel in the “game of maybe”</span></p>
 
 <p><span class="chinese">年轻小伙子特别喜欢干有危险性的苦差事。</span><span class="english">Young men revel in doing dangerous tasks.</span></p>

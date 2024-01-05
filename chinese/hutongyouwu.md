@@ -1,5 +1,7 @@
 # 互通有无
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hutongyouwu.md)
+
 <p><span class="chinese">重在参与，互通有无。</span><span class="english">Participation and communication are always appreciated.</span></p>
 
 <p><span class="chinese">随着时间流逝，这些地点会广为人知，并被互通有无。</span><span class="english">Over time, the locations of these become known, and shared lore.</span></p>

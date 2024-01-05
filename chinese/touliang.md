@@ -1,5 +1,7 @@
 # 透亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touliang.md)
+
 <p><span class="chinese">透亮的皮毛仅仅是运动带来的好处中最小的一种。</span><span class="english">But shiny furwas the least of its benefits.</span></p>
 
 <p><span class="chinese">让肌肤焕发净白透亮迷人神采。</span><span class="english">Let skin appear pure white, bright and moving charm.</span></p>

@@ -1,5 +1,7 @@
 # permanganate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permanganate.md)
+
 <p><span class="chinese">来吧，等我们回去我给你一个注水器、一些高锰酸盐好了。</span><span class="english">Come on now. I'll give you a syringe and some permanganate when we get back.</span></p>
 
 <p><span class="chinese">采用高锰酸盐氧化-碘量法可以较好地解决这一问题。</span><span class="english">The permanganate oxidation-iondimetry method may be better to solve this problem.</span></p>

@@ -1,5 +1,7 @@
 # 易如反掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yirufanzhang.md)
+
 <p><span class="chinese">用剃刀割刀，易如反掌。</span><span class="english">Cut with razor knife and snap.</span></p>
 
 <p><span class="chinese">打赢那场比赛易如反掌。</span><span class="english">Winning the game was a push-over.</span></p>

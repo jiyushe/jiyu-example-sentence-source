@@ -1,5 +1,7 @@
 # amply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amply.md)
+
 <p><span class="chinese">他的品行有文件充分为证</span><span class="english">His moral conduct is amply certificated.</span></p>
 
 <p><span class="chinese">他的所有儿子都继承到了丰厚的遗产。</span><span class="english">All of his sons have been amply portioned.</span></p>

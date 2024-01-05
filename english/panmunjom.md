@@ -1,5 +1,7 @@
 # panmunjom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panmunjom.md)
+
 <p><span class="chinese">和谈开始，首先在开城，然后在板门店。</span><span class="english">Peace talks began, first at Kaesong, then at Panmunjom.</span></p>
 
 <p><span class="chinese">各方官员在板门店休战村会见。</span><span class="english">Officers from each side met at the truce village of Panmunjom.</span></p>

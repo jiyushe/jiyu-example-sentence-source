@@ -1,5 +1,7 @@
 # 脱颖而出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoyingerchu.md)
+
 <p><span class="chinese">他会在任何人群中脱颖而出。</span><span class="english">He'd stand out in any crowd.</span></p>
 
 <p><span class="chinese">他的才华使他从普通人群中脱颖而出。</span><span class="english">His brilliance raised him above the ruck.</span></p>

@@ -1,5 +1,7 @@
 # unloved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unloved.md)
+
 <p><span class="chinese">我感觉不到有人爱我，很是孤独。</span><span class="english">I feel so unloved and alone.</span></p>
 
 <p><span class="chinese">象无趣恋栈的客人。</span><span class="english">Lingering like an unloved guest.</span></p>

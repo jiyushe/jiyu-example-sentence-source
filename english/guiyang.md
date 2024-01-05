@@ -1,5 +1,7 @@
 # guiyang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guiyang.md)
+
 <p><span class="chinese">贵阳的气候，是贵阳人的骄傲。</span><span class="english">Citizens of Guiyang take pride in its climate.</span></p>
 
 <p><span class="chinese">我桂阳能有多少人马？</span><span class="english">How many can our little Guiyang put in the field?</span></p>

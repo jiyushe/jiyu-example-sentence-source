@@ -1,5 +1,7 @@
 # vociferously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vociferously.md)
+
 <p><span class="chinese">首倡者叫嚣着支持其中的一个立场。</span><span class="english">Advoctogether withes vociferously support one position or the other.</span></p>
 
 <p><span class="chinese">作为回报，他大吵大闹地否认存在着人为造成的气候变化。</span><span class="english">He returns the favour by vociferously denying that manmade climate change exists.</span></p>

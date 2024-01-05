@@ -1,5 +1,7 @@
 # 收容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shourong.md)
+
 <p><span class="chinese">这些城镇现已收容了数百名国内流离失所者。</span><span class="english">These towns already host hundreds of IDPs.</span></p>
 
 <p><span class="chinese">当有人把孩子放进收容箱后，就会有铃声响起。</span><span class="english">A bell rings when someone puts a baby in the box.</span></p>

@@ -1,5 +1,7 @@
 # postprandial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postprandial.md)
+
 <p><span class="chinese">他差不离不断地诉说饭后呕吐。</span><span class="english">He complained almost ceaselessly of postprandial nausea.</span></p>
 
 <p><span class="chinese">甘精胰岛素不能治疗餐后高血糖。</span><span class="english">Insulin Glargine does not treat postprandial hyperglycemia.</span></p>

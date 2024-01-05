@@ -1,5 +1,7 @@
 # 边角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianjiao.md)
+
 <p><span class="chinese">那些边角碎料呢？</span><span class="english">Those corner scrap it?</span></p>
 
 <p><span class="chinese">他能用金属边角余料制造出不同的工具。</span><span class="english">He could make tools out of odd bits of metal.</span></p>

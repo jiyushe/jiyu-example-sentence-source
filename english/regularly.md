@@ -1,5 +1,7 @@
 # regularly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regularly.md)
+
 <p><span class="chinese">我常常去拜访他。</span><span class="english">I visit him regularly.</span></p>
 
 <p><span class="chinese">你应该有规律地坚持做。</span><span class="english">You should do it regularly.</span></p>

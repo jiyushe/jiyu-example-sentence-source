@@ -1,5 +1,7 @@
 # 蒲草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pucao.md)
+
 <p><span class="chinese">蒲草没有泥，岂能发长。</span><span class="english">Can papyrus shoot up without marsh?</span></p>
 
 <p><span class="chinese">蒲草上分离得到的菌株在芦苇上均有发现。</span><span class="english">The fungi isolated from Typha angustifolia can be found in reed.</span></p>

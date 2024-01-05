@@ -1,5 +1,7 @@
 # 杀身之祸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shashenzhihuo.md)
+
 <p><span class="chinese">拉宾觉得现在要是公布妮弟弟的事可能会带来杀身之祸。</span><span class="english">Rabin if feel now released may kill her brother.</span></p>
 
 <p><span class="chinese">一个小小的失误就可能给他们带来杀身之祸。</span><span class="english">One simple slight mistake could bring them death.</span></p>

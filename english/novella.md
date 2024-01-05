@@ -1,5 +1,7 @@
 # novella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/novella.md)
+
 <p><span class="chinese">在底部是“弗朗西斯哈米德阿尔一个中篇小说”。</span><span class="english">At the bottom is "A Novella by Francis Hamit".</span></p>
 
 <p><span class="chinese">普赖尔先生把他的短篇小说扩展成长篇小说。</span><span class="english">He has published short stories, a novella and a novel.</span></p>

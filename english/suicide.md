@@ -1,5 +1,7 @@
 # suicide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suicide.md)
+
 <p><span class="chinese">陷入绝望的纳达尝试过自杀。</span><span class="english">Nada attempted suicide.</span></p>
 
 <p><span class="chinese">怎样可以预防自杀？</span><span class="english">How can suicide be prevented?</span></p>

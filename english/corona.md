@@ -1,5 +1,7 @@
 # corona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corona.md)
+
 <p><span class="chinese">你们有柯罗娜吗？</span><span class="english">Do you have Corona?</span></p>
 
 <p><span class="chinese">日本有索尼，墨西哥有科罗娜，德国有宝马，韩国有三星。</span><span class="english">Japan has Sony. Mexico has Corona.</span></p>

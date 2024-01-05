@@ -1,5 +1,7 @@
 # upbringing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upbringing.md)
+
 <p><span class="chinese">正规的中产阶级教育。</span><span class="english">He had a normal middle-class upbringing.</span></p>
 
 <p><span class="chinese">我受的教育平凡而普通。</span><span class="english">I had a very normal, low-key kind of upbringing.</span></p>

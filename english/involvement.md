@@ -1,5 +1,7 @@
 # involvement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/involvement.md)
+
 <p><span class="chinese">与他人交往，你是在冒险，你会有无数牵连。</span><span class="english">To reach out is ---to risk involvement.</span></p>
 
 <p><span class="chinese">那是我的口头禅。</span><span class="english">That gets close to my involvement in life.</span></p>

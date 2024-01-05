@@ -1,5 +1,7 @@
 # catsup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catsup.md)
+
 <p><span class="chinese">我用了特别的佐料和自制蕃茄酱。</span><span class="english">I use a special dressing and homemade catsup.</span></p>
 
 <p><span class="chinese">我用了特别的佐料和自制的番茄酱。</span><span class="english">I use a special dressing and homemade catsup.</span></p>

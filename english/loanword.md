@@ -1,5 +1,7 @@
 # loanword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loanword.md)
+
 <p><span class="chinese">借用外来词，达到新颖的效果。</span><span class="english">Use of loanword so as to create novelty.</span></p>
 
 <p><span class="chinese">它不同于传统意义的“宅”，是一个地道的外来词，源于日本。</span><span class="english">It is a typical loanword which first came to use in Japan.</span></p>

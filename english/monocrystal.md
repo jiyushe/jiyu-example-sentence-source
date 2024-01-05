@@ -1,5 +1,7 @@
 # monocrystal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monocrystal.md)
+
 <p><span class="chinese">这主要得益于它采用了单晶硅膜的SOI结构。</span><span class="english">These benefit from the SOI Monocrystal silicon structure it possesses.</span></p>
 
 <p><span class="chinese">采用单晶硅或多晶硅太阳能电池，功率0.20W。</span><span class="english">Adopts monocrystal silicon or polycrystal silicon solar battery, power 0.20W.</span></p>

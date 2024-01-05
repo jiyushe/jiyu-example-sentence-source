@@ -1,5 +1,7 @@
 # button 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/button.md)
+
 <p><span class="chinese">后退按钮？</span><span class="english">The back button?</span></p>
 
 <p><span class="chinese">我……我是巴顿先生。</span><span class="english">I--I am Mr. Button.</span></p>

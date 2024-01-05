@@ -1,5 +1,7 @@
 # middleman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/middleman.md)
+
 <p><span class="chinese">和我们合作的中介商也是其中之一。</span><span class="english">Our local middleman was one of them.</span></p>
 
 <p><span class="chinese">第二，作为一个“中间商”实在不易。</span><span class="english">The second is the difficulties of being a middleman.</span></p>

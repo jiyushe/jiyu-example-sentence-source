@@ -1,5 +1,7 @@
 # primacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primacy.md)
+
 <p><span class="chinese">马克思主义相信物质是第一性的。</span><span class="english">Marxism believes in the primacy of matter.</span></p>
 
 <p><span class="chinese">奥巴马说，这事关美国在世界的首要地位。</span><span class="english">He said America's "primacy in the world" is at stake.</span></p>

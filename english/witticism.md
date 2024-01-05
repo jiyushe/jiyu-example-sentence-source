@@ -1,5 +1,7 @@
 # witticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witticism.md)
+
 <p><span class="chinese">这句话就成了拿破仑爱护学者的一句明言。</span><span class="english">This word became Napoleon loved scholars a witticism.</span></p>
 
 <p><span class="chinese">我觉得我要和艾米。法拉赫。福勒分享一下，她就喜欢这种俏皮话。</span><span class="english">I think I shall share that with Amy Farrah Fowler. She'll appreciate the witticism.</span></p>

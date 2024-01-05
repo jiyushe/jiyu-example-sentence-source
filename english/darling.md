@@ -1,5 +1,7 @@
 # darling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darling.md)
+
 <p><span class="chinese">达林龙向东！</span><span class="english">Darling dragon to east!</span></p>
 
 <p><span class="chinese">我不与你话别，我的亲爱。</span><span class="english">I have to go, my darling.</span></p>

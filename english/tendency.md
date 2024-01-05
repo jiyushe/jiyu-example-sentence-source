@@ -1,5 +1,7 @@
 # tendency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tendency.md)
+
 <p><span class="chinese">这种习惯是如此深固的。</span><span class="english">So strong is this tendency.</span></p>
 
 <p><span class="chinese">这个倾向会渗入到招聘中。</span><span class="english">This tendency seeps into hiring.</span></p>

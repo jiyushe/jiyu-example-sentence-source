@@ -1,5 +1,7 @@
 # 设计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheji_2.md)
+
 <p><span class="chinese">谁设计了它们？</span><span class="english">Who designs them?</span></p>
 
 <p><span class="chinese">伟大的地图设计！</span><span class="english">Great set of maps.</span></p>

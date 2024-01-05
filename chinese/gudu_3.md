@@ -1,5 +1,7 @@
 # 故都
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudu_3.md)
+
 <p><span class="chinese">思故都·顾蒙逊在1960年代开始艺术活动。</span><span class="english">Sigurdur Gudmundsson began his artistic activity in the 1960s.</span></p>
 
 <p><span class="chinese">赣州是红色故都、共和国的摇篮。</span><span class="english">Ganzhou is former red capital, the cradle of the Peple's Republic.</span></p>

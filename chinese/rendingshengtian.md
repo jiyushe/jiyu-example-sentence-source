@@ -1,5 +1,7 @@
 # 人定胜天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rendingshengtian.md)
+
 <p><span class="chinese">人定胜天。</span><span class="english">Man will conquer nature.</span></p>
 
 <p><span class="chinese">我一直相信人定胜天。</span><span class="english">I always believe man can conquer nature.</span></p>

@@ -1,5 +1,7 @@
 # specular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specular.md)
+
 <p><span class="chinese">这就是我所谓的没有自我理想的魅影意象。</span><span class="english">This is what I call not having a specular image.</span></p>
 
 <p><span class="chinese">每个材质都有漫反射、凹凸和高光贴图。</span><span class="english">Every material has diffuse, bump and specular map.</span></p>

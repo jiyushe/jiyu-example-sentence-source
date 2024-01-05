@@ -1,5 +1,7 @@
 # maoist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maoist.md)
+
 <p><span class="chinese">我认为这就像毛泽东思想的理论似的</span><span class="english">I think of that as the "Maoist" strategy.</span></p>
 
 <p><span class="chinese">一位毛派女兵在营帐中。</span><span class="english">A female Maoist soldier sits in one of the group's camps.</span></p>

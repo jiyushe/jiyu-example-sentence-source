@@ -1,5 +1,7 @@
 # 下学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaxue.md)
+
 <p><span class="chinese">我的同伙想在下学后踢足球。</span><span class="english">My friends want to play soccer afterschool.</span></p>
 
 <p><span class="chinese">下学铃也打过了，可还是没有人出来。</span><span class="english">The bell even rang but no students went out.</span></p>

@@ -1,5 +1,7 @@
 # 无益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyi_10.md)
+
 <p><span class="chinese">多说无益，战吧！</span><span class="english">Say more not beneficial, war!</span></p>
 
 <p><span class="chinese">那种努力将是无益的。</span><span class="english">That effort will be bootless.</span></p>

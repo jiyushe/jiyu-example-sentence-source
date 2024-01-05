@@ -1,5 +1,7 @@
 # incoherently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incoherently.md)
+
 <p><span class="chinese">病人对护士说起胡话来。</span><span class="english">The patient began to rave incoherently at the nurses.</span></p>
 
 <p><span class="chinese">那人一边挥动着拳头，一边语无论次地说。</span><span class="english">The man shook his fist, as he uttered these words incoherently.</span></p>

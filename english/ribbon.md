@@ -1,5 +1,7 @@
 # ribbon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ribbon.md)
+
 <p><span class="chinese">丝带会松落的。</span><span class="english">The ribbon comes off.</span></p>
 
 <p><span class="chinese">我要蓝带啤酒。</span><span class="english">I'll have Blue Ribbon Beer.</span></p>

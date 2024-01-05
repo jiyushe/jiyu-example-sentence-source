@@ -1,5 +1,7 @@
 # logotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logotype.md)
+
 <p><span class="chinese">水彩农村房子标识。</span><span class="english">Watercolor countryside house logotype.</span></p>
 
 <p><span class="chinese">下载2010年世界卫生日的标识。</span><span class="english">Download the logotype for World Health Day 2010.</span></p>

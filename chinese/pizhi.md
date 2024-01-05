@@ -1,5 +1,7 @@
 # 皮纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pizhi.md)
+
 <p><span class="chinese">那本书的包皮纸丢了。</span><span class="english">The book has lost its jacket.</span></p>
 
 <p><span class="chinese">欧洲人则使用了几百年的养皮纸。</span><span class="english">Europeans used parchment for many hundreds of year.</span></p>

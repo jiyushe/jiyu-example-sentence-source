@@ -1,5 +1,7 @@
 # 追忆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuiyi.md)
+
 <p><span class="chinese">追忆往事的幻想。</span><span class="english">Of visionary hours.</span></p>
 
 <p><span class="chinese">追忆每一个给过我们记忆的人。</span><span class="english">People who sent us the retrospection.</span></p>

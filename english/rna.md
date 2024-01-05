@@ -1,5 +1,7 @@
 # RNA
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rna.md)
+
 <p><span class="chinese">在RNA中也只有四种</span><span class="english">In RNA there's four bases.</span></p>
 
 <p><span class="chinese">常在去除RNA引物中使用。</span><span class="english">Often used for removal of RNA primers.</span></p>

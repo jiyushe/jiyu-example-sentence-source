@@ -1,5 +1,7 @@
 # incorporation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incorporation.md)
+
 <p><span class="chinese">两税合并谁将受益?。</span><span class="english">Who benefit from the incorporation?</span></p>
 
 <p><span class="chinese">组织是否可以被拒绝法人化？</span><span class="english">Can an association be refused incorporation?</span></p>

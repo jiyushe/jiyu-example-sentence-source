@@ -1,5 +1,7 @@
 # 分化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenhua.md)
+
 <p><span class="chinese">不要两极分化，综合一下。</span><span class="english">Rather than polarize, synthesize.</span></p>
 
 <p><span class="chinese">花芽分化是在图片。</span><span class="english">The flower bud is in the picture.</span></p>

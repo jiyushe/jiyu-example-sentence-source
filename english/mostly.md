@@ -1,5 +1,7 @@
 # mostly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mostly.md)
+
 <p><span class="chinese">大多数是因为铜。</span><span class="english">Copper, mostly.</span></p>
 
 <p><span class="chinese">在很多时候，说实话。</span><span class="english">Mostly. Honestly.</span></p>

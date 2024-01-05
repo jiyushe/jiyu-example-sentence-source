@@ -1,5 +1,7 @@
 # chapel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chapel.md)
+
 <p><span class="chinese">这座小教堂于1880年举行献堂礼。</span><span class="english">The chapel was dedicated in 1880.</span></p>
 
 <p><span class="chinese">这个教堂没有洗礼池。</span><span class="english">This chapel has no baptismal font.</span></p>

@@ -1,5 +1,7 @@
 # breathing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breathing.md)
+
 <p><span class="chinese">呼吸技法。</span><span class="english">Breathing.</span></p>
 
 <p><span class="chinese">小孩子喘着粗气，像得了哮喘似的。</span><span class="english">Kids breathing asthma.</span></p>

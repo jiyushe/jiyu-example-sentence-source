@@ -1,5 +1,7 @@
 # inference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inference.md)
+
 <p><span class="chinese">我们叫做推理队。</span><span class="english">We call it the inference team.</span></p>
 
 <p><span class="chinese">我以为任何推断都不能成立。</span><span class="english">I submit that no inference is true.</span></p>

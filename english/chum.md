@@ -1,5 +1,7 @@
 # chum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chum.md)
+
 <p><span class="chinese">寻桥是咏春拳的中级套路。</span><span class="english">Chum Kiu is a middle rank routine of Wing Chun.</span></p>
 
 <p><span class="chinese">细鳞大马哈鱼和鲑鱼的残骸横七竖八的摊在铺满潮汐莎草的岸边。</span><span class="english">Pink and chum salmon carcasses lie tangled in linguine strands of tidal sedge.</span></p>

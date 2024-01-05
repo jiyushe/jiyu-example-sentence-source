@@ -1,5 +1,7 @@
 # throughly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throughly.md)
+
 <p><span class="chinese">你能不能将房间彻底打扫一遍。</span><span class="english">Could you please clean up the room throughly.</span></p>
 
 <p><span class="chinese">相反的，我能够完全定义出我所笃信的东西。</span><span class="english">On the contrary I can throughly define what I believe.</span></p>

@@ -1,5 +1,7 @@
 # 辞退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/citui.md)
+
 <p><span class="chinese">Potti博士被杜克大学辞退。</span><span class="english">Dr. Potti resigned from Duke.</span></p>
 
 <p><span class="chinese">我因他不老实而把他辞退了。</span><span class="english">I parted with him for his dishonesty.</span></p>

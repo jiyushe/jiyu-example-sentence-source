@@ -1,5 +1,7 @@
 # reeducation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reeducation.md)
+
 <p><span class="chinese">再教育对此能有所帮助。</span><span class="english">This is where reeducation can help.</span></p>
 
 <p><span class="chinese">劳动教养制度的回顾和发展。</span><span class="english">First part, Reeducation through Labor Review and Development.</span></p>

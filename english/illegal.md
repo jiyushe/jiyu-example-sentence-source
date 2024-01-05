@@ -1,5 +1,7 @@
 # illegal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illegal.md)
+
 <p><span class="chinese">它是违法的</span><span class="english">It's illegal.</span></p>
 
 <p><span class="chinese">这回扣是非法的。</span><span class="english">This kickback is illegal.</span></p>

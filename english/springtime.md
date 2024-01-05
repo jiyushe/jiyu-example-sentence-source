@@ -1,5 +1,7 @@
 # springtime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/springtime.md)
+
 <p><span class="chinese">春天比较好。</span><span class="english">Springtime is better.</span></p>
 
 <p><span class="chinese">花在春天开放。</span><span class="english">Flowers bloom in springtime.</span></p>

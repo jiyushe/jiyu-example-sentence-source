@@ -1,5 +1,7 @@
 # savoury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savoury.md)
+
 <p><span class="chinese">你喜欢甜食还是咸食？</span><span class="english">Do you prefer sweet or savoury food?</span></p>
 
 <p><span class="chinese">我想要一份开胃菜与鱼餐。</span><span class="english">Small savoury biscuits provide a simple appetizer.</span></p>

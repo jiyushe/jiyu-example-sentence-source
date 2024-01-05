@@ -1,5 +1,7 @@
 # draftsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/draftsman.md)
+
 <p><span class="chinese">这个绘图员描图的技术好。</span><span class="english">The draftsman draws well.</span></p>
 
 <p><span class="chinese">这个绘图员描图的技术好。</span><span class="english">The draftsman draws well.</span></p>

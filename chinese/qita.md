@@ -1,5 +1,7 @@
 # 其他
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qita.md)
+
 <p><span class="chinese">今天你取得其他所有男人的心这还不够吗？</span><span class="english">heart today?</span></p>
 
 <p><span class="chinese">还有没有其他主意？</span><span class="english">And another idea?</span></p>

@@ -1,5 +1,7 @@
 # venus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venus.md)
+
 <p><span class="chinese">昏星就是金星</span><span class="english">The Evening Star is Venus.</span></p>
 
 <p><span class="chinese">晨星也是金星</span><span class="english">The Morning Star is Venus.</span></p>

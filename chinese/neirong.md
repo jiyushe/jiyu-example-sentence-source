@@ -1,5 +1,7 @@
 # 内容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neirong.md)
+
 <p><span class="chinese">内容不要太简短。</span><span class="english">Don't be too brief.</span></p>
 
 <p><span class="chinese">复习新内容。</span><span class="english">Review new content.</span></p>

@@ -1,5 +1,7 @@
 # 手套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoutao_1.md)
+
 <p><span class="chinese">我需要一副深褐色的手套。</span><span class="english">I want puce gloves.</span></p>
 
 <p><span class="chinese">你们可以留着手套。</span><span class="english">You can keep the glove.</span></p>

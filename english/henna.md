@@ -1,5 +1,7 @@
 # henna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/henna.md)
+
 <p><span class="chinese">暗红色的墙体，棕红色的窗棂。</span><span class="english">The dark red walls, henna window lattices.</span></p>
 
 <p><span class="chinese">这一系列设计的灵感源于指甲花。</span><span class="english">This collection was inspired by henna body art.</span></p>

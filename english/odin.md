@@ -1,5 +1,7 @@
 # odin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odin.md)
+
 <p><span class="chinese">奥丁可以帮你在这里一样。</span><span class="english">Odin can help you here as well.</span></p>
 
 <p><span class="chinese">欧丁自小在动物园中长大。</span><span class="english">Odin was hand-raised at the zoo.</span></p>

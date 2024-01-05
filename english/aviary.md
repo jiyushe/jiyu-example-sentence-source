@@ -1,5 +1,7 @@
 # aviary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aviary.md)
+
 <p><span class="chinese">岛的一端是一个大型鸟园。</span><span class="english">At one end is a large aviary.</span></p>
 
 <p><span class="chinese">富兰克林从鸟舍中的鸟笼中离奇失踪。</span><span class="english">Franklin mysteriously disappeared from his cage at the aviary.</span></p>

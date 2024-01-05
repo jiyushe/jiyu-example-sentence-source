@@ -1,5 +1,7 @@
 # peroxidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peroxidation.md)
+
 <p><span class="chinese">烷基芳烃过氧化反应是酚类合成反应的关键步骤。</span><span class="english">Peroxidation of alkyl aromatics is the key step to synthesis of phenols.</span></p>
 
 <p><span class="chinese">亚麻酸抵消TPA对小鼠皮肤脂质过氧化的影响。</span><span class="english">Lbotenic acid counteracts the effect of TPA on lipid peroxidation in mouse skin.</span></p>

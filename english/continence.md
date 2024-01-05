@@ -1,5 +1,7 @@
 # continence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continence.md)
+
 <p><span class="chinese">克制是异端邪说的敌人。</span><span class="english">Continence is the foe of heresy.</span></p>
 
 <p><span class="chinese">协助促进节制。</span><span class="english">Assist in the promotion of continence.</span></p>

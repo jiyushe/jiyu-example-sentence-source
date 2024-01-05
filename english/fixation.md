@@ -1,5 +1,7 @@
 # fixation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fixation.md)
+
 <p><span class="chinese">这就是“杀青”工序了。</span><span class="english">This is the "fixation" procedure.</span></p>
 
 <p><span class="chinese">无畸形愈合和内固定失效。</span><span class="english">No malunion and failure of fixation were observed.</span></p>

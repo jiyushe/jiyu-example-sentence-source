@@ -1,5 +1,7 @@
 # 主峰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhufeng.md)
+
 <p><span class="chinese">黄山有三个主峰。</span><span class="english">Mount Huangshan has three main peaks.</span></p>
 
 <p><span class="chinese">老君山在神农架主峰东北。</span><span class="english">Laojunshan Shennongjia in the north-east peak.</span></p>

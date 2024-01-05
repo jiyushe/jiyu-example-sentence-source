@@ -1,5 +1,7 @@
 # rivalry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rivalry.md)
+
 <p><span class="chinese">它是一种相互依赖的较量。</span><span class="english">It is an interdependent rivalry.</span></p>
 
 <p><span class="chinese">它让我们想起敌对的兄弟。</span><span class="english">It reminds one of sibling rivalry.</span></p>

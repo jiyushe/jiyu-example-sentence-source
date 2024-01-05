@@ -1,5 +1,7 @@
 # earthenware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthenware.md)
+
 <p><span class="chinese">陶文化又是文化之根，艺术之源。</span><span class="english">Earthenware culture is of culture , source of art.</span></p>
 
 <p><span class="chinese">泡茶的壶应为瓷制或陶制。</span><span class="english">The teapot should be made of china or earthenware.</span></p>

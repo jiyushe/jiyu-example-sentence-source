@@ -1,5 +1,7 @@
 # into 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/into.md)
+
 <p><span class="chinese">倒进锅里。</span><span class="english">Pour into pan.</span></p>
 
 <p><span class="chinese">弗成能的嘛！</span><span class="english">Eph into energy!</span></p>

@@ -1,5 +1,7 @@
 # 要求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoqiu.md)
+
 <p><span class="chinese">他要求加薪水。</span><span class="english">He aked for raise.</span></p>
 
 <p><span class="chinese">20岁的田林回绝了这一要求。</span><span class="english">Tian, 20, refused.</span></p>

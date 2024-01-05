@@ -1,5 +1,7 @@
 # se
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/se.md)
+
 <p><span class="chinese">收缩膜包装。</span><span class="english">Se empaqueta por shrink film.</span></p>
 
 <p><span class="chinese">在每一个硒诱导燃烧器。</span><span class="english">An induction burner at Per Se.</span></p>

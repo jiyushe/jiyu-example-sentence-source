@@ -1,5 +1,7 @@
 # 爱国主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiguozhuyi.md)
+
 <p><span class="chinese">我恨爱国主义。</span><span class="english">I hate patriotism.</span></p>
 
 <p><span class="chinese">这是爱国主义的精华。</span><span class="english">That is the essence of patriotism.</span></p>

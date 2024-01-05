@@ -1,5 +1,7 @@
 # dispensable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispensable.md)
+
 <p><span class="chinese">公司，如果你认为你是可有可无的。</span><span class="english">Company if you think you are dispensable.</span></p>
 
 <p><span class="chinese">对于所有人来说，我只是一个可有可无的角色。</span><span class="english">For all people, I'm just a dispensable role.</span></p>

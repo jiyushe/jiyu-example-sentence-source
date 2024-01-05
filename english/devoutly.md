@@ -1,5 +1,7 @@
 # devoutly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devoutly.md)
+
 <p><span class="chinese">垂死的老人举目望天，虔诚地祈祷。</span><span class="english">The dying old man cast up his eyes to heaven and prayed devoutly.</span></p>
 
 <p><span class="chinese">那么虔诚的天主教徒苏珊大妈会首先感谢谁呢？</span><span class="english">Who does the devoutly Catholic Susan Boyle thank first in her liner notes?</span></p>

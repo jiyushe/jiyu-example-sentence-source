@@ -1,5 +1,7 @@
 # 跷跷板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoqiaoban.md)
+
 <p><span class="chinese">施先生有一把锯，苏雅先生有一坐跷跷板。</span><span class="english">Mr. See owned a saw.</span></p>
 
 <p><span class="chinese">他们在跷跷板上么？</span><span class="english">Were they on the seesaw?</span></p>

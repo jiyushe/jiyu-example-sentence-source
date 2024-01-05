@@ -1,5 +1,7 @@
 # 如故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rugu_2.md)
+
 <p><span class="chinese">岁月依旧，念汝如故。</span><span class="english">Years Still, Miss You As Before.</span></p>
 
 <p><span class="chinese">一切都是那么冷清，一往如故。</span><span class="english">All are that lonely, one toward as before.</span></p>

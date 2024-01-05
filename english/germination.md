@@ -1,5 +1,7 @@
 # germination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germination.md)
+
 <p><span class="chinese">小草抽芽了，树木变绿了。</span><span class="english">Germination of grass, trees green.</span></p>
 
 <p><span class="chinese">发芽试验以沙床为最好。</span><span class="english">The germination tests take sand bed as the best.</span></p>

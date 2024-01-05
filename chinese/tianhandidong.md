@@ -1,5 +1,7 @@
 # 天寒地冻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianhandidong.md)
+
 <p><span class="chinese">忍受着天寒地冻，也忍受着流感。</span><span class="english">Enduring the cold and also the flu.</span></p>
 
 <p><span class="chinese">如果是天寒地冻的天气。</span><span class="english">And for very very freezing cold days.</span></p>

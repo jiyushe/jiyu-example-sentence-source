@@ -1,5 +1,7 @@
 # andaman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andaman.md)
+
 <p><span class="chinese">安达曼和尼科巴岛链共包括572个岛屿。</span><span class="english">The Andaman and Nicobar chains comprise 572 islands.</span></p>
 
 <p><span class="chinese">西蒙余兴节目最扣人心弦的地方是在安达曼海湾。</span><span class="english">Simon Cabaret the most exciting place to be on the Andaman Gulf.</span></p>

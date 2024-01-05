@@ -1,5 +1,7 @@
 # conjuror
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjuror.md)
+
 <p><span class="chinese">孩子们目瞪口呆地看着那魔术师。</span><span class="english">The boys looked at the conjuror in silent wonder.</span></p>
 
 <p><span class="chinese">孩子都一声不响惊奇地看着魔术师。</span><span class="english">The children watched the conjuror in silent wonder.</span></p>

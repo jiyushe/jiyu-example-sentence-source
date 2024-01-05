@@ -1,5 +1,7 @@
 # 赢利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingli_3.md)
+
 <p><span class="chinese">贝索斯没有贪求赢利。</span><span class="english">Bezos was not profit-hungry.</span></p>
 
 <p><span class="chinese">好手对你的赢利是非常大的损害。</span><span class="english">Regs are super costly to your profit.</span></p>

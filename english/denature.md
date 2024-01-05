@@ -1,5 +1,7 @@
 # denature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denature.md)
+
 <p><span class="chinese">微波的生物热效应能使蛋白质变性。</span><span class="english">Thermal biological effects of microwave can denature the protein.</span></p>
 
 <p><span class="chinese">胰腺和小肠组织RNA酶含量丰富，极易降解RNA。</span><span class="english">Rnase is rich in pancreas and small intestine and may easily denature RNA.</span></p>

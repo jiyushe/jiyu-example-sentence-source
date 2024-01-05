@@ -1,5 +1,7 @@
 # hatcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatcher.md)
+
 <p><span class="chinese">走的路，呼吸的空气，都属于哈奇。</span><span class="english">The road, the air, hatcher owns it all.</span></p>
 
 <p><span class="chinese">罗拉在此名次上挤掉了科特尼·考克斯和泰瑞·海切尔。</span><span class="english">Lara edges out Courtney Cox and Teri Hatcher for this position on the list.</span></p>

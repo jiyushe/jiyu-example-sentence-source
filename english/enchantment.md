@@ -1,5 +1,7 @@
 # enchantment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enchantment.md)
+
 <p><span class="chinese">在这个群魔乱舞之夜必须注意</span><span class="english">Precautions must be taken on this night of enchantment.</span></p>
 
 <p><span class="chinese">在这个群魔乱舞之夜必须注意。</span><span class="english">Precautions must be taken on this night of enchantment.</span></p>

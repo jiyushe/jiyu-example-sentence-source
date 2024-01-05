@@ -1,5 +1,7 @@
 # 递减
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dijian.md)
+
 <p><span class="chinese">对它们的满意度也每天递减。</span><span class="english">And their satisfaction diminishes every day.</span></p>
 
 <p><span class="chinese">在行内逐次增加，在列内逐次递减。</span><span class="english">It rises up a row. It decreases down the column.</span></p>

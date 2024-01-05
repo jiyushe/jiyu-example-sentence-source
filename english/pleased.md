@@ -1,5 +1,7 @@
 # pleased
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleased.md)
+
 <p><span class="chinese">我是非常高兴的。</span><span class="english">I’m very pleased.</span></p>
 
 <p><span class="chinese">我们玩得很高兴。</span><span class="english">We played very pleased.</span></p>

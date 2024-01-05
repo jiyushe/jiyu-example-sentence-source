@@ -1,5 +1,7 @@
 # impasse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impasse.md)
+
 <p><span class="chinese">但政治僵局却依然持续。</span><span class="english">But the political impasse lingers.</span></p>
 
 <p><span class="chinese">谈判陷入僵局。</span><span class="english">The negotiations have reached an impasse.</span></p>

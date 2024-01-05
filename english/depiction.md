@@ -1,5 +1,7 @@
 # depiction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depiction.md)
+
 <p><span class="chinese">以自然风景为主题，有时含有讽喻意义的作品。</span><span class="english">A depiction of natural land forms, sometimes allegorical.</span></p>
 
 <p><span class="chinese">多棒的跑句啊,不过它像是对歌词的解读</span><span class="english">Wow. What a run, but it's all kind of text depiction here.</span></p>

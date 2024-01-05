@@ -1,5 +1,7 @@
 # angiosperm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angiosperm.md)
+
 <p><span class="chinese">被子植物在植物区系的组成成分中占据绝对优势。</span><span class="english">Angiosperm predominates in the halophytes flora in Bohai-Bay.</span></p>
 
 <p><span class="chinese">记忆它们的是被子植物和裸子植物等胚种。</span><span class="english">What recorded them were embryos of angiosperm and gymnosperm.</span></p>

@@ -1,5 +1,7 @@
 # humoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humoral.md)
+
 <p><span class="chinese">体液免疫反应中的免疫体细胞是什么？</span><span class="english">What are the effector cells of the humoral immune response?</span></p>
 
 <p><span class="chinese">结论心安颗粒可增强正常小鼠体液免疫功能。</span><span class="english">Conclusions XAG can enhance the function of mice humoral immunity.</span></p>

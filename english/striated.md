@@ -1,5 +1,7 @@
 # striated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/striated.md)
+
 <p><span class="chinese">电镜观察细胞和纹状缘。</span><span class="english">EM of cells with striated border.</span></p>
 
 <p><span class="chinese">需要解脱的是那受了束缚的心。</span><span class="english">What we need to fly is the striated heart.</span></p>

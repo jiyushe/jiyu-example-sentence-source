@@ -1,5 +1,7 @@
 # dysprosium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysprosium.md)
+
 <p><span class="chinese">这会是很困难的，对镝来说尤其如此。</span><span class="english">That will be hard, particularly for dysprosium.</span></p>
 
 <p><span class="chinese">到那时，镝与钕的需求也会得到满足吗？</span><span class="english">Could demand for dysprosium and neodymium then be met?</span></p>

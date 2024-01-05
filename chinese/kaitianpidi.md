@@ -1,5 +1,7 @@
 # 开天辟地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaitianpidi.md)
+
 <p><span class="chinese">开天辟地以来，那便是真理。</span><span class="english">That has been true since the world began.</span></p>
 
 <p><span class="chinese">这是中国历史上开天辟地的大事件。</span><span class="english">This is the history of an epoch-making event.</span></p>

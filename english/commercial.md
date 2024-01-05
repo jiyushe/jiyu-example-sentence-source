@@ -1,5 +1,7 @@
 # commercial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commercial.md)
+
 <p><span class="chinese">艺术还是商业？</span><span class="english">Artsy or commercial?</span></p>
 
 <p><span class="chinese">这里是大安商业银行。</span><span class="english">This is Dan An Commercial Bank.</span></p>

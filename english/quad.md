@@ -1,5 +1,7 @@
 # quad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quad.md)
+
 <p><span class="chinese">四路2输入或门。</span><span class="english">Quad 2-input OR gate.</span></p>
 
 <p><span class="chinese">只剩一间四人房了。</span><span class="english">There's only one quad left.</span></p>

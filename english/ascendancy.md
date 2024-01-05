@@ -1,5 +1,7 @@
 # ascendancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascendancy.md)
+
 <p><span class="chinese">亚里斯多德的科学早已盛行一时。</span><span class="english">Aristotle's science had acquired ascendancy.</span></p>
 
 <p><span class="chinese">而贩毒集团的这种优势是一个全球性问题。</span><span class="english">And this ascendancy of the drug cartels is a global problem.</span></p>

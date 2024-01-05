@@ -1,5 +1,7 @@
 # 贴现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiexian.md)
+
 <p><span class="chinese">应收账款已被贴现。</span><span class="english">Receivables have been discounted.</span></p>
 
 <p><span class="chinese">向银行申请承兑汇票贴现。</span><span class="english">Acceptance to apply for the discount.</span></p>

@@ -1,5 +1,7 @@
 # 狂饮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangyin.md)
+
 <p><span class="chinese">他们在筵席上狂饮。</span><span class="english">They liquored up at the feast.</span></p>
 
 <p><span class="chinese">这星期她狂饮葡萄酒。</span><span class="english">She is mainlining wine this week.</span></p>

@@ -1,5 +1,7 @@
 # turbojet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbojet.md)
+
 <p><span class="chinese">涡轮螺桨发动机与涡轮喷气发动机十分相似。</span><span class="english">The turboprop engine is very much like the turbojet.</span></p>
 
 <p><span class="chinese">1939年，涡喷发动机引入了一种全新的推力方法。</span><span class="english">In 1939 the turbojet brought an entirely new method of propulsion.</span></p>

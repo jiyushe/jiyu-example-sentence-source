@@ -1,5 +1,7 @@
 # uncivilized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncivilized.md)
+
 <p><span class="chinese">有些人说这是一片未开化的蛮荒之地。</span><span class="english">Some say it is wild and uncivilized.</span></p>
 
 <p><span class="chinese">就像是未曾开化的运算系统。</span><span class="english">It's an extremely uncivilized system.</span></p>

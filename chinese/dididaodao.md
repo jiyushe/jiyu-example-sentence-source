@@ -1,5 +1,7 @@
 # 地地道道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dididaodao.md)
+
 <p><span class="chinese">他是地地道道的英国人。</span><span class="english">He is british to the backbone.</span></p>
 
 <p><span class="chinese">他们是地地道道的垃圾。</span><span class="english">They were out-and-out rubbish.</span></p>

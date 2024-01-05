@@ -1,5 +1,7 @@
 # 鹿角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lujiao.md)
+
 <p><span class="chinese">他的大厅用鹿角装饰着。</span><span class="english">His hall was decorated with deer horns.</span></p>
 
 <p><span class="chinese">大型分叉的珊瑚，形似鹿角。</span><span class="english">Large branching coral resembling antlers.</span></p>

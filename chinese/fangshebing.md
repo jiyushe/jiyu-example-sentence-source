@@ -1,5 +1,7 @@
 # 放射病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangshebing.md)
+
 <p><span class="chinese">外照射亚急性放射病诊断标准及处理原则。</span><span class="english">Objective To investigate the diagnosis and treatment of radiation proctitis.</span></p>
 
 <p><span class="chinese">这些救援工人都患有急性放射病，其中约有28人在受到辐射损伤的头三个月内死亡。</span><span class="english">Some 28 of those workers died within the first three months from their radiation injuries.</span></p>

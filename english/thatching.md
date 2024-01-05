@@ -1,5 +1,7 @@
 # thatching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thatching.md)
+
 <p><span class="chinese">盖伯瑞尔像在梦幻中一样继续盖稻草。</span><span class="english">He went on thatching in a kind of dream.</span></p>
 
 <p><span class="chinese">因为这些，所以重新开始茅草屋顶。</span><span class="english">With all these reasons to start thatching roofs again.</span></p>

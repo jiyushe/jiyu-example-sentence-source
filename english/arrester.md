@@ -1,5 +1,7 @@
 # arrester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrester.md)
+
 <p><span class="chinese">网络的信息系统的防雷保护。</span><span class="english">Surge Arrester for RJ45 LAN information systems.</span></p>
 
 <p><span class="chinese">目前，使用最多的是氧化锌避雷器。</span><span class="english">At present, the most commonly used are zinc oxide arrester.</span></p>

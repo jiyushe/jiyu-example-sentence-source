@@ -1,5 +1,7 @@
 # intonation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intonation.md)
+
 <p><span class="chinese">这全部是语调问题。</span><span class="english">And all it was is the intonation there.</span></p>
 
 <p><span class="chinese">英语语调不难学。</span><span class="english">English intonation is not hard to learn.</span></p>

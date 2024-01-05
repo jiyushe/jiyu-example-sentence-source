@@ -1,5 +1,7 @@
 # gobang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gobang.md)
+
 <p><span class="chinese">一个简单的五子棋游戏，要在TC下才能运行哦。</span><span class="english">A simple gobang game, must be able to move under TC oh.</span></p>
 
 <p><span class="chinese">网络五子棋，可以用来作为开发和学习之用。</span><span class="english">Gobang network can be used as a development and learning.</span></p>

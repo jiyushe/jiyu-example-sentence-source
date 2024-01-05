@@ -1,5 +1,7 @@
 # recalcitrance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recalcitrance.md)
+
 <p><span class="chinese">你不服从，迫使我这方面更坚定了。</span><span class="english">Your recalcitrance obliges firmness on my part.</span></p>
 
 <p><span class="chinese">他们谴责内塔尼亚胡的顽抗。</span><span class="english">They chastise Mr Netanyahu for his recalcitrance.</span></p>

@@ -1,5 +1,7 @@
 # 弯子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanzi_1.md)
+
 <p><span class="chinese">戴亚亚回家，戴骨顺绕了半天弯子没问出个究竟。</span><span class="english">Dai Yaya home, put down around the bone turn not to ask.</span></p>
 
 <p><span class="chinese">在黑暗里再绕个弯子，拐回来把它们吃了吧。</span><span class="english">Make another turn in the dark and come back and eat them.</span></p>

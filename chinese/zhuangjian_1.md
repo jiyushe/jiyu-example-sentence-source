@@ -1,5 +1,7 @@
 # 撞见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangjian_1.md)
+
 <p><span class="chinese">我昨天碰巧撞见了他。</span><span class="english">I ran aross him yesterday.</span></p>
 
 <p><span class="chinese">父亲撞见他偷苹果。</span><span class="english">His father caught him filching apples.</span></p>

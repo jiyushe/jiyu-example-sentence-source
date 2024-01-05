@@ -1,5 +1,7 @@
 # interwoven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interwoven.md)
+
 <p><span class="chinese">始终交织成的空中节日。</span><span class="english">Always interwoven into the festive air.</span></p>
 
 <p><span class="chinese">那是因为他们常常紧密地交织在一起。</span><span class="english">That is because they are often closely interwoven.</span></p>

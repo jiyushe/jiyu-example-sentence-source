@@ -1,5 +1,7 @@
 # fascist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fascist.md)
+
 <p><span class="chinese">他们实际上要的是法西斯主义的一党专政。</span><span class="english">What they really want is a one-party fascist dictatorship.</span></p>
 
 <p><span class="chinese">该声明督促现当局停止法西斯的压迫统治。</span><span class="english">It urged the authorities to stop the fascist oppressive rule.</span></p>

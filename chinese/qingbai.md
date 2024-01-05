@@ -1,5 +1,7 @@
 # 清白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingbai.md)
+
 <p><span class="chinese">布拉达·布莱克是清白的。</span><span class="english">Brenda Black was blameless.</span></p>
 
 <p><span class="chinese">他碾磨你们，直至你们清白。</span><span class="english">He grinds you to whiteness.</span></p>

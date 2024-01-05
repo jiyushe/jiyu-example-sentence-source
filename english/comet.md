@@ -1,5 +1,7 @@
 # comet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comet.md)
+
 <p><span class="chinese">彗星上的人造陨坑。</span><span class="english">Man-Made Crater on Comet.</span></p>
 
 <p><span class="chinese">为什麽是慧星像米老老鼠?。</span><span class="english">Why is the comet like Micky Mouse?</span></p>

@@ -1,5 +1,7 @@
 # manoeuver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manoeuver.md)
+
 <p><span class="chinese">用你的箭头键可大有作为的作品。</span><span class="english">Use your arrow keys to manoeuver the pieces.</span></p>
 
 <p><span class="chinese">最后他决定再做一次演习。</span><span class="english">Finally, he decides to compose once more manoeuver.</span></p>

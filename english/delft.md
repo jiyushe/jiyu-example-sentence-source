@@ -1,5 +1,7 @@
 # delft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delft.md)
+
 <p><span class="chinese">她将捍卫她的论文对周一4月22日在杜叶锡恩代尔夫特。</span><span class="english">She will defend her thesis on Monday 22 April at TU Delft.</span></p>
 
 <p><span class="chinese">Delft的研究者们进行了焊接玻璃组件的实验。</span><span class="english">Researchers at Delft have experimented with welding glass components.</span></p>

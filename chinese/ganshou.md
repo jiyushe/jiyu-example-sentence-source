@@ -1,5 +1,7 @@
 # 干瘦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshou.md)
+
 <p><span class="chinese">这又干瘦又丑陋的母牛吃尽了那以先的七只肥母牛</span><span class="english">The lean, ugly coes ate up the seven fat cows that came up first.</span></p>
 
 <p><span class="chinese">一位干瘦的农民正在码头上卖甘蔗。</span><span class="english">A WIZENED farmer selling sugarcane on the quayside is enthusiastic.</span></p>

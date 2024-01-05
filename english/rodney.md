@@ -1,5 +1,7 @@
 # rodney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rodney.md)
+
 <p><span class="chinese">洛尼总是呱呱地说。</span><span class="english">Rodney always croaked and said.</span></p>
 
 <p><span class="chinese">他就是这样的新秀之一。</span><span class="english">Rodney Stuckey is one of those rookies.</span></p>

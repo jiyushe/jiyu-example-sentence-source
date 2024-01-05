@@ -1,5 +1,7 @@
 # bhakti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bhakti.md)
+
 <p><span class="chinese">你的道路是巴克提的道路。</span><span class="english">Yours is the path of bhakti.</span></p>
 
 <p><span class="chinese">巴克提有两个阶段。</span><span class="english">There are two stages of bhakti.</span></p>

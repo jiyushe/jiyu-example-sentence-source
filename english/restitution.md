@@ -1,5 +1,7 @@
 # restitution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restitution.md)
+
 <p><span class="chinese">完善的服务，退赔保障，让您全作无忧。</span><span class="english">Perfect service, restitution guarantee, so you all for the worry.</span></p>
 
 <p><span class="chinese">因此这是一个伟大的归位时代，至爱的人类，也是不需要去害怕的东西。</span><span class="english">So this is a great time of restitution beloved and not to be feared.</span></p>

@@ -1,5 +1,7 @@
 # 招收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshou_1.md)
+
 <p><span class="chinese">这所学校主要招收男孩。</span><span class="english">This school mainly enrolls for boys.</span></p>
 
 <p><span class="chinese">我们将于秋季招收新兵。</span><span class="english">We will muster in service in autumn.</span></p>

@@ -1,5 +1,7 @@
 # arthroscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthroscope.md)
+
 <p><span class="chinese">关节镜治疗髌骨骨折为髌骨骨折提供了一种新的治疗方法。</span><span class="english">Fixation under arthroscope becomes a novel approach to the treatment of patella fractures.</span></p>
 
 <p><span class="chinese">目的探讨关节镜下滑膜皱襞切除术治疗滑膜皱襞综合征的临床效果。</span><span class="english">To discuss clinical effect of synovial plica excised operation treats synovial plica syndrome by arthroscope.</span></p>

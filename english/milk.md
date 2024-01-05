@@ -1,5 +1,7 @@
 # milk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milk.md)
+
 <p><span class="chinese">糖和牛奶都要加。</span><span class="english">Sugar and milk.</span></p>
 
 <p><span class="chinese">我好爱喝木瓜牛奶。</span><span class="english">I love papaya milk.</span></p>

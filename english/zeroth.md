@@ -1,5 +1,7 @@
 # zeroth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zeroth.md)
+
 <p><span class="chinese">最先要关注的是项目。</span><span class="english">The zeroth step is the project.</span></p>
 
 <p><span class="chinese">这就是第零定律所说的。</span><span class="english">That's what the zeroth law says.</span></p>

@@ -1,5 +1,7 @@
 # vienna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vienna.md)
+
 <p><span class="chinese">你认为维亚纳怎么样？</span><span class="english">What do you think of Vienna?</span></p>
 
 <p><span class="chinese">音乐缭绕于整个维也纳。</span><span class="english">Music fills the air in Vienna.</span></p>

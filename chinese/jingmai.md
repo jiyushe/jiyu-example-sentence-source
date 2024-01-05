@@ -1,5 +1,7 @@
 # 经脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingmai.md)
+
 <p><span class="chinese">经脉中的气血运行是循环贯注的，如环无端。</span><span class="english">Qi and blood in the meridians circulate in cycles.</span></p>
 
 <p><span class="chinese">足太阳经，足少阴经的经脉循行。</span><span class="english">The circulation of Foot -Taiyang, Foot-Shaoyinmeridians.</span></p>

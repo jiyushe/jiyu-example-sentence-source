@@ -1,5 +1,7 @@
 # heir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heir.md)
+
 <p><span class="chinese">冬为夏之子。</span><span class="english">Winter is summer's heir.</span></p>
 
 <p><span class="chinese">你是永世的一个产物。</span><span class="english">You are a heir of Eternity.</span></p>

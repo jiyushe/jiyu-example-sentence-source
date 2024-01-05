@@ -1,5 +1,7 @@
 # applications
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applications.md)
+
 <p><span class="chinese">应用程序已通过验证。</span><span class="english">Applications verified.</span></p>
 
 <p><span class="chinese">我获得了什么应用程序？</span><span class="english">What applications do I get?</span></p>

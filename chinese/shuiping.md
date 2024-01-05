@@ -1,5 +1,7 @@
 # 水平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiping.md)
+
 <p><span class="chinese">用水平尺量一下。</span><span class="english">Check it with a level.</span></p>
 
 <p><span class="chinese">垂直还是水平？</span><span class="english">Vertical or horizontal?</span></p>

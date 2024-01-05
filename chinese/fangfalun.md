@@ -1,5 +1,7 @@
 # 方法论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangfalun.md)
+
 <p><span class="chinese">你们采用那种方法论？</span><span class="english">What methodology do you use?</span></p>
 
 <p><span class="chinese">焦点经常在方法论上。</span><span class="english">The sniping often focuses on methodology.</span></p>

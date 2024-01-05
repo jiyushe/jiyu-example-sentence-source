@@ -1,5 +1,7 @@
 # progressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/progressive.md)
+
 <p><span class="chinese">试试渐进式肌肉放松法</span><span class="english">Try Progressive Muscle Relaxation</span></p>
 
 <p><span class="chinese">很高兴听说这样的进步性新闻。</span><span class="english">Good to hear such progressive news.</span></p>

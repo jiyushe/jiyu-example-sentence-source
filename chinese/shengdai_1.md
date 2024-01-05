@@ -1,5 +1,7 @@
 # 声带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdai_1.md)
+
 <p><span class="chinese">声带，颈部腺体，咽喉。</span><span class="english">C5- Vocal cords, neck glands, pharynx.</span></p>
 
 <p><span class="chinese">但狮子强有力的声带是方形的。</span><span class="english">But the lion's mighty pipes are square.</span></p>

@@ -1,5 +1,7 @@
 # kimberlite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kimberlite.md)
+
 <p><span class="chinese">金伯利岩是金刚石的成矿母岩之一。</span><span class="english">The kimberlite is one of mother rock of diamond.</span></p>
 
 <p><span class="chinese">金刚石是从岩浆中结晶沉淀的。</span><span class="english">Diamond is precipitated from the kimberlite magma.</span></p>

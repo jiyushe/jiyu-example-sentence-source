@@ -1,5 +1,7 @@
 # saintly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saintly.md)
+
 <p><span class="chinese">她的微笑足以让任何罪人改邪归正。</span><span class="english">A smile to turn any sinner saintly.</span></p>
 
 <p><span class="chinese">圣域传说将让你不再沉沦！</span><span class="english">Legend Of Saintly Terrain will retrieve you from lost!</span></p>

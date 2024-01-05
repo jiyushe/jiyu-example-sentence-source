@@ -1,5 +1,7 @@
 # vp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vp.md)
+
 <p><span class="chinese">电视电话?。</span><span class="english">VP? Video Phone?</span></p>
 
 <p><span class="chinese">我们应该花多少代价请一个业务拓展副总裁？</span><span class="english">What should we pay a vp of biz dev?</span></p>

@@ -1,5 +1,7 @@
 # 展翅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanchi.md)
+
 <p><span class="chinese">鹤展翅飞上云天。</span><span class="english">The crane soared high into the sky.</span></p>
 
 <p><span class="chinese">只有和他在一起，我的心才能展翅高飞。</span><span class="english">Only with him can my heart fly high.</span></p>

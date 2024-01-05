@@ -1,5 +1,7 @@
 # landlocked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landlocked.md)
+
 <p><span class="chinese">内陆小国家，安道尔共和国。</span><span class="english">The tiny landlocked nation of Andorra.</span></p>
 
 <p><span class="chinese">欧洲中部的内陆国。</span><span class="english">A landlocked country of central Europe.</span></p>

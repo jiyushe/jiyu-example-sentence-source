@@ -1,5 +1,7 @@
 # 路标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lubiao.md)
+
 <p><span class="chinese">这个路标是什么？</span><span class="english">What is the landmark?</span></p>
 
 <p><span class="chinese">这条路已经设路标了。</span><span class="english">This road has been signed.</span></p>

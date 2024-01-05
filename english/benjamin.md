@@ -1,5 +1,7 @@
 # benjamin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benjamin.md)
+
 <p><span class="chinese">本杰民出生在平民窟。</span><span class="english">Benjamin was born in slums.</span></p>
 
 <p><span class="chinese">他拿给本杰民一些钱。</span><span class="english">He gave Benjamin some money.</span></p>

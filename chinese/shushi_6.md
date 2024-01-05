@@ -1,5 +1,7 @@
 # 疏失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushi_6.md)
+
 <p><span class="chinese">高智能的软体也可以减少医疗疏失。</span><span class="english">Smart software can also reduce medical errors.</span></p>
 
 <p><span class="chinese">我们不能再有任何安全上的疏失。</span><span class="english">We cannot afford any further lapses of security.</span></p>

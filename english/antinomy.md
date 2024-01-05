@@ -1,5 +1,7 @@
 # antinomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antinomy.md)
+
 <p><span class="chinese">矛盾的我要死！</span><span class="english">Antinomy of I want to die!</span></p>
 
 <p><span class="chinese">于是我把它命名为人性的二律背反。</span><span class="english">That is the antinomy of human nature.</span></p>

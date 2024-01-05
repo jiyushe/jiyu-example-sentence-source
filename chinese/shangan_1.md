@@ -1,5 +1,7 @@
 # 陕甘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangan_1.md)
+
 <p><span class="chinese">其押韵规律反映着陕甘方言的语音特征。</span><span class="english">Its rhyming lanes show the phonetic features of Shaanxi-Gansu dialects.</span></p>
 
 <p><span class="chinese">巴里坤是清代新疆最早的屯垦地区之一，以陕甘移民为主。</span><span class="english">Balikun is one of the earliest settlers in Xinjiang of Qing Dynasty, mainly Shanxi and Gansu immigrants.</span></p>

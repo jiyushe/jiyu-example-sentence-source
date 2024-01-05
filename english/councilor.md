@@ -1,5 +1,7 @@
 # councilor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/councilor.md)
+
 <p><span class="chinese">国务委员唐家璇参加会见。</span><span class="english">State Councilor Tang Jiaxuan attended the meeting.</span></p>
 
 <p><span class="chinese">当地一名议员表示，他希望这样的状况一直保持下去。</span><span class="english">A local councilor said he wants it to stay that way.</span></p>

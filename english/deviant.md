@@ -1,5 +1,7 @@
 # deviant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deviant.md)
+
 <p><span class="chinese">也就是因为有痴暗的无明，所以人生的见解才会偏差。</span><span class="english">Due to ignorance, our views on life become deviant.</span></p>
 
 <p><span class="chinese">他们对现实的性的需要减少或变得异常。</span><span class="english">Their appetite for real-life sex diminishes or becomes deviant.</span></p>

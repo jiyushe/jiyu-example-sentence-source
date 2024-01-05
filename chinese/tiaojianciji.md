@@ -1,5 +1,7 @@
 # 条件刺激
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaojianciji.md)
+
 <p><span class="chinese">什么是无条件刺激？</span><span class="english">What's the unconditioned stimulus?</span></p>
 
 <p><span class="chinese">这里的无条件刺激是什么？</span><span class="english">What's the unconditioned stimulus?</span></p>

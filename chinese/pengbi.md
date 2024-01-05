@@ -1,5 +1,7 @@
 # 碰壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengbi.md)
+
 <p><span class="chinese">在坚持每天创作的第四周里，我碰壁了。</span><span class="english">By my fourth week of daily drawing, I hit a wall.</span></p>
 
 <p><span class="chinese">可一看到方正又平直的办公区被一条走廊穿着，我就有碰壁的感觉。</span><span class="english">But see a founder and flat area was wearing a corridor, I have run.</span></p>

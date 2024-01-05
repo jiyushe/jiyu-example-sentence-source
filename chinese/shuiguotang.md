@@ -1,5 +1,7 @@
 # 水果糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiguotang.md)
+
 <p><span class="chinese">我带来了四块休闲水果糖。</span><span class="english">I brought four Fruity Tootle bars.</span></p>
 
 <p><span class="chinese">用吹风筒把一颗水果糖吹化开。</span><span class="english">Use the hair dryer to melt a hard candy.</span></p>

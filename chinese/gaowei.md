@@ -1,5 +1,7 @@
 # 告慰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaowei.md)
+
 <p><span class="chinese">关于告慰真情和漫随天边的的记忆？</span><span class="english">Man on the comfort of love and memories with the horizon?</span></p>
 
 <p><span class="chinese">帮助他们将是对逝者的最好告慰。</span><span class="english">Helping them would be the best tribute to their sacrifice.</span></p>

@@ -1,5 +1,7 @@
 # 言而有信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaneryouxin.md)
+
 <p><span class="chinese">与朋友交，言而有信。</span><span class="english">Your word and a friend.</span></p>
 
 <p><span class="chinese">汤姆是否会言而有信？</span><span class="english">Will Tom be as good as his word?</span></p>

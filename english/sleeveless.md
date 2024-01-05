@@ -1,5 +1,7 @@
 # sleeveless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleeveless.md)
+
 <p><span class="chinese">这件长款无袖的怎么样？</span><span class="english">How about this long sleeveless one?</span></p>
 
 <p><span class="chinese">勺子的脖子。无袖。合身。</span><span class="english">Scoop neck. Sleeveless. Formfitting.</span></p>

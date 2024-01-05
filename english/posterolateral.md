@@ -1,5 +1,7 @@
 # posterolateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posterolateral.md)
+
 <p><span class="chinese">肾旁后间隙向内侧可延伸至腰大肌的后外侧缘。</span><span class="english">The posterior pararenal spaces may extend posterolateral to psoas.</span></p>
 
 <p><span class="chinese">结论MRI是诊断急性膝关节后外侧角损伤的理想的检查方法。</span><span class="english">Conclusion MRI is an effective tool in the detection of acute posterolateral corner injury.</span></p>

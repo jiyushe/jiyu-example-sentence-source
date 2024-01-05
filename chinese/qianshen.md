@@ -1,5 +1,7 @@
 # 前身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshen.md)
+
 <p><span class="chinese">金属物的前身。</span><span class="english">Precursors to metal chocks.</span></p>
 
 <p><span class="chinese">天文学的前身是占星术。</span><span class="english">Astronomy inherits from astrology.</span></p>

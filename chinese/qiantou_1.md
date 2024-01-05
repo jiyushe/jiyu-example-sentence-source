@@ -1,5 +1,7 @@
 # 牵头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiantou_1.md)
+
 <p><span class="chinese">LVDS四驱动程序。牵头完成热焊蘸。</span><span class="english">LVDS quad driver. Lead finish hot solder dipped.</span></p>
 
 <p><span class="chinese">tATu是尤丽亚和丽娜两人组成的一个俄罗斯女子演唱组，是由电视剧本作者兼导演伊万•沙波瓦洛夫于2000年初牵头成立的。</span><span class="english">tATu is a Russian girl group composed of Yulia and Lena.</span></p>

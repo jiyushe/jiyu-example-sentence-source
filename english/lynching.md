@@ -1,5 +1,7 @@
 # lynching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lynching.md)
+
 <p><span class="chinese">私刑，这是一个暴徒！</span><span class="english">That is a lynching mob!</span></p>
 
 <p><span class="chinese">我觉得自己整一个私刑受害者。</span><span class="english">I feel I have been the victim of a lynching.</span></p>

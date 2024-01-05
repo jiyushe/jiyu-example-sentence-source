@@ -1,5 +1,7 @@
 # 怏怏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangyang.md)
+
 <p><span class="chinese">“这我都知道，”汤姆怏怏不快地说。</span><span class="english">"I know all that, " said Tom, displeased.</span></p>
 
 <p><span class="chinese">没有人听得见我，愈合我病怏怏的心，我。</span><span class="english">No one to hear me, to heal my ill heart, I.</span></p>

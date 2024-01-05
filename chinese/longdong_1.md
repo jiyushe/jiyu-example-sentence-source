@@ -1,5 +1,7 @@
 # 龙洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longdong_1.md)
+
 <p><span class="chinese">黑龙洞是一平卧式洞穴。</span><span class="english">Black Dragon Cave is a flat cave.</span></p>
 
 <p><span class="chinese">龙洞是一个可免费领养龙蛋的网站。</span><span class="english">Dragon Cave is a free adoptables site.</span></p>

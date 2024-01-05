@@ -1,5 +1,7 @@
 # silverware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silverware.md)
+
 <p><span class="chinese">她很迷银器。</span><span class="english">She has a passion for silverware.</span></p>
 
 <p><span class="chinese">自己家里有银器。</span><span class="english">He has his own silverware at home.</span></p>

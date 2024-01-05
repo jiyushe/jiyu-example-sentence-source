@@ -1,5 +1,7 @@
 # 啊哟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ayo.md)
+
 <p><span class="chinese">看，啊哟，你做了些什么！</span><span class="english">See what you have done!</span></p>
 
 <p><span class="chinese">啊哟！你还好吗？我的头受伤了。</span><span class="english">Ouch! Are you OK? My head hurts.</span></p>

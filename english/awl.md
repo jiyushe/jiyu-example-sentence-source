@@ -1,5 +1,7 @@
 # awl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awl.md)
+
 <p><span class="chinese">六个鞋砧，练出一个鞋匠。</span><span class="english">Six awl make a shoemaker.</span></p>
 
 <p><span class="chinese">玩钻子是件很有趣的事。</span><span class="english">It was fun to play with an awl.</span></p>

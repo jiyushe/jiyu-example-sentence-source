@@ -1,5 +1,7 @@
 # invoice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invoice.md)
+
 <p><span class="chinese">创造一张新的发货票。</span><span class="english">Create a new invoice.</span></p>
 
 <p><span class="chinese">请在装船后给我公司开具发票。</span><span class="english">Invoice us after the shipment.</span></p>

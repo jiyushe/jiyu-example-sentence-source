@@ -1,5 +1,7 @@
 # 分红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenhong_1.md)
+
 <p><span class="chinese">他们把那栋屋宇分红许多套住房。</span><span class="english">They divided the house into flats.</span></p>
 
 <p><span class="chinese">霎时间把硬盘分红四个区！</span><span class="english">In the hard disk dividends four areas!</span></p>

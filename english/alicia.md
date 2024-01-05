@@ -1,5 +1,7 @@
 # alicia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alicia.md)
+
 <p><span class="chinese">阿莉西亚什么时候洗澡？</span><span class="english">What time does Alicia take a shower?</span></p>
 
 <p><span class="chinese">查尔斯和玛希不能和艾丽西娅同时出现。</span><span class="english">Charles, and Marcee cannot coexist with Alicia.</span></p>

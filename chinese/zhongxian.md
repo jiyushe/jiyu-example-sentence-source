@@ -1,5 +1,7 @@
 # 中线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxian.md)
+
 <p><span class="chinese">拒绝了短线，放弃了中线。</span><span class="english">Brush-off short line, gave up centerline.</span></p>
 
 <p><span class="chinese">中线，不过，并非投资机会。</span><span class="english">Midline , however, not investment opportunities.</span></p>

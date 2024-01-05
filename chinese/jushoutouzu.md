@@ -1,5 +1,7 @@
 # 举手投足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jushoutouzu.md)
+
 <p><span class="chinese">在她举手投足之间流露出一丝希腊式的优雅。</span><span class="english">There was a touch of Greek grace in her attitude.</span></p>
 
 <p><span class="chinese">举手投足之间极尽优雅与华贵，敏捷与灵巧。</span><span class="english">Every movement has elegance and economy, is swift and deft.</span></p>

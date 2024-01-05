@@ -1,5 +1,7 @@
 # 绘图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huitu_1.md)
+
 <p><span class="chinese">绘图从数据开始。</span><span class="english">Graphing starts with the data.</span></p>
 
 <p><span class="chinese">支持反锯齿绘图。</span><span class="english">Supports anti-aliasing drawing.</span></p>

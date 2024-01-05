@@ -1,5 +1,7 @@
 # 红叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongye.md)
+
 <p><span class="chinese">红叶飘风秋欲暮。</span><span class="english">Maple leaves float to fall wind sunset.</span></p>
 
 <p><span class="chinese">哈哈，你是说香山红叶吧。当然。</span><span class="english">Ha-ha. You mean the Fragrant Hill? Sure.</span></p>

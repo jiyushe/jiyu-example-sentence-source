@@ -1,5 +1,7 @@
 # 棉织品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianzhipin.md)
+
 <p><span class="chinese">他到各地推销棉织品。</span><span class="english">He travels in cotton goods.</span></p>
 
 <p><span class="chinese">棉织品吸汗。</span><span class="english">Cotton textiles wick away perspiration.</span></p>

@@ -1,5 +1,7 @@
 # 被单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beidan.md)
+
 <p><span class="chinese">她钻到被单下。</span><span class="english">She got under the sheet.</span></p>
 
 <p><span class="chinese">这些被单经洗。</span><span class="english">These bed sheets launder well.</span></p>

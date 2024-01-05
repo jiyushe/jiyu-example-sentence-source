@@ -1,5 +1,7 @@
 # consecrated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consecrated.md)
+
 <p><span class="chinese">这座教堂于1853年祝圣。</span><span class="english">The church was consecrated in 1853.</span></p>
 
 <p><span class="chinese">他们把庙奉献给神。</span><span class="english">They consecrated a temple to their god.</span></p>

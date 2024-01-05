@@ -1,5 +1,7 @@
 # bin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bin.md)
+
 <p><span class="chinese">清空回收站。</span><span class="english">Empty the Recycle Bin.</span></p>
 
 <p><span class="chinese">我同意王先生。</span><span class="english">Ich bin für Herr Wang.</span></p>

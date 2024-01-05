@@ -1,5 +1,7 @@
 # lawful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawful.md)
+
 <p><span class="chinese">我们将依法办事。</span><span class="english">We will be lawful.</span></p>
 
 <p><span class="chinese">我们是合法经营的。</span><span class="english">Ours is a lawful operation.</span></p>

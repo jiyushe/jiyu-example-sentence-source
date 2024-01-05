@@ -1,5 +1,7 @@
 # 承印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengyin_1.md)
+
 <p><span class="chinese">不受承印物大小和形状的限制。</span><span class="english">From their size and shape that limit.</span></p>
 
 <p><span class="chinese">工作台为进出式，便于承印物的取放。</span><span class="english">More convenient for the storage of substrates.</span></p>

@@ -1,5 +1,7 @@
 # poison
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poison.md)
+
 <p><span class="chinese">我想要些老鼠药。</span><span class="english">I want some rat poison.</span></p>
 
 <p><span class="chinese">她吞服了毒药。</span><span class="english">She had swallowed poison.</span></p>

@@ -1,5 +1,7 @@
 # gravitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravitate.md)
+
 <p><span class="chinese">别都移向一边，否则船会翻的。</span><span class="english">Don't gravitate to one side, or the boat will upset.</span></p>
 
 <p><span class="chinese">如果你们都移向一边，船就要翻了。</span><span class="english">If you all gravitate to one side, you'll upset the boat.</span></p>

@@ -1,5 +1,7 @@
 # unseen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unseen.md)
+
 <p><span class="chinese">一些看不见的手指，如慵懒的微风。</span><span class="english">Sone unseen fingers, like an idle breeze.</span></p>
 
 <p><span class="chinese">看不见的泉水的喷涌使我恐惧。</span><span class="english">And the unseen waters' soliloquies awe me.</span></p>

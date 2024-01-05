@@ -1,5 +1,7 @@
 # milan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milan.md)
+
 <p><span class="chinese">谁是米兰城之王？</span><span class="english">Who is the one in Milan?</span></p>
 
 <p><span class="chinese">米兰是支冠军球队。</span><span class="english">Milan are a team of champions.</span></p>

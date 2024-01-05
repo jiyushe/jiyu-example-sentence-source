@@ -1,5 +1,7 @@
 # versicolor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/versicolor.md)
+
 <p><span class="chinese">ET-1在花斑癣色素沉着中可能起了一定作用。</span><span class="english">ET-1 may play certain role in the hyper-pigmentation of pityriasis versicolor.</span></p>
 
 <p><span class="chinese">观察自制中药祛癣方治疗花斑癣的临床疗效。</span><span class="english">To observe clinical observation on the treatment of tinea versicolor with Quxuan medicinal liquor.</span></p>

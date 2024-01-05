@@ -1,5 +1,7 @@
 # prost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prost.md)
+
 <p><span class="chinese">你对塞纳和普罗斯特的看法？</span><span class="english">What's your opinion of Senna and Prost ?</span></p>
 
 <p><span class="chinese">那有可能会是塞纳和普罗斯特全部再来一遍。</span><span class="english">It could be Senna and Prost all over again.</span></p>

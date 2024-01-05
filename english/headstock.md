@@ -1,5 +1,7 @@
 # headstock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headstock.md)
+
 <p><span class="chinese">在车头离合器使车床更具吸引力。</span><span class="english">Clutch in headstock makes the lathe more attractive.</span></p>
 
 <p><span class="chinese">抓住车头前向和反向旋转。</span><span class="english">Clutched headstock for forward and reverse rotating.</span></p>

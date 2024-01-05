@@ -1,5 +1,7 @@
 # dinoflagellate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dinoflagellate.md)
+
 <p><span class="chinese">而以甲藻为优势的深褐色或酱油色水为不良水质。</span><span class="english">Dark brown water in which dinoflagellate are major species is bad.</span></p>
 
 <p><span class="chinese">生物标志物以分子化石的形式记录了沟鞭藻的起源及演化历史。</span><span class="english">Biomarker, as molecular fossil, recorded the origin and evolutionary history of dinoflagellate.</span></p>

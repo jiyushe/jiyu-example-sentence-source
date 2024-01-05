@@ -1,5 +1,7 @@
 # 派出所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paichusuo.md)
+
 <p><span class="chinese">你有去派出所报失？</span><span class="english">Have you reported it to the police?</span></p>
 
 <p><span class="chinese">内德一定是找到了个派出所，她想道。</span><span class="english">Ned must have found a police officer.</span></p>

@@ -1,5 +1,7 @@
 # horsing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horsing.md)
+
 <p><span class="chinese">你们又在捉弄他吧?</span><span class="english">Are you horsing with him again?</span></p>
 
 <p><span class="chinese">那是一些孩子在闹着玩儿。</span><span class="english">It's just some kids horsing around.</span></p>

@@ -1,5 +1,7 @@
 # easterly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/easterly.md)
+
 <p><span class="chinese">风从东方吹来。</span><span class="english">The wind blows easterly.</span></p>
 
 <p><span class="chinese">强劲的东风猛烈地吹打我们的脸。</span><span class="english">The strong easterly wind lashed at our faces.</span></p>

@@ -1,5 +1,7 @@
 # vellum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vellum.md)
+
 <p><span class="chinese">牛皮纸上保留了照片的剪贴簿页面。</span><span class="english">Vellum preserves photographs on scrapbook pages.</span></p>
 
 <p><span class="chinese">其中的两张写在上好的牛皮纸上列出了受益人名字。</span><span class="english">Two were written on fine vellum and made out by name.</span></p>

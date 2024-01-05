@@ -1,5 +1,7 @@
 # 沾沾自喜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanzhanzixi.md)
+
 <p><span class="chinese">他们的微笑看起来好像是沾沾自喜。</span><span class="english">Their smiles seem smug.</span></p>
 
 <p><span class="chinese">她沾沾自喜地炫耀自己的新衣服。</span><span class="english">She showed off her new clothes smugly.</span></p>

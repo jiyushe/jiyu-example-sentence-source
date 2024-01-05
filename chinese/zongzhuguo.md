@@ -1,5 +1,7 @@
 # 宗主国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongzhuguo.md)
+
 <p><span class="chinese">荷兰是印民在殖民时期的宗主国。</span><span class="english">The Netherlands is Indonesia's former colonial master.</span></p>
 
 <p><span class="chinese">凯诺是美国国会历史学会副主席，他说采用宗教象征的想法源于美国以前的宗主国----英国。</span><span class="english">He says the idea came from England, America's former colonial power.</span></p>

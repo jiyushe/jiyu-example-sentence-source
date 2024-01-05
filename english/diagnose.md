@@ -1,5 +1,7 @@
 # diagnose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diagnose.md)
+
 <p><span class="chinese">巫师利用梦来诊断疾病。</span><span class="english">to diagnose illness.</span></p>
 
 <p><span class="chinese">如何诊断药物过敏?。</span><span class="english">How do you diagnose drug allergy?</span></p>

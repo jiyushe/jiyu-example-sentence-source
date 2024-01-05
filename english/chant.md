@@ -1,5 +1,7 @@
 # chant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chant.md)
+
 <p><span class="chinese">我们一起来念儿歌。</span><span class="english">Let's read a chant.</span></p>
 
 <p><span class="chinese">听一听，跟读并说唱。</span><span class="english">Listen, repeat and chant.</span></p>

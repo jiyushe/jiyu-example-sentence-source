@@ -1,5 +1,7 @@
 # reentry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reentry.md)
+
 <p><span class="chinese">探讨了高超声速大回转再入的控制方法。</span><span class="english">Spacecraft control laws for volte-face reentry motion are explored.</span></p>
 
 <p><span class="chinese">如果你离开超过1年，那么必须申请再入境许可。</span><span class="english">If your trip will last longer than 1 year, a reentry permit is needed.</span></p>

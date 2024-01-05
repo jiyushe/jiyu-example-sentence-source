@@ -1,5 +1,7 @@
 # 燃放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranfang.md)
+
 <p><span class="chinese">我们燃放鞭炮。</span><span class="english">We set off firecrackers.</span></p>
 
 <p><span class="chinese">晚上，我们燃放鞭炮。</span><span class="english">Evening, we set off firecrackers.</span></p>

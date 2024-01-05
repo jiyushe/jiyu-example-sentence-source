@@ -1,5 +1,7 @@
 # microstructure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microstructure.md)
+
 <p><span class="chinese">其典型的显微组织为层片状珠光体。</span><span class="english">Its typic microstructure calls lamellar pearlite.</span></p>
 
 <p><span class="chinese">观察了钛硅共晶系合金的微观组织。</span><span class="english">Microstructure of Ti-Si eutectic alloys is observed.</span></p>

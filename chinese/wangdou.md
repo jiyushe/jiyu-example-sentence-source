@@ -1,5 +1,7 @@
 # 网兜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangdou.md)
+
 <p><span class="chinese">是的，备有网兜吊包。</span><span class="english">Yes, net slings available.</span></p>
 
 <p><span class="chinese">什么时候能用网兜水?。</span><span class="english">When can you get water With a net?</span></p>

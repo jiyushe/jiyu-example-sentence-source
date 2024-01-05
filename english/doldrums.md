@@ -1,5 +1,7 @@
 # doldrums
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doldrums.md)
+
 <p><span class="chinese">天天有个新爱好，你就不会陷入消沉情绪。</span><span class="english">A hobby a day keeps the doldrums away.</span></p>
 
 <p><span class="chinese">需要一个强力的清醒方法来战胜困倦低迷症?</span><span class="english">Need to a turbo boost to beat sleepy doldrums pinch?</span></p>

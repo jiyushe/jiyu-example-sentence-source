@@ -1,5 +1,7 @@
 # uncrowded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncrowded.md)
+
 <p><span class="chinese">海滩上人不多，很是惬意。</span><span class="english">The beach was pleasantly uncrowded.</span></p>
 
 <p><span class="chinese">在这里，仍可享受没有熙囊人群的探索时光。</span><span class="english">Here, a sense of uncrowded discovery still awaits.</span></p>

@@ -1,5 +1,7 @@
 # beehive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beehive.md)
+
 <p><span class="chinese">我们就要捅马蜂窝了。</span><span class="english">We're just about to kick a beehive.</span></p>
 
 <p><span class="chinese">韩佳，我捅的是蜜蜂窝。</span><span class="english">Han Jia, I wanted to poke a beehive.</span></p>

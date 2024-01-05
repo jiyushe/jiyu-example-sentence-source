@@ -1,5 +1,7 @@
 # oran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oran.md)
+
 <p><span class="chinese">这只是奥兰·海斯特曼所行项目中的几项。</span><span class="english">These are among the programs cited by Oran B.</span></p>
 
 <p><span class="chinese">“猪肉公主”，这是一个名字，还是一种挑逗？！！</span><span class="english">"Pork Princess" is that a name oran invitation?! !</span></p>

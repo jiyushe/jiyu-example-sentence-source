@@ -1,5 +1,7 @@
 # calculate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calculate.md)
+
 <p><span class="chinese">按基金净值算!</span><span class="english">Calculate by fund net value!</span></p>
 
 <p><span class="chinese">是不可能计算出来的。</span><span class="english">It is impossible to calculate.</span></p>

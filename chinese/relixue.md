@@ -1,5 +1,7 @@
 # 热力学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/relixue.md)
+
 <p><span class="chinese">现在我们来看看热力学。</span><span class="english">Now let's go and do the energetics.</span></p>
 
 <p><span class="chinese">因为所有的热力学量都是态函数。</span><span class="english">Since these are all state functions.</span></p>

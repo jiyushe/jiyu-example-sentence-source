@@ -1,5 +1,7 @@
 # amidst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amidst.md)
+
 <p><span class="chinese">烟雨蒙蒙，何处是归程？</span><span class="english">Amidst the Rain, What is the way?</span></p>
 
 <p><span class="chinese">我们之中有一个悲观的害人精。</span><span class="english">A pessimistic pest exists amidst us.</span></p>

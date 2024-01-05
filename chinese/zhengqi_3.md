@@ -1,5 +1,7 @@
 # 蒸气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengqi_3.md)
+
 <p><span class="chinese">现在他们开始冒蒸气了。</span><span class="english">Now they are getting steamed.</span></p>
 
 <p><span class="chinese">蒸气从热水锅炉里冒出。</span><span class="english">Steam erupted from the geyser.</span></p>

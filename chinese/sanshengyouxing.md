@@ -1,5 +1,7 @@
 # 三生有幸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanshengyouxing.md)
+
 <p><span class="chinese">三生有幸爱上你，一生一世曲未央。</span><span class="english">To love you for life, song weiyang.</span></p>
 
 <p><span class="chinese">今天能跟你谈话真是咱三生有幸。</span><span class="english">It is a privilege to be speaking to you today.</span></p>

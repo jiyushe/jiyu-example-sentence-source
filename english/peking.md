@@ -1,5 +1,7 @@
 # peking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peking.md)
+
 <p><span class="chinese">你在北京有朋友吗？</span><span class="english">Hast Du Freunde in Peking?</span></p>
 
 <p><span class="chinese">我是在北京出生的。</span><span class="english">Ich bin in Peking geboren.</span></p>

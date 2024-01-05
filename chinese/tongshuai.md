@@ -1,5 +1,7 @@
 # 统帅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshuai.md)
+
 <p><span class="chinese">我，是我灵魂的统帅！</span><span class="english">I am the capitain of my soul.</span></p>
 
 <p><span class="chinese">将领也是这样统帅军队的。</span><span class="english">Also, generals ran their armies this way.</span></p>

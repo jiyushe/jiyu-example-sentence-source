@@ -1,5 +1,7 @@
 # 定制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzhi.md)
+
 <p><span class="chinese">你是神所特别定制的。</span><span class="english">You are custom-made.</span></p>
 
 <p><span class="chinese">定制JMeter测试。</span><span class="english">Customize JMeter tests.</span></p>

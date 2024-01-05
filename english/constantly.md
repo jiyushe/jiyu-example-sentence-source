@@ -1,5 +1,7 @@
 # constantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constantly.md)
+
 <p><span class="chinese">我时时刻刻都想着你。</span><span class="english">I think of you constantly.</span></p>
 
 <p><span class="chinese">我时时刻刻都想着你。</span><span class="english">I think of you  constantly.</span></p>

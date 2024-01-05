@@ -1,5 +1,7 @@
 # imperceptible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperceptible.md)
+
 <p><span class="chinese">脉搏几乎摸不清。</span><span class="english">The pulse is almost imperceptible.</span></p>
 
 <p><span class="chinese">她又轻轻耸动下肩，几乎察觉不到动作。</span><span class="english">She repeated the almost imperceptible shrug.</span></p>

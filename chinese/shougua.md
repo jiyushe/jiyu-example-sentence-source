@@ -1,5 +1,7 @@
 # 守寡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shougua.md)
+
 <p><span class="chinese">他昨天去探望他守寡的母亲。</span><span class="english">He visited his widowed mother yesterday.</span></p>
 
 <p><span class="chinese">一位守寡的史密斯夫人，住在西门大楼！</span><span class="english">A widow Mrs Smith lodging in Westgate Buildings!</span></p>

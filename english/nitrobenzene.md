@@ -1,5 +1,7 @@
 # nitrobenzene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitrobenzene.md)
+
 <p><span class="chinese">本文报告了水中硝基苯的一种新的处理方法。</span><span class="english">A new method for treatment of nitrobenzene from the water was presented.</span></p>
 
 <p><span class="chinese">是什么推动了中国苯胺和硝基苯生产的增长呢?。</span><span class="english">What is driving the growth of Chinese aniline and nitrobenzene production?</span></p>

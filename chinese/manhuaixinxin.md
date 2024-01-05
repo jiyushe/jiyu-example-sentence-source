@@ -1,5 +1,7 @@
 # 满怀信心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manhuaixinxin.md)
+
 <p><span class="chinese">满怀信心的人通常走路快。</span><span class="english">People with confidence walk quickly.</span></p>
 
 <p><span class="chinese">我精神振奋、满怀信心地承担起我的任务。</span><span class="english">I take up my task in buoyancy and hope.</span></p>

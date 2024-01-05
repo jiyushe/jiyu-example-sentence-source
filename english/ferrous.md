@@ -1,5 +1,7 @@
 # ferrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferrous.md)
+
 <p><span class="chinese">二价铁能还原成三价铁。</span><span class="english">Ferrous iron reduces to ferric iron.</span></p>
 
 <p><span class="chinese">氧化亚铁，是铁的氧化物之一。</span><span class="english">Ferrous oxide , is one of iron oxide.</span></p>

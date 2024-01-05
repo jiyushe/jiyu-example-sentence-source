@@ -1,5 +1,7 @@
 # novice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/novice.md)
+
 <p><span class="chinese">就是他这九个月的见习期。</span><span class="english">The period of being a novice.</span></p>
 
 <p><span class="chinese">一个驯狮新手正在接受采访。</span><span class="english">A novice lion tamer was interviewed.</span></p>

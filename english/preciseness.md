@@ -1,5 +1,7 @@
 # preciseness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preciseness.md)
+
 <p><span class="chinese">严谨是工程合同的灵魂。</span><span class="english">Preciseness is the soul of civil engineering contracts.</span></p>
 
 <p><span class="chinese">该模型具有结构严谨，易于分析的特点。</span><span class="english">The model has characteristic of preciseness and terseness.</span></p>

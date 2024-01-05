@@ -1,5 +1,7 @@
 # 尽收眼底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshouyandi.md)
+
 <p><span class="chinese">他稍稍一瞥，景物尽收眼底。</span><span class="english">His glance embraced the scene.</span></p>
 
 <p><span class="chinese">向下看一片空阔的景色尽收眼底。</span><span class="english">A wide prospect opened below us.</span></p>

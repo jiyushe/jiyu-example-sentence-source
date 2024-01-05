@@ -1,5 +1,7 @@
 # westphalia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/westphalia.md)
+
 <p><span class="chinese">男孩的双亲来此接他，然后把他带回德国西部北莱茵─西发里亚邦的哈木。</span><span class="english">His parents came to pick him up and took him back home to Hamm, in the western state of North-Rhine Westphalia.</span></p>
 
 <p><span class="chinese">自威斯特伐利亚条约以来，国际社会见证了数次国际权力基础变化。</span><span class="english">The international community has witnessed several different types of international power basis since Westphalia.</span></p>

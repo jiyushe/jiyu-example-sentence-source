@@ -1,5 +1,7 @@
 # 移步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibu_1.md)
+
 <p><span class="chinese">想读更多他的文章，请移步至他的专栏页面。</span><span class="english">To read more of his articles, please visit his</span></p>
 
 <p><span class="chinese">这些都是非常有用的命令。现在移步到第2课的总结。</span><span class="english">These are very useful commands. Now move on to the Lesson 2 Summary.</span></p>

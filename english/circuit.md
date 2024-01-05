@@ -1,5 +1,7 @@
 # circuit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circuit.md)
+
 <p><span class="chinese">这位是线路板。</span><span class="english">This is a circuit board.</span></p>
 
 <p><span class="chinese">这就构成了一个闭合电路。</span><span class="english">This makes a close circuit.</span></p>

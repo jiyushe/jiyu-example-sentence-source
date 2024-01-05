@@ -1,5 +1,7 @@
 # 卿卿我我
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqingwowo.md)
+
 <p><span class="chinese">你可不想打扰别人卿卿我我，对吧?。</span><span class="english">You wouldn't want to bother any love birds right?</span></p>
 
 <p><span class="chinese">举起手中的这杯酒，让缠缠绵绵、卿卿我我的热情进行到底。</span><span class="english">Hold the cup of wine in hand and celebrate with enthusiasm.</span></p>

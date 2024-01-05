@@ -1,5 +1,7 @@
 # 诗社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishe_2.md)
+
 <p><span class="chinese">这一章是对蕉园诗社的解构，是全文的核心部分。</span><span class="english">This chapter is the core of this article.</span></p>
 
 <p><span class="chinese">你可以立刻分辨出诗社的成员。</span><span class="english">You can tell a Poetry Club member right off.</span></p>

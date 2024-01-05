@@ -1,5 +1,7 @@
 # plutonomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plutonomy.md)
+
 <p><span class="chinese">它首先是一部伟大的政治经济学著作。</span><span class="english">It is a great plutonomy work above all.</span></p>
 
 <p><span class="chinese">中国政治经济学的建立前提是确立科学的方法论。</span><span class="english">The establishment premise of the Chinese plutonomy is scientific methodology.</span></p>

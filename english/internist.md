@@ -1,5 +1,7 @@
 # internist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/internist.md)
+
 <p><span class="chinese">您需要看内科。</span><span class="english">You need to see an internist.</span></p>
 
 <p><span class="chinese">我得到了一份汽车修理工的工作。</span><span class="english">I got a job as the automotive internist.</span></p>

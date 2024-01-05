@@ -1,5 +1,7 @@
 # 烽火台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenghuotai.md)
+
 <p><span class="chinese">我向着第六个烽火台进发。</span><span class="english">I embarked toward the sixth beacon.</span></p>
 
 <p><span class="chinese">阳关现在只是一个烽火台。</span><span class="english">The Yangguan Pass is Just a beacon tower now.</span></p>

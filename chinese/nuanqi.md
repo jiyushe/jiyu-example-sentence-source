@@ -1,5 +1,7 @@
 # 暖气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuanqi.md)
+
 <p><span class="chinese">我把暖气开小些，好吗？</span><span class="english">Shall I turn the heating down?</span></p>
 
 <p><span class="chinese">清洁或更换暖气过滤网。</span><span class="english">Clean or replace furnace filters.</span></p>

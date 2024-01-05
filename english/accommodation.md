@@ -1,5 +1,7 @@
 # accommodation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accommodation.md)
+
 <p><span class="chinese">找到住处没有?</span><span class="english">Have you found accommodation?</span></p>
 
 <p><span class="chinese">生活区保持防火巡回检查。</span><span class="english">Have fire patrols in accommodation.</span></p>

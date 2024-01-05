@@ -1,5 +1,7 @@
 # mii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mii.md)
+
 <p><span class="chinese">本文介绍了基于FPGA、功能经过扩展的以太网MII接口的硬件实现方法。</span><span class="english">The implementation of Ethernet MII based on FPGA is briefly presented in this paper.</span></p>
 
 <p><span class="chinese">有一个非常清楚的事情是MII下面的工作组的重要性。</span><span class="english">One issue that is however very clear is the importance of the Working Groups under MII.</span></p>

@@ -1,5 +1,7 @@
 # 噩噩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ee.md)
+
 <p><span class="chinese">混混噩噩的菐生活不值得过。</span><span class="english">The unexamined life is not worth living.</span></p>
 
 <p><span class="chinese">混混噩噩的生活不值得过——苏格拉底。</span><span class="english">The unexamined life is not worth living -- Socrates.</span></p>

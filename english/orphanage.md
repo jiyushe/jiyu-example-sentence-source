@@ -1,5 +1,7 @@
 # orphanage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orphanage.md)
+
 <p><span class="chinese">这是个孤儿院</span><span class="english">This is an orphanage.</span></p>
 
 <p><span class="chinese">什麽是511幼儿之家？</span><span class="english">What is the Orphanage 511!</span></p>

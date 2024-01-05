@@ -1,5 +1,7 @@
 # ingest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingest.md)
+
 <p><span class="chinese">首先，选择要摄取的架构。</span><span class="english">First, select a schema to ingest.</span></p>
 
 <p><span class="chinese">监视、管理和控制数据摄取应用程序</span><span class="english">Monitoring, managing, and controlling the data ingest application</span></p>

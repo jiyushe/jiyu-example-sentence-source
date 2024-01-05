@@ -1,5 +1,7 @@
 # dreamless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamless.md)
+
 <p><span class="chinese">躺在无梦的夜晚。</span><span class="english">He lay in a dreamless night.</span></p>
 
 <p><span class="chinese">它沉黑得像无梦的睡眠。</span><span class="english">It is dark like a sleep that is dreamless.</span></p>

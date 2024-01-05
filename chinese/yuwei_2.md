@@ -1,5 +1,7 @@
 # 鱼尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuwei_2.md)
+
 <p><span class="chinese">每个公主都有一条鱼尾。</span><span class="english">Every princess has a fish tail.</span></p>
 
 <p><span class="chinese">这件镶亮片的鱼尾裙非常出色。</span><span class="english">This sequined fishtail skirt is gorgeous.</span></p>

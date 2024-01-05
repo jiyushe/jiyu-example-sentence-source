@@ -1,5 +1,7 @@
 # ancient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ancient.md)
+
 <p><span class="chinese">我是至古者。</span><span class="english">I am the ancient one.</span></p>
 
 <p><span class="chinese">这就是古代的云锦吧？</span><span class="english">Is this ancient Yunjin?</span></p>

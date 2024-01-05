@@ -1,5 +1,7 @@
 # complacently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complacently.md)
+
 <p><span class="chinese">那么，洋洋怎么会肚子不舒服呢？</span><span class="english">So, complacently how is meeting abdomen uncomfortable?</span></p>
 
 <p><span class="chinese">“满”，主要是指自满自足。</span><span class="english">"full", is mainly refers to complacently self sufficient.</span></p>

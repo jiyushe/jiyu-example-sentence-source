@@ -1,5 +1,7 @@
 # pinkeye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinkeye.md)
+
 <p><span class="chinese">猫会不会得红眼病?。</span><span class="english">Can the cat get a pinkeye?</span></p>
 
 <p><span class="chinese">如何预防红眼病？</span><span class="english">How can you prevent pinkeye?</span></p>

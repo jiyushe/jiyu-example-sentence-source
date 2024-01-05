@@ -1,5 +1,7 @@
 # seesaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seesaw.md)
+
 <p><span class="chinese">我在翘翘板上。</span><span class="english">I'm on the seesaw.</span></p>
 
 <p><span class="chinese">他们在跷跷板上么？</span><span class="english">Were they on the seesaw?</span></p>

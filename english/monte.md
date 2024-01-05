@@ -1,5 +1,7 @@
 # monte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monte.md)
+
 <p><span class="chinese">那么就转舵向基督山。</span><span class="english">Then steer FOR Monte Cristo.</span></p>
 
 <p><span class="chinese">什么引起来蒙特格兰德镇的爆炸？</span><span class="english">What caused the explosion in Monte Grande?</span></p>

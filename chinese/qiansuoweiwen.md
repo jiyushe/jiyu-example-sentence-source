@@ -1,5 +1,7 @@
 # 前所未闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiansuoweiwen.md)
+
 <p><span class="chinese">这真是前所未闻的忠忱献身！</span><span class="english">Unheard-of devotion!</span></p>
 
 <p><span class="chinese">这在美国科学史上绝对是前所未闻的。</span><span class="english">That is absolutely unprecedented in American science.</span></p>

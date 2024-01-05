@@ -1,5 +1,7 @@
 # harbour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harbour.md)
+
 <p><span class="chinese">他是一位海港引水员。</span><span class="english">He is a harbour pilot.</span></p>
 
 <p><span class="chinese">这是个天然港。</span><span class="english">Tis is a natural harbour.</span></p>

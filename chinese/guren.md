@@ -1,5 +1,7 @@
 # 古人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guren.md)
+
 <p><span class="chinese">他在绘画上师法古人。</span><span class="english">He imitated the ancients in painting.</span></p>
 
 <p><span class="chinese">那种逻辑是古人早知道了的。</span><span class="english">This logic was known to the ancients.</span></p>

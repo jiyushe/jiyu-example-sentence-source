@@ -1,5 +1,7 @@
 # emerald
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emerald.md)
+
 <p><span class="chinese">在垂饰上镶绿宝石。</span><span class="english">Set an emerald in a pendant.</span></p>
 
 <p><span class="chinese">碧绿的草儿覆上了翠绿的外衣。</span><span class="english">Green grass coats us emerald.</span></p>

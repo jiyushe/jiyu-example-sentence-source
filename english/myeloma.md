@@ -1,5 +1,7 @@
 # myeloma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myeloma.md)
+
 <p><span class="chinese">多发性骨髓瘤是一种血浆细胞癌症。</span><span class="english">Multiple myeloma is a cancer of blood plasma cells.</span></p>
 
 <p><span class="chinese">CLL与多发性骨髓瘤已经被证实与IRF4的表现有关。</span><span class="english">Both CLL and multiple myeloma have been linked to IRF4 expression.</span></p>

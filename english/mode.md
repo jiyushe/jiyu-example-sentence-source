@@ -1,5 +1,7 @@
 # mode 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mode.md)
+
 <p><span class="chinese">纸卷方式。</span><span class="english">Scroll Mode.</span></p>
 
 <p><span class="chinese">这是一个赢输的模式。</span><span class="english">A win-lose mode.</span></p>

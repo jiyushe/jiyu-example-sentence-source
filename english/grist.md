@@ -1,5 +1,7 @@
 # grist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grist.md)
+
 <p><span class="chinese">而这些模式会成为你下个阶段供分析之用的食粮。</span><span class="english">These patterns will be the grist for your analytical mill in the next stage.</span></p>
 
 <p><span class="chinese">禅定中的麻烦与障碍是有意义的。</span><span class="english">The various snags and hassles that arise during meditation are grist for the mill.</span></p>

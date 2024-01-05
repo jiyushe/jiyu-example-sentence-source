@@ -1,5 +1,7 @@
 # placer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placer.md)
+
 <p><span class="chinese">它是由放置器指定的。</span><span class="english">It is assigned by the placer.</span></p>
 
 <p><span class="chinese">印度尼西亚砂金资源丰富。</span><span class="english">Indonesia is rich in gold placer resources.</span></p>

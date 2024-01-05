@@ -1,5 +1,7 @@
 # provincialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provincialism.md)
+
 <p><span class="chinese">农村生活容易导致地方主义。</span><span class="english">A rural life often leads to provincialism.</span></p>
 
 <p><span class="chinese">这个字原来是方言，后来变成标准语言了。</span><span class="english">The word is a provincialism , but has made its way into standard speech.</span></p>

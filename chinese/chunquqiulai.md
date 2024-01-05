@@ -1,5 +1,7 @@
 # 春去秋来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunquqiulai.md)
+
 <p><span class="chinese">春去秋来，春暖花开。</span><span class="english">Spring to autumn, the spring flowers.</span></p>
 
 <p><span class="chinese">世人若被明日累⑤，春去秋来老将至⑥。</span><span class="english">If tomorrow the world tired ⑤, spring to autumn to veteran to ⑥.</span></p>

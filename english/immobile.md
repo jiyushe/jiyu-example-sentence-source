@@ -1,5 +1,7 @@
 # immobile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immobile.md)
+
 <p><span class="chinese">但是，这个R2装置基本不能移动。</span><span class="english">This R2-unit, though, is largely immobile.</span></p>
 
 <p><span class="chinese">重稀土元素及Y也属于不活泼元素。</span><span class="english">The heavy rare earth and Y also belong to immobile elements.</span></p>

@@ -1,5 +1,7 @@
 # exemption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exemption.md)
+
 <p><span class="chinese">新创的公司可获3年免税。</span><span class="english">Year tax exemption for Start-up Companies.</span></p>
 
 <p><span class="chinese">第二部分，研究别除权的基础权利。</span><span class="english">Second, the basic rights of exemption right.</span></p>

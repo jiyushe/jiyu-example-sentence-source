@@ -1,5 +1,7 @@
 # 近视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshi_2.md)
+
 <p><span class="chinese">你近视吗？</span><span class="english">Are you nearsighted?</span></p>
 
 <p><span class="chinese">是的，我有近视。</span><span class="english">Yes, I am nearsighted.</span></p>

@@ -1,5 +1,7 @@
 # 生冷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengleng.md)
+
 <p><span class="chinese">大家吃生冷食物。</span><span class="english">Everyone ate cold food.</span></p>
 
 <p><span class="chinese">不要吃生冷和刺激性食物。</span><span class="english">Don't eat anything cold or spicy.</span></p>

@@ -1,5 +1,7 @@
 # 狼狈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langbei.md)
+
 <p><span class="chinese">正剃须的我那时真的很狼狈。</span><span class="english">I’m rather a messy shaver.</span></p>
 
 <p><span class="chinese">笨狼好狼狈。</span><span class="english">Stupid Wolf good pathetic.</span></p>

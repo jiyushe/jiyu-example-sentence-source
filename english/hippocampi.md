@@ -1,5 +1,7 @@
 # hippocampi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hippocampi.md)
+
 <p><span class="chinese">这些变化也包括海马体的变化。</span><span class="english">Some of the changes took place in the hippocampi.</span></p>
 
 <p><span class="chinese">也许，在他们的海马区存在大量的神经发生。</span><span class="english">Perhaps, much neurogenesis has occurred in their hippocampi.</span></p>

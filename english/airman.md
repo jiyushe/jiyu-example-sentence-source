@@ -1,5 +1,7 @@
 # airman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airman.md)
+
 <p><span class="chinese">那位飞行员作了八次翻筋斗的飞行表演。</span><span class="english">The airman looped the loop eight times.</span></p>
 
 <p><span class="chinese">敦克下士也获得了与明星见面的机会。</span><span class="english">Airman Dunk also got a chance to meet the stars.</span></p>

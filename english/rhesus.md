@@ -1,5 +1,7 @@
 # rhesus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhesus.md)
+
 <p><span class="chinese">科学家们跟踪观察研究了76只猕猴长达20年之久。</span><span class="english">Scientists tracked 76 rhesus monkeys for as long as 20 years.</span></p>
 
 <p><span class="chinese">目的对发生嵌闭性疝的猕猴，采用疝手术治疗法挽救其生命。</span><span class="english">Objective To perform hernioplasty to save the life of Rhesus monkey.</span></p>

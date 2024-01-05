@@ -1,5 +1,7 @@
 # slop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slop.md)
+
 <p><span class="chinese">涂上防晒霜！</span><span class="english">Slop on sunscreen!</span></p>
 
 <p><span class="chinese">将含油污水泵入污水舱。</span><span class="english">Pump the slops into the slop tank.</span></p>

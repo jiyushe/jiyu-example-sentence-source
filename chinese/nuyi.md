@@ -1,5 +1,7 @@
 # 奴役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuyi.md)
+
 <p><span class="chinese">是否奴役？</span><span class="english">Is it Enslaving?</span></p>
 
 <p><span class="chinese">我要奴役全人类！</span><span class="english">I will enslave all mankind.</span></p>

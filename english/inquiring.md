@@ -1,5 +1,7 @@
 # inquiring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inquiring.md)
+
 <p><span class="chinese">那个人一直在大厅里等着求见你。</span><span class="english">A man has been inquiring for you in the lobby.</span></p>
 
 <p><span class="chinese">这对一个谦卑、饥渴慕义的心灵，是多麽宝贵的应许！</span><span class="english">What a promise is this for the humbly inquiring mind!</span></p>

@@ -1,5 +1,7 @@
 # 溶解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongjie.md)
+
 <p><span class="chinese">奶油加热便溶解。</span><span class="english">Butter liquefies in heat.</span></p>
 
 <p><span class="chinese">糖溶解在热茶里。</span><span class="english">Sugar melts in the hot tea.</span></p>

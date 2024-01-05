@@ -1,5 +1,7 @@
 # 因果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinguo.md)
+
 <p><span class="chinese">天理因果是最高的法律。</span><span class="english">Causality is the ultimate law.</span></p>
 
 <p><span class="chinese">有些人丢弃的胶袋因果。</span><span class="english">Some people throw away plastic bags causally.</span></p>

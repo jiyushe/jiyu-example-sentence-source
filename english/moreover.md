@@ -1,5 +1,7 @@
 # moreover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moreover.md)
+
 <p><span class="chinese">另外两个丫头也低低笑了起来。</span><span class="english">Moreover 2 wenches also laughed low.</span></p>
 
 <p><span class="chinese">而且我们有因扎吉和托马森。</span><span class="english">Moreover we have Inzaghi and Tomasson.</span></p>

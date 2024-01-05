@@ -1,5 +1,7 @@
 # weekly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weekly.md)
+
 <p><span class="chinese">纳布诺火山每周报告。</span><span class="english">Nabro weekly reports.</span></p>
 
 <p><span class="chinese">每周和你的配偶沟通。</span><span class="english">Talk with your SO weekly.</span></p>

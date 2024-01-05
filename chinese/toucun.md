@@ -1,5 +1,7 @@
 # 头寸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toucun.md)
+
 <p><span class="chinese">对我投资组合与现金头寸均无影响</span><span class="english">It hasn't affected my portfolio--my cash position--at all.</span></p>
 
 <p><span class="chinese">这笔金额是标题中的付款通知的头寸。</span><span class="english">This amount represents the cover for our captioned payment order.</span></p>

@@ -1,5 +1,7 @@
 # 新文化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinwenhua.md)
+
 <p><span class="chinese">盛唐的意蕴，经典与时尚交辉，华丽主诠释华夏婚礼新文化。</span><span class="english">The implications of Tang Dynasty, classic and fashion Jiao Hui.</span></p>
 
 <p><span class="chinese">没人知道“西方”这个新文化会变成怎样。</span><span class="english">Nobody knows how "Western" this new culture will turn out to be.</span></p>

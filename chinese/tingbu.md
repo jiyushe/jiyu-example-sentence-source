@@ -1,5 +1,7 @@
 # 停步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingbu.md)
+
 <p><span class="chinese">他将在山脚步下停步不前。</span><span class="english">Will at the bottom stop.</span></p>
 
 <p><span class="chinese">在高高的石围墙面前小马驹停步不前。</span><span class="english">The foal balked at the high stone fence.</span></p>

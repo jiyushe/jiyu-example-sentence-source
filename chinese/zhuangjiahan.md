@@ -1,5 +1,7 @@
 # 庄稼汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangjiahan.md)
+
 <p><span class="chinese">接著一位庄稼汉说，跟我们谈谈「工作」吧。</span><span class="english">Then a ploughman said, Speak to us of Work.</span></p>
 
 <p><span class="chinese">一个邪恶的王子不如一个清白的庄稼汉有价值。</span><span class="english">An innocent plowman is more worthy than a vicious prince.</span></p>

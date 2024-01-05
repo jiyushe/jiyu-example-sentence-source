@@ -1,5 +1,7 @@
 # superinfection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superinfection.md)
+
 <p><span class="chinese">如果停止或过敏发生重叠。</span><span class="english">Discontinue if superinfection or hypersensitivity occurs.</span></p>
 
 <p><span class="chinese">目的探讨恶性血液病合并二重感染相关情况。</span><span class="english">Objective To inquiry into the malignant blood disease merging superinfection.</span></p>

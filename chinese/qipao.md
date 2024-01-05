@@ -1,5 +1,7 @@
 # 旗袍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qipao.md)
+
 <p><span class="chinese">人们把它叫做旗袍。</span><span class="english">People call it a cheongsam.</span></p>
 
 <p><span class="chinese">那件花绸的旗袍还可以穿。</span><span class="english">You can wear that flowered silk dress.</span></p>

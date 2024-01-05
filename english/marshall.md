@@ -1,5 +1,7 @@
 # marshall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marshall.md)
+
 <p><span class="chinese">我叫贝弗马歇尔。</span><span class="english">I'm Bev Marshall.</span></p>
 
 <p><span class="chinese">马歇尔•菲茨，约翰•哈尔平</span><span class="english">By Marshall Fitz & John Halpin</span></p>

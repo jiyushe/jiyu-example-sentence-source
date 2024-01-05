@@ -1,5 +1,7 @@
 # 买账
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maizhang.md)
+
 <p><span class="chinese">人们会“买账”吗？</span><span class="english">Do people "get it"?</span></p>
 
 <p><span class="chinese">人们敬仰复杂的事物，但只会为简单方便的服务买账</span><span class="english">People admire complexity, but reward simplicity</span></p>

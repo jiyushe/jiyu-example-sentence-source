@@ -1,5 +1,7 @@
 # eponymous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eponymous.md)
+
 <p><span class="chinese">大部分游客慕名去了同名的中区寺庙。</span><span class="english">Most visitors make for the eponymous central temple.</span></p>
 
 <p><span class="chinese">地拉那坐落在和她同名的区域。</span><span class="english">Tirana is located at in the eponymous district and county.</span></p>

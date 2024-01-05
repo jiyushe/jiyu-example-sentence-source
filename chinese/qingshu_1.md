@@ -1,5 +1,7 @@
 # 情书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshu_1.md)
+
 <p><span class="chinese">看看我的陈情书！</span><span class="english">Read my petition!</span></p>
 
 <p><span class="chinese">录音情书。</span><span class="english">An audiotape letter.</span></p>

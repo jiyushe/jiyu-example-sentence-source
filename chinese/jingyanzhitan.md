@@ -1,5 +1,7 @@
 # 经验之谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyanzhitan.md)
+
 <p><span class="chinese">这是我的经验之谈。</span><span class="english">I am speaking from experience.</span></p>
 
 <p><span class="chinese">这是我的经验之谈。</span><span class="english">I am speaking from my experience.</span></p>

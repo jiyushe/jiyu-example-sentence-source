@@ -1,5 +1,7 @@
 # pajamas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pajamas.md)
+
 <p><span class="chinese">把睡衣收好。</span><span class="english">Put those pajamas away!</span></p>
 
 <p><span class="chinese">我能穿睡衣出去吗？</span><span class="english">Can I go out in pajamas?</span></p>

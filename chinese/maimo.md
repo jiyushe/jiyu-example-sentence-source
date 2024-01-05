@@ -1,5 +1,7 @@
 # 埋没
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maimo.md)
+
 <p><span class="chinese">做秘书是在埋没她的才能。</span><span class="english">Secretarial work is a waste of her talent.</span></p>
 
 <p><span class="chinese">泥石流埋没了整个村庄。</span><span class="english">The mud-rock flow submerged the whole village.</span></p>

@@ -1,5 +1,7 @@
 # mohist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mohist.md)
+
 <p><span class="chinese">谬误论是墨家逻辑的重要组成部分。</span><span class="english">Fallacy theory is an important constituent of Mohist school's logic.</span></p>
 
 <p><span class="chinese">再次，阐述了本文的核心，即墨家积极道德的基本内容。</span><span class="english">Third, the writer addresses the core research on Mohist moral content.</span></p>

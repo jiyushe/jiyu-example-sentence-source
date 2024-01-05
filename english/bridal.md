@@ -1,5 +1,7 @@
 # bridal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bridal.md)
+
 <p><span class="chinese">谁为我铺新床？</span><span class="english">Who makes the bridal bed.</span></p>
 
 <p><span class="chinese">这些都是新娘子的嫁妆啊。</span><span class="english">These are all bridal dowries.</span></p>

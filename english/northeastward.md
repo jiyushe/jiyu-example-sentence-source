@@ -1,5 +1,7 @@
 # northeastward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northeastward.md)
+
 <p><span class="chinese">狂风穿过大西洋向东北方向吹去。</span><span class="english">The storm is blustering northeastward across the open Atlantic.</span></p>
 
 <p><span class="chinese">沉积边界和沉降中心不断向北和北东方向迁移。</span><span class="english">The sedimentary boundaries and deposition centers moved northward or northeastward.</span></p>

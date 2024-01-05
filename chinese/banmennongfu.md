@@ -1,5 +1,7 @@
 # 班门弄斧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banmennongfu.md)
+
 <p><span class="chinese">不要教鱼游泳——不要班门弄斧。</span><span class="english">Don't to others as you would be done by.</span></p>
 
 <p><span class="chinese">在老师面前，我不能班门弄斧。</span><span class="english">Facing the teacher. I can't teach fish to swim.</span></p>

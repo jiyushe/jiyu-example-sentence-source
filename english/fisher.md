@@ -1,5 +1,7 @@
 # fisher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fisher.md)
+
 <p><span class="chinese">菲莎干嘛会在这里?。</span><span class="english">What's Fisher doing here?</span></p>
 
 <p><span class="chinese">这是一场捕鱼者的赛跑。</span><span class="english">And there is a fisher race.</span></p>

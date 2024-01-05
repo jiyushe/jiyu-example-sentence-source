@@ -1,5 +1,7 @@
 # revalidate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revalidate.md)
+
 <p><span class="chinese">您可以使用它重新验证某个特性，而无需验证整个文档。</span><span class="english">You can use it to revalidate an attribute without validating an entire document.</span></p>
 
 <p><span class="chinese">在首次认可之后你们是否负责定期重新验证产品和工艺流程？</span><span class="english">Do you undertake to revalidate products and processes periodic after 1st off approval?</span></p>

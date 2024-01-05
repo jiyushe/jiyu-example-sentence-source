@@ -1,5 +1,7 @@
 # paraphrase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paraphrase.md)
+
 <p><span class="chinese">你们能以浅显的英语说明问题吗？</span><span class="english">Could you paraphrase your question in laymen's English?</span></p>
 
 <p><span class="chinese">所以我们要改写论点来完成这些测试。</span><span class="english">So we had to paraphrase arguments to complete these tests.</span></p>

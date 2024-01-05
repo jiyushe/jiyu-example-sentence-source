@@ -1,5 +1,7 @@
 # 寰宇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanyu.md)
+
 <p><span class="chinese">曾记得，我寻遍寰宇，终于发现</span><span class="english">Remembering me, discover and see</span></p>
 
 <p><span class="chinese">日航留在寰宇一家具有极大价值.我们正与美国航空和其他联盟成员向日航展示这点.</span><span class="english">There is huge value for JAL in being in Oneworld.</span></p>

@@ -1,5 +1,7 @@
 # 如林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rulin.md)
+
 <p><span class="chinese">无懈可击之高手如林天过完，不会再来。</span><span class="english">one day, has not been able again to come.</span></p>
 
 <p><span class="chinese">其中，服用瑞如林的患者至少有一例死亡，另一个则需要换肝。</span><span class="english">At least one patient died and another needed a new liver.</span></p>

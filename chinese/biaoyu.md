@@ -1,5 +1,7 @@
 # 标语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoyu.md)
+
 <p><span class="chinese">门山饽欢迎标语。</span><span class="english">The welcome sign over the door.</span></p>
 
 <p><span class="chinese">标语是2008年在意大利开始的。</span><span class="english">That slogan began in Italy in 2008.</span></p>

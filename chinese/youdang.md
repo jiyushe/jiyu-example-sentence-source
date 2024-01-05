@@ -1,5 +1,7 @@
 # 游荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdang.md)
+
 <p><span class="chinese">天空、依旧闲云游荡。</span><span class="english">The sky, still roam idle.</span></p>
 
 <p><span class="chinese">独自沮丧地游荡?。</span><span class="english">Alone and palely loitering?</span></p>

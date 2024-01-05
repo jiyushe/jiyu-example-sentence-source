@@ -1,5 +1,7 @@
 # fiendish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiendish.md)
+
 <p><span class="chinese">于是他编造了一个残忍的计划，以诱骗她支付。</span><span class="english">So he concocted a fiendish scheme to trick her into paying.</span></p>
 
 <p><span class="chinese">杜库以提拉诺斯的身分，推动西帝邪恶计谋的下一阶段。</span><span class="english">As Tyranus, Dooku put into motion the next phase of Sidious' fiendish plot.</span></p>

@@ -1,5 +1,7 @@
 # rammer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rammer.md)
+
 <p><span class="chinese">我的资料，不在为你而写。</span><span class="english">The rammer material, in for near does not write.</span></p>
 
 <p><span class="chinese">文章介绍了气动夯锤打桩的施工方法。</span><span class="english">This paper presents the construction method of pneumatic rammer piling.</span></p>

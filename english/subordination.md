@@ -1,5 +1,7 @@
 # subordination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subordination.md)
+
 <p><span class="chinese">黑人本来就应该服从白人的统治</span><span class="english">Subordination to the white man is his normal condition.</span></p>
 
 <p><span class="chinese">没有银行从属于实体经济。</span><span class="english">No subordination of banks to the needs of the real economy.</span></p>

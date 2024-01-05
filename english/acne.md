@@ -1,5 +1,7 @@
 # acne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acne.md)
+
 <p><span class="chinese">痤疮、青春痘、粉刺、结痂斑点。</span><span class="english">Acne. Zits.</span></p>
 
 <p><span class="chinese">痤疮毛孔堵塞的结果。</span><span class="english">Acne results from clogged pores.</span></p>

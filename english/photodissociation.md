@@ -1,5 +1,7 @@
 # photodissociation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photodissociation.md)
+
 <p><span class="chinese">模拟预言了碘甲烷光解中的选模化学行为。</span><span class="english">The mode selective behavior in photodissociation of methyl iodide is illustrated.</span></p>
 
 <p><span class="chinese">本文报道了用顺磁共振研究激光染料若丹明6G的光解过程。</span><span class="english">Resear ch has been carried out on photodissociation process for laser dye rhodamine 6G by ESR.</span></p>

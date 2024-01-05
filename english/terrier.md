@@ -1,5 +1,7 @@
 # terrier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrier.md)
+
 <p><span class="chinese">它是一条小猎狗，眼睛亮亮的。</span><span class="english">It was a little bright-eyed terrier.</span></p>
 
 <p><span class="chinese">斯塔福郡斗牛梗是一种短毛狗。</span><span class="english">The Staffordshire Bull Terrier is a smooth-coated dog.</span></p>

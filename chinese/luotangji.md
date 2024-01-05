@@ -1,5 +1,7 @@
 # 落汤鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luotangji.md)
+
 <p><span class="chinese">瞧，我淋了个落汤鸡。</span><span class="english">Look, I am soaked through.</span></p>
 
 <p><span class="chinese">他浑身湿得像只落汤鸡。</span><span class="english">He was wet all over like a drowned rat.</span></p>

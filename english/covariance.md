@@ -1,5 +1,7 @@
 # covariance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covariance.md)
+
 <p><span class="chinese">这个指标是相关系数</span><span class="english">So this is a measure--it's a scaled covariance.</span></p>
 
 <p><span class="chinese">另一个基本的概念是协方差</span><span class="english">Another concept that's very basic here is covariance.</span></p>

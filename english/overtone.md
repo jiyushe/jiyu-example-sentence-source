@@ -1,5 +1,7 @@
 # overtone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overtone.md)
+
 <p><span class="chinese">伊娃演奏过的泛音列</span><span class="english">Eva played this overtone series.</span></p>
 
 <p><span class="chinese">这个单词有点贬义。</span><span class="english">The word has a pejorative overtone.</span></p>

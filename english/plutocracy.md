@@ -1,5 +1,7 @@
 # plutocracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plutocracy.md)
+
 <p><span class="chinese">报纸是富人的喉舌。</span><span class="english">Newspapers are the organs of plutocracy.</span></p>
 
 <p><span class="chinese">你认为美国富豪阶层正在成为一潭死水吗？</span><span class="english">Do you think America's plutocracy is becoming stale?</span></p>

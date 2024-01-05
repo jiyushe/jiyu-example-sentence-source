@@ -1,5 +1,7 @@
 # irs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irs.md)
+
 <p><span class="chinese">MTT法检测各组抑瘤率。</span><span class="english">Tumor IRs were detected by MTT method.</span></p>
 
 <p><span class="chinese">详询美国国税局信息热线1-800-829-1040。</span><span class="english">Contact IRS Information at 1-800-829-1040.</span></p>

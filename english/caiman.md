@@ -1,5 +1,7 @@
 # caiman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caiman.md)
+
 <p><span class="chinese">鳄鱼问…为什么你这么安静?。</span><span class="english">"Why are you so quiet?" the caiman asked.</span></p>
 
 <p><span class="chinese">巴西潘塔诺尔地方一头美洲虎和一条凯门鳄大战。</span><span class="english">A jaguar and a caiman battle in the Pantanal region of Brazil.</span></p>

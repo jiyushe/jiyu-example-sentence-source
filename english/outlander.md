@@ -1,5 +1,7 @@
 # outlander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outlander.md)
+
 <p><span class="chinese">你可能说的没错，外地人先生。</span><span class="english">You're probably right, Mr. Outlander.</span></p>
 
 <p><span class="chinese">你可能说的没错，外地人女士。</span><span class="english">You're probably right, Miss Outlander.</span></p>

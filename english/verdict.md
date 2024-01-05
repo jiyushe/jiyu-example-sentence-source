@@ -1,5 +1,7 @@
 # verdict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verdict.md)
+
 <p><span class="chinese">审判团宣布其判决。</span><span class="english">The jury delivered its verdict.</span></p>
 
 <p><span class="chinese">陪审团宣布它的裁定。</span><span class="english">The jury brought in its verdict.</span></p>

@@ -1,5 +1,7 @@
 # geneticist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geneticist.md)
+
 <p><span class="chinese">但欧本说，在治疗后，她会建议他们去找一个遗传学家诊断一下。</span><span class="english">But Obeng said she would recommend that they see a geneticist after treatment.</span></p>
 
 <p><span class="chinese">在未来，世界各地的百岁老人也许还能接到一些遗传学家的电话。</span><span class="english">In the future, centenarians everywhere may also receive a call from a geneticist.</span></p>

@@ -1,5 +1,7 @@
 # 烟卷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjuan_1.md)
+
 <p><span class="chinese">烟卷从我的嘴里掉了下来。</span><span class="english">The cigarette fell out of my lips.</span></p>
 
 <p><span class="chinese">他均匀每日抽一包烟卷儿。</span><span class="english">He averages one pack of cigarettes a day.</span></p>

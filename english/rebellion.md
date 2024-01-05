@@ -1,5 +1,7 @@
 # rebellion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebellion.md)
+
 <p><span class="chinese">反抗与控制有关。</span><span class="english">Rebellion is about control.</span></p>
 
 <p><span class="chinese">船员们准备公开反叛。</span><span class="english">The crew was ready for open rebellion.</span></p>

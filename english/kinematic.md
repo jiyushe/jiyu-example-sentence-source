@@ -1,5 +1,7 @@
 # kinematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinematic.md)
+
 <p><span class="chinese">运动粘度单位是沲。</span><span class="english">The unit of kinematic viscosity is the stoke.</span></p>
 
 <p><span class="chinese">运动学刚体不受力、重力或扭矩的影响。</span><span class="english">Kinematic Rigidbodies are not affected by forces, gravity or collisions.</span></p>

@@ -1,5 +1,7 @@
 # 一番
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifan.md)
+
 <p><span class="chinese">弥拉在心里猜测了一番。</span><span class="english">Mira made a guess mentally.</span></p>
 
 <p><span class="chinese">他就一些细节挑剔了一番。</span><span class="english">He nit-picked a few details.</span></p>

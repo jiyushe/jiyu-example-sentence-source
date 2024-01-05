@@ -1,5 +1,7 @@
 # steering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steering.md)
+
 <p><span class="chinese">舵机系泊测验。</span><span class="english">Mooring test of steering gear.</span></p>
 
 <p><span class="chinese">在斯帕，转向齿条坏了。</span><span class="english">In Spa the steering rack broke.</span></p>

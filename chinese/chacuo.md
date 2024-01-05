@@ -1,5 +1,7 @@
 # 差错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chacuo.md)
+
 <p><span class="chinese">可是我出了个很大的差错。</span><span class="english">But I just made a big mistake.</span></p>
 
 <p><span class="chinese">这个差错不能怪我。</span><span class="english">I am not to blame for the mistake.</span></p>

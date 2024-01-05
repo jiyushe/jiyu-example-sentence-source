@@ -1,5 +1,7 @@
 # 克制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kezhi.md)
+
 <p><span class="chinese">但我要克制。</span><span class="english">But I forbear.</span></p>
 
 <p><span class="chinese">克制乃是最好的治疗。</span><span class="english">Temperance is the best physic.</span></p>

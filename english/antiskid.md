@@ -1,5 +1,7 @@
 # antiskid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiskid.md)
+
 <p><span class="chinese">应在台车等的车轮下放置防滑器。</span><span class="english">Please use antiskid unit to stabilize the tires of trolleys.</span></p>
 
 <p><span class="chinese">您也可以清楚地看到分离之间的防滑和船体。</span><span class="english">You can also clearly see the separation between the antiskid and hull.</span></p>

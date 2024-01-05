@@ -1,5 +1,7 @@
 # typic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typic.md)
+
 <p><span class="chinese">其典型的显微组织为层片状珠光体。</span><span class="english">Its typic microstructure calls lamellar pearlite.</span></p>
 
 <p><span class="chinese">计算机是一种典型的节省劳动力的机器。</span><span class="english">The computer is a typic all abour-saving machine.</span></p>

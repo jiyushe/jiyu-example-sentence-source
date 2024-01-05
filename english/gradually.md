@@ -1,5 +1,7 @@
 # gradually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gradually.md)
+
 <p><span class="chinese">渐渐的，她憔悴、消瘦。</span><span class="english">Gradually she pined away.</span></p>
 
 <p><span class="chinese">戴维逐渐地取得进步。</span><span class="english">Davy made progress gradually.</span></p>

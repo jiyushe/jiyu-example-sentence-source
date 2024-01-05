@@ -1,5 +1,7 @@
 # gallantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallantly.md)
+
 <p><span class="chinese">那士兵作战勇猛。</span><span class="english">The soldiers fought gallantly.</span></p>
 
 <p><span class="chinese">罗西茨基倾向他的头勇敢。</span><span class="english">Rosicky inclined his head gallantly.</span></p>

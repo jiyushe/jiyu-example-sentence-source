@@ -1,5 +1,7 @@
 # equilibria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equilibria.md)
+
 <p><span class="chinese">平衡态理想气体的平衡态。</span><span class="english">equilibria of ideal gases.</span></p>
 
 <p><span class="chinese">那对于相平衡呢？</span><span class="english">What about phase equilibria?</span></p>

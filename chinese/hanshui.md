@@ -1,5 +1,7 @@
 # 酣睡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanshui.md)
+
 <p><span class="chinese">虽然醉鬼酣睡又打呼噜。</span><span class="english">Though drunkards lie and snore.</span></p>
 
 <p><span class="chinese">他们是酣睡的人，我向你保证。</span><span class="english">They are sound sleepers, I assure you.</span></p>

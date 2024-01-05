@@ -1,5 +1,7 @@
 # 王冠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangguan.md)
+
 <p><span class="chinese">把我的王冠和一切全都拿来。</span><span class="english">Bring our crown and all.</span></p>
 
 <p><span class="chinese">这就是英帝国王冠。</span><span class="english">The Imperial State Crown.</span></p>

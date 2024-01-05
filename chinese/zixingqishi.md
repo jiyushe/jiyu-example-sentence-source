@@ -1,5 +1,7 @@
 # 自行其是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixingqishi.md)
+
 <p><span class="chinese">四月天自行其是。</span><span class="english">April tut was er will.</span></p>
 
 <p><span class="chinese">我认为劳拉挣脱鲁普顿跑向教堂大门正是自行其是的绝好例子，妙极了。</span><span class="english">I think it was perfect good form in Laura to bolt from Lupton to the church door.</span></p>

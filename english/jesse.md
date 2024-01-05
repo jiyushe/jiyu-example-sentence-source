@@ -1,5 +1,7 @@
 # jesse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jesse.md)
+
 <p><span class="chinese">杰希问道。</span><span class="english">Jesse asked.</span></p>
 
 <p><span class="chinese">早上好，耶西。</span><span class="english">Good morning, Jesse.</span></p>

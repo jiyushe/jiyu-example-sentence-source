@@ -1,5 +1,7 @@
 # 从属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congshu_1.md)
+
 <p><span class="chinese">从属官给雨龙一拳。</span><span class="english">Fraccion give Ryuu a punch.</span></p>
 
 <p><span class="chinese">然后，您需要初始化从属节点。</span><span class="english">Next, you'll initialize the drone node.</span></p>

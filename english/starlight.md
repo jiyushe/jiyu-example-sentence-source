@@ -1,5 +1,7 @@
 # starlight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starlight.md)
+
 <p><span class="chinese">满载一船星辉。</span><span class="english">A boat fully loaded with starlight.</span></p>
 
 <p><span class="chinese">星光幽黯蔓延，混乱惊心。</span><span class="english">On the dim starlight then is spread.</span></p>

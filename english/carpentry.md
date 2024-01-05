@@ -1,5 +1,7 @@
 # carpentry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carpentry.md)
+
 <p><span class="chinese">写作是道工艺，如木匠做活。</span><span class="english">Writing is a craft, like carpentry.</span></p>
 
 <p><span class="chinese">写作就像木工，也是个工艺活。</span><span class="english">Writing is a craft, like carpentry.</span></p>

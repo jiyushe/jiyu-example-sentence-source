@@ -1,5 +1,7 @@
 # 坚强不屈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianqiangbuqu.md)
+
 <p><span class="chinese">圣彼得堡人民坚强不屈、充满自豪、团结一致。</span><span class="english">Strong, proud and united, the people of St.</span></p>
 
 <p><span class="chinese">柳树付出了它的生命，我爱它那坚强不屈的精神！</span><span class="english">Willow has paid its life, I love it that strong spirit!</span></p>

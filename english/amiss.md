@@ -1,5 +1,7 @@
 # amiss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amiss.md)
+
 <p><span class="chinese">有些东西存在着错误。</span><span class="english">Yet something is amiss.</span></p>
 
 <p><span class="chinese">所以很明显这当中一定出了差错。</span><span class="english">So there is clearly something amiss.</span></p>

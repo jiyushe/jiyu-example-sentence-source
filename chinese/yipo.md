@@ -1,5 +1,7 @@
 # 姨婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yipo.md)
+
 <p><span class="chinese">贝蒂姨婆那时是将近80岁。</span><span class="english">Aunt Bettie was almost 80 years old then.</span></p>
 
 <p><span class="chinese">那是我的姨婆贝蒂总是这样开始她的故事。</span><span class="english">That's how my great-aunt Bettie began her story.</span></p>

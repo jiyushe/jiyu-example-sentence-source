@@ -1,5 +1,7 @@
 # 钨钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugang.md)
+
 <p><span class="chinese">本产品采用超细颗粒钨钢材料，具有硬度高，刀刃锋利，使用寿命长等特点。</span><span class="english">Using ultra-thin granular tungsten steel, this product also features with high hardness, keenness and long life.</span></p>
 
 <p><span class="chinese">考虑到首层用餐区层高问题，这个区域的天花使用亮面钨钢封顶。</span><span class="english">Considering to the height problem of first floor dining area, this area of smallpox with bright tungsten steel cap.</span></p>

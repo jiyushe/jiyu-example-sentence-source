@@ -1,5 +1,7 @@
 # 纽扣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niukou.md)
+
 <p><span class="chinese">这是你的纽扣吗？</span><span class="english">Is this your button?</span></p>
 
 <p><span class="chinese">他解开夹克衫的纽扣。</span><span class="english">He unsnapped his jacket.</span></p>

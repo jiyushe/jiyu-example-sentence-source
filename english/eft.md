@@ -1,5 +1,7 @@
 # eft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eft.md)
+
 <p><span class="chinese">EFT仅仅是保持忙碌的活动，旨在保持焦点。</span><span class="english">EFT is merely a keep busy activity designed to hold focus.</span></p>
 
 <p><span class="chinese">本文介绍方波信号发生器及场效应管驱动器的原理与设计。</span><span class="english">The concept of square wave and EFT drive unit are introduced in this paper.</span></p>

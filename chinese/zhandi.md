@@ -1,5 +1,7 @@
 # 占地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhandi.md)
+
 <p><span class="chinese">占地面积100余亩。</span><span class="english">Area 100 Chinese acres.</span></p>
 
 <p><span class="chinese">占地面积2314平方米。</span><span class="english">Covers 2314 square meters.</span></p>

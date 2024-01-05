@@ -1,5 +1,7 @@
 # subcapsular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subcapsular.md)
+
 <p><span class="chinese">包膜下可见黄褐色梗死灶。</span><span class="english">There are subcapsular yellow-tan infarcts.</span></p>
 
 <p><span class="chinese">染色可见前囊下棕色色素沈积。</span><span class="english">E. stain, subcapsular brown opacities are found in cataractous lens.</span></p>

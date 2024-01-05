@@ -1,5 +1,7 @@
 # 干涸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganhe.md)
+
 <p><span class="chinese">这眼泉干涸了。</span><span class="english">The spring has run dry.</span></p>
 
 <p><span class="chinese">那座小池塘干涸了。</span><span class="english">The little pond ran dry.</span></p>

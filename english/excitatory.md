@@ -1,5 +1,7 @@
 # excitatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excitatory.md)
+
 <p><span class="chinese">卓敏谷氨酸是哺乳动物脑中的兴奋性递质。</span><span class="english">Glutamate is a fast excitatory transmitter in mammalian brains.</span></p>
 
 <p><span class="chinese">兴奋性信号是加,抑制性信号则是减</span><span class="english">The excitatory signals are pluses, the inhibitory ones are minuses.</span></p>

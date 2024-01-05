@@ -1,5 +1,7 @@
 # 生火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenghuo_2.md)
+
 <p><span class="chinese">父亲问我愿不愿意尝试着生火，我很高兴地承担了这项任务。</span><span class="english">I was glad to take the job.</span></p>
 
 <p><span class="chinese">但我们到六月还要生火。</span><span class="english">But we have a fire until June.</span></p>

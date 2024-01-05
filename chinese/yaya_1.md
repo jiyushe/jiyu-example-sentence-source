@@ -1,5 +1,7 @@
 # 呀呀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaya_1.md)
+
 <p><span class="chinese">他呀呀学语。</span><span class="english">He babbles.</span></p>
 
 <p><span class="chinese">婴儿呀呀学语。</span><span class="english">The infant babbles.</span></p>

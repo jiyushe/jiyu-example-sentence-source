@@ -1,5 +1,7 @@
 # horsemanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horsemanship.md)
+
 <p><span class="chinese">她为自己的马术感到自豪。</span><span class="english">She is proud of her horsemanship.</span></p>
 
 <p><span class="chinese">她为自己的骑术感到自豪。</span><span class="english">She is proud of her horsemanship.</span></p>

@@ -1,5 +1,7 @@
 # flourishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flourishing.md)
+
 <p><span class="chinese">现在它繁荣了。</span><span class="english">Now it's flourishing.</span></p>
 
 <p><span class="chinese">你是顺利的还是被卡住的？</span><span class="english">Are you flourishing or are you stuck?</span></p>

@@ -1,5 +1,7 @@
 # fleabane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleabane.md)
+
 <p><span class="chinese">那些风中轻飘的飞蓬，是植物界随遇而安的典型。</span><span class="english">The bitter fleabane in the wind is a typical drifting plant.</span></p>
 
 <p><span class="chinese">霍克说，目前，我们看到房地产的蓬勃发展。</span><span class="english">Hawk says, current, we see the bitter fleabane break out of estate exhibit.</span></p>

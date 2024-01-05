@@ -1,5 +1,7 @@
 # netiquette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/netiquette.md)
+
 <p><span class="chinese">什么是网络礼仪？</span><span class="english">What is Netiquette?</span></p>
 
 <p><span class="chinese">“网络礼节禁止这个项目”！</span><span class="english">The "Netiquette abolishment project" !</span></p>

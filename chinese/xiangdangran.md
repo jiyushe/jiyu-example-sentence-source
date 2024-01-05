@@ -1,5 +1,7 @@
 # 想当然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangdangran.md)
+
 <p><span class="chinese">我们都想当然地拴马。</span><span class="english">We all take tying for granted.</span></p>
 
 <p><span class="chinese">我们不能凭想当然办事。</span><span class="english">We must not act on assumptions.</span></p>

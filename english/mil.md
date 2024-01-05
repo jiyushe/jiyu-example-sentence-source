@@ -1,5 +1,7 @@
 # mil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mil.md)
+
 <p><span class="chinese">钱在哪里？我需要剩下的钱。</span><span class="english">Where's the money? I need the quarter mil.</span></p>
 
 <p><span class="chinese">玛丽莫塔和军用Arcega促成了这一报告。</span><span class="english">Mary Motta and Mil Arcega contributed to this report.</span></p>

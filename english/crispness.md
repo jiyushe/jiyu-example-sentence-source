@@ -1,5 +1,7 @@
 # crispness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crispness.md)
+
 <p><span class="chinese">这色拉已经不脆了。</span><span class="english">The salad had lost its crispness.</span></p>
 
 <p><span class="chinese">平滑和锐利设置有什么用？</span><span class="english">What do the smoothness and crispness settings do?</span></p>

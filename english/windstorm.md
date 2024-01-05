@@ -1,5 +1,7 @@
 # windstorm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windstorm.md)
+
 <p><span class="chinese">风暴毁坏了他们的房屋。</span><span class="english">The windstorm blew down their houses.</span></p>
 
 <p><span class="chinese">树木全被风暴刮倒了。</span><span class="english">The trees were all overthrown by the windstorm.</span></p>

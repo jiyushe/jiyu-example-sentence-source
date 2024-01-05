@@ -1,5 +1,7 @@
 # hilum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hilum.md)
+
 <p><span class="chinese">位于左侧中部的肾门处有一些脂肪组织。</span><span class="english">The hilum at the mid left contains some adipose tissue.</span></p>
 
 <p><span class="chinese">肺鳞状细胞癌由肺门向胸膜扩散的又一例子。</span><span class="english">This is another squamous cell carcinoma that extends from hilum to pleura.</span></p>

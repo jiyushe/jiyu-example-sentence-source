@@ -1,5 +1,7 @@
 # 地政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizheng.md)
+
 <p><span class="chinese">有两种类型的地政室议定书。</span><span class="english">There are two types of LAR Protocols.</span></p>
 
 <p><span class="chinese">他地兄弟属于最不入流地政客。6。</span><span class="english">His brother is a politician of the worst stripe.</span></p>

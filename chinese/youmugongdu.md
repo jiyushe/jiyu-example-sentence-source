@@ -1,5 +1,7 @@
 # 有目共睹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmugongdu.md)
+
 <p><span class="chinese">影响之大自是有目共睹。</span><span class="english">Great effect is obvious to all.</span></p>
 
 <p><span class="chinese">有目共睹，中国是一个开展中国度。</span><span class="english">As is known to all- China is a developing country.</span></p>

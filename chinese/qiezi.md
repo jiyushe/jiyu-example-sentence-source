@@ -1,5 +1,7 @@
 # 茄子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiezi.md)
+
 <p><span class="chinese">茄子。</span><span class="english">Eggplants.</span></p>
 
 <p><span class="chinese">把茄子切成丁儿。</span><span class="english">Dice the eggplant.</span></p>

@@ -1,5 +1,7 @@
 # 不巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buqiao.md)
+
 <p><span class="chinese">不巧的是，那是一堆死兔子。</span><span class="english">Unluckily, it was a heap of dead rabbits.</span></p>
 
 <p><span class="chinese">不巧的是这仍然不可行。</span><span class="english">Well, unfortunately that still is not possible.</span></p>

@@ -1,5 +1,7 @@
 # quip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quip.md)
+
 <p><span class="chinese">噢，那个总是机敏而幽默的肯詹宁斯。</span><span class="english">Oh, that Ken Jennings, always quick with a quip.</span></p>
 
 <p><span class="chinese">我的意见就是出去旅行，并时不时地说些自作聪明的俏皮话。</span><span class="english">My advice is to ride it out, make an occasional smart-aleck quip.</span></p>

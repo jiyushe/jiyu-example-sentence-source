@@ -1,5 +1,7 @@
 # 合情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heqing.md)
+
 <p><span class="chinese">我觉得这些结论是合情全理的，至少以他们的观点来看是如此。</span><span class="english">The conclusions strike me as reasonable, at least from their point of view.</span></p>
 
 <p><span class="chinese">赶上个好时机，我挣得和大毒枭或者犯罪集团一样多，合情又合法！</span><span class="english">So during good times, I make as much as a top drug dealer or mob guy–legally! Ethically.</span></p>

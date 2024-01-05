@@ -1,5 +1,7 @@
 # 多疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoyi.md)
+
 <p><span class="chinese">你何必多疑?</span><span class="english">Why should you be so suspicious?</span></p>
 
 <p><span class="chinese">告诉你们吧，我是个多疑的人。</span><span class="english">Let me tell you, I was skeptical.</span></p>

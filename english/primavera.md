@@ -1,5 +1,7 @@
 # primavera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primavera.md)
+
 <p><span class="chinese">本赛季他参加了6场青年队比赛。</span><span class="english">He has played 6 games with the Primavera this season.</span></p>
 
 <p><span class="chinese">十九世纪末代表了西西里岛最繁华的时期。</span><span class="english">The end of the 19th century represented the Primavera Siciliana.</span></p>

@@ -1,5 +1,7 @@
 # perfunctory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perfunctory.md)
+
 <p><span class="chinese">给我的一切，你不过是在敷衍。</span><span class="english">For mine all, you are being perfunctory.</span></p>
 
 <p><span class="chinese">他在会上讲了些不痛不痒的话。</span><span class="english">He made some perfunctory remarks at the meeting.</span></p>

@@ -1,5 +1,7 @@
 # 粗活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuhuo.md)
+
 <p><span class="chinese">所有例行的工作或者是粗活大都是由实习生来完成。</span><span class="english">Most chores and hard work were done by the apprentices.</span></p>
 
 <p><span class="chinese">我穿这条旧裤子是为了在花园里干粗活。</span><span class="english">I wear these old trousers for knocking about the garden.</span></p>

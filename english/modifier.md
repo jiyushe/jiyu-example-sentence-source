@@ -1,5 +1,7 @@
 # modifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modifier.md)
+
 <p><span class="chinese">利用复制修改器所准备好的模型。</span><span class="english">Ready model with the help of Clone Modifier.</span></p>
 
 <p><span class="chinese">下面是添加了约束修饰符的示例。</span><span class="english">Here is our example with the constraint modifier added.</span></p>

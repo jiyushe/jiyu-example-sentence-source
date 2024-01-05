@@ -1,5 +1,7 @@
 # 小册子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaocezi.md)
+
 <p><span class="chinese">我给你一份小册子。</span><span class="english">I’ll send you a brochure.</span></p>
 
 <p><span class="chinese">这里有两本小册子。</span><span class="english">Here she got two pamphlets.</span></p>

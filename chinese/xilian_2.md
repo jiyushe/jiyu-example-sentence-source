@@ -1,5 +1,7 @@
 # 洗练
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xilian_2.md)
+
 <p><span class="chinese">他的文笔因研究了伟大作家的作品而变得洗练。</span><span class="english">His style was chastened by study of great writers.</span></p>
 
 <p><span class="chinese">影片洗练地刻画了人物的性格。</span><span class="english">This movie tersely portrays the characters' personalities.</span></p>

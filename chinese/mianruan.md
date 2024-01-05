@@ -1,5 +1,7 @@
 # 绵软
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianruan.md)
+
 <p><span class="chinese">吹得嫩蕊细细开，杨柳绵软摆。</span><span class="english">Blown thin buds open, willow foam placed.</span></p>
 
 <p><span class="chinese">绿豆糕绵软甜香，清热祛火。</span><span class="english">Soft sweet bean cake, remove heat of fire.</span></p>

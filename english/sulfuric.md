@@ -1,5 +1,7 @@
 # sulfuric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfuric.md)
+
 <p><span class="chinese">三氧化硫在硫磺酸里的吸收。</span><span class="english">Absorption of sulfur trioxide in sulfuric acid.</span></p>
 
 <p><span class="chinese">产业萘，硫酸，甲醛，液碱。</span><span class="english">Naphthalene, sulfuric acid, formaldehyde, alkaline.</span></p>

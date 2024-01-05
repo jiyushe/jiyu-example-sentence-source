@@ -1,5 +1,7 @@
 # vacuole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacuole.md)
+
 <p><span class="chinese">其特征性病理变化是空泡状细胞。</span><span class="english">The characteristic pathological changes are vacuole like cells.</span></p>
 
 <p><span class="chinese">花色苷体的存在可导致液泡的强烈色彩。</span><span class="english">The emergence of ACP can provide intense coloration in the vacuole.</span></p>

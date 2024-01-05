@@ -1,5 +1,7 @@
 # unselected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unselected.md)
+
 <p><span class="chinese">未选择的组将不会被改变。</span><span class="english">Unselected groups will not be changed.</span></p>
 
 <p><span class="chinese">文本、按钮文本、标题，包括选择和未选择的样式</span><span class="english">Text, button text, titles, both selected and unselected</span></p>

@@ -1,5 +1,7 @@
 # 曾经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cengjing.md)
+
 <p><span class="chinese">所以我曾经很恨它。</span><span class="english">So I hated it.</span></p>
 
 <p><span class="chinese">我曾经怪罪过他吗？</span><span class="english">Did I blame him?</span></p>

@@ -1,5 +1,7 @@
 # 原始
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanshi.md)
+
 <p><span class="chinese">原始主义是什么？。</span><span class="english">What Is Primitivism?</span></p>
 
 <p><span class="chinese">什么是原始权益人呢</span><span class="english">What is an originator?</span></p>

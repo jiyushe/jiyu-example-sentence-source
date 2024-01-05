@@ -1,5 +1,7 @@
 # metronidazole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metronidazole.md)
+
 <p><span class="chinese">妊娠期感染首选甲硝唑。</span><span class="english">Metronidazole is the drug of choice in pregnancy.</span></p>
 
 <p><span class="chinese">而甲硝唑和克拉霉素耐药率较高。</span><span class="english">Resistance rate to Metronidazole and Clarithromycin is the highest.</span></p>

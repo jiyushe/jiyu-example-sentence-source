@@ -1,5 +1,7 @@
 # enterprise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enterprise.md)
+
 <p><span class="chinese">皮革厂老板霍华德。</span><span class="english">Enterprise boss Howard.</span></p>
 
 <p><span class="chinese">吉汽的企业系列。</span><span class="english">JAC s enterprise series.</span></p>

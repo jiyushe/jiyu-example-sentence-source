@@ -1,5 +1,7 @@
 # analogy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analogy.md)
+
 <p><span class="chinese">9.类比。</span><span class="english">analogy.</span></p>
 
 <p><span class="chinese">这里只是个类比。</span><span class="english">It is analogy.</span></p>

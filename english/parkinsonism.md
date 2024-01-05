@@ -1,5 +1,7 @@
 # parkinsonism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parkinsonism.md)
+
 <p><span class="chinese">这可能是因为柏金逊病或有关疾病。</span><span class="english">They may be due to Parkinson's Disease or related Parkinsonism.</span></p>
 
 <p><span class="chinese">探讨提高帕金森病运动障碍的有效办法。</span><span class="english">To study effective method for disordered sports of parkinsonism.</span></p>

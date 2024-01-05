@@ -1,5 +1,7 @@
 # bulbous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulbous.md)
+
 <p><span class="chinese">他有个大蒜头鼻子。</span><span class="english">He has a huge, bulbous nose.</span></p>
 
 <p><span class="chinese">球形蛋黄液囊提供营养品。</span><span class="english">Bulbous yolk sacs provide nourishment.</span></p>

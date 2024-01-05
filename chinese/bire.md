@@ -1,5 +1,7 @@
 # 比热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bire.md)
+
 <p><span class="chinese">铝的比热是0。</span><span class="english">Aluminum has a specific heat of 0.2.</span></p>
 
 <p><span class="chinese">定容比热容Cv乘以dT除以。</span><span class="english">T It's Cp dT over T at constant pressure.</span></p>

@@ -1,5 +1,7 @@
 # phallus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phallus.md)
+
 <p><span class="chinese">本研究为魔芋的快速繁殖提供了新的手段。</span><span class="english">This study provided a new tool for rapid reproduction of Amorpho- phallus.</span></p>
 
 <p><span class="chinese">将四根手指和大拇指结成环状，就好像握住JB一样。</span><span class="english">Bring the fingers and thumb together as if holding a phallus near the forehead.</span></p>

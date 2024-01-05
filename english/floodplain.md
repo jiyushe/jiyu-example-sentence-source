@@ -1,5 +1,7 @@
 # floodplain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floodplain.md)
+
 <p><span class="chinese">莱比锡的奥厄森林。</span><span class="english">Leipziger Auwald. Auwald floodplain forest, Leipzig.</span></p>
 
 <p><span class="chinese">河槽和滩地可互相转换。</span><span class="english">The river channel and floodplain can be mutually changed.</span></p>

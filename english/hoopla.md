@@ -1,5 +1,7 @@
 # hoopla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoopla.md)
+
 <p><span class="chinese">但是谁能想到，当年最大的问题来自于“千年虫”。</span><span class="english">But by far the biggest bug was the hoopla around the Y2K problem.</span></p>
 
 <p><span class="chinese">尽管我们对自己每天的日常生活都非常关心，但事实究竟怎么样呢？</span><span class="english">So, as far as our day to day life is concerned, what's the hoopla all about?</span></p>

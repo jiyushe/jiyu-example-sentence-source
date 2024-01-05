@@ -1,5 +1,7 @@
 # 植物纤维
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwuxianwei.md)
+
 <p><span class="chinese">特例大声地喊着，“难以相信我一直在吃植物纤维。</span><span class="english">I can’t believe I’m eating plant fiber.</span></p>
 
 <p><span class="chinese">但是他们很少吃含有植物纤维的食物。</span><span class="english">But they rarely, if ever, ate plant fiber.</span></p>

@@ -1,5 +1,7 @@
 # crankcase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crankcase.md)
+
 <p><span class="chinese">曲轴箱连杆密封件损坏。</span><span class="english">Worn crankcase piston rod seals.</span></p>
 
 <p><span class="chinese">曲轴箱把曲轴装置于内。</span><span class="english">The crankcase house the crankshaft.</span></p>

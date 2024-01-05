@@ -1,5 +1,7 @@
 # 迁居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianju.md)
+
 <p><span class="chinese">当时有多达一万八千名犹太人迁居到此地。</span><span class="english">As many as 18,000 Jews moved here.</span></p>
 
 <p><span class="chinese">我决定洗手不干，迁居纽约。</span><span class="english">I decided to pack it in and move to New York.</span></p>

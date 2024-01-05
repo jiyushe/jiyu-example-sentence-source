@@ -1,5 +1,7 @@
 # 似笑非笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixiaofeixiao.md)
+
 <p><span class="chinese">蒙娜丽莎在微笑，但似笑非笑。</span><span class="english">Mona lisa is smiling, but more than a smile.</span></p>
 
 <p><span class="chinese">布伦先生抬起头，似笑非笑地看过来。</span><span class="english">Mr. Bullen looks over at her and half smiles.</span></p>

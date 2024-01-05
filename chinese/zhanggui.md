@@ -1,5 +1,7 @@
 # 掌柜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanggui.md)
+
 <p><span class="chinese">囍掌柜的店铺开张了。</span><span class="english">Open the shop. Sell the thing.</span></p>
 
 <p><span class="chinese">反正你明白这个意思，掌柜的！</span><span class="english">You understand what that means, landlord!</span></p>

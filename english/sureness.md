@@ -1,5 +1,7 @@
 # sureness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sureness.md)
+
 <p><span class="chinese">这些因素也拥有相关联的确信因子。</span><span class="english">These elements also have associated sureness factors.</span></p>
 
 <p><span class="chinese">计算确信因子的指导如下</span><span class="english">Guidelines for calculating sureness factors are as follows</span></p>

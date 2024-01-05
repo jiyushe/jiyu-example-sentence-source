@@ -1,5 +1,7 @@
 # 避邪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bixie.md)
+
 <p><span class="chinese">一个可以避邪的戒指嗯?。</span><span class="english">A ring to ward off the demons, eh?</span></p>
 
 <p><span class="chinese">据说是为了避邪。</span><span class="english">It is said to ward off evil spirits.</span></p>

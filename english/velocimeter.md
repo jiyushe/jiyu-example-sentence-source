@@ -1,5 +1,7 @@
 # velocimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/velocimeter.md)
+
 <p><span class="chinese">提出一种结构简单、测量精度高的频谱分析型激光测速系统。</span><span class="english">A simple spectrum-analyzing type laser velocimeter with high-accuracy is proposed.</span></p>
 
 <p><span class="chinese">自混合型的半导体激光多普勒测速仅提供了一个简单、便利的测量血流速的方法。</span><span class="english">It is thought that the velocimeter can offer a simple and compact method to measure the speed of blood flow.</span></p>

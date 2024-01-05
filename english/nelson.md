@@ -1,5 +1,7 @@
 # nelson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nelson.md)
+
 <p><span class="chinese">例如，纳尔逊。</span><span class="english">For example, Nelson A.</span></p>
 
 <p><span class="chinese">肯尼斯·尼尔森饰演马特。</span><span class="english">Kenneth Nelson is Matt.</span></p>

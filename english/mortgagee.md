@@ -1,5 +1,7 @@
 # mortgagee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortgagee.md)
+
 <p><span class="chinese">抵押权人成为土地所有人。</span><span class="english">The mortgagee becomes the proprietor of the land.</span></p>
 
 <p><span class="chinese">第一百九十四条抵押权人可以放弃抵押权或者抵押权的顺位。</span><span class="english">Article 194 A mortgagee may abandon the mortgage right or the sequence thereof.</span></p>

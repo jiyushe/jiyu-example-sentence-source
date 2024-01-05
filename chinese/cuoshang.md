@@ -1,5 +1,7 @@
 # 磋商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuoshang.md)
+
 <p><span class="chinese">正在进行磋商。</span><span class="english">Consultations are under way.</span></p>
 
 <p><span class="chinese">宝莉是个能干的磋商者。</span><span class="english">Polly is a competent negotiator.</span></p>

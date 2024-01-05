@@ -1,5 +1,7 @@
 # 导线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoxian.md)
+
 <p><span class="chinese">导线要接地。</span><span class="english">Conductor earthing.</span></p>
 
 <p><span class="chinese">铜导线为基础的媒体。</span><span class="english">Copper wire-based media.</span></p>

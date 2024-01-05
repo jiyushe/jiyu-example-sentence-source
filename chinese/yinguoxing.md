@@ -1,5 +1,7 @@
 # 因果性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinguoxing.md)
+
 <p><span class="chinese">当然，这项调查所发现的结果只能证明关联性而非因果性。</span><span class="english">Of course this study finding shows correlation not causation.</span></p>
 
 <p><span class="chinese">休谟问题是关于因果性的问题，其中蕴含着归纳问题。</span><span class="english">The Hume issue is about cause and effect and contains induction.</span></p>

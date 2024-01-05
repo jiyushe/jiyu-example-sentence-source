@@ -1,5 +1,7 @@
 # 水母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimu.md)
+
 <p><span class="chinese">水母没有大脑。</span><span class="english">Jellyfish have no brains.</span></p>
 
 <p><span class="chinese">咱们找到水母号啦，宝贝！</span><span class="english">We got the Aurelia, baby!</span></p>

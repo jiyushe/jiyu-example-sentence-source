@@ -1,5 +1,7 @@
 # 铁塔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieta.md)
+
 <p><span class="chinese">和铁塔来张远景合照吧。</span><span class="english">Far view with tower.</span></p>
 
 <p><span class="chinese">这是埃菲尔铁塔，我知道。</span><span class="english">This is Eiffel Tower. I know it.</span></p>

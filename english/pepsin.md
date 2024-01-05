@@ -1,5 +1,7 @@
 # pepsin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pepsin.md)
+
 <p><span class="chinese">胃蛋白酶酶从猪的肚子，想用凝乳酶。</span><span class="english">Pepsin Enzyme from a pig's stomach, used like rennet.</span></p>
 
 <p><span class="chinese">一旦你的食道组织中出现了胃蛋白酶，来自上面的酸就具有同样的危害。</span><span class="english">“Once you have pepsin in the tissue, acid from above is equally damaging,” she said.</span></p>

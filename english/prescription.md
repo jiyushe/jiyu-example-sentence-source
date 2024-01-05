@@ -1,5 +1,7 @@
 # prescription
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prescription.md)
+
 <p><span class="chinese">他开给我一张药方。</span><span class="english">He gave me a prescription.</span></p>
 
 <p><span class="chinese">我需要按处方抓药。</span><span class="english">I need to fill a prescription.</span></p>

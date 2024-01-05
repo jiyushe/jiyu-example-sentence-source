@@ -1,5 +1,7 @@
 # 儿子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erzi.md)
+
 <p><span class="chinese">睡吧，儿子。</span><span class="english">Sleep, son.</span></p>
 
 <p><span class="chinese">我是你的儿子！</span><span class="english">I am thy son!</span></p>

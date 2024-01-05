@@ -1,5 +1,7 @@
 # uranium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uranium.md)
+
 <p><span class="chinese">二氧化铀，好了。</span><span class="english">Uranium oxide. Okay.</span></p>
 
 <p><span class="chinese">那红的是二氧化铀。</span><span class="english">That red is uranium oxide.</span></p>

@@ -1,5 +1,7 @@
 # ruff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruff.md)
+
 <p><span class="chinese">有整圈的颈毛和毛茸茸的尾部。</span><span class="english">A circle of neck ruff and furry tail.</span></p>
 
 <p><span class="chinese">打方块牌，名家就可以出王牌压。</span><span class="english">A diamond lead allows a ruff in dummy.</span></p>

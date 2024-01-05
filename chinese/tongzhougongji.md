@@ -1,5 +1,7 @@
 # 同舟共济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhougongji.md)
+
 <p><span class="chinese">这两个人同舟共济。</span><span class="english">The two men clubbed together.</span></p>
 
 <p><span class="chinese">团队工作所需要的是“同舟共济”的态度。</span><span class="english">Teaming requires a "we're in this together" attitude.</span></p>

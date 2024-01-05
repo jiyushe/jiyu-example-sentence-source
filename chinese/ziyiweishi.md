@@ -1,5 +1,7 @@
 # 自以为是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyiweishi.md)
+
 <p><span class="chinese">他总是很自以为是。</span><span class="english">He is always pontifical.</span></p>
 
 <p><span class="chinese">你自以为是老几?。</span><span class="english">Who do you think you are?</span></p>

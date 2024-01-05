@@ -1,5 +1,7 @@
 # 梯级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiji_2.md)
+
 <p><span class="chinese">这段视频显示出多个负极梯级先导。</span><span class="english">The video shows multiple, negative stepped leaders.</span></p>
 
 <p><span class="chinese">这山径有很多梯级，彷佛是另类艺术品。</span><span class="english">This trail has lots of stairs —a different form of art.</span></p>

@@ -1,5 +1,7 @@
 # amenity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amenity.md)
+
 <p><span class="chinese">哈里的声音充满了适意。</span><span class="english">Harry's voice was full of amenity.</span></p>
 
 <p><span class="chinese">旅馆中的芬兰蒸汽浴室倒是个有益的好设施。</span><span class="english">A sauna in the hetol would be a useful amenity.</span></p>

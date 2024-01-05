@@ -1,5 +1,7 @@
 # somali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somali.md)
+
 <p><span class="chinese">吉库尤语、索马里语和卢奥语也通用。</span><span class="english">Kikuyu, Somali and Luo are also widely spoken.</span></p>
 
 <p><span class="chinese">韩国船只恐被索马里海盗劫持。</span><span class="english">S. Korea fears ship hijacked by Somali pirates.</span></p>

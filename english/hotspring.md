@@ -1,5 +1,7 @@
 # hotspring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotspring.md)
+
 <p><span class="chinese">其实，黄山温泉不止一处。</span><span class="english">In fact, more than a hotspring.</span></p>
 
 <p><span class="chinese">欢迎您光临温泉大宾馆。</span><span class="english">Welcome to Hotspring Grand Hotel.</span></p>

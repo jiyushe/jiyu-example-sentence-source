@@ -1,5 +1,7 @@
 # macho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macho.md)
+
 <p><span class="chinese">我是大力牛，踏实讲信用。</span><span class="english">I am MACHO OX, solid and trusty.</span></p>
 
 <p><span class="chinese">太男子气或害怕去看医生？</span><span class="english">Too macho or scared to see a doctor?</span></p>

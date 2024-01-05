@@ -1,5 +1,7 @@
 # 减法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianfa.md)
+
 <p><span class="chinese">进行减法？</span><span class="english">make the subtraction, right?</span></p>
 
 <p><span class="chinese">学会负负责任地使用加法并取代减法。</span><span class="english">Learn to add responsibly instead of subtracting.</span></p>

@@ -1,5 +1,7 @@
 # sallow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sallow.md)
+
 <p><span class="chinese">面黄肌瘦是肝炎吗？</span><span class="english">Is sallow and emaciated hepatitis?</span></p>
 
 <p><span class="chinese">他脸色蜡黄，汗珠津津。</span><span class="english">His face was sallow and shiny with sweat.</span></p>

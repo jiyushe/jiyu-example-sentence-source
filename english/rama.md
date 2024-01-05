@@ -1,5 +1,7 @@
 # rama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rama.md)
+
 <p><span class="chinese">其继任者拉玛七世境遇则更糟。</span><span class="english">His successor, Prajadhipok, Rama VII, fared worse.</span></p>
 
 <p><span class="chinese">它是拉玛五世王在1876年开始建造的。</span><span class="english">It is Wang Rama V in 1876 started the construction.</span></p>

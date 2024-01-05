@@ -1,5 +1,7 @@
 # ripen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ripen.md)
+
 <p><span class="chinese">时机将很快成熟。</span><span class="english">Time will soon ripen.</span></p>
 
 <p><span class="chinese">别着急，时机即将成熟。</span><span class="english">Don't worry. Time will soon ripen.</span></p>

@@ -1,5 +1,7 @@
 # beaux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beaux.md)
+
 <p><span class="chinese">美貌女子和花花公子在旅馆里调情。</span><span class="english">Belles and beaux philandered in the hotels.</span></p>
 
 <p><span class="chinese">现在你还是个孩子，还只为自己的意中人操心哪。</span><span class="english">You’re just a child and bothered about your beaux.</span></p>

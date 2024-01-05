@@ -1,5 +1,7 @@
 # diametral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diametral.md)
+
 <p><span class="chinese">径节通常是一个整数。</span><span class="english">The diametral pitch is usually an integer.</span></p>
 
 <p><span class="chinese">互相啮合的直齿圆柱齿轮，必须具有相同的径节。</span><span class="english">Meshing spur gears must have the same diametral pitch.</span></p>

@@ -1,5 +1,7 @@
 # colloquially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colloquially.md)
+
 <p><span class="chinese">但请把帖子里的这个词理解为我们通俗上讲的化学物质。</span><span class="english">Please read “chemical” in this post as it is colloquially used.</span></p>
 
 <p><span class="chinese">那些陪审员在太阳徽酒店里呆着，东拉西扯地谈了一会儿。</span><span class="english">For some little time the Jurymen hang about the Sol 's Ams colloquially.</span></p>

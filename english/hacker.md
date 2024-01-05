@@ -1,5 +1,7 @@
 # hacker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hacker.md)
+
 <p><span class="chinese">超级骇客准备连接。</span><span class="english">Super Hacker ready for linkup.</span></p>
 
 <p><span class="chinese">想成为一个内核黑客吗？</span><span class="english">Want to become a kernel hacker?</span></p>

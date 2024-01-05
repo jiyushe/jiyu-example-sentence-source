@@ -1,5 +1,7 @@
 # 热气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reqi_1.md)
+
 <p><span class="chinese">你可以看到大地在冒着热气。</span><span class="english">You can see the ground smoking.</span></p>
 
 <p><span class="chinese">跑步之后，我们的脑袋冒着热气。</span><span class="english">Our heads were steaming after running.</span></p>

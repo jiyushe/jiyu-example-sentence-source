@@ -1,5 +1,7 @@
 # 茬口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chakou_1.md)
+
 <p><span class="chinese">茬口毛茸茸的，一看就知道是钝口的镰刀收割的。</span><span class="english">Stubble side was brushy , that resulted from blunt sickle's reaping.</span></p>
 
 <p><span class="chinese">沙生灌木平茬要求切口平整，不能有撕裂，一次性切断，茬口低，摩擦要小。</span><span class="english">The best way that cuts sandy shrub should have a neat slice and less friction.</span></p>

@@ -1,5 +1,7 @@
 # 军旅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junlv.md)
+
 <p><span class="chinese">还是法国军旅的军人？</span><span class="english">Someone from the French military?</span></p>
 
 <p><span class="chinese">军旅家庭，总是搬来搬去的。</span><span class="english">Military family, so they moved around a lot.</span></p>

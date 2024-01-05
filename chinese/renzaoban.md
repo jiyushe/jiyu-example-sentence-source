@@ -1,5 +1,7 @@
 # 人造板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzaoban.md)
+
 <p><span class="chinese">廊坊金兰人造板机械有限公司。</span><span class="english">Lanfang Jinlan Man-made Board Machinery Co. , Ltd.</span></p>
 
 <p><span class="chinese">因此，人造板的质量要比实木的稳定。</span><span class="english">Thus, imitation board quality than wood stability.</span></p>

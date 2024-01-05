@@ -1,5 +1,7 @@
 # 黎明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liming_1.md)
+
 <p><span class="chinese">我在黎明时醒了。</span><span class="english">I woke up at dawn.</span></p>
 
 <p><span class="chinese">而黎明还多的是。</span><span class="english">And the dawn was more.</span></p>

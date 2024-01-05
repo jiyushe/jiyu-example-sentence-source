@@ -1,5 +1,7 @@
 # 转弯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanwan.md)
+
 <p><span class="chinese">这里车能左转弯吗？</span><span class="english">Can a car turn left?</span></p>
 
 <p><span class="chinese">汽车向左转弯。</span><span class="english">The car made a left turn.</span></p>

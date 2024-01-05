@@ -1,5 +1,7 @@
 # locality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locality.md)
+
 <p><span class="chinese">她对于方位有很强的辨别力。</span><span class="english">She has a good sense of locality.</span></p>
 
 <p><span class="chinese">可能需要改进空间位置。</span><span class="english">You may need to improve spatial locality.</span></p>

@@ -1,5 +1,7 @@
 # yttrium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yttrium.md)
+
 <p><span class="chinese">但根据考克斯的说法，钇甚至没被列入这份报告之中。</span><span class="english">Yet according to Cox, yttrium was not even listed in the report.</span></p>
 
 <p><span class="chinese">这为钒酸钇棱镜在偏光器件中的应用提供了重要的参考价值。</span><span class="english">It is a good reference to the application of yttrium vanadate prisms.</span></p>

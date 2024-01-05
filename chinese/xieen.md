@@ -1,5 +1,7 @@
 # 谢恩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieen.md)
+
 <p><span class="chinese">佩林•佐卢和谢恩•汤姆林森报道。</span><span class="english">Pelin Zorlu and Shane Tomlinson report.</span></p>
 
 <p><span class="chinese">跟你说吧，你干吗不为明天特别写一个谢恩祷告呢？</span><span class="english">Tell you what, why don’t you write a special grace for tomorrow?</span></p>

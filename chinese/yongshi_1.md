@@ -1,5 +1,7 @@
 # 永世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongshi_1.md)
+
 <p><span class="chinese">你是永世的一个产物。</span><span class="english">You are a heir of Eternity.</span></p>
 
 <p><span class="chinese">将可沐浴在永世的荣光</span><span class="english">In the light of eternity's glow</span></p>

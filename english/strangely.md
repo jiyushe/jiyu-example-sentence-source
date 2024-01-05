@@ -1,5 +1,7 @@
 # strangely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strangely.md)
+
 <p><span class="chinese">她奇怪地看着露丝。</span><span class="english">She looks at Ruthie strangely.</span></p>
 
 <p><span class="chinese">我的声音出奇的淡定。</span><span class="english">My voice sounded strangely calm.</span></p>

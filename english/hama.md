@@ -1,5 +1,7 @@
 # hama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hama.md)
+
 <p><span class="chinese">他说，然而上周五哈马市也发生了示抗议动。</span><span class="english">Still, he said, there were protests in Hama on Friday.</span></p>
 
 <p><span class="chinese">自上周日以来，哈马市一直遭受政府军的攻击。</span><span class="english">The city of Hama has been under military attack since Sunday.</span></p>

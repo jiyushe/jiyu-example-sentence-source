@@ -1,5 +1,7 @@
 # 声息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxi.md)
+
 <p><span class="chinese">没有一点声息。</span><span class="english">Not a sound is heard.</span></p>
 
 <p><span class="chinese">神身上的一种声息，一阵风。</span><span class="english">A rustle in the god. A galed.</span></p>

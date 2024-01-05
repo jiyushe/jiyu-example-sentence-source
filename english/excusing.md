@@ -1,5 +1,7 @@
 # excusing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excusing.md)
+
 <p><span class="chinese">我希望你不要替他辩护。</span><span class="english">I hope you are not excusing him.</span></p>
 
 <p><span class="chinese">为罪找藉口的人，是不可原谅的。</span><span class="english">There's no excuse for excusing sin.</span></p>

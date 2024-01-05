@@ -1,5 +1,7 @@
 # initiatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initiatory.md)
+
 <p><span class="chinese">蒙学教材是传统文化的重要载体。</span><span class="english">Initiatory textbooks are important vehicles of traditional culture.</span></p>
 
 <p><span class="chinese">它的结果是产生信息素的初始分布。</span><span class="english">Its result is to produce the initiatory distribution of information elements.</span></p>

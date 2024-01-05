@@ -1,5 +1,7 @@
 # bacteriology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacteriology.md)
+
 <p><span class="chinese">他为细菌学科学奠定了基础。</span><span class="english">He laid the foundation of the science of bacteriology.</span></p>
 
 <p><span class="chinese">通过细菌学和有效的实验室网络进行诊断</span><span class="english">Diagnosis through bacteriology and an effective lab network</span></p>

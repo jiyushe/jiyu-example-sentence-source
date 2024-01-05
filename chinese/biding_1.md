@@ -1,5 +1,7 @@
 # 必定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biding_1.md)
+
 <p><span class="chinese">那必定已被证实是真的了。</span><span class="english">It must have been true.</span></p>
 
 <p><span class="chinese">那么有个灵魂必定会飞起。</span><span class="english">So a spirit has to fly.</span></p>

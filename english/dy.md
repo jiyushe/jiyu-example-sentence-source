@@ -1,5 +1,7 @@
 # dy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dy.md)
+
 <p><span class="chinese">这是dy和。</span><span class="english">dx You have dy and dx.</span></p>
 
 <p><span class="chinese">我们只需计算dx，dy和。</span><span class="english">dz We just need to do also dx, dy and dz.</span></p>

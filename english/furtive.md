@@ -1,5 +1,7 @@
 # furtive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furtive.md)
+
 <p><span class="chinese">温总理有理由如此慎重。</span><span class="english">Mr Wen has reason to be furtive.</span></p>
 
 <p><span class="chinese">她们看起来十分紧张，甚至有些鬼鬼祟祟。</span><span class="english">They were nervous, furtive even.</span></p>

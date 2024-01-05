@@ -1,5 +1,7 @@
 # pathology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathology.md)
+
 <p><span class="chinese">他正在做一项病理研究。</span><span class="english">He is doing a research in pathology.</span></p>
 
 <p><span class="chinese">DHT组的肝脏组织病理接近正常。</span><span class="english">HD-DHT had nearly normal liver pathology.</span></p>

@@ -1,5 +1,7 @@
 # 以此类推
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yicileitui.md)
+
 <p><span class="chinese">以此类推。</span><span class="english">And so on and so on.</span></p>
 
 <p><span class="chinese">以此类推，认识五官。</span><span class="english">By analogy, know facial features.</span></p>

@@ -1,5 +1,7 @@
 # rickettsia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rickettsia.md)
+
 <p><span class="chinese">该病由立克次氏体引起，由革蜱属的蜱类传播。</span><span class="english">It is caused by Rickettsia rickettsii and spread by ticks of the genus Dermacentor.</span></p>
 
 <p><span class="chinese">支原体、衣原体及立克次体的生物学特性有何异同？</span><span class="english">What are the main different bio-characteristics among mycoplasma, chlamydia and rickettsia?</span></p>

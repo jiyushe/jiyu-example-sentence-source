@@ -1,5 +1,7 @@
 # igloo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/igloo.md)
+
 <p><span class="chinese">能在圆顶玻璃房里住上一个晚上是一件很神奇的事情。</span><span class="english">Spending a night in an igloo is magical.</span></p>
 
 <p><span class="chinese">克娄石—克完带着村议会的人来到季奚的雪屋。</span><span class="english">Klosh?Kwan led the council to the igloo of Keesh.</span></p>

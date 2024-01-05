@@ -1,5 +1,7 @@
 # begrudge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/begrudge.md)
+
 <p><span class="chinese">这样的交流，谁还会吝惜呢？</span><span class="english">Who could begrudge him those?</span></p>
 
 <p><span class="chinese">你为什么嫉妒她的成功?</span><span class="english">Why do you begrudge  her success?</span></p>

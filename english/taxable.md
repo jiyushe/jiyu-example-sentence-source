@@ -1,5 +1,7 @@
 # taxable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxable.md)
+
 <p><span class="chinese">应计收入将不予应税的。</span><span class="english">Accrued income will never be taxable.</span></p>
 
 <p><span class="chinese">这笔款项可从应征税的公司收入中扣除。</span><span class="english">The money is deductible from taxable income.</span></p>

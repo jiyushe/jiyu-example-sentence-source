@@ -1,5 +1,7 @@
 # 热源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reyuan.md)
+
 <p><span class="chinese">这是低温热源。</span><span class="english">Here is our colder reservoir.</span></p>
 
 <p><span class="chinese">从高温热源吸取热量。</span><span class="english">It's taking heat from the hot reservoir.</span></p>

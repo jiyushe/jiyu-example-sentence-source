@@ -1,5 +1,7 @@
 # gory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gory.md)
+
 <p><span class="chinese">她把她的过去一五一十地告诉了他。</span><span class="english">She told him the gory details of her past.</span></p>
 
 <p><span class="chinese">她把她的过去一五一十地告诉了他。</span><span class="english">E. g. she told him the gory details of her past.</span></p>

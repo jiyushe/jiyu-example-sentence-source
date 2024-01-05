@@ -1,5 +1,7 @@
 # fonda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fonda.md)
+
 <p><span class="chinese">我还是想和芳达女士谈。</span><span class="english">I'd prefer to speak with Ms. Fonda.</span></p>
 
 <p><span class="chinese">听说女配角是由简·方达担当。</span><span class="english">They say the IT is played by Jane Fonda.</span></p>

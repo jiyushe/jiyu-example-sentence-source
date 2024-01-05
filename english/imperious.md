@@ -1,5 +1,7 @@
 # imperious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperious.md)
+
 <p><span class="chinese">他走的时候脸上飞扬跋扈的样子。</span><span class="english">He walks with an imperious look.</span></p>
 
 <p><span class="chinese">即便她著装随意，也高傲得很。</span><span class="english">Even in her casual attire, she is imperious.</span></p>

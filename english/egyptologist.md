@@ -1,5 +1,7 @@
 # egyptologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egyptologist.md)
+
 <p><span class="chinese">著名埃及古物学者扎西•哈瓦斯称，在埃及王室中，近亲联姻非常普遍。</span><span class="english">Incestuous alliances were common among Egypt's royalty, said renowned Egyptologist Zahi Hawass.</span></p>
 
 <p><span class="chinese">她叫莎拉-恰尔德-史蒂文斯，是鼎鼎大名的埃及学家赫伯特-温洛克的侄孙女。</span><span class="english">The woman's name is Sara Child Stevens, and she is the grandniece of the famous Egyptologist Herbert Winlock.</span></p>

@@ -1,5 +1,7 @@
 # 儿童
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ertong.md)
+
 <p><span class="chinese">“留守儿童”。</span><span class="english">Left-behind Children.</span></p>
 
 <p><span class="chinese">共有342名儿童死亡。</span><span class="english">There were 342 deaths.</span></p>

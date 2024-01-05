@@ -1,5 +1,7 @@
 # 呈送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengsong.md)
+
 <p><span class="chinese">及时向餐饮部呈送每日成本报表。</span><span class="english">Submit daily food cost report to F&B in time.</span></p>
 
 <p><span class="chinese">这份请愿书一月份展览结束后将会被呈送给总统奥巴马。</span><span class="english">It will be sent to President Obama when the show closes in January.</span></p>

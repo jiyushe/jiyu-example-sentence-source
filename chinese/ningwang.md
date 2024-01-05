@@ -1,5 +1,7 @@
 # 凝望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningwang.md)
+
 <p><span class="chinese">我回头凝望着商业大道。</span><span class="english">I looked down Market Street.</span></p>
 
 <p><span class="chinese">马拉松凝望着海涛汹汹。</span><span class="english">And Marathon looks on the sea.</span></p>

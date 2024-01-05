@@ -1,5 +1,7 @@
 # 动身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongshen.md)
+
 <p><span class="chinese">我动身回国。</span><span class="english">I departed to my own country.</span></p>
 
 <p><span class="chinese">他什么动身到伦敦去的？</span><span class="english">When did he leave for London?</span></p>

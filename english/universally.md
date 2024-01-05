@@ -1,5 +1,7 @@
 # universally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/universally.md)
+
 <p><span class="chinese">这条规则放诸四海而皆准。</span><span class="english">The rule is universally applied.</span></p>
 
 <p><span class="chinese">这些定律是普适的。</span><span class="english">These laws are universally valid.</span></p>

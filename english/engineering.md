@@ -1,5 +1,7 @@
 # engineering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engineering.md)
+
 <p><span class="chinese">通信工程。</span><span class="english">Communication Engineering.</span></p>
 
 <p><span class="chinese">为何使用性能工程？</span><span class="english">Why performance engineering?</span></p>

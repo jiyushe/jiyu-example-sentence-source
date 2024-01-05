@@ -1,5 +1,7 @@
 # lidocaine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lidocaine.md)
+
 <p><span class="chinese">比较两种利多卡因局麻方式的效果。</span><span class="english">The outcome of these two lidocaine local anaesthesia was compared.</span></p>
 
 <p><span class="chinese">单独用利多卡因阻断双侧红核或中缝大核对痛阈无影响。</span><span class="english">The pain threshold was not influenced by microinjection of lidocaine into NRM or RN.</span></p>

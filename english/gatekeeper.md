@@ -1,5 +1,7 @@
 # gatekeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gatekeeper.md)
+
 <p><span class="chinese">现在我们来看看,作为总统的主管你是怎么工作的。</span><span class="english">Let's look at how you work as the president's gatekeeper.</span></p>
 
 <p><span class="chinese">尼尼伯，群星诸神之守门人，汝之门为吾而开！</span><span class="english">NINIB, Gatekeeper of the Astral Gods, Open Thy Gate to me!</span></p>

@@ -1,5 +1,7 @@
 # egg 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egg.md)
+
 <p><span class="chinese">加入蛋液。</span><span class="english">Add in egg.</span></p>
 
 <p><span class="chinese">闻一闻蛋。</span><span class="english">Smell the egg.</span></p>

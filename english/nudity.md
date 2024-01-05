@@ -1,5 +1,7 @@
 # nudity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nudity.md)
+
 <p><span class="chinese">接着，我们裸体相对。</span><span class="english">We then get into nudity.</span></p>
 
 <p><span class="chinese">但我并不讨厌裸露。</span><span class="english">But nudity doesn't bother me.</span></p>

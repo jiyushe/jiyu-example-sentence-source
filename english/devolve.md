@@ -1,5 +1,7 @@
 # devolve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devolve.md)
+
 <p><span class="chinese">这座大楼将转交给其长子。</span><span class="english">The building will devolve to his eldest son.</span></p>
 
 <p><span class="chinese">中央政府已决定将权力下放给地方。</span><span class="english">The central government has decided to devolve authority on the regions.</span></p>

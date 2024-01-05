@@ -1,5 +1,7 @@
 # stupa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stupa.md)
+
 <p><span class="chinese">舍利塔的部份。</span><span class="english">Part of the Stupa.</span></p>
 
 <p><span class="chinese">此非土聚乃是殊妙大宝塔耳。</span><span class="english">It is a wonderful great Stupa.</span></p>

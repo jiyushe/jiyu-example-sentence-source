@@ -1,5 +1,7 @@
 # lewd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lewd.md)
+
 <p><span class="chinese">我这位室友是个非常猥琐的人。</span><span class="english">This roomate was a very lewd man.</span></p>
 
 <p><span class="chinese">他固然是个好色的纨绔子弟，但身手矫捷，精明能干。</span><span class="english">He is a lewd of a dandy, but admits skill, shrewd.</span></p>

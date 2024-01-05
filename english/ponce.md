@@ -1,5 +1,7 @@
 # ponce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ponce.md)
+
 <p><span class="chinese">庞塞是位做任何事情都不耽搁时间的人。</span><span class="english">Ponce was not a man to wast time in any undertaking.</span></p>
 
 <p><span class="chinese">帮塞毫无心肝，凶残犹如野兽。</span><span class="english">Ponce was as heartless and unfeeling as any wild beast.</span></p>

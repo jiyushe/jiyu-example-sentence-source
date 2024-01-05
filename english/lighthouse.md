@@ -1,5 +1,7 @@
 # lighthouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lighthouse.md)
+
 <p><span class="chinese">灯塔位于正东方某处。</span><span class="english">The lighthouse bears due east.</span></p>
 
 <p><span class="chinese">灯塔在远处闪烁。</span><span class="english">A lighthouse was flashing  afar.</span></p>

@@ -1,5 +1,7 @@
 # 臃肿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongzhong.md)
+
 <p><span class="chinese">她的脸是臃肿和拘谨。</span><span class="english">Her face is bloated and squarish.</span></p>
 
 <p><span class="chinese">你那条臃肿的橡皮圈叫做手臂?。</span><span class="english">You call that flabby rubber band an arm?</span></p>

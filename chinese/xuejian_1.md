@@ -1,5 +1,7 @@
 # 学监
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuejian_1.md)
+
 <p><span class="chinese">牛津大学或剑桥大学里学监的助手。</span><span class="english">A proctor's assistant at Oxford University or Cambridge University.</span></p>
 
 <p><span class="chinese">每个学院里都有学监和院长，他们共同管理着学校。</span><span class="english">And you have your own dean and master who are administrators for the university</span></p>

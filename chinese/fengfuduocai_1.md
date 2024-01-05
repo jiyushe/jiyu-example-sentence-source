@@ -1,5 +1,7 @@
 # 丰富多采
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengfuduocai_1.md)
+
 <p><span class="chinese">我觉得很丰富多采的。</span><span class="english">I think it is very colorful.</span></p>
 
 <p><span class="chinese">你可以拥有丰富多采的人生。</span><span class="english">You can have a colorful life.</span></p>

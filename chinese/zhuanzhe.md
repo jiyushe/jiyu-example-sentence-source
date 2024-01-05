@@ -1,5 +1,7 @@
 # 转折
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhe.md)
+
 <p><span class="chinese">这是一个巨大的转折。</span><span class="english">It is a mass turn.</span></p>
 
 <p><span class="chinese">这是一次大的转折。</span><span class="english">That was a huge thing.</span></p>

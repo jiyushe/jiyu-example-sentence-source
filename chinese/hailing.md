@@ -1,5 +1,7 @@
 # 海岭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hailing.md)
+
 <p><span class="chinese">她的名字是玛格丽特•海岭。</span><span class="english">Her name was Margaret Herring.</span></p>
 
 <p><span class="chinese">接著，海岭的心跳减慢。</span><span class="english">Then Herring's heartbeat slowed.</span></p>

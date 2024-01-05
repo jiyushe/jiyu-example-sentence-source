@@ -1,5 +1,7 @@
 # retrace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrace.md)
+
 <p><span class="chinese">追溯人类文明的进步。</span><span class="english">Retrace the progress of civilization.</span></p>
 
 <p><span class="chinese">无暇的记忆将会放映再现。</span><span class="english">Which memory that errs not shall retrace.</span></p>

@@ -1,5 +1,7 @@
 # knightly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knightly.md)
+
 <p><span class="chinese">我几乎已经不记得高中时候的自己了。</span><span class="english">I barely remember what it was like in Knightly High school.</span></p>
 
 <p><span class="chinese">他们的传统是骑士精神和所有骑士所具有的品质。</span><span class="english">Their traditions include chivalry and all the knightly things.</span></p>

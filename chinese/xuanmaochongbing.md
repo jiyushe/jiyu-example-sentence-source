@@ -1,5 +1,7 @@
 # 旋毛虫病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanmaochongbing.md)
+
 <p><span class="chinese">吃香肠会引发旋毛虫病。</span><span class="english">Sausage can cause trichinosis.</span></p>
 
 <p><span class="chinese">旋毛虫病是一种人畜共患寄生虫病。</span><span class="english">Trichinosis is a zoonotic parasitic diseases.</span></p>

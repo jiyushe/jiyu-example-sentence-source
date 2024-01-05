@@ -1,5 +1,7 @@
 # 脸皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianpi.md)
+
 <p><span class="chinese">想来可能是人越大脸皮越薄了吧？</span><span class="english">Presumably the older skin is thin?</span></p>
 
 <p><span class="chinese">路易吉厚着脸皮冲他喊道。</span><span class="english">Luigi had the gall to shout to him.</span></p>

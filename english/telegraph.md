@@ -1,5 +1,7 @@
 # telegraph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telegraph.md)
+
 <p><span class="chinese">电报街？</span><span class="english">Telegraph?</span></p>
 
 <p><span class="chinese">我得打电报给我妻子。</span><span class="english">I have to telegraph my wife.</span></p>

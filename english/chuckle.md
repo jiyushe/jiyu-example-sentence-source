@@ -1,5 +1,7 @@
 # chuckle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chuckle.md)
+
 <p><span class="chinese">每当我有这种想法时，就忍不住咯咯地笑起来。</span><span class="english">When I hold that thought, I have to chuckle.</span></p>
 
 <p><span class="chinese">“从我的窗口，我看见你们了，”她说，哧的一笑。</span><span class="english">I saw you from my window, " she said with a chuckle ."</span></p>

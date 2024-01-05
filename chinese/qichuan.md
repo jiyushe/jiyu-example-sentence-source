@@ -1,5 +1,7 @@
 # 气喘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichuan.md)
+
 <p><span class="chinese">为什么你一点儿也不气喘？</span><span class="english">Why aren't you out-of-breath?</span></p>
 
 <p><span class="chinese">在我年轻的岁月，它可是会让我气喘如牛的。</span><span class="english">At my youthful age, it caused me to pant.</span></p>

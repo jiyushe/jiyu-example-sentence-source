@@ -1,5 +1,7 @@
 # horus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horus.md)
+
 <p><span class="chinese">四是何露斯的儿子。</span><span class="english">Four are the Sons of Horus.</span></p>
 
 <p><span class="chinese">何鲁斯知道他必须向帝皇挑战。</span><span class="english">Horus knew he must challenge the Emperor.</span></p>

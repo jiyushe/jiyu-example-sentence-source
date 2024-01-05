@@ -1,5 +1,7 @@
 # 无中生有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhongshengyou.md)
+
 <p><span class="chinese">只要记住不要无中生有乱加力</span><span class="english">Just don't add stuff that's not there.</span></p>
 
 <p><span class="chinese">第二，具体补白，无中生有。</span><span class="english">Second, specific padding out of nothing.</span></p>

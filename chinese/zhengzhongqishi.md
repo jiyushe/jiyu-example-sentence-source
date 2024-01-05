@@ -1,5 +1,7 @@
 # 郑重其事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhongqishi.md)
+
 <p><span class="chinese">亲爱的舅母，你真是郑重其事。</span><span class="english">My dear aunt, this is being serious indeed.</span></p>
 
 <p><span class="chinese">梅尔夫人注意到了这种郑重其事的脸色。</span><span class="english">Madame Merle appeared to note this eagerness.</span></p>

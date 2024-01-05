@@ -1,5 +1,7 @@
 # 贪恋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanlian.md)
+
 <p><span class="chinese">一切只是我贪恋你。</span><span class="english">All are only I cling to you.</span></p>
 
 <p><span class="chinese">胜过贪恋的四种方法。</span><span class="english">Four ways to conquer coveting.</span></p>

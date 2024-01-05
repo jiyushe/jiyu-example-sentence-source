@@ -1,5 +1,7 @@
 # scandinavian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scandinavian.md)
+
 <p><span class="chinese">上海罗店“北欧风情镇”</span><span class="english">Luodian "Scandinavian Town"</span></p>
 
 <p><span class="chinese">斯堪的纳维亚金属，黑金属，爵士金属。</span><span class="english">Scandinavian Metal, Black Metal, Jazz-metal.</span></p>

@@ -1,5 +1,7 @@
 # extensometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extensometer.md)
+
 <p><span class="chinese">最后，建立了一套专门针对变形传感器的多功能标定器具和标定方法。</span><span class="english">At last, a type of extensometer calibration technique for deformation sensor is proposed.</span></p>
 
 <p><span class="chinese">最后提出了一种将伸缩仪拓展为长周期的应变地震仪的初步设想。</span><span class="english">Finally, a rough plan of developing extensometer into a long-period seismograph is proposed.</span></p>

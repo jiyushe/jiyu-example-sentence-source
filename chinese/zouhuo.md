@@ -1,5 +1,7 @@
 # 走火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouhuo.md)
+
 <p><span class="chinese">他意外走火打中了自己的脚。</span><span class="english">He accidentally trod on her foot.</span></p>
 
 <p><span class="chinese">武器碰击地时走火了。</span><span class="english">The weapon discharged when it hit the ground.</span></p>

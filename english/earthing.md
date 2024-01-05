@@ -1,5 +1,7 @@
 # earthing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthing.md)
+
 <p><span class="chinese">导线要接地。</span><span class="english">Conductor earthing.</span></p>
 
 <p><span class="chinese">第1095号航班立即要着陆了。</span><span class="english">Flight 1095 is earthing soon.</span></p>

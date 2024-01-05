@@ -1,5 +1,7 @@
 # 窥视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuishi.md)
+
 <p><span class="chinese">一个小头往外窥视。</span><span class="english">A tiny head peeked out.</span></p>
 
 <p><span class="chinese">芬趴在房门口往里窥视。</span><span class="english">Fern peered through the door.</span></p>

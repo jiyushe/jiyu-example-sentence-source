@@ -1,5 +1,7 @@
 # 屏气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingqi_2.md)
+
 <p><span class="chinese">训练过程中持续保持呼吸不要屏气。</span><span class="english">Continue to breathe throughout the exercise and don’t hold your breath.</span></p>
 
 <p><span class="chinese">在没有老师指导的情况下，任何一个动作都不要屏气。</span><span class="english">Don't hold your breath in any posture or without your teacher's instructions.</span></p>

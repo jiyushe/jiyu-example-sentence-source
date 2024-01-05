@@ -1,5 +1,7 @@
 # 稀松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xisong.md)
+
 <p><span class="chinese">这是一段稀松平常的经历。</span><span class="english">This is an all-too-common experience.</span></p>
 
 <p><span class="chinese">别把这些稀松平常的事放在心里。</span><span class="english">Don't take such trivial matters to heart.</span></p>

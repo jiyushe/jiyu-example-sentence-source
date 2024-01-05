@@ -1,5 +1,7 @@
 # greedily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greedily.md)
+
 <p><span class="chinese">他吧嗒着嘴狼吞虎咽地吃着。</span><span class="english">He ate noisily and greedily.</span></p>
 
 <p><span class="chinese">狐狸立刻贪婪地扑上去。</span><span class="english">The Fox pounced on it greedily.</span></p>

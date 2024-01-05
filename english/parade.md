@@ -1,5 +1,7 @@
 # parade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parade.md)
+
 <p><span class="chinese">操厅也不大。</span><span class="english">Parade Office did not.</span></p>
 
 <p><span class="chinese">游行队伍的末尾是一个乐队。</span><span class="english">A band ended the parade.</span></p>

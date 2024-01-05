@@ -1,5 +1,7 @@
 # refuel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refuel.md)
+
 <p><span class="chinese">他的飞机在日内瓦停降加油。</span><span class="english">His plane stopped to refuel in Geneva.</span></p>
 
 <p><span class="chinese">中国加油，北京奥运加油。</span><span class="english">China refuels , Beijing Olympic Games refuel.</span></p>

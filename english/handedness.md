@@ -1,5 +1,7 @@
 # handedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handedness.md)
+
 <p><span class="chinese">一个婴儿是左撇子还是右撇子有时可以从他还在子宫里时就看出来。</span><span class="english">A baby's handedness can sometimes even be observed in utero.</span></p>
 
 <p><span class="chinese">科学家很久以来一直不明白我们使用那只手的习惯从何而来。</span><span class="english">Scientists have long wondered where our handedness comes from.</span></p>

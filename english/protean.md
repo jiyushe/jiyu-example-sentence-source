@@ -1,5 +1,7 @@
 # protean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protean.md)
+
 <p><span class="chinese">斯里兰卡是一个千变万化和精彩万分的人间天堂。</span><span class="english">Sri Lanka is a protean and wonderful paradise.</span></p>
 
 <p><span class="chinese">多系统受累的临床表现是千变万化的。</span><span class="english">The clinical manifestations are protean with multisystem involvement.</span></p>

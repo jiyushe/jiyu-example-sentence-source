@@ -1,5 +1,7 @@
 # heidelberg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heidelberg.md)
+
 <p><span class="chinese">教堂在海德堡是最常见的。</span><span class="english">Churchs are ubiquitous in Heidelberg.</span></p>
 
 <p><span class="chinese">海德堡某教堂的钟塔。</span><span class="english">One of a church clock tower in Heidelberg.</span></p>

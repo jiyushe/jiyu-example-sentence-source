@@ -1,5 +1,7 @@
 # 出山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushan.md)
+
 <p><span class="chinese">另一种捷径是美联储再度出山.</span><span class="english">Another quick fix would see the Fed step in -- again.</span></p>
 
 <p><span class="chinese">这不正说明太阳出山时离我们近吗？</span><span class="english">Doesn't this show that the sun is nearer to us at noon?</span></p>

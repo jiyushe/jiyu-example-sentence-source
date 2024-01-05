@@ -1,5 +1,7 @@
 # backlash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backlash.md)
+
 <p><span class="chinese">是的，这项行动也会有反作用。</span><span class="english">And yes, there will be a backlash.</span></p>
 
 <p><span class="chinese">李新明说，他没有被报道引起的反响吓倒。</span><span class="english">He said he isn't daunted by the backlash.</span></p>

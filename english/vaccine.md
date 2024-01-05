@@ -1,5 +1,7 @@
 # vaccine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaccine.md)
+
 <p><span class="chinese">那么这疫苗是如何生效的呢？</span><span class="english">So what does the vaccine do?</span></p>
 
 <p><span class="chinese">还没有丙肝病毒疫苗。</span><span class="english">There is no vaccine for HCV.</span></p>

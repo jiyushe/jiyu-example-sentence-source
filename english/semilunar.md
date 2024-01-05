@@ -1,5 +1,7 @@
 # semilunar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semilunar.md)
+
 <p><span class="chinese">膝闭节半月硬骨切除术。</span><span class="english">Excision of semilunar cartilage of knee joint.</span></p>
 
 <p><span class="chinese">结论半月板为粘弹性体。</span><span class="english">Conclusion The semilunar plates is viscoelasticity body.</span></p>

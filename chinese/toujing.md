@@ -1,5 +1,7 @@
 # 头颈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toujing.md)
+
 <p><span class="chinese">采洁的头颈那里有一颗小痣。</span><span class="english">Amber has a tiny mole on her neck.</span></p>
 
 <p><span class="chinese">头颈鳞癌靶向治疗的临床研究。</span><span class="english">Clinical study of target therapy in HNSCC.</span></p>

@@ -1,5 +1,7 @@
 # 行程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingcheng.md)
+
 <p><span class="chinese">还有一小段行程在波西尼亚的“塞尔共和国”境内，路上要花九个小时。</span><span class="english">It takes nine hours.</span></p>
 
 <p><span class="chinese">行程从这里开始。</span><span class="english">The journey starts here.</span></p>

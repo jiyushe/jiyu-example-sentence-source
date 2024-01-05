@@ -1,5 +1,7 @@
 # 革命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geming.md)
+
 <p><span class="chinese">欢迎来到这场革命。</span><span class="english">Welcome to the Revolution.</span></p>
 
 <p><span class="chinese">明日革命已蓄势待发！</span><span class="english">One more day to revolution!</span></p>

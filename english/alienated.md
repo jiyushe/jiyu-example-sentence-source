@@ -1,5 +1,7 @@
 # alienated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alienated.md)
+
 <p><span class="chinese">并不像是被疏远了的。</span><span class="english">He doesn't seem alienated.</span></p>
 
 <p><span class="chinese">她的行为使自己跟朋友们疏远了。</span><span class="english">Her behavior alienated her friends.</span></p>

@@ -1,5 +1,7 @@
 # air 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/air.md)
+
 <p><span class="chinese">什么神气？</span><span class="english">What air?</span></p>
 
 <p><span class="chinese">空中爆炸。</span><span class="english">Air Bursts.</span></p>

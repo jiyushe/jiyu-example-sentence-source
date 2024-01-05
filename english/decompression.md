@@ -1,5 +1,7 @@
 # decompression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decompression.md)
+
 <p><span class="chinese">所以今天是我的减压日。</span><span class="english">So today is a decompression day for me.</span></p>
 
 <p><span class="chinese">其实她所说的应该是减压病。</span><span class="english">She means decompression sickness, or the bends.</span></p>

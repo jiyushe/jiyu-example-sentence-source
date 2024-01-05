@@ -1,5 +1,7 @@
 # 惹事生非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reshishengfei_1.md)
+
 <p><span class="chinese">不要这样讲话，否则会惹事生非的。</span><span class="english">Don't speak in such a manner, or you'll get into trouble.</span></p>
 
 <p><span class="chinese">校方希望摆脱这个惹事生非的孩子。</span><span class="english">The school wishes to BE disembarrassed of the troublesome boy.</span></p>

@@ -1,5 +1,7 @@
 # 唆使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoshi.md)
+
 <p><span class="chinese">我唆使他做的。</span><span class="english">I goaded him on.</span></p>
 
 <p><span class="chinese">是谁唆使你玩这种把戏的？</span><span class="english">Who put you up to this trick?</span></p>

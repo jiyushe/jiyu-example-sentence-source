@@ -1,5 +1,7 @@
 # lynch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lynch.md)
+
 <p><span class="chinese">林奇饰演的则是一个穿运动服的婊子。</span><span class="english">Lynch plays a bitch in a tracksuit.</span></p>
 
 <p><span class="chinese">理查德。道·斯内尔，梅里尔·林奇。</span><span class="english">Richard. Doug Snell, Merrill Lynch.</span></p>

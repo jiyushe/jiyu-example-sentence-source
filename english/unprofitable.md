@@ -1,5 +1,7 @@
 # unprofitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unprofitable.md)
+
 <p><span class="chinese">他在国外度过没有搞头一年。</span><span class="english">He spent an unprofitable year abroad.</span></p>
 
 <p><span class="chinese">报道说，鲲鹏航空没有实现盈利。</span><span class="english">The report said the carrier was unprofitable.</span></p>

@@ -1,5 +1,7 @@
 # 头骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tougu.md)
+
 <p><span class="chinese">我斜睨着头骨。</span><span class="english">I squinted up at the skull.</span></p>
 
 <p><span class="chinese">我对着头骨怒目而视，然后点了点头。</span><span class="english">I glowered up at the skull and nodded.</span></p>

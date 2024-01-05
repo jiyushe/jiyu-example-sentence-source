@@ -1,5 +1,7 @@
 # screenwriting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screenwriting.md)
+
 <p><span class="chinese">参加剧本写作学习班。</span><span class="english">Take a screenwriting class.</span></p>
 
 <p><span class="chinese">使用剧本撰写软件。</span><span class="english">Use screenwriting software.</span></p>

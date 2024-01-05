@@ -1,5 +1,7 @@
 # andrea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andrea.md)
+
 <p><span class="chinese">后来她与安德烈·多蒂医生结婚。</span><span class="english">Later she married Dr. Andrea Dotti.</span></p>
 
 <p><span class="chinese">保罗给了安德丽雅十二朵红玫瑰。</span><span class="english">Paul gave Andrea a dozen red roses.</span></p>

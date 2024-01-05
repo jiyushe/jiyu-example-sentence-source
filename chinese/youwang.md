@@ -1,5 +1,7 @@
 # 有望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youwang.md)
+
 <p><span class="chinese">周冬雨也是有望进入北影的考生之一。</span><span class="english">Zhou is also among the hopefuls.</span></p>
 
 <p><span class="chinese">丰收有望。</span><span class="english">There is hope of a bumper harvest.</span></p>

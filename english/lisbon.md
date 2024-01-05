@@ -1,5 +1,7 @@
 # lisbon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lisbon.md)
+
 <p><span class="chinese">里斯本变成了一个大的转运站。</span><span class="english">Thus Lisbon became a big transfer post.</span></p>
 
 <p><span class="chinese">LLH现在坐落在里斯本的历史最悠久的地区。</span><span class="english">LLH now sits in the most historic area of Lisbon.</span></p>

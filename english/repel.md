@@ -1,5 +1,7 @@
 # repel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repel.md)
+
 <p><span class="chinese">同性电流相斥。</span><span class="english">Like electric charges repel.</span></p>
 
 <p><span class="chinese">水火不相容。</span><span class="english">Fire and water repel each other.</span></p>

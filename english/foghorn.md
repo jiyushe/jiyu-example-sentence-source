@@ -1,5 +1,7 @@
 # foghorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foghorn.md)
+
 <p><span class="chinese">船上的浓雾号角发出呜呜声。</span><span class="english">The ship foghorn boomed out.</span></p>
 
 <p><span class="chinese">雾号整夜发出刺耳的叫声。</span><span class="english">The foghorn brayed all night.</span></p>

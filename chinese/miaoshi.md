@@ -1,5 +1,7 @@
 # 藐视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaoshi.md)
+
 <p><span class="chinese">庞德竖子，何敢藐视吾耶！</span><span class="english">How dare this punk scorn me!</span></p>
 
 <p><span class="chinese">你竟敢藐视推事？</span><span class="english">How dare you bully a magistrate?</span></p>

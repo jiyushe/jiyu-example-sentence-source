@@ -1,5 +1,7 @@
 # 醇香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunxiang.md)
+
 <p><span class="chinese">啤酒爽口，巧克力醇香，不亦美味乎？</span><span class="english">Beer and chocolate, what could be better?</span></p>
 
 <p><span class="chinese">上迈扑山谷地区固有的和谐醇香。</span><span class="english">Harmonious balsamic notes proper of Upper Maipo Valley.</span></p>

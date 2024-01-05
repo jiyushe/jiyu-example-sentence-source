@@ -1,5 +1,7 @@
 # civics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/civics.md)
+
 <p><span class="chinese">克里斯蒂娜对于美国民众的热爱由来甚早。</span><span class="english">Christina's love of American civics began early.</span></p>
 
 <p><span class="chinese">玩家是可以自由选择任何时政组合。</span><span class="english">Players are free to choose any combination of civics.</span></p>

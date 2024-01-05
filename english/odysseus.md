@@ -1,5 +1,7 @@
 # odysseus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odysseus.md)
+
 <p><span class="chinese">奥狄修斯是传说中的希腊英雄。</span><span class="english">Odysseus was a legendary Greek hero.</span></p>
 
 <p><span class="chinese">奥迪赛想要查看这座岛。</span><span class="english">Odysseus wanted to explore the island.</span></p>

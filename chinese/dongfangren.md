@@ -1,5 +1,7 @@
 # 东方人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongfangren.md)
+
 <p><span class="chinese">他是东方人。</span><span class="english">He is an Easterner.</span></p>
 
 <p><span class="chinese">实际上东方人都不善待动物。</span><span class="english">Actually Orientals in general aren't.</span></p>

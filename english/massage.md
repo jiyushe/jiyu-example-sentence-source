@@ -1,5 +1,7 @@
 # massage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/massage.md)
+
 <p><span class="chinese">按摩器电源。</span><span class="english">Massage Power.</span></p>
 
 <p><span class="chinese">按摩的力最。</span><span class="english">Massage strength.</span></p>

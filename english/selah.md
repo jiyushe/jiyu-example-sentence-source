@@ -1,5 +1,7 @@
 # selah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selah.md)
+
 <p><span class="chinese">以得救的乐歌四面环绕我。</span><span class="english">You surround me with songs of deliverance. Selah.</span></p>
 
 <p><span class="chinese">万军之耶和华，他是荣耀的王。</span><span class="english">The LORD of hosts, he is the King of glory. Selah.</span></p>

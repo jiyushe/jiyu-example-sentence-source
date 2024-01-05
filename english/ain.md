@@ -1,5 +1,7 @@
 # ain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ain.md)
+
 <p><span class="chinese">告诉我为什么天使之眼不在这里？</span><span class="english">Asking why my Angel Eyes ain there.</span></p>
 
 <p><span class="chinese">为什么天使之眼不在这里？</span><span class="english">Tell me why my Angel Eyes ain there.</span></p>

@@ -1,5 +1,7 @@
 # deftly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deftly.md)
+
 <p><span class="chinese">有个仁兄熟练地拉着这种二弦乐器。</span><span class="english">One man deftly plays the two- stringed instrument.</span></p>
 
 <p><span class="chinese">她灵巧地把裤筒卷了几下，这样我就能站起来了。</span><span class="english">She deftly rolled the hems a few times so I could stand.</span></p>

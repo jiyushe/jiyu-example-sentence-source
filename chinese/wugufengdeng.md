@@ -1,5 +1,7 @@
 # 五谷丰登
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugufengdeng.md)
+
 <p><span class="chinese">六月无风，五谷丰登。</span><span class="english">Calm weather in June sets corn in tune.</span></p>
 
 <p><span class="chinese">秋天，是一个五谷丰登、硕果累累的季节。</span><span class="english">Fall, is a bumper grain harvest, fruitful season.</span></p>

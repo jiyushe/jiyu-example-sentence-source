@@ -1,5 +1,7 @@
 # bursary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bursary.md)
+
 <p><span class="chinese">您为什么需要助学金？</span><span class="english">Why do you need the Bursary?</span></p>
 
 <p><span class="chinese">海口，大宗祠分发-奖学金。</span><span class="english">Foo Clan Bursary Awards to family members.</span></p>

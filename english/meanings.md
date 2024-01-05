@@ -1,5 +1,7 @@
 # meanings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meanings.md)
+
 <p><span class="chinese">这两个意思混在一起了。</span><span class="english">The two meanings conflated.</span></p>
 
 <p><span class="chinese">婚姻有很多种含义。</span><span class="english">Marriage has too many meanings.</span></p>

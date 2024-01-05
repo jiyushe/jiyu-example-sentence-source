@@ -1,5 +1,7 @@
 # heritance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heritance.md)
+
 <p><span class="chinese">我时候，最贫穷的男人会给他的孩子留下最丰厚的遗产。</span><span class="english">Sometimes the pooresr man lesves his children the rishest in heritance.</span></p>
 
 <p><span class="chinese">树高、地径、种子性状均受一定的遗传控制。</span><span class="english">The height, width of tree and seed character is controlled by heritance.</span></p>

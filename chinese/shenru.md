@@ -1,5 +1,7 @@
 # 深入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenru.md)
+
 <p><span class="chinese">悖论不断深入。</span><span class="english">The paradox goes deeper.</span></p>
 
 <p><span class="chinese">我们步行深入林中。</span><span class="english">We walked far into the woods.</span></p>

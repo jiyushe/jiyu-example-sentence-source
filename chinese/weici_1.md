@@ -1,5 +1,7 @@
 # 位次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weici_1.md)
+
 <p><span class="chinese">美托洛尔和非洛地平位次相对稳定。</span><span class="english">The places of metoprolol and felodipine was relatively stable.</span></p>
 
 <p><span class="chinese">对我们来说位次并不如从球员身上得到反馈来得重要。</span><span class="english">For us the position isn't as important as the response from the players.</span></p>

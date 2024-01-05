@@ -1,5 +1,7 @@
 # ploidy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ploidy.md)
+
 <p><span class="chinese">倍体类型及异倍体的含量与其预后相关。</span><span class="english">The DNA ploidy types and aneuploid was associated with prognosis.</span></p>
 
 <p><span class="chinese">气孔大小与染色体的倍性有一定的正相关关系。</span><span class="english">The stomatal size was positively related with the chromosomal ploidy.</span></p>

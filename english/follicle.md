@@ -1,5 +1,7 @@
 # follicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/follicle.md)
+
 <p><span class="chinese">滤泡细胞开始包围卵母细胞。</span><span class="english">Follicle cells begin to surround oocyte.</span></p>
 
 <p><span class="chinese">皮脂腺附着于每个毛囊上。</span><span class="english">Sebaceous glands are attached to each hair follicle.</span></p>

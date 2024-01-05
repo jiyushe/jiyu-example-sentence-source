@@ -1,5 +1,7 @@
 # 回味无穷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiweiwuqiong.md)
+
 <p><span class="chinese">令我觉得回味无穷。</span><span class="english">It led me to endless aftertastes.</span></p>
 
 <p><span class="chinese">它们都是你回味无穷的礼物。</span><span class="english">They are all the memorable gifts.</span></p>

@@ -1,5 +1,7 @@
 # 自给自足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijizizu.md)
+
 <p><span class="chinese">这是一种自给自足的神经官能症。</span><span class="english">It is a neurosis which feeds upon itself.</span></p>
 
 <p><span class="chinese">因此，这是一个“自给自足”的厕所系统。</span><span class="english">Hence, the system will be self-sustainable.</span></p>

@@ -1,5 +1,7 @@
 # 执政官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhengguan.md)
+
 <p><span class="chinese">那么给次级执政官多少？</span><span class="english">And how much for the sub-praetors?</span></p>
 
 <p><span class="chinese">好吧，他们还是打不过执政官…</span><span class="english">However, they're no match for Archons.</span></p>

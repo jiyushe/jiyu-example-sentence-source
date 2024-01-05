@@ -1,5 +1,7 @@
 # 脱色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuose.md)
+
 <p><span class="chinese">漂白剂脱色。</span><span class="english">Bleach removes colour.</span></p>
 
 <p><span class="chinese">这就是所谓的脱色。</span><span class="english">This is called depigmentation.</span></p>

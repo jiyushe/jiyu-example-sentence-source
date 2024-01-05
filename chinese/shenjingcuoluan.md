@@ -1,5 +1,7 @@
 # 神经错乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjingcuoluan.md)
+
 <p><span class="chinese">你为这个叫好，你神经错乱啊？</span><span class="english">You have the nerve to call that fine?</span></p>
 
 <p><span class="chinese">空虚总是导致人们神经错乱。</span><span class="english">Emptiness always leads to human's insanity.</span></p>

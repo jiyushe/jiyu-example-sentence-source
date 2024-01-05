@@ -1,5 +1,7 @@
 # 真经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjing.md)
+
 <p><span class="chinese">终于取到了真经。</span><span class="english">Finally take the scriptures.</span></p>
 
 <p><span class="chinese">这是圣经的真经。</span><span class="english">This is the canon of Scripture.</span></p>

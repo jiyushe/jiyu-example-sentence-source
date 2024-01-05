@@ -1,5 +1,7 @@
 # bow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bow.md)
+
 <p><span class="chinese">扎头发的蝴蝶结？</span><span class="english">A hair bow.</span></p>
 
 <p><span class="chinese">反曲弓的尺寸。</span><span class="english">Recurve bow size.</span></p>

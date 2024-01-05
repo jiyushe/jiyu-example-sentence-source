@@ -1,5 +1,7 @@
 # 重机枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjiqiang.md)
+
 <p><span class="chinese">这些人将操作苏联标准的支架重机枪。</span><span class="english">These guys will handle the soviet standard lafette HMG.</span></p>
 
 <p><span class="chinese">图中为设置在高射机枪架的多管重机枪。</span><span class="english">This is a multi-barrel heavy machine gun on an anti-aircraft mount.</span></p>

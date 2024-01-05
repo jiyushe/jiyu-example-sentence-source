@@ -1,5 +1,7 @@
 # idiosyncratic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idiosyncratic.md)
+
 <p><span class="chinese">受到费舍女士挑战的德克萨斯录取系统非常特别。</span><span class="english">The Texas system challenged by Ms. Fisher is idiosyncratic.</span></p>
 
 <p><span class="chinese">在欧洲主要俱乐部中，阿森纳仍是最为特殊的一个。</span><span class="english">Arsenal remain the most idiosyncratic of Europe's major clubs.</span></p>

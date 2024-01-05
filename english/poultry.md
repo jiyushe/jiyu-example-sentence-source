@@ -1,5 +1,7 @@
 # poultry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poultry.md)
+
 <p><span class="chinese">食品包装，畜禽肉产品。</span><span class="english">Food Packaging, Meat & Poultry.</span></p>
 
 <p><span class="chinese">那些家禽是关在笼子里养的。</span><span class="english">The poultry are kept in a cage.</span></p>

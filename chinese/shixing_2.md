@@ -1,5 +1,7 @@
 # 试行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixing_2.md)
+
 <p><span class="chinese">2005年，我们在英国分公司开始试行这项计划。</span><span class="english">We launched Freshness in 2005 in MediaCom's U.</span></p>
 
 <p><span class="chinese">在上海，也执行了同样的试行。</span><span class="english">In Shanghai, similar experiments are being carried out.</span></p>

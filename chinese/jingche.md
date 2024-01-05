@@ -1,5 +1,7 @@
 # 警车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingche.md)
+
 <p><span class="chinese">抢劫警车是违法的！</span><span class="english">Carjacking a police car is illegal!</span></p>
 
 <p><span class="chinese">警车被枪连打了几个洞。</span><span class="english">The police car was stitched by a gun.</span></p>

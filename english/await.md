@@ -1,5 +1,7 @@
 # await
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/await.md)
+
 <p><span class="chinese">我们等待你的口令。</span><span class="english">We await your command.</span></p>
 
 <p><span class="chinese">其他6人尚在候审。</span><span class="english">Six others await trial.</span></p>

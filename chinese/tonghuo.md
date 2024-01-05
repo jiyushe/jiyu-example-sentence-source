@@ -1,5 +1,7 @@
 # 同伙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghuo.md)
+
 <p><span class="chinese">而他的同伙当然也被大刑伺候了</span><span class="english">These people are toast, obviously.</span></p>
 
 <p><span class="chinese">你认为我的女同伙不性感？</span><span class="english">You dont think my girlfriends sexy?</span></p>

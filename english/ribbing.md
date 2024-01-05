@@ -1,5 +1,7 @@
 # ribbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ribbing.md)
+
 <p><span class="chinese">你开我玩笑。</span><span class="english">You u're ribbing me.</span></p>
 
 <p><span class="chinese">从脚踝到袖口的针织罗纹。</span><span class="english">Knit ribbing from ankle to cuff.</span></p>

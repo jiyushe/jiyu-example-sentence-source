@@ -1,5 +1,7 @@
 # palate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palate.md)
+
 <p><span class="chinese">成熟而清新爽利。</span><span class="english">Ripe but refreshing on the palate.</span></p>
 
 <p><span class="chinese">帕洛马先生真正感兴趣是思想。</span><span class="english">Mr. Palomar's palate is in his mind.</span></p>

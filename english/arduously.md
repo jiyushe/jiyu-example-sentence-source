@@ -1,5 +1,7 @@
 # arduously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arduously.md)
+
 <p><span class="chinese">他费力的指向枕头下面。</span><span class="english">He pointed under the pillow arduously.</span></p>
 
 <p><span class="chinese">他拼命学习弹奏，很快就加入了当地的一个乐队。</span><span class="english">He practiced arduously and soon began to play in local bands.</span></p>

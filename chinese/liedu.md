@@ -1,5 +1,7 @@
 # 烈度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liedu.md)
+
 <p><span class="chinese">高烈度事件具有相当的破坏性且十分重大。</span><span class="english">High-amplitude events are very destructive and significant.</span></p>
 
 <p><span class="chinese">麦加利烈度是由可观测地震破坏确定的。</span><span class="english">The Mercalli Scale is based on observable earthquake damage.</span></p>

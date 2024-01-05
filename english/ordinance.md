@@ -1,5 +1,7 @@
 # ordinance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ordinance.md)
+
 <p><span class="chinese">城市法令与城镇细则。</span><span class="english">City ordinance and town by-laws.</span></p>
 
 <p><span class="chinese">这是以色列人永远的定例。</span><span class="english">This is a lasting ordinance for Israel.</span></p>

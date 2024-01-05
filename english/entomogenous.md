@@ -1,5 +1,7 @@
 # entomogenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entomogenous.md)
+
 <p><span class="chinese">对山西省虫生真菌的种类资源概貌进行了总结。</span><span class="english">The resources of entomogenous fungi in Shanxi Province were studied.</span></p>
 
 <p><span class="chinese">本文对其中的一些虫生真菌的特征进行了详细描述。</span><span class="english">In the present paper, the characteristics of some entomogenous fungi are described in detail.</span></p>

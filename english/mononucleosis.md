@@ -1,5 +1,7 @@
 # mononucleosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mononucleosis.md)
+
 <p><span class="chinese">孙悦，这个战胜了单核细胞增多症的球员，没有在本周日晚上场。</span><span class="english">Sun Yue, who had been battling mononucleosis , also did not play Sunday.</span></p>
 
 <p><span class="chinese">他的单核细胞增多症测试结果呈阳性，这意味着他要错过训练营的开幕。</span><span class="english">He tested positive for mononucleosis and will miss the start of training camp.</span></p>

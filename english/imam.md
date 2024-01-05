@@ -1,5 +1,7 @@
 # imam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imam.md)
+
 <p><span class="chinese">我弟弟你们的阿訇怎么说？</span><span class="english">My brother What does your Imam say?</span></p>
 
 <p><span class="chinese">纳希和本地清真寺的阿訇在玩西洋双陆棋。</span><span class="english">Naci was playing backgammon with the imam from the local mosque.</span></p>

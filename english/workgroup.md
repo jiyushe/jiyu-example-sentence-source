@@ -1,5 +1,7 @@
 # workgroup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workgroup.md)
+
 <p><span class="chinese">输入你想使计算机所处工作组的名称。</span><span class="english">Enter the name of the workgroup you want your computer to belong to.</span></p>
 
 <p><span class="chinese">可以使用相似的代码在删除工作组时删除词汇。</span><span class="english">Similar code is necessary to remove the term when deleting a workgroup.</span></p>

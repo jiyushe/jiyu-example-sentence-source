@@ -1,5 +1,7 @@
 # ploughing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ploughing.md)
+
 <p><span class="chinese">三月份的大部分时间我们在春耕。</span><span class="english">We spent most of March ploughing.</span></p>
 
 <p><span class="chinese">春耕闹得正欢。</span><span class="english">Spring ploughing is in full swing.</span></p>

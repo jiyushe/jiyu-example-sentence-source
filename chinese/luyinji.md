@@ -1,5 +1,7 @@
 # 录音机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luyinji.md)
+
 <p><span class="chinese">或者是录音机。</span><span class="english">Or a dictaphone.</span></p>
 
 <p><span class="chinese">那是一台新的录音机。</span><span class="english">That's a new recorder.</span></p>

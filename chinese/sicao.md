@@ -1,5 +1,7 @@
 # 饲草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sicao.md)
+
 <p><span class="chinese">今年，饲草是不行了。</span><span class="english">This year, the grass hasn't performed.</span></p>
 
 <p><span class="chinese">苜蓿是家畜的一种重要饲草作物。</span><span class="english">Alfalfa is an important forage for livestock.</span></p>

@@ -1,5 +1,7 @@
 # edict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edict.md)
+
 <p><span class="chinese">他们密谋反对皇帝的谕旨。</span><span class="english">They caballed against the emperor's edict.</span></p>
 
 <p><span class="chinese">1598年南特赦令宣布最终信仰自由。</span><span class="english">Final toleration in the edict of Nantes in 1598.</span></p>

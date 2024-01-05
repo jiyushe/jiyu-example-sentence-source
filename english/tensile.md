@@ -1,5 +1,7 @@
 # tensile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tensile.md)
+
 <p><span class="chinese">听说过“抗张强度”吗?。</span><span class="english">Ever hear of tensile strength?</span></p>
 
 <p><span class="chinese">周向正应力是张性的。</span><span class="english">The circumferential normal stress is tensile.</span></p>

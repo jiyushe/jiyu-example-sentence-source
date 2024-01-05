@@ -1,5 +1,7 @@
 # thundering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thundering.md)
+
 <p><span class="chinese">有人在砰砰地擂门。</span><span class="english">Someone is thundering at the door.</span></p>
 
 <p><span class="chinese">我被一声可怕的雷声惊醒。</span><span class="english">I was awaked by terrible thundering.</span></p>

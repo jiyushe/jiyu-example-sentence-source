@@ -1,5 +1,7 @@
 # 佩带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peidai_1.md)
+
 <p><span class="chinese">如今人人都佩带胸卡。</span><span class="english">We all wear IDs now.</span></p>
 
 <p><span class="chinese">他佩带上他的剑。</span><span class="english">He girded his sword on.</span></p>

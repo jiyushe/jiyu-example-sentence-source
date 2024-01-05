@@ -1,5 +1,7 @@
 # 必须
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bixu.md)
+
 <p><span class="chinese">必须要跑操。</span><span class="english">Must run.</span></p>
 
 <p><span class="chinese">他必须走开”。</span><span class="english">He must go.</span></p>

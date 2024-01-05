@@ -1,5 +1,7 @@
 # 不近人情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujinrenqing.md)
+
 <p><span class="chinese">我是个不称职的，不近人情的母亲。</span><span class="english">An incompetent monster of a mother.</span></p>
 
 <p><span class="chinese">噢，他也太不近人情了。为什么他要这样做？</span><span class="english">Oh, hes so mean. Why would he do that?</span></p>

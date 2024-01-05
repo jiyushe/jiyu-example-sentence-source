@@ -1,5 +1,7 @@
 # MP
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mp.md)
+
 <p><span class="chinese">他被提名为议员候选人。</span><span class="english">He was nominated for the MP.</span></p>
 
 <p><span class="chinese">在这种情况下，从加帛国会议员。</span><span class="english">In this case, the MP from Kapit.</span></p>

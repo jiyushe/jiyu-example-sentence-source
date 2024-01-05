@@ -1,5 +1,7 @@
 # 征婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenghun.md)
+
 <p><span class="chinese">老色鬼收到了一封征婚回信。</span><span class="english">Old goat received an Zhenghun reply.</span></p>
 
 <p><span class="chinese">宇宙，他成为海宁的第一个征婚者。</span><span class="english">The universe, he became haining first marriage.</span></p>

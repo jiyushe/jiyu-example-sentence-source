@@ -1,5 +1,7 @@
 # 蜗居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woju_2.md)
+
 <p><span class="chinese">你忍心蜗居在不到10平米的小屋里吗？</span><span class="english">Do you have the heart to live in a 10-square-meter room?</span></p>
 
 <p><span class="chinese">蜗居在我在的城市——我的小小的城市，我了解我除了观望、观望，什么都不能做…</span><span class="english">In my city- the small city, I no I can do nothing but watching.</span></p>

@@ -1,5 +1,7 @@
 # keenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keenly.md)
+
 <p><span class="chinese">他观察敏锐，却很少发言。</span><span class="english">He observes keenly but says very little.</span></p>
 
 <p><span class="chinese">我现在很锐敏地感到即将发生什么事情。</span><span class="english">I could now feel very keenly what was coming.</span></p>

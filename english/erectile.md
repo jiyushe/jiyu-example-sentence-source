@@ -1,5 +1,7 @@
 # erectile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erectile.md)
+
 <p><span class="chinese">男人的鼻子部位有海绵体，所以当他们想要掩饰一些事情时，鼻子就会痒。</span><span class="english">Man have erectile tissue near nose. Itches when they're hiding something.</span></p>
 
 <p><span class="chinese">男人的鼻子部位有海绵体，所以当他们想要掩饰一些事情时，鼻子就会痒。</span><span class="english">Men have erectile tissue near nose. Itches when they’re hiding something.</span></p>

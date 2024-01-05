@@ -1,5 +1,7 @@
 # 民法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minfa.md)
+
 <p><span class="chinese">表见代理是我国现行民法中的一项空白。</span><span class="english">There is not surface agency in our law.</span></p>
 
 <p><span class="chinese">市民法之价值核心，即自由。</span><span class="english">The value core of jus civile is freedom.</span></p>

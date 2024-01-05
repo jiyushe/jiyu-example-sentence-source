@@ -1,5 +1,7 @@
 # penetrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penetrate.md)
+
 <p><span class="chinese">子弹能穿墙而过。</span><span class="english">A bullet can penetrate a wall.</span></p>
 
 <p><span class="chinese">撒但无法刺透上帝的军装。</span><span class="english">No evil can penetrate the armor of God.</span></p>

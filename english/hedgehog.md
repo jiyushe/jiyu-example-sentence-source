@@ -1,5 +1,7 @@
 # hedgehog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hedgehog.md)
+
 <p><span class="chinese">剌猬有很多剌。</span><span class="english">The hedgehog has many spines.</span></p>
 
 <p><span class="chinese">老爸，他们家的剌猬真大！</span><span class="english">Father, his hedgehog is so big!</span></p>

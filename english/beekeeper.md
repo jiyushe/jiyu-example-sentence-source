@@ -1,5 +1,7 @@
 # beekeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beekeeper.md)
+
 <p><span class="chinese">养蜂人把蜂群装入蜂箱。</span><span class="english">The beekeeper hived the swarm.</span></p>
 
 <p><span class="chinese">他们只知道他是个和蔼可亲的养蜂人。</span><span class="english">They had known him as an amiable beekeeper.</span></p>

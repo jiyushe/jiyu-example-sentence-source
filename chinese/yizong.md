@@ -1,5 +1,7 @@
 # 一总
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizong.md)
+
 <p><span class="chinese">一总有多少?</span><span class="english">How many are there in all?</span></p>
 
 <p><span class="chinese">这些任务一总交给你干。</span><span class="english">Leave all the tasks to you.</span></p>

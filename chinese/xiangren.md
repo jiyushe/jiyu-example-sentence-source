@@ -1,5 +1,7 @@
 # 相认
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangren.md)
+
 <p><span class="chinese">冠雄倡否与她相认？</span><span class="english">Crown male call Joseph with her?</span></p>
 
 <p><span class="chinese">他想要立即和女儿相认。</span><span class="english">He wants his daughter and immediately.</span></p>

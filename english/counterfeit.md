@@ -1,5 +1,7 @@
 # counterfeit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterfeit.md)
+
 <p><span class="chinese">伪造钱币是犯罪行为。</span><span class="english">It is a crime to counterfeit money.</span></p>
 
 <p><span class="chinese">假贵族喜欢假冒的奢侈品。</span><span class="english">Poseurs like counterfeit luxury goods.</span></p>

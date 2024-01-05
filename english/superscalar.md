@@ -1,5 +1,7 @@
 # superscalar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superscalar.md)
+
 <p><span class="chinese">哪一款Intel处理器首先引入超标量执行？</span><span class="english">Which Intel processor first introduced superscalar execution?</span></p>
 
 <p><span class="chinese">电脑术语“体系结构”通常就是用来描述这种方法的。</span><span class="english">The buzz word superscalar is commonly used to describe this approach.</span></p>

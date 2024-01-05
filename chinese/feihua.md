@@ -1,5 +1,7 @@
 # 飞花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feihua.md)
+
 <p><span class="chinese">花谢花飞花满天。</span><span class="english">Flower Shabana flyings sky.</span></p>
 
 <p><span class="chinese">故穿庭树作飞花。</span><span class="english">So wear chambers tree flowers.</span></p>

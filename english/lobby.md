@@ -1,5 +1,7 @@
 # lobby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobby.md)
+
 <p><span class="chinese">这台机车拉了一长列货车。</span><span class="english">There's a machine in the lobby.</span></p>
 
 <p><span class="chinese">大厅的灯晃得我睁不开眼睛。</span><span class="english">The lighting of the lobby dazzled me.</span></p>

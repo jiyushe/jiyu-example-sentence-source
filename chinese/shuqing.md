@@ -1,5 +1,7 @@
 # 抒情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuqing.md)
+
 <p><span class="chinese">她的歌曲以抒情歌词著名。</span><span class="english">Her songs are famous for lyrics.</span></p>
 
 <p><span class="chinese">我们英国人不喜欢用抒情体。</span><span class="english">We English do not run to lyricism.</span></p>

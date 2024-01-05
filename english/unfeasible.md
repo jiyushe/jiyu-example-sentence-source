@@ -1,5 +1,7 @@
 # unfeasible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfeasible.md)
+
 <p><span class="chinese">这在经济上是不可行的。</span><span class="english">It'll be economically unfeasible.</span></p>
 
 <p><span class="chinese">因此，我觉得这概念是行不通的。</span><span class="english">To me, this is an unfeasible idea.</span></p>

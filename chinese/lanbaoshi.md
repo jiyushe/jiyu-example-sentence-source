@@ -1,5 +1,7 @@
 # 蓝宝石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanbaoshi.md)
+
 <p><span class="chinese">我建议孟买蓝宝石。</span><span class="english">B. I'd suggest Bombay Saphirre.</span></p>
 
 <p><span class="chinese">项链镶嵌着海蓝宝石。</span><span class="english">A necklace set with aquamarines.</span></p>

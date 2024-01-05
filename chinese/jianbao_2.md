@@ -1,5 +1,7 @@
 # 见报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbao_2.md)
+
 <p><span class="chinese">商人写的广告见报了。</span><span class="english">Writing the business reported the advertisement.</span></p>
 
 <p><span class="chinese">该通告将于明日见报。</span><span class="english">The announcement will appear in tomorrow'snewspapers.</span></p>

@@ -1,5 +1,7 @@
 # mithraic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mithraic.md)
+
 <p><span class="chinese">很有可能思索到基督教信仰是受到密特拉神信仰的影响。</span><span class="english">There is much speculation that Christian beliefs were influenced by Mithraic belief.</span></p>
 
 <p><span class="chinese">当他们回归，他们奉献于密特拉神，很可能是在公元71或72年。</span><span class="english">When they returned home, they made Mithraic dedications , probably in the year 71 or 72.</span></p>

@@ -1,5 +1,7 @@
 # 稳重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenzhong.md)
+
 <p><span class="chinese">成熟稳重！</span><span class="english">Mature!</span></p>
 
 <p><span class="chinese">他是个稳重的人。</span><span class="english">He is a steady fellow.</span></p>

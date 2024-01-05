@@ -1,5 +1,7 @@
 # 积分学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jifenxue.md)
+
 <p><span class="chinese">1686年，莱布尼茨发表了第一篇积分学的文献。</span><span class="english">In 1686, Leibniz published the first calculus literature.</span></p>
 
 <p><span class="chinese">他所发明的这个方法后来以积分学著称于世。</span><span class="english">The technique he created became known as integral calculus.</span></p>

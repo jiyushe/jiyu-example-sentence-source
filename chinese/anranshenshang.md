@@ -1,5 +1,7 @@
 # 黯然神伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anranshenshang.md)
+
 <p><span class="chinese">我也曾黯然神伤。</span><span class="english">I also feel dejected.</span></p>
 
 <p><span class="chinese">你哭泣，却只能独自黯然神伤。</span><span class="english">Weep, and you weep alone.</span></p>

@@ -1,5 +1,7 @@
 # wettable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wettable.md)
+
 <p><span class="chinese">可湿性粉剂的活性高于乳化制剂的活性。</span><span class="english">Wettable powders exhibited higher activity than emulsified formulations.</span></p>
 
 <p><span class="chinese">关键在于您是否选择了正确的助焊剂和清洁能力较强的喷嘴清洗剂。</span><span class="english">The key lies in using the right flux and the unique wettable nozzle cleaning gel.</span></p>

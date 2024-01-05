@@ -1,5 +1,7 @@
 # victor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/victor.md)
+
 <p><span class="chinese">没有一个胜利者相信机遇。</span><span class="english">No victor believer in chane.</span></p>
 
 <p><span class="chinese">人群挤在胜利者周围。</span><span class="english">The crowd surrounded the victor.</span></p>

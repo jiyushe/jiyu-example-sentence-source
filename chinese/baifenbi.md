@@ -1,5 +1,7 @@
 # 百分比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baifenbi.md)
+
 <p><span class="chinese">百分比的戒烟者。</span><span class="english">Percentages of ex-smokers.</span></p>
 
 <p><span class="chinese">那数字是以百分比表示的。</span><span class="english">The figure is expressed as a percentage.</span></p>

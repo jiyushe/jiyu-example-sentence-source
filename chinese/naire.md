@@ -1,5 +1,7 @@
 # 耐热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naire.md)
+
 <p><span class="chinese">具耐热，耐油性，防磨损，耐冷等特性。</span><span class="english">Resistant to heat, oil, abrasion and cold.</span></p>
 
 <p><span class="chinese">土豆是盛在耐热碗里端上来的。</span><span class="english">The potato is served in an ovenproof bowl.</span></p>

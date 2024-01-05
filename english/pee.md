@@ -1,5 +1,7 @@
 # pee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pee.md)
+
 <p><span class="chinese">我要去尿尿。</span><span class="english">I need to pee.</span></p>
 
 <p><span class="chinese">猫在酒里小便的味道？</span><span class="english">Cat pee in wine?</span></p>

@@ -1,5 +1,7 @@
 # 驱逐舰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quzhujian.md)
+
 <p><span class="chinese">驱逐舰划开了水面。</span><span class="english">The destroyer sliced through the water.</span></p>
 
 <p><span class="chinese">日军声称击沉了1艘巡洋舰和1艘驱逐舰。</span><span class="english">The Japs claimed a cruiser and a destroyer.</span></p>

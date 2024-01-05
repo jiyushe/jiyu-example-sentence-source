@@ -1,5 +1,7 @@
 # inhomogeneity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhomogeneity.md)
+
 <p><span class="chinese">非均质性有很多等级。</span><span class="english">Inhomogeneity has many levels.</span></p>
 
 <p><span class="chinese">我们考虑这是由于激光棒的不均匀性引起的。</span><span class="english">We consider that is caused by the inhomogeneity of the laser rod.</span></p>

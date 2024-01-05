@@ -1,5 +1,7 @@
 # permanently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permanently.md)
+
 <p><span class="chinese">我看杰德是醉死过去了。</span><span class="english">I think that Jed is permanently dipsy.</span></p>
 
 <p><span class="chinese">获得永久DMOZ的两个网站列出。</span><span class="english">Get both sites permanently listed in DMOZ.</span></p>

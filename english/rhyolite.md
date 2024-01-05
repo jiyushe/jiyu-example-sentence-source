@@ -1,5 +1,7 @@
 # rhyolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhyolite.md)
+
 <p><span class="chinese">黄晶通常产于火成岩岩石纹。</span><span class="english">Topaz occurs in the igneous rock rhyolite.</span></p>
 
 <p><span class="chinese">英文中没有直接相等的。</span><span class="english">The extrusive equivalent of granite is rhyolite.</span></p>

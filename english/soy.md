@@ -1,5 +1,7 @@
 # soy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soy.md)
+
 <p><span class="chinese">我们要酱油和醋吗？</span><span class="english">May I have soy sauce?</span></p>
 
 <p><span class="chinese">而大豆的作用在哪里呢？</span><span class="english">So where does soy fit in?</span></p>

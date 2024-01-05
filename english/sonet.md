@@ -1,5 +1,7 @@
 # sonet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sonet.md)
+
 <p><span class="chinese">此图说明了一个典型的SONET网络。</span><span class="english">This diagram illustrates a typical SONET network.</span></p>
 
 <p><span class="chinese">因此，SONET接口可以报告，只在一个特定监测段B2的错误。</span><span class="english">Therefore, a SONET interface can report B2 errors only for a particular monitored segment.</span></p>

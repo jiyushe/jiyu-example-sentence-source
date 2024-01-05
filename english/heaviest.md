@@ -1,5 +1,7 @@
 # heaviest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heaviest.md)
+
 <p><span class="chinese">每匹马都认为自己驮的袋子最重。</span><span class="english">Every horse thinks his sack heaviest.</span></p>
 
 <p><span class="chinese">最重的残骸部分飞的最远。</span><span class="english">The heaviest parts flew the farthest.</span></p>

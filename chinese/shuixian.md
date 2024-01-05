@@ -1,5 +1,7 @@
 # 水仙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixian.md)
+
 <p><span class="chinese">仙水仙水，治好这疣子。</span><span class="english">Good for? Cure warts with.</span></p>
 
 <p><span class="chinese">少年不再，惟余水仙。</span><span class="english">A jonquil, not a Grecian lad.</span></p>

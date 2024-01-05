@@ -1,5 +1,7 @@
 # reverently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverently.md)
+
 <p><span class="chinese">“先生”这个旅者虔诚的答道.</span><span class="english">"Sir"! The tourist answered reverently.</span></p>
 
 <p><span class="chinese">全家人都虔诚地低下了头，在心里致敬。</span><span class="english">They all reverently bowed their heads and hearts.</span></p>

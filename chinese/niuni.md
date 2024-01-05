@@ -1,5 +1,7 @@
 # 忸怩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuni.md)
+
 <p><span class="chinese">南希虽然浑如参加辩论，但忸怩得不敢启齿。</span><span class="english">While she felt like joining in the argument, Nancy was too shy to open her mouth.</span></p>
 
 <p><span class="chinese">他侧转身子，整理着衣服，坐立不安地忸怩了一阵子才说到下一件事上。</span><span class="english">He sidled around, dressing and fidgeting before he arranged to make his next remark.</span></p>

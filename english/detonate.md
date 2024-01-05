@@ -1,5 +1,7 @@
 # detonate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detonate.md)
+
 <p><span class="chinese">用遥控装置引爆炸弹。</span><span class="english">A remote control device was used to detonate the bomb.</span></p>
 
 <p><span class="chinese">警察在他引爆身上的炸药前开枪将他击毙。</span><span class="english">Police killed him before he could detonate his explosives.</span></p>

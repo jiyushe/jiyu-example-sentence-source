@@ -1,5 +1,7 @@
 # undisturbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undisturbed.md)
+
 <p><span class="chinese">如果没有风将其吹散，这种雾甚至可以持续数天。</span><span class="english">If undisturbed by winds, such fog may persist for days.</span></p>
 
 <p><span class="chinese">围绕在这颗星星周围的是相对未受干扰的星际物质形成的一大团云状物。</span><span class="english">Around it are clouds of relatively undisturbed material.</span></p>

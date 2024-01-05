@@ -1,5 +1,7 @@
 # nestling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nestling.md)
+
 <p><span class="chinese">你会看见雏鸟掉落。</span><span class="english">You will see the nestling fall.</span></p>
 
 <p><span class="chinese">我看到隐映在树林中的乡村别墅。</span><span class="english">I saw a cottage nestling in the woods.</span></p>

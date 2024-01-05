@@ -1,5 +1,7 @@
 # bot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bot.md)
+
 <p><span class="chinese">他们是真人，还是一些机器人呢？</span><span class="english">Are they real or just some bot accounts?</span></p>
 
 <p><span class="chinese">而现在，知识毫无区别地应用在两方面上。</span><span class="english">It is now being used indifferently for bot.</span></p>

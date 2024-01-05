@@ -1,5 +1,7 @@
 # unwieldy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwieldy.md)
+
 <p><span class="chinese">但是这样有点笨拙。</span><span class="english">But that's a little unwieldy.</span></p>
 
 <p><span class="chinese">数据集变得难以处理。</span><span class="english">The data set was getting unwieldy.</span></p>

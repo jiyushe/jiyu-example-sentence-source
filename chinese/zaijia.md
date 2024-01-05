@@ -1,5 +1,7 @@
 # 在家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaijia.md)
+
 <p><span class="chinese">佩蒂在家么？</span><span class="english">Is Patty home?</span></p>
 
 <p><span class="chinese">那就和妈妈在家待着。</span><span class="english">Stay home with Mom.</span></p>

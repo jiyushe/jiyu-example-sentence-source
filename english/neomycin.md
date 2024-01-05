@@ -1,5 +1,7 @@
 # neomycin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neomycin.md)
+
 <p><span class="chinese">对抗生素新霉素有严重过敏反应的。</span><span class="english">Has had a severe allergic reaction to the antibiotic neomycin.</span></p>
 
 <p><span class="chinese">随着这个问题的解决，新霉素一号现在已经正式产生。</span><span class="english">With this problem solved, neomycin 1 is now in regular production.</span></p>

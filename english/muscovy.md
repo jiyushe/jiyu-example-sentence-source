@@ -1,5 +1,7 @@
 # muscovy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muscovy.md)
+
 <p><span class="chinese">俄国曾是一个君主制国家</span><span class="english">Muscovy was a princely state.</span></p>
 
 <p><span class="chinese">俄罗斯作为俄国公国在12世纪建立的。</span><span class="english">Russia was founded in the 12th century as the Principality of Muscovy.</span></p>

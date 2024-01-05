@@ -1,5 +1,7 @@
 # 没完没了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiwanmeiliao.md)
+
 <p><span class="chinese">别没完没了地为钱发牢骚。</span><span class="english">Stop bellyaching about money.</span></p>
 
 <p><span class="chinese">这样没完没了的，何时才有个完？</span><span class="english">What's to be the end of this?</span></p>

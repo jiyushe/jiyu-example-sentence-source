@@ -1,5 +1,7 @@
 # 惶恐不安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangkongbuan.md)
+
 <p><span class="chinese">惶恐不安是通向未来的一个无用向导。</span><span class="english">Fear is a poor guide to the future.</span></p>
 
 <p><span class="chinese">他知道自己时日不多了，而感到惶恐不安。</span><span class="english">He knew the end was coming, and he was unsure.</span></p>

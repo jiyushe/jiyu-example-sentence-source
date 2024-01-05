@@ -1,5 +1,7 @@
 # papule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papule.md)
+
 <p><span class="chinese">黄瘤长在皮肤上的一种桔黄色瘤子或丘疹，其中充满油脂。</span><span class="english">Filled nodule or papule in the skin, often on an eyelid or over a joint.</span></p>
 
 <p><span class="chinese">病人于此肿瘤切除后三年期间并无复发。</span><span class="english">There has been no recurrence three years after total excision of this papule.</span></p>

@@ -1,5 +1,7 @@
 # unafraid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unafraid.md)
+
 <p><span class="chinese">我将不再害怕。</span><span class="english">I will be unafraid.</span></p>
 
 <p><span class="chinese">就是为了今天，我会尽力心强志坚。</span><span class="english">Just fot today I will be unafraid.</span></p>

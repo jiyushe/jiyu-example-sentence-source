@@ -1,5 +1,7 @@
 # raglan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raglan.md)
+
 <p><span class="chinese">拉格伦看着马。</span><span class="english">Raglan looked at the horse.</span></p>
 
 <p><span class="chinese">特别的三钮扣设计。</span><span class="english">Special button-up design in raglan.</span></p>

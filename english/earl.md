@@ -1,5 +1,7 @@
 # earl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earl.md)
+
 <p><span class="chinese">伯爵在公爵之下。</span><span class="english">An earl is beneath a duke.</span></p>
 
 <p><span class="chinese">可马里伯爵留了下来。</span><span class="english">But the Earl of Moray stayed.</span></p>

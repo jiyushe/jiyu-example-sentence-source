@@ -1,5 +1,7 @@
 # congenial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congenial.md)
+
 <p><span class="chinese">我发现你我挺投缘。</span><span class="english">I found you congenial to me.</span></p>
 
 <p><span class="chinese">他是一个和我意气相投的人。</span><span class="english">I found in him a congenial temper.</span></p>

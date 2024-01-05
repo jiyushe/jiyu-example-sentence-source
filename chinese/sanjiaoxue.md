@@ -1,5 +1,7 @@
 # 三角学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjiaoxue.md)
+
 <p><span class="chinese">好吧你来教我三角学？</span><span class="english">Right, you're gonna teach me trig ?</span></p>
 
 <p><span class="chinese">他的三角学分数很低。</span><span class="english">He received a low mark for trigonometry.</span></p>

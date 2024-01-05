@@ -1,5 +1,7 @@
 # 金叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinye.md)
+
 <p><span class="chinese">他身子上原有的金叶到底怎么了？</span><span class="english">And what on earth happened to the golden leaves on his body?</span></p>
 
 <p><span class="chinese">鱼子酱和一卷金叶在边缘闪耀，下面是一层层奶油冻和大闸蟹。</span><span class="english">Caviar and a crinkle of gold leaf shone just inside the rim.</span></p>

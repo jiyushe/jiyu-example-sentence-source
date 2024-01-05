@@ -1,5 +1,7 @@
 # 冲锋枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongfengqiang.md)
+
 <p><span class="chinese">我还有一支冲锋枪。</span><span class="english">I also had a SMG.</span></p>
 
 <p><span class="chinese">一人一挺冲锋枪。</span><span class="english">Each with a tommy-gun.</span></p>

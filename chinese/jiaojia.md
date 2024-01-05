@@ -1,5 +1,7 @@
 # 交加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojia.md)
+
 <p><span class="chinese">他悔恨交加。</span><span class="english">He was racked by remorse.</span></p>
 
 <p><span class="chinese">从雷雨交加的夜晚。</span><span class="english">From the thunder storm night.</span></p>

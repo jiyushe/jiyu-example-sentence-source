@@ -1,5 +1,7 @@
 # 一直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_1.md)
+
 <p><span class="chinese">但是我们一直都祈祷。</span><span class="english">But we do pray.</span></p>
 
 <p><span class="chinese">他们一直开机。</span><span class="english">They kept it on.</span></p>

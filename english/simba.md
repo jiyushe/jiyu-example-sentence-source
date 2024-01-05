@@ -1,5 +1,7 @@
 # simba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simba.md)
+
 <p><span class="chinese">辛巴有一些朋友。</span><span class="english">Simba has friends.</span></p>
 
 <p><span class="chinese">辛巴有个家。</span><span class="english">Simba has a family.</span></p>

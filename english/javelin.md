@@ -1,5 +1,7 @@
 # javelin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/javelin.md)
+
 <p><span class="chinese">掷标枪。</span><span class="english">Throwing the javelin.</span></p>
 
 <p><span class="chinese">那运动员掷标枪。</span><span class="english">The sportsman hurled the javelin.</span></p>

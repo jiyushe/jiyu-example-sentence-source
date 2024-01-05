@@ -1,5 +1,7 @@
 # coalition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coalition.md)
+
 <p><span class="chinese">周六，联军向利比亚发起攻击。</span><span class="english">On Saturday, the coalition attacked.</span></p>
 
 <p><span class="chinese">旧的保守联盟已经破局。</span><span class="english">The old conservatives coalition has frayed.</span></p>

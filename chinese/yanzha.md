@@ -1,5 +1,7 @@
 # 严查
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzha.md)
+
 <p><span class="chinese">中国领导人承诺严查和惩罚囤积居奇和投机倒把分子。</span><span class="english">China's leaders promise to hunt down and punish hoarders and speculators.</span></p>
 
 <p><span class="chinese">中国领导人承诺严查和惩罚囤积居奇和投机倒把分子。</span><span class="english">China’s leaders promise to hunt down and punish hoarders and speculators.</span></p>

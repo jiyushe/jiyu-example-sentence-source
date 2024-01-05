@@ -1,5 +1,7 @@
 # chang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chang.md)
+
 <p><span class="chinese">他，就是李昌。</span><span class="english">He is just Li Chang.</span></p>
 
 <p><span class="chinese">刘畅喜欢数学。</span><span class="english">Liu Chang likes math.</span></p>

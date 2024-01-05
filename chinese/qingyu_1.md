@@ -1,5 +1,7 @@
 # 青玉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyu_1.md)
+
 <p><span class="chinese">它们大概是最好的青玉吧。</span><span class="english">They may be the best green jade.</span></p>
 
 <p><span class="chinese">青玉玉质，雕一行走的胡人。</span><span class="english">Jade carved jade, much of a walk.</span></p>

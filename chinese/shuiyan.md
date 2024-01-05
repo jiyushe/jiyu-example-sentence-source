@@ -1,5 +1,7 @@
 # 水烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiyan.md)
+
 <p><span class="chinese">但事实上，水烟一点都不健康。</span><span class="english">But in fact, hookahs are far from safe.</span></p>
 
 <p><span class="chinese">一些水烟酒吧可以容纳近400人。</span><span class="english">Some can accommodate as many as 400 patrons.</span></p>

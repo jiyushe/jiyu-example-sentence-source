@@ -1,5 +1,7 @@
 # barefaced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barefaced.md)
+
 <p><span class="chinese">就无耻造谣之本事而论，你真算得上天下第一。</span><span class="english">For barefaced lying you are really it.</span></p>
 
 <p><span class="chinese">厚颜无耻的撒谎！最糟的假新闻。</span><span class="english">Barefaced bloody lie! Fake news at its worst.</span></p>

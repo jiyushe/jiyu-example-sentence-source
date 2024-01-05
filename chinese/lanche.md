@@ -1,5 +1,7 @@
 # 缆车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanche.md)
+
 <p><span class="chinese">缆车运作得很快！</span><span class="english">The cableway runs so fast!</span></p>
 
 <p><span class="chinese">然后，我们乘坐了索道缆车。</span><span class="english">Then, we had taking the funicular.</span></p>

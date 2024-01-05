@@ -1,5 +1,7 @@
 # uniformly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uniformly.md)
+
 <p><span class="chinese">他们平均分布</span><span class="english">So they are uniformly distributed.</span></p>
 
 <p><span class="chinese">曾经的绿地现在变成了一片褐色。</span><span class="english">The once-green fields were now uniformly brown.</span></p>

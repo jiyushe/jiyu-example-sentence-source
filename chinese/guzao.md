@@ -1,5 +1,7 @@
 # 鼓噪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzao.md)
+
 <p><span class="chinese">士兵们在台下鼓噪。</span><span class="english">The soldiers are rising in a hubub.</span></p>
 
 <p><span class="chinese">不要被他们的营销鼓噪所迷惑。</span><span class="english">Don't get caught up in their marketing noise.</span></p>

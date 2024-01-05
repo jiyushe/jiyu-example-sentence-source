@@ -1,5 +1,7 @@
 # yuga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yuga.md)
+
 <p><span class="chinese">在卡利年代是一个锅在极端高温和高压。</span><span class="english">Yuga is a pot under extreme heat and pressure.</span></p>
 
 <p><span class="chinese">阿因卓，卡利年代是黑暗的，而且一天比一天更黑暗。</span><span class="english">Aindra, Kali Yuga is dark and becomes darker day by day.</span></p>

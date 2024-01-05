@@ -1,5 +1,7 @@
 # jot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jot.md)
+
 <p><span class="chinese">你能用媖文写文章吗？</span><span class="english">Can you jot in English?</span></p>
 
 <p><span class="chinese">带好纸笔做记录。</span><span class="english">Bring paper and a pencil to jot notes.</span></p>

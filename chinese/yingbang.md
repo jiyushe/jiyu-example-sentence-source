@@ -1,5 +1,7 @@
 # 英镑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingbang.md)
+
 <p><span class="chinese">大约8000英镑。</span><span class="english">I have 8000 pounds.</span></p>
 
 <p><span class="chinese">这顿饭花了本人们30英镑。</span><span class="english">The meal cost us 30.</span></p>

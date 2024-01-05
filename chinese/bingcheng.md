@@ -1,5 +1,7 @@
 # 并称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingcheng.md)
+
 <p><span class="chinese">有时和越南语并称为CJKV。</span><span class="english">Sometimes associated with Vietnamese and called CJKV.</span></p>
 
 <p><span class="chinese">因此蚩尤与炎帝、黄帝可并称为中华文明的三大始祖。</span><span class="english">So we call Chiyou, Huangdi and Yandi our three ancestors.</span></p>

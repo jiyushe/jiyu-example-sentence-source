@@ -1,5 +1,7 @@
 # sown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sown.md)
+
 <p><span class="chinese">这种谷物是条播的。</span><span class="english">The grain was sown in drill.</span></p>
 
 <p><span class="chinese">这种子用撒播法下种。</span><span class="english">The seeds were sown broadcast.</span></p>

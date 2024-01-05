@@ -1,5 +1,7 @@
 # greedy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greedy.md)
+
 <p><span class="chinese">我是否太贪心了？</span><span class="english">Was I being greedy?</span></p>
 
 <p><span class="chinese">他像猪一样贪婪。</span><span class="english">He is greedy like a hog.</span></p>

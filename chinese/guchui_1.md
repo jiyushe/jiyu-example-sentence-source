@@ -1,5 +1,7 @@
 # 鼓槌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guchui_1.md)
+
 <p><span class="chinese">花生或鼓槌？</span><span class="english">Peanut or Drumstick?</span></p>
 
 <p><span class="chinese">先做鼓槌。</span><span class="english">Make the drumsticks first.</span></p>

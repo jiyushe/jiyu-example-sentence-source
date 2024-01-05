@@ -1,5 +1,7 @@
 # byronic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/byronic.md)
+
 <p><span class="chinese">电影，小说，电视中的拜伦式英雄。</span><span class="english">Byronic Hero In Film, Fiction, And Television.</span></p>
 
 <p><span class="chinese">“拜伦式英雄”通过爱情把女性人物桎梏于爱的囚笼中。</span><span class="english">The female characters are constrained by the Byronic Heroes' love.</span></p>

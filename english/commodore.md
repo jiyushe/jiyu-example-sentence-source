@@ -1,5 +1,7 @@
 # commodore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commodore.md)
+
 <p><span class="chinese">他有一个红色的霍顿旅行车。</span><span class="english">He has a red Hol den Commodore station wagon.</span></p>
 
 <p><span class="chinese">恐龙跑跑跑是我理想中的C64游戏。</span><span class="english">Dino Run is what I wish my Commodore 64 games were like.</span></p>

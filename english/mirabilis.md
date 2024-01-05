@@ -1,5 +1,7 @@
 # mirabilis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mirabilis.md)
+
 <p><span class="chinese">尿液培养发现变形杆菌感染。</span><span class="english">Urine culture showed Proteus mirabilis infection.</span></p>
 
 <p><span class="chinese">傍晚开花的紫茉莉属植物。</span><span class="english">Mirabilis having flowers that open in late afternoon.</span></p>

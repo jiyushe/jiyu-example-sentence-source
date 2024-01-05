@@ -1,5 +1,7 @@
 # 手法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoufa_2.md)
+
 <p><span class="chinese">学习新的写作技巧和手法</span><span class="english">Learn new techniques and approaches.</span></p>
 
 <p><span class="chinese">这种手法叫感情误置。</span><span class="english">This is called the pathetic fallacy.</span></p>

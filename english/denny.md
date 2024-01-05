@@ -1,5 +1,7 @@
 # denny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denny.md)
+
 <p><span class="chinese">仲裁者是初任法官陈卓光。</span><span class="english">The arbiter is a junior judge, Denny Chin.</span></p>
 
 <p><span class="chinese">仲裁者是初任法官陈卓光。</span><span class="english">The  arbiter is a junior judge, Denny Chin.</span></p>

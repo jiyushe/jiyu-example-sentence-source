@@ -1,5 +1,7 @@
 # 皇家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangjia.md)
+
 <p><span class="chinese">皇家礼炮还是12年陈酿？</span><span class="english">Royal Salute or 12 years?</span></p>
 
 <p><span class="chinese">皇家赛马会是一个赛马比赛。</span><span class="english">Royal Ascot is a horse race.</span></p>

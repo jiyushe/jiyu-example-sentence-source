@@ -1,5 +1,7 @@
 # undeliverable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undeliverable.md)
+
 <p><span class="chinese">确认为无法投递的邮件。</span><span class="english">E-Mail was recognized as undeliverable.</span></p>
 
 <p><span class="chinese">因邮局无法递送，缺席或邮寄选票被退回。</span><span class="english">The return of an ongoing absentee ballot as undeliverable.</span></p>

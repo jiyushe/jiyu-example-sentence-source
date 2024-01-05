@@ -1,5 +1,7 @@
 # 凡士林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanshilin.md)
+
 <p><span class="chinese">我要一些凡士林。</span><span class="english">I'd like some Vaseline.</span></p>
 
 <p><span class="chinese">不用，谢谢。我要一些凡士林。</span><span class="english">No, thank you. I'd like some Vaseline.</span></p>

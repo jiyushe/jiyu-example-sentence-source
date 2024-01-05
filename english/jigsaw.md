@@ -1,5 +1,7 @@
 # jigsaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jigsaw.md)
+
 <p><span class="chinese">将每本书当作是一个七巧板。</span><span class="english">Treat a book like a jigsaw puzzle.</span></p>
 
 <p><span class="chinese">孩子们在拼英语拼板。</span><span class="english">The kids are playing bilingual jigsaw puzzle.</span></p>

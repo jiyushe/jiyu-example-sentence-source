@@ -1,5 +1,7 @@
 # arles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arles.md)
+
 <p><span class="chinese">在阿尔勒有大量的罗马古建筑遗址。</span><span class="english">There are extensive Roman remains of ancient buildings at Arles.</span></p>
 
 <p><span class="chinese">对于梵高来说，南法的亚尔不只是目的地，也是个理念。</span><span class="english">Arles in the South of France was not just a destination but an idea.</span></p>

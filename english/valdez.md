@@ -1,5 +1,7 @@
 # valdez
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valdez.md)
+
 <p><span class="chinese">胡安巴尔德斯用你的名字命名他的骡子.</span><span class="english">Juan Valdez names his mule after you.</span></p>
 
 <p><span class="chinese">巴尔德斯被卷入到这起冲突当中。</span><span class="english">Mr. Valdez was sucked up into the conflict.</span></p>

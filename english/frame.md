@@ -1,5 +1,7 @@
 # frame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frame.md)
+
 <p><span class="chinese">别诓我！</span><span class="english">Don't frame me!</span></p>
 
 <p><span class="chinese">载入一个暗场图片。</span><span class="english">Loads a dark frame.</span></p>

@@ -1,5 +1,7 @@
 # 比照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhao.md)
+
 <p><span class="chinese">在划分户等时，“输籍样”是比照和折算的“基样”。</span><span class="english">"Shuji-Yang" was the sample basis for contrast and conversion.</span></p>
 
 <p><span class="chinese">作个比照，上赛季西超的平均观众人数</span><span class="english">For comparison, the average La Liga attendances last season were</span></p>

@@ -1,5 +1,7 @@
 # nosocomial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nosocomial.md)
+
 <p><span class="chinese">医院感染预防与控制工作手册。</span><span class="english">A manual of nosocomial infection prevention and control.</span></p>
 
 <p><span class="chinese">目的有效控制产科病区医院感染的发生。</span><span class="english">Objective To control nosocomial infection in maternal wards.</span></p>

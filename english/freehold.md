@@ -1,5 +1,7 @@
 # freehold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freehold.md)
+
 <p><span class="chinese">他们购得了一处可终身拥有的房子。</span><span class="english">They bought the freehold of their house.</span></p>
 
 <p><span class="chinese">在公园旁边买一大块地。</span><span class="english">Buy a freehold block bordering a National Park.</span></p>

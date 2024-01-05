@@ -1,5 +1,7 @@
 # 地温
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diwen_1.md)
+
 <p><span class="chinese">建立并规律性地温故自己的财政目标。</span><span class="english">Create and regularly review financial goals.</span></p>
 
 <p><span class="chinese">论述了济阳坳陷地温场的基本特征。</span><span class="english">The fundamental features of the geothermal field are discussed.</span></p>

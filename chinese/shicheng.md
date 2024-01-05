@@ -1,5 +1,7 @@
 # 师承
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shicheng.md)
+
 <p><span class="chinese">这位男高音歌手师承一位歌唱家。</span><span class="english">The tenor was a pupil of a singer.</span></p>
 
 <p><span class="chinese">他的师承极为神秘，江湖上知晓的人极少。</span><span class="english">His Shi Chengji is mystery, the witting person on all corners of the country is few.</span></p>

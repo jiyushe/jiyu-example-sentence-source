@@ -1,5 +1,7 @@
 # 子集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziji.md)
+
 <p><span class="chinese">它拥有一个子集</span><span class="english">There's a subset.</span></p>
 
 <p><span class="chinese">多数企业只运行子集。</span><span class="english">Most companies only run subsets.</span></p>

@@ -1,5 +1,7 @@
 # harvester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harvester.md)
+
 <p><span class="chinese">这个装置的其中一部分是能量收集器。</span><span class="english">One part of this device is an energy harvester.</span></p>
 
 <p><span class="chinese">企业新闻二，本厂收割机再次销售到哈尔滨。</span><span class="english">News Second, re-sold to harvester factory in Harbin.</span></p>

@@ -1,5 +1,7 @@
 # vehemence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vehemence.md)
+
 <p><span class="chinese">而阳光在地板上照出的他的身影，还在由于刚才激昂的呼吁而颤抖。</span><span class="english">CAST upon the floor, was tremulous with the vehemence of his appeal.</span></p>
 
 <p><span class="chinese">让我这颗熟睡的心恢复了激烈的跳动！</span><span class="english">Let I this heart that sleep soundly recovered the vehemence of flutter!</span></p>

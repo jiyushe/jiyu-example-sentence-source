@@ -1,5 +1,7 @@
 # 浓重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongzhong.md)
+
 <p><span class="chinese">雾越发浓重了。</span><span class="english">The fog became thicker still.</span></p>
 
 <p><span class="chinese">它有很浓重的前进意识。</span><span class="english">It has a great sense of pacing.</span></p>

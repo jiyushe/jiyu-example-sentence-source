@@ -1,5 +1,7 @@
 # confidant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confidant.md)
+
 <p><span class="chinese">他便是，你的蓝颜知己。</span><span class="english">He is, your male confidant.</span></p>
 
 <p><span class="chinese">知己这两个字就是为你而取的。</span><span class="english">Confidant is just for you living.</span></p>

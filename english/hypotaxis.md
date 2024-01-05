@@ -1,5 +1,7 @@
 # hypotaxis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypotaxis.md)
+
 <p><span class="chinese">第三章讨论形合和意合在英汉和汉英翻译中的应用。</span><span class="english">The relativity of hypotaxis and parataxis is also discussed in this chapter.</span></p>
 
 <p><span class="chinese">英汉互译时，要进行形合与意合的转换。</span><span class="english">So, translation should undergo transformation between hypotaxis and parataxis.</span></p>

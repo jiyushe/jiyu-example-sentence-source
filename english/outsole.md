@@ -1,5 +1,7 @@
 # outsole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outsole.md)
+
 <p><span class="chinese">合成革外底。</span><span class="english">Synthetic leather outsole.</span></p>
 
 <p><span class="chinese">无痕橡胶外底。</span><span class="english">Non-marking rubber outsole.</span></p>

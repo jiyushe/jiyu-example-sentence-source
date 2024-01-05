@@ -1,5 +1,7 @@
 # spirt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spirt.md)
+
 <p><span class="chinese">队喷出和热情是一个必须的要求。</span><span class="english">Team spirt and enthusiasm is a must requirement.</span></p>
 
 <p><span class="chinese">本着这种精神，我们在支付条款上达成协议。</span><span class="english">We've reached an agreement on payment in this spirt.</span></p>

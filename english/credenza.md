@@ -1,5 +1,7 @@
 # credenza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/credenza.md)
+
 <p><span class="chinese">带有两个橱柜的书柜。</span><span class="english">Credenza with 2 cabinets.</span></p>
 
 <p><span class="chinese">一张钢丝屏风悬挂在办公室的书柜之上。</span><span class="english">A steel wire screen above the office's credenza.</span></p>

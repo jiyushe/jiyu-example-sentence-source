@@ -1,5 +1,7 @@
 # 全力以赴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanliyifu.md)
+
 <p><span class="chinese">让我们全力以赴。</span><span class="english">Let's go for it.</span></p>
 
 <p><span class="chinese">我全力以赴追求我的目标。</span><span class="english">I went all out to pursue my goals.</span></p>

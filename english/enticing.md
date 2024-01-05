@@ -1,5 +1,7 @@
 # enticing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enticing.md)
+
 <p><span class="chinese">从面包房里飘出了诱人的香味。</span><span class="english">An enticing smell came from the bakery.</span></p>
 
 <p><span class="chinese">金秋十月，诱人的美食在等着你！</span><span class="english">In October, enticing food waiting for you!</span></p>

@@ -1,5 +1,7 @@
 # amylose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amylose.md)
+
 <p><span class="chinese">少数组合还存在直链淀粉含量偏低的问题。</span><span class="english">The low amylose content in some combinations was also a big problem.</span></p>
 
 <p><span class="chinese">高直链淀粉含量对于低直链淀粉含量表现为部分显性或显性。</span><span class="english">The high amylose content was dominant or partial dominant to low ones.</span></p>

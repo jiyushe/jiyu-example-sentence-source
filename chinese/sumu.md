@@ -1,5 +1,7 @@
 # 苏木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sumu.md)
+
 <p><span class="chinese">买苏木江·阿斯木说。</span><span class="english">Sum to buy the Aspen wood Jiang said.</span></p>
 
 <p><span class="chinese">苏木是中药吗？</span><span class="english">Is brazilwood Chinese traditional medicine?</span></p>

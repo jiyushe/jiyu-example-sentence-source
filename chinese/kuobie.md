@@ -1,5 +1,7 @@
 # 阔别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuobie.md)
+
 <p><span class="chinese">亚麻远离火苗，青年阔别赌博。</span><span class="english">Keep flax from fire, youth from gaming.</span></p>
 
 <p><span class="chinese">家，阔别了七年的家，这个字对他多亲切呀！</span><span class="english">Home. The word had meant so much to him.</span></p>

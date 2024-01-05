@@ -1,5 +1,7 @@
 # 同病相怜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongbingxianglian.md)
+
 <p><span class="chinese">也愿所有我们痛失的、与你同病相怜的灵魂安息。</span><span class="english">And all those souls we have lost before you.</span></p>
 
 <p><span class="chinese">而与曼联同病相怜的，西甲的巴塞罗那境况又如何呢？</span><span class="english">And what about Manchester United’s La Liga double Barcelona?</span></p>

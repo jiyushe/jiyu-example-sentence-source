@@ -1,5 +1,7 @@
 # commodious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commodious.md)
+
 <p><span class="chinese">大厅和楼梯过道都很宽敞。</span><span class="english">The halls and stairways are commodious.</span></p>
 
 <p><span class="chinese">这是一种自由自在，令人赏心悦目的生活。</span><span class="english">It was a commodious and a diverting life.</span></p>

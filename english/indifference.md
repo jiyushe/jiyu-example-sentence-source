@@ -1,5 +1,7 @@
 # indifference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indifference.md)
+
 <p><span class="chinese">谣言止于漠不关心者。</span><span class="english">Rumor stops at indifference.</span></p>
 
 <p><span class="chinese">他在冷漠中成为了沙皇。</span><span class="english">He is a tsar in indifference.</span></p>

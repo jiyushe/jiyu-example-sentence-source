@@ -1,5 +1,7 @@
 # rumour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rumour.md)
+
 <p><span class="chinese">谣言是一匹不可靠的驽马。</span><span class="english">Rumour is a lying jade.</span></p>
 
 <p><span class="chinese">他对那谣言付之一笑。</span><span class="english">He laughed at the rumour.</span></p>

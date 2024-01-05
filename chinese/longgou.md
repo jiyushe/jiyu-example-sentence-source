@@ -1,5 +1,7 @@
 # 垄沟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longgou.md)
+
 <p><span class="chinese">我也注意到大多数梅子核上都有隆起的狭长垄沟。</span><span class="english">I also noticed that most of them had ridges.</span></p>
 
 <p><span class="chinese">而单用大垄沟种植对玉米的生长无明显的增进作用。</span><span class="english">While, the effect of BR on maize growth was not marked.</span></p>

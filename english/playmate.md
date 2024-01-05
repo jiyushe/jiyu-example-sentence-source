@@ -1,5 +1,7 @@
 # playmate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playmate.md)
+
 <p><span class="chinese">他是我童年时的玩伴。</span><span class="english">He was my playmate in childhood.</span></p>
 
 <p><span class="chinese">布鲁托是我们最喜欢的宠物和玩伴。</span><span class="english">Pluto was our favorite pet and playmate.</span></p>

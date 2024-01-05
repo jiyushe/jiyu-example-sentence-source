@@ -1,5 +1,7 @@
 # acetaminophen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetaminophen.md)
+
 <p><span class="chinese">难道给他们一些退热净不更简单么？</span><span class="english">Wouldn't it be easier just to give them acetaminophen?</span></p>
 
 <p><span class="chinese">但专家认为，对乙酰氨基酚的镇痛效果不强。</span><span class="english">But acetaminophen is a fairly weak analgesic, experts say.</span></p>

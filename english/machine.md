@@ -1,5 +1,7 @@
 # machine 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/machine.md)
+
 <p><span class="chinese">做一台“永动机”。</span><span class="english">Be a machine.</span></p>
 
 <p><span class="chinese">卡片机？</span><span class="english">Card machine?</span></p>

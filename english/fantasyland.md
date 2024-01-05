@@ -1,5 +1,7 @@
 # fantasyland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fantasyland.md)
+
 <p><span class="chinese">先去梦想花园吧。</span><span class="english">We're going to Fantasyland first.</span></p>
 
 <p><span class="chinese">而公园的一处地方真的就叫做梦幻乐园。</span><span class="english">Indeed, one place in the park is called Fantasyland.</span></p>

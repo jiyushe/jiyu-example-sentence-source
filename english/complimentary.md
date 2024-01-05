@@ -1,5 +1,7 @@
 # complimentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complimentary.md)
+
 <p><span class="chinese">这个小礼品盒是免费赠送。</span><span class="english">The small gift box is complimentary.</span></p>
 
 <p><span class="chinese">电影院很少发放赠票。</span><span class="english">They rarely give complimentary tickets.</span></p>

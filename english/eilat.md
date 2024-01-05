@@ -1,5 +1,7 @@
 # eilat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eilat.md)
+
 <p><span class="chinese">实际上，埃拉特·玛扎尔就是这种对抗的始作俑者。</span><span class="english">Eilat Mazar is one of the reasons why.</span></p>
 
 <p><span class="chinese">“碳-14技术无法帮助你解决所有的争论，”埃拉特·玛扎尔说。</span><span class="english">"Carbon-14 doesn't help you solve all this controversy, " says Eilat Mazar.</span></p>

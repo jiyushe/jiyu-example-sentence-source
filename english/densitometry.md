@@ -1,5 +1,7 @@
 # densitometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/densitometry.md)
+
 <p><span class="chinese">使用密度计去推算粒孚的最大直径。</span><span class="english">Densitometry was used to calculate peak particle diameters.</span></p>
 
 <p><span class="chinese">通常情况下，密度测定要在6个月之后进行再次测定，但在某些情况下，至少一年以后再进行测定可能更为合适。</span><span class="english">Although 6 months should normally elapse before densitometry testing is repeated, it might be appropriate in some cases to wait at least 1 year.</span></p>

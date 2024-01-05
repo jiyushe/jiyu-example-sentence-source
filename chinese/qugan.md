@@ -1,5 +1,7 @@
 # 躯干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qugan.md)
+
 <p><span class="chinese">躯干保持向上。</span><span class="english">Keep your torso upright.</span></p>
 
 <p><span class="chinese">因为还是同样的躯干。</span><span class="english">cause it's the same torsel.</span></p>

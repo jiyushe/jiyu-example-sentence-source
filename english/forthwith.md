@@ -1,5 +1,7 @@
 # forthwith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forthwith.md)
+
 <p><span class="chinese">三路军马，各自起兵。</span><span class="english">The three routes forthwith set off.</span></p>
 
 <p><span class="chinese">他的癞病立刻就洁净了。</span><span class="english">And forthwith his leprosy was cleansed.</span></p>

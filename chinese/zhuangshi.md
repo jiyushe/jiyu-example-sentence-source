@@ -1,5 +1,7 @@
 # 壮实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangshi.md)
+
 <p><span class="chinese">他看上去不那么壮实。</span><span class="english">He did not look very sturdy.</span></p>
 
 <p><span class="chinese">很壮实，先生，很健康。</span><span class="english">Quite thriving, Sir, and well.</span></p>

@@ -1,5 +1,7 @@
 # 红润
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongrun.md)
+
 <p><span class="chinese">你脸色红润。</span><span class="english">You have a high colour.</span></p>
 
 <p><span class="chinese">她脸颊红润。</span><span class="english">She has a roseate cheek.</span></p>

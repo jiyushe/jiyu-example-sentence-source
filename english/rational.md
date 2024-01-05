@@ -1,5 +1,7 @@
 # rational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rational.md)
+
 <p><span class="chinese">有理性。</span><span class="english">Righty is rational.</span></p>
 
 <p><span class="chinese">这么做不合理</span><span class="english">It's not a rational thing to do.</span></p>

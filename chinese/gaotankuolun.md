@@ -1,5 +1,7 @@
 # 高谈阔论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaotankuolun.md)
+
 <p><span class="chinese">这位政客的演说满是高谈阔论。</span><span class="english">The politician's speech was full of high-sounding words.</span></p>
 
 <p><span class="chinese">为什么我们不能跟一群人讲话,却可以单独同朋友高谈阔论？</span><span class="english">Why are we unable to talk to a crowd as we talk to a single friend?</span></p>

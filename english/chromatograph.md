@@ -1,5 +1,7 @@
 # chromatograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromatograph.md)
+
 <p><span class="chinese">程序控制器是色谱仪的关键部件。</span><span class="english">The programmer forms the heart of the process chromatograph.</span></p>
 
 <p><span class="chinese">全烃和组分是由色谱仪分析的吗？</span><span class="english">Are the total hydrocarbon and its components analyzed by chromatograph?</span></p>

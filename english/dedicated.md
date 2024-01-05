@@ -1,5 +1,7 @@
 # dedicated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dedicated.md)
+
 <p><span class="chinese">这本书就是献给老师的。</span><span class="english">The book is dedicated to him.</span></p>
 
 <p><span class="chinese">这座小教堂于1880年举行献堂礼。</span><span class="english">The chapel was dedicated in 1880.</span></p>

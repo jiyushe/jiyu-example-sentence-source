@@ -1,5 +1,7 @@
 # 残月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canyue.md)
+
 <p><span class="chinese">一半是朝阳，一半是残月。</span><span class="english">Half is chaoyang, is waning moon.</span></p>
 
 <p><span class="chinese">残月，你有没有事啊？</span><span class="english">Is waning moon, do you have a stuff?</span></p>

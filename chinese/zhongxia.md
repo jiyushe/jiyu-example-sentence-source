@@ -1,5 +1,7 @@
 # 中下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxia.md)
+
 <p><span class="chinese">他在赛马赌博中下大赌注。</span><span class="english">He gambled heavily on the horses.</span></p>
 
 <p><span class="chinese">全书有上中下三篇共12个部分。</span><span class="english">The book has 3 parts and 12 chapters.</span></p>

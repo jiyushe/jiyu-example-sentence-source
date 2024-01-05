@@ -1,5 +1,7 @@
 # 八角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bajiao.md)
+
 <p><span class="chinese">我们做他的八角帽。</span><span class="english">We made his octagonal hat.</span></p>
 
 <p><span class="chinese">来吧，让我们找一个八角形出来。</span><span class="english">Come on, let's go find an octagon.</span></p>

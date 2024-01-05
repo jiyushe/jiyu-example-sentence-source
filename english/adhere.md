@@ -1,5 +1,7 @@
 # adhere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adhere.md)
+
 <p><span class="chinese">我们遵守契约。</span><span class="english">We adhere to the contract.</span></p>
 
 <p><span class="chinese">复制者坚持这一观点…</span><span class="english">Copyists adhere to this notion.</span></p>

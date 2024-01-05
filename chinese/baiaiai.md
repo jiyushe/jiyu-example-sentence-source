@@ -1,5 +1,7 @@
 # 白皑皑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiaiai.md)
+
 <p><span class="chinese">在冬天，整个大地都覆盖着白皑皑地雪。</span><span class="english">In winter, white snow covers the whole earth.</span></p>
 
 <p><span class="chinese">壁仞千山，铁黑的岩体，白皑皑的雪。</span><span class="english">Wall Maninsan mountain, black rock, the white snow.</span></p>

@@ -1,5 +1,7 @@
 # arithmetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arithmetic.md)
+
 <p><span class="chinese">它能做算术。</span><span class="english">It does arithmetic.</span></p>
 
 <p><span class="chinese">他算术没有及格。</span><span class="english">He failed in arithmetic.</span></p>

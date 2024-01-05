@@ -1,5 +1,7 @@
 # 陈旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenjiu.md)
+
 <p><span class="chinese">这儿的一切都很陈旧，</span><span class="english">You see, everything's old here,</span></p>
 
 <p><span class="chinese">五是陈旧型新闻事实。</span><span class="english">The fifth is Old-type News Facts.</span></p>

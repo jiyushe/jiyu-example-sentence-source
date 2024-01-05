@@ -1,5 +1,7 @@
 # persepolis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persepolis.md)
+
 <p><span class="chinese">其实，主要是波斯波利斯工作的国王。</span><span class="english">Actually, Persepolis is mostly the work of this king.</span></p>
 
 <p><span class="chinese">在波斯波利斯，难以置信的，浮雕是用石头雕刻而成的。</span><span class="english">Incredible reliefs are carved into the rocks at Persepolis.</span></p>

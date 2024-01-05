@@ -1,5 +1,7 @@
 # 方根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanggen.md)
+
 <p><span class="chinese">该名字是园方根据公众投票，从6300多个命名建议中选取的。</span><span class="english">The name was selected from over 6300 recommendations by the public.</span></p>
 
 <p><span class="chinese">我相信大多数人都能算出一个200位数的13次方根，只是我的速度稍快一些。</span><span class="english">Personally, I believe most people can do it but I have also a high-speed mind.</span></p>

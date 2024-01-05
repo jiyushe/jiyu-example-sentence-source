@@ -1,5 +1,7 @@
 # heartland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartland.md)
+
 <p><span class="chinese">芝加哥是美国中心地带的一座全球化城市。</span><span class="english">Chicago is a global city in the heartland of America.</span></p>
 
 <p><span class="chinese">蒙古国的心脏地带是相对平稳的干草原。</span><span class="english">The Mongolian heartland consists of relatively flat steppes.</span></p>

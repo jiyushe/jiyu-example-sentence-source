@@ -1,5 +1,7 @@
 # arteriogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arteriogram.md)
+
 <p><span class="chinese">下消化道出血则可行肠系膜上动脉造影。</span><span class="english">The superior mesenteric arteriogram is a better method for diagnosing bleeding of low digestive tract.</span></p>
 
 <p><span class="chinese">动脉造影是一种动脉的“路线图”，主要用于对四肢动脉阻塞部位进行精确定位。</span><span class="english">An arteriogram is a "road map" of the arteries used to pinpoint the exact location of the blockage in a limb.</span></p>

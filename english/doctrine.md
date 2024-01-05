@@ -1,5 +1,7 @@
 # doctrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doctrine.md)
+
 <p><span class="chinese">布什主义能走多远？</span><span class="english">Can the Bush doctrine last?</span></p>
 
 <p><span class="chinese">他们否认他的学说的权威性。</span><span class="english">They disowned his doctrine.</span></p>

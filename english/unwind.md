@@ -1,5 +1,7 @@
 # unwind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwind.md)
+
 <p><span class="chinese">一个去除你疯狂头脑的地方。</span><span class="english">A place to unwind your crazy-making mind.</span></p>
 
 <p><span class="chinese">太阳下山后我到喜欢的酒馆去消遣。</span><span class="english">I unwind at my favourite pub after sunset.</span></p>

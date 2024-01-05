@@ -1,5 +1,7 @@
 # fluctuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluctuate.md)
+
 <p><span class="chinese">她的周工资在150至200英镑之间浮动。</span><span class="english">Her wages fluctuate between ￡150 and ￡200 a week.</span></p>
 
 <p><span class="chinese">蔬菜和水果的价格随时令而波动。</span><span class="english">The prices of vegetables and fruits fluctuate with the seasons.</span></p>

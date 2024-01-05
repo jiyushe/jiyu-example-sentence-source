@@ -1,5 +1,7 @@
 # disgorge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disgorge.md)
+
 <p><span class="chinese">现在他要把嘴里的钩吐出来。</span><span class="english">But he would disgorge the bait now.</span></p>
 
 <p><span class="chinese">他们劝他吐出不见的文件。</span><span class="english">They persuaded him to disgorge the missing documents.</span></p>

@@ -1,5 +1,7 @@
 # 脸孔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liankong.md)
+
 <p><span class="chinese">强风与酷寒使他的脸孔皱缩了。</span><span class="english">Hard wind and wizen his face.</span></p>
 
 <p><span class="chinese">没有柔声细语，没有可爱脸孔</span><span class="english">Nor gentle voice, nor loving face</span></p>

@@ -1,5 +1,7 @@
 # andesite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andesite.md)
+
 <p><span class="chinese">河南汝阳梅花玉是一种杏仁状安山岩。</span><span class="english">The "plum" jade is a kind of andesite with anamygdaloidal structure.</span></p>
 
 <p><span class="chinese">其中，火山岩由玄武岩、玄武安山岩和安山岩构成。</span><span class="english">Of these, volcanic rocks consist of basalt, basaltic andesite and andesite.</span></p>

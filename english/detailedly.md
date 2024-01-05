@@ -1,5 +1,7 @@
 # detailedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detailedly.md)
+
 <p><span class="chinese">其结构和工作原理本文在第五章作了详细的说明。</span><span class="english">The structure and function is discussed detailedly in chapter five.</span></p>
 
 <p><span class="chinese">在本文的主体部分中，具体介绍了自动重合器控制器的硬件设计。</span><span class="english">Secondly, the hardware design of the recloser controller is introduced detailedly.</span></p>

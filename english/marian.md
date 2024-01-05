@@ -1,5 +1,7 @@
 # marian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marian.md)
+
 <p><span class="chinese">玛丽恩一定非常为你骄傲。</span><span class="english">Marian must be very proud of you.</span></p>
 
 <p><span class="chinese">现在你可以走了，然后把玛丽恩带进来。</span><span class="english">You may go now and bring Marian in.</span></p>

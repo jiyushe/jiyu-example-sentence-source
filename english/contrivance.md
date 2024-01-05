@@ -1,5 +1,7 @@
 # contrivance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrivance.md)
+
 <p><span class="chinese">科学家发明了一种新挤奶器。</span><span class="english">The scientist invented a new contrivance for milking cows.</span></p>
 
 <p><span class="chinese">这种机器是一般人发明不出来的。</span><span class="english">Such a machine is beyond the contrivance of ordinary people.</span></p>

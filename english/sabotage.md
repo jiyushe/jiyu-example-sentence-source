@@ -1,5 +1,7 @@
 # sabotage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sabotage.md)
+
 <p><span class="chinese">这是所谓的友好怠工。</span><span class="english">This is so-called friendly sabotage.</span></p>
 
 <p><span class="chinese">时间旅行者暗中破坏实验？</span><span class="english">Did Time Tripper Sabotage Experiment?</span></p>

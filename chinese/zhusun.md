@@ -1,5 +1,7 @@
 # 竹笋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhusun.md)
+
 <p><span class="chinese">竹笋，炖鸡肾。</span><span class="english">Bamboo sprouts, stewed chicken kidneys.</span></p>
 
 <p><span class="chinese">萨利姆拿出他的枪和竹笋贾韦德。</span><span class="english">Salim pulls out his gun and shoots Javed.</span></p>

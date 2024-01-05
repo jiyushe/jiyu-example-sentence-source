@@ -1,5 +1,7 @@
 # 土特产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tutechan.md)
+
 <p><span class="chinese">核桃是当地的土特产。</span><span class="english">Walnut is a local specialty here.</span></p>
 
 <p><span class="chinese">这是我从中国带来的土特产。</span><span class="english">Here is a local speciality from China.</span></p>

@@ -1,5 +1,7 @@
 # chorale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chorale.md)
+
 <p><span class="chinese">海顿主题变奏曲，“圣·安东尼圣咏”</span><span class="english">Variations on a Theme by Haydn, "St Antoni Chorale""</span></p>
 
 <p><span class="chinese">科罗拉多童声合唱团是世界最著名的三大合唱团之一。</span><span class="english">Colorado Children's Chorale is one of the three best children's chorales.</span></p>

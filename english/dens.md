@@ -1,5 +1,7 @@
 # dens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dens.md)
+
 <p><span class="chinese">环斑海豹通常在洞穴的底部生育。</span><span class="english">Ringed seal pups are reared in snow dens.</span></p>
 
 <p><span class="chinese">我仍然听见了他们甚而在亚洲穴和德国天沟。</span><span class="english">I still heard them even in Asian dens and German gutters.</span></p>

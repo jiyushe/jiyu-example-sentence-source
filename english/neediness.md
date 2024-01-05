@@ -1,5 +1,7 @@
 # neediness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neediness.md)
+
 <p><span class="chinese">但是需求只是需求，就是这么简单。</span><span class="english">But neediness is simply that – neediness.</span></p>
 
 <p><span class="chinese">不贫穷是很难的，除非穷困。</span><span class="english">Not poverty is the hardship, but neediness.</span></p>

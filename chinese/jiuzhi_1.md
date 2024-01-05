@@ -1,5 +1,7 @@
 # 旧制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzhi_1.md)
+
 <p><span class="chinese">学校将不会通过恢复旧制来提高教育质量。</span><span class="english">The schools will not improve education by regressing to the old system.</span></p>
 
 <p><span class="chinese">新制程取代旧制程的速率主要是取决于新制程产品良率的好坏。</span><span class="english">The rate of ramp-up is influenced by yield learning of new production process.</span></p>

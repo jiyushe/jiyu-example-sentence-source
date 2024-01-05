@@ -1,5 +1,7 @@
 # hotly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotly.md)
+
 <p><span class="chinese">威利吓了一跳,脸腾地一下变得通红。</span><span class="english">Willie jumped and flushed hotly.</span></p>
 
 <p><span class="chinese">布丁和爱情都要趁热享用。</span><span class="english">Puddings and paramours would be hotly handled.</span></p>

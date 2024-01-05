@@ -1,5 +1,7 @@
 # 落座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luozuo.md)
+
 <p><span class="chinese">在他人落座之前就开始就餐是很不礼貌的。</span><span class="english">It is impolite to begin a meal until everyone is seated.</span></p>
 
 <p><span class="chinese">在美丽的午后，善男信女落座于各自的位置。</span><span class="english">Everyonetakes his or her seat and settles in for a lovely afternoon.</span></p>

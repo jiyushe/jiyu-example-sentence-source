@@ -1,5 +1,7 @@
 # persistence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persistence.md)
+
 <p><span class="chinese">什么是持久性？</span><span class="english">What is persistence?</span></p>
 
 <p><span class="chinese">我在坚持不懈方面做得怎样？</span><span class="english">How would I rate on persistence?</span></p>

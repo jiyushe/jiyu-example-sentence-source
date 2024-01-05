@@ -1,5 +1,7 @@
 # tux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tux.md)
+
 <p><span class="chinese">他身穿黑色礼服，看上去帅气十足，风度翩翩。</span><span class="english">He looked so handsome in his tux.</span></p>
 
 <p><span class="chinese">跟小企鹅来一场记忆比赛。</span><span class="english">Have a memory competition with Tux.</span></p>

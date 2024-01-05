@@ -1,5 +1,7 @@
 # 说到做到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuodaozuodao.md)
+
 <p><span class="chinese">我说到做到，你们不要惹我。</span><span class="english">I'm not one to mess with.</span></p>
 
 <p><span class="chinese">说到做到。言而必行。</span><span class="english">No sooner said than done.</span></p>

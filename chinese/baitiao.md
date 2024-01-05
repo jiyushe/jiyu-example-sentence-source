@@ -1,5 +1,7 @@
 # 白条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baitiao.md)
+
 <p><span class="chinese">沱江盛产河蟹、对虾、白条鱼。</span><span class="english">Tuojiang rich crab, shrimp, white fish.</span></p>
 
 <p><span class="chinese">将白条条的猪挂在李子树上。</span><span class="english">The white strip pig hanging in the Li subtree.</span></p>

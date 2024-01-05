@@ -1,5 +1,7 @@
 # borrower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borrower.md)
+
 <p><span class="chinese">第二，不要做负债者。</span><span class="english">Second, don't be a borrower.</span></p>
 
 <p><span class="chinese">保单质押贷款的借款人应为投保人。</span><span class="english">The borrower should be the policy-holder.</span></p>

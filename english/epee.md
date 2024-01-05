@@ -1,5 +1,7 @@
 # epee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epee.md)
+
 <p><span class="chinese">重剑教他的这些话聋哑学生。</span><span class="english">Epee taught these words to his deaf students.</span></p>
 
 <p><span class="chinese">重剑开发了大量的手语词汇。</span><span class="english">Epee developed a large number of vocabulary words for sign language.</span></p>

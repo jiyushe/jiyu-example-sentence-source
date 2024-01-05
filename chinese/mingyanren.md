@@ -1,5 +1,7 @@
 # 明眼人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyanren.md)
+
 <p><span class="chinese">明眼人都在看你们的笑话。</span><span class="english">The quality and intelligence, discerning look at all your jokes.</span></p>
 
 <p><span class="chinese">明眼人可从中记取宝贵的教训。</span><span class="english">A valuable lesson may be gleaned from it by those who have eyes to see.</span></p>

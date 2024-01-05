@@ -1,5 +1,7 @@
 # equivalence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equivalence.md)
+
 <p><span class="chinese">一个数据池必须包含一个等价类。</span><span class="english">A datapool must contain one equivalence class.</span></p>
 
 <p><span class="chinese">⑶命题逻辑等值演算。</span><span class="english">Figure of equivalence of ⑶ propositional logic.</span></p>

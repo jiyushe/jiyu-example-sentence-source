@@ -1,5 +1,7 @@
 # 邮船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youchuan_1.md)
+
 <p><span class="chinese">迪安出生于1912年2月12日，是邮船上年纪最小的乘客。</span><span class="english">Born on February 12, 1912, Dean was the youngest passenger on board.</span></p>
 
 <p><span class="chinese">以日本邮船会社为靠山的运输公司谴责运价下跌，收益下滑。</span><span class="english">NYK-backed carrier blames decision on pricing decline, falling yields.</span></p>

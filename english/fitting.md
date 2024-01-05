@@ -1,5 +1,7 @@
 # fitting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fitting.md)
+
 <p><span class="chinese">手机配件。</span><span class="english">Handset fitting.</span></p>
 
 <p><span class="chinese">她在装配车间干活。</span><span class="english">She works in fitting shop.</span></p>

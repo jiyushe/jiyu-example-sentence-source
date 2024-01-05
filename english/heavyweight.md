@@ -1,5 +1,7 @@
 # heavyweight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heavyweight.md)
+
 <p><span class="chinese">他曾经是重量级职业拳击手。</span><span class="english">He had been a heavyweight prize-fighter.</span></p>
 
 <p><span class="chinese">他是一个重量级的拳击手。</span><span class="english">He had been a heavyweight prize-fighter.</span></p>

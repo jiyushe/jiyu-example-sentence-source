@@ -1,5 +1,7 @@
 # 律己
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvji.md)
+
 <p><span class="chinese">土星是代表为实现目标而努力工作和律己。</span><span class="english">Saturn is about hard work and discipline to achieve goals.</span></p>
 
 <p><span class="chinese">我们以高标准的道德行为律己。</span><span class="english">We demand of ourselves high standards of ethical behavior.</span></p>

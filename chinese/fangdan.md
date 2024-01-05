@@ -1,5 +1,7 @@
 # 放胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangdan.md)
+
 <p><span class="chinese">我必须要辨明它，且放胆奔跑。</span><span class="english">I must identify it, and then run.</span></p>
 
 <p><span class="chinese">因此，放胆发泄吧，如那位行销大师所说的，向世界推销自己。</span><span class="english">So go ahead and, as themarketing gurus say, tend the Brand of You.</span></p>

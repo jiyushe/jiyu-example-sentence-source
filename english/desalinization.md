@@ -1,5 +1,7 @@
 # desalinization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desalinization.md)
+
 <p><span class="chinese">另一个除盐化的方法就是冷冻的。</span><span class="english">Another method of desalinization is freezing.</span></p>
 
 <p><span class="chinese">一些海水淡化厂已经开工。</span><span class="english">A number of desalinization plants are already in operation.</span></p>

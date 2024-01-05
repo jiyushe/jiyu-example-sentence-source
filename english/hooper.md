@@ -1,5 +1,7 @@
 # hooper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hooper.md)
+
 <p><span class="chinese">后来为了他受到的待遇我向胡珀道了歉。</span><span class="english">Later I apologized to Hooper for his reception.</span></p>
 
 <p><span class="chinese">Hooper还是相信自己的选择是对的。</span><span class="english">Hooper still believes he is on the right track though.</span></p>

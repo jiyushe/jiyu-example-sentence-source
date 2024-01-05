@@ -1,5 +1,7 @@
 # infatuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infatuation.md)
+
 <p><span class="chinese">不要辜负我的一片痴心。</span><span class="english">Don't let down my cheer infatuation.</span></p>
 
 <p><span class="chinese">会不会把一时糊涂错当成一见钟情呢？</span><span class="english">Could love at first sight be confused with infatuation?</span></p>

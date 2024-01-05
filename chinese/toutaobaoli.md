@@ -1,5 +1,7 @@
 # 投桃报李
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toutaobaoli.md)
+
 <p><span class="chinese">于是我笑了笑，跟他调情，他也跟我来了个投桃报李，感觉真好。</span><span class="english">So I smile and flirt and he flirts back and it feels good.</span></p>
 
 <p><span class="chinese">你帮别人取得成功，别人也会投桃报李。</span><span class="english">When you help others to succeed, they will do likewise for you.</span></p>

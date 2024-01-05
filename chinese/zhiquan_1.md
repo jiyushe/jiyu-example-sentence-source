@@ -1,5 +1,7 @@
 # 职权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiquan_1.md)
+
 <p><span class="chinese">这与职权的使用是一样道理。</span><span class="english">This is truewith the use of authority.</span></p>
 
 <p><span class="chinese">一个新上任的安全官滥用职权。</span><span class="english">A new security man threw his weight about.</span></p>

@@ -1,5 +1,7 @@
 # 外敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waidi_1.md)
+
 <p><span class="chinese">埃及遭受了一系列外敌的入侵</span><span class="english">Egypt experiences a number of attacks from the outside world.</span></p>
 
 <p><span class="chinese">但在遭遇多次包括亚历山大大帝的外敌入侵后，这座辉煌的古城终于走向死亡。</span><span class="english">Foreign invasions, including one by Alexander the Great, let to its demise.</span></p>

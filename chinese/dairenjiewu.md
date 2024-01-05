@@ -1,5 +1,7 @@
 # 待人接物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dairenjiewu.md)
+
 <p><span class="chinese">他在待人接物方面正直老实。</span><span class="english">He is straight in his dealings.</span></p>
 
 <p><span class="chinese">现在该有人教导你如何待人接物了。</span><span class="english">It's time somebody taught you to behave yourself.</span></p>

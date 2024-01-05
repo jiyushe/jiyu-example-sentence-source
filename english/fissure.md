@@ -1,5 +1,7 @@
 # fissure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fissure.md)
+
 <p><span class="chinese">干燥后润谷可减少裂纹的发生。</span><span class="english">While tempering after drying can reduced fissure Occurrence.</span></p>
 
 <p><span class="chinese">矿脉在固体结岩中用于填充裂缝的金属矿床。</span><span class="english">The metalliferous ore that fills a fissure in a rock formation.</span></p>

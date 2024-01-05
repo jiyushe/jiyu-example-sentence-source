@@ -1,5 +1,7 @@
 # 十万火急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwanhuoji.md)
+
 <p><span class="chinese">十万火急。请速联系。</span><span class="english">Urgent. Please contact me.</span></p>
 
 <p><span class="chinese">生活中真正十万火急的事情并不多见。</span><span class="english">There are very few true emergencies in life.</span></p>

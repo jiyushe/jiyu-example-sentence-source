@@ -1,5 +1,7 @@
 # unity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unity.md)
+
 <p><span class="chinese">一是统一思想认识。</span><span class="english">First, unity of thinking.</span></p>
 
 <p><span class="chinese">友情是团结的建造师。</span><span class="english">Friendship is a builder of unity.</span></p>

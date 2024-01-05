@@ -1,5 +1,7 @@
 # forehead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forehead.md)
+
 <p><span class="chinese">他的额头很突出。</span><span class="english">He has a forehead.</span></p>
 
 <p><span class="chinese">他的前额流血了。</span><span class="english">His forehead bleeds.</span></p>

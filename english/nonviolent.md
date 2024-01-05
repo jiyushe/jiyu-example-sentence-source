@@ -1,5 +1,7 @@
 # nonviolent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonviolent.md)
+
 <p><span class="chinese">他依然无法接受非暴力革命。</span><span class="english">He still could not accept nonviolent revolution.</span></p>
 
 <p><span class="chinese">它能加强“非暴力沟通条约”。</span><span class="english">It reinforces the "pact of nonviolent communication.</span></p>

@@ -1,5 +1,7 @@
 # 行路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinglu.md)
+
 <p><span class="chinese">行路多者见识多。</span><span class="english">On seeing much more.</span></p>
 
 <p><span class="chinese">行路人，你必须走吗？</span><span class="english">Traveller, must you go?</span></p>

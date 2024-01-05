@@ -1,5 +1,7 @@
 # par
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/par.md)
+
 <p><span class="chinese">这些货币平价兑换。</span><span class="english">This currency exchanges at par.</span></p>
 
 <p><span class="chinese">中国汽车工业水平低于标准。</span><span class="english">Chinese automobile industry is below par.</span></p>

@@ -1,5 +1,7 @@
 # tenement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenement.md)
+
 <p><span class="chinese">你是这里的外国住户？</span><span class="english">Are you a foreign tenement here?</span></p>
 
 <p><span class="chinese">在伦敦的东头，他站在一家阴暗的公寓门前。</span><span class="english">He stood in front of a gloomy tenement house.</span></p>

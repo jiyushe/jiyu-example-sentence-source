@@ -1,5 +1,7 @@
 # languor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/languor.md)
+
 <p><span class="chinese">这睡，而是让人不适的衰弱无力。</span><span class="english">This wasn't sleep but a strange languor.</span></p>
 
 <p><span class="chinese">别让我在衰萎的深渊里沉沦消散。</span><span class="english">Let me not sink and disappear in the depth of languor.</span></p>

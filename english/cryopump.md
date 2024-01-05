@@ -1,5 +1,7 @@
 # cryopump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryopump.md)
+
 <p><span class="chinese">制冷机低温泵的冷源是小型制冷机。</span><span class="english">The condensation source of the modern cryopump is a mini refrigerator.</span></p>
 
 <p><span class="chinese">本文从溅射镀膜的要求出发，设计出符合溅射镀膜要求的ZDB—200低温泵。</span><span class="english">In this paper, the cryopump type ZDB-200 for sputtering coater is designed.</span></p>

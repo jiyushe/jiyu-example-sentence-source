@@ -1,5 +1,7 @@
 # lob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lob.md)
+
 <p><span class="chinese">吊球是垫球的一种。</span><span class="english">A lob is part of the set up.</span></p>
 
 <p><span class="chinese">这以后，我不敢再向汽车扔这么多橡果了。</span><span class="english">After that, I didn't lob so many acorns at cars.</span></p>

@@ -1,5 +1,7 @@
 # incubation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incubation.md)
+
 <p><span class="chinese">温度是影响潜育期的重要因子。</span><span class="english">Temperature has obvious effect on incubation period.</span></p>
 
 <p><span class="chinese">作用时间对细胞氧化LDL有影响。</span><span class="english">The incubation time also could affect LDL oxidation.</span></p>

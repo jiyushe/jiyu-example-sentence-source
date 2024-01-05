@@ -1,5 +1,7 @@
 # squeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squeal.md)
+
 <p><span class="chinese">嘶哑的哼声和叫声是中毒的特征。</span><span class="english">The hoarse grunt or squeal is characteristic of toxicity.</span></p>
 
 <p><span class="chinese">我的客户们每每看到我在使用黑莓，都会非常兴奋地叫喊出来。</span><span class="english">My clients would squeal with excitement whenever I used it.</span></p>

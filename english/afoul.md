@@ -1,5 +1,7 @@
 # afoul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afoul.md)
+
 <p><span class="chinese">船被浮藻缠住了。</span><span class="english">The ship ran afoul of the floating seaweed.</span></p>
 
 <p><span class="chinese">在与亚美尼亚的异教徒冲突中，他以身殉教。</span><span class="english">He fell afoul with the pagans in Armenia where he was martyred.</span></p>

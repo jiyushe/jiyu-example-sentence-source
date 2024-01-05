@@ -1,5 +1,7 @@
 # bobble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bobble.md)
+
 <p><span class="chinese">把水通过滤芯充分挤压漏接出来。</span><span class="english">Squeeze full bobble of water through filter.</span></p>
 
 <p><span class="chinese">他戴著一顶上头有一个小红球的毛帽。</span><span class="english">He wore a woolly hat with a little red bobble on top.</span></p>

@@ -1,5 +1,7 @@
 # 佛寺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fosi.md)
+
 <p><span class="chinese">龙坡邦佛寺的后门。</span><span class="english">Luang Prabang temple gate.</span></p>
 
 <p><span class="chinese">龙坡邦佛寺的后门。</span><span class="english">Luang Prabang temple back gate.</span></p>

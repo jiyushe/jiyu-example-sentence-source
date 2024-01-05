@@ -1,5 +1,7 @@
 # musky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musky.md)
+
 <p><span class="chinese">淡淡的麝香味的古龙水。</span><span class="english">Some light, musky cologne.</span></p>
 
 <p><span class="chinese">木瓜的果实稍甜，带有麝香的气味。</span><span class="english">The papaya fruit is slightly sweet, with a musky smell to it.</span></p>

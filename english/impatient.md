@@ -1,5 +1,7 @@
 # impatient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impatient.md)
+
 <p><span class="chinese">他是否耐心？</span><span class="english">Is he impatient?</span></p>
 
 <p><span class="chinese">你是急性子吗？</span><span class="english">Are you impatient?</span></p>

@@ -1,5 +1,7 @@
 # himself 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/himself.md)
+
 <p><span class="chinese">他亲口说的。</span><span class="english">He said it himself.</span></p>
 
 <p><span class="chinese">不要冻坏了自己。</span><span class="english">Don't freeze himself.</span></p>

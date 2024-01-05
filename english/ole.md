@@ -1,5 +1,7 @@
 # ole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ole.md)
+
 <p><span class="chinese">他会来带我这老黑奴回家的。</span><span class="english">He'll come tek dis ole nigger home agin.</span></p>
 
 <p><span class="chinese">这老人拍了男孩的肩。</span><span class="english">The ole man pat the boy on the shoulder.</span></p>

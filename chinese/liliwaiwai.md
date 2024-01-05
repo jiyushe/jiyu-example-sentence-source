@@ -1,5 +1,7 @@
 # 里里外外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liliwaiwai.md)
+
 <p><span class="chinese">盒子里里外外都漆过了。</span><span class="english">The box was painted within and without.</span></p>
 
 <p><span class="chinese">请务必将车库里里外外都冲洗干净。</span><span class="english">Make sure the garage is well swilled out.</span></p>

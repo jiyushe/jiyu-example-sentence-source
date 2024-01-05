@@ -1,5 +1,7 @@
 # 活人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoren.md)
+
 <p><span class="chinese">放个活人。</span><span class="english">A living person.</span></p>
 
 <p><span class="chinese">岂可为活人求问死人呢。</span><span class="english">for the living to the dead?</span></p>

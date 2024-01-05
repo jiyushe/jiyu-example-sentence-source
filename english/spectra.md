@@ -1,5 +1,7 @@
 # spectra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectra.md)
+
 <p><span class="chinese">不同类型的肿瘤有着不同的药敏谱。</span><span class="english">Chemosensitivity spectra vary with tumor types.</span></p>
 
 <p><span class="chinese">滤色镜的选择必须利用固有光谱。</span><span class="english">Filter selection is made using inherent spectra.</span></p>

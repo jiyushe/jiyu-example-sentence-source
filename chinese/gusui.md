@@ -1,5 +1,7 @@
 # 骨髓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gusui.md)
+
 <p><span class="chinese">我好冷，寒彻骨髓。</span><span class="english">And I'm cold horribly cold.</span></p>
 
 <p><span class="chinese">一股寒气透过他的皮肉直刺骨髓。</span><span class="english">There is a cold nip in the air.</span></p>

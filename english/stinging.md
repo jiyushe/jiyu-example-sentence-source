@@ -1,5 +1,7 @@
 # stinging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stinging.md)
+
 <p><span class="chinese">我的左腿疼得厉害。</span><span class="english">My left leg is stinging.</span></p>
 
 <p><span class="chinese">烟把我的眼睛熏得很疼。</span><span class="english">The smoke is stinging my eyes.</span></p>

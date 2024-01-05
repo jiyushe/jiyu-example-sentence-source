@@ -1,5 +1,7 @@
 # 有理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youli_1.md)
+
 <p><span class="chinese">你也许说得有理。</span><span class="english">Perhaps you are right.</span></p>
 
 <p><span class="chinese">有理慢慢儿说，何必发脾气。</span><span class="english">He has never lost his temper.</span></p>

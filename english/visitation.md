@@ -1,5 +1,7 @@
 # visitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visitation.md)
+
 <p><span class="chinese">一个特别的早晨我们邂逅了一群青蛙。</span><span class="english">One astonishing morning, we had a visitation of frogs.</span></p>
 
 <p><span class="chinese">LJ和Lincoln在探访室的铁笼面对面坐着。</span><span class="english">LJ faces Lincoln through the cage in the visitation room.</span></p>

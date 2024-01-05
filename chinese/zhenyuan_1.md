@@ -1,5 +1,7 @@
 # 震源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenyuan_1.md)
+
 <p><span class="chinese">采用布龙模式计算震源参数。</span><span class="english">Using Brown mode to calculate focal parameters.</span></p>
 
 <p><span class="chinese">国产系列可控震源普遍采用康明斯发动机。</span><span class="english">Commins engine is widely used in domestic vibroseis.</span></p>

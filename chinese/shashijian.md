@@ -1,5 +1,7 @@
 # 霎时间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shashijian.md)
+
 <p><span class="chinese">霎时间把硬盘分红四个区！</span><span class="english">In the hard disk dividends four areas!</span></p>
 
 <p><span class="chinese">霎时间月缺花飞。</span><span class="english">The moon suddenly wanes and flowers shut.</span></p>

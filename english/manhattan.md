@@ -1,5 +1,7 @@
 # manhattan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manhattan.md)
+
 <p><span class="chinese">它真的让我想起曼哈顿”。</span><span class="english">It really reminds me of Manhattan.</span></p>
 
 <p><span class="chinese">你需要你在曼哈顿的公寓吗？</span><span class="english">Do you need your flat in Manhattan?</span></p>

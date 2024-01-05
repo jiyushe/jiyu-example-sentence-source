@@ -1,5 +1,7 @@
 # onrush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onrush.md)
+
 <p><span class="chinese">杨照加入了这股洪流。</span><span class="english">Yang Zhao entered this onrush.</span></p>
 
 <p><span class="chinese">如果门是向外开的，奔跑的人流本来应该能够打开大门。</span><span class="english">If the door opened outward, the onrush of girls would have opened the door.</span></p>

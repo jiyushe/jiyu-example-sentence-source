@@ -1,5 +1,7 @@
 # learned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/learned.md)
+
 <p><span class="chinese">但很快我便明白了。</span><span class="english">But I soon learned.</span></p>
 
 <p><span class="chinese">但我学到了很多东西。</span><span class="english">But I learned so much.</span></p>

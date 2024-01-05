@@ -1,5 +1,7 @@
 # perceptible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perceptible.md)
+
 <p><span class="chinese">物价不断上涨，但因涨幅很小而不为人注意。</span><span class="english">The just perceptible but continual increase in prices.</span></p>
 
 <p><span class="chinese">这些变化在战前就已经感觉得出来了。</span><span class="english">These changes were already perceptible before the war.</span></p>

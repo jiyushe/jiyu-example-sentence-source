@@ -1,5 +1,7 @@
 # foment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foment.md)
+
 <p><span class="chinese">我是去点燃一场革命的。</span><span class="english">I'm going to foment revolution.</span></p>
 
 <p><span class="chinese">他的言词终于引发了她的敌意。</span><span class="english">His word finally foment her hostility.</span></p>

@@ -1,5 +1,7 @@
 # pyrography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrography.md)
+
 <p><span class="chinese">充分体现烙画独树一帜的艺术魅力。</span><span class="english">Fully reflects the art of pyrography unique charm.</span></p>
 
 <p><span class="chinese">杨淑林，现居石景山区，葫芦烙画艺人。</span><span class="english">Yang Shulin is a gourd pyrography artist in Shijingshan District.</span></p>

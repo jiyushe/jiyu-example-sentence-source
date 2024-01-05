@@ -1,5 +1,7 @@
 # 书面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumian.md)
+
 <p><span class="chinese">社区启蒙通过任何书面考试。</span><span class="english">Pass any CCIE written exam.</span></p>
 
 <p><span class="chinese">我们将以书面通知所有得奖者。</span><span class="english">All winners will be notified by post.</span></p>

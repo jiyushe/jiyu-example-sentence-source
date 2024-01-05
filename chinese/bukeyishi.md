@@ -1,5 +1,7 @@
 # 不可一世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukeyishi.md)
+
 <p><span class="chinese">曾经的我，总是不可一世。</span><span class="english">Once I always insufferably arrogant.</span></p>
 
 <p><span class="chinese">自我膨胀，龇牙咧嘴，不可一世。</span><span class="english">Self-expansion, show its teeth, insufferably arrogant.</span></p>

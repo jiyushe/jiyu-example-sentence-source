@@ -1,5 +1,7 @@
 # humbleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humbleness.md)
+
 <p><span class="chinese">努力的工作态度，谦虚的精神。</span><span class="english">The culture of work and the great humbleness.</span></p>
 
 <p><span class="chinese">在哪里是中国传统礼貌谦逊?。</span><span class="english">Where is the chinese tradition of humbleness?</span></p>

@@ -1,5 +1,7 @@
 # 义学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixue.md)
+
 <p><span class="chinese">希望他们可以来义学见我们，我现在非常想念她们。</span><span class="english">Hope they can come to Yi-Shiue to see us, I miss them so much now.</span></p>
 
 <p><span class="chinese">但是大多数义学的运转都是依靠民间运作的。</span><span class="english">However, the operation of most i-hsueh schools depended on the ordinary people in the folk.</span></p>

@@ -1,5 +1,7 @@
 # 萧索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaosuo.md)
+
 <p><span class="chinese">岸上是一片荒凉萧索的沼地。</span><span class="english">There was the solitary flat marsh on the shore.</span></p>
 
 <p><span class="chinese">过度疲累的人看到的世界是极度的萧索与荒凉。</span><span class="english">The world looks bleak to those who are Overtired.</span></p>

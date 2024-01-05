@@ -1,5 +1,7 @@
 # 压根儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yagener.md)
+
 <p><span class="chinese">我压根儿就成不了亿万富翁。</span><span class="english">I’ll never be a billionaire.</span></p>
 
 <p><span class="chinese">我压根儿就不赞成你的主张。</span><span class="english">I don't agree with you at all.</span></p>

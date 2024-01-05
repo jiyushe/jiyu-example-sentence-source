@@ -1,5 +1,7 @@
 # pronation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronation.md)
+
 <p><span class="chinese">什么是前臂旋前和前臂旋后呢？</span><span class="english">What is forearm pronation and supination ?</span></p>
 
 <p><span class="chinese">一旦你掌握料这一步，在增加内旋。</span><span class="english">Once you master this first part, you will add pronation.</span></p>

@@ -1,5 +1,7 @@
 # 系词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xici_1.md)
+
 <p><span class="chinese">他对介系词用法作了一番详尽的研究。</span><span class="english">He has made a detailed study of the use of prepositions.</span></p>
 
 <p><span class="chinese">她的动作既是现在动词也是未来系词。</span><span class="english">Her action is both present progressive and future tense.</span></p>

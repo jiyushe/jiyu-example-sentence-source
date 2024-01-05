@@ -1,5 +1,7 @@
 # 褴褛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanlv.md)
+
 <p><span class="chinese">他们都穿着褴褛的衣衫。</span><span class="english">They all wore tattered clothes.</span></p>
 
 <p><span class="chinese">感谢上帝，你没有衣衫褴褛。</span><span class="english">Thank Heavens you’re not in rags.</span></p>

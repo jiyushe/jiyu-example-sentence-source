@@ -1,5 +1,7 @@
 # 不凡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufan.md)
+
 <p><span class="chinese">我被他的不凡气度吸引了。</span><span class="english">His charming air arrested my attention.</span></p>
 
 <p><span class="chinese">李白诗歌的魅力在于气象不凡。</span><span class="english">LI Bais poems are most attractive in the scenes.</span></p>

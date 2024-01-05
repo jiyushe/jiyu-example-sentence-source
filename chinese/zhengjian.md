@@ -1,5 +1,7 @@
 # 政见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengjian.md)
+
 <p><span class="chinese">你的政见如何?</span><span class="english">What are your politics?</span></p>
 
 <p><span class="chinese">我们的政见不一致。</span><span class="english">Our opinions diverge on politics.</span></p>

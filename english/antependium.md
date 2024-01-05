@@ -1,5 +1,7 @@
 # antependium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antependium.md)
+
 <p><span class="chinese">至于第三嘛，就得数小圆桌上的那块“桌布”了。</span><span class="english">As to the 3rd, have to count roundlet desk to go up that " antependium ".</span></p>
 
 <p><span class="chinese">暗红色的墙与铺在木质桌面上的深紫色桌布。</span><span class="english">The wall of wine and shop are in the modena antependium on woodiness desktop.</span></p>

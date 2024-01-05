@@ -1,5 +1,7 @@
 # exculpatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exculpatory.md)
+
 <p><span class="chinese">一般，起诉人不会由于扣留无罪证据而受到起诉。</span><span class="english">Currently, prosecutorscannot be prosecuted for withholding exculpatory evidence.</span></p>
 
 <p><span class="chinese">这样的历史教科书歪曲历史开脱罪责理应受到严厉谴责。</span><span class="english">This history textbooks distorting history exculpatory deserves severe condemnation.</span></p>

@@ -1,5 +1,7 @@
 # orkney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orkney.md)
+
 <p><span class="chinese">奥克尼群岛是十分珍贵的新石器时代遗址。</span><span class="english">The Orkney Islands are a neolithic site of extraordinary richness.</span></p>
 
 <p><span class="chinese">奥克尼艺术家山姆·麦当劳的作品日渐知名。</span><span class="english">Orkney artist Sam MacDonald's work is becoming increasingly well known.</span></p>

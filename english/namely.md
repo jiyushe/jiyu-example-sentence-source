@@ -1,5 +1,7 @@
 # namely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/namely.md)
+
 <p><span class="chinese">但那是转眼即逝的。</span><span class="english">But that turns an eye to die namely.</span></p>
 
 <p><span class="chinese">它们就是一个东西,即金星</span><span class="english">They're just one thing, namely Venus.</span></p>

@@ -1,5 +1,7 @@
 # nanking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nanking.md)
+
 <p><span class="chinese">向南京西进。</span><span class="english">Westward march to Nanking.</span></p>
 
 <p><span class="chinese">伟大的南京城墙与紫金山。</span><span class="english">Great Wall of Nanking and Purple Mountain, China.</span></p>

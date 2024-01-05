@@ -1,5 +1,7 @@
 # fartlek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fartlek.md)
+
 <p><span class="chinese">法特莱克跑可以是非常艰辛的也可以是你这周最轻松的一次训练。</span><span class="english">Fartlek can be the most difficult or the easiest workout of the week.</span></p>
 
 <p><span class="chinese">“法特莱克”是瑞典语“速度游戏”的意思。</span><span class="english">Fartlek is a Swedish term that means 'speed play' or playing with speed.</span></p>

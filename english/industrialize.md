@@ -1,5 +1,7 @@
 # industrialize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/industrialize.md)
+
 <p><span class="chinese">中国也允许工业化吧！</span><span class="english">China is allowed to industrialize too!</span></p>
 
 <p><span class="chinese">这些国家都正在努力实现工业化和经济多元化。</span><span class="english">All are trying to industrialize and diversify their economies.</span></p>

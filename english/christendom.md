@@ -1,5 +1,7 @@
 # christendom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christendom.md)
+
 <p><span class="chinese">但是像“基督教国家”这样的观念是很难消除的。</span><span class="english">But ideas like "Christendom" die hard.</span></p>
 
 <p><span class="chinese">圣诞节时整个基督教世界尽情欢乐。</span><span class="english">All Christendom makes merry at Christmas.</span></p>

@@ -1,5 +1,7 @@
 # 出让
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/churang.md)
+
 <p><span class="chinese">请发问，很难让我指出让谁提问，请这位女同学。</span><span class="english">Let's have your questions.</span></p>
 
 <p><span class="chinese">他给不出让托曼加入他们的理由。</span><span class="english">He had seen no reason for Tommen to join them.</span></p>

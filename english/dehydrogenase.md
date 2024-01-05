@@ -1,5 +1,7 @@
 # dehydrogenase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dehydrogenase.md)
+
 <p><span class="chinese">酸性磷酸酶和琥珀酸脱氢酶活性减弱。</span><span class="english">Acid phosphatase and succinic dehydrogenase activity was decreased.</span></p>
 
 <p><span class="chinese">熏气后谷氨酸脱氢酶的活性受到抑制。</span><span class="english">The glutamic dehydrogenase activity was restrained after fumigation.</span></p>

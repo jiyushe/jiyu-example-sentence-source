@@ -1,5 +1,7 @@
 # 下半旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabanqi.md)
+
 <p><span class="chinese">香港下半旗向在菲律宾受害者致哀。</span><span class="english">HK to lower flag at half-mast to mourn victims.</span></p>
 
 <p><span class="chinese">赌场下半旗。</span><span class="english">The low-roller casinos flew flags at half-mast.</span></p>

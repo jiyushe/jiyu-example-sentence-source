@@ -1,5 +1,7 @@
 # enzymolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enzymolysis.md)
+
 <p><span class="chinese">研究酶解发酵法处理玉米。</span><span class="english">This task studies the corn treat with enzymolysis and zymotechnics.</span></p>
 
 <p><span class="chinese">本实验研究了在不同条件下用三种酶酶解豆浆中蛋白的程度。</span><span class="english">Then soybean milk was hydrolyzed by Enzyme B at the optimum enzymolysis conditions.</span></p>

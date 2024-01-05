@@ -1,5 +1,7 @@
 # 林林总总
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linlinzongzong.md)
+
 <p><span class="chinese">林林总总汇集成对过去时光的美好记忆。</span><span class="english">All this becomes a fond memory of the past.</span></p>
 
 <p><span class="chinese">商业投资林林总总，他也不能逐一跟踪。</span><span class="english">There are so many business ventures, he cannot keep track.</span></p>

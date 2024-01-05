@@ -1,5 +1,7 @@
 # elba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elba.md)
+
 <p><span class="chinese">拿破仑被放逐到厄尔巴岛。</span><span class="english">Napoleon was banished to Elba.</span></p>
 
 <p><span class="chinese">拿破仑被放逐到厄尔巴岛的时间很短。</span><span class="english">Napoleon's exile to Elba was brief.</span></p>

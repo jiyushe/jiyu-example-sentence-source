@@ -1,5 +1,7 @@
 # 褥疮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruchuang.md)
+
 <p><span class="chinese">褥疮分为几期？如何进行治疗？</span><span class="english">What are bedsore stages? How do you treat it ?</span></p>
 
 <p><span class="chinese">目的探讨治疗糖尿病人褥疮的护理方法。</span><span class="english">Objective To study the nursing of diabetic bedsore.</span></p>

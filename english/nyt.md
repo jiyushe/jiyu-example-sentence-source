@@ -1,5 +1,7 @@
 # nyt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nyt.md)
+
 <p><span class="chinese">我们绝对赞赏纽约时报的这一发展方向。</span><span class="english">We definitely appreciate the direction that the NYT is taking.</span></p>
 
 <p><span class="chinese">那么，纽约时报是从哪里获得这整个开源战略的动机哪？</span><span class="english">So where does the NYT get the motivation for all of this openness?</span></p>

@@ -1,5 +1,7 @@
 # 艳阳天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyangtian.md)
+
 <p><span class="chinese">这是一个艳阳天。</span><span class="english">It was a sunny day.</span></p>
 
 <p><span class="chinese">多么酷热的艳阳天啊！</span><span class="english">What a hot, sunny day!</span></p>

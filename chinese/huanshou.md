@@ -1,5 +1,7 @@
 # 还手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanshou.md)
+
 <p><span class="chinese">要是你再打我，我就还手了。</span><span class="english">If you beat me again, I will fight back.</span></p>
 
 <p><span class="chinese">有一天，我梦见吉塔还手扇了我耳光。</span><span class="english">One day I dreamt that Geeta slapped me back.</span></p>

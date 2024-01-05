@@ -1,5 +1,7 @@
 # valency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valency.md)
+
 <p><span class="chinese">配价的本质。</span><span class="english">The nature of valency.</span></p>
 
 <p><span class="chinese">华兰馨觉得她已经克服了她的问题。</span><span class="english">Valency felt she had gotten over her problems.</span></p>

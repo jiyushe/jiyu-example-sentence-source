@@ -1,5 +1,7 @@
 # permanent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permanent_1.md)
+
 <p><span class="chinese">该签证是一个永居签证。</span><span class="english">This visa is permanent.</span></p>
 
 <p><span class="chinese">密钥也可以是永久的。</span><span class="english">Keys can also be permanent.</span></p>

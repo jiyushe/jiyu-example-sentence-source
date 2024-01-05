@@ -1,5 +1,7 @@
 # cryptogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryptogram.md)
+
 <p><span class="chinese">密钥和密码算法的安全是密码卡的核心和关键。</span><span class="english">Cryptographic algorithm and key are the very important part of cryptogram technology.</span></p>
 
 <p><span class="chinese">串空间模型是一种新兴的密码协议形式化分析工具。</span><span class="english">Strand space model is a new formal analysis tool to the analysis of cryptogram protocol.</span></p>

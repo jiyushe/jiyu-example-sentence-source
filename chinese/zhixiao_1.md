@@ -1,5 +1,7 @@
 # 滞销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixiao_1.md)
+
 <p><span class="chinese">产品滞销商品过剩意味什么？</span><span class="english">The unmarketable products surplus mean?</span></p>
 
 <p><span class="chinese">在我方市场上，这些产品是最滞销的。</span><span class="english">These items are mosts'sable in our market.</span></p>

@@ -1,5 +1,7 @@
 # giles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giles.md)
+
 <p><span class="chinese">干嘛不让基尔斯自己去接她?。</span><span class="english">Why not let Giles fetch her by himself?</span></p>
 
 <p><span class="chinese">贾尔斯是在他自己的方案参与者。</span><span class="english">Giles is a participant in his own scenario.</span></p>

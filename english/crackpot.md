@@ -1,5 +1,7 @@
 # crackpot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crackpot.md)
+
 <p><span class="chinese">大家都知道教授是个怪人。</span><span class="english">Everyone knows Professor Wilkins is a crackpot.</span></p>
 
 <p><span class="chinese">你有没有听过“crackpot”这个词呢？</span><span class="english">Have you heard the English expression crackpot?</span></p>

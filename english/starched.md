@@ -1,5 +1,7 @@
 # starched
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starched.md)
+
 <p><span class="chinese">不能硬挺的。</span><span class="english">Can not be starched.</span></p>
 
 <p><span class="chinese">我的衣服浆得不够硬。</span><span class="english">My clothes are not starched enough.</span></p>

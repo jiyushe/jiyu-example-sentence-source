@@ -1,5 +1,7 @@
 # 捉摸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuomo.md)
+
 <p><span class="chinese">一个难以捉摸的人。祝你好运！</span><span class="english">The elusive "one". Good luck!</span></p>
 
 <p><span class="chinese">去摘那明亮的、难以捉摸的星星。</span><span class="english">To catch that bright elusive star.</span></p>

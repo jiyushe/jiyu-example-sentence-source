@@ -1,5 +1,7 @@
 # 星空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingkong_1.md)
+
 <p><span class="chinese">这誓言星空可鉴！</span><span class="english">This I swear by the stars!</span></p>
 
 <p><span class="chinese">我祈求星空褪尽色彩。</span><span class="english">I plead for the stars to fade.</span></p>

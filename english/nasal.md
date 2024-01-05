@@ -1,5 +1,7 @@
 # nasal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nasal.md)
+
 <p><span class="chinese">他讲话时带着鼻音。</span><span class="english">He spoke with a nasal twang.</span></p>
 
 <p><span class="chinese">鼻腔阻塞。</span><span class="english">obstructed nasal passageway.</span></p>

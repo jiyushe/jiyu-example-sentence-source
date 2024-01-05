@@ -1,5 +1,7 @@
 # granite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granite.md)
+
 <p><span class="chinese">他的墓是用花岗石造的。</span><span class="english">His grave is made of granite.</span></p>
 
 <p><span class="chinese">有没有像花岗岩家！</span><span class="english">There is no granite like Tadoussac!</span></p>

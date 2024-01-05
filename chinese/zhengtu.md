@@ -1,5 +1,7 @@
 # 征途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengtu.md)
+
 <p><span class="chinese">在人生征途的露宿营地。</span><span class="english">In the bivouac of Life.</span></p>
 
 <p><span class="chinese">现在征途好多区都合过了，你是因为这样才找不到吗？</span><span class="english">I am a good person, how do I not right for you?</span></p>

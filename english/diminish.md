@@ -1,5 +1,7 @@
 # diminish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diminish.md)
+
 <p><span class="chinese">我们的承诺是不减少服务。</span><span class="english">Our commitment is not to diminish services.</span></p>
 
 <p><span class="chinese">肌肤，减轻黑眼圈和浮肿。</span><span class="english">The skin, diminish dark circles and puffiness.</span></p>

@@ -1,5 +1,7 @@
 # congestion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congestion.md)
+
 <p><span class="chinese">滴鼻剂常可缓解鼻腔充血。</span><span class="english">Nose drops often relieve nasal congestion.</span></p>
 
 <p><span class="chinese">过度使用可能会导致反弹鼻塞。</span><span class="english">Over-use can cause rebound nasal congestion.</span></p>

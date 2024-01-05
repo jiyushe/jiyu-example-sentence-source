@@ -1,5 +1,7 @@
 # sloppy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sloppy.md)
+
 <p><span class="chinese">太松了，会让你看起来显得邋遢。</span><span class="english">Too loose, you just look sloppy.</span></p>
 
 <p><span class="chinese">邋遢的人生活在不真实的理想世界里。</span><span class="english">Sloppy people live in Never-Never Land.</span></p>

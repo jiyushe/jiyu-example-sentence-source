@@ -1,5 +1,7 @@
 # sociable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sociable.md)
+
 <p><span class="chinese">莱奇是个和善的人。</span><span class="english">Lige was a sociable person.</span></p>
 
 <p><span class="chinese">尽你所能融入社会。</span><span class="english">Be as sociable as you can be.</span></p>

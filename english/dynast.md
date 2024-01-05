@@ -1,5 +1,7 @@
 # dynast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynast.md)
+
 <p><span class="chinese">柳州正式建制于西汉王朝，距今已有2100多年的历史。</span><span class="english">Liuzhou was set up in the West Han Dynast over 2,100 years ago.</span></p>
 
 <p><span class="chinese">第二部分概述先秦时期的同性恋文学书写。</span><span class="english">Chapter two summarizes the homosexual literature in the Qin Dynast.</span></p>

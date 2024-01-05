@@ -1,5 +1,7 @@
 # 洋务派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangwupai.md)
+
 <p><span class="chinese">容闳的思想作用于洋务派，在推动中国走向近代化方面发挥了一定作用。</span><span class="english">Rong's thought played a certain role in pushing China towards modernization.</span></p>
 
 <p><span class="chinese">洋务派能够启动近代留学教育，主要出于军事上的考虑。</span><span class="english">The Westernizationers started the modem fashion of studying abroad for military purposes.</span></p>

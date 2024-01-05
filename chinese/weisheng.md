@@ -1,5 +1,7 @@
 # 为生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weisheng.md)
+
 <p><span class="chinese">他靠笔耕为生。</span><span class="english">He lives by pen.</span></p>
 
 <p><span class="chinese">奶牛以干草为生。</span><span class="english">Cows feed on hay.</span></p>

@@ -1,5 +1,7 @@
 # val
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/val.md)
+
 <p><span class="chinese">所以这是max，val函数。</span><span class="english">So here's max val.</span></p>
 
 <p><span class="chinese">它调用的是老的max，val函数。</span><span class="english">It's calling the old max val.</span></p>

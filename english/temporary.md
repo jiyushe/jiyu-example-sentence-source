@@ -1,5 +1,7 @@
 # temporary 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temporary.md)
+
 <p><span class="chinese">这只是暂时的现象吗？</span><span class="english">And is it only temporary?</span></p>
 
 <p><span class="chinese">不过这是暂时的。</span><span class="english">However, this is temporary.</span></p>

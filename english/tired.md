@@ -1,5 +1,7 @@
 # tired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tired.md)
+
 <p><span class="chinese">不过可是累坏了。</span><span class="english">I'm just tired.</span></p>
 
 <p><span class="chinese">或是有点疲惫不堪吗</span><span class="english">Tired as can be?</span></p>

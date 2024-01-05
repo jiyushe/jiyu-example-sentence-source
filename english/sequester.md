@@ -1,5 +1,7 @@
 # sequester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequester.md)
+
 <p><span class="chinese">排放二氧化碳的工业会向农民支付一定费用，由农民买烧炉炼木炭、收集农场废物。</span><span class="english">CO2-emitting industries could pay farmers to buy stoves to char and sequester farm waste.</span></p>
 
 <p><span class="chinese">所以，在生物气田利用产甲烷菌进行CO2地质固定并且产生新的甲烷具有可能性。</span><span class="english">Therefore, it is possible to sequester CO2 in this biogas field and produce methane at the same time.</span></p>

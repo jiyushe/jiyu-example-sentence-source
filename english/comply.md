@@ -1,5 +1,7 @@
 # comply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comply.md)
+
 <p><span class="chinese">服从工作安排。</span><span class="english">Comply with the work arrangement.</span></p>
 
 <p><span class="chinese">她的要求你应照办。</span><span class="english">You must comply with her request.</span></p>

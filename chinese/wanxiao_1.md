@@ -1,5 +1,7 @@
 # 玩笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanxiao_1.md)
+
 <p><span class="chinese">他喜欢玩笑。</span><span class="english">He s fond of fun.</span></p>
 
 <p><span class="chinese">我知道我不该开这样的玩笑的。</span><span class="english">What happened? Yeah.</span></p>

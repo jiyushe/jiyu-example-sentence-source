@@ -1,5 +1,7 @@
 # compare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compare.md)
+
 <p><span class="chinese">比较它。</span><span class="english">Compare it.</span></p>
 
 <p><span class="chinese">比较室壁运动。</span><span class="english">Compare with Kinesis.</span></p>

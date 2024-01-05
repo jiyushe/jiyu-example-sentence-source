@@ -1,5 +1,7 @@
 # lithography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithography.md)
+
 <p><span class="chinese">平版印刷术在商业上也得以运用。</span><span class="english">Lithography is used commercially as well.</span></p>
 
 <p><span class="chinese">另外，尼康光刻机业务也开始扭亏为盈。</span><span class="english">Nikon is also reversing its losses in lithography.</span></p>

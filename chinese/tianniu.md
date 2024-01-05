@@ -1,5 +1,7 @@
 # 天牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianniu.md)
+
 <p><span class="chinese">本文还提出了次黄筒天牛的防治方法。</span><span class="english">The control method of the pest is also proposed.</span></p>
 
 <p><span class="chinese">星天牛在连街市中常常能看见。</span><span class="english">Anoplophora malasiaca can often be looked in the urban area.</span></p>

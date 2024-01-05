@@ -1,5 +1,7 @@
 # stupendous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stupendous.md)
+
 <p><span class="chinese">湖岸的景色十分壮观。</span><span class="english">The lakeshore view was stupendous.</span></p>
 
 <p><span class="chinese">神的恩典领我们进入一个伟大的未来。</span><span class="english">God's grace leads us to a stupendous future.</span></p>

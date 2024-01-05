@@ -1,5 +1,7 @@
 # busman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busman.md)
+
 <p><span class="chinese">公共汽车司机停下了车。</span><span class="english">The busman stopped the bus.</span></p>
 
 <p><span class="chinese">他不喜欢公共汽车司机这个工作。</span><span class="english">He doesn't like his job as a busman.</span></p>

@@ -1,5 +1,7 @@
 # futuristic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/futuristic.md)
+
 <p><span class="chinese">这是野蛮的，快行动，未来的运动。</span><span class="english">This is brutal, fast-action, futuristic sports.</span></p>
 
 <p><span class="chinese">未来天际线是这座城市最主要的电影地标。</span><span class="english">The futuristic skyline is the city's top film landmark.</span></p>

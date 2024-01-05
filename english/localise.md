@@ -1,5 +1,7 @@
 # localise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/localise.md)
+
 <p><span class="chinese">定位放大器的接地连接。</span><span class="english">Localise the ground connection for the amplifier.</span></p>
 
 <p><span class="chinese">定位放大器的接地电缆。</span><span class="english">Localise the ground connection cable of the amplifier.</span></p>

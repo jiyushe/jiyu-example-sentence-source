@@ -1,5 +1,7 @@
 # 音韵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyun_2.md)
+
 <p><span class="chinese">歌词简单，但不呆板，其特点是在音韵上广泛运用叠字。</span><span class="english">The Short Song often employs repetition in its lyrics.</span></p>
 
 <p><span class="chinese">我痴迷的心正再次为你打造那串美妙音韵的项链。</span><span class="english">My spellbound heart has made and remade the necklace of songs</span></p>

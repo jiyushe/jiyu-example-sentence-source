@@ -1,5 +1,7 @@
 # celiac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celiac.md)
+
 <p><span class="chinese">患有腹腔疾病的人不能消化面筋。</span><span class="english">People with celiac disease cannot process gluten.</span></p>
 
 <p><span class="chinese">你能解释一下麸质过敏症和不孕症之间的联系吗？</span><span class="english">Can you explain the link between celiac and infertility?</span></p>

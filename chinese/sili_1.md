@@ -1,5 +1,7 @@
 # 死力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sili_1.md)
+
 <p><span class="chinese">他比我工作死力。</span><span class="english">He works harder than I.</span></p>
 
 <p><span class="chinese">她死力劝讲来宾梅速呆一会女。</span><span class="english">She pressed her guests to stay longer.</span></p>

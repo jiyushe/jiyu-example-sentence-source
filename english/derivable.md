@@ -1,5 +1,7 @@
 # derivable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derivable.md)
+
 <p><span class="chinese">这些结果是根据量子力学理论推导出来的。</span><span class="english">These results are derivable from the theory of quantum mechanics.</span></p>
 
 <p><span class="chinese">客户代码可能存在于其他地方，或者可能由其他数据推导而来。</span><span class="english">The customer code may exist elsewhere or be derivable from other data.</span></p>

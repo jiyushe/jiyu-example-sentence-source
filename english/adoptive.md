@@ -1,5 +1,7 @@
 # adoptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adoptive.md)
+
 <p><span class="chinese">她和她养父生活在一起。</span><span class="english">She lived with her adoptive father.</span></p>
 
 <p><span class="chinese">他的义父两年前去世了。</span><span class="english">His adoptive father died 2 years ago.</span></p>

@@ -1,5 +1,7 @@
 # accordingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accordingly.md)
+
 <p><span class="chinese">仰即遵照</span><span class="english">Hope you will obey and do accordingly.</span></p>
 
 <p><span class="chinese">而他也因此购买人寿保险。</span><span class="english">And he buys life insurance accordingly.</span></p>

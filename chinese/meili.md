@@ -1,5 +1,7 @@
 # 美丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meili.md)
+
 <p><span class="chinese">慢是美丽的。</span><span class="english">Slow is beautiful.</span></p>
 
 <p><span class="chinese">美丽的大词。</span><span class="english">Big beautiful words.</span></p>

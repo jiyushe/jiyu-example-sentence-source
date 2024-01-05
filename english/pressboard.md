@@ -1,5 +1,7 @@
 # pressboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pressboard.md)
+
 <p><span class="chinese">介绍了正在研制中的变压器绝缘纸板水分测试系统。</span><span class="english">A system of moisture measuring in pressboard during drying is introduced.</span></p>
 
 <p><span class="chinese">对于绝缘纸板二维水分分布的测量也进行了研究。</span><span class="english">The moisture distribution measurement of pressboard in two dimensions is discussed as well.</span></p>

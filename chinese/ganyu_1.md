@@ -1,5 +1,7 @@
 # 敢于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganyu_1.md)
+
 <p><span class="chinese">敢于创新。</span><span class="english">Dare to innovate.</span></p>
 
 <p><span class="chinese">她会敢于面对任何危险。</span><span class="english">She will dare any danger.</span></p>

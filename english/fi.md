@@ -1,5 +1,7 @@
 # fi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fi.md)
+
 <p><span class="chinese">法伊表现为佩林在A。</span><span class="english">Fi and Palin in a performance.</span></p>
 
 <p><span class="chinese">我闻到一个小男孩儿的味道！</span><span class="english">Fee fi fo fum! I smell a little boy!</span></p>

@@ -1,5 +1,7 @@
 # 摩肩接踵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mojianjiezhong.md)
+
 <p><span class="chinese">所有的职位都已摩肩接踵？</span><span class="english">The positions all filled?</span></p>
 
 <p><span class="chinese">公共汽车里摩肩接踵，我被挤在里面无法动弹。</span><span class="english">The bus was jam-packed with people and I could not move.</span></p>

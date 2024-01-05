@@ -1,5 +1,7 @@
 # luteal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luteal.md)
+
 <p><span class="chinese">什么是黄体期？</span><span class="english">What is the luteal phase?</span></p>
 
 <p><span class="chinese">是为了提高你的黄体功能。</span><span class="english">Is to increase your luteal function.</span></p>

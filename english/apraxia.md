@@ -1,5 +1,7 @@
 # apraxia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apraxia.md)
+
 <p><span class="chinese">目的探讨文字交流训练对言语失用患者语言康复的影响。</span><span class="english">Objective To observe the effect of character communication on apraxia of speech.</span></p>
 
 <p><span class="chinese">失用用以描述各种目的性运动障碍。</span><span class="english">Apraxia is a collective term used to describe impairment in carrying out purposeful movements.</span></p>

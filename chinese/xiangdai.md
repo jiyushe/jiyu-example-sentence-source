@@ -1,5 +1,7 @@
 # 相待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangdai.md)
+
 <p><span class="chinese">他一直对我冷眼相待。</span><span class="english">He said coldly, "All right"!</span></p>
 
 <p><span class="chinese">我努力付出，真诚相待每个人。</span><span class="english">I work hard, with sincerity everyone.</span></p>

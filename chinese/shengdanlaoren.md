@@ -1,5 +1,7 @@
 # 圣诞老人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdanlaoren.md)
+
 <p><span class="chinese">冒牌圣诞老人撒了谎。</span><span class="english">The fake Santa Clause lied.</span></p>
 
 <p><span class="chinese">当圣诞老人的雪撬铃响的时候。</span><span class="english">When Santa's sleigh bells ring.</span></p>

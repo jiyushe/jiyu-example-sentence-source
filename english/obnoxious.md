@@ -1,5 +1,7 @@
 # obnoxious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obnoxious.md)
+
 <p><span class="chinese">他是个讨厌的乡巴佬。</span><span class="english">He is an obnoxious hick.</span></p>
 
 <p><span class="chinese">别惹人厌，但要让人惊叹。</span><span class="english">Don’t be obnoxious. But do be amazing.</span></p>

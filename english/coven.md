@@ -1,5 +1,7 @@
 # coven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coven.md)
+
 <p><span class="chinese">文出口磨损。</span><span class="english">Coven export wear.</span></p>
 
 <p><span class="chinese">穿着感从文。</span><span class="english">Dress sense from Coven.</span></p>

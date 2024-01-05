@@ -1,5 +1,7 @@
 # uproot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uproot.md)
+
 <p><span class="chinese">将一株树连根拔除需要一分钟左右。</span><span class="english">Time required to uproot a tree is about a minute.</span></p>
 
 <p><span class="chinese">大象的长鼻强壮得足以将树木连根拔起。</span><span class="english">The trunk of an elephant is powerful enough to uproot trees.</span></p>

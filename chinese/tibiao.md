@@ -1,5 +1,7 @@
 # 体表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tibiao.md)
+
 <p><span class="chinese">灯体表面一般是银灰色。</span><span class="english">The matel appearance usually is silver.</span></p>
 
 <p><span class="chinese">通过IPTG诱导，获得包涵体表达蛋白。</span><span class="english">Induced by IPTG, was inclusion body protein.</span></p>

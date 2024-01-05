@@ -1,5 +1,7 @@
 # laurel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laurel.md)
+
 <p><span class="chinese">来自凯撒桂冠上。</span><span class="english">Came from Caesar's laurel crown.</span></p>
 
 <p><span class="chinese">她的父亲把达芙妮变成了月桂树。</span><span class="english">He turned Daphne into a laurel tree.</span></p>

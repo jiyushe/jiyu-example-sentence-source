@@ -1,5 +1,7 @@
 # recount
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recount.md)
+
 <p><span class="chinese">票数作了一次复算。</span><span class="english">A recount of votes was made.</span></p>
 
 <p><span class="chinese">重数一遍洗衣件数，检验件数是否与客人所填数目相符。</span><span class="english">Recount the Laundry items to verify items against guest count.</span></p>

@@ -1,5 +1,7 @@
 # poser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poser.md)
+
 <p><span class="chinese">困境给人很大的难题。</span><span class="english">The dilemma presented quite a poser.</span></p>
 
 <p><span class="chinese">人们在一英里之外都可以闻到装腔作势的人的气味。</span><span class="english">People can smell a poser from a mile away.</span></p>

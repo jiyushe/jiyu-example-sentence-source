@@ -1,5 +1,7 @@
 # 神采
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shencai.md)
+
 <p><span class="chinese">任何时候使用，都可让您立刻焕发美丽神采！</span><span class="english">It's an instant "beauty boost" any time of day!</span></p>
 
 <p><span class="chinese">让肌肤焕发净白透亮迷人神采。</span><span class="english">Let skin appear pure white, bright and moving charm.</span></p>

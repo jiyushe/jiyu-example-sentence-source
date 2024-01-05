@@ -1,5 +1,7 @@
 # fantastical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fantastical.md)
+
 <p><span class="chinese">查看更多的这些神奇的钙华塔。</span><span class="english">Check out more of these fantastical towers.</span></p>
 
 <p><span class="chinese">想当年我住在王宫里的时候，我们也时常举行宴会。</span><span class="english">In my day, we had fantastical feasts when I lived in the palace.</span></p>

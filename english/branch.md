@@ -1,5 +1,7 @@
 # branch 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/branch.md)
+
 <p><span class="chinese">我把那根树枝锯掉了。</span><span class="english">I sawed the branch away.</span></p>
 
 <p><span class="chinese">选择启发式分支。</span><span class="english">Pick a branch heuristic.</span></p>

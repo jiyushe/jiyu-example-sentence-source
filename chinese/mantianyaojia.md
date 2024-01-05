@@ -1,5 +1,7 @@
 # 漫天要价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mantianyaojia.md)
+
 <p><span class="chinese">他们由于漫天要价而把自己赶出了世界市场。</span><span class="english">They priced themselves out of the world market.</span></p>
 
 <p><span class="chinese">他们企图向我漫天要价，但我没同意。</span><span class="english">They tried to overcharge me, but I didn't agree.</span></p>

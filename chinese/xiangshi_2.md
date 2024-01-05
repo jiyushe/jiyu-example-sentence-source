@@ -1,5 +1,7 @@
 # 相视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshi_2.md)
+
 <p><span class="chinese">琳达和我相视而笑。</span><span class="english">Linda and I looked at each other.</span></p>
 
 <p><span class="chinese">费雷德和多丽丝相视一笑。</span><span class="english">Fred and Doris smiled at each other.</span></p>

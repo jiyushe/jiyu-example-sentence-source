@@ -1,5 +1,7 @@
 # criminality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criminality.md)
+
 <p><span class="chinese">这是对犯罪的无限冷酷。</span><span class="english">that is callousness heaped on criminality.</span></p>
 
 <p><span class="chinese">童年挨揍也跟犯罪有关联。</span><span class="english">Spanking in childhood also has been related to criminality.</span></p>

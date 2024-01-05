@@ -1,5 +1,7 @@
 # 露面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loumian.md)
+
 <p><span class="chinese">而你不愿意在公共场合露面，</span><span class="english">and you cannot go out in public,</span></p>
 
 <p><span class="chinese">为什么这个人不再露面了呢？</span><span class="english">Why had not that man appeared again?</span></p>

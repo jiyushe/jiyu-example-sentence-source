@@ -1,5 +1,7 @@
 # glycosylation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycosylation.md)
+
 <p><span class="chinese">酪氨酸酶翻译后加工和糖基化。</span><span class="english">Posttranslational processing and glycosylation of tyrosinase.</span></p>
 
 <p><span class="chinese">目的构建汉坦病毒糖基化位点的突变体。</span><span class="english">Objective To construct N-linked glycosylation site mutants of hantavirus.</span></p>

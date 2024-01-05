@@ -1,5 +1,7 @@
 # 海塘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haitang.md)
+
 <p><span class="chinese">我们随着观潮的人群，登上了海塘大堤。</span><span class="english">We with the crowd, tidal bore on embankment is adopted.</span></p>
 
 <p><span class="chinese">台州市椒江外沙海塘因历史原因长期存在渗漏现象。</span><span class="english">Seepage has been existed in the seawall in Waisha of Jiang River in Taizhou City.</span></p>

@@ -1,5 +1,7 @@
 # 武术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushu_3.md)
+
 <p><span class="chinese">练武术有前程吗？</span><span class="english">A Future In Martial Arts?</span></p>
 
 <p><span class="chinese">迈克，你学过武术吗?。</span><span class="english">Mike, did you learn martial arts?</span></p>

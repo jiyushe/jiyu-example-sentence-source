@@ -1,5 +1,7 @@
 # disbelieving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disbelieving.md)
+
 <p><span class="chinese">艾布瑞妮回以一个不相信的冷笑。</span><span class="english">Ambreene favored him with a disbelieving sneer.</span></p>
 
 <p><span class="chinese">他用一种怀疑的眼神看着她，“从不？”</span><span class="english">He fixed her with a disbelieving gaze. “Never?”</span></p>

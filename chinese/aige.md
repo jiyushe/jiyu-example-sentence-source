@@ -1,5 +1,7 @@
 # 哀歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aige.md)
+
 <p><span class="chinese">孤零零的哀歌将不会唤醒水手。</span><span class="english">Monody shall not wake the mariner.</span></p>
 
 <p><span class="chinese">比起怀旧更像是哀歌。</span><span class="english">It is elegiac rather than nostalgic.</span></p>

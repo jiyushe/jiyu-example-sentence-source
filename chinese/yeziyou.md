@@ -1,5 +1,7 @@
 # 椰子油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeziyou.md)
+
 <p><span class="chinese">加上椰子油？</span><span class="english">With coconut oil?</span></p>
 
 <p><span class="chinese">这辆车燃料为椰子油。</span><span class="english">This one runs on coconut oil, too.</span></p>

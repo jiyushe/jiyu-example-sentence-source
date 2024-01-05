@@ -1,5 +1,7 @@
 # emery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emery.md)
+
 <p><span class="chinese">金刚砂黑白常坚硬的金属物质。</span><span class="english">The emery is a hard metallic substance.</span></p>
 
 <p><span class="chinese">塑造钉子，使用一个文件或金刚砂董事会。</span><span class="english">Shape the nail, using a file or emery board.</span></p>

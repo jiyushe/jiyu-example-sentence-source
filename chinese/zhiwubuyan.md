@@ -1,5 +1,7 @@
 # 知无不言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwubuyan.md)
+
 <p><span class="chinese">我一直在妈妈面前知无不言。</span><span class="english">I had always been completely open with my mother.</span></p>
 
 <p><span class="chinese">希望你们知无不言，言无不尽。</span><span class="english">I hope you say all you know and say it without reserve".</span></p>

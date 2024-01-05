@@ -1,5 +1,7 @@
 # tdma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tdma.md)
+
 <p><span class="chinese">电源噪声滤波器的基本原理与应用方法。</span><span class="english">Application Note 1496 Noise, TDMA Noise, and Suppression Techniques.</span></p>
 
 <p><span class="chinese">因此，时隙同步技术是TDMA网络协议的关键技术。</span><span class="english">The technique of time slot is the key technique of the TDMA network protocol.</span></p>

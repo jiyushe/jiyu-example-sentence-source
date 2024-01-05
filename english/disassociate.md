@@ -1,5 +1,7 @@
 # disassociate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disassociate.md)
+
 <p><span class="chinese">我希望我同这个令人遗憾的决定撇清关系。</span><span class="english">I wish to disassociate myself from this very sad decision.</span></p>
 
 <p><span class="chinese">我意愿离开一切相关的疾病机械装置。</span><span class="english">I intend to disassociate from all related disease machinery.</span></p>

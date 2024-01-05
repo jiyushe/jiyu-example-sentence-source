@@ -1,5 +1,7 @@
 # laminae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laminae.md)
+
 <p><span class="chinese">并观察术后切除椎板再生情况。</span><span class="english">Regeneration of exscinded laminae was observed.</span></p>
 
 <p><span class="chinese">它的粒度的均一往往会掩盖了纹层层理。</span><span class="english">Its equi dimensional grain size tends to mask the laminae.</span></p>

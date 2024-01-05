@@ -1,5 +1,7 @@
 # 表姐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaojie.md)
+
 <p><span class="chinese">我表姐在中国航空公司工作。</span><span class="english">My cousin works for Air China.</span></p>
 
 <p><span class="chinese">“没错儿，”他表姐回答。</span><span class="english">Quite sure,' replied his cousin.</span></p>

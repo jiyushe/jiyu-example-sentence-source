@@ -1,5 +1,7 @@
 # panchromatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panchromatic.md)
+
 <p><span class="chinese">卫星全色的图像和结果报告。</span><span class="english">SPOT Panchromatic image and results are reported.</span></p>
 
 <p><span class="chinese">给出了制作全色全息干版的工艺。</span><span class="english">The making technology of panchromatic holographic plate was supplied.</span></p>

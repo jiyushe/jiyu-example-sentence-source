@@ -1,5 +1,7 @@
 # bitumen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bitumen.md)
+
 <p><span class="chinese">沥青价格节节上涨，卷材企业路在何方?。</span><span class="english">With bitumen price soaring, where is a way out?</span></p>
 
 <p><span class="chinese">与沥青和煤焦油磁漆浸透良好。</span><span class="english">It's compatible with impregnating bitumen and coal tar enamel.</span></p>

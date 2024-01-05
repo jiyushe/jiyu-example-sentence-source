@@ -1,5 +1,7 @@
 # headwaters
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headwaters.md)
+
 <p><span class="chinese">午餐后，我们去漂流的源头。</span><span class="english">Finishing lunch, we went to the drifting headwaters.</span></p>
 
 <p><span class="chinese">四道乃比逊、基训、底格里斯和幼发拉底河。</span><span class="english">The four headwaters are Pishon, Gihon, Tigris and Euphrates.</span></p>

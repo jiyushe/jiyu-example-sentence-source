@@ -1,5 +1,7 @@
 # 微雕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weidiao.md)
+
 <p><span class="chinese">每个微雕的原料仅仅是一根牙签。</span><span class="english">Each sculpture was made from only one toothpick.</span></p>
 
 <p><span class="chinese">壁板中镶嵌的是260块稀有的古印度波斯特色的微雕。</span><span class="english">Inset in the paneling are 260 rare miniatures of Indo-Persian heritage.</span></p>

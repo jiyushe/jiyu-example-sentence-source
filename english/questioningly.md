@@ -1,5 +1,7 @@
 # questioningly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/questioningly.md)
+
 <p><span class="chinese">我疑虑地瞥了他一眼。</span><span class="english">I glanced at him questioningly.</span></p>
 
 <p><span class="chinese">她用怀疑的目光看著我。</span><span class="english">She looked at me questioningly.</span></p>

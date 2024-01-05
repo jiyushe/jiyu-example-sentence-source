@@ -1,5 +1,7 @@
 # 免疫性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianyixing.md)
+
 <p><span class="chinese">“群体免疫性”低。</span><span class="english">Low 'herd immunity'.</span></p>
 
 <p><span class="chinese">天疱疮是一种罕见的自身免疫性皮肤病。</span><span class="english">Pemphigus is an uncommon autoimmune skin disease.</span></p>

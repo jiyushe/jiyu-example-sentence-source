@@ -1,5 +1,7 @@
 # anticompetitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticompetitive.md)
+
 <p><span class="chinese">人们认为这是反竞争的行为。</span><span class="english">It is considered anticompetitive.</span></p>
 
 <p><span class="chinese">谷歌因在专利竞购大战中失利，批评这些交易的达成不利于市场竞争。</span><span class="english">Google, which lost out in the bidding, criticized the deal as an anticompetitive strategy.</span></p>

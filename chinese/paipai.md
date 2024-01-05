@@ -1,5 +1,7 @@
 # 拍拍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paipai.md)
+
 <p><span class="chinese">拍拍手。</span><span class="english">Clap your hands.</span></p>
 
 <p><span class="chinese">现在拍拍手。</span><span class="english">Now clap your hands.</span></p>

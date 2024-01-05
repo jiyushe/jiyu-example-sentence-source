@@ -1,5 +1,7 @@
 # distributary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distributary.md)
+
 <p><span class="chinese">因此得到，目标体模拟方法更适合三角洲分流河道的岩相建模。</span><span class="english">So Object Modeling method are more fit for distributary channel modeling.</span></p>
 
 <p><span class="chinese">分流河道发育情况控制了三角洲朵体的大小和位置。</span><span class="english">The size and location of the deltas were controlled by distributary watercourses.</span></p>

@@ -1,5 +1,7 @@
 # anaphase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaphase.md)
+
 <p><span class="chinese">后期减少迟发行溃疡。</span><span class="english">Anaphase it can reduce the tardive ulcer.</span></p>
 
 <p><span class="chinese">有丝分裂或减数分裂的最后阶段，发生在细胞分裂后期之后。</span><span class="english">The final stage of mitosis or meiosis, occurring after anaphase.</span></p>

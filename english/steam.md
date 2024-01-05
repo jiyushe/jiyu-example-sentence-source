@@ -1,5 +1,7 @@
 # steam 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steam.md)
+
 <p><span class="chinese">守门人关掉了蒸汽。</span><span class="english">Janitors shut off steam.</span></p>
 
 <p><span class="chinese">让每眼暖锅都热可执手。</span><span class="english">Let every hot pot steam.</span></p>

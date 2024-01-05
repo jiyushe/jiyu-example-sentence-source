@@ -1,5 +1,7 @@
 # 生效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxiao.md)
+
 <p><span class="chinese">疯魔现在立即生效。</span><span class="english">Madness is now immediate.</span></p>
 
 <p><span class="chinese">那么这疫苗是如何生效的呢？</span><span class="english">So what does the vaccine do?</span></p>

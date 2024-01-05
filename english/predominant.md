@@ -1,5 +1,7 @@
 # predominant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predominant.md)
+
 <p><span class="chinese">占统治地位的宗教是路德教会。</span><span class="english">The predominant religion is Lutheran.</span></p>
 
 <p><span class="chinese">法国在陆地上占优势，英国则在海上。</span><span class="english">France was predominant on land, Britain at sea.</span></p>

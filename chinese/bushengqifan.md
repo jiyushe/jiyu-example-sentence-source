@@ -1,5 +1,7 @@
 # 不胜其烦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushengqifan.md)
+
 <p><span class="chinese">在纽约的时候你就已经让我不胜其烦了。</span><span class="english">You have been on my ass ever since New York.</span></p>
 
 <p><span class="chinese">她回答这些幼稚的问题觉得不胜其烦。</span><span class="english">She was tired of answering these puerile questions.</span></p>

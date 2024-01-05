@@ -1,5 +1,7 @@
 # 破铜烂铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/potonglantie.md)
+
 <p><span class="chinese">不如多扔些破铜烂铁。</span><span class="english">Better throw in more junk and scrap.</span></p>
 
 <p><span class="chinese">咱明白点说，你的车就是破铜烂铁。</span><span class="english">Just to be clear, your car's a P.O.S.</span></p>

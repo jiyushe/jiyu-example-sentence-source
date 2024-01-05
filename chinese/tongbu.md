@@ -1,5 +1,7 @@
 # 同步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongbu.md)
+
 <p><span class="chinese">一个能同步的文件夹。</span><span class="english">A folder that syncs.</span></p>
 
 <p><span class="chinese">同步所有节点。</span><span class="english">Synchronize all nodes.</span></p>

@@ -1,5 +1,7 @@
 # 油橄榄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youganlan.md)
+
 <p><span class="chinese">希腊人认为，是油橄榄提供人们光明和营养。</span><span class="english">Greeks believe that is the olive provided people with a bright and nutrition.</span></p>
 
 <p><span class="chinese">油橄榄叶主要含有橄榄苦苷、黄酮和多酚等抗氧化物。</span><span class="english">There are many antioxidants in olive leaves such as oleuropein flavonoids andpolyphenols.</span></p>

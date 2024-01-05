@@ -1,5 +1,7 @@
 # 解决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejue_1.md)
+
 <p><span class="chinese">解决现金流问题。</span><span class="english">Cashflow Solution.</span></p>
 
 <p><span class="chinese">什么都可以解决。</span><span class="english">You’re off the hook.</span></p>

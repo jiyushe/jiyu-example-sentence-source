@@ -1,5 +1,7 @@
 # 史话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihua.md)
+
 <p><span class="chinese">现在，我们继续向你讲述美国史话。</span><span class="english">Now, we continue the story.</span></p>
 
 <p><span class="chinese">这是篇关于橡胶的史话。</span><span class="english">Here is the story of rubber.</span></p>

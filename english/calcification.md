@@ -1,5 +1,7 @@
 # calcification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcification.md)
+
 <p><span class="chinese">可见瓣膜尖端有钙化结节。</span><span class="english">Nodules of calcification are seen on the cusps here.</span></p>
 
 <p><span class="chinese">它经常包含坏死区和钙化区。</span><span class="english">They often contain areas of necrosis and calcification.</span></p>

@@ -1,5 +1,7 @@
 # naphtha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naphtha.md)
+
 <p><span class="chinese">任选地，所述烯烃石脑油含低含量的酸。</span><span class="english">Optionally the olefinic naphtha has a low content of acids.</span></p>
 
 <p><span class="chinese">石脑油原料的烃类分子得到重新排列。</span><span class="english">The hydrocarbon molecules in naphtha feedstock are rearranged.</span></p>

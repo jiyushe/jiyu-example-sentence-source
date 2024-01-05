@@ -1,5 +1,7 @@
 # rorty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rorty.md)
+
 <p><span class="chinese">在这些问题上，罗蒂是对的。</span><span class="english">On these matters, Rorty has me right.</span></p>
 
 <p><span class="chinese">罗蒂教授于1931年出生在纽约城。</span><span class="english">Professor Rorty was born in New York City in 1931.</span></p>

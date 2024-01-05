@@ -1,5 +1,7 @@
 # revealing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revealing.md)
+
 <p><span class="chinese">但是，没有一张有如这一张这么暴露。</span><span class="english">But none has been so revealing as this.</span></p>
 
 <p><span class="chinese">再唱一遍，以你美妙的嗓音</span><span class="english">Sing again, with your dear voice revealing</span></p>

@@ -1,5 +1,7 @@
 # fundamentality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fundamentality.md)
+
 <p><span class="chinese">这样才是根本性的解决问题。</span><span class="english">It is the settle problem of fundamentality so.</span></p>
 
 <p><span class="chinese">道德教育是学校教育的根本。</span><span class="english">Moral education fundamentality of school education.</span></p>

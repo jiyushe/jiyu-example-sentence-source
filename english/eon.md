@@ -1,5 +1,7 @@
 # eon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eon.md)
+
 <p><span class="chinese">我在都市里每天都吃。</span><span class="english">I eon them every day in the city.</span></p>
 
 <p><span class="chinese">同意撤退信号并报告。</span><span class="english">Agree eon retreat signal and report.</span></p>

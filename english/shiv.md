@@ -1,5 +1,7 @@
 # shiv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shiv.md)
+
 <p><span class="chinese">席夫·马利克其他新闻媒体于华盛顿联合报道</span><span class="english">Shiv Malik and agencies in Washington</span></p>
 
 <p><span class="chinese">另一名囚犯走近，迅速递给他一把尖刀。</span><span class="english">Another inmate approaches and quickly hands him a shiv.</span></p>

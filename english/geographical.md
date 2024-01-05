@@ -1,5 +1,7 @@
 # geographical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geographical.md)
+
 <p><span class="chinese">特别是其独特的地理位子！</span><span class="english">Beer-sheba its unique geographical position!</span></p>
 
 <p><span class="chinese">单击下一步进入地理信息。</span><span class="english">Click Next to access geographical information.</span></p>

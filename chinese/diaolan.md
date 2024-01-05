@@ -1,5 +1,7 @@
 # 吊兰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaolan.md)
+
 <p><span class="chinese">一些植物的效果要比吊兰好的多。</span><span class="english">And some plants do a much better job than the spider plant.</span></p>
 
 <p><span class="chinese">大叶吊兰和鹭鸶兰的核型研究。</span><span class="english">Karyotype study on Chlorophytum malayense and Diuranthera major.</span></p>

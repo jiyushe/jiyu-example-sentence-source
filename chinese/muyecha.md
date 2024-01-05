@@ -1,5 +1,7 @@
 # 母夜叉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muyecha.md)
+
 <p><span class="chinese">他的老婆是个十足的母夜叉！</span><span class="english">His wife is an absolute dragon!</span></p>
 
 <p><span class="chinese">那女人是十足的母夜叉。</span><span class="english">The woman is an absolute dragon.</span></p>

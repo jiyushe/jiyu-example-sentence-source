@@ -1,5 +1,7 @@
 # 浑浑噩噩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunhunee.md)
+
 <p><span class="chinese">一个上午就这样浑浑噩噩地过去了。</span><span class="english">The rest of the morning passed in a blur.</span></p>
 
 <p><span class="chinese">注意读心记事。不要浑浑噩噩的度过一天。</span><span class="english">Take mental notes. Don't sleepwalk through the day.</span></p>

@@ -1,5 +1,7 @@
 # biostatistics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biostatistics.md)
+
 <p><span class="chinese">生物统计学已经广泛运用于临床数据的分析上面。</span><span class="english">Biostatistics is widely used on clinical data's analysis.</span></p>
 
 <p><span class="chinese">最后，探讨了FNIRS在疾病诊断方面的应用。</span><span class="english">Finally, we apply FNIRS for disease detection with Biostatistics method.</span></p>

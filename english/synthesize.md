@@ -1,5 +1,7 @@
 # synthesize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synthesize.md)
+
 <p><span class="chinese">目的合成芝麻酚。</span><span class="english">Aim To synthesize Seasmol.</span></p>
 
 <p><span class="chinese">对风险进行综合与分级。</span><span class="english">Synthesize and rank the risks.</span></p>

@@ -1,5 +1,7 @@
 # 明了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingliao.md)
+
 <p><span class="chinese">这就很明了了。</span><span class="english">Well, that clears that up.</span></p>
 
 <p><span class="chinese">现在看来很明了了。</span><span class="english">Now that's pretty clearly true.</span></p>

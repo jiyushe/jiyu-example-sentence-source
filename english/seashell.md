@@ -1,5 +1,7 @@
 # seashell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seashell.md)
+
 <p><span class="chinese">我是海贝月光女神。</span><span class="english">AM Seashell Moon Woman.</span></p>
 
 <p><span class="chinese">把一枚海螺放在耳边?。</span><span class="english">With your ear to a seashell ?</span></p>

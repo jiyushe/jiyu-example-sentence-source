@@ -1,5 +1,7 @@
 # 宣战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanzhan.md)
+
 <p><span class="chinese">国会遂对日本宣战。</span><span class="english">Congress declared war on Japan.</span></p>
 
 <p><span class="chinese">然后他又向威斯特玛王国宣战。</span><span class="english">He declares war on the kingdom of Westmarch.</span></p>

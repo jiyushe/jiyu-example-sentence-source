@@ -1,5 +1,7 @@
 # 工人运动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongrenyundong.md)
+
 <p><span class="chinese">他们瓦解了工人运动。</span><span class="english">They disintegrated the labour movement.</span></p>
 
 <p><span class="chinese">在伦敦时他研究了英国的工人运动。</span><span class="english">While in London, he studied the English labour movement.</span></p>

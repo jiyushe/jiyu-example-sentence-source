@@ -1,5 +1,7 @@
 # supposedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supposedly.md)
+
 <p><span class="chinese">据说他听到了风声。</span><span class="english">Supposedly he was tipped off.</span></p>
 
 <p><span class="chinese">那应该是很令人兴奋的经历。</span><span class="english">It is supposedly a thrilling experience.</span></p>

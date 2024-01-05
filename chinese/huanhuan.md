@@ -1,5 +1,7 @@
 # 环环
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanhuan.md)
+
 <p><span class="chinese">环环扣扣的这些连接让他难以透气。</span><span class="english">They make it harder for him to breathe.</span></p>
 
 <p><span class="chinese">让我们把它看作是环环相套的三个圈。</span><span class="english">Let's think of it as three circles one inside another.</span></p>

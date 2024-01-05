@@ -1,5 +1,7 @@
 # nitriding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitriding.md)
+
 <p><span class="chinese">因而，检验镗轴的氮化质量十分重要。</span><span class="english">So the testing nitriding quality becomes very important.</span></p>
 
 <p><span class="chinese">指出了今后离子渗氮技术的发展方向。</span><span class="english">The direction of progress plasma nitriding was pointed out.</span></p>

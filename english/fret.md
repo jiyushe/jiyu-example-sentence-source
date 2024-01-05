@@ -1,5 +1,7 @@
 # fret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fret.md)
+
 <p><span class="chinese">如此烦躁、备受折磨！</span><span class="english">I fret and suffer torments!</span></p>
 
 <p><span class="chinese">疑惑使他烦躁不安。</span><span class="english">Doubts began to fret his mind.</span></p>

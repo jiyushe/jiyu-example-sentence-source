@@ -1,5 +1,7 @@
 # 遮遮掩掩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhezheyanyan.md)
+
 <p><span class="chinese">这是一封遮遮掩掩的化缘信吗？</span><span class="english">Was this a veiled begging letter?</span></p>
 
 <p><span class="chinese">不要保秘也不要遮遮掩掩。</span><span class="english">Don't keep secrets or hide behind spin.</span></p>

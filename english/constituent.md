@@ -1,5 +1,7 @@
 # constituent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constituent.md)
+
 <p><span class="chinese">骨头的主要成分是磷酸钙。</span><span class="english">Its major constituent is calcium phosphate.</span></p>
 
 <p><span class="chinese">是塔塔酱与酸辣酱的主要成分。</span><span class="english">Constituent of tartar sauce and many chutneys.</span></p>

@@ -1,5 +1,7 @@
 # aplastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aplastic.md)
+
 <p><span class="chinese">对于再生障碍性贫血。</span><span class="english">Aplastic anemia.</span></p>
 
 <p><span class="chinese">再生障碍性贫血的诊断标准。</span><span class="english">Criteria for the diagnosis of aplastic anemia?</span></p>

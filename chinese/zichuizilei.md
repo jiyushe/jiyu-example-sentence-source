@@ -1,5 +1,7 @@
 # 自吹自擂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zichuizilei.md)
+
 <p><span class="chinese">我们决不可自吹自擂。</span><span class="english">We must never brag and boast.</span></p>
 
 <p><span class="chinese">但他们对这个改变自吹自擂</span><span class="english">But here they are boasting about the change!</span></p>

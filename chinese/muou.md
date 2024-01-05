@@ -1,5 +1,7 @@
 # 木偶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muou.md)
+
 <p><span class="chinese">它是一只木偶。</span><span class="english">It's a puppet.</span></p>
 
 <p><span class="chinese">让我们做个木偶吧。</span><span class="english">Let's make a puppet.</span></p>

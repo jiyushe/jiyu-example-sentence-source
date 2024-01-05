@@ -1,5 +1,7 @@
 # voyager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voyager.md)
+
 <p><span class="chinese">“航行者”号正驶向一个大洋风暴。</span><span class="english">Voyager was heading for an ocean storm.</span></p>
 
 <p><span class="chinese">“航行者”号慢慢的沿跑道加速。</span><span class="english">Voyager began to move down the runway, slowly.</span></p>

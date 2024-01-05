@@ -1,5 +1,7 @@
 # 承接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengjie.md)
+
 <p><span class="chinese">我承接及设计的一间学校的舞蹈室。</span><span class="english">A Dance Room I am making for a school.</span></p>
 
 <p><span class="chinese">这是承接要案的专业公司。</span><span class="english">This is a go-to firm for important cases.</span></p>

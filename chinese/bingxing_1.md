@@ -1,5 +1,7 @@
 # 秉性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingxing_1.md)
+
 <p><span class="chinese">但是这位主人知道，密斯的克隆体不一定能有与它一样的脾气秉性。</span><span class="english">But he knows her clone may not have her temperament.</span></p>
 
 <p><span class="chinese">他将自己的气质秉性挥洒自如，如行云流水。</span><span class="english">He swims easily in the stream of his own temperament.</span></p>

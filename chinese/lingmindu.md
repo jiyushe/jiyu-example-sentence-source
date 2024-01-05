@@ -1,5 +1,7 @@
 # 灵敏度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingmindu.md)
+
 <p><span class="chinese">这台望远镜拥有三台高灵敏度的红外照相机。</span><span class="english">sensitive infrared cameras.</span></p>
 
 <p><span class="chinese">象质指示器当量灵敏度。</span><span class="english">Equivalent I. Q. I. sensitivity.</span></p>

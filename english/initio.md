@@ -1,5 +1,7 @@
 # initio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initio.md)
+
 <p><span class="chinese">无效的合同或者被撤销的合同自始没有法律约束力。</span><span class="english">An invalid or canceled contract is not legally binding ab initio.</span></p>
 
 <p><span class="chinese">本文用量子化学从头计算方法研究了1-苯基杂氮硅三环的电子结构和化学键。</span><span class="english">The structure and chemical bonds of 1-Fluorosiltrane have been studied by ab initio method.</span></p>

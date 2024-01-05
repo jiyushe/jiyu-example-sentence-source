@@ -1,5 +1,7 @@
 # 抹杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mosha.md)
+
 <p><span class="chinese">相信爱，能将所爱之人抹杀吗?。</span><span class="english">Wiil you kill someone you love.</span></p>
 
 <p><span class="chinese">你没办法抹杀自己的过去.</span><span class="english">And you have no way to expunge your past.</span></p>

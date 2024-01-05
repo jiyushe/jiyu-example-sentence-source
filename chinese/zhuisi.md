@@ -1,5 +1,7 @@
 # 追思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuisi.md)
+
 <p><span class="chinese">还是对我只有追思会？</span><span class="english">Would I just be an afterthought?</span></p>
 
 <p><span class="chinese">星期一马克的昔日同窗对他进行了追思。</span><span class="english">Mark Madoff was remembered fondly by former classmates Monday.</span></p>

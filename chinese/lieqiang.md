@@ -1,5 +1,7 @@
 # 列强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lieqiang.md)
+
 <p><span class="chinese">欧洲列强同意停止私掠船的行径。</span><span class="english">European powers agree to end privateering.</span></p>
 
 <p><span class="chinese">欧洲列强在亚洲扩大他们的管辖权。</span><span class="english">The European powers extended their authority in Asia.</span></p>

@@ -1,5 +1,7 @@
 # 间杂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianza.md)
+
 <p><span class="chinese">有一种看法认为种间杂种是罕见的，这种看法是无根据的。</span><span class="english">The notion that interspecific hybrids are rare is ill-founded.</span></p>
 
 <p><span class="chinese">对亚种间杂种物质运转率低的原因进行了讨论。</span><span class="english">Reasons for the low translocation of the assimilate to grains of ISHR were discussed.</span></p>

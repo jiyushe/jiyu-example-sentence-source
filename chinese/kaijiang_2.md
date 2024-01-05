@@ -1,5 +1,7 @@
 # 开讲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaijiang_2.md)
+
 <p><span class="chinese">咱们以一首英语歌开讲。</span><span class="english">Let's begin we class dawn an English song.</span></p>
 
 <p><span class="chinese">看着观众的目光，然后开讲。</span><span class="english">Look into the eyes of the audience, then speak.</span></p>

@@ -1,5 +1,7 @@
 # 任劳任怨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renlaorenyuan.md)
+
 <p><span class="chinese">整天工作，任劳任怨像头驴儿</span><span class="english">I work all the day like a donkey</span></p>
 
 <p><span class="chinese">休斯顿任劳任怨地为杰克逊做事。</span><span class="english">Houston had worked hard for Jackson.</span></p>

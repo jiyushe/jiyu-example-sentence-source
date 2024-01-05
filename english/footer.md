@@ -1,5 +1,7 @@
 # footer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footer.md)
+
 <p><span class="chinese">我还需要一对夫妇添加到页脚链接。</span><span class="english">I will also need a couple links added to footer.</span></p>
 
 <p><span class="chinese">它的顶部和底部分别有一个页眉和脚注。</span><span class="english">There is a header at top and a footer at bottom.</span></p>

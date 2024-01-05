@@ -1,5 +1,7 @@
 # penang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penang.md)
+
 <p><span class="chinese">我曾尝试寿司，在槟城和东京。</span><span class="english">I tried sushi at Penang and Tokyo.</span></p>
 
 <p><span class="chinese">槟城的买家，可以选择面交。</span><span class="english">For PENANG customer, we can MEET UP.</span></p>

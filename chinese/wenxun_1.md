@@ -1,5 +1,7 @@
 # 问询
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxun_1.md)
+
 <p><span class="chinese">它也应该通过“哼唱问询”测试。</span><span class="english">It should also pass the humming-query test.</span></p>
 
 <p><span class="chinese">您想了解他们问询的那种竹篮吗？</span><span class="english">Do you want to know about that kind of basket?</span></p>

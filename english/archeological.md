@@ -1,5 +1,7 @@
 # archeological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archeological.md)
+
 <p><span class="chinese">在中国日前传出一项考古学的大发现。</span><span class="english">There was a recent archeological discovery in China recently.</span></p>
 
 <p><span class="chinese">外部的证据也包括很多考古的发现。</span><span class="english">External evidence also includes many archeological discoveries.</span></p>

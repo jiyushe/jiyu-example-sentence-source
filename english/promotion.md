@@ -1,5 +1,7 @@
 # promotion 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promotion.md)
+
 <p><span class="chinese">扶持新的区域增长极。</span><span class="english">Promotion of new regional poles.</span></p>
 
 <p><span class="chinese">人无机遇失到晋落么？</span><span class="english">Is there any chance to get promotion?</span></p>

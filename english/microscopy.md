@@ -1,5 +1,7 @@
 # microscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microscopy.md)
+
 <p><span class="chinese">方法浸渍法与显微电镜技术。</span><span class="english">Methods Immersions method and electronic microscopy.</span></p>
 
 <p><span class="chinese">卖布是列文虎克的业务，而显微镜是他的爱好。</span><span class="english">Cloth was Leeuwenhoek’s business but microscopy his passion.</span></p>

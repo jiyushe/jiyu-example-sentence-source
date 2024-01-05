@@ -1,5 +1,7 @@
 # zwitterionic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zwitterionic.md)
+
 <p><span class="chinese">黄素2是现在最有可能在其两性离子地方式或作为其羧酸离子。</span><span class="english">Flavin 2 is most likely present in its zwitterionic form or as its carboxylate ion.</span></p>
 
 <p><span class="chinese">综述了两性离子表面活性剂在分析检测尤其在色谱分离和毛细管电泳技术中的应用。</span><span class="english">The application of zwitterionic surfactant to the fields of chromatography and capillary electrophoresis was reviewed.</span></p>

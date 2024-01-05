@@ -1,5 +1,7 @@
 # historicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/historicity.md)
+
 <p><span class="chinese">历史真实的地平线消失了之后，生活变成了些胡言乱语。</span><span class="english">When the horizon of historicity was lost, life became nonsense.</span></p>
 
 <p><span class="chinese">马克思主义发展观的历史性与时代化统一于其实践性本质。</span><span class="english">Its historicity and times are integrated in its practical essence.</span></p>

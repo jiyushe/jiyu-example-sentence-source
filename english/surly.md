@@ -1,5 +1,7 @@
 # surly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surly.md)
+
 <p><span class="chinese">这老头儿脾气倔。</span><span class="english">That old man is rather surly.</span></p>
 
 <p><span class="chinese">我们抱怨经常性的误点和态度恶劣的员工。</span><span class="english">We complain of frequent delays and surly staff.</span></p>

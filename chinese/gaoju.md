@@ -1,5 +1,7 @@
 # 高举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoju.md)
+
 <p><span class="chinese">喜乐是爱被高举时的情绪。</span><span class="english">JOY is love in exulting.</span></p>
 
 <p><span class="chinese">你所将要高举的是什么呢？</span><span class="english">Who are you going to lift up?</span></p>

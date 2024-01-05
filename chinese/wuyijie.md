@@ -1,5 +1,7 @@
 # 五一节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyijie.md)
+
 <p><span class="chinese">你好，今天是五一节。</span><span class="english">Hello, today is May Day.</span></p>
 
 <p><span class="chinese">亦称“五一节”，定在每年的五月一日。</span><span class="english">Labor's Day is on May 1st.</span></p>

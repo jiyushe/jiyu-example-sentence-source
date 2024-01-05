@@ -1,5 +1,7 @@
 # refrigerator 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refrigerator.md)
+
 <p><span class="chinese">关冰箱门。</span><span class="english">Closes the refrigerator door.</span></p>
 
 <p><span class="chinese">爬到冰箱顶上的猫。</span><span class="english">Cats on top of the refrigerator.</span></p>

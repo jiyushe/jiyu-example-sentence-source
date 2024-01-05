@@ -1,5 +1,7 @@
 # cluster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cluster.md)
+
 <p><span class="chinese">集群发送器通道。</span><span class="english">Cluster sender channel.</span></p>
 
 <p><span class="chinese">也能组成一个集合。</span><span class="english">They cluster in that way.</span></p>

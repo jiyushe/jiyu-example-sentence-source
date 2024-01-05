@@ -1,5 +1,7 @@
 # piteous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piteous.md)
+
 <p><span class="chinese">这狗发出可怜的叫声。</span><span class="english">The dog gave a piteous cry.</span></p>
 
 <p><span class="chinese">然后，就是那低得可怜的点击。</span><span class="english">And then, is the piteous low click.</span></p>

@@ -1,5 +1,7 @@
 # 士卒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizu.md)
+
 <p><span class="chinese">我们也可以在我们的界河边放上一些士卒。</span><span class="english">We can also set out a few pawns, on our side of the river.</span></p>
 
 <p><span class="chinese">将领和士卒离散，军中无大将时，可以攻击。</span><span class="english">When a general is separated from his soldiers, they can be attacked.</span></p>

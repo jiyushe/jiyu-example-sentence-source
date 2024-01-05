@@ -1,5 +1,7 @@
 # cattle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cattle.md)
+
 <p><span class="chinese">牛以吃草为主。</span><span class="english">Cattle feed on grass.</span></p>
 
 <p><span class="chinese">老牛不下崽。</span><span class="english">Old cattle breed not.</span></p>

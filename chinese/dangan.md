@@ -1,5 +1,7 @@
 # 单干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangan.md)
+
 <p><span class="chinese">大多数农场是独户单干。</span><span class="english">Most farms were one- family businesses.</span></p>
 
 <p><span class="chinese">只有单干的时候他才能显露出自己的真本事。</span><span class="english">Only when doing things alone can he show his paces.</span></p>

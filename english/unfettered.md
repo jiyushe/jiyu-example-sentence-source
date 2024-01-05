@@ -1,5 +1,7 @@
 # unfettered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfettered.md)
+
 <p><span class="chinese">若能以此去处事，一生安乐任逍遥。</span><span class="english">If can go in this life, happiness as free and unfettered.</span></p>
 
 <p><span class="chinese">这种不被束缚的未来是我今后自己时间和空间的承诺。</span><span class="english">This unfettered future was the promise of my time and place.</span></p>

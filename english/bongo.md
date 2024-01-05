@@ -1,5 +1,7 @@
 # bongo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bongo.md)
+
 <p><span class="chinese">邦戈介绍了非洲形势及现存热点问题的情况。</span><span class="english">Bongo introduced the situation and current hot-spot issues in Africa.</span></p>
 
 <p><span class="chinese">邦戈前总理让恩东说，过去的政策必须改变。</span><span class="english">Former Bongo prime minister Jean Ndong says past policies must change.</span></p>

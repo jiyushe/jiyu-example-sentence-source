@@ -1,5 +1,7 @@
 # squelch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squelch.md)
+
 <p><span class="chinese">赫兹压服口风。</span><span class="english">Hz squelch tone.</span></p>
 
 <p><span class="chinese">你不能压制要求。</span><span class="english">You cannot squelch wanting.</span></p>

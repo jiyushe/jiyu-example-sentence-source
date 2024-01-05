@@ -1,5 +1,7 @@
 # satisfactorily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satisfactorily.md)
+
 <p><span class="chinese">祝一切顺心如意！</span><span class="english">Wishes all satisfactorily pleasant!</span></p>
 
 <p><span class="chinese">汤的味道真好，令人满意。</span><span class="english">The soup tastes satisfactorily good.</span></p>

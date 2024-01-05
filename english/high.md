@@ -1,5 +1,7 @@
 # high
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/high.md)
+
 <p><span class="chinese">高空乘骑。</span><span class="english">Riding High.</span></p>
 
 <p><span class="chinese">高心去吧！</span><span class="english">High heart go!</span></p>

@@ -1,5 +1,7 @@
 # 商行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanghang.md)
+
 <p><span class="chinese">他们主要和B商行进行贸易。</span><span class="english">They mainly trade with B firms.</span></p>
 
 <p><span class="chinese">他上月创办一家新商行。</span><span class="english">He began a new business last month.</span></p>

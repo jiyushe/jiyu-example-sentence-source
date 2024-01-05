@@ -1,5 +1,7 @@
 # 护法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hufa.md)
+
 <p><span class="chinese">希望大家能够做护法神。</span><span class="english">Custodian of hope that we can do God.</span></p>
 
 <p><span class="chinese">藏历的每月第29日是供护法日。</span><span class="english">The Tibetan 29th is the day for the protector kangso rite.</span></p>

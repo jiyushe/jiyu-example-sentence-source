@@ -1,5 +1,7 @@
 # nota
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nota.md)
+
 <p><span class="chinese">不几掷，复输去。</span><span class="english">NotA few cast, answer lose.</span></p>
 
 <p><span class="chinese">对不起，什么地方是行李提领区？</span><span class="english">Excuse me, wITe is the baggage claim are nota?</span></p>

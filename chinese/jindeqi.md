@@ -1,5 +1,7 @@
 # 禁得起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jindeqi.md)
+
 <p><span class="chinese">这条船禁得起狂风暴雨的袭击。</span><span class="english">The ship can weather the furious storm.</span></p>
 
 <p><span class="chinese">有信念的人禁得起任何风暴。</span><span class="english">A person with faith can stand any storm.</span></p>

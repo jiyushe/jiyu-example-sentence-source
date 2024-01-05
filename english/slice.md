@@ -1,5 +1,7 @@
 # slice 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slice.md)
+
 <p><span class="chinese">将红辣椒洗净切丝。</span><span class="english">Wash chili and slice.</span></p>
 
 <p><span class="chinese">把火腿片切厚些。</span><span class="english">Slice the ham thicker.</span></p>

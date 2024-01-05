@@ -1,5 +1,7 @@
 # 内在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neizai.md)
+
 <p><span class="chinese">这个体式来自你的内在。</span><span class="english">It comes from within.</span></p>
 
 <p><span class="chinese">你有内在美是吗？</span><span class="english">You have inner beauty?</span></p>

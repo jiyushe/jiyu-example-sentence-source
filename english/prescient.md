@@ -1,5 +1,7 @@
 # prescient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prescient.md)
+
 <p><span class="chinese">事实证明，悲观者更有先见之明。</span><span class="english">The pessimists proved the more prescient.</span></p>
 
 <p><span class="chinese">事实上，我们应该注意到，前者是多么有先见之明。</span><span class="english">Indeed, we should note just how prescient the latter have been.</span></p>

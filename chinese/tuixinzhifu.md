@@ -1,5 +1,7 @@
 # 推心置腹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuixinzhifu.md)
+
 <p><span class="chinese">我想与你推心置腹地交谈。</span><span class="english">We need to have a heart-to-heart talk.</span></p>
 
 <p><span class="chinese">我愿推心置腹地与你谈谈你的婚姻问题。</span><span class="english">I will commune with you of your marriage.</span></p>

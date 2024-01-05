@@ -1,5 +1,7 @@
 # 喧闹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuannao.md)
+
 <p><span class="chinese">这是个喧闹的系统。</span><span class="english">This is a noisy system.</span></p>
 
 <p><span class="chinese">收音机发出喧闹的声音。</span><span class="english">The radio is blaring out.</span></p>

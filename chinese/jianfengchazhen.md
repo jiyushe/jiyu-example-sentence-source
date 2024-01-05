@@ -1,5 +1,7 @@
 # 见缝插针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianfengchazhen.md)
+
 <p><span class="chinese">我们甚至见缝插针，在旅途中打了一局迷你高尔夫。</span><span class="english">Somewhere on the trip we even fit in a round of miniature golf.</span></p>
 
 <p><span class="chinese">摩托车可以见缝插针，不受堵车之累。</span><span class="english">Motorcycles can make use of every bit of space, not bothered by traffic.</span></p>

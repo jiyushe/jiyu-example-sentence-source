@@ -1,5 +1,7 @@
 # 黄鹂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangli.md)
+
 <p><span class="chinese">教育，外语，英语学习，“蜗牛和黄鹂鸟”?。</span><span class="english">"A snail and a yellowbird" is a song.</span></p>
 
 <p><span class="chinese">一只黄鹂鸟落在那棵大树上。</span><span class="english">A canker-root stopped in that big tree.</span></p>

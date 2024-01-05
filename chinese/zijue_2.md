@@ -1,5 +1,7 @@
 # 自绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijue_2.md)
+
 <p><span class="chinese">选手们纷纷亮出各自绝活儿。</span><span class="english">Players shine to live absolutely severally in succession.</span></p>
 
 <p><span class="chinese">对胚胎发育期间形成的器官来说，部分细胞必须自绝生路。</span><span class="english">For organs to form during embryonic development, some cells must commit suicide.</span></p>

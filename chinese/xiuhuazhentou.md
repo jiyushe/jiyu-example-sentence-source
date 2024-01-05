@@ -1,5 +1,7 @@
 # 绣花枕头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuhuazhentou.md)
+
 <p><span class="chinese">如果你不好好学习，你就会成为一个绣花枕头。</span><span class="english">If you don't study hard , you'll be a dumb blonde.</span></p>
 
 <p><span class="chinese">另一位朋友说，他们的婚姻已堕落为一只“没有爱的绣花枕头”。</span><span class="english">Another said the marriage had been reduced to a " loveless sham".</span></p>

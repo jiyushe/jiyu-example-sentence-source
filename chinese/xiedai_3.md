@@ -1,5 +1,7 @@
 # 鞋带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiedai_3.md)
+
 <p><span class="chinese">你的鞋带松了。——汝其鞋带松去。</span><span class="english">Your shoe lace is loose.</span></p>
 
 <p><span class="chinese">我解不开鞋带。</span><span class="english">I can't undo my shoelaces.</span></p>

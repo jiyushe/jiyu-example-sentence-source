@@ -1,5 +1,7 @@
 # sublease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sublease.md)
+
 <p><span class="chinese">他们从市中心分租了一个小办公室。</span><span class="english">They sublease a small office in the centre of town.</span></p>
 
 <p><span class="chinese">第八条转租的约定-不能转租。</span><span class="english">Article 8 The agreement of sublease. -can not sublease.</span></p>

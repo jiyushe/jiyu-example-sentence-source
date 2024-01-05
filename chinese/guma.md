@@ -1,5 +1,7 @@
 # 姑妈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guma.md)
+
 <p><span class="chinese">我姑妈还养过一只猪作宠物呢。</span><span class="english">And my aunt used to keep a pet pig.</span></p>
 
 <p><span class="chinese">他们就象苏丝的姑妈一样胖。</span><span class="english">They’re all as fat as Susie’s aunt.</span></p>

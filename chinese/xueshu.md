@@ -1,5 +1,7 @@
 # 学术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueshu.md)
+
 <p><span class="chinese">学术气氛会相当好</span><span class="english">So that's a good climate.</span></p>
 
 <p><span class="chinese">愿学术自由之风劲吹。</span><span class="english">The wind of freedom blows.</span></p>

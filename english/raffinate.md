@@ -1,5 +1,7 @@
 # raffinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raffinate.md)
+
 <p><span class="chinese">您对萃取物感兴趣还是残留物?。</span><span class="english">Are you interested in the extract or the raffinate?</span></p>
 
 <p><span class="chinese">由萃余液可沉淀出碳酸镍粗产品。</span><span class="english">Crude nickel carbonate can be precipitated from raffinate.</span></p>

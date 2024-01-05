@@ -1,5 +1,7 @@
 # distinguished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distinguished.md)
+
 <p><span class="chinese">她在音乐方面成就出众。</span><span class="english">She distinguished herself in music.</span></p>
 
 <p><span class="chinese">她在艺术方面成就出众。</span><span class="english">She distinguished herself in the arts.</span></p>

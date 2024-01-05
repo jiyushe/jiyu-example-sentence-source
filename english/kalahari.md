@@ -1,5 +1,7 @@
 # kalahari
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kalahari.md)
+
 <p><span class="chinese">一只猫鼬在喀拉哈里搜寻猎物</span><span class="english">A meerkat scouting for predators in the Kalahari</span></p>
 
 <p><span class="chinese">它们因其居住地卡拉哈里沙漠得名。</span><span class="english">They get their name from their home -- the Kalahari Desert.</span></p>

@@ -1,5 +1,7 @@
 # quartic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quartic.md)
+
 <p><span class="chinese">一个完整四次的多项式由15项组成。</span><span class="english">A complete quartic polynomial consists of 15 terms.</span></p>
 
 <p><span class="chinese">而且四次式的方向盘又是怎么一回事啊？</span><span class="english">And what was the point of a quartic steering wheel?</span></p>

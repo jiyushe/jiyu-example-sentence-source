@@ -1,5 +1,7 @@
 # 暖色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuanse.md)
+
 <p><span class="chinese">有暖色和许多浅色调的地方。</span><span class="english">Where there are warm colours and a lot of light.</span></p>
 
 <p><span class="chinese">暖色比冷色更有亲近感。</span><span class="english">Warm colors “pull forward” more than cool colors.</span></p>

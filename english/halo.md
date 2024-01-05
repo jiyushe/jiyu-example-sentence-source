@@ -1,5 +1,7 @@
 # halo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halo.md)
+
 <p><span class="chinese">枫红，晕染了湖水。</span><span class="english">Red Maple Lake, halo.</span></p>
 
 <p><span class="chinese">一轮满月升了起来，周围带着光晕。</span><span class="english">The moon’s up, full, with halo.</span></p>

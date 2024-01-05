@@ -1,5 +1,7 @@
 # 浮现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxian.md)
+
 <p><span class="chinese">喜悦在悲伤中浮现。</span><span class="english">Out of sorrow comes joy.</span></p>
 
 <p><span class="chinese">他的面容浮现在我面前。</span><span class="english">His image rose before me.</span></p>

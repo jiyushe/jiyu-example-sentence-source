@@ -1,5 +1,7 @@
 # 心窍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinqiao.md)
+
 <p><span class="chinese">我真不明白是什么鬼把你迷了心窍――他叽叽咕咕地说。</span><span class="english">I don't know what gets into you, he mutters.</span></p>
 
 <p><span class="chinese">有传闻说国王被魔鬼迷住了心窍。</span><span class="english">There was a rumor saying the king was possessed by devils.</span></p>

@@ -1,5 +1,7 @@
 # auxin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auxin.md)
+
 <p><span class="chinese">而这些叶芽本身也可以生成生长素。</span><span class="english">These bars buds themselves also produce auxin.</span></p>
 
 <p><span class="chinese">这些花蕾本身也会产生茁长素。</span><span class="english">These bats buds themselves also produce auxin.</span></p>

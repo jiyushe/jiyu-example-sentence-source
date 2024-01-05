@@ -1,5 +1,7 @@
 # valour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valour.md)
+
 <p><span class="chinese">坚韧不拔有别于勇猛。</span><span class="english">Fortitude is distinct from valour.</span></p>
 
 <p><span class="chinese">他在战场里的英勇人所共见。</span><span class="english">His valour in the war war seen by everybody.</span></p>

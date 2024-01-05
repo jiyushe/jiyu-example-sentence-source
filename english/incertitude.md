@@ -1,5 +1,7 @@
 # incertitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incertitude.md)
+
 <p><span class="chinese">不确定的感情，让我无法工作。</span><span class="english">Incertitude love, make me incapable of work.</span></p>
 
 <p><span class="chinese">“流程熵”是反应流程不确定程度的量度。</span><span class="english">Process Entropy is a measurement for the incertitude degree of process.</span></p>

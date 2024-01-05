@@ -1,5 +1,7 @@
 # 往日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangri.md)
+
 <p><span class="chinese">她回忆起愉快的往日。</span><span class="english">Her mind reposed on the happy old days.</span></p>
 
 <p><span class="chinese">往日的欢乐景象常常浮现在我的脑海。</span><span class="english">The pleasant old days often recurred to me.</span></p>

@@ -1,5 +1,7 @@
 # 失宠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichong.md)
+
 <p><span class="chinese">她在宫廷中失宠。</span><span class="english">She was disgraced at court.</span></p>
 
 <p><span class="chinese">皇后不久失宠。被处死了。</span><span class="english">Soon the queen fell into disfavour and was executed.</span></p>

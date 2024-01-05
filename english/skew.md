@@ -1,5 +1,7 @@
 # skew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skew.md)
+
 <p><span class="chinese">识别潜在的歪斜和异常值。</span><span class="english">Identify potential skew and outliers.</span></p>
 
 <p><span class="chinese">但是有一个非常显著的右歪斜。</span><span class="english">However there is some notable right skew.</span></p>

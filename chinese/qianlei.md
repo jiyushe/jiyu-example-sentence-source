@@ -1,5 +1,7 @@
 # 牵累
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianlei.md)
+
 <p><span class="chinese">年幼的孩子是个牵累。</span><span class="english">Young children are a tie.</span></p>
 
 <p><span class="chinese">小孩对于她是一种牵累。</span><span class="english">Children were a tie on her.</span></p>

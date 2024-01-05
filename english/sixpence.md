@@ -1,5 +1,7 @@
 # sixpence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sixpence.md)
+
 <p><span class="chinese">月亮和六便士。</span><span class="english">The Moon and Sixpence.</span></p>
 
 <p><span class="chinese">唱一首六便士的歌。</span><span class="english">Sing a song of sixpence.</span></p>

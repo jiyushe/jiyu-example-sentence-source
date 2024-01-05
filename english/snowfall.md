@@ -1,5 +1,7 @@
 # snowfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowfall.md)
+
 <p><span class="chinese">新的降雪使耕地更加宽阔。</span><span class="english">New snowfall widens the plowing.</span></p>
 
 <p><span class="chinese">没有雪的世界好遗憾啊！</span><span class="english">O pity those where There's no snowfall.</span></p>

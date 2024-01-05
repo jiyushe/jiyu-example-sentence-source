@@ -1,5 +1,7 @@
 # stabilize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stabilize.md)
+
 <p><span class="chinese">稳定你的脚。</span><span class="english">Stabilize your feet.</span></p>
 
 <p><span class="chinese">浪漫情缘应当要稳定下来。</span><span class="english">Romantic relationships should stabilize.</span></p>

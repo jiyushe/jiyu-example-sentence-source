@@ -1,5 +1,7 @@
 # thetis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thetis.md)
+
 <p><span class="chinese">忒提斯看到他正在汗流浃背地工作。</span><span class="english">Thetis was sweating all over to see his work.</span></p>
 
 <p><span class="chinese">当特洛伊战争爆发时，西蒂斯异常焦虑。</span><span class="english">When the Trojan War broke out, Thetis was anxious.</span></p>

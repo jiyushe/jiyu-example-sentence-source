@@ -1,5 +1,7 @@
 # apotheosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apotheosis.md)
+
 <p><span class="chinese">乔丹是所有运动员的完美典范。</span><span class="english">He's the apotheosis of athletes.</span></p>
 
 <p><span class="chinese">拥有永丰，质量典范！</span><span class="english">Owning Yongfeng, quality apotheosis.</span></p>

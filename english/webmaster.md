@@ -1,5 +1,7 @@
 # webmaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/webmaster.md)
+
 <p><span class="chinese">请联系本网站的网络管理员。</span><span class="english">Please contact this site's webmaster.</span></p>
 
 <p><span class="chinese">谷歌网管员工具中的失效链接。</span><span class="english">Broken links in Google Webmaster Tools.</span></p>

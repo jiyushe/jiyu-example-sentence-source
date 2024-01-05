@@ -1,5 +1,7 @@
 # analyzer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analyzer.md)
+
 <p><span class="chinese">这是一个词汇分析器生成器</span><span class="english">Flex, a lexical analyzer generator</span></p>
 
 <p><span class="chinese">故障分析器在默认情况下是关闭的。</span><span class="english">Fault analyzer is turned off by default.</span></p>

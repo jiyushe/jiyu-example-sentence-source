@@ -1,5 +1,7 @@
 # galati
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galati.md)
+
 <p><span class="chinese">比赛本身乏善可陈，他们没能拿到1场平均有点可惜。</span><span class="english">There wasn't much in the game and Galati were unlucky not to get a draw.</span></p>
 
 <p><span class="chinese">而现在奥特鲁加拉迪已经表明，任何球队-我们指任何一支球队-都可以与他们比赛。</span><span class="english">And now Otelul Galati showed that anyone—and we mean anyone—can play with them.</span></p>

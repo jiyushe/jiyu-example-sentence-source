@@ -1,5 +1,7 @@
 # 佛珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fozhu.md)
+
 <p><span class="chinese">Tiffany黑玛瑙佛珠水泡项链。</span><span class="english">Toggle necklace. Black onyx beads.</span></p>
 
 <p><span class="chinese">佛珠是佛教的象徵之一。</span><span class="english">The mala is one of Buddhist symbols.</span></p>

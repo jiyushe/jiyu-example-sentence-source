@@ -1,5 +1,7 @@
 # cuprous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuprous.md)
+
 <p><span class="chinese">铜金属、铝金属及其合金。</span><span class="english">Cuprous metals, aluminium and its alloys.</span></p>
 
 <p><span class="chinese">所有铁类金属、合金钢材及铜金属。</span><span class="english">All the ferrous metals, steel alloys and cuprous metals.</span></p>

@@ -1,5 +1,7 @@
 # neptune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neptune.md)
+
 <p><span class="chinese">海王星是多风暴的星球。</span><span class="english">Neptune is the stormiest planet.</span></p>
 
 <p><span class="chinese">木星，土星，天王星和海王星。</span><span class="english">Jupiter, Saturn, Uranus and Neptune.</span></p>

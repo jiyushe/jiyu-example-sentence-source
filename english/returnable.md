@@ -1,5 +1,7 @@
 # returnable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/returnable.md)
+
 <p><span class="chinese">这些瓶子不可退还。</span><span class="english">These bottles are not returnable.</span></p>
 
 <p><span class="chinese">房东可以收取一笔可退还的押金。</span><span class="english">Landlords can charge a returnable deposit.</span></p>

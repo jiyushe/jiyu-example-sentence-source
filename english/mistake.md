@@ -1,5 +1,7 @@
 # mistake 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistake.md)
+
 <p><span class="chinese">又错了。</span><span class="english">Another mistake.</span></p>
 
 <p><span class="chinese">这的确是我的过错。</span><span class="english">It was my mistake.</span></p>

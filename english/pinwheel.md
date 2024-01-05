@@ -1,5 +1,7 @@
 # pinwheel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinwheel.md)
+
 <p><span class="chinese">他最喜欢的玩具是风车。</span><span class="english">His favorite toy is the pinwheel.</span></p>
 
 <p><span class="chinese">他最喜欢的玩具是风车。</span><span class="english">His favourite toy is the pinwheel.</span></p>

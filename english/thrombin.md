@@ -1,5 +1,7 @@
 # thrombin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrombin.md)
+
 <p><span class="chinese">达比加群是一种直接凝血酶抑制剂。</span><span class="english">We could use dabigatran. Dabigatran is a direct thrombin inhibitor.</span></p>
 
 <p><span class="chinese">血小板释放的一种酶，能在血液开始凝结时将凝血素转化为凝血酶。</span><span class="english">A plasma protein that is converted into thrombin during blood clotting.</span></p>

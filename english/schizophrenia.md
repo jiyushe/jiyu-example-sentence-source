@@ -1,5 +1,7 @@
 # schizophrenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schizophrenia.md)
+
 <p><span class="chinese">我举出的例子是精神分裂症。</span><span class="english">The examples are from schizophrenia.</span></p>
 
 <p><span class="chinese">做一只诚恳的脊椎动物。</span><span class="english">An animal had schizophrenia was uncured.</span></p>

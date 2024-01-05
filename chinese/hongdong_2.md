@@ -1,5 +1,7 @@
 # 轰动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongdong_2.md)
+
 <p><span class="chinese">那个发现引起了轰动。</span><span class="english">The discovery was sensational.</span></p>
 
 <p><span class="chinese">不要屈从于轰动效应。</span><span class="english">Don't give in to sensationalism.</span></p>

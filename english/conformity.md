@@ -1,5 +1,7 @@
 # conformity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conformity.md)
+
 <p><span class="chinese">他们强制顺从。</span><span class="english">They enforce conformity.</span></p>
 
 <p><span class="chinese">服从对安全很重要。</span><span class="english">Conformity is important to safety.</span></p>

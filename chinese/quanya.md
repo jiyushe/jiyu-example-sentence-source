@@ -1,5 +1,7 @@
 # 犬牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanya.md)
+
 <p><span class="chinese">犬牙和门牙挤压在一起。</span><span class="english">The canine is impacting on the incisor.</span></p>
 
 <p><span class="chinese">它会露出犬牙咆哮，还流很多口水。</span><span class="english">He'd bare his teeth and growl, he also slobbered a lot.</span></p>

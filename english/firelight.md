@@ -1,5 +1,7 @@
 # firelight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firelight.md)
+
 <p><span class="chinese">你知道关于火光的故事吗？</span><span class="english">Do you know about firelight ?</span></p>
 
 <p><span class="chinese">杯子在火光中闪耀。</span><span class="english">The glasses glanced in the firelight.</span></p>

@@ -1,5 +1,7 @@
 # 屏除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingchu.md)
+
 <p><span class="chinese">现在，他们屏除了过去有关佛陀的一些想法。</span><span class="english">Now they have removed one idea of Buddha.</span></p>
 
 <p><span class="chinese">我们应该屏除一切报复的念头。</span><span class="english">We should dismiss all thought of revenge.</span></p>

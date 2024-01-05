@@ -1,5 +1,7 @@
 # 灵气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingqi.md)
+
 <p><span class="chinese">灵气按摩杀手。</span><span class="english">Reiki killers.</span></p>
 
 <p><span class="chinese">您多频密教授灵气？</span><span class="english">How often do you teach?</span></p>

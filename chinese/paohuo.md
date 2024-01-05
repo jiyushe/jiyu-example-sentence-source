@@ -1,5 +1,7 @@
 # 炮火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paohuo.md)
+
 <p><span class="chinese">一支护航舰队被炮火击中。</span><span class="english">A convoy was hit by gunfire.</span></p>
 
 <p><span class="chinese">炮火要横飞多久。</span><span class="english">Es must the cannon balls fly.</span></p>

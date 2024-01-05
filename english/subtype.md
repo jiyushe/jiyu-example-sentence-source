@@ -1,5 +1,7 @@
 # subtype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtype.md)
+
 <p><span class="chinese">它是发硫失养症的亚型。</span><span class="english">It is a subtype of trichothiodystrophy.</span></p>
 
 <p><span class="chinese">第二个则是武具，属于神器的副类别。</span><span class="english">The second one is Equipment, which is a subtype of artifact.</span></p>

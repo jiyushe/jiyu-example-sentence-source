@@ -1,5 +1,7 @@
 # 芯子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzi.md)
+
 <p><span class="chinese">连接到芯子的软管松脱。</span><span class="english">Loose hose to core fitting.</span></p>
 
 <p><span class="chinese">蛇飞快地吐出芯子。</span><span class="english">The snake 's tongue shot out.</span></p>

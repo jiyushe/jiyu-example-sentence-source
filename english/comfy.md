@@ -1,5 +1,7 @@
 # comfy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comfy.md)
+
 <p><span class="chinese">见选配毛毯及一味太舒服了！</span><span class="english">See matching blankets and comfy cozies too!</span></p>
 
 <p><span class="chinese">你可以用女装背心和舒服的长裤来搭配。</span><span class="english">Match the top with a camisole and comfy pants.</span></p>

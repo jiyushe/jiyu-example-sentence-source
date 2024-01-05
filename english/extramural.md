@@ -1,5 +1,7 @@
 # extramural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extramural.md)
+
 <p><span class="chinese">你没听说吗?我们的足球队在校际比赛中输了。</span><span class="english">Haven't you heard?Our football team has lost in the extramural match.</span></p>
 
 <p><span class="chinese">论文阶段由校内导师和校外导师共同承担。</span><span class="english">Thesis should be instructed by both intramural and extramural academic advisor.</span></p>

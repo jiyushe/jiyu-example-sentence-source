@@ -1,5 +1,7 @@
 # abattoir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abattoir.md)
+
 <p><span class="chinese">你观察我屠场的起源。</span><span class="english">You observe the genesis of my abattoir.</span></p>
 
 <p><span class="chinese">我们知道在我们到达之前那是一个屠场。</span><span class="english">We knew it was an abattoir when we arrived.</span></p>

@@ -1,5 +1,7 @@
 # ampulla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ampulla.md)
+
 <p><span class="chinese">此图所示的是壶腹部的腺癌。</span><span class="english">This adenocarcinoma arose in the ampulla of Vater.</span></p>
 
 <p><span class="chinese">结论溶菌酶在壶腹癌分型中具有一定的临床意义。</span><span class="english">Lysozyme is important in typing of cancer of ampulla.</span></p>

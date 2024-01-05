@@ -1,5 +1,7 @@
 # clannish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clannish.md)
+
 <p><span class="chinese">他们那帮人抱成一团，不怎么欢迎生人。</span><span class="english">They were a clannish lot, not given to welcoming strangers.</span></p>
 
 <p><span class="chinese">你当然知道甘家的家庭是很家族主义的。</span><span class="english">Of course you know to begin with that the Kane family is very clannish.</span></p>

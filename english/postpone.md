@@ -1,5 +1,7 @@
 # postpone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postpone.md)
+
 <p><span class="chinese">生命不容伫留！</span><span class="english">Postpone not your life!</span></p>
 
 <p><span class="chinese">延迟新年排毒。</span><span class="english">Postpone the New Year detox.</span></p>

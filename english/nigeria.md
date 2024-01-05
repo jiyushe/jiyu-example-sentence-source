@@ -1,5 +1,7 @@
 # Nigeria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nigeria.md)
+
 <p><span class="chinese">主要分布在奈及利亚南部与加彭。</span><span class="english">Mainly in south Nigeria and Gabon.</span></p>
 
 <p><span class="chinese">他还将访问尼日利亚和肯尼亚。</span><span class="english">He will also visit Nigeria and Kenya.</span></p>

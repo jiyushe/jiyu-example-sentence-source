@@ -1,5 +1,7 @@
 # tightness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tightness.md)
+
 <p><span class="chinese">这样您就可以感受到它的气密性。</span><span class="english">So that you can feel its tightness.</span></p>
 
 <p><span class="chinese">第一，持续性的信贷紧缩。</span><span class="english">One is the continued tightness of credit.</span></p>

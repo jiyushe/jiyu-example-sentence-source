@@ -1,5 +1,7 @@
 # 步伐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufa_2.md)
+
 <p><span class="chinese">他的步伐开始减慢。</span><span class="english">His pace began to remit.</span></p>
 
 <p><span class="chinese">当时你的步伐是怎样的？</span><span class="english">What was your pace then?</span></p>

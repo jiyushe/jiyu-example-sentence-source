@@ -1,5 +1,7 @@
 # specific 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specific.md)
+
 <p><span class="chinese">还有更确切的见解吗</span><span class="english">Anything more specific?</span></p>
 
 <p><span class="chinese">它们是设备特定的。</span><span class="english">They are device specific.</span></p>

@@ -1,5 +1,7 @@
 # enviable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enviable.md)
+
 <p><span class="chinese">你白润的皮肤真让人羡慕。</span><span class="english">Your white skin is really enviable.</span></p>
 
 <p><span class="chinese">他的艺术才能使他赢得了令人羡慕的声誉。</span><span class="english">He acquired an enviable reputation for artistic ability.</span></p>

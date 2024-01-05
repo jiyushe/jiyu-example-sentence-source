@@ -1,5 +1,7 @@
 # lode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lode.md)
+
 <p><span class="chinese">我们发现丰富的矿脉突然增大了。</span><span class="english">We discovered the rich lode bellied out.</span></p>
 
 <p><span class="chinese">专家警告称，网络数据数量巨大也有其弊端。</span><span class="english">The rich lode of Web data, experts warn, has its perils.</span></p>

@@ -1,5 +1,7 @@
 # adjudication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjudication.md)
+
 <p><span class="chinese">该案件已提交上级法院裁决。</span><span class="english">The case was referred to a higher court for adjudication.</span></p>
 
 <p><span class="chinese">如何提高法官的审判业务素质？</span><span class="english">How to improve a judge's professional quality of adjudication?</span></p>

@@ -1,5 +1,7 @@
 # sturdily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sturdily.md)
+
 <p><span class="chinese">研磨机夹持必须安装牢固。</span><span class="english">Sturdily mount the clamping device of machine.</span></p>
 
 <p><span class="chinese">告诉自己坚强度过各种时期。</span><span class="english">Let myself live through various period sturdily.</span></p>

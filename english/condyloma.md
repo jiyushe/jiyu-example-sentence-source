@@ -1,5 +1,7 @@
 # condyloma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condyloma.md)
+
 <p><span class="chinese">激光治疗尖锐湿疣。</span><span class="english">Laser treatment of condyloma.</span></p>
 
 <p><span class="chinese">治疗尖锐湿疣关键是选择正确的治疗方法。</span><span class="english">The key is to select the correct treatment of condyloma.</span></p>

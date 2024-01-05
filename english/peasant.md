@@ -1,5 +1,7 @@
 # peasant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peasant.md)
+
 <p><span class="chinese">你就是一个农民。</span><span class="english">You're a peasant.</span></p>
 
 <p><span class="chinese">他是一个淳朴的庄稼人。</span><span class="english">He's an honest peasant.</span></p>

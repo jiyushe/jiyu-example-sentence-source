@@ -1,5 +1,7 @@
 # pb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pb.md)
+
 <p><span class="chinese">那是pB，有问题吗？</span><span class="english">And there's pB. Any questions?</span></p>
 
 <p><span class="chinese">这是pA星和pB星。</span><span class="english">So this is our pA star and pB star.</span></p>

@@ -1,5 +1,7 @@
 # 时不我待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibuwodai.md)
+
 <p><span class="chinese">时不我待。</span><span class="english">There is no time to waste.</span></p>
 
 <p><span class="chinese">但是欧债危机已经时不我待。</span><span class="english">Yet the euro crisis will not wait.</span></p>

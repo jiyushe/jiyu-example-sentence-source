@@ -1,5 +1,7 @@
 # 顽皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanpi.md)
+
 <p><span class="chinese">去！你这顽皮的小孩！</span><span class="english">Begone! you naughty boy!</span></p>
 
 <p><span class="chinese">胡多尔是个顽皮的约德尔男孩。</span><span class="english">Hoodle was a naughty Yordle boy.</span></p>

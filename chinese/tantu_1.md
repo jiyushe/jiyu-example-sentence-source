@@ -1,5 +1,7 @@
 # 滩涂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tantu_1.md)
+
 <p><span class="chinese">赣江滩涂，自然环境无可比拟，用水、用电便利。</span><span class="english">There is beautiful scenery and environment and rich water and electricity resource.</span></p>
 
 <p><span class="chinese">荆芭用于滩涂改造、建筑工地、矿山改造等。</span><span class="english">Busi Jing for the beach, transformation, construction sites, mines and transformation.</span></p>

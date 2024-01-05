@@ -1,5 +1,7 @@
 # menisci
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menisci.md)
+
 <p><span class="chinese">膝盖半月板的功能是什么？</span><span class="english">What is the function of the knee menisci?</span></p>
 
 <p><span class="chinese">半月板撕裂，可以很容易用锋利的快速运动。</span><span class="english">Menisci can be easily torn with sharp, rapid motions.</span></p>

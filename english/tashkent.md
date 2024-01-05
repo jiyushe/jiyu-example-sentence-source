@@ -1,5 +1,7 @@
 # tashkent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tashkent.md)
+
 <p><span class="chinese">关于胡锦涛主席出席上合组织塔什干峰会</span><span class="english">II. President Hu's presence at the SCO summit in Tashkent</span></p>
 
 <p><span class="chinese">苏联中亚部分东北部一城市，位于塔什干东北偏北。</span><span class="english">A city of northeast Central Asian U. S. S. R. north-northeast of Tashkent.</span></p>

@@ -1,5 +1,7 @@
 # 不和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buhe_1.md)
+
 <p><span class="chinese">就是胃不和则卧不安。</span><span class="english">She just broke up with Aden.</span></p>
 
 <p><span class="chinese">他的职责是播种不和。</span><span class="english">His Office is to sow Discords.</span></p>

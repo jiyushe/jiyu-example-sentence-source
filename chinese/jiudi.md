@@ -1,5 +1,7 @@
 # 旧地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiudi.md)
+
 <p><span class="chinese">他们会重回旧地，或者走访一些双方共同的朋友。</span><span class="english">They revisit mutual haunts and mutual friends.</span></p>
 
 <p><span class="chinese">我盯着旧地毯，更狠命地蹂躏我的鞋。</span><span class="english">I would writhe my shoe some more and stare down at the worn rug.</span></p>

@@ -1,5 +1,7 @@
 # 兀立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuli.md)
+
 <p><span class="chinese">我钦佩那兀立在海边的岩石，它勇敢地迎接海的冲刷。</span><span class="english">I admire the rock standing at the sea for it endures the scour of the tide.</span></p>
 
 <p><span class="chinese">李白、杜甫、王维以及其他诗人的诗词兀立在荣光宝殿之上。</span><span class="english">Poems by Li Bai, Du Fu, Wang Wei among others stand out in the halls of glory.</span></p>

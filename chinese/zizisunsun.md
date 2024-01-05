@@ -1,5 +1,7 @@
 # 子子孙孙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizisunsun.md)
+
 <p><span class="chinese">让我们子子孙孙都有水的陪伴！</span><span class="english">Let us have children and grandchildren with water!</span></p>
 
 <p><span class="chinese">我们有能力将奥运遗产传给子子孙孙。</span><span class="english">We can be able to leave the legacy to the next generations.</span></p>

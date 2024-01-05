@@ -1,5 +1,7 @@
 # illusionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illusionary.md)
+
 <p><span class="chinese">幻觉的风景如今就成了真实的景致。</span><span class="english">Illusionary landscapes are real landscapes now.</span></p>
 
 <p><span class="chinese">幻觉的屏风之外，夏天，热浪滚滚。</span><span class="english">Beyond the illusionary screen, summer heat is billowing.</span></p>

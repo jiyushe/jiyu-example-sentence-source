@@ -1,5 +1,7 @@
 # 绝唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juechang.md)
+
 <p><span class="chinese">这是凯文的绝唱游戏。</span><span class="english">It was Kevin's swansong game.</span></p>
 
 <p><span class="chinese">这么早宣布，是为了新专辑和巡演有个好收获吧…所谓绝唱…</span><span class="english">We uploaded the very first snippets from our new album for you.</span></p>

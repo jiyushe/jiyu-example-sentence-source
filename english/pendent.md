@@ -1,5 +1,7 @@
 # pendent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pendent.md)
+
 <p><span class="chinese">头顶上是一盏吊灯。</span><span class="english">There is a pendent lamp.</span></p>
 
 <p><span class="chinese">这笔买卖还未定。</span><span class="english">The sale is still pendent.</span></p>

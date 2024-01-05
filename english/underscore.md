@@ -1,5 +1,7 @@
 # underscore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underscore.md)
+
 <p><span class="chinese">但我要强调的是，我们不仅重返，而且会留下来。</span><span class="english">But I want to underscore that we are back to stay.</span></p>
 
 <p><span class="chinese">在默认情况下，分隔符是下划线字符。</span><span class="english">By default, the separator is an underscore character.</span></p>

@@ -1,5 +1,7 @@
 # 抹黑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mohei_1.md)
+
 <p><span class="chinese">诽谤抹黑他，然后你赢了。</span><span class="english">Debilitate or sling mud at him, and you win!</span></p>
 
 <p><span class="chinese">这些人利用谣言抹黑中国的企图决不会得逞。</span><span class="english">Their attempt to defame China will get nowhere.</span></p>

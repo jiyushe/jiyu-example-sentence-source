@@ -1,5 +1,7 @@
 # 伟人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiren_1.md)
+
 <p><span class="chinese">莫札特是位音乐伟人。</span><span class="english">Mozart is a music giant.</span></p>
 
 <p><span class="chinese">伟人凯撒,雄狮百万,诀死之魂,何人祭奠</span><span class="english">Over whom Did the Caesars triumph?</span></p>

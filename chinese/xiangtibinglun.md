@@ -1,5 +1,7 @@
 # 相提并论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangtibinglun.md)
+
 <p><span class="chinese">你不可以把他的诗歌和他的剧本相提并论。</span><span class="english">You cannot equate his poems with his plays.</span></p>
 
 <p><span class="chinese">事实上没人能在写作上和他相提并论。</span><span class="english">Actually no one can parallel him in writing.</span></p>

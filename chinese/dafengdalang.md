@@ -1,5 +1,7 @@
 # 大风大浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dafengdalang.md)
+
 <p><span class="chinese">大风大浪已是过眼云烟。</span><span class="english">Wind and wave has already was vanish quickly.</span></p>
 
 <p><span class="chinese">我们经受住了大风大浪的考验。</span><span class="english">We had experienced the test of violent storms and waves.</span></p>

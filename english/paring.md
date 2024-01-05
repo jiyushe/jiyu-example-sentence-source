@@ -1,5 +1,7 @@
 # paring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paring.md)
+
 <p><span class="chinese">她正在用指甲刀修指甲。</span><span class="english">She was paring her nails with nail scissors.</span></p>
 
 <p><span class="chinese">当我进屋时她正在用刀削苹果。</span><span class="english">She was paring an apple with a knife when I came in.</span></p>

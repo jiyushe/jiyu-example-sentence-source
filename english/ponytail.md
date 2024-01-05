@@ -1,5 +1,7 @@
 # ponytail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ponytail.md)
+
 <p><span class="chinese">我想扎辫子，不要马尾辫。</span><span class="english">I want pigtails, not a ponytail.</span></p>
 
 <p><span class="chinese">伊莎贝尔穿着一件毛衣、头发扎成了一根辫子。</span><span class="english">The wig is tied in a ponytail in the back.</span></p>

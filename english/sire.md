@@ -1,5 +1,7 @@
 # sire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sire.md)
+
 <p><span class="chinese">到门那里去啊，先生。</span><span class="english">Going to the gate, sire.</span></p>
 
 <p><span class="chinese">我那里有很不祥的预感，老爷。</span><span class="english">I had great forebodings , sire.</span></p>

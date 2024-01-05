@@ -1,5 +1,7 @@
 # fairly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fairly.md)
+
 <p><span class="chinese">你知道，相当好。</span><span class="english">You know, fairly well.</span></p>
 
 <p><span class="chinese">这汤蛮热的。</span><span class="english">This soup is fairly hot.</span></p>

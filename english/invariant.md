@@ -1,5 +1,7 @@
 # invariant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invariant.md)
+
 <p><span class="chinese">这是一个不变量的例子</span><span class="english">This is an example of an invariant.</span></p>
 
 <p><span class="chinese">这些条件是保形不变的。</span><span class="english">These conditions are conformally invariant.</span></p>

@@ -1,5 +1,7 @@
 # revocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revocation.md)
+
 <p><span class="chinese">85年南特敕令的废除是在这里宣布的。</span><span class="english">The revocation of the Edict of Nantes was signed here in '85.</span></p>
 
 <p><span class="chinese">如违反此规定并经查证属实者，撤销其所获准之入学资格。</span><span class="english">Violation of this regulation will result in the revocation of admission.</span></p>

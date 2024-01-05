@@ -1,5 +1,7 @@
 # silica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silica.md)
+
 <p><span class="chinese">硅是一种基本的陶瓷制品。</span><span class="english">Silica is a basic unit in many ceramics.</span></p>
 
 <p><span class="chinese">憎水性硅石是一种有效的防泡剂。</span><span class="english">Hydrophobic silica is the active antifoam agent.</span></p>

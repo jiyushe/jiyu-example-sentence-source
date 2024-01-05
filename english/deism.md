@@ -1,5 +1,7 @@
 # deism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deism.md)
+
 <p><span class="chinese">我相信自然神论。</span><span class="english">I believe in Deism.</span></p>
 
 <p><span class="chinese">同时在宗教批判中逐渐形成了法国式的自然神论。</span><span class="english">And emerge French-style Deism in the religious criticism.</span></p>

@@ -1,5 +1,7 @@
 # 鲜血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxue_1.md)
+
 <p><span class="chinese">那酒就像鲜血一样。</span><span class="english">That wine is red as blood.</span></p>
 
 <p><span class="chinese">鲜血从伤口喷涌而出。</span><span class="english">Blood gushed from her wound.</span></p>

@@ -1,5 +1,7 @@
 # kura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kura.md)
+
 <p><span class="chinese">添加新蔵养殖厂！</span><span class="english">Added new Kura farming plant!</span></p>
 
 <p><span class="chinese">库那的每一家餐馆都是高度的自动化。</span><span class="english">Each Kura store is also highly automated.</span></p>

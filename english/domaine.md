@@ -1,5 +1,7 @@
 # domaine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domaine.md)
+
 <p><span class="chinese">我们家族酒庄起源于19世纪。</span><span class="english">Our Domaine takes its family origins from the 19th century.</span></p>
 
 <p><span class="chinese">乔治拉斐尔葡萄园逐渐引起我的激情。</span><span class="english">With Domaine Georg Rafael another passion has come to life.</span></p>

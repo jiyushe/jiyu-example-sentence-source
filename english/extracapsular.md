@@ -1,5 +1,7 @@
 # extracapsular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extracapsular.md)
+
 <p><span class="chinese">方法采用现代白内障囊外摘出人工晶状体植入。</span><span class="english">Methods The modern extracapsular cataract extraction and intraocular lens implantation were used.</span></p>
 
 <p><span class="chinese">结论完全囊外甲状腺切除术出血少，并发症少，安全，效果好，是理想的手术入路。</span><span class="english">Conclusion The total extracapsular approach for thyroidectomy is safe, less of complication and effective.</span></p>

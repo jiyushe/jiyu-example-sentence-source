@@ -1,5 +1,7 @@
 # 追名逐利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuimingzhuli.md)
+
 <p><span class="chinese">艺术品市场向来是追名逐利的。</span><span class="english">The art market always follows the money.</span></p>
 
 <p><span class="chinese">我以前不追名逐利，但是现在我要追求名利。</span><span class="english">Eg. I were not after fame or money but now I would like to go after it.</span></p>

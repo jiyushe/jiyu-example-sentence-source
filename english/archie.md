@@ -1,5 +1,7 @@
 # archie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archie.md)
+
 <p><span class="chinese">阿尔奇冷漠地瞪了她一眼。</span><span class="english">Archie fixed her with a cold eye.</span></p>
 
 <p><span class="chinese">我们同阿齐先生成为亲密的朋友了。</span><span class="english">Mr. Archie and we got to be close friends.</span></p>

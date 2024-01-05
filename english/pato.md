@@ -1,5 +1,7 @@
 # pato
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pato.md)
+
 <p><span class="chinese">每个人都可能会轮换，包括帕托。</span><span class="english">Everyone will be able to rest in turns, including Pato.</span></p>
 
 <p><span class="chinese">我希望我和帕托都有更多在国家队踢球的机会。</span><span class="english">I hope that me and Pato play more for the national side.</span></p>

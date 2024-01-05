@@ -1,5 +1,7 @@
 # 舌苔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shetai.md)
+
 <p><span class="chinese">舌苔厚腻。</span><span class="english">One's tongue is coated.</span></p>
 
 <p><span class="chinese">舌苔薄软垫和衣领。</span><span class="english">Thin padded tongue and collar.</span></p>

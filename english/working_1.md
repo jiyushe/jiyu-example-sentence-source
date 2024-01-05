@@ -1,5 +1,7 @@
 # working 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/working_1.md)
+
 <p><span class="chinese">热加工。</span><span class="english">Hot working.</span></p>
 
 <p><span class="chinese">冷加工。</span><span class="english">Cold working.</span></p>

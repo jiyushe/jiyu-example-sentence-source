@@ -1,5 +1,7 @@
 # 磨损
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mosun.md)
+
 <p><span class="chinese">文出口磨损。</span><span class="english">Coven export wear.</span></p>
 
 <p><span class="chinese">这辆车已经开始磨损。</span><span class="english">The car is wearing out.</span></p>

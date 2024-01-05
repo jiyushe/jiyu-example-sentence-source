@@ -1,5 +1,7 @@
 # 应有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyou.md)
+
 <p><span class="chinese">然后把应有的强奏加入。</span><span class="english">Then add the forte.</span></p>
 
 <p><span class="chinese">这应有用户决定吧，我想。</span><span class="english">I guess its upto our users!</span></p>

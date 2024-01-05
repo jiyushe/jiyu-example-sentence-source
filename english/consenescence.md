@@ -1,5 +1,7 @@
 # consenescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consenescence.md)
+
 <p><span class="chinese">人体皮肤的衰老是生物的自然发展过程。</span><span class="english">Consenescence of human body cutaneous is process of biologic nature development.</span></p>
 
 <p><span class="chinese">在老年期，随着机体的一般衰老，中枢神经系统亦日益减弱。</span><span class="english">InSenilePeriod, as the general consenescence of airframe, central nervous system also increasingly abate.</span></p>

@@ -1,5 +1,7 @@
 # 一度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidu.md)
+
 <p><span class="chinese">一度也是我的差事。</span><span class="english">It was mine, once.</span></p>
 
 <p><span class="chinese">圈环裙一度曾是时尚。</span><span class="english">Hoop skirts were once the vogue.</span></p>

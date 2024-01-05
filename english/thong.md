@@ -1,5 +1,7 @@
 # thong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thong.md)
+
 <p><span class="chinese">缝合，丁字裤容易脚趾后滑。</span><span class="english">Stitched, thong toe post for easy slip-on.</span></p>
 
 <p><span class="chinese">性感薄纱内裤，背后有人造钻石环扣设计。</span><span class="english">SILK THONG With rhinestone circle trim at rear.</span></p>

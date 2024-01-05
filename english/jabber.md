@@ -1,5 +1,7 @@
 # jabber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jabber.md)
+
 <p><span class="chinese">你听那群猴子唧唧喳喳的叫声。</span><span class="english">Listen to the jabber of those monkeys.</span></p>
 
 <p><span class="chinese">听那些猴子在吱吱喳喳地叫。</span><span class="english">Listen to the jabber of those monkeys.</span></p>

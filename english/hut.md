@@ -1,5 +1,7 @@
 # hut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hut.md)
+
 <p><span class="chinese">竹屋的开头字母是「B」。</span><span class="english">B is for bamboo hut.</span></p>
 
 <p><span class="chinese">通往林间小屋的路上。</span><span class="english">On the way to the hut.</span></p>

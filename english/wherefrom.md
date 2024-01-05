@@ -1,5 +1,7 @@
 # wherefrom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wherefrom.md)
+
 <p><span class="chinese">何处传来了天使的笑声。</span><span class="english">Wherefrom the Angels' smiles.</span></p>
 
 <p><span class="chinese">你了解那些地方开始？</span><span class="english">Do you understand wherefrom to start?</span></p>

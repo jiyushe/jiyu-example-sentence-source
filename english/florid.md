@@ -1,5 +1,7 @@
 # florid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/florid.md)
+
 <p><span class="chinese">太阳将天空染得如此绚丽。</span><span class="english">The sun draw the sky so florid.</span></p>
 
 <p><span class="chinese">你喜欢华丽的巴洛克式建筑吗?。</span><span class="english">Do you like florid baroque architecture?</span></p>

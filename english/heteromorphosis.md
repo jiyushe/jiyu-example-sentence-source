@@ -1,5 +1,7 @@
 # heteromorphosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heteromorphosis.md)
+
 <p><span class="chinese">不少楼房是不规则的“异型”建筑。</span><span class="english">Many buildings are irregular " heteromorphosis" construction.</span></p>
 
 <p><span class="chinese">也有其它尺寸的异型粘土砖，如空心砖等。</span><span class="english">There are other dimensions of heteromorphosis clay bricks, hollow blocks, such as.</span></p>

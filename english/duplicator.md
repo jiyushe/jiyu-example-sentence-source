@@ -1,5 +1,7 @@
 # duplicator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duplicator.md)
+
 <p><span class="chinese">史密斯先生说我们可以买一台新复印机。</span><span class="english">Mr. Smith says we can have a new duplicator.</span></p>
 
 <p><span class="chinese">学生们不许用办公室的复印机。</span><span class="english">Students are forbidden the use of the office duplicator.</span></p>

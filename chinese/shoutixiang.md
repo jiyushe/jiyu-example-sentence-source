@@ -1,5 +1,7 @@
 # 手提箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoutixiang.md)
+
 <p><span class="chinese">手提箱上的轮子。</span><span class="english">Wheels on suitcases.</span></p>
 
 <p><span class="chinese">这是你的手提箱呢？</span><span class="english">Is this your suitcase?</span></p>

@@ -1,5 +1,7 @@
 # 惨不忍睹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canburendu.md)
+
 <p><span class="chinese">温格的队伍惨不忍睹。</span><span class="english">Wenger's team were abominable.</span></p>
 
 <p><span class="chinese">上个月就更是惨不忍睹了。</span><span class="english">Last month was particularly cruel.</span></p>

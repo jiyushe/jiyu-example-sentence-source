@@ -1,5 +1,7 @@
 # 求和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuhe.md)
+
 <p><span class="chinese">他已经向你求和了。</span><span class="english">He has sued for peace to you.</span></p>
 
 <p><span class="chinese">战犯求和。</span><span class="english">The war criminals sue for peace.</span></p>

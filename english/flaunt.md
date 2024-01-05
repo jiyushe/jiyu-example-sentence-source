@@ -1,5 +1,7 @@
 # flaunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flaunt.md)
+
 <p><span class="chinese">红旗迎风招展如何表达？</span><span class="english">The red flag flaunt in the wind.</span></p>
 
 <p><span class="chinese">要炫耀，然后跟全世界分享。</span><span class="english">Flaunt it and share it with the world!</span></p>

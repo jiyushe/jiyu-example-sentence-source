@@ -1,5 +1,7 @@
 # 他方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tafang.md)
+
 <p><span class="chinese">你们无法接受对方的还盘，你对他说，你方价格与他方还价差距太大。</span><span class="english">The gap between our price and your counter-offer is too wide.</span></p>
 
 <p><span class="chinese">他们都很斗气，但最终他们仍是包容了他方又和洽如初。</span><span class="english">They were very angry, but in the end they kissed and made up.</span></p>

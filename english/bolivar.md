@@ -1,5 +1,7 @@
 # bolivar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolivar.md)
+
 <p><span class="chinese">他在秘鲁人民心中的地位远超过玻利瓦尔。</span><span class="english">He in Peruse people's heart is much more important than Bolivar.</span></p>
 
 <p><span class="chinese">它的味道与高朗拿十分相似，口味是带有保利华特点的浓郁。</span><span class="english">Its taste is quite similar to Coronas. The characteristic strong Bolivar taste.</span></p>

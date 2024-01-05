@@ -1,5 +1,7 @@
 # 歌功颂德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gegongsongde.md)
+
 <p><span class="chinese">时至今日，还要为本土流氓集团歌功颂德。</span><span class="english">To date, but also as a rogue group singing the praises of the local community.</span></p>
 
 <p><span class="chinese">他没想要任何贡品、颂歌或歌功颂德的墓碑、诗词。</span><span class="english">For he did not wish tribute or song, nor monuments, nor poems of war and valor.</span></p>

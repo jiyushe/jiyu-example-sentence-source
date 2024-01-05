@@ -1,5 +1,7 @@
 # expulsion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expulsion.md)
+
 <p><span class="chinese">这家具乐部面临被足协开除。</span><span class="english">The club faces expulsion from the football league.</span></p>
 
 <p><span class="chinese">开除党籍是党内的最高处分。</span><span class="english">Expulsion is the ultimate Party disciplinary measure.</span></p>

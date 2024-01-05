@@ -1,5 +1,7 @@
 # 阿妹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/amei.md)
+
 <p><span class="chinese">她是阿妹的双眼。</span><span class="english">She is Mei's eyes.</span></p>
 
 <p><span class="chinese">阿妹以她的歌曲闻名。</span><span class="english">A-Mei is famous for her songs.</span></p>

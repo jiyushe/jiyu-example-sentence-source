@@ -1,5 +1,7 @@
 # talcum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talcum.md)
+
 <p><span class="chinese">试试在滑石粉上面走几步。</span><span class="english">Try walking in spilt talcum powder</span></p>
 
 <p><span class="chinese">晚会和爽滑的异性气息。</span><span class="english">A party and the talcum smell of sex.</span></p>

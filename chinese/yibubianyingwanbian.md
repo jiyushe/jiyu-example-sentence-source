@@ -1,5 +1,7 @@
 # 以不变应万变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibubianyingwanbian.md)
+
 <p><span class="chinese">她知道，无论自己如何努力，他亦永远是以不变应万变。</span><span class="english">She knew, no matter how hard he has always based on maintaining the status quo.</span></p>
 
 <p><span class="chinese">方能以不变应万变，圆则以万变应不变。</span><span class="english">Can only maintaining the status quo, round Zeyi status quo should remain unchanged.</span></p>

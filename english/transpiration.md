@@ -1,5 +1,7 @@
 # transpiration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transpiration.md)
+
 <p><span class="chinese">HL型普那菊苣是高光合、高蒸腾的类型。</span><span class="english">HL-type was high photosynthetic ability, high transpiration type.</span></p>
 
 <p><span class="chinese">光合速率高低与气孔阻力有关。</span><span class="english">RP was correlated with stomata resistance and transpiration rate.</span></p>

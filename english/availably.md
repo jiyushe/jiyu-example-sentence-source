@@ -1,5 +1,7 @@
 # availably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/availably.md)
+
 <p><span class="chinese">该方法可以快速有效地处理大部分桩头缺陷的问题。</span><span class="english">That method can handle the problem of a blemish quickly and availably.</span></p>
 
 <p><span class="chinese">第四部分论述了如何对环境成本进行有效的控制。</span><span class="english">The fourth section describes how to control environmental cost availably.</span></p>

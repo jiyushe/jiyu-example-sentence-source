@@ -1,5 +1,7 @@
 # emesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emesis.md)
+
 <p><span class="chinese">百分之二十六的儿童有一个或多个发生的呕吐。</span><span class="english">Twenty-six percent of the children had one or more episodes of emesis.</span></p>
 
 <p><span class="chinese">1月6日，60岁的刘世成突然不停地咳嗽，并伴随大口吐血。</span><span class="english">June 60 Liushicheng suddenly constantly coughing, and by big mouth emesis of blood.</span></p>

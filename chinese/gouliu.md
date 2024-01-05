@@ -1,5 +1,7 @@
 # 勾留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouliu.md)
+
 <p><span class="chinese">途中你有在任何中央勾留吗？</span><span class="english">Did you stop anywhere on the way?</span></p>
 
 <p><span class="chinese">我顺便为你们安排使你们在中国的勾留愉快。</span><span class="english">You're going out of your way for us, I believe.</span></p>

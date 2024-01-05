@@ -1,5 +1,7 @@
 # becket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/becket.md)
+
 <p><span class="chinese">亨利二世非常愤怒，就流放了贝克特。</span><span class="english">Henry II was so angry that he drove Becket in to exile.</span></p>
 
 <p><span class="chinese">1173年2月，教皇封托马斯为圣人和教会自由的殉道者。</span><span class="english">In February 1173 the pope declared Becket a saint and a martyr for the liberty of the church.</span></p>

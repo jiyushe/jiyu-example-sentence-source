@@ -1,5 +1,7 @@
 # scholarly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scholarly.md)
+
 <p><span class="chinese">我们的教授非常博学多闻。</span><span class="english">Our professor is very scholarly.</span></p>
 
 <p><span class="chinese">这种是学者会去买的。</span><span class="english">This is for the scholarly buyer.</span></p>

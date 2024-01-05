@@ -1,5 +1,7 @@
 # sikh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sikh.md)
+
 <p><span class="chinese">旁遮普邦锡克族的挑战已不构成威胁。</span><span class="english">The Sikh challenge in the Punjab has dissipated.</span></p>
 
 <p><span class="chinese">父亲是锡克教教徒，而母亲则是印度教徒。</span><span class="english">His father was a Sikh and his mother was a Hindu.</span></p>

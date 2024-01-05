@@ -1,5 +1,7 @@
 # 工头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongtou.md)
+
 <p><span class="chinese">他们恨透了那个可恶的工头。</span><span class="english">They hate that beast of a foreman.</span></p>
 
 <p><span class="chinese">他们恨透了那个狼心狗肺的工头。</span><span class="english">They hated that beast of a foreman.</span></p>

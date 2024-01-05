@@ -1,5 +1,7 @@
 # natalia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/natalia.md)
+
 <p><span class="chinese">还好喝了娜塔美白汤祛斑。</span><span class="english">Natalia also drink a whitening beauty cream soup.</span></p>
 
 <p><span class="chinese">娜塔丽26岁了，但她看上去很小。</span><span class="english">Natalia is 26 years old, but she looks much younger.</span></p>

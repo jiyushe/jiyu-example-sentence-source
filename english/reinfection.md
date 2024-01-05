@@ -1,5 +1,7 @@
 # reinfection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinfection.md)
+
 <p><span class="chinese">再感染是指标感染后确诊超过30天。</span><span class="english">A "reinfection" was any one diagnosed more than 30 days after the index infection.</span></p>
 
 <p><span class="chinese">非洲中部的再传染并非来自尼日利亚，后者是该地区唯一地方流行该病的国家。</span><span class="english">The reinfection of central Africa did not come from Nigeria, which is the only endemic country in the region.</span></p>

@@ -1,5 +1,7 @@
 # 看守所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanshousuo.md)
+
 <p><span class="chinese">扎伊迪于上月在看守所度过了他30岁的生日。</span><span class="english">Al-Zaidi marked his 30th birthday in jail last month.</span></p>
 
 <p><span class="chinese">指导预审工作和看守所、拘留所、收容审查所的监管工作。</span><span class="english">To guide the administration of prisons, lockups and asylums.</span></p>

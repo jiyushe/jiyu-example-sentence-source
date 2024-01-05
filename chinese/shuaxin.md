@@ -1,5 +1,7 @@
 # 刷新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaxin.md)
+
 <p><span class="chinese">刷新博客缓存和看法。</span><span class="english">Refresh cache and view blog.</span></p>
 
 <p><span class="chinese">刷新欧洲记录。</span><span class="english">It set a new European record.</span></p>

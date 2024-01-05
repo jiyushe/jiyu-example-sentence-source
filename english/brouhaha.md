@@ -1,5 +1,7 @@
 # brouhaha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brouhaha.md)
+
 <p><span class="chinese">这次的骚动是这个接近二十年争议的最新延续。</span><span class="english">The brouhaha is the latest development in a nearly two-decade row.</span></p>
 
 <p><span class="chinese">最近关于微软有偿编辑的骚动就是冰山一角。</span><span class="english">The recent Microsoft brouhaha over paid editing is the tip of the iceberg.</span></p>

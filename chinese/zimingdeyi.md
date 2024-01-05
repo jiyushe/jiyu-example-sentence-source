@@ -1,5 +1,7 @@
 # 自鸣得意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimingdeyi.md)
+
 <p><span class="chinese">但是没有时间自鸣得意。</span><span class="english">But this is no time for complacency.</span></p>
 
 <p><span class="chinese">他说话时经常一副自鸣得意的样子。</span><span class="english">He always says something with cock-a-hoop.</span></p>

@@ -1,5 +1,7 @@
 # attenuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attenuation.md)
+
 <p><span class="chinese">语音移动衰减代码?。</span><span class="english">VMAC? Voice Mobile Attenuation Code?</span></p>
 
 <p><span class="chinese">此成员表示一个衰减常数。</span><span class="english">This member represents an attenuation constant.</span></p>

@@ -1,5 +1,7 @@
 # bettina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bettina.md)
+
 <p><span class="chinese">贝蒂娜•路雪是联合国世界粮食计划署的一员。</span><span class="english">Bettina Luescher is with the U. N. World Food Program.</span></p>
 
 <p><span class="chinese">作为一个足球俱乐部的铁杆球迷，贝提娜所有的能量都来自于拥挤的看台。</span><span class="english">The devoted fan of a Soccer club, Bettina draws all her energy from a packed stadium.</span></p>

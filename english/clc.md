@@ -1,5 +1,7 @@
 # clc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clc.md)
+
 <p><span class="chinese">结论聪灵胶囊能改善小鼠软脑膜微循环。</span><span class="english">Conclusion CLC can improve mice cerebral pial microcirculation.</span></p>
 
 <p><span class="chinese">二零零一年，中心提升系统功能，使网上学习更方便容易。</span><span class="english">In 2001, the CLC was upgraded to provide a more user-friendly environment for web learning.</span></p>

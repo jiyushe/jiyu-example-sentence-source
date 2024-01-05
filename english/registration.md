@@ -1,5 +1,7 @@
 # registration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/registration.md)
+
 <p><span class="chinese">你的挂号证。</span><span class="english">Your registration card.</span></p>
 
 <p><span class="chinese">这也在注册项里?。</span><span class="english">That's on the registration?</span></p>

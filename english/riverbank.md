@@ -1,5 +1,7 @@
 # riverbank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riverbank.md)
+
 <p><span class="chinese">在某个海角，在某处河岸</span><span class="english">from a promontory, a riverbank</span></p>
 
 <p><span class="chinese">他去河边放松自己。</span><span class="english">He went to the riverbank to relax.</span></p>

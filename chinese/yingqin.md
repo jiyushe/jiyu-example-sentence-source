@@ -1,5 +1,7 @@
 # 迎亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingqin.md)
+
 <p><span class="chinese">是谁在故地迎亲？</span><span class="english">Who greets at the old haunt?</span></p>
 
 <p><span class="chinese">第二天长文来迎亲，但王家大门紧闭。</span><span class="english">Long to set out the next day, but the wangs are closed.</span></p>

@@ -1,5 +1,7 @@
 # conversational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conversational.md)
+
 <p><span class="chinese">交谈语言比正式语言牛得多。</span><span class="english">Use conversational language.</span></p>
 
 <p><span class="chinese">我会一些日常会话的英语.</span><span class="english">I know some conversational English.</span></p>

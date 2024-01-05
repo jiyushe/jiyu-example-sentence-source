@@ -1,5 +1,7 @@
 # ouagadougou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ouagadougou.md)
+
 <p><span class="chinese">在瓦加杜古举行的谈判本周继续。</span><span class="english">The talks continue in Ouagadougou this week.</span></p>
 
 <p><span class="chinese">通货膨胀导致四月在瓦加杜古街头暴力抗议。</span><span class="english">Inflation led to violent protests in the streets of Ouagadougou in April.</span></p>

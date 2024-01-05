@@ -1,5 +1,7 @@
 # chairwoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chairwoman.md)
+
 <p><span class="chinese">公司董事会也暂停了汪利娟的董事长职务。</span><span class="english">The board of directors also suspended her job as its chairwoman.</span></p>
 
 <p><span class="chinese">洪伟，哈尔滨创新教育集团董事长。</span><span class="english">Hong Wei is the chairwoman of ChuangXin Education Group of Harbin City.</span></p>

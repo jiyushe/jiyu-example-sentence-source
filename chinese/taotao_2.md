@@ -1,5 +1,7 @@
 # 滔滔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taotao_2.md)
+
 <p><span class="chinese">先是涓涓细流，接下来是滔滔洪水。</span><span class="english">First a trickle, then a flood.</span></p>
 
 <p><span class="chinese">人喝了好酒，就会变得滔滔善辩。</span><span class="english">People drink wine, will be able to.</span></p>

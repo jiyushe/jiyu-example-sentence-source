@@ -1,5 +1,7 @@
 # dresden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dresden.md)
+
 <p><span class="chinese">你要去德莱斯观光吗?。</span><span class="english">You're going go Dresden for sightseeing?</span></p>
 
 <p><span class="chinese">在德累斯顿抄本玛雅象形文字。</span><span class="english">Mayan hieroglyphics in the Dresden Codex.</span></p>

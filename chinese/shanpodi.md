@@ -1,5 +1,7 @@
 # 山坡地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanpodi.md)
+
 <p><span class="chinese">承租人在山坡地种香菇。</span><span class="english">Tenant farmers grow mushrooms on the hillsides.</span></p>
 
 <p><span class="chinese">另外三间卧室都在步出式的楼下一层，那里建在这处房产的山坡地段。</span><span class="english">Three additional bedrooms are on the walkout lower level, built into the property's slope.</span></p>

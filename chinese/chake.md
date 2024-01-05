@@ -1,5 +1,7 @@
 # 茶客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chake.md)
+
 <p><span class="chinese">那些酒客茶客是不知道的。</span><span class="english">Never will guests in the bar or teahouse know.</span></p>
 
 <p><span class="chinese">更专注的茶客或许会带来私人的茶叶。</span><span class="english">The more dedicated drinkers may even bring along their personal urn of tea leaves.</span></p>

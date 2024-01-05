@@ -1,5 +1,7 @@
 # carbonatite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbonatite.md)
+
 <p><span class="chinese">铌、稀土成矿作用与脉状、瘤状碳酸岩有关。</span><span class="english">The niobium rare earth mineralization was concerned with tumour carbonatite.</span></p>
 
 <p><span class="chinese">上侏罗统多底沟组则依然发育碳酸岩台地的滨海相沉积。</span><span class="english">The Late Jurassic Duodigou Fm. is made up of the littoral facies carbonatite.</span></p>

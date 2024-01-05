@@ -1,5 +1,7 @@
 # granulocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granulocyte.md)
+
 <p><span class="chinese">外周血白细胞与嗜酸性粒细胞减少。</span><span class="english">Peripheral leukocyte and acidophilic granulocyte were decreased.</span></p>
 
 <p><span class="chinese">髓细胞骨髓的一种大型细胞，是血液成熟的有粒细胞的前身。</span><span class="english">A large cell of the bone marrow that is a precursorof the mature granulocyte of the blood.</span></p>

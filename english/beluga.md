@@ -1,5 +1,7 @@
 # beluga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beluga.md)
+
 <p><span class="chinese">首先我们去参观白海豚鲸鱼。</span><span class="english">First, let's go visit Beluga Whales.</span></p>
 
 <p><span class="chinese">一头白色大鳇鱼或叫大白鲸在北美洲的范库弗峰水族馆里游弋着。</span><span class="english">A beluga whale swims in a tank at the Vancouver Aquarium.</span></p>

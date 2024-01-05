@@ -1,5 +1,7 @@
 # estimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estimate.md)
+
 <p><span class="chinese">我估量她有30岁。</span><span class="english">I estimate her age at 30.</span></p>
 
 <p><span class="chinese">你们能给我一个估价单吗？</span><span class="english">Will you give me an estimate?</span></p>

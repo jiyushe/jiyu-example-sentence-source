@@ -1,5 +1,7 @@
 # 动脉硬化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongmaiyinghua.md)
+
 <p><span class="chinese">老年人动脉硬化可以吃什么水果呢？</span><span class="english">What fruit can old people arteriosclerosis eat?</span></p>
 
 <p><span class="chinese">牙龈问题增加动脉硬化的风险。</span><span class="english">Gum problems increase the risk of atherosclerosis.</span></p>

@@ -1,5 +1,7 @@
 # minutia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minutia.md)
+
 <p><span class="chinese">总统不需要管这种细枝末节的事。</span><span class="english">The president doesn't need to involve herself with this kind of minutia.</span></p>
 
 <p><span class="chinese">分散注意力-期限能够使你将注意力集中在一个目标上面，避免一些无关紧要的细枝末节。</span><span class="english">Distractions –Deadlines keep you focused on the objective and away from minutia.</span></p>

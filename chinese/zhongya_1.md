@@ -1,5 +1,7 @@
 # 重压
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongya_1.md)
+
 <p><span class="chinese">铅管因重压而弯曲了。</span><span class="english">The lead pipe has turned from pressure.</span></p>
 
 <p><span class="chinese">让我们坚定立场，不要屈服于重压。</span><span class="english">Stand firm together. Do not bow to pressure.</span></p>

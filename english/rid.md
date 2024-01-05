@@ -1,5 +1,7 @@
 # rid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rid.md)
+
 <p><span class="chinese">大卫，快把它弄走！</span><span class="english">David, get rid of it!</span></p>
 
 <p><span class="chinese">说“打发掉”，是对的。</span><span class="english">Got rid of is the word.</span></p>

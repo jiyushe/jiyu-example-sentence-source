@@ -1,5 +1,7 @@
 # 结亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieqin.md)
+
 <p><span class="chinese">可你就要跟她的家庭结亲了。</span><span class="english">You're marrying into her family.</span></p>
 
 <p><span class="chinese">雅各与拉结亲嘴，就放声而哭。</span><span class="english">Then Jacob kissed Rachel and began to weep aloud.</span></p>

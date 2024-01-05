@@ -1,5 +1,7 @@
 # 众志成城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhichengcheng.md)
+
 <p><span class="chinese">中国强盛日日盼，众志成城必实现。</span><span class="english">China's prosperity day hope, concerted efforts must be achieved.</span></p>
 
 <p><span class="chinese">新加坡副总理说，“为了同非典做斗争，我们现在众志成城并集中所有的人财物力。</span><span class="english">We have to muster all our resolve and resources in order to fight Sars.</span></p>

@@ -1,5 +1,7 @@
 # 眉目传情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meimuchuanqing.md)
+
 <p><span class="chinese">她向我眉目传情。</span><span class="english">She gave me the eye.</span></p>
 
 <p><span class="chinese">恋人间以眉目传情。</span><span class="english">Lovers talk with their eyes.</span></p>

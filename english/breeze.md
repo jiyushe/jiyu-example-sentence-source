@@ -1,5 +1,7 @@
 # breeze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breeze.md)
+
 <p><span class="chinese">风也暖和起来了。</span><span class="english">The breeze is warmer.</span></p>
 
 <p><span class="chinese">就连吹来的风都是热的。</span><span class="english">Even the breeze is hot.</span></p>

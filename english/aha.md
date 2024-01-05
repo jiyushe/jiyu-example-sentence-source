@@ -1,5 +1,7 @@
 # aha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aha.md)
+
 <p><span class="chinese">让我们把它放在这儿，啊，出错了。</span><span class="english">Aha. It's gone wrong.</span></p>
 
 <p><span class="chinese">啊，在这里我们得小心点。</span><span class="english">Aha. Let's be careful here.</span></p>

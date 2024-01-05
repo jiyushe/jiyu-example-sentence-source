@@ -1,5 +1,7 @@
 # 凡间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanjian.md)
+
 <p><span class="chinese">——“独步其道，孤行凡间。”</span><span class="english">We walk our own path, alone.</span></p>
 
 <p><span class="chinese">因为她是坠入凡间的天使。</span><span class="english">Because she is a Fallen Angel.</span></p>

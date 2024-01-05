@@ -1,5 +1,7 @@
 # 卡介苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kajiemiao.md)
+
 <p><span class="chinese">HIV感染儿童接种卡介苗的安全性问题</span><span class="english">Safety of BCG vaccine in HIV-infected children</span></p>
 
 <p><span class="chinese">我的孩子满月时种的卡介苗，一直没有进行复查。</span><span class="english">My baby one month of the BCG , has not been review.</span></p>

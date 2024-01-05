@@ -1,5 +1,7 @@
 # celery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celery.md)
+
 <p><span class="chinese">她讨厌芹菜。</span><span class="english">She loathes celery.</span></p>
 
 <p><span class="chinese">你不应该用芹菜叶中的食物。</span><span class="english">And I have one, regular celery.</span></p>

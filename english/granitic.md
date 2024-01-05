@@ -1,5 +1,7 @@
 # granitic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granitic.md)
+
 <p><span class="chinese">一种由石英和云母构成的花岗石。</span><span class="english">A granitic rock composed chiefly of quartz and mica.</span></p>
 
 <p><span class="chinese">成矿作用主要与中侏罗世—晚侏罗世的花岗质岩浆活动相关。</span><span class="english">Mineralization is mainly related to Mid-Late Jurassic granitic magmatism.</span></p>

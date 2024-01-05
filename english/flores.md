@@ -1,5 +1,7 @@
 # flores
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flores.md)
+
 <p><span class="chinese">我带着花去他家。</span><span class="english">Voy a su casa con flores.</span></p>
 
 <p><span class="chinese">弗洛雷斯认为，巴西农业在非洲最具投资潜力。</span><span class="english">Flores sees Brazil's greatest potential in agriculture.</span></p>

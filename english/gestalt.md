@@ -1,5 +1,7 @@
 # gestalt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gestalt.md)
+
 <p><span class="chinese">这是一个很广的概念，这儿有一个格式塔现象。</span><span class="english">This is very cosmic. There is a gestalt here.</span></p>
 
 <p><span class="chinese">在这种情况下，格式塔模式给我们提供了这样一种先验的表述方式。</span><span class="english">In this case, the gestalt model provides us with such apriori expressions.</span></p>

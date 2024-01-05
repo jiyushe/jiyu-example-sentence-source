@@ -1,5 +1,7 @@
 # 垫肩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianjian.md)
+
 <p><span class="chinese">这是一件有垫肩的上装。</span><span class="english">This is a jacket with padded shoulders.</span></p>
 
 <p><span class="chinese">有垫肩对运动员比较安全些。</span><span class="english">Shoulder pads are safely for the players.</span></p>

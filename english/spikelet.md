@@ -1,5 +1,7 @@
 # spikelet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spikelet.md)
+
 <p><span class="chinese">在脉之间具洼点的无梗小穗的更低的颖片。</span><span class="english">Lower glume of sessile spikelet pitted between veins.</span></p>
 
 <p><span class="chinese">该突变体的茎、叶、穗出现条斑。</span><span class="english">The mutant showed white stripe on stem, leaf and spikelet.</span></p>

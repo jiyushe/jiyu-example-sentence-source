@@ -1,5 +1,7 @@
 # kiln
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiln.md)
+
 <p><span class="chinese">那窑炉在哪里呢？</span><span class="english">Where is the kiln stove?</span></p>
 
 <p><span class="chinese">窑变？</span><span class="english">Color change in the kiln?</span></p>

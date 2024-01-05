@@ -1,5 +1,7 @@
 # 熟知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhi_3.md)
+
 <p><span class="chinese">这是我们所熟知的</span><span class="english">That's what we see.</span></p>
 
 <p><span class="chinese">所有演员对剧本都熟知到可以倒背如流。</span><span class="english">All the actors know the play backward.</span></p>

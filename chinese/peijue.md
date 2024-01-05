@@ -1,5 +1,7 @@
 # 配角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peijue.md)
+
 <p><span class="chinese">中国仍然是配角。</span><span class="english">China is still a deuteragonist.</span></p>
 
 <p><span class="chinese">他给我做配角已有10年了。</span><span class="english">He has stooged for me for 10 years.</span></p>

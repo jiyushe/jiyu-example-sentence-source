@@ -1,5 +1,7 @@
 # announce 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/announce.md)
+
 <p><span class="chinese">不久就要宣布这班飞机的起飞时间了。</span><span class="english">The flight will is announce soon.</span></p>
 
 <p><span class="chinese">售票员会报站的。</span><span class="english">The conductor will announce the stops.</span></p>

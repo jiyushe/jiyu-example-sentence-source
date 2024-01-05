@@ -1,5 +1,7 @@
 # incline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incline.md)
+
 <p><span class="chinese">就像是一个斜坡</span><span class="english">It's an incline.</span></p>
 
 <p><span class="chinese">使你倾向我多变的愿望。</span><span class="english">Incline thee to my changeful will.</span></p>

@@ -1,5 +1,7 @@
 # 之前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqian.md)
+
 <p><span class="chinese">在我死之前。</span><span class="english">Before I die.</span></p>
 
 <p><span class="chinese">它之前都是未可知的。</span><span class="english">It was unknown.</span></p>

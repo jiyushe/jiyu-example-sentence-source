@@ -1,5 +1,7 @@
 # 亭台楼阁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingtailouge.md)
+
 <p><span class="chinese">北海北端的亭台楼阁。</span><span class="english">Pavilions at the northern end of Pei Hai.</span></p>
 
 <p><span class="chinese">这也有一些亭台楼阁、庙宇宝塔是用金和玉石制成的。</span><span class="english">There are also many pavilions, pagodas and towers made of gold or jade.</span></p>

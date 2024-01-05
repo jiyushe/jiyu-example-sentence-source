@@ -1,5 +1,7 @@
 # antioxidant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antioxidant.md)
+
 <p><span class="chinese">主要用作橡胶防老剂。</span><span class="english">Mainly used as rubber antioxidant.</span></p>
 
 <p><span class="chinese">载有褪色的抗氧化剂。</span><span class="english">Contains a discoloring antioxidant.</span></p>

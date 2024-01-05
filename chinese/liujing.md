@@ -1,5 +1,7 @@
 # 六经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liujing.md)
+
 <p><span class="chinese">六经是儒家宝典，都经过孔子之手。</span><span class="english">The six channels are classical documents of the Confucianists.</span></p>
 
 <p><span class="chinese">在他看来，六经乃圣人的“写心之书”。</span><span class="english">In his opinion, the six classics were holy person's mind reflections.</span></p>

@@ -1,5 +1,7 @@
 # 死亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siwang_1.md)
+
 <p><span class="chinese">弱者死亡。</span><span class="english">The weak die.</span></p>
 
 <p><span class="chinese">死亡和交税.</span><span class="english">Death and taxes.</span></p>

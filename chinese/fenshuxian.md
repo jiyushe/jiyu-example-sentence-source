@@ -1,5 +1,7 @@
 # 分数线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshuxian.md)
+
 <p><span class="chinese">一般情况下，类别较高的录取分数线也高。</span><span class="english">Usually higher ranked ones need higher scores.</span></p>
 
 <p><span class="chinese">他刚刚过大学的录取分数线。</span><span class="english">He just passed the university's minimum qualifications.</span></p>

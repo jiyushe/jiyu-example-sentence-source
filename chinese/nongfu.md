@@ -1,5 +1,7 @@
 # 农夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongfu.md)
+
 <p><span class="chinese">农夫种稻子。</span><span class="english">Farmers grow rice.</span></p>
 
 <p><span class="chinese">那个农夫加轭于牛。</span><span class="english">The farmer yoked the oxen.</span></p>

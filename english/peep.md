@@ -1,5 +1,7 @@
 # peep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peep.md)
+
 <p><span class="chinese">他偷眼一看。</span><span class="english">He steals a peep.</span></p>
 
 <p><span class="chinese">在破晓时分的床上？</span><span class="english">In her bed at peep of day?</span></p>

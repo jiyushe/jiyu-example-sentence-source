@@ -1,5 +1,7 @@
 # politely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/politely.md)
+
 <p><span class="chinese">我客气地问道。</span><span class="english">I inquired politely.</span></p>
 
 <p><span class="chinese">那些人婉言拒绝了。</span><span class="english">The men politely decline.</span></p>

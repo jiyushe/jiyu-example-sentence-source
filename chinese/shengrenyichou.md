@@ -1,5 +1,7 @@
 # 胜人一筹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengrenyichou.md)
+
 <p><span class="chinese">有几个原因使这些女性胜人一筹。</span><span class="english">These women have gotten a leg up for several reasons.</span></p>
 
 <p><span class="chinese">获得较高的风险与每胜人一筹轮。</span><span class="english">The stakes get higher with each round of one-upmanship.</span></p>

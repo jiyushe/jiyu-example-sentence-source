@@ -1,5 +1,7 @@
 # tyrol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tyrol.md)
+
 <p><span class="chinese">在波尔塔演讲期间，泰罗尔做了什么？</span><span class="english">What does Tyrol do during Baltar's speech?</span></p>
 
 <p><span class="chinese">尼古拉斯·泰罗尔得了什么病？</span><span class="english">What malady is Nicholas Tyrol suffering from?</span></p>

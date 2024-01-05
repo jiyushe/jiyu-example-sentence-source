@@ -1,5 +1,7 @@
 # 满腹牢骚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manfulaosao.md)
+
 <p><span class="chinese">你就像一个满腹牢骚的小屁孩。</span><span class="english">You sound like a whiny brat.</span></p>
 
 <p><span class="chinese">如果你自己都满腹牢骚情况会怎么样呢？</span><span class="english">But what if you’re feeling grouchy?</span></p>

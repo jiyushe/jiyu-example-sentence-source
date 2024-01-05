@@ -1,5 +1,7 @@
 # 赞成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zancheng.md)
+
 <p><span class="chinese">赞成还是反对？</span><span class="english">Pro or con?</span></p>
 
 <p><span class="chinese">我赞成65岁退休。</span><span class="english">I vote for 65.</span></p>

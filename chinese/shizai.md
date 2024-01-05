@@ -1,5 +1,7 @@
 # 实在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizai.md)
+
 <p><span class="chinese">我实在是太高兴了!</span><span class="english">I was so happy!</span></p>
 
 <p><span class="chinese">这鬼天气实在是太热了。</span><span class="english">It’s too darn hot.</span></p>

@@ -1,5 +1,7 @@
 # methotrexate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methotrexate.md)
+
 <p><span class="chinese">五月甲氨蝶呤增加毒性。</span><span class="english">May increase toxicity of methotrexate.</span></p>
 
 <p><span class="chinese">甲氨蝶呤和米索前列醇使用是一个分两步走的方法。</span><span class="english">Methotrexate and misoprostol use is a two-step method.</span></p>

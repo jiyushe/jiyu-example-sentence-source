@@ -1,5 +1,7 @@
 # probability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/probability.md)
+
 <p><span class="chinese">这事是个概率函数。</span><span class="english">It's a probability function.</span></p>
 
 <p><span class="chinese">但概率论是个新知识</span><span class="english">The probability theory is new.</span></p>

@@ -1,5 +1,7 @@
 # 一塌糊涂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitahutu.md)
+
 <p><span class="chinese">屋子乱得一塌糊涂。</span><span class="english">The room was in a mess.</span></p>
 
 <p><span class="chinese">她把事情搞嘚一塌糊涂。</span><span class="english">She make a mess of entities.</span></p>

@@ -1,5 +1,7 @@
 # 伞兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanbing.md)
+
 <p><span class="chinese">他加入了伞兵部队。</span><span class="english">He joined the parachute troops.</span></p>
 
 <p><span class="chinese">凌晨4点钟，伞兵们开始跳伞。</span><span class="english">At 4 a.m.parachuters began to jump.</span></p>

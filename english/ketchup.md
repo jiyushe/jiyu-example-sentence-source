@@ -1,5 +1,7 @@
 # ketchup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ketchup.md)
+
 <p><span class="chinese">番茄酱呢？</span><span class="english">Ketchup?</span></p>
 
 <p><span class="chinese">加蕃茄酱或美乃滋？</span><span class="english">With ketchup or mayonnaise?</span></p>

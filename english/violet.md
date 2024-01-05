@@ -1,5 +1,7 @@
 # violet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/violet.md)
+
 <p><span class="chinese">这个和紫色色调又什么关系么？</span><span class="english">And what of the violet hue?</span></p>
 
 <p><span class="chinese">给我一些紫药水。</span><span class="english">Give me some gentian violet.</span></p>

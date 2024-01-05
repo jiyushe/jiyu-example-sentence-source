@@ -1,5 +1,7 @@
 # nonprescription
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonprescription.md)
+
 <p><span class="chinese">可通过涂抹非处方的抗真菌乳膏进行治疗。</span><span class="english">It’s treated with nonprescription antifungal creams.</span></p>
 
 <p><span class="chinese">你服用处方用药或非法非处方用药吗？</span><span class="english">Do you use prescription drugs or illegal nonprescription drugs?</span></p>

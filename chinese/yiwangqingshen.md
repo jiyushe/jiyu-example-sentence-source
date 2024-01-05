@@ -1,5 +1,7 @@
 # 一往情深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwangqingshen.md)
+
 <p><span class="chinese">一往情深竟然忘了亲吻。</span><span class="english">Ecstasies in which they forget to kiss.</span></p>
 
 <p><span class="chinese">回首是你一往情深。</span><span class="english">My recalling is filled with your deep love.</span></p>

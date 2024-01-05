@@ -1,5 +1,7 @@
 # alliance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alliance.md)
+
 <p><span class="chinese">美对接两大军事同盟？</span><span class="english">Two US-military alliance butt?</span></p>
 
 <p><span class="chinese">关于移动健康联合奖学金</span><span class="english">About the mHealth Alliance Award</span></p>

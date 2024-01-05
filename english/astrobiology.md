@@ -1,5 +1,7 @@
 # astrobiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrobiology.md)
+
 <p><span class="chinese">梵蒂冈天主教会举行了一场有关太空生物学的会议。</span><span class="english">The Catholic church has had a conference about astrobiology.</span></p>
 
 <p><span class="chinese">如需美国宇航局天体生物学活动的信息，请访问</span><span class="english">For more information about NASA astrobiology activities, visit</span></p>

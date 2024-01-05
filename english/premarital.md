@@ -1,5 +1,7 @@
 # premarital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premarital.md)
+
 <p><span class="chinese">我，爱尔娜·贝克，能够有婚前的性生活。</span><span class="english">I, Elna Baker, could have premarital sex.</span></p>
 
 <p><span class="chinese">婚前性行为的比例在大都市非常高。</span><span class="english">Premarital sex is very high in metropolitans.</span></p>

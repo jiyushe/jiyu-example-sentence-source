@@ -1,5 +1,7 @@
 # receipt 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receipt.md)
+
 <p><span class="chinese">我可以要一张收据吗？</span><span class="english">May I have a  receipt?</span></p>
 
 <p><span class="chinese">我可以要张收据吗?。</span><span class="english">May I have a receipt ?</span></p>

@@ -1,5 +1,7 @@
 # spence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spence.md)
+
 <p><span class="chinese">“美国的消费者没有回来”，斯彭斯指出。</span><span class="english">"The American consumer isn't going to come back, " Spence said.</span></p>
 
 <p><span class="chinese">斯彭斯承认自己正在拼命思考，也许“想法有些过头了”。</span><span class="english">Spence admits he is thinking aloud and going "way beyond the data".</span></p>

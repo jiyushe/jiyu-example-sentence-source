@@ -1,5 +1,7 @@
 # jockey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jockey.md)
+
 <p><span class="chinese">香肠骑士。</span><span class="english">A sausage jockey.</span></p>
 
 <p><span class="chinese">你知道这是骑师吗？</span><span class="english">Do you know he is a jockey ?</span></p>

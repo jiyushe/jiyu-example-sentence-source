@@ -1,5 +1,7 @@
 # dendrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dendrite.md)
+
 <p><span class="chinese">机械感器壁厚无孔，淋巴腔中无树突。</span><span class="english">There was thick wall and no dendrite in mechanoreceptor.</span></p>
 
 <p><span class="chinese">各组大鼠一氧化氮合酶阳性神经元的胞体和树突均相似。</span><span class="english">Soma and dendrite of NOS neurons were similar in each group.</span></p>

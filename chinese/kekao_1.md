@@ -1,5 +1,7 @@
 # 科考
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kekao_1.md)
+
 <p><span class="chinese">科考人员从冰中取出一个雪撬。</span><span class="english">The researchers of science broke out a sled from the ice.</span></p>
 
 <p><span class="chinese">如今这里还保留有一些科考站遗址，游人仍旧可在这里的温泉中畅游。</span><span class="english">Today you can see their remains, plus swim in hot springs.</span></p>

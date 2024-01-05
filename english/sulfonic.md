@@ -1,5 +1,7 @@
 # sulfonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfonic.md)
+
 <p><span class="chinese">可以使用十二烷基*钠作为该磺酸化合物。</span><span class="english">Sodium lauryl sulfate can be used as the sulfonic acid compound.</span></p>
 
 <p><span class="chinese">以工业副产物木素磺酸和焦油酚为主要原料研制出一种新的合成鞣剂。</span><span class="english">A new syntan product prepared with tar phenol and lignin sulfonic acid.</span></p>

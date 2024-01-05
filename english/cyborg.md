@@ -1,5 +1,7 @@
 # cyborg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyborg.md)
+
 <p><span class="chinese">我是C3PO，人类的机械人亲戚。</span><span class="english">I am C3PO, human cyborg relations.</span></p>
 
 <p><span class="chinese">打开书的人造人进入她的世界。</span><span class="english">Open the Cyborg Book to enter her world.</span></p>

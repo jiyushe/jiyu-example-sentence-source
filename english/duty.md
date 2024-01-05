@@ -1,5 +1,7 @@
 # duty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duty.md)
+
 <p><span class="chinese">这是我的义务。</span><span class="english">This is my duty.</span></p>
 
 <p><span class="chinese">今天他值日。</span><span class="english">He's on duty today.</span></p>

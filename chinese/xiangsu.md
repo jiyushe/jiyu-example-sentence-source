@@ -1,5 +1,7 @@
 # 像素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangsu.md)
+
 <p><span class="chinese">它带有一个500万像素的照相机。</span><span class="english">It's got a 5 mega-pixel camera.</span></p>
 
 <p><span class="chinese">你是“像素控”吗？</span><span class="english">How Many Megapixels Do you Need?</span></p>

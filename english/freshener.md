@@ -1,5 +1,7 @@
 # freshener
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freshener.md)
+
 <p><span class="chinese">为什么不喷点空气清新剂试试？或许会有用。</span><span class="english">Why not try spraying some air freshener?That might help.</span></p>
 
 <p><span class="chinese">是空气清新剂你脸和脖子上那是口红吗?。</span><span class="english">Air freshener. And is that lipstick on your cheek and neck?</span></p>

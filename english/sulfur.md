@@ -1,5 +1,7 @@
 # sulfur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfur.md)
+
 <p><span class="chinese">硫氧化物。</span><span class="english">Sulfur oxides.</span></p>
 
 <p><span class="chinese">一个蝙蝠粪和硫磺小球。</span><span class="english">A tiny ball of bat guano and sulfur.</span></p>

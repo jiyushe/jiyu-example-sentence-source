@@ -1,5 +1,7 @@
 # hermes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hermes.md)
+
 <p><span class="chinese">看看这些爱马仕只。</span><span class="english">These look to be Hermes only.</span></p>
 
 <p><span class="chinese">池水一溅，赫尔墨斯跳进池塘。</span><span class="english">Hermes jumped into the pond with a splash.</span></p>

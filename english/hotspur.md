@@ -1,5 +1,7 @@
 # hotspur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotspur.md)
+
 <p><span class="chinese">对托特纳姆热刺队来说，只是不好的一周。</span><span class="english">It has been a bad week for Tottenham Hotspur.</span></p>
 
 <p><span class="chinese">首先，在周中晚上，我们要作客白鹿巷挑战托特纳姆热刺。</span><span class="english">First up, on Wednesday night, are Tottenham Hotspur at White Hart Lane.</span></p>

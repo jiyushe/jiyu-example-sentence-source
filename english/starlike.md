@@ -1,5 +1,7 @@
 # starlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starlike.md)
+
 <p><span class="chinese">因为这些理由，天文学家认为棕矮星的起源，较倾向恒星形成的方式。</span><span class="english">For these reasons, astronomers favor a more starlike formation scenario for brown dwarfs.</span></p>
 
 <p><span class="chinese">类星体一种类似星体的物体，它有很大的红移并放射出大量的蓝光，而且经常还有无线电波。</span><span class="english">A starlike object that has a large red shift and emits powerful blue light and often radio waves.</span></p>

@@ -1,5 +1,7 @@
 # 加仑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jialun.md)
+
 <p><span class="chinese">我使用的是加仑大小的玻璃瓶。</span><span class="english">I use gallon-size glass jars.</span></p>
 
 <p><span class="chinese">四夸脱构成一加仑。</span><span class="english">Four quarts constitute a gallon.</span></p>

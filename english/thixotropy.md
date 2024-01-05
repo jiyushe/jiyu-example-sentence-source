@@ -1,5 +1,7 @@
 # thixotropy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thixotropy.md)
+
 <p><span class="chinese">它有较好的流变性和触变性。</span><span class="english">It has good rheology and thixotropy.</span></p>
 
 <p><span class="chinese">聚氯乙烯共聚物、聚乙烯醇缩丁醛、触变性树脂。</span><span class="english">Vinyl Chloride Co-polymers, Polyvinyl Butyrals, Thixotropy Resin.</span></p>

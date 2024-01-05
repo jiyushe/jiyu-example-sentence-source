@@ -1,5 +1,7 @@
 # lms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lms.md)
+
 <p><span class="chinese">你并不需要一整套的学习管理系统来解决你的问题，你也没必要期待它。</span><span class="english">You do not need, nor should you expect, an LMS to solve this problem.</span></p>
 
 <p><span class="chinese">变步长非线性自适应拉格里归一化LMS算法。</span><span class="english">Variable step size adaptive nonlinear laguerre normalized LMS algorithm.</span></p>

@@ -1,5 +1,7 @@
 # pdf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pdf.md)
+
 <p><span class="chinese">这些在PDF文档中将会有相关说明。</span><span class="english">And the PDF will walk you through that.</span></p>
 
 <p><span class="chinese">提供PDF文件的打印预览。</span><span class="english">Offering a print-preview for PDF files.</span></p>

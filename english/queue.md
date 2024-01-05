@@ -1,5 +1,7 @@
 # queue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/queue.md)
+
 <p><span class="chinese">下一步，您需要一个队列。</span><span class="english">Next, you need a queue.</span></p>
 
 <p><span class="chinese">我们排在一个长队的末尾。</span><span class="english">We tailed a long queue.</span></p>

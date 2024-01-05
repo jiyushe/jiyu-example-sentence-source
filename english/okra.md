@@ -1,5 +1,7 @@
 # okra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/okra.md)
+
 <p><span class="chinese">当人在南方时，要吃秋葵。</span><span class="english">When in the South , eat okra.</span></p>
 
 <p><span class="chinese">秋葵在斯里兰卡是很受欢迎的蔬菜。</span><span class="english">Okra is a popular vegetable in Sri Lanka.</span></p>

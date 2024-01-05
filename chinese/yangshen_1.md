@@ -1,5 +1,7 @@
 # 养身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangshen_1.md)
+
 <p><span class="chinese">茱萸入药，可制酒养身祛病。</span><span class="english">Cornel medicine, liquor health illnesses.</span></p>
 
 <p><span class="chinese">运用传统中医的养身理念，进行中医健康调理。</span><span class="english">To apply health care theories of traditional Chinese medicine to help rehabilitation.</span></p>

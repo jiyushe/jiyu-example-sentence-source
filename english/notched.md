@@ -1,5 +1,7 @@
 # notched
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notched.md)
+
 <p><span class="chinese">该方案已经取得了一些早期的成效。</span><span class="english">The program has notched up some early successes.</span></p>
 
 <p><span class="chinese">格里夫斯在他的57场国家队比赛中射入44球。</span><span class="english">Greaves notched 44 goals in his 57 internationals.</span></p>

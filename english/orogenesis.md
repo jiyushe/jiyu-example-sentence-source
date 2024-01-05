@@ -1,5 +1,7 @@
 # orogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orogenesis.md)
+
 <p><span class="chinese">型花岗岩的发育是造山运动结束的标志。</span><span class="english">A type granitoids are the indicator of the end of orogenesis.</span></p>
 
 <p><span class="chinese">产生于板块碰撞后隆起到造山晚期的构造背景。</span><span class="english">They occurred under the tectonic setting ranging from post collision uplift to late orogenesis.</span></p>

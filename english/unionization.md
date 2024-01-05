@@ -1,5 +1,7 @@
 # unionization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unionization.md)
+
 <p><span class="chinese">从长远看，工会弱化似乎是不可逆的过程。</span><span class="english">The long-term decline in unionization seems irreversible.</span></p>
 
 <p><span class="chinese">英国工会组织的高度发展加剧了这个问题的严重性。</span><span class="english">Britain's high degree of unionization accentuates the problem.</span></p>

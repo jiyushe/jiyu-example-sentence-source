@@ -1,5 +1,7 @@
 # congresswoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congresswoman.md)
+
 <p><span class="chinese">是一位来自纽约的民主党众议院女议员。</span><span class="english">K. G. is a Democratic congresswoman from New York.</span></p>
 
 <p><span class="chinese">Vinocur称赞了为吉佛兹进行急救的大学实习生的表现。</span><span class="english">Doctor Vinocur praised the college intern who gave the congresswoman first aid.</span></p>

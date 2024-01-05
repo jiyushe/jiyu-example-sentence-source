@@ -1,5 +1,7 @@
 # 作坊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuofang.md)
+
 <p><span class="chinese">第二个建议是，给小作坊们一个机会。</span><span class="english">Second, give the little guys a chance.</span></p>
 
 <p><span class="chinese">浙江一锡箔作坊600人铅中毒。</span><span class="english">Lead poisoning sickens 600 in East China.</span></p>

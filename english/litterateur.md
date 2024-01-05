@@ -1,5 +1,7 @@
 # litterateur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litterateur.md)
+
 <p><span class="chinese">李华是一位文史兼通的大家。</span><span class="english">In short, Li Hua is both a litterateur and a historian.</span></p>
 
 <p><span class="chinese">张鷟是一位颇有国际影响的唐代文学家。</span><span class="english">Zhang Zhuo is an international influence litterateur of Tang dynasty.</span></p>

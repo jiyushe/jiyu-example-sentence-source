@@ -1,5 +1,7 @@
 # harebrained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harebrained.md)
+
 <p><span class="chinese">Harebrained的用法最初见于1548年。</span><span class="english">The first use of harebrained dates to 1548.</span></p>
 
 <p><span class="chinese">跳入冰水这个想法真是愚蠢。</span><span class="english">Jumping into the icy water was a harebrained idea.</span></p>

@@ -1,5 +1,7 @@
 # reactivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reactivity.md)
+
 <p><span class="chinese">更难发生反应。</span><span class="english">Greater resistance to reactivity.</span></p>
 
 <p><span class="chinese">我们对化学反应了解些什么呢？</span><span class="english">What can we say about chemical reactivity?</span></p>

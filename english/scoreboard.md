@@ -1,5 +1,7 @@
 # scoreboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scoreboard.md)
+
 <p><span class="chinese">甚至于可以在屏幕上闪现出分数！</span><span class="english">You could even flash a scoreboard on screen!</span></p>
 
 <p><span class="chinese">⊙、旁观者的姓名永远爬不到比赛的记分板上。</span><span class="english">Spectator's name never climb on the scoreboard.</span></p>

@@ -1,5 +1,7 @@
 # acknowledge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acknowledge.md)
+
 <p><span class="chinese">承认你的担心。</span><span class="english">Acknowledge your worry.</span></p>
 
 <p><span class="chinese">对赠礼立即表示感谢。</span><span class="english">Acknowledge the gift at once.</span></p>

@@ -1,5 +1,7 @@
 # downstage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downstage.md)
+
 <p><span class="chinese">克里斯娜站在舞台前部的开阔区域。</span><span class="english">Krishna stands downstage in the open area.</span></p>
 
 <p><span class="chinese">前台人员已经不回答记者的提问。</span><span class="english">Downstage personnel has not answered the reporter's query.</span></p>

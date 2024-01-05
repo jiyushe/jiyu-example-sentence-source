@@ -1,5 +1,7 @@
 # 逶迤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyi_4.md)
+
 <p><span class="chinese">纵使细流常逶迤，也会平安归海洋。</span><span class="english">That even the weariest river Winds somewhere safe to sea.</span></p>
 
 <p><span class="chinese">河流形成新的河曲，在谷底逶迤流淌。</span><span class="english">The river forms new meanders that curve along the valley floor.</span></p>

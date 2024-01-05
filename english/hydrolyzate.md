@@ -1,5 +1,7 @@
 # hydrolyzate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrolyzate.md)
+
 <p><span class="chinese">珍珠水解液，营养剂，含有嫩白成分，给肌肤添加活力。</span><span class="english">The pearl hydrolyzate lotion and nutrition with whitening ingredient can activate the skin.</span></p>
 
 <p><span class="chinese">利用干酪乳杆菌发酵鸡肉酶解液制备发酵型鸡肉调味汁。</span><span class="english">This article studied chicken enzymatic hydrolyzate was fermented by lactobacillus casei to prepare chicken sauce.</span></p>

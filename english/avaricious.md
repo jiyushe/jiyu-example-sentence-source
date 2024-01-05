@@ -1,5 +1,7 @@
 # avaricious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avaricious.md)
+
 <p><span class="chinese">有吝啬父亲必有败家儿子。</span><span class="english">To an avaricious father, a prodigal son.</span></p>
 
 <p><span class="chinese">父啊，我控告自己吝啬。</span><span class="english">Father, I accuse myself of having been avaricious.</span></p>

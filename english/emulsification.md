@@ -1,5 +1,7 @@
 # emulsification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emulsification.md)
+
 <p><span class="chinese">最后简要阐述了微乳化技术。</span><span class="english">Finally, the technique of micro emulsification was described in brief.</span></p>
 
 <p><span class="chinese">多功能胶体磨，乳化均质机，研磨机。</span><span class="english">Multi-purpose colloid mill, emulsification isotropic machine, grinder.</span></p>

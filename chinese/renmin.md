@@ -1,5 +1,7 @@
 # 人民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renmin.md)
+
 <p><span class="chinese">人民大众爱死列表了。</span><span class="english">People like lists.</span></p>
 
 <p><span class="chinese">不要诽谤人民。</span><span class="english">Don't defame people.</span></p>

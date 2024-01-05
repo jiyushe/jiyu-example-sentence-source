@@ -1,5 +1,7 @@
 # imaginable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imaginable.md)
+
 <p><span class="chinese">所有的难题再困难的我们都遇过了。</span><span class="english">We met with the greatest difficulty imaginable.</span></p>
 
 <p><span class="chinese">于是芬兰女人就把格尔达抱到驯鹿的背上。它尽快地飞跑。</span><span class="english">Reindeer's back, and off he ran with all imaginable speed.</span></p>

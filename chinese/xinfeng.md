@@ -1,5 +1,7 @@
 # 信奉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfeng.md)
+
 <p><span class="chinese">我深切地信奉这一使命。</span><span class="english">I believe deeply in that mission.</span></p>
 
 <p><span class="chinese">一年半以前我才开始信奉基督教。</span><span class="english">I became one a year and a half ago.</span></p>

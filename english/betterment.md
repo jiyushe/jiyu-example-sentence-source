@@ -1,5 +1,7 @@
 # betterment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betterment.md)
+
 <p><span class="chinese">在政治领域，每天都有进步的事情发生。</span><span class="english">In politics, betterment is happening day by day.</span></p>
 
 <p><span class="chinese">那是社会分工中女性的角色。</span><span class="english">That would be the feminine contribution to the betterment of society.</span></p>

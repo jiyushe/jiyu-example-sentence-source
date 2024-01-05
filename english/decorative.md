@@ -1,5 +1,7 @@
 # decorative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decorative.md)
+
 <p><span class="chinese">高档内装饰板。</span><span class="english">High-grade decorative board.</span></p>
 
 <p><span class="chinese">这是个8尺高的装饰花瓶。</span><span class="english">It is 8-foot decorative vase.</span></p>

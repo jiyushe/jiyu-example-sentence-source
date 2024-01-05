@@ -1,5 +1,7 @@
 # gerund
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gerund.md)
+
 <p><span class="chinese">动名词部分当作名词，部分当作动词。</span><span class="english">Gerund is used partly as a noun, partly as a verb.</span></p>
 
 <p><span class="chinese">你混淆了现在分词和动名词的用法。</span><span class="english">You've got mixed up by the use of participle and gerund.</span></p>

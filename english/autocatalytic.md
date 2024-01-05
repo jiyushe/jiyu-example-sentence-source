@@ -1,5 +1,7 @@
 # autocatalytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autocatalytic.md)
+
 <p><span class="chinese">no氧化是自动催化的。</span><span class="english">The NO oxidation is autocatalytic.</span></p>
 
 <p><span class="chinese">这种自我催化创造区位的情形，就是经济成长的主要动力。</span><span class="english">The autocatalytic creation of niches is thus a main driver of economic growth.</span></p>

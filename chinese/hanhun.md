@@ -1,5 +1,7 @@
 # 含混
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanhun.md)
+
 <p><span class="chinese">职业表述要精确，不可含混模糊。</span><span class="english">Be specific, not vague or fuzzy.</span></p>
 
 <p><span class="chinese">这个新职位的权力范围及其含混。</span><span class="english">The powers of this new post are exceedingly vague.</span></p>

@@ -1,5 +1,7 @@
 # sidle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidle.md)
+
 <p><span class="chinese">洞口太窄了，我们只能侧着身子走进去。</span><span class="english">The cave is so narrow that we can only sidle in.</span></p>
 
 <p><span class="chinese">他不能逃避个人的责任。</span><span class="english">He can not sidle away from personal responsibility.</span></p>

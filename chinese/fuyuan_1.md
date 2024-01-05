@@ -1,5 +1,7 @@
 # 幅员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyuan_1.md)
+
 <p><span class="chinese">是的，中国是一个历史悠久、幅员广大的国家。</span><span class="english">Yes, China is huge country with a very long history.</span></p>
 
 <p><span class="chinese">你必要举目瞻仰具有华美的君王，要遥望幅员广阔的地带。</span><span class="english">His eyes shall see the king in his beauty, they shall see the land far off.</span></p>

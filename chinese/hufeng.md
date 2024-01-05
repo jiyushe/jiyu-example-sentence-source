@@ -1,5 +1,7 @@
 # 护封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hufeng.md)
+
 <p><span class="chinese">我喜欢这个护封的设计。</span><span class="english">I like the design on this jacket.</span></p>
 
 <p><span class="chinese">它通常印在书本护封的勒口内。</span><span class="english">It is usually printed on the jacket flaps.</span></p>

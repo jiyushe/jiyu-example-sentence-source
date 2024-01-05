@@ -1,5 +1,7 @@
 # tinkle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinkle.md)
+
 <p><span class="chinese">电话叮铃响了一下。</span><span class="english">The telephone gave a tinkle.</span></p>
 
 <p><span class="chinese">她听到透镜当啷一声撞碎了。</span><span class="english">She heard the tinkle of the broken lens.</span></p>

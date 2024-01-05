@@ -1,5 +1,7 @@
 # 套鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoxie.md)
+
 <p><span class="chinese">他有一双套鞋。</span><span class="english">He has a pair of overshoes.</span></p>
 
 <p><span class="chinese">对方说。我现在要把这双套鞋放在门口。</span><span class="english">I will put them here by the door.</span></p>

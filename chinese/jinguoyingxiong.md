@@ -1,5 +1,7 @@
 # 巾帼英雄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinguoyingxiong.md)
+
 <p><span class="chinese">她是巾帼英雄。</span><span class="english">She is a heroic woman.</span></p>
 
 <p><span class="chinese">杨开慧等巾帼英雄。</span><span class="english">Heroines such as Yang Kaihui.</span></p>

@@ -1,5 +1,7 @@
 # 移位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwei_5.md)
+
 <p><span class="chinese">冰川使许多大石块移位了。</span><span class="english">The glacier dislocated great stones.</span></p>
 
 <p><span class="chinese">牙齿移位是最常见的外伤类型。</span><span class="english">The most common injuries were luxation.</span></p>

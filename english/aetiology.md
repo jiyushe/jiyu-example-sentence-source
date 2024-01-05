@@ -1,5 +1,7 @@
 # aetiology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aetiology.md)
+
 <p><span class="chinese">病因学和效应测量的博客也是如此。</span><span class="english">So are the Aetiology and Effect Measure blogs.</span></p>
 
 <p><span class="chinese">其病因不明，也无适当的治疗。</span><span class="english">The aetiology was obscure and the appropriate treatment debatable.</span></p>

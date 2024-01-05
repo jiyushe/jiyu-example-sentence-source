@@ -1,5 +1,7 @@
 # pollan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollan.md)
+
 <p><span class="chinese">麦克尔普兰这样做。</span><span class="english">Michael Pollan does it.</span></p>
 
 <p><span class="chinese">迈克尔·福克斯和特瑞西·宝兰</span><span class="english">Years   Michael J. Fox and Tracy Pollan — July 16, 1988</span></p>

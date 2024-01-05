@@ -1,5 +1,7 @@
 # hegemonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hegemonic.md)
+
 <p><span class="chinese">美元处于霸权地位的情况已持续了半个世纪。</span><span class="english">For half a century the dollar has been the hegemonic currency.</span></p>
 
 <p><span class="chinese">它创造的是一个自由主义的霸权秩序，美国居于其顶端。</span><span class="english">It created a liberal hegemonic order with the U.S. at its top.</span></p>

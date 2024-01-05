@@ -1,5 +1,7 @@
 # 伟岸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weian.md)
+
 <p><span class="chinese">也许是金佛的伟岸？</span><span class="english">Buddha may be in physical gold?</span></p>
 
 <p><span class="chinese">这是怎样一棵伟岸的大树啊？</span><span class="english">What kind of a stalwart tree ah?</span></p>

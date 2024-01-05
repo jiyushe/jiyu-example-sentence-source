@@ -1,5 +1,7 @@
 # replicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replicable.md)
+
 <p><span class="chinese">英雄是不可复制的。</span><span class="english">Heroes are not replicable.</span></p>
 
 <p><span class="chinese">它的整体的成功是不容易复制。</span><span class="english">And its overall success is not easily replicable.</span></p>

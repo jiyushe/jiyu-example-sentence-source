@@ -1,5 +1,7 @@
 # heating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heating.md)
+
 <p><span class="chinese">供暖系统。</span><span class="english">A heating system.</span></p>
 
 <p><span class="chinese">用加热体例来弯管子。</span><span class="english">Bend the pipe by heating it.</span></p>

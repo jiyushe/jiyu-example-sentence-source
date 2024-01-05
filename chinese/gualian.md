@@ -1,5 +1,7 @@
 # 刮脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gualian.md)
+
 <p><span class="chinese">我每天早上刮脸。</span><span class="english">I shave every morning.</span></p>
 
 <p><span class="chinese">那个人能够刮刮脸就好了。</span><span class="english">That man could do with a shave.</span></p>

@@ -1,5 +1,7 @@
 # cs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cs.md)
+
 <p><span class="chinese">反恐精英是一部很棒的电脑游戏。</span><span class="english">CS is a great computer game.</span></p>
 
 <p><span class="chinese">查看全部6号线政务视频教程。</span><span class="english">See all Line 6 CS video tutorials.</span></p>

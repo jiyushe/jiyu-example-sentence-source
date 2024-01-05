@@ -1,5 +1,7 @@
 # 棘手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jishou.md)
+
 <p><span class="chinese">这是一个棘手的问题。</span><span class="english">This is a tricky one.</span></p>
 
 <p><span class="chinese">这是一项非常棘手的工作。</span><span class="english">This is an augean task.</span></p>

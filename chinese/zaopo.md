@@ -1,5 +1,7 @@
 # 糟粕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaopo.md)
+
 <p><span class="chinese">他认为现代艺术大都是糟粕。</span><span class="english">He thinks most modern artis _.</span></p>
 
 <p><span class="chinese">他认为现代艺术大都是糟粕。</span><span class="english">He thinks most modern artis trash.</span></p>

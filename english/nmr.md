@@ -1,5 +1,7 @@
 # nmr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nmr.md)
+
 <p><span class="chinese">基础NMR使用内存中的消息传递结构。</span><span class="english">The base NMR uses an in-memory messaging structure.</span></p>
 
 <p><span class="chinese">该方法明显优于章动NMR技术。</span><span class="english">This method is superior obviously to nutation NMR technique.</span></p>

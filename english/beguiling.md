@@ -1,5 +1,7 @@
 # beguiling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beguiling.md)
+
 <p><span class="chinese">这是关于种子的令人着迷的悖论。</span><span class="english">This is the beguiling paradox of seeds.</span></p>
 
 <p><span class="chinese">这些公司的策略是以一个诱骗性的事实为前提。</span><span class="english">These firms' strategy was premised on one, beguiling fact.</span></p>

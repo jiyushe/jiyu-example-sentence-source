@@ -1,5 +1,7 @@
 # anniversary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anniversary.md)
+
 <p><span class="chinese">考虑一个年度性的运动。</span><span class="english">Consider an anniversary campaign.</span></p>
 
 <p><span class="chinese">因为那是他的周年纪念。</span><span class="english">because that was his anniversary.</span></p>

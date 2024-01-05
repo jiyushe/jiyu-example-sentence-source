@@ -1,5 +1,7 @@
 # unhook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhook.md)
+
 <p><span class="chinese">这个领口的钩子怎么也解不开。</span><span class="english">The collar wouldn't unhook.</span></p>
 
 <p><span class="chinese">哦！你什么时候解开的？</span><span class="english">Oh! When did you unhook this?</span></p>

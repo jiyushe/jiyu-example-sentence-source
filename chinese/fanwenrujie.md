@@ -1,5 +1,7 @@
 # 繁文缛节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanwenrujie.md)
+
 <p><span class="chinese">美国政府就喜欢繁文缛节，官僚习气。</span><span class="english">The U. S. government just loves red tapes.</span></p>
 
 <p><span class="chinese">繁文缛节阻碍了我们为采取行动而作的所有努力。</span><span class="english">Red tape encumbered all our attempts at action.</span></p>

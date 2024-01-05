@@ -1,5 +1,7 @@
 # clientele
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clientele.md)
+
 <p><span class="chinese">这种活动没有固定的市场和客户。</span><span class="english">It lacks a stable market and clientele.</span></p>
 
 <p><span class="chinese">该行的核心客户人群是30多岁和40多岁的男子。</span><span class="english">Its core clientele base is men in their 30s and 40s.</span></p>

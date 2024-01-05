@@ -1,5 +1,7 @@
 # 致密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhimi_1.md)
+
 <p><span class="chinese">低回声病灶细胞排列致密无上述结构。</span><span class="english">The hypoechoic lesions had tight cells structure.</span></p>
 
 <p><span class="chinese">产品的致密化可能相当重要。</span><span class="english">Densification of the product could be substantial.</span></p>

@@ -1,5 +1,7 @@
 # concessionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concessionary.md)
+
 <p><span class="chinese">对这些最贫困国家，国际开发协会提供赠款和优惠贷款。</span><span class="english">For these poorest countries, IDA gives grants and concessionary loans.</span></p>
 
 <p><span class="chinese">上述特许产品可以使用国际奥委会标记。</span><span class="english">Afore-mentioned concessionary products can use number of international Olympic committee.</span></p>

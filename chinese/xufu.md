@@ -1,5 +1,7 @@
 # 虚浮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xufu.md)
+
 <p><span class="chinese">我相信你在虚浮起来。</span><span class="english">I believe you're getting rain.</span></p>
 
 <p><span class="chinese">我是上帝的孩子我生活在这个虚浮的世间。</span><span class="english">I'm a kid of God, living in this blue-sky universe.</span></p>

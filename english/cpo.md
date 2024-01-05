@@ -1,5 +1,7 @@
 # cpo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cpo.md)
+
 <p><span class="chinese">近年来泰国已成为东南亚地区令人瞩目的粗棕榈油生产国。</span><span class="english">In recent years, Thailand has been an outstanding CPO producer in Southeast Asia.</span></p>
 
 <p><span class="chinese">员工还可以咨询首席隐私官，了解公司与个人信息相关的个人隐私规定。</span><span class="english">Workers can also turn to a CPO to learn about their company's personal privacy laws concerning their data.</span></p>

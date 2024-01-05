@@ -1,5 +1,7 @@
 # vida
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vida.md)
+
 <p><span class="chinese">你能让维迪奇内牛满面吗？</span><span class="english">Could you ever make Vida cry?</span></p>
 
 <p><span class="chinese">在你的生涯外有特殊的己吗？</span><span class="english">Hay alguien especial en tu vida?</span></p>

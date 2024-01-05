@@ -1,5 +1,7 @@
 # labile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labile.md)
+
 <p><span class="chinese">这种物理缠结往往是不稳定的。</span><span class="english">Such physical entanglements are usually labile.</span></p>
 
 <p><span class="chinese">不稳定细胞循细胞周期周而复始地进行有丝分裂。</span><span class="english">Labile cells follow the cell cycle from one mitosis to the next.</span></p>

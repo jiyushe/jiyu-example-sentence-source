@@ -1,5 +1,7 @@
 # marginal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marginal.md)
+
 <p><span class="chinese">也将价格设定在边际成本</span><span class="english">To price at marginal cost as well.</span></p>
 
 <p><span class="chinese">如果百事定价在边际成本怎么办</span><span class="english">What if Pepsi prices at marginal cost?</span></p>

@@ -1,5 +1,7 @@
 # purview
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purview.md)
+
 <p><span class="chinese">这也显示出现在这个金融监管者的管理范围能有多大的延伸。</span><span class="english">This shows just how far a financial supervisor's purview now extends.</span></p>
 
 <p><span class="chinese">梅森不愿意从命，因为这事并不在参议院的权力范围之内。</span><span class="english">Mason is reluctant because this does not fall under the Senate's purview.</span></p>

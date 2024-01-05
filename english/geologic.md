@@ -1,5 +1,7 @@
 # geologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geologic.md)
+
 <p><span class="chinese">我们最好的测量地震风险的办法是地质记录。</span><span class="english">The best gauge of quake risk is the geologic record.</span></p>
 
 <p><span class="chinese">地质遗迹是地球留给人类的珍贵遗产。</span><span class="english">Geologic relics are earth's precious heritage to mankind.</span></p>

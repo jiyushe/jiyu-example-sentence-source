@@ -1,5 +1,7 @@
 # ramie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramie.md)
+
 <p><span class="chinese">该酶对苎麻脱胶有较好的特异性。</span><span class="english">The enzyme had better specificity for ramie retting.</span></p>
 
 <p><span class="chinese">上述酶类需要在苎麻脱胶过程中作进一步的研究。</span><span class="english">The above results should be testified by ramie degumming process.</span></p>

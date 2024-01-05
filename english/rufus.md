@@ -1,5 +1,7 @@
 # rufus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rufus.md)
+
 <p><span class="chinese">妈妈和鲁弗斯在哪儿?所以我就去了霍兰德哪儿。</span><span class="english">Where are my mom and Rufus?So I went to Holland's.</span></p>
 
 <p><span class="chinese">鲁弗斯是皮特巴塔德创建一个开源工具。</span><span class="english">Rufus is an Open Source tool created by Pete Batard.</span></p>

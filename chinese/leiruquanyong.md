@@ -1,5 +1,7 @@
 # 泪如泉涌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiruquanyong.md)
+
 <p><span class="chinese">她泪如泉涌。</span><span class="english">Tears gushed from her eyes.</span></p>
 
 <p><span class="chinese">当我看到地震的照片时，我泪如泉涌。</span><span class="english">My tears poured when I saw the pictures.</span></p>

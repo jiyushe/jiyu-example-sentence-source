@@ -1,5 +1,7 @@
 # 头条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toutiao.md)
+
 <p><span class="chinese">怎会突然成了英国的头条？</span><span class="english">Why is it suddenly front-page news in the UK?</span></p>
 
 <p><span class="chinese">报章头条的失业率已高过10个百分点。</span><span class="english">The headlined unemployment rate is just over 10 percent.</span></p>

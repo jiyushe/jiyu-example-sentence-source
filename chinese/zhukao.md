@@ -1,5 +1,7 @@
 # 主考
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhukao.md)
+
 <p><span class="chinese">主考人伤心地看着我。</span><span class="english">The examiner looked at me sadly.</span></p>
 
 <p><span class="chinese">主考人伤心地看著我。</span><span class="english">The examiner looked at me sadly.</span></p>

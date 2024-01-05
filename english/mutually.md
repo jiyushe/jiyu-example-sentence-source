@@ -1,5 +1,7 @@
 # mutually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutually.md)
+
 <p><span class="chinese">它们不互相排斥。</span><span class="english">They are not mutually exclusive.</span></p>
 
 <p><span class="chinese">模式都是互相排斥的。</span><span class="english">The modes are mutually exclusive.</span></p>

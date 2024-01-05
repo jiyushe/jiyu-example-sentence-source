@@ -1,5 +1,7 @@
 # 转租
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzu.md)
+
 <p><span class="chinese">你不能把这套公寓转租给他人。</span><span class="english">You can't sublet the apartment.</span></p>
 
 <p><span class="chinese">当我不在的一段时间内，我可以转租吗？</span><span class="english">Can I sublet my apartment when I'm away?</span></p>

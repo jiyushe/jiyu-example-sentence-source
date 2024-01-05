@@ -1,5 +1,7 @@
 # fray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fray.md)
+
 <p><span class="chinese">脾气也会暴躁。</span><span class="english">Tempers could fray.</span></p>
 
 <p><span class="chinese">参加了讨论，输入弗赖。</span><span class="english">To join the discussion, enter the Fray.</span></p>

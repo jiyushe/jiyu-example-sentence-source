@@ -1,5 +1,7 @@
 # 哮喘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaochuan.md)
+
 <p><span class="chinese">有哮喘吗？</span><span class="english">Asthmatic?</span></p>
 
 <p><span class="chinese">胃灼热还是哮喘？</span><span class="english">Heartburn or asthma?</span></p>

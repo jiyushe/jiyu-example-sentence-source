@@ -1,5 +1,7 @@
 # 灭顶之灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miedingzhizai.md)
+
 <p><span class="chinese">信仰是我们的掘墓人，带来灭顶之灾。</span><span class="english">Faith is our destroyer. Faith has brought us doom.</span></p>
 
 <p><span class="chinese">他经历了惨痛的失败，这是一场灭顶之灾。</span><span class="english">De Lesseps failed spectacularly. It was a complete disaster.</span></p>

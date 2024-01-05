@@ -1,5 +1,7 @@
 # reappraisal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reappraisal.md)
+
 <p><span class="chinese">对我们同中国的贸易彻底的重新估价。</span><span class="english">Aradical reappraisal of our trade with China.</span></p>
 
 <p><span class="chinese">毫不畏缩地进行重新评估成本会很高。</span><span class="english">The cost of this unflinching reappraisal will be large.</span></p>

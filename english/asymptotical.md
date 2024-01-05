@@ -1,5 +1,7 @@
 # asymptotical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asymptotical.md)
+
 <p><span class="chinese">并讨论了闭环系统的增益裕度、相位裕度和时滞容限等性质。</span><span class="english">An asymptotical formula for the eigenvalues of the closed-loop system is obtained.</span></p>
 
 <p><span class="chinese">并发现对所提出的EB检验，在某些条件下，具有渐近最优性的收敛速率，能够任意接近于1。</span><span class="english">It is discovered that convergence rate with asymptotical optimality for the proposed EB test can arbitrarily approach to 1 under certain conditions.</span></p>

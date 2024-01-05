@@ -1,5 +1,7 @@
 # 守候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouhou.md)
+
 <p><span class="chinese">我还在默数守候著。</span><span class="english">I am still waiting for silence.</span></p>
 
 <p><span class="chinese">我们将守候在这儿，迎击敌人。</span><span class="english">We'll wait here to meet the enemy.</span></p>

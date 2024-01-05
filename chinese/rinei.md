@@ -1,5 +1,7 @@
 # 日内
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rinei.md)
+
 <p><span class="chinese">他日内就能抵沪。</span><span class="english">He'll get to Shanghai in a day or two.</span></p>
 
 <p><span class="chinese">这张车票3日内有效。</span><span class="english">This train ticket is valid for three days.</span></p>

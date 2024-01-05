@@ -1,5 +1,7 @@
 # unborn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unborn.md)
+
 <p><span class="chinese">为了未出生的孩子。</span><span class="english">For my unborn child.</span></p>
 
 <p><span class="chinese">在无生的明光中，好好休息。</span><span class="english">In unborn luminosity, take a nice rest.</span></p>

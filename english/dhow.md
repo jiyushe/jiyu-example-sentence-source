@@ -1,5 +1,7 @@
 # dhow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dhow.md)
+
 <p><span class="chinese">谁能帮忙告诉我2，4—D用什么方法溶解吗？</span><span class="english">Who can help it tell 2 , 4- Dhow be dissolve?</span></p>
 
 <p><span class="chinese">我怎样才能控制情绪，以使每天卓有成效呢?除非我心平气和，否则迎来的又将是失败的一天。</span><span class="english">And dhow will I master these emotions so that each day will be productive?</span></p>

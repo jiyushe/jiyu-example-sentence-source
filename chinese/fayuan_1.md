@@ -1,5 +1,7 @@
 # 发源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fayuan_1.md)
+
 <p><span class="chinese">这条河发源于什么地方?</span><span class="english">Where does the river rise?</span></p>
 
 <p><span class="chinese">它发源于晋朝。</span><span class="english">It originated in the Jin Dynasty.</span></p>

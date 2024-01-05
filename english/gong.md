@@ -1,5 +1,7 @@
 # gong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gong.md)
+
 <p><span class="chinese">大锣？</span><span class="english">That big gong?</span></p>
 
 <p><span class="chinese">好的，我叫陈功。</span><span class="english">Yes, it's Chen Gong.</span></p>

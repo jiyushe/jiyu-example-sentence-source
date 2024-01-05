@@ -1,5 +1,7 @@
 # bureau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bureau.md)
+
 <p><span class="chinese">优良企业局。</span><span class="english">Better Business Bureau.</span></p>
 
 <p><span class="chinese">他在这个局工作过。</span><span class="english">He works in this bureau.</span></p>

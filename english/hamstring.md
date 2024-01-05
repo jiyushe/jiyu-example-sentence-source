@@ -1,5 +1,7 @@
 # hamstring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hamstring.md)
+
 <p><span class="chinese">并于2005年右韧带撕裂。</span><span class="english">In 2005, torn right hamstring.</span></p>
 
 <p><span class="chinese">樊金文一伙上前乱砍，挑断其脚筋。</span><span class="english">Fan Jinwen group came hack, Tiaoduan his hamstring.</span></p>

@@ -1,5 +1,7 @@
 # stelae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stelae.md)
+
 <p><span class="chinese">石碑使用最多的是在希腊的阿提卡，大部分是用作墓碑。</span><span class="english">The largest number of stelae were produced in Attica , chiefly as grave markers.</span></p>
 
 <p><span class="chinese">“莲花”由四根精雕细琢的石柱支撑，方型石础。</span><span class="english">This "lotus flower" is sustained by four elaborate stelae and a square stone foundation.</span></p>

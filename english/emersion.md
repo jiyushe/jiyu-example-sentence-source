@@ -1,5 +1,7 @@
 # emersion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emersion.md)
+
 <p><span class="chinese">各种物品和各种形式都再现“简约含蓄”。</span><span class="english">All sorts of article and multiform emersion " contracted reservation ".</span></p>
 
 <p><span class="chinese">极限编程的出现，为解决这一问题提供了新的途径。</span><span class="english">The emersion of extreme programming provides a new approach to these problems.</span></p>

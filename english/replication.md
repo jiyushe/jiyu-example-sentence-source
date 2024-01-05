@@ -1,5 +1,7 @@
 # replication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replication.md)
+
 <p><span class="chinese">对订阅启动复制。</span><span class="english">Start replication on subscriptions.</span></p>
 
 <p><span class="chinese">复制的近义词是粘贴。</span><span class="english">Replication is the near-synonym paste.</span></p>

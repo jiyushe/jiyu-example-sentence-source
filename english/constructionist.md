@@ -1,5 +1,7 @@
 # constructionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constructionist.md)
+
 <p><span class="chinese">使用一个社会法令哲学来进行学习和开发。</span><span class="english">Learning and development are guided using a social constructionist philosophy.</span></p>
 
 <p><span class="chinese">社会建构论心理学因此主张，嫉妒是由特定的社会情境所引发的。</span><span class="english">So the social constructionist psychology insists that the envy is aroused by the social circumstances.</span></p>

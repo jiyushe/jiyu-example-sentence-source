@@ -1,5 +1,7 @@
 # mnemonics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mnemonics.md)
+
 <p><span class="chinese">记忆术对学英语很重要。</span><span class="english">Mnemonics is important in learning English.</span></p>
 
 <p><span class="chinese">我们要考一下记忆能力。</span><span class="english">So, we're going to have contests for mnemonics.</span></p>

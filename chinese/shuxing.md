@@ -1,5 +1,7 @@
 # 属性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxing.md)
+
 <p><span class="chinese">这是一个可提升的属性。</span><span class="english">A promotable property.</span></p>
 
 <p><span class="chinese">丨带有属性的宠物？</span><span class="english">Vanity Pets with Stats?</span></p>

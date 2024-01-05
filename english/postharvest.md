@@ -1,5 +1,7 @@
 # postharvest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postharvest.md)
+
 <p><span class="chinese">生物防治是当前芒果、香蕉采后病害控制的重要研究方向。</span><span class="english">Biocontrol plays an important role in control of postharvest disease.</span></p>
 
 <p><span class="chinese">稻谷收获后处理技术包括贮藏、干操和加工。</span><span class="english">Postharvest technologies includes the storing, drying, and processing of rice.</span></p>

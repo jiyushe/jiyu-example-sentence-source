@@ -1,5 +1,7 @@
 # 问题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenti_1.md)
+
 <p><span class="chinese">一句话，问题就是？</span><span class="english">All right?</span></p>
 
 <p><span class="chinese">有什么问题么</span><span class="english">Questions?</span></p>

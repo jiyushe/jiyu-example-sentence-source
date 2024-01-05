@@ -1,5 +1,7 @@
 # amundsen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amundsen.md)
+
 <p><span class="chinese">像其他伟大的探险家一样，阿蒙森知道何时退缩。</span><span class="english">Like other great explorers, Amundsen knew when to turn back.</span></p>
 
 <p><span class="chinese">亚孟森比司克特早两三天抵达南极。</span><span class="english">Amundsen anticipated Scott by a few days in reaching the South Pole.</span></p>

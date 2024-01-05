@@ -1,5 +1,7 @@
 # hoarseness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoarseness.md)
+
 <p><span class="chinese">你声音嘶哑有多长时间了？</span><span class="english">How long have you had hoarseness?</span></p>
 
 <p><span class="chinese">蝉声嘶晚月，孤枕梦如何。</span><span class="english">Cicada hoarseness late January, Guzhen dream is.</span></p>

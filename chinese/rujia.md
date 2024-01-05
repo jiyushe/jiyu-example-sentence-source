@@ -1,5 +1,7 @@
 # 儒家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rujia.md)
+
 <p><span class="chinese">这是一种儒家作风。</span><span class="english">It is the Confucian way.</span></p>
 
 <p><span class="chinese">然而，中国依旧受着儒家思想的影响。</span><span class="english">Confucian influence, however, remains.</span></p>

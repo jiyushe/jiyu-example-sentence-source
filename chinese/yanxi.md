@@ -1,5 +1,7 @@
 # 宴席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxi.md)
+
 <p><span class="chinese">她离开宴席了！</span><span class="english">She is leaving the table!</span></p>
 
 <p><span class="chinese">哈丽特姑妈喜欢大摆宴席，招待宾客。</span><span class="english">Aunt Harriet used to entertain lavishly.</span></p>

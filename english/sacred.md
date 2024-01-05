@@ -1,5 +1,7 @@
 # sacred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacred.md)
+
 <p><span class="chinese">这是圣心吗？</span><span class="english">Is it the Sacred Heart?</span></p>
 
 <p><span class="chinese">这是一个神圣的信任。</span><span class="english">This is a sacred trust.</span></p>

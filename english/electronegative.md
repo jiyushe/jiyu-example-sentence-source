@@ -1,5 +1,7 @@
 # electronegative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electronegative.md)
+
 <p><span class="chinese">它们两个中哪个有更高的电负性？氧。</span><span class="english">Which of those two is more electronegative? The oxygen.</span></p>
 
 <p><span class="chinese">碳在氢的右边，所以它较氢更是电负性的。</span><span class="english">So carbon is to the right of hydrogen, this is more electronegative.</span></p>

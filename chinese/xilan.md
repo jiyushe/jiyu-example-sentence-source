@@ -1,5 +1,7 @@
 # 稀烂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xilan.md)
+
 <p><span class="chinese">结果一般只能是砸个稀烂。</span><span class="english">The results could be devastating.</span></p>
 
 <p><span class="chinese">我在那稀烂的小乡村没能找到一把可用的。</span><span class="english">I couldn't get one in that crappy little town.</span></p>

@@ -1,5 +1,7 @@
 # parisian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parisian.md)
+
 <p><span class="chinese">巴黎世家很快就来到巴黎体现优雅。</span><span class="english">Balenciaga soon came to embody Parisian elegance.</span></p>
 
 <p><span class="chinese">巴黎人布鲁诺·方丹正在河畔小憩。</span><span class="english">Parisian Bruno Fontaine is relaxing by the edge of the river.</span></p>

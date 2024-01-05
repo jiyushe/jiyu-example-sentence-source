@@ -1,5 +1,7 @@
 # 加封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiafeng.md)
+
 <p><span class="chinese">这是加封用的带子。</span><span class="english">Here is tape for sealing it.</span></p>
 
 <p><span class="chinese">他在文件上签字加封。</span><span class="english">He signed and sealed the document.</span></p>

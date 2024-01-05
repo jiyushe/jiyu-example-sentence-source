@@ -1,5 +1,7 @@
 # invincible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invincible.md)
+
 <p><span class="chinese">我们是战无不胜的。</span><span class="english">We were invincible.</span></p>
 
 <p><span class="chinese">谷歌并非不可战胜。</span><span class="english">Google is not invincible.</span></p>

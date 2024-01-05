@@ -1,5 +1,7 @@
 # convulse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convulse.md)
+
 <p><span class="chinese">突然，他开始抽筋，脉搏跳得很快。</span><span class="english">Suddenly, he starts to convulse and his.</span></p>
 
 <p><span class="chinese">在更严重的病例中，病人会失去知觉并抽搐。</span><span class="english">In more advanced cases, the patient will lose consciousness and may convulse.</span></p>

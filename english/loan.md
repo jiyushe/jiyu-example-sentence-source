@@ -1,5 +1,7 @@
 # loan 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loan.md)
+
 <p><span class="chinese">我们要求归还我们的贷款。</span><span class="english">We're calling our loan.</span></p>
 
 <p><span class="chinese">把借出的工具要回来。</span><span class="english">Recall the tools on loan.</span></p>

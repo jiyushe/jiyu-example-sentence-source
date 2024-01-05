@@ -1,5 +1,7 @@
 # 同源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyuan.md)
+
 <p><span class="chinese">他们是“同源的”或者是“同构的”。</span><span class="english">They are "homologous" or isomorphic.</span></p>
 
 <p><span class="chinese">这种构建非同源对照模板的方法，简便易行，适应面广。</span><span class="english">The method is multi-adaptive and easy to apply.</span></p>

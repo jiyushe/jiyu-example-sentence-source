@@ -1,5 +1,7 @@
 # waterborne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterborne.md)
+
 <p><span class="chinese">一时间，由水传播的疾病十分猖獗。</span><span class="english">Waterborne diseases are rampant.</span></p>
 
 <p><span class="chinese">而水师则始终均以杨载福、彭玉麟为主力。</span><span class="english">However waterborne forces were always headed by Yang fu, Peng Yulin.</span></p>

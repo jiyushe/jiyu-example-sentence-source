@@ -1,5 +1,7 @@
 # 月季花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuejihua.md)
+
 <p><span class="chinese">终于，他在一株月季花前停了下来。</span><span class="english">Finally, he stopped at a Chinese rose flower.</span></p>
 
 <p><span class="chinese">一个月后，竟然有月季花那么大。</span><span class="english">A month later, as many as Chinese rose so much.</span></p>

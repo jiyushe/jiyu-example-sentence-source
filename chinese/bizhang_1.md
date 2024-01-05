@@ -1,5 +1,7 @@
 # 臂章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhang_1.md)
+
 <p><span class="chinese">你们都得到臂章和警笛了。</span><span class="english">You got your armbands and whistles.</span></p>
 
 <p><span class="chinese">旅游团的劣谟将在胳膊上佩戴红色臂章。</span><span class="english">The tour leader will be wearing a red armband.</span></p>

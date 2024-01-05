@@ -1,5 +1,7 @@
 # 欣然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinran.md)
+
 <p><span class="chinese">欣然前往你会不会？</span><span class="english">Would you even go?</span></p>
 
 <p><span class="chinese">他欣然同意了她的计划。</span><span class="english">He sparked to her plan.</span></p>

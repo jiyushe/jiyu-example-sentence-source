@@ -1,5 +1,7 @@
 # syndrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syndrome.md)
+
 <p><span class="chinese">图雷特综合症。</span><span class="english">Tourette syndrome.</span></p>
 
 <p><span class="chinese">空巢综合症？</span><span class="english">Empty Nest Syndrome?</span></p>

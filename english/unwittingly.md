@@ -1,5 +1,7 @@
 # unwittingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwittingly.md)
+
 <p><span class="chinese">他不经意地进出女厕所。</span><span class="english">He unwittingly entered the ladies'toilet.</span></p>
 
 <p><span class="chinese">他有信口开河的毛病，无意中得罪了不少人。</span><span class="english">He has a tendency to pop off, unwittingly offending many people.</span></p>

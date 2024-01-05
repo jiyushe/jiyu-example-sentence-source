@@ -1,5 +1,7 @@
 # cloudy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloudy.md)
+
 <p><span class="chinese">多云且有风的。</span><span class="english">It's cloudy and windy.</span></p>
 
 <p><span class="chinese">昨天是阴天。</span><span class="english">It was cloudy yesterday.</span></p>

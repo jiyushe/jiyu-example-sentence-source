@@ -1,5 +1,7 @@
 # 所得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suode.md)
+
 <p><span class="chinese">一个银行家的各有所得。</span><span class="english">A banker of his own.</span></p>
 
 <p><span class="chinese">贪多所得反少！</span><span class="english">Ask much to have a little.</span></p>

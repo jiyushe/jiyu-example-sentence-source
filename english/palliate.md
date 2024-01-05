@@ -1,5 +1,7 @@
 # palliate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palliate.md)
+
 <p><span class="chinese">我从不想暴露别人的错误，以图减轻自己的缺点。</span><span class="english">I shall never attempt to palliate my own foible by expose the error of another.</span></p>
 
 <p><span class="chinese">你不能用别人的恶行来掩饰自己的劣迹。</span><span class="english">I shall never attempt to palliate my own foible by exposing the error of another.</span></p>

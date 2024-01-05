@@ -1,5 +1,7 @@
 # popliteal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popliteal.md)
+
 <p><span class="chinese">探讨腘动脉损伤的诊断及处理原则。</span><span class="english">To study the diagnosis and therapy principle of popliteal artery trauma.</span></p>
 
 <p><span class="chinese">目的提高动脉钝挫伤修复的成功率。</span><span class="english">Objective To improve success rate of repairing the blunt injured popliteal artery.</span></p>

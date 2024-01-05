@@ -1,5 +1,7 @@
 # fixative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fixative.md)
+
 <p><span class="chinese">合成了无甲醛固色剂AE。</span><span class="english">Non-formaldehyde dye fixative agent AE was synthesized.</span></p>
 
 <p><span class="chinese">固定喷剂喷在正稿面上的保护喷剂。</span><span class="english">Fixative spray Protective spray used on surface of artwork.</span></p>

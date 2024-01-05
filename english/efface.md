@@ -1,5 +1,7 @@
 # efface
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/efface.md)
+
 <p><span class="chinese">抹去沙滩人足迹。</span><span class="english">Efface the footprints in the sands.</span></p>
 
 <p><span class="chinese">把沙滩上的脚印抹掉。</span><span class="english">Efface the foot prints in the sands.</span></p>

@@ -1,5 +1,7 @@
 # hoarsely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoarsely.md)
+
 <p><span class="chinese">他声音沙哑地说。</span><span class="english">He said hoarsely.</span></p>
 
 <p><span class="chinese">“对不起。”他用嘶哑的嗓子说。</span><span class="english">"Excuse me, " he said hoarsely.</span></p>

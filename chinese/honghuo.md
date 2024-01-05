@@ -1,5 +1,7 @@
 # 红火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honghuo.md)
+
 <p><span class="chinese">科学家们想知道红火蚁是如何实现漂浮的。</span><span class="english">Scientists wanted to know how.</span></p>
 
 <p><span class="chinese">生意红火，还雇了个帮工。</span><span class="english">Business was good enough to hire a helper.</span></p>

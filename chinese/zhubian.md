@@ -1,5 +1,7 @@
 # 主编
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhubian.md)
+
 <p><span class="chinese">“常识媒体”创始人兼总主编丽兹·佩尔说，“免费下载歌曲，叫偷？</span><span class="english">Downloading a song for free.</span></p>
 
 <p><span class="chinese">她曾主编过妇女杂志。</span><span class="english">She used to edit a woman's magazine.</span></p>

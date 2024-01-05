@@ -1,5 +1,7 @@
 # otis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otis.md)
+
 <p><span class="chinese">是奥蒂斯。他甚至对几个男孩大搞恶作剧。</span><span class="english">It's Otis. He even plays jokes on some boys.</span></p>
 
 <p><span class="chinese">奥的斯的成败系于团队精神。</span><span class="english">The key to success for Otis is team-work spirit.</span></p>

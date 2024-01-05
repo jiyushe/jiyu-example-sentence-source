@@ -1,5 +1,7 @@
 # 仁者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzhe.md)
+
 <p><span class="chinese">他被人看做是一位仁者。</span><span class="english">He was accounted a merciful man.</span></p>
 
 <p><span class="chinese">“仁者乐山，智者乐水”。</span><span class="english">Others Mountain, the wise man happy water.</span></p>

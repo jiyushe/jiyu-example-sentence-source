@@ -1,5 +1,7 @@
 # 定货单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinghuodan.md)
+
 <p><span class="chinese">他送了一个食品杂货的定货单。</span><span class="english">He sent an order for groceries.</span></p>
 
 <p><span class="chinese">新的定货单实在使他们应接不暇了。</span><span class="english">You do not have to take in new orders.</span></p>

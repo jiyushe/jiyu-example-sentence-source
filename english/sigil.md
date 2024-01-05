@@ -1,5 +1,7 @@
 # sigil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sigil.md)
+
 <p><span class="chinese">最后，到火之魔符了。</span><span class="english">At last, the Fire Sigil.</span></p>
 
 <p><span class="chinese">这一定就是土之魔符了。</span><span class="english">That must be the Earth Sigil there.</span></p>

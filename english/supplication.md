@@ -1,5 +1,7 @@
 # supplication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supplication.md)
+
 <p><span class="chinese">陈超顾忌孟菲感受，没有再同意欣儿的恳求。</span><span class="english">Chen MengFei feeling, no scruple of supplication.</span></p>
 
 <p><span class="chinese">我们应该诉诸和约和卑下的哀求吗？</span><span class="english">Shall we resort to entreaty and humble supplication?</span></p>

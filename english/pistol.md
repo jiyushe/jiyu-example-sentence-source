@@ -1,5 +1,7 @@
 # pistol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pistol.md)
+
 <p><span class="chinese">那警察佩带着手枪。</span><span class="english">The policeman wore a pistol.</span></p>
 
 <p><span class="chinese">这手枪，对你是有好处的。</span><span class="english">This pistol is in your interests.</span></p>

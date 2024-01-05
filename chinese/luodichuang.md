@@ -1,5 +1,7 @@
 # 落地窗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luodichuang.md)
+
 <p><span class="chinese">你进来的时候把落地窗勾好。</span><span class="english">Hook the French window when you come in.</span></p>
 
 <p><span class="chinese">这是扇落地窗，朝向后花园。</span><span class="english">This is a French window. It's facing the back garden.</span></p>

@@ -1,5 +1,7 @@
 # 主流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuliu.md)
+
 <p><span class="chinese">现在它们是主流。</span><span class="english">They are now mainstream.</span></p>
 
 <p><span class="chinese">充满浪漫气息的色彩也是主流之选。</span><span class="english">Romantic hues are also the mainstream.</span></p>

@@ -1,5 +1,7 @@
 # proneness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proneness.md)
+
 <p><span class="chinese">俯伏姿势对新生儿可能不安全。</span><span class="english">Proneness may be an unsafe position for newborns.</span></p>
 
 <p><span class="chinese">枕头过高迫使颈部前屈而压迫颈动脉。</span><span class="english">The pillow is exorbitant force cervical proneness and oppress carotid.</span></p>

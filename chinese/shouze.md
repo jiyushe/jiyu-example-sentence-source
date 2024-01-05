@@ -1,5 +1,7 @@
 # 守则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouze.md)
+
 <p><span class="chinese">哈佛学生守则。</span><span class="english">the Harvard student handbook.</span></p>
 
 <p><span class="chinese">遵守索菲特酒店员工守则。</span><span class="english">Abides by the Sofitel Employee Handbook.</span></p>

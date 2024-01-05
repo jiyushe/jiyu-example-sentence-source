@@ -1,5 +1,7 @@
 # atheistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atheistic.md)
+
 <p><span class="chinese">这是一个法定的无神论国家。</span><span class="english">This was an officially atheistic state.</span></p>
 
 <p><span class="chinese">苍白的脸孔，无神眼瞳，让人发紫。</span><span class="english">Pale face, atheistic Yan Tong, purple people.</span></p>

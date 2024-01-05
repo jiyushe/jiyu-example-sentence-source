@@ -1,5 +1,7 @@
 # tie 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tie.md)
+
 <p><span class="chinese">如果平局就掷硬币</span><span class="english">Flip if tie.</span></p>
 
 <p><span class="chinese">我喜欢你的领带。</span><span class="english">I like your tie.</span></p>

@@ -1,5 +1,7 @@
 # 统战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhan.md)
+
 <p><span class="chinese">县级统战工作是我们党统一战线工作的基础。</span><span class="english">United-front work of a is the basis of our Party's united-front work.</span></p>
 
 <p><span class="chinese">人格魅力是做好统战工作的基础。</span><span class="english">The noble character' s charm is the basis to do the united front work.</span></p>

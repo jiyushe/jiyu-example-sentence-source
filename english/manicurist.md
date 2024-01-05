@@ -1,5 +1,7 @@
 # manicurist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manicurist.md)
+
 <p><span class="chinese">修指甲师马上就过来。</span><span class="english">The manicurist will be right here.</span></p>
 
 <p><span class="chinese">你能推荐一个好的美甲师吗？</span><span class="english">Could you recommend a good manicurist?</span></p>

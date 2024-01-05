@@ -1,5 +1,7 @@
 # 竹园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyuan_2.md)
+
 <p><span class="chinese">最后请大家参观竹园。</span><span class="english">Finally we visited the Bamboo.</span></p>
 
 <p><span class="chinese">中国式竹园也是竹文化的一部分。</span><span class="english">Chinese Bamboo garden is also a part of the bamboo culture.</span></p>

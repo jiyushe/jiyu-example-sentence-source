@@ -1,5 +1,7 @@
 # giftware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giftware.md)
+
 <p><span class="chinese">公司主要的业务是季节性礼品和家庭用品。</span><span class="english">We specializes in Seasonal Giftware and Home accessories products.</span></p>
 
 <p><span class="chinese">东方陶瓷艺术品，各类礼品，家庭用品，厨房用品，炊具餐具。</span><span class="english">Oriental Porcelain, Holiday Giftware , Kitchen ware, House Ware, Warehouse &Showroom.</span></p>

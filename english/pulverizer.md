@@ -1,5 +1,7 @@
 # pulverizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulverizer.md)
+
 <p><span class="chinese">磨煤机无防护栏。</span><span class="english">There is no protection fence for coal pulverizer.</span></p>
 
 <p><span class="chinese">是目前粗粉碎加工中的理想设备。</span><span class="english">This is the ideal equipment for coarse pulverizer.</span></p>

@@ -1,5 +1,7 @@
 # 绞尽脑汁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojinnaozhi.md)
+
 <p><span class="chinese">但是，不要绞尽脑汁来想到底写什么。</span><span class="english">But don't agonize over what to write.</span></p>
 
 <p><span class="chinese">你在为如何赚快钱而绞尽脑汁？</span><span class="english">Are you looking for ways to make quick cash?</span></p>

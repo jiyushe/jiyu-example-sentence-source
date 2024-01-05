@@ -1,5 +1,7 @@
 # adjoining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjoining.md)
+
 <p><span class="chinese">我们想要两间邻接的双人房。</span><span class="english">Can we have two adjoining double rooms, sir?</span></p>
 
 <p><span class="chinese">我们想要两间相邻的双人房。</span><span class="english">Can we have two adjoining double rooms, Miss Chen?</span></p>

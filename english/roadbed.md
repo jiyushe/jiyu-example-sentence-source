@@ -1,5 +1,7 @@
 # roadbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roadbed.md)
+
 <p><span class="chinese">地震后路基沉陷了。</span><span class="english">The earthquake made the roadbed cave in.</span></p>
 
 <p><span class="chinese">他悬在火车的前面，离路基大约两英尺。</span><span class="english">There he hung, at the front of the train, about two feet above the roadbed.</span></p>

@@ -1,5 +1,7 @@
 # kindly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kindly.md)
+
 <p><span class="chinese">请您多多指教。</span><span class="english">Kindly give us your advice.</span></p>
 
 <p><span class="chinese">请把这一段文字解释一下。</span><span class="english">Kindly explain this passage.</span></p>

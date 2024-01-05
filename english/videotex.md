@@ -1,5 +1,7 @@
 # videotex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/videotex.md)
+
 <p><span class="chinese">可视图文服务单元?。</span><span class="english">VSU? Videotex Service Unit?</span></p>
 
 <p><span class="chinese">可视图文网关控制?。</span><span class="english">VGC? Videotex Gateway Control?</span></p>

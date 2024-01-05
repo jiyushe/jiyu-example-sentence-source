@@ -1,5 +1,7 @@
 # socialistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socialistic.md)
+
 <p><span class="chinese">南街村实行的社会主义并非它表面上看到的那样严格。</span><span class="english">Nanjiecun isn’t as rigidly socialistic asit seems.</span></p>
 
 <p><span class="chinese">南街村实行的社会主义并非它表面上看到的那样严格。</span><span class="english">Nanjiecun isn’t as rigidly socialistic as it seems.</span></p>

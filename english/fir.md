@@ -1,5 +1,7 @@
 # fir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fir.md)
+
 <p><span class="chinese">取自洋槐等树木的硬木。</span><span class="english">Fir or pine wood.</span></p>
 
 <p><span class="chinese">看那些杉树！</span><span class="english">look at the fir trees!</span></p>

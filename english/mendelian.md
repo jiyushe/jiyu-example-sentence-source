@@ -1,5 +1,7 @@
 # mendelian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mendelian.md)
+
 <p><span class="chinese">神经精神医学中的孟德尔遗传学。</span><span class="english">Mendelian genetics in the setting of neuropsychiatry.</span></p>
 
 <p><span class="chinese">这是在线人类孟德尔遗传目录的网页。</span><span class="english">This is the web page of OMIM Online Mendelian Inheritance in Man.</span></p>

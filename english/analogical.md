@@ -1,5 +1,7 @@
 # analogical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analogical.md)
+
 <p><span class="chinese">方法评价采用类比法。</span><span class="english">Analogical method was used for the pre-evaluation.</span></p>
 
 <p><span class="chinese">结构相似性是类比推理的基础。</span><span class="english">Structure similarity is the basis of analogical reasoning.</span></p>

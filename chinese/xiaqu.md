@@ -1,5 +1,7 @@
 # 下去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaqu.md)
+
 <p><span class="chinese">喝下去吧！</span><span class="english">Drink it!</span></p>
 
 <p><span class="chinese">我跌下去了。</span><span class="english">I fell down.</span></p>

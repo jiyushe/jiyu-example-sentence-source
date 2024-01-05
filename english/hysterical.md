@@ -1,5 +1,7 @@
 # hysterical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hysterical.md)
+
 <p><span class="chinese">为何有那么多的嚎哭，歇斯底里的悲伤？</span><span class="english">Why all this howling, hysterical sorrow?</span></p>
 
 <p><span class="chinese">歇斯底里的喜欢后，就是撕心裂肺的痛。</span><span class="english">Hysterical like, is tore heart crack lung of painful.</span></p>

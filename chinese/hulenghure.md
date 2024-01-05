@@ -1,5 +1,7 @@
 # 忽冷忽热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hulenghure.md)
+
 <p><span class="chinese">她和他的关系忽冷忽热。</span><span class="english">Her relationship with him was up and down.</span></p>
 
 <p><span class="chinese">你说要我不要对你忽冷忽热的。</span><span class="english">You said not to play hot and cold with you.</span></p>

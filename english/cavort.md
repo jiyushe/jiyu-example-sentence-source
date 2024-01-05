@@ -1,5 +1,7 @@
 # cavort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavort.md)
+
 <p><span class="chinese">黎明和黄昏时，兔子在围场里跳跃。</span><span class="english">Rabbits cavort in the paddock at dawn and dusk.</span></p>
 
 <p><span class="chinese">在那里尤哥罗斯魔活跃于无尽的火山斜坡之上。</span><span class="english">It is where yugoloths cavort on endless volcanic slopes.</span></p>

@@ -1,5 +1,7 @@
 # 咸菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiancai.md)
+
 <p><span class="chinese">制的咸菜，暖胃，暖心。</span><span class="english">The pickles, warm stomach, warm heart.</span></p>
 
 <p><span class="chinese">我妈怀我的时候，常吃咸菜。</span><span class="english">My mother when I am pregnant, eat pickles.</span></p>

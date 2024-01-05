@@ -1,5 +1,7 @@
 # horsey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horsey.md)
+
 <p><span class="chinese">她有一张长长的马脸。</span><span class="english">She had a long, horsey face.</span></p>
 
 <p><span class="chinese">然而，戴维-霍尔西并不感到欣慰。</span><span class="english">Horsey is not among the comforted, however.</span></p>

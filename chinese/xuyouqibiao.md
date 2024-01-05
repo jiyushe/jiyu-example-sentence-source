@@ -1,5 +1,7 @@
 # 虚有其表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuyouqibiao.md)
+
 <p><span class="chinese">那部车的坚固外观只是虚有其表。</span><span class="english">The car's sturdy appearance lied.</span></p>
 
 <p><span class="chinese">他漂亮的衣着只是虚有其表而已。</span><span class="english">His fine clothes are a mere facade.</span></p>

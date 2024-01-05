@@ -1,5 +1,7 @@
 # 移动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidong_1.md)
+
 <p><span class="chinese">球台移动！</span><span class="english">Moved table!</span></p>
 
 <p><span class="chinese">我移动了我的双腿。</span><span class="english">I moved my legs.</span></p>

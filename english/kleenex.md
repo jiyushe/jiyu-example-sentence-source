@@ -1,5 +1,7 @@
 # kleenex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kleenex.md)
+
 <p><span class="chinese">不要忘记带面纸。</span><span class="english">Don't forget the Kleenex.</span></p>
 
 <p><span class="chinese">不要忘记带纸巾。</span><span class="english">Don't forget your Kleenex.</span></p>

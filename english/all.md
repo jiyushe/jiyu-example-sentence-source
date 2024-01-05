@@ -1,5 +1,7 @@
 # all 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/all.md)
+
 <p><span class="chinese">全砖面。</span><span class="english">All Brick.</span></p>
 
 <p><span class="chinese">一句话，问题就是？</span><span class="english">All right?</span></p>

@@ -1,5 +1,7 @@
 # spermatophore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spermatophore.md)
+
 <p><span class="chinese">试验表明交尾时雄虫不产生精包。</span><span class="english">Tests show that spermatophore is not produced by the male during copulation.</span></p>
 
 <p><span class="chinese">功夫王安全套为润滑型安全套，顶端有储精囊。</span><span class="english">The condom is Lubricated normal condom, which has a spermatophore on the top.</span></p>

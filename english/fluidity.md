@@ -1,5 +1,7 @@
 # fluidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluidity.md)
+
 <p><span class="chinese">粘度的反意就是流动性。</span><span class="english">The reciprocal of viscosity is known as fluidity.</span></p>
 
 <p><span class="chinese">它可提高流度和其他铸造性能。</span><span class="english">It improves fluidity and other casting properties.</span></p>

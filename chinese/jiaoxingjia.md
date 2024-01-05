@@ -1,5 +1,7 @@
 # 绞刑架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxingjia.md)
+
 <p><span class="chinese">望着这个绞刑架总是有益的。</span><span class="english">That gibbet is always good to look at.</span></p>
 
 <p><span class="chinese">如果被抓，那么直接上绞刑架！</span><span class="english">If caught, then straight to the gallows!</span></p>

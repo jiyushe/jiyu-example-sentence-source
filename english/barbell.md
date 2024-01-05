@@ -1,5 +1,7 @@
 # barbell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbell.md)
+
 <p><span class="chinese">他奋力一举，举起了205公斤重的杠铃。</span><span class="english">He strained and raised the barbell of 205 kilograms.</span></p>
 
 <p><span class="chinese">能举起这么重的杠铃，这个运动员可真强壮啊。</span><span class="english">How robust of the athlete to lift such a heavy barbell.</span></p>

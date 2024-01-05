@@ -1,5 +1,7 @@
 # 肝气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganqi.md)
+
 <p><span class="chinese">在治疗上重视补肝气，调理脏腑，可取得成效。</span><span class="english">In the treatment, nourishing the liver-Qi and regulating organs can be achieved positive results.</span></p>
 
 <p><span class="chinese">优化社会及自我认同是使男子肝气畅达、气血和调的关键。</span><span class="english">To optimize social and self identity is the key to make mens liver-qi smooth, and regulate the blood-pressure.</span></p>

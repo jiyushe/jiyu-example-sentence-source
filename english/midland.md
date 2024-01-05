@@ -1,5 +1,7 @@
 # midland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midland.md)
+
 <p><span class="chinese">我在米德兰御行开有花畏。</span><span class="english">I have an with Midland Bank.</span></p>
 
 <p><span class="chinese">我在米德兰银行开有户头。</span><span class="english">I have an account with Midland Bank.</span></p>

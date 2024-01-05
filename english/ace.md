@@ -1,5 +1,7 @@
 # ace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ace.md)
+
 <p><span class="chinese">你是一流人才。</span><span class="english">You are a ace.</span></p>
 
 <p><span class="chinese">埃斯给她点着烟。</span><span class="english">Ace lighted it for her.</span></p>

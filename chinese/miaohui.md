@@ -1,5 +1,7 @@
 # 庙会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaohui.md)
+
 <p><span class="chinese">地坛庙会怎么样?</span><span class="english">What about DiTan Temple Fair?</span></p>
 
 <p><span class="chinese">那么，这就是庙会了，对吧？</span><span class="english">So, this is the temple fair, right?</span></p>

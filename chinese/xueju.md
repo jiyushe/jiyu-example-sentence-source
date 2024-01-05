@@ -1,5 +1,7 @@
 # 穴居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueju.md)
+
 <p><span class="chinese">好一个痴癫的穴居男人。</span><span class="english">An insane cave man.</span></p>
 
 <p><span class="chinese">他们叫穴居人。</span><span class="english">They are called troglodytes.</span></p>

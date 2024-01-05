@@ -1,5 +1,7 @@
 # systematical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/systematical.md)
+
 <p><span class="chinese">其二、金圣叹的人物性格理论是系统的。</span><span class="english">Second , MR King's theory is systematical.</span></p>
 
 <p><span class="chinese">有极强的系统管理能力。</span><span class="english">Excellent ability of systematical management</span></p>

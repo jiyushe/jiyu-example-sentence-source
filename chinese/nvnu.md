@@ -1,5 +1,7 @@
 # 女奴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvnu.md)
+
 <p><span class="chinese">那时，神之女奴已是一个非常低俗的传统。</span><span class="english">These days it’s very much a low caste tradition.</span></p>
 
 <p><span class="chinese">一个聪明的女奴帮助阿里巴巴摆脱了40大盗。</span><span class="english">A clever slave-girl helps Ali Baba escape from the 40 thieves.</span></p>

@@ -1,5 +1,7 @@
 # shrubby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrubby.md)
+
 <p><span class="chinese">喀斯特灌丛草地是贵州省的主要草地类型之一。</span><span class="english">Kasite shrubby grassland is one of the main grassland types in Guizhou province.</span></p>
 
 <p><span class="chinese">坡向对于灌木层物种密度也有一定影响。</span><span class="english">However, the species density on shrubby layer would be varied when the slope aspect changes.</span></p>

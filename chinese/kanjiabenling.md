@@ -1,5 +1,7 @@
 # 看家本领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanjiabenling.md)
+
 <p><span class="chinese">竞争很激烈，但我有我的看家本领。</span><span class="english">The competition is very keen but I have an ace up my sleeve.</span></p>
 
 <p><span class="chinese">年轻时查尔顿的看家本领是快速的奔跑和身体变向。</span><span class="english">The young Charlton's greatest strengths were his speed and body swerve.</span></p>

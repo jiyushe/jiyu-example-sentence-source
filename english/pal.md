@@ -1,5 +1,7 @@
 # pal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pal.md)
+
 <p><span class="chinese">乔是个真正的朋友。</span><span class="english">Joe is a true pal.</span></p>
 
 <p><span class="chinese">你真够朋友。</span><span class="english">You’re a real pal.</span></p>

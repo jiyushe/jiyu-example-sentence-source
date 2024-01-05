@@ -1,5 +1,7 @@
 # biogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biogenic.md)
+
 <p><span class="chinese">如此说来，甚至云层雨水也是由生物的活动产生的。</span><span class="english">Thus perhaps even clouds and rain may be biogenic.</span></p>
 
 <p><span class="chinese">开发和使用生物源农药是时代的需要。</span><span class="english">Development and use of biogenic pesticides emerges as the times require.</span></p>

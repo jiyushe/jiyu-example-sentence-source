@@ -1,5 +1,7 @@
 # 次品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cipin.md)
+
 <p><span class="chinese">他试图向我兜售一台次品收音机。</span><span class="english">He tried to stick me with a bad radio.</span></p>
 
 <p><span class="chinese">他会鞠躬，然后给他们一个次品。</span><span class="english">He is going to bow and give them a quicky.</span></p>

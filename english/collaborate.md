@@ -1,5 +1,7 @@
 # collaborate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collaborate.md)
+
 <p><span class="chinese">和你的投资者通力合作。</span><span class="english">Collaborate with your investors.</span></p>
 
 <p><span class="chinese">并且与网络上的其他人合作。</span><span class="english">And to collaborate with others on the web.</span></p>

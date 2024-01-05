@@ -1,5 +1,7 @@
 # cheltenham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheltenham.md)
+
 <p><span class="chinese">1854年，切尔滕纳姆女子中学成为第一所女子公学。</span><span class="english">In 1854, Cheltenham Ladies' College became the first girls' public school.</span></p>
 
 <p><span class="chinese">然后我就需要它来为英国的切尔滕纳姆的谷歌本地搜索第一页的排名。</span><span class="english">I'll then need it to gain ranking for page one of Google UK local search for Cheltenham.</span></p>

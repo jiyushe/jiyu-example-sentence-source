@@ -1,5 +1,7 @@
 # 枪托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangtuo.md)
+
 <p><span class="chinese">可是，安德烈迅速地用枪托将杰克打倒。</span><span class="english">Yet Andre quickly cold-cocks Jack.</span></p>
 
 <p><span class="chinese">他们用枪托将他打死。</span><span class="english">They clubbed him to death with their rifles.</span></p>

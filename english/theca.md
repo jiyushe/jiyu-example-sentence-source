@@ -1,5 +1,7 @@
 # theca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theca.md)
+
 <p><span class="chinese">良性的卵巢黄体膜囊肿。</span><span class="english">This is a benign theca lutein cyst in an ovary.</span></p>
 
 <p><span class="chinese">这是一个良性的卵泡膜黄素囊肿。</span><span class="english">This is a benign theca lutein cyst in an ovary.</span></p>

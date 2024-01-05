@@ -1,5 +1,7 @@
 # arrange 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrange.md)
+
 <p><span class="chinese">我可以去申请信用证。</span><span class="english">I can also arrange an LOC.</span></p>
 
 <p><span class="chinese">这么说来，我以为你是不订交。</span><span class="english">I take it you don't arrange.</span></p>

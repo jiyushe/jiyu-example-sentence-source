@@ -1,5 +1,7 @@
 # conundrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conundrum.md)
+
 <p><span class="chinese">当前的美国经济是一个困局。</span><span class="english">The U.S. economy is a conundrum.</span></p>
 
 <p><span class="chinese">这确实是中国心头的一个大难题.</span><span class="english">That is truly the heart of China's conundrum.</span></p>

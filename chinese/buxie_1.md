@@ -1,5 +1,7 @@
 # 不懈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxie_1.md)
+
 <p><span class="chinese">地心引力不懈地拖曳着我的眼皮。</span><span class="english">Gravity is tugging on my eyelids.</span></p>
 
 <p><span class="chinese">他是位孜孜不倦努力不懈的人。</span><span class="english">He is a man of untiring industry.</span></p>

@@ -1,5 +1,7 @@
 # 艰苦朴素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiankupusu.md)
+
 <p><span class="chinese">你必须按艰苦朴素的标准去生活。</span><span class="english">You must live up to hard work and plain living.</span></p>
 
 <p><span class="chinese">我们必须保持艰苦朴素的作风。</span><span class="english">We must keep to the style of hard work and plain living.</span></p>

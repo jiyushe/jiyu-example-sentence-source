@@ -1,5 +1,7 @@
 # 娇羞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxiu.md)
+
 <p><span class="chinese">他被这名年轻女子的娇羞笑脸迷住了。</span><span class="english">He was charmed by the young woman's coy smile.</span></p>
 
 <p><span class="chinese">其实更适宜的是马维尔的“做他娇羞的夫人”。</span><span class="english">For more of an edge, try Marvell's "To His Coy Mistress."</span></p>

@@ -1,5 +1,7 @@
 # 头尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touwei.md)
+
 <p><span class="chinese">给出与之相匹配的该机头尾星轮弯道曲线方程。</span><span class="english">The curve equations are also shown in this paper.</span></p>
 
 <p><span class="chinese">没有头尾的，怪兽也——挖苦做事没头没尾的人。</span><span class="english">It is a strange beast that has neither head nor tail.</span></p>

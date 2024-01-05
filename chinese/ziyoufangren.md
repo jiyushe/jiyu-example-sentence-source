@@ -1,5 +1,7 @@
 # 自由放任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyoufangren.md)
+
 <p><span class="chinese">所有这一切，都是对“自由放任”模式的重要修改。</span><span class="english">All these are vital modifications to the laissez-faire model.</span></p>
 
 <p><span class="chinese">在我国历史上屡见不鲜的自由放任主义原则。</span><span class="english">That doctrine of laissez faire which so often in our history.</span></p>

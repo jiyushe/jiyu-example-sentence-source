@@ -1,5 +1,7 @@
 # acquaintanceship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquaintanceship.md)
+
 <p><span class="chinese">我想这应该是一次有趣的相识。</span><span class="english">I think this was an interesting acquaintanceship.</span></p>
 
 <p><span class="chinese">这样就有了相识的可能。</span><span class="english">This settled the probability of acquaintanceship.</span></p>

@@ -1,5 +1,7 @@
 # bathed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bathed.md)
+
 <p><span class="chinese">他全身汗水淋漓。</span><span class="english">He was bathed in sweat.</span></p>
 
 <p><span class="chinese">她哭成了一个泪人。</span><span class="english">She was bathed in tears.</span></p>

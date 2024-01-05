@@ -1,5 +1,7 @@
 # histamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histamine.md)
+
 <p><span class="chinese">抗氧化剂有利于阻止组织胺酵素起作用。</span><span class="english">The antioxidant helps to block histamine.</span></p>
 
 <p><span class="chinese">两组均无剂量依赖性的组胺释放作用。</span><span class="english">There were no dose-dependent effect of histamine release.</span></p>

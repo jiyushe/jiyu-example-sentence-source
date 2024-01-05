@@ -1,5 +1,7 @@
 # 坐堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuotang.md)
+
 <p><span class="chinese">据悉，坐堂行医试点也将在我省启动。</span><span class="english">It is learnt that the pilot Zuotang practise in our province will also start.</span></p>
 
 <p><span class="chinese">你坐堂是要按律法审问我，你竟违背律法，吩咐人打我么？</span><span class="english">And do you sit to judge me according to the law, and contrary to the law you order me to be struck?</span></p>

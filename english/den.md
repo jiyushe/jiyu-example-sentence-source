@@ -1,5 +1,7 @@
 # den
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/den.md)
+
 <p><span class="chinese">我们坐在小间里。</span><span class="english">We sat in the den.</span></p>
 
 <p><span class="chinese">这是她的章鱼“兽穴”。</span><span class="english">This is her octopus "den.</span></p>

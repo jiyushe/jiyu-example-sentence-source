@@ -1,5 +1,7 @@
 # 放炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangpao.md)
+
 <p><span class="chinese">不了解情况不要乱放炮。</span><span class="english">Don't speak if you don't know the facts.</span></p>
 
 <p><span class="chinese">他手里还抓着放炮的火绳杆。</span><span class="english">He had still the linstock of his gun in his own hand.</span></p>

@@ -1,5 +1,7 @@
 # 戏子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizi_1.md)
+
 <p><span class="chinese">我喜欢戏子。</span><span class="english">I love actors.</span></p>
 
 <p><span class="chinese">一个戏子参与了这一切。</span><span class="english">A mummer playing a part.</span></p>

@@ -1,5 +1,7 @@
 # 横加指责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengjiazhize.md)
+
 <p><span class="chinese">我们一定不要指指点点，横加指责。</span><span class="english">We must not point fingers and cast blame.</span></p>
 
 <p><span class="chinese">然而他们却无法对荷兰横加指责。</span><span class="english">Yet they couldn't condemn the Dutch fast enough.</span></p>

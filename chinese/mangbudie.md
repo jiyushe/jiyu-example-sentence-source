@@ -1,5 +1,7 @@
 # 忙不迭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangbudie.md)
+
 <p><span class="chinese">我们像旅鼠一样忙不迭地投入灾难。</span><span class="english">Lemming-like we rushed into certain disaster.</span></p>
 
 <p><span class="chinese">随即那秋娘就忙不迭的走了。</span><span class="english">Immediately that autumn Niang assistance not the Die walked.</span></p>

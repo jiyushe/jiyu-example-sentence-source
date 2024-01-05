@@ -1,5 +1,7 @@
 # lak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lak.md)
+
 <p><span class="chinese">似乎对我就只能叹息发愁。</span><span class="english">Seems lak to me I jes can't help but sigh.</span></p>
 
 <p><span class="chinese">鸟儿似乎对我忘记了它的歌唱。</span><span class="english">Seems lak to me de bird's forgot his song.</span></p>

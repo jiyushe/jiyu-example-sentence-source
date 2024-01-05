@@ -1,5 +1,7 @@
 # belabor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belabor.md)
+
 <p><span class="chinese">别担心，我们不会就这个问题喋喋不休的。</span><span class="english">Don't worry, we won't belabor this topic.</span></p>
 
 <p><span class="chinese">我们不会就理论和背景做太多的论述。</span><span class="english">We won't belabor the theory and background.</span></p>

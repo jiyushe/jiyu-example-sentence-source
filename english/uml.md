@@ -1,5 +1,7 @@
 # uml
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uml.md)
+
 <p><span class="chinese">为什么修订UML是必要的呢？</span><span class="english">Why was it necessary to revise UML?</span></p>
 
 <p><span class="chinese">如何比较它与ADLs和UML</span><span class="english">How does this compare to ADLs and UML?</span></p>

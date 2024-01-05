@@ -1,5 +1,7 @@
 # desultory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desultory.md)
+
 <p><span class="chinese">我们有一搭没一搭地说着话。</span><span class="english">We are talking, in a desultory kind of way.</span></p>
 
 <p><span class="chinese">这是一种奇怪的，断断续续的战争前线。</span><span class="english">This is the front line in a strange, desultory war.</span></p>

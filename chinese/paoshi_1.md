@@ -1,5 +1,7 @@
 # 抛石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoshi_1.md)
+
 <p><span class="chinese">安全可靠，是一种新型的抛石船。</span><span class="english">It is a stone dump -ship of new type.</span></p>
 
 <p><span class="chinese">在暴动中，有些人向警察抛石头。</span><span class="english">Some people in the riot were shying stones at the police.</span></p>

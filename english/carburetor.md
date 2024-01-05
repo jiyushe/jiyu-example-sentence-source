@@ -1,5 +1,7 @@
 # carburetor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carburetor.md)
+
 <p><span class="chinese">托罗20016化油器。</span><span class="english">Toro 20016 " carburetor."</span></p>
 
 <p><span class="chinese">接发动机汽化器。</span><span class="english">Connect engine carburetor.</span></p>

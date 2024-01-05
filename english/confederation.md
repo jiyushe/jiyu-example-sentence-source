@@ -1,5 +1,7 @@
 # confederation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confederation.md)
+
 <p><span class="chinese">英属北美条约令同盟合法。</span><span class="english">The British North America Act made this Confederation legal.</span></p>
 
 <p><span class="chinese">1870年，马尼托巴湖作为加拿大的一个省加入联邦。</span><span class="english">In 1870, Manitoba entered Confederation as a Canadian province.</span></p>

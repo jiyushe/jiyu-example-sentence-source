@@ -1,5 +1,7 @@
 # castrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castrate.md)
+
 <p><span class="chinese">我把你阉了。</span><span class="english">I am gonna castrate you.</span></p>
 
 <p><span class="chinese">我有没人把任何重要人物给阉了。</span><span class="english">Do I castrate anyone important.</span></p>

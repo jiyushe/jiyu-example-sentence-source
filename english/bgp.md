@@ -1,5 +1,7 @@
 # bgp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bgp.md)
+
 <p><span class="chinese">如何显示在数据库中的所有BGP路由？</span><span class="english">How to display all the BGP in the database route?</span></p>
 
 <p><span class="chinese">目前的BGP模拟效率都相对较低。</span><span class="english">Most of current BGP simulation has pretty low efficiency.</span></p>

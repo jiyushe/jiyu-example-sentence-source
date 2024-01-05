@@ -1,5 +1,7 @@
 # caraway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caraway.md)
+
 <p><span class="chinese">然后加入提子和葛缕子籽。</span><span class="english">Then mix in raisins and caraway seeds.</span></p>
 
 <p><span class="chinese">芥末苹果、抱子甘蓝和香芹。</span><span class="english">Brussels sprouts with mustard, apples and caraway.</span></p>

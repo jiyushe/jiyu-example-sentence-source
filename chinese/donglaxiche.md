@@ -1,5 +1,7 @@
 # 东拉西扯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donglaxiche.md)
+
 <p><span class="chinese">她在东拉西扯些什么呢？</span><span class="english">What is she rambling on about?</span></p>
 
 <p><span class="chinese">别东拉西扯，回答问题！</span><span class="english">Stop waffling and answer the question!</span></p>

@@ -1,5 +1,7 @@
 # songbird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/songbird.md)
+
 <p><span class="chinese">知更鸟是一种灰白色的会唱歌的鸟。</span><span class="english">A mockingbird is a kind of gray songbird.</span></p>
 
 <p><span class="chinese">恐怖分子想要杀死它。</span><span class="english">The terrorists want to kill the songbird.</span></p>

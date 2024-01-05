@@ -1,5 +1,7 @@
 # quadrangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadrangle.md)
+
 <p><span class="chinese">勾股定理和四边形。</span><span class="english">Pythagorean theorem and quadrangle.</span></p>
 
 <p><span class="chinese">工程对于整个方院的调研于2007年展开。</span><span class="english">Preliminary studies on the entire Quadrangle began in 2007.</span></p>

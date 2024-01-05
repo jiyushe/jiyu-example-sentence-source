@@ -1,5 +1,7 @@
 # 赏心悦目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxinyuemu.md)
+
 <p><span class="chinese">当然它们也非常赏心悦目。</span><span class="english">Also very pretty.</span></p>
 
 <p><span class="chinese">应聘者必须拥有令人赏心悦目的体型。</span><span class="english">Must have pleasant nature.</span></p>

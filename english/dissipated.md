@@ -1,5 +1,7 @@
 # dissipated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissipated.md)
+
 <p><span class="chinese">阳光驱散了薄雾。</span><span class="english">The sun dissipated the mist.</span></p>
 
 <p><span class="chinese">一切疑虑现在都烟消云散了。</span><span class="english">All doubts have now dissipated.</span></p>

@@ -1,5 +1,7 @@
 # 旁听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangting.md)
+
 <p><span class="chinese">安将旁听今天的会议。</span><span class="english">Ann will be observing today.</span></p>
 
 <p><span class="chinese">你昨天有去旁听林教授的课吗？</span><span class="english">Did you audit Professor Lin's class yesterday?</span></p>

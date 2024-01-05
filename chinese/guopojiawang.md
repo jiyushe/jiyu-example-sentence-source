@@ -1,5 +1,7 @@
 # 国破家亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guopojiawang.md)
+
 <p><span class="chinese">八年抗战，国破家亡。</span><span class="english">Eight years of war, the country.</span></p>
 
 <p><span class="chinese">天荒地老英雄丧，国破家亡事业休。</span><span class="english">Glebe's old hero bereavement, Hugh death cause.</span></p>

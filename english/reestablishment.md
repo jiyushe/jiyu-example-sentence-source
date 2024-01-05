@@ -1,5 +1,7 @@
 # reestablishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reestablishment.md)
+
 <p><span class="chinese">这种方案推广到纠缠态在隐形传态中的重建。</span><span class="english">This scheme is fit for reestablishment of entangled state in teleportation.</span></p>
 
 <p><span class="chinese">保护群落的种库将有助于自然天敌群落的重建。</span><span class="english">Conserving species pool will benefit the reestablishment of spider community.</span></p>

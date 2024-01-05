@@ -1,5 +1,7 @@
 # 石破天惊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shipotianjing.md)
+
 <p><span class="chinese">那么，希望没有波澜壮阔石破天惊。</span><span class="english">Well, I hope no great billows and shock.</span></p>
 
 <p><span class="chinese">他想作一名作家而石破天惊。</span><span class="english">He whelpless ishs to make it for a writer.</span></p>

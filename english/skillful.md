@@ -1,5 +1,7 @@
 # skillful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skillful.md)
+
 <p><span class="chinese">熟练的钻工了。</span><span class="english">He is a skillful driller now.</span></p>
 
 <p><span class="chinese">但是他很灵巧，技术也很棒。</span><span class="english">But he is also nimble and skillful.</span></p>

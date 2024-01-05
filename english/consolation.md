@@ -1,5 +1,7 @@
 # consolation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consolation.md)
+
 <p><span class="chinese">孩子成了他唯一的安慰.</span><span class="english">The child became her only consolation.</span></p>
 
 <p><span class="chinese">你对我的关怀给了我莫大的安慰。</span><span class="english">Your solicitude was a great consolation to me.</span></p>

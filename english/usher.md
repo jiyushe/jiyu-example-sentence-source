@@ -1,5 +1,7 @@
 # usher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usher.md)
+
 <p><span class="chinese">执达吏把他独自留下。</span><span class="english">The usher had left him alone.</span></p>
 
 <p><span class="chinese">引导员领着我们找到了座位。</span><span class="english">The usher took us to our seats.</span></p>

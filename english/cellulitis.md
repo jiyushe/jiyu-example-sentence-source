@@ -1,5 +1,7 @@
 # cellulitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cellulitis.md)
+
 <p><span class="chinese">不再有蜂窝性组织炎的发生。</span><span class="english">There was no more attacks of cellulitis.</span></p>
 
 <p><span class="chinese">弥漫性蜂窝织炎的抗菌素治疗应是强有力的。</span><span class="english">Antibiotic therapy for diffuse cellulitis should be aggressive.</span></p>

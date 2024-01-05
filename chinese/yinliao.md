@@ -1,5 +1,7 @@
 # 饮料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinliao.md)
+
 <p><span class="chinese">不要饮料。</span><span class="english">No drinks.</span></p>
 
 <p><span class="chinese">饮料的钱算我的。</span><span class="english">The drinks are on me.</span></p>

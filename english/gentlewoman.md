@@ -1,5 +1,7 @@
 # gentlewoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentlewoman.md)
+
 <p><span class="chinese">对一位女士没法说这种事。</span><span class="english">He could not speak of such things to a gentlewoman.</span></p>
 
 <p><span class="chinese">这里的先生女士们想祝你精神健康。</span><span class="english">Gentleman and gentlewoman here wish you a health mental.</span></p>

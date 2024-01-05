@@ -1,5 +1,7 @@
 # unwanted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwanted.md)
+
 <p><span class="chinese">多拉决定要收留一只被弃养的宠物。</span><span class="english">Dora decided to take an unwanted pet in.</span></p>
 
 <p><span class="chinese">这些就是我们生活中讨厌的细节。</span><span class="english">These are the unwanted minutiae in our lives.</span></p>

@@ -1,5 +1,7 @@
 # streptococcus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streptococcus.md)
+
 <p><span class="chinese">例如，乳酸菌，乳链球菌。</span><span class="english">Lactobacillus spp. , Streptococcus lactis.</span></p>
 
 <p><span class="chinese">猪链球疾病蔓延速度非常快。</span><span class="english">The disease Streptococcus suis spreads very fast.</span></p>

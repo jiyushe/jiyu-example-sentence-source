@@ -1,5 +1,7 @@
 # duralumin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duralumin.md)
+
 <p><span class="chinese">经过实际车铣加工试验，实现了微小型硬铝座体零件的完整加工。</span><span class="english">The duralumin micro-base-part is produced after the turn-milling cutting experiment.</span></p>
 
 <p><span class="chinese">本文围绕硬铝专用焊丝的研制，论述了硬铝焊接性问题及专用焊丝的设计思路。</span><span class="english">This paper describes the weldability of duralumin alloys and the design of their special wire.</span></p>

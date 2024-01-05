@@ -1,5 +1,7 @@
 # smog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smog.md)
+
 <p><span class="chinese">烟雾模糊了我们的视野。</span><span class="english">Smog obscures our view.</span></p>
 
 <p><span class="chinese">烟雾在地平线上弥漫。</span><span class="english">Smog hung all around the horizon.</span></p>

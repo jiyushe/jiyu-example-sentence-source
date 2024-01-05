@@ -1,5 +1,7 @@
 # inure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inure.md)
+
 <p><span class="chinese">我希望没有伤害她的感情。</span><span class="english">I hope l didn't inure her feelings.</span></p>
 
 <p><span class="chinese">我们应该使自己习惯艰苦生活。</span><span class="english">We should inure ourselves to hard life.</span></p>

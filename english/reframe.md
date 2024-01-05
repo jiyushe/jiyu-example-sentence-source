@@ -1,5 +1,7 @@
 # reframe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reframe.md)
+
 <p><span class="chinese">重新组织自己面临的状况。</span><span class="english">Reframe the situation.</span></p>
 
 <p><span class="chinese">你将如何重新定义它们？</span><span class="english">How could you reframe them?</span></p>

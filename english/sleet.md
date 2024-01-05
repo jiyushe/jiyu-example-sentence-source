@@ -1,5 +1,7 @@
 # sleet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleet.md)
+
 <p><span class="chinese">这场雨变成了冻雨。</span><span class="english">The rain turned to sleet.</span></p>
 
 <p><span class="chinese">寒冷的十二月带来雨夹雪。</span><span class="english">Chill December brings the sleet.</span></p>

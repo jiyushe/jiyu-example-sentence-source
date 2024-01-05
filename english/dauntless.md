@@ -1,5 +1,7 @@
 # dauntless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dauntless.md)
+
 <p><span class="chinese">他们都是勇敢的士兵。</span><span class="english">They are all dauntless soldiers.</span></p>
 
 <p><span class="chinese">欢迎勇于探索的读者回到我们的系列文章中！</span><span class="english">Welcome back, dauntless readers.</span></p>

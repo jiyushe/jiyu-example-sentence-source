@@ -1,5 +1,7 @@
 # trifolium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trifolium.md)
+
 <p><span class="chinese">红三叶是一种利用价值很高的牧草。</span><span class="english">Trifolium pretense is a kind of forage grass that of high utilization value.</span></p>
 
 <p><span class="chinese">本论文对红车轴草和川续断的化学成分及质量进行了系统的研究。</span><span class="english">In this paper, the chemical constituents and quality of Trifolium pratense L.</span></p>

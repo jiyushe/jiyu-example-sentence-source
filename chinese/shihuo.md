@@ -1,5 +1,7 @@
 # 失火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihuo.md)
+
 <p><span class="chinese">他们朝著失火的方向跑去。</span><span class="english">They ran in the direction of the fire.</span></p>
 
 <p><span class="chinese">我想要报火警，榆树路12号失火了。</span><span class="english">I want to report a fire on 12 Elm Road.</span></p>

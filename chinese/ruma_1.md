@@ -1,5 +1,7 @@
 # 辱骂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruma_1.md)
+
 <p><span class="chinese">他辱骂那些男孩。</span><span class="english">He shouted insults.</span></p>
 
 <p><span class="chinese">他还记得自己辱骂美亚混血儿的事情。</span><span class="english">He remembers taunting Amerasians.</span></p>

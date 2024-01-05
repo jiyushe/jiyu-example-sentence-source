@@ -1,5 +1,7 @@
 # voodoo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voodoo.md)
+
 <p><span class="chinese">还有什么叫巫毒主题？</span><span class="english">What's with the voodoo theme?</span></p>
 
 <p><span class="chinese">我忘不了我的巫毒娃娃。</span><span class="english">I can't forget my voodoo doll.</span></p>

@@ -1,5 +1,7 @@
 # indulgence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indulgence.md)
+
 <p><span class="chinese">在爱中，错爱更为流行。</span><span class="english">In love, the more popular indulgence.</span></p>
 
 <p><span class="chinese">你过分放任这个孩子会害了他的。</span><span class="english">You will kill the child with indulgence.</span></p>

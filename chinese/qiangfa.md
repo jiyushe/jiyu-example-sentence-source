@@ -1,5 +1,7 @@
 # 枪法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangfa.md)
+
 <p><span class="chinese">我知道怎样射击，并且我枪法很准。</span><span class="english">I know how to shoot and I shoot well.</span></p>
 
 <p><span class="chinese">他们每天练习枪法。</span><span class="english">They practised marksmanship every day.</span></p>

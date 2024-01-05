@@ -1,5 +1,7 @@
 # macular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macular.md)
+
 <p><span class="chinese">什么是老年性黄斑变性？</span><span class="english">What is age-related macular degeneration?</span></p>
 
 <p><span class="chinese">保护视力，防治白内障和黄斑变性。</span><span class="english">Guard against cataracts and macular degeneration.</span></p>

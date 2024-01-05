@@ -1,5 +1,7 @@
 # duffer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duffer.md)
+
 <p><span class="chinese">是个老人。</span><span class="english">He's an old duffer.</span></p>
 
 <p><span class="chinese">她在玩游戏上是个笨蛋。</span><span class="english">She's a duffer at games.</span></p>

@@ -1,5 +1,7 @@
 # 水榭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixie.md)
+
 <p><span class="chinese">其中，尤以各种水榭最具特色。</span><span class="english">Among them, particularly the most unique variety of waterside.</span></p>
 
 <p><span class="chinese">杭州西湖，水榭歌台，人工赋予它典雅美。</span><span class="english">West Lake in Hangzhou with enchanting pavilions set in quiet surroundings.</span></p>

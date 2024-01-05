@@ -1,5 +1,7 @@
 # 闲适
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_10.md)
+
 <p><span class="chinese">选择一种生活，闲适惬意，随心而动！</span><span class="english">Chose better life, free your heart!</span></p>
 
 <p><span class="chinese">喜欢静谧闲适的美。</span><span class="english">Enjoy beautiful with quiet and leisure.</span></p>

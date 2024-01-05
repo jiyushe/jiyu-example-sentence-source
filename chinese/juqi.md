@@ -1,5 +1,7 @@
 # 聚齐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juqi.md)
+
 <p><span class="chinese">今天一大家人都聚齐了。</span><span class="english">The whole family get together today.</span></p>
 
 <p><span class="chinese">新的数字技术的开放聚齐了如此多的人。</span><span class="english">New digital technologies have opened up the collections to so many more people.</span></p>

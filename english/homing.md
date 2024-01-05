@@ -1,5 +1,7 @@
 # homing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homing.md)
+
 <p><span class="chinese">看，鸟都回巢了。</span><span class="english">Look, the birds are homing.</span></p>
 
 <p><span class="chinese">你仍像是没有归航的船！</span><span class="english">You still like no homing ship!</span></p>

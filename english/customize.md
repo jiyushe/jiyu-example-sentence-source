@@ -1,5 +1,7 @@
 # customize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/customize.md)
+
 <p><span class="chinese">定制JMeter测试。</span><span class="english">Customize JMeter tests.</span></p>
 
 <p><span class="chinese">通常，您需要定制该模版。</span><span class="english">Usually, you need to customize it.</span></p>

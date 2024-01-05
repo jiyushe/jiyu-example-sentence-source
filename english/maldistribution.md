@@ -1,5 +1,7 @@
 # maldistribution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maldistribution.md)
+
 <p><span class="chinese">当前财富的分配不公也是可耻的。</span><span class="english">The current maldistribution of wealth is also scandalous.</span></p>
 
 <p><span class="chinese">平衡节点的设置不同将导致市场各成员的利益分配不均。</span><span class="english">The different setting of slack bus lead to the benefit maldistribution in the market.</span></p>

@@ -1,5 +1,7 @@
 # sneaky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sneaky.md)
+
 <p><span class="chinese">水是可恶的。</span><span class="english">Water is sneaky.</span></p>
 
 <p><span class="chinese">你这个卑鄙的妈妈！</span><span class="english">Oh, you sneaky mom.</span></p>

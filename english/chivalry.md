@@ -1,5 +1,7 @@
 # chivalry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chivalry.md)
+
 <p><span class="chinese">控制不住的骑士冲动？</span><span class="english">Uncontrollable urges of chivalry?</span></p>
 
 <p><span class="chinese">请让我们证明骑士还活着。</span><span class="english">Please let us prove chivalry is alive.</span></p>

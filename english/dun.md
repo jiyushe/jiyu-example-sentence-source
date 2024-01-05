@@ -1,5 +1,7 @@
 # dun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dun.md)
+
 <p><span class="chinese">别担心，他能行的。</span><span class="english">Dun worry, he can one lah.</span></p>
 
 <p><span class="chinese">咁我而家问你，点解你唔讲出呢呀？</span><span class="english">I dun know what can I say now.</span></p>

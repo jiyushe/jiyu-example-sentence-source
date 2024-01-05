@@ -1,5 +1,7 @@
 # 套袖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoxiu.md)
+
 <p><span class="chinese">这些泵的声音被记录在与套袖相连的表上。</span><span class="english">These pumping sounds register on a gauge attached to the cuff.</span></p>
 
 <p><span class="chinese">这件上衣采用了套袖，并且在裁剪上给予背部宽松的空间。</span><span class="english">The coat has raglan sleeves, and is cut to give fullness at the back.</span></p>

@@ -1,5 +1,7 @@
 # stepmother
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stepmother.md)
+
 <p><span class="chinese">我是他们的后妈！</span><span class="english">I am their stepmother.</span></p>
 
 <p><span class="chinese">别忘了，我的继母又是我的继女。</span><span class="english">stepmother is my stepdaughter.</span></p>

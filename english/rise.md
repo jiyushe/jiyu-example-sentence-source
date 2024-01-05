@@ -1,5 +1,7 @@
 # rise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rise.md)
+
 <p><span class="chinese">起风了。</span><span class="english">The wind rise.</span></p>
 
 <p><span class="chinese">我仍将奋起。</span><span class="english">Still I'll rise.</span></p>

@@ -1,5 +1,7 @@
 # 师法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifa.md)
+
 <p><span class="chinese">他在绘画上师法古人。</span><span class="english">He imitated the ancients in painting.</span></p>
 
 <p><span class="chinese">植根传统，师法造化的国画大师。</span><span class="english">Rooted in tradition, learning from nature's painting masters.</span></p>

@@ -1,5 +1,7 @@
 # 小老婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaolaopo.md)
+
 <p><span class="chinese">我猜是小老婆的女儿罢。</span><span class="english">I'd say she is a concubine's daughter.</span></p>
 
 <p><span class="chinese">情人和妾大都被叫做“小老婆”。</span><span class="english">Mistresses and concubines are sometimes called “little wives.</span></p>

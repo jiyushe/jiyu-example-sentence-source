@@ -1,5 +1,7 @@
 # 通信网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxinwang.md)
+
 <p><span class="chinese">战术通信网。</span><span class="english">Tactical communications network.</span></p>
 
 <p><span class="chinese">减少用户的数据使用将会提高通信网的流畅度。</span><span class="english">Less data usage will improve network traffic.</span></p>

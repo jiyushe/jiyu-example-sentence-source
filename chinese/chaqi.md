@@ -1,5 +1,7 @@
 # 岔气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaqi.md)
+
 <p><span class="chinese">究竟什么引起岔气?</span><span class="english">What exactly causes them?</span></p>
 
 <p><span class="chinese">在岔气消失后继续跑步。</span><span class="english">Continue running after the stitch goes away.</span></p>

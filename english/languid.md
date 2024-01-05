@@ -1,5 +1,7 @@
 # languid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/languid.md)
+
 <p><span class="chinese">相比于这种脉动它很懒散</span><span class="english">It's very languid in terms of the pulse here.</span></p>
 
 <p><span class="chinese">他培养了一个衣冠楚楚的形象和地花鼓。</span><span class="english">He cultivates a dandified image and languid manner.</span></p>

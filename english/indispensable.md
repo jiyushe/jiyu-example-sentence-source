@@ -1,5 +1,7 @@
 # indispensable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indispensable.md)
+
 <p><span class="chinese">水是植物不可缺少的。</span><span class="english">Water is indispensable to plants.</span></p>
 
 <p><span class="chinese">游泳衣当然是必不可少。</span><span class="english">Bathing suit of course is indispensable.</span></p>

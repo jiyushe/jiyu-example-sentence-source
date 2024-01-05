@@ -1,5 +1,7 @@
 # 严刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxing.md)
+
 <p><span class="chinese">巴林一名博主被严刑拷打。</span><span class="english">Bahraini blogger tortured.</span></p>
 
 <p><span class="chinese">这份供词是严刑逼供得来的。</span><span class="english">The confession was made under torture.</span></p>

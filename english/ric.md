@@ -1,5 +1,7 @@
 # ric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ric.md)
+
 <p><span class="chinese">里克•泰桑说，这个计划给他们的女儿提供了实实在在的经济保障。</span><span class="english">Ric Tesan says it offers their daughter real financial security.</span></p>
 
 <p><span class="chinese">我们第一次到日本时，瑞克非常沮丧。</span><span class="english">When we first got to Japan, Ric Obarry was incredibly frustrated.</span></p>

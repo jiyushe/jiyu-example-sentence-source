@@ -1,5 +1,7 @@
 # lapidary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lapidary.md)
+
 <p><span class="chinese">这是宝石匠技术高超的表演。</span><span class="english">Nay. It was the climax of the lapidary 's skill.</span></p>
 
 <p><span class="chinese">耳朵上垂坠水滴般清透的宝石灵气逼人。</span><span class="english">Hang down on ear object the clear lapidary spirit gas like water is threatening.</span></p>

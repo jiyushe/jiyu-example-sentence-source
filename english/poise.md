@@ -1,5 +1,7 @@
 # poise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poise.md)
+
 <p><span class="chinese">也许中国的均衡损失是暂时的。</span><span class="english">Perhaps China's loss of poise is temporary.</span></p>
 
 <p><span class="chinese">用高雅的身姿击败强大的敌人。</span><span class="english">Defeated a powerful enemy with graceful poise.</span></p>

@@ -1,5 +1,7 @@
 # 势不两立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibuliangli.md)
+
 <p><span class="chinese">我们的仇恨不共戴天，我与你势不两立。</span><span class="english">You and I are at daggers drawn.</span></p>
 
 <p><span class="chinese">我并没有说，哀恸和欢笑势不两立。</span><span class="english">I'm not talking about mourning versus laughing.</span></p>

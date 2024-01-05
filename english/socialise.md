@@ -1,5 +1,7 @@
 # socialise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socialise.md)
+
 <p><span class="chinese">尽可能的与他人保持沟通和互动。</span><span class="english">Socialise and interact with others as much as possible.</span></p>
 
 <p><span class="chinese">同时我们经常在工作结束后去社交场所，几乎像一个大家庭。</span><span class="english">And we go often socialise after work almost like a family.</span></p>

@@ -1,5 +1,7 @@
 # pebble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pebble.md)
+
 <p><span class="chinese">我在鹅卵石上呀呀学语。</span><span class="english">I babble on the pebble.</span></p>
 
 <p><span class="chinese">它们就像一个小石子。</span><span class="english">They e like a small pebble.</span></p>

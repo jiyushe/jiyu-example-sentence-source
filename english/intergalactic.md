@@ -1,5 +1,7 @@
 # intergalactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intergalactic.md)
+
 <p><span class="chinese">他曾研究过超新星、夸克物质与星系间的气体云。</span><span class="english">He has studied supernovae, quark matter and intergalactic gas clouds.</span></p>
 
 <p><span class="chinese">您所有的技巧和deftness有必要为您在这intergalactic战争。</span><span class="english">All your skill and deftness are necessary for you in this intergalactic war.</span></p>

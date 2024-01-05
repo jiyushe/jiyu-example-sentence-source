@@ -1,5 +1,7 @@
 # 糟踏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaota_1.md)
+
 <p><span class="chinese">我们怎样糟踏你？</span><span class="english">How did we malign you?</span></p>
 
 <p><span class="chinese">他唱得很糟，糟踏了这支歌曲。</span><span class="english">He murdered the song By poor singing.</span></p>

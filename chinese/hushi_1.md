@@ -1,5 +1,7 @@
 # 护士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hushi_1.md)
+
 <p><span class="chinese">我是个护士。</span><span class="english">Q I’m a nurse.</span></p>
 
 <p><span class="chinese">她是一个护士。</span><span class="english">She e's a nurse.</span></p>

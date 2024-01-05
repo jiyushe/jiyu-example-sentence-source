@@ -1,5 +1,7 @@
 # 华侨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaqiao.md)
+
 <p><span class="chinese">作为一个韩籍华侨。</span><span class="english">As a Korean overseas Chinese.</span></p>
 
 <p><span class="chinese">今天我们在华侨城高尔夫练习场。</span><span class="english">We're here at the OCT Driving Range today.</span></p>

@@ -1,5 +1,7 @@
 # presumptuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presumptuous.md)
+
 <p><span class="chinese">他这样做太放肆了。</span><span class="english">It is too presumptuous of him to do so.</span></p>
 
 <p><span class="chinese">切不可自以为是。</span><span class="english">One should never be presumptuous and opinionated.</span></p>

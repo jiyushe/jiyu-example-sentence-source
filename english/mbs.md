@@ -1,5 +1,7 @@
 # mbs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mbs.md)
+
 <p><span class="chinese">第三章是MBS定价研究的现金流分析。</span><span class="english">The third chapter is cash flow analysis of the MBS pricing study.</span></p>
 
 <p><span class="chinese">美国次贷危机为我们开展MBS敲响了警钟。</span><span class="english">Fourth, the United States sub-loan crisis of our MBS to carry out a wake-up call.</span></p>

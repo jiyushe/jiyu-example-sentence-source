@@ -1,5 +1,7 @@
 # gregorian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gregorian.md)
+
 <p><span class="chinese">它是在阳历四月五号前后。</span><span class="english">It falls around April 5 of the Gregorian calendar.</span></p>
 
 <p><span class="chinese">“惊蛰”通常在公历哪天到来？</span><span class="english">When will Insects Awaken come in Gregorian calendar?</span></p>

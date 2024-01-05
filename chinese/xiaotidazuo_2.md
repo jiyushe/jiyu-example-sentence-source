@@ -1,5 +1,7 @@
 # 小题大作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaotidazuo_2.md)
+
 <p><span class="chinese">请你不要小题大作好吗？</span><span class="english">Don't make such a fuss,will you?</span></p>
 
 <p><span class="chinese">你什么意思，小题大作？</span><span class="english">Whatta you mean, made a big deal?</span></p>

@@ -1,5 +1,7 @@
 # 想方设法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangfangshefa.md)
+
 <p><span class="chinese">李甜甜想方设法找到答案。</span><span class="english">Li Tiantian tried to find the answer.</span></p>
 
 <p><span class="chinese">你怎么想方设法要我当众出丑的？</span><span class="english">How you tried to publicly humiliate me?</span></p>

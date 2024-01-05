@@ -1,5 +1,7 @@
 # strand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strand.md)
+
 <p><span class="chinese">参见编码链。</span><span class="english">Sense strand --- See coding strand.</span></p>
 
 <p><span class="chinese">打上高岸头，方退又再回。</span><span class="english">At their return, up the high strand.</span></p>

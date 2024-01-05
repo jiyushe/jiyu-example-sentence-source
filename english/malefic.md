@@ -1,5 +1,7 @@
 # malefic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malefic.md)
+
 <p><span class="chinese">不好的想法散播懒惰，拖沓等等。</span><span class="english">Malefic thoughts spread laziness, procrastination, etc.</span></p>
 
 <p><span class="chinese">如果行星本身是一颗煞星或者存在不良相位的话，这就是件好事情。</span><span class="english">This can be good if the planet is a malefic or poorly spected.</span></p>

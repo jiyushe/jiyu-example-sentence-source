@@ -1,5 +1,7 @@
 # 天职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhi.md)
+
 <p><span class="chinese">这是间谍的天职。</span><span class="english">This is the job of a spy.</span></p>
 
 <p><span class="chinese">服从乃是小臣的天职，陛下。</span><span class="english">I live but to obey, your majesty.</span></p>

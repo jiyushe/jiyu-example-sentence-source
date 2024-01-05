@@ -1,5 +1,7 @@
 # 预支
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhi_6.md)
+
 <p><span class="chinese">老板给他预支了10英镑下周的工资。</span><span class="english">His boss advanced him ￡ 10 against next week's wages.</span></p>
 
 <p><span class="chinese">必须在一个业务往来账户上始终对预支款做对销记录。</span><span class="english">For advances a cross entry must always be made on a personal account.</span></p>

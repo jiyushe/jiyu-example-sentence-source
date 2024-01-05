@@ -1,5 +1,7 @@
 # 定语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingyu.md)
+
 <p><span class="chinese">这是一个定语从句。</span><span class="english">This is an attributive clause.</span></p>
 
 <p><span class="chinese">由绿色墨水书写的，应该是用以前分词做定语。</span><span class="english">I received a letter written in green ink.</span></p>

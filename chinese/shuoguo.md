@@ -1,5 +1,7 @@
 # 硕果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoguo.md)
+
 <p><span class="chinese">雾霭迷濛、硕果芳醇的秋！</span><span class="english">SEASON of mists and mellow fruitfulness!</span></p>
 
 <p><span class="chinese">只要付出，就能收获累累硕果。</span><span class="english">As long as pay, we can harvest rich fruits.</span></p>

@@ -1,5 +1,7 @@
 # whistle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whistle.md)
+
 <p><span class="chinese">雾笛阀门。</span><span class="english">Whistle Valve.</span></p>
 
 <p><span class="chinese">为什么有呼啸声？</span><span class="english">Why does it whistle?</span></p>

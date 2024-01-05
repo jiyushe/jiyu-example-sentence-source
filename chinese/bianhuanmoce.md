@@ -1,5 +1,7 @@
 # 变幻莫测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianhuanmoce.md)
+
 <p><span class="chinese">他像是一团雾，漂移不定，变幻莫测。</span><span class="english">He is a vaporous and shifting mirage.</span></p>
 
 <p><span class="chinese">云变幻莫测，天空却是一成不变。</span><span class="english">Clouds are impermanent, but the sky is stable.</span></p>

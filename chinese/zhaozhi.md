@@ -1,5 +1,7 @@
 # 招致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaozhi.md)
+
 <p><span class="chinese">那将是招致失败的下策。</span><span class="english">That would be a losing game.</span></p>
 
 <p><span class="chinese">但是实际上是谁招致的呢？</span><span class="english">But who in fact kicked them off?</span></p>

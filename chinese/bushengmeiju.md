@@ -1,5 +1,7 @@
 # 不胜枚举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushengmeiju.md)
+
 <p><span class="chinese">这方面的理论不胜枚举。</span><span class="english">Theories abound.</span></p>
 
 <p><span class="chinese">诸如此类，不胜枚举。</span><span class="english">Okay, and so on and so on.</span></p>

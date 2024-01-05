@@ -1,5 +1,7 @@
 # valuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valuation.md)
+
 <p><span class="chinese">为此,我们会做价值评估</span><span class="english">So,we will make valuation bets.</span></p>
 
 <p><span class="chinese">探矿权评估方法优选。</span><span class="english">Optimization of exploration right valuation.</span></p>

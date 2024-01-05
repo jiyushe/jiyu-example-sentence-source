@@ -1,5 +1,7 @@
 # 言行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxing_1.md)
+
 <p><span class="chinese">因为他的言行举止就是如此</span><span class="english">That's how he behaves.</span></p>
 
 <p><span class="chinese">他的言行正在倒退。</span><span class="english">His behaviour is regressing.</span></p>

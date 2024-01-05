@@ -1,5 +1,7 @@
 # 骗术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianshu.md)
+
 <p><span class="chinese">魔术师使用骗术。</span><span class="english">A magician uses deception.</span></p>
 
 <p><span class="chinese">那种骗术瞒不过我。</span><span class="english">That deceit won't pass with me.</span></p>

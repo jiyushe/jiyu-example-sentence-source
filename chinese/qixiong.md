@@ -1,5 +1,7 @@
 # 气胸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixiong.md)
+
 <p><span class="chinese">气胸是此类疾病最常见的症状。</span><span class="english">Pneumothorax is the most common presentation of this disorder.</span></p>
 
 <p><span class="chinese">本文报告一位十九岁女性出现右侧气胸。</span><span class="english">A 19-year-old female presented with symptoms of right-sided pneumothorax.</span></p>

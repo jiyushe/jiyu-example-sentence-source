@@ -1,5 +1,7 @@
 # accelerometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accelerometer.md)
+
 <p><span class="chinese">加速度计和支持多点触摸。</span><span class="english">Supports accelerometer and multi-touch.</span></p>
 
 <p><span class="chinese">这个程序利用了手机的加速度计量器识别是否跌倒。</span><span class="english">It used the phone’s accelerometer to sense a fall.</span></p>

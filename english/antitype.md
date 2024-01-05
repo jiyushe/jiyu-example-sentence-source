@@ -1,5 +1,7 @@
 # antitype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antitype.md)
+
 <p><span class="chinese">他的工作与他的个性是相对的类型。</span><span class="english">His job was an antitype to his personality.</span></p>
 
 <p><span class="chinese">产业生命周期会影响技术知识移转类型。</span><span class="english">The industry life cycle will influence the technology transfer ring's antitype.</span></p>

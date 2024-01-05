@@ -1,5 +1,7 @@
 # 逆流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niliu.md)
+
 <p><span class="chinese">不要逆流而游。</span><span class="english">Don't swim against the current.</span></p>
 
 <p><span class="chinese">小船在塞纳河中逆流而上。</span><span class="english">The boat is sailing up the Seine.</span></p>

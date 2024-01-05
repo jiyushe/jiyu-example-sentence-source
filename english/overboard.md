@@ -1,5 +1,7 @@
 # overboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overboard.md)
+
 <p><span class="chinese">船尾有人落水。</span><span class="english">Man overboard on astern.</span></p>
 
 <p><span class="chinese">尽量不要走极端。</span><span class="english">Try not to go overboard.</span></p>

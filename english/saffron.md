@@ -1,5 +1,7 @@
 # saffron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saffron.md)
+
 <p><span class="chinese">红花以水浸至出香味。</span><span class="english">Soak saffron in water until aromatic.</span></p>
 
 <p><span class="chinese">这个汤的特殊香味是因为藏红花粉。</span><span class="english">The special zest of this soup is due to the saffron.</span></p>

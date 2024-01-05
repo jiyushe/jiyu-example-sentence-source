@@ -1,5 +1,7 @@
 # columbia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/columbia.md)
+
 <p><span class="chinese">在哥伦比亚的网站。</span><span class="english">On the Columbia Web site.</span></p>
 
 <p><span class="chinese">她因考试不及格而被哥伦比亚大学开除了。</span><span class="english">She bilged out of Columbia University.</span></p>

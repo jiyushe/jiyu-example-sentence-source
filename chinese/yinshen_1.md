@@ -1,5 +1,7 @@
 # 隐身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshen_1.md)
+
 <p><span class="chinese">他说隐身人跟在他后面。</span><span class="english">He said that the Invisible Man was after him.</span></p>
 
 <p><span class="chinese">因此，把它建在树林中几乎可以‘隐身’。</span><span class="english">So it should be invisible nearly in the forest.</span></p>

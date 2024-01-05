@@ -1,5 +1,7 @@
 # rct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rct.md)
+
 <p><span class="chinese">最近“搬家”二字一听就头疼。</span><span class="english">RCT "move" become a rough word.</span></p>
 
 <p><span class="chinese">医疗人员和治理者必须理解，循证医学并非随即对照试验。</span><span class="english">Healthcare professionals and administrators must grasp that EBM is not a RCT.</span></p>

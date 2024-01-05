@@ -1,5 +1,7 @@
 # 波段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boduan.md)
+
 <p><span class="chinese">波段是我们的衣食父母！</span><span class="english">The god of our band!</span></p>
 
 <p><span class="chinese">波段的重要性远低于带宽。</span><span class="english">Wavebands matter less than bandwidth.</span></p>

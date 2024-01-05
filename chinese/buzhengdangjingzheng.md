@@ -1,5 +1,7 @@
 # 不正当竞争
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhengdangjingzheng.md)
+
 <p><span class="chinese">德国是现代反不正当竞争法的发源地。</span><span class="english">Germany is the origin of modern anti-unfair competition law.</span></p>
 
 <p><span class="chinese">国家机关工作人员不得支持、包庇不正当竞争行为。</span><span class="english">No State functionary may support or cover up unfair competition acts.</span></p>

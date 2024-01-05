@@ -1,5 +1,7 @@
 # bottle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bottle.md)
+
 <p><span class="chinese">100ml装的。</span><span class="english">The 100ml bottle.</span></p>
 
 <p><span class="chinese">没有，没有开瓶器。</span><span class="english">No. No bottle opener.</span></p>

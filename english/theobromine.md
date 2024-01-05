@@ -1,5 +1,7 @@
 # theobromine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theobromine.md)
+
 <p><span class="chinese">这是因为它们无法快速代谢可可碱。</span><span class="english">This is because their bodies cannot metabolise theobromine quickly enough.</span></p>
 
 <p><span class="chinese">作用——可可碱镇静引起咳嗽的迷走神经过敏。</span><span class="english">What it does Theobromine suppresses activity in the vagus nerve, which causes coughing.</span></p>

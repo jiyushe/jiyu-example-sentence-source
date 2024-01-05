@@ -1,5 +1,7 @@
 # queer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/queer.md)
+
 <p><span class="chinese">这么说你是一个老同志？</span><span class="english">So you are a big queer?</span></p>
 
 <p><span class="chinese">我告诉你，他们生来就这么古怪。</span><span class="english">I tell you they’re born queer.</span></p>

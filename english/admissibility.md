@@ -1,5 +1,7 @@
 # admissibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admissibility.md)
+
 <p><span class="chinese">我对外国人能否被批准入境有裁决权。</span><span class="english">I can rule on the admissibility of aliens.</span></p>
 
 <p><span class="chinese">法院将对证据的可采性进行裁决。</span><span class="english">The court will decide on the admissibility of the evidence.</span></p>

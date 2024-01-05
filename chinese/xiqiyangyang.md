@@ -1,5 +1,7 @@
 # 喜气洋洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiqiyangyang.md)
+
 <p><span class="chinese">珂赛特苍白的脸上顿时喜气洋洋。</span><span class="english">A ray illuminated Cosette's pale face.</span></p>
 
 <p><span class="chinese">管先生一家喜气洋洋的搬入新居。</span><span class="english">Mr Tube a beaming moved into a new house.</span></p>

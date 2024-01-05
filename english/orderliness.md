@@ -1,5 +1,7 @@
 # orderliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orderliness.md)
+
 <p><span class="chinese">人生第一次我的生活有了规律。</span><span class="english">First time, my life goes in orderliness.</span></p>
 
 <p><span class="chinese">她有条不紊，一定受过良好的训练。</span><span class="english">She must have been well disciplined for her orderliness.</span></p>

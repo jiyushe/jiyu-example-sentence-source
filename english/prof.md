@@ -1,5 +1,7 @@
 # prof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prof.md)
+
 <p><span class="chinese">陈教授在吗？</span><span class="english">Is Prof. Chen in?</span></p>
 
 <p><span class="chinese">我同意秦晖教授的观点。</span><span class="english">I agree with Prof.</span></p>

@@ -1,5 +1,7 @@
 # 忍让
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renrang.md)
+
 <p><span class="chinese">一条双向道，有来有往，引申为互相忍让。</span><span class="english">It has to be a two-way street.</span></p>
 
 <p><span class="chinese">彼此忍让非常重要。</span><span class="english">It's important to be tolerant with each other.</span></p>

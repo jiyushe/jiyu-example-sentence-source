@@ -1,5 +1,7 @@
 # emerson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emerson.md)
+
 <p><span class="chinese">我是德克斯特埃默森。</span><span class="english">This is dexter emerson.</span></p>
 
 <p><span class="chinese">这些诗都是爱默生写的吗?。</span><span class="english">Were all the poems written by Emerson?</span></p>

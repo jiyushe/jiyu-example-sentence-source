@@ -1,5 +1,7 @@
 # 名分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingfen.md)
+
 <p><span class="chinese">以扫就对他起了誓，把长子的名分卖给雅各。</span><span class="english">So he swore an oath to him, selling his birthright to Jacob.</span></p>
 
 <p><span class="chinese">荀子所强调的是要弄明白天和人各自的名分。</span><span class="english">Xunzi's emphasis is to find out who their particular sub-days.</span></p>

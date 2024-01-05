@@ -1,5 +1,7 @@
 # 堂堂正正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangtangzhengzheng.md)
+
 <p><span class="chinese">我要作一个堂堂正正的人。</span><span class="english">I am going to be a sport.</span></p>
 
 <p><span class="chinese">你认为安德鲁是个堂堂正正的人吗？</span><span class="english">Do you think Andrew is a good sport?</span></p>

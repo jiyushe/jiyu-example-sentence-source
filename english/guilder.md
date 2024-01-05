@@ -1,5 +1,7 @@
 # guilder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guilder.md)
+
 <p><span class="chinese">10荷兰盾纸币显示蜂鸟与几何图案。</span><span class="english">Their 10 guilder bill depicts a hummingbird on geometric patterns.</span></p>
 
 <p><span class="chinese">动人的黄色50荷兰盾，其中向日葵最显眼。</span><span class="english">The striking, yellow 50 guilder note features a sunflower prominently.</span></p>

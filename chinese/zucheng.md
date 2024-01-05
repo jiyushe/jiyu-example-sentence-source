@@ -1,5 +1,7 @@
 # 组成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zucheng.md)
+
 <p><span class="chinese">大岩组成！</span><span class="english">Great rock composition!</span></p>
 
 <p><span class="chinese">它是用乐高积木组成的！</span><span class="english">It's made of Lego bricks!</span></p>

@@ -1,5 +1,7 @@
 # abiotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abiotic.md)
+
 <p><span class="chinese">我曾经想过要扮演一次造物主上帝。</span><span class="english">I have felt like playing the abiotic God.</span></p>
 
 <p><span class="chinese">重金属胁迫作为非生物胁迫的一种可引起植物的胁迫应答。</span><span class="english">As a kind of abiotic stress, heavy metal stress may provoke stress response.</span></p>

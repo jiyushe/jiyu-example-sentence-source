@@ -1,5 +1,7 @@
 # 心平气和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinpingqihe.md)
+
 <p><span class="chinese">他是个心平气和而讲理的人。</span><span class="english">He is a calm and reasonable man.</span></p>
 
 <p><span class="chinese">她镇定自若，心平气和且很友好。</span><span class="english">She was very calm, quiet and friendly.</span></p>

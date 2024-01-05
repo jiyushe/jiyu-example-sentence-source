@@ -1,5 +1,7 @@
 # law 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/law.md)
+
 <p><span class="chinese">铁路法?。</span><span class="english">Railway Law?</span></p>
 
 <p><span class="chinese">担保法。</span><span class="english">Guarantee Law?</span></p>

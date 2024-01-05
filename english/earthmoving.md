@@ -1,5 +1,7 @@
 # earthmoving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthmoving.md)
+
 <p><span class="chinese">戴夫·安德森拥有一份运土生意。</span><span class="english">Dave Anderson owned an earthmoving business.</span></p>
 
 <p><span class="chinese">但他们似乎自然是一个巨大的土方工作。</span><span class="english">They appear natural yet it was a tremendous earthmoving exercise.</span></p>

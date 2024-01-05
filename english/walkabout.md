@@ -1,5 +1,7 @@
 # walkabout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walkabout.md)
+
 <p><span class="chinese">他们穿着时髦的衣服，并在市场沃克博特。</span><span class="english">They wear trendy clothes and walkabout in the market.</span></p>
 
 <p><span class="chinese">首相坚持要到贝尔法斯特民众中走动走动。</span><span class="english">The Prime Minister insisted on going walkabout in Belfast.</span></p>

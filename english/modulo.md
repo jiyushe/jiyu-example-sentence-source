@@ -1,5 +1,7 @@
 # modulo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modulo.md)
+
 <p><span class="chinese">模数的范围必须为正。</span><span class="english">Modulo range must be positive.</span></p>
 
 <p><span class="chinese">单位群的阶为2pq的模n剩余类环。</span><span class="english">Group of units of order 2pq of modulo n residue class ring.</span></p>

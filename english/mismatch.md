@@ -1,5 +1,7 @@
 # mismatch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mismatch.md)
+
 <p><span class="chinese">“学非所用”是应该避免的吗？</span><span class="english">Is "mismatch" to be avoided?</span></p>
 
 <p><span class="chinese">NVRAM的配置和驱动器不匹配。</span><span class="english">Configuration of NVRAM and drives mismatch.</span></p>

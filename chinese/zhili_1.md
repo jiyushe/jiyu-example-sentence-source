@@ -1,5 +1,7 @@
 # 治理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhili_1.md)
+
 <p><span class="chinese">什么是治理？</span><span class="english">What is governance?</span></p>
 
 <p><span class="chinese">基于事实的治理。</span><span class="english">Fact-based governance.</span></p>

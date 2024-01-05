@@ -1,5 +1,7 @@
 # encoder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encoder.md)
+
 <p><span class="chinese">你可以做一些种植的编码器，如果需要的。</span><span class="english">You may do some cropping of the Encoder if required.</span></p>
 
 <p><span class="chinese">标准编码器分辨率为2048转速每行。</span><span class="english">The standard encoder resolution is 2048 lines per rev.</span></p>

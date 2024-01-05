@@ -1,5 +1,7 @@
 # 丢脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diulian.md)
+
 <p><span class="chinese">这是件丢脸的事。</span><span class="english">This is a shame.</span></p>
 
 <p><span class="chinese">对…说来丢脸的是。</span><span class="english">To the dishonor of.</span></p>

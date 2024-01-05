@@ -1,5 +1,7 @@
 # 审美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenmei.md)
+
 <p><span class="chinese">他现在是个审美家。</span><span class="english">He is an aesthete now.</span></p>
 
 <p><span class="chinese">你很有审美眼光。</span><span class="english">You have an eye for beauty.</span></p>

@@ -1,5 +1,7 @@
 # true 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/true.md)
+
 <p><span class="chinese">酷酷的真言真语？</span><span class="english">Cool or True?</span></p>
 
 <p><span class="chinese">这是真事吗？</span><span class="english">Is this true?</span></p>

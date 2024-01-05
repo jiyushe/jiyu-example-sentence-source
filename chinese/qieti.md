@@ -1,5 +1,7 @@
 # 切题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieti.md)
+
 <p><span class="chinese">他说的不切题。</span><span class="english">He said nothing to the point.</span></p>
 
 <p><span class="chinese">你的回答不切题。</span><span class="english">Your answer is not to the point.</span></p>

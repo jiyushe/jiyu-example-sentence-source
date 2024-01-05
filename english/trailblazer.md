@@ -1,5 +1,7 @@
 # trailblazer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trailblazer.md)
+
 <p><span class="chinese">他是先驱者和开路先锋。</span><span class="english">He is a pioneer and trailblazer.</span></p>
 
 <p><span class="chinese">我们的课程计划名为开拓者。</span><span class="english">The program is called Trailblazer.</span></p>

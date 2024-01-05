@@ -1,5 +1,7 @@
 # heirloom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heirloom.md)
+
 <p><span class="chinese">窃贼偷了一些家庭的祖传遗产。</span><span class="english">The burglar steal some family heirloom.</span></p>
 
 <p><span class="chinese">这块玉佩是咱们家的传家宝。</span><span class="english">This jade pendant is our family heirloom.</span></p>

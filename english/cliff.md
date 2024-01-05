@@ -1,5 +1,7 @@
 # cliff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cliff.md)
+
 <p><span class="chinese">我没有念来摘那朵花…</span><span class="english">I won't go to the cliff.</span></p>
 
 <p><span class="chinese">一座庙宇耸峙在悬崖之上。</span><span class="english">A temple perched on a cliff.</span></p>

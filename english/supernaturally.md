@@ -1,5 +1,7 @@
 # supernaturally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supernaturally.md)
+
 <p><span class="chinese">随后布冯神勇封出范尼单刀。</span><span class="english">Afterward cloth Feng seals the Fannie single tool supernaturally brave.</span></p>
 
 <p><span class="chinese">祷告神透过超自然的方式，以祂的平安造访这个土地上的每个百姓。</span><span class="english">Pray that God supernaturally visits everyone living in the land with His Shalom.</span></p>

@@ -1,5 +1,7 @@
 # quickness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quickness.md)
+
 <p><span class="chinese">好的传球必须迅速。</span><span class="english">Good passes must have quickness.</span></p>
 
 <p><span class="chinese">他像猫一样敏捷的爬上了树。</span><span class="english">With the quickness of a cat , he climbed up the tree.</span></p>

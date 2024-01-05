@@ -1,5 +1,7 @@
 # 五子棋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuziqi.md)
+
 <p><span class="chinese">我觉得她玩“五子棋”佷厉害。</span><span class="english">And I think she play "Five Steps Chess"well.</span></p>
 
 <p><span class="chinese">我尊敬所有为五子棋作出贡献的人。</span><span class="english">I admire everybody who has done so much for renju.</span></p>

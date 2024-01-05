@@ -1,5 +1,7 @@
 # 吟诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshi.md)
+
 <p><span class="chinese">这是一个所有游吟诗人必学的把戏。</span><span class="english">A must-have cantrip for all Bards.</span></p>
 
 <p><span class="chinese">歌手吉他也被称为游吟诗人。</span><span class="english">Singers to guitar are also called bards.</span></p>

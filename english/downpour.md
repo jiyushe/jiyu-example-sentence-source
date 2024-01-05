@@ -1,5 +1,7 @@
 # downpour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downpour.md)
+
 <p><span class="chinese">大雨导致北京交通瘫痪。</span><span class="english">Downpour paralyses Beijing traffic.</span></p>
 
 <p><span class="chinese">倾盆大雨把他的衬衫像贴膏药一样贴在他身上。</span><span class="english">The downpour plastered his shirt to his body.</span></p>

@@ -1,5 +1,7 @@
 # cavalryman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavalryman.md)
+
 <p><span class="chinese">他是一个骑兵。</span><span class="english">He is a cavalryman.</span></p>
 
 <p><span class="chinese">几名步兵相当于一名骑兵？</span><span class="english">How many infantrymen are equivalent to one cavalryman?</span></p>

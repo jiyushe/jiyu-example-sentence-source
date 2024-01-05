@@ -1,5 +1,7 @@
 # 乱世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanshi.md)
+
 <p><span class="chinese">潘玉书长于乱世。</span><span class="english">Pan troubled times longer than the book.</span></p>
 
 <p><span class="chinese">“乱世高潮点”是一系列的混乱事件。</span><span class="english">Chaotic Nodes are clusters of chaotic events.</span></p>

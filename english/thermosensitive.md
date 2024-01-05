@@ -1,5 +1,7 @@
 # thermosensitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermosensitive.md)
+
 <p><span class="chinese">热敏元件为一个用形状记忆合金丝绕成的螺线圈12。</span><span class="english">The thermosensitive element is a spiral coil 12 which is wound from a shape memory alloy wire.</span></p>
 
 <p><span class="chinese">本发明的名称是耐热性改进剂和可逆热敏记录介质。</span><span class="english">The present invention provides a heat resistant improver and a reversible thermosensitive recording medium.</span></p>

@@ -1,5 +1,7 @@
 # 公共课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonggongke.md)
+
 <p><span class="chinese">给出了一个计算机公共课机考软件系统的总体思路和具体实现。</span><span class="english">A general idea and concrete implementation of Exam software system are given.</span></p>
 
 <p><span class="chinese">大多数的高等院校前两年是开公共课和基础课的。</span><span class="english">The majority institutions of higher learning previous two years have the public class and the basic course.</span></p>

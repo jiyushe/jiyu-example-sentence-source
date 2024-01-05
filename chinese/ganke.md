@@ -1,5 +1,7 @@
 # 干渴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganke.md)
+
 <p><span class="chinese">树木和其它植物能看出来干渴。</span><span class="english">Trees and other plants can look thirsty.</span></p>
 
 <p><span class="chinese">每一次干渴，等于百个湖水。</span><span class="english">For every thirst , there are a hundred lakes.</span></p>

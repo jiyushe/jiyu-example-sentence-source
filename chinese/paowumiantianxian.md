@@ -1,5 +1,7 @@
 # 抛物面天线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paowumiantianxian.md)
+
 <p><span class="chinese">这里介绍的一种自动折叠抛物面天线，可以进行快速架撤，满足雷达高机动要求。</span><span class="english">In this paper, one kind of auto-folding paraboloid antenna is studied.</span></p>
 
 <p><span class="chinese">研究了一种半波振子馈电的带圆片副反射面的抛物面天线。</span><span class="english">The parabolic antenna fed with half-wave dipole, with circular disc short-focus parabolic reflector was studied.</span></p>

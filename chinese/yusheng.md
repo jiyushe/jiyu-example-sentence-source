@@ -1,5 +1,7 @@
 # 余生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yusheng.md)
+
 <p><span class="chinese">余生都会倍感快乐。</span><span class="english">For the rest of our lives.</span></p>
 
 <p><span class="chinese">无比欢欣的劫后余生。</span><span class="english">The exultant joy of survival.</span></p>

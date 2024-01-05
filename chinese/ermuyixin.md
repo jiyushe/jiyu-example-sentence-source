@@ -1,5 +1,7 @@
 # 耳目一新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ermuyixin.md)
+
 <p><span class="chinese">超炫的界面设计，让你耳目一新。</span><span class="english">Wonderful design, bring you refreshing feeling.</span></p>
 
 <p><span class="chinese">一个令人耳目一新的尝试是做“玫瑰花蕾冰块”。</span><span class="english">For a refreshing twist try making “Rosebud Ice Cubes.”</span></p>

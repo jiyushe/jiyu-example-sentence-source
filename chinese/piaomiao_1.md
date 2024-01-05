@@ -1,5 +1,7 @@
 # 飘渺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaomiao_1.md)
+
 <p><span class="chinese">飘渺的烟，是引导你去天堂的路！</span><span class="english">Hazes of smokes lead you to go to heaven!</span></p>
 
 <p><span class="chinese">我过着一种及其飘渺却不虚无的生活。</span><span class="english">I'm living a flying life, which is not windy.</span></p>

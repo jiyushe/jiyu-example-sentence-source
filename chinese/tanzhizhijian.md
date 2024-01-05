@@ -1,5 +1,7 @@
 # 弹指之间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanzhizhijian.md)
+
 <p><span class="chinese">你的音乐就在弹指之间。</span><span class="english">And your music is right at your fingertips.</span></p>
 
 <p><span class="chinese">可以将自己所需要的牌在弹指之间偷过来。</span><span class="english">Can be their own need to steal cards in the in a short moment.</span></p>

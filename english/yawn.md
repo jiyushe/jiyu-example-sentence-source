@@ -1,5 +1,7 @@
 # yawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yawn.md)
+
 <p><span class="chinese">我们为什么打哈欠？</span><span class="english">Why do we yawn?</span></p>
 
 <p><span class="chinese">在客人面前别打呵欠。</span><span class="english">Don't yawn in company.</span></p>

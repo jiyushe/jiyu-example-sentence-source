@@ -1,5 +1,7 @@
 # motherly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motherly.md)
+
 <p><span class="chinese">她是慈母般的老师。</span><span class="english">She is a motherly teacher.</span></p>
 
 <p><span class="chinese">让我给你一点慈父般的忠告吧。</span><span class="english">Let me give you a little motherly advice.</span></p>

@@ -1,5 +1,7 @@
 # 斩首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanshou.md)
+
 <p><span class="chinese">安妮·博林于1536年被斩首。</span><span class="english">Anne boleyn was beheaded in1536.</span></p>
 
 <p><span class="chinese">他因叛国罪被斩首。</span><span class="english">He was beheaded for high treason.</span></p>

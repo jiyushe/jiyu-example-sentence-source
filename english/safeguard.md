@@ -1,5 +1,7 @@
 # safeguard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/safeguard.md)
+
 <p><span class="chinese">保护你的健康。</span><span class="english">Safeguard your health.</span></p>
 
 <p><span class="chinese">四个人当中就有三个选中“舒肤佳”牌香皂！</span><span class="english">Three out of four people choose "Safeguard" soap!</span></p>

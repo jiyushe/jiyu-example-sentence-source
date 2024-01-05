@@ -1,5 +1,7 @@
 # 非难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feinan.md)
+
 <p><span class="chinese">这种非难似乎是不公正的。</span><span class="english">This reproach is unjustified.</span></p>
 
 <p><span class="chinese">这个剧本遭到大多数评论家的非难。</span><span class="english">The play was drubbed by most critics.</span></p>

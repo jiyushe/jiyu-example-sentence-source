@@ -1,5 +1,7 @@
 # correspondence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correspondence.md)
+
 <p><span class="chinese">他和简保持通讯联系。</span><span class="english">He kept up a correspondence with Jane.</span></p>
 
 <p><span class="chinese">将不会和任何人建立通信联系。</span><span class="english">No correspondence will be entered into.</span></p>

@@ -1,5 +1,7 @@
 # 温和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhe_1.md)
+
 <p><span class="chinese">我并非生来就是一个性情温和的人。</span><span class="english">I was not born mild.</span></p>
 
 <p><span class="chinese">这是一个温和的网站。</span><span class="english">It is a moderated site.</span></p>

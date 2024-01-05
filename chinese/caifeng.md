@@ -1,5 +1,7 @@
 # 裁缝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caifeng.md)
+
 <p><span class="chinese">但是裁缝死了。</span><span class="english">But the tailor died.</span></p>
 
 <p><span class="chinese">裁缝们索价很高。</span><span class="english">Tailors are so expensive.</span></p>

@@ -1,5 +1,7 @@
 # pacifist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pacifist.md)
+
 <p><span class="chinese">因为它公开宣布的和平宪法？</span><span class="english">Is it the avowedly pacifist constitution?</span></p>
 
 <p><span class="chinese">比塞特医生今年46岁，是着名的和平人士，虔诚的基督徒。</span><span class="english">Dr. Biscet, 46, is a renowned pacifist and devout Christian.</span></p>

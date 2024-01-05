@@ -1,5 +1,7 @@
 # trapezoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trapezoid.md)
+
 <p><span class="chinese">今天大学的教授问全班同学梯形是什么玩意。</span><span class="english">Today, my college professor asked my entire class what a trapezoid was.</span></p>
 
 <p><span class="chinese">每个建筑呈梯形，其长边为拱形。</span><span class="english">Each building is trapezoid in shape, the longer sides of which are arched.</span></p>

@@ -1,5 +1,7 @@
 # settlement 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/settlement_1.md)
+
 <p><span class="chinese">和平解决的希望成为泡影。</span><span class="english">Hopes of a peace settlement faded.</span></p>
 
 <p><span class="chinese">该居民点建立于1592年。</span><span class="english">This settlement was founded in 1592.</span></p>

@@ -1,5 +1,7 @@
 # encapsulant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encapsulant.md)
+
 <p><span class="chinese">此材料可以做为有机封装材。</span><span class="english">This curable materials could be used in organic encapsulant.</span></p>
 
 <p><span class="chinese">例如，它用作半导体产品的密封剂。</span><span class="english">It is useful, for example, as an encapsulant for semiconductor products.</span></p>

@@ -1,5 +1,7 @@
 # 反对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fandui.md)
+
 <p><span class="chinese">赞成还是反对？</span><span class="english">Pro or con?</span></p>
 
 <p><span class="chinese">我并不反对自动化。</span><span class="english">I am no Luddite.</span></p>

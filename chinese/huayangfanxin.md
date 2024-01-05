@@ -1,5 +1,7 @@
 # 花样翻新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huayangfanxin.md)
+
 <p><span class="chinese">学生们最经常的要求就是课堂上要花样翻新。</span><span class="english">What the students required most often was variety within the lesson hour.</span></p>
 
 <p><span class="chinese">学生们最经常的要求就是课堂上要花样翻新。</span><span class="english">What the students requested most often was variety within the lesson hour.</span></p>

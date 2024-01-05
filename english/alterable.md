@@ -1,5 +1,7 @@
 # alterable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alterable.md)
+
 <p><span class="chinese">剩余价值是可变资本产生的。</span><span class="english">Surplus value is alterable capital generation.</span></p>
 
 <p><span class="chinese">研究了求解变夹紧力的优化方法。</span><span class="english">Thirdly, how to obtain the alterable clamping force was studied.</span></p>

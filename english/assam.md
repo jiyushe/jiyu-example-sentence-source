@@ -1,5 +1,7 @@
 # assam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assam.md)
+
 <p><span class="chinese">阿萨姆邦的一个历史-爵士步态。</span><span class="english">History of Assam – Sir Edward Gait.</span></p>
 
 <p><span class="chinese">OXOM和阿萨姆彻底一次。</span><span class="english">OXOM and ASSAM thoroughly one more time.</span></p>

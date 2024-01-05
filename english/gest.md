@@ -1,5 +1,7 @@
 # gest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gest.md)
+
 <p><span class="chinese">也许。芜拘芜束的笑，就是嚄最大的快了。</span><span class="english">Perhaps unrestrained Smiles is I big gest joy.</span></p>
 
 <p><span class="chinese">本人武功这辈子的错误，但我仍然爱你！</span><span class="english">I gest mistake in this life, but I still love you!</span></p>

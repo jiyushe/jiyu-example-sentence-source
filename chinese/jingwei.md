@@ -1,5 +1,7 @@
 # 京味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingwei.md)
+
 <p><span class="chinese">你好，京味餐馆。</span><span class="english">Hello, this is Jingwei Restaurant.</span></p>
 
 <p><span class="chinese">茶馆文化是极具中国京味特色的文化。</span><span class="english">Tea culture is a special form of culture with a decidedly Beijing touch about it.</span></p>

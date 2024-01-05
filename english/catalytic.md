@@ -1,5 +1,7 @@
 # catalytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalytic.md)
+
 <p><span class="chinese">这就是所谓的催化裂化。</span><span class="english">It is known as catalytic cracking.</span></p>
 
 <p><span class="chinese">催化剂WP1具有较好的稳定性。</span><span class="english">WP1 had better catalytic stability.</span></p>

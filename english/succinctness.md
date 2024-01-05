@@ -1,5 +1,7 @@
 # succinctness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succinctness.md)
+
 <p><span class="chinese">简洁是他的文体的特色。</span><span class="english">Terseness or succinctness of style or expression.</span></p>
 
 <p><span class="chinese">简洁精练或简洁的表达风格。</span><span class="english">Terseness or succinctness of style or expression.</span></p>

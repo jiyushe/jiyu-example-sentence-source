@@ -1,5 +1,7 @@
 # 举动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/judong.md)
+
 <p><span class="chinese">他的举动令人厌恶。</span><span class="english">His conduct was disgusting.</span></p>
 
 <p><span class="chinese">他的冒失举动令我们惊愕。</span><span class="english">His impudence bowled us over.</span></p>

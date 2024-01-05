@@ -1,5 +1,7 @@
 # frolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frolic.md)
+
 <p><span class="chinese">骑士们骑马比武，嬉戏作乐。</span><span class="english">Knights joust and frolic.</span></p>
 
 <p><span class="chinese">游客晒着日光浴在海水里嬉戏。</span><span class="english">Tourists sunbathe and frolic in the ocean.</span></p>

@@ -1,5 +1,7 @@
 # 古为今用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guweijinyong.md)
+
 <p><span class="chinese">中国要做到古为今用，洋为中用。</span><span class="english">Make the past serve the present and the foreign serve China.</span></p>
 
 <p><span class="chinese">上述思想古为今用，对今天的改革开放仍有借鉴启迪作用。</span><span class="english">His views are referable to our reformation and opening to the world.</span></p>

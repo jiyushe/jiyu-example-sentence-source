@@ -1,5 +1,7 @@
 # 赤霉素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chimeisu.md)
+
 <p><span class="chinese">采用低温和赤霉素处理。</span><span class="english">Using low temperature and gibberellin treatment.</span></p>
 
 <p><span class="chinese">赤霉素是大多数植物正常的组成部分。</span><span class="english">Gibberellin are normal constituents of most plants.</span></p>

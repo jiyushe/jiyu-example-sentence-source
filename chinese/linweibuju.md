@@ -1,5 +1,7 @@
 # 临危不惧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linweibuju.md)
+
 <p><span class="chinese">海明威曾经写到，勇气就是临危不惧。</span><span class="english">Hemingway once wrote that courage is grace under pressure.</span></p>
 
 <p><span class="chinese">事后，林部长问帅飘为什么临危不惧。</span><span class="english">Later, Lin minister asked why handsome floating in a crisis.</span></p>

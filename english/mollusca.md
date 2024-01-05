@@ -1,5 +1,7 @@
 # mollusca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mollusca.md)
+
 <p><span class="chinese">调查期间采到的软体动物已鉴定52种，其中腹足类45种，双壳类7种。</span><span class="english">Among 52 species of mollusca identified, 45 were gastropods, 7 were bivalves.</span></p>
 
 <p><span class="chinese">对沅江南洞庭湖部分湖泊软体动物资源作了初步调查。</span><span class="english">The resources of mollusca of the Southern Dongting Lake in Yuanjiang were investigated.</span></p>

@@ -1,5 +1,7 @@
 # goodwife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goodwife.md)
+
 <p><span class="chinese">苗苗，好老婆，老公永远爱你！</span><span class="english">Miaomiao, goodwife , I love you for ever, from your dear.</span></p>
 
 <p><span class="chinese">看到它们，女主人不自觉地孩子气地笑了。</span><span class="english">See them, goodwife laughed childishly not self-consciously.</span></p>

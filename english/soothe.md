@@ -1,5 +1,7 @@
 # soothe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soothe.md)
+
 <p><span class="chinese">囿谁可以安慰莪。?。</span><span class="english">Who can soothe me down. ?</span></p>
 
 <p><span class="chinese">他设法平服她的怒气。</span><span class="english">He tried to soothe her anger.</span></p>

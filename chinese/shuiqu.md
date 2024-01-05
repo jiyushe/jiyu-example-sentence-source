@@ -1,5 +1,7 @@
 # 水渠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiqu.md)
+
 <p><span class="chinese">他们在挖掘一条水渠。</span><span class="english">They are cutting a canal.</span></p>
 
 <p><span class="chinese">到的，你在水渠街下车便行。</span><span class="english">Yes. You get off at Canal St.</span></p>

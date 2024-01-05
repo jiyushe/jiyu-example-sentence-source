@@ -1,5 +1,7 @@
 # 新民主主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinminzhuzhuyi.md)
+
 <p><span class="chinese">什么是新民主主义的文化呢？</span><span class="english">What is the nature of new-democratic culture?</span></p>
 
 <p><span class="chinese">这些，就是新民主主义的全部国民经济。</span><span class="english">These constitute the whole of the new-democratic national economy.</span></p>

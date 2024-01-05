@@ -1,5 +1,7 @@
 # 生态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengtai.md)
+
 <p><span class="chinese">他是个乐观的生态旅游者。</span><span class="english">He is a optimistic ecotourist.</span></p>
 
 <p><span class="chinese">他们不尊重自然生态。</span><span class="english">They are disrespecting nature.</span></p>

@@ -1,5 +1,7 @@
 # upbeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upbeat.md)
+
 <p><span class="chinese">可以放一些乐观的音乐。</span><span class="english">Put some upbeat music on.</span></p>
 
 <p><span class="chinese">他也不总是这样乐观的。</span><span class="english">He wasn't always this upbeat.</span></p>

@@ -1,5 +1,7 @@
 # 仁厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renhou.md)
+
 <p><span class="chinese">我总是过得很快乐。我哥是那么仁厚。</span><span class="english">I am always very happy. My brother is so good.</span></p>
 
 <p><span class="chinese">这个皇帝对他的子民总是十分仁厚。</span><span class="english">The emperor can always treat his people with great charity.</span></p>

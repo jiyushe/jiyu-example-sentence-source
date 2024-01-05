@@ -1,5 +1,7 @@
 # 掩耳盗铃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanerdaoling.md)
+
 <p><span class="chinese">纵然我可以掩耳盗铃的以为自己拥有了一切。</span><span class="english">So I can make believe I have everything.</span></p>
 
 <p><span class="chinese">不止一次地尝试过、欲导演一场掩耳盗铃地救赎。</span><span class="english">More than once tried, for directing a ears to salvation.</span></p>

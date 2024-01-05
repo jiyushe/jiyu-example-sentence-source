@@ -1,5 +1,7 @@
 # sunbath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunbath.md)
+
 <p><span class="chinese">我要好好享受一次日光浴。</span><span class="english">I'll treat myself to a sunbath.</span></p>
 
 <p><span class="chinese">我要好好享受一下日光浴。</span><span class="english">I will treat myself to a sunbath.</span></p>

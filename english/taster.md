@@ -1,5 +1,7 @@
 # taster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taster.md)
+
 <p><span class="chinese">一个雪糕品酒师怎么样?。</span><span class="english">How about an ice-Cream taster?</span></p>
 
 <p><span class="chinese">但油的魅力却是由品尝师的口味决定的。</span><span class="english">But oil appeal is on the palate of the taster.</span></p>

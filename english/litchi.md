@@ -1,5 +1,7 @@
 # litchi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litchi.md)
+
 <p><span class="chinese">吃荔枝过敏了，怎么办?。</span><span class="english">Take litchi allergy, how to do?</span></p>
 
 <p><span class="chinese">吃鲜荔枝蜜，倒是时候。</span><span class="english">It was the best time for litchi honey though.</span></p>

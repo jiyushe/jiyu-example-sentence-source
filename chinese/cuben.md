@@ -1,5 +1,7 @@
 # 粗笨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuben.md)
+
 <p><span class="chinese">他只不过是个粗笨的大汉。</span><span class="english">He is nothing but an ape.</span></p>
 
 <p><span class="chinese">杰克的一双手很粗笨。</span><span class="english">Jack is clumsy with his hands.</span></p>

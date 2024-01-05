@@ -1,5 +1,7 @@
 # 一半
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiban.md)
+
 <p><span class="chinese">我们要拿走一半。</span><span class="english">We'll take half.</span></p>
 
 <p><span class="chinese">四的一半是二。</span><span class="english">Half of four is two.</span></p>

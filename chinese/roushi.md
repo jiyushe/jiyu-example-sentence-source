@@ -1,5 +1,7 @@
 # 肉食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roushi.md)
+
 <p><span class="chinese">我的面包和肉食都很香。</span><span class="english">His bread and meat are sweet.</span></p>
 
 <p><span class="chinese">棘背龙是肉食动物。</span><span class="english">Spinosaurus was a meat eater.</span></p>

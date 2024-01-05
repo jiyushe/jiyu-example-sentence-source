@@ -1,5 +1,7 @@
 # 仔猪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizhu.md)
+
 <p><span class="chinese">犊牛，羔羊，仔猪和马驹。</span><span class="english">Calf, Lamb, Piglet and Foal.</span></p>
 
 <p><span class="chinese">本试验表明弱毒疫苗对仔猪是安全的。</span><span class="english">We conclude the MLV is safe for piglets.</span></p>

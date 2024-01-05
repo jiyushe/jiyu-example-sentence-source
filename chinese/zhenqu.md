@@ -1,5 +1,7 @@
 # 震区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenqu.md)
+
 <p><span class="chinese">未来两天震区的雨天气预报。</span><span class="english">Rain forecast for quake-hit areas on next 2 days.</span></p>
 
 <p><span class="chinese">但是，震区很显然存在着紧张气氛。</span><span class="english">But there were obvious tensions in the earthquake zone.</span></p>

@@ -1,5 +1,7 @@
 # 虾仁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaren_1.md)
+
 <p><span class="chinese">虾仁色拉也是我们特色菜。</span><span class="english">Salad is our special, too.</span></p>
 
 <p><span class="chinese">我们有鸡肉饭和虾仁饭。</span><span class="english">We serve chicken and shrimp.</span></p>

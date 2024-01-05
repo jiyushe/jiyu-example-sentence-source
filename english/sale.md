@@ -1,5 +1,7 @@
 # sale 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sale.md)
+
 <p><span class="chinese">有一台缝纫机廉价求售。</span><span class="english">sale cheap.</span></p>
 
 <p><span class="chinese">是春季大甩卖的货。</span><span class="english">Spring sale.</span></p>

@@ -1,5 +1,7 @@
 # tenfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenfold.md)
+
 <p><span class="chinese">那风比北极的烈风千倍狂暴。</span><span class="english">By the tenfold blasts of the Arctic zone.</span></p>
 
 <p><span class="chinese">在过去一百二十年中，人口已膨胀了十倍。</span><span class="english">In the past 120 years the population has increased tenfold.</span></p>

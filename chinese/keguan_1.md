@@ -1,5 +1,7 @@
 # 客观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keguan_1.md)
+
 <p><span class="chinese">科学是论述客观事实的。</span><span class="english">Science deals with facts.</span></p>
 
 <p><span class="chinese">我也喜欢客观式测验题。</span><span class="english">I like objective tests, too.</span></p>

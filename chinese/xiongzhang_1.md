@@ -1,5 +1,7 @@
 # 熊掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongzhang_1.md)
+
 <p><span class="chinese">舍鱼而取熊掌者也。</span><span class="english">I prefer bear's paw to fish.</span></p>
 
 <p><span class="chinese">鱼和熊掌，两个都得要。</span><span class="english">Fish and bears paw, both must.</span></p>

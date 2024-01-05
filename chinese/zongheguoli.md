@@ -1,5 +1,7 @@
 # 综合国力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongheguoli.md)
+
 <p><span class="chinese">而今的中国，综合国力显著增强，人民生活总体上达到小康水平。</span><span class="english">China's national strength has grown remarkably and the people are better off.</span></p>
 
 <p><span class="chinese">——这五年，我国社会生产力、综合国力显著提高。</span><span class="english">The country’s productive forces and overall national strength improved significantly.</span></p>

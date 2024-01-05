@@ -1,5 +1,7 @@
 # 配合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peihe.md)
+
 <p><span class="chinese">色彩配合得很好。</span><span class="english">The colours match well.</span></p>
 
 <p><span class="chinese">折叠式配合关闭。</span><span class="english">Fold-up with tie closure.</span></p>

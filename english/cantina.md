@@ -1,5 +1,7 @@
 # cantina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cantina.md)
+
 <p><span class="chinese">现代化的设施包括一冰和其他用品坎蒂纳。</span><span class="english">The modern amenities include a cantina with ice and other supplies.</span></p>
 
 <p><span class="chinese">在英格兰拍摄的小酒馆镜头里，巴巴拥有像鳍一样的大手。</span><span class="english">In the cantina sequences filmed in England, Baba has large fin-like hands.</span></p>

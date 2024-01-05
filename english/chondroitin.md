@@ -1,5 +1,7 @@
 # chondroitin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chondroitin.md)
+
 <p><span class="chinese">本文对现已发现的细菌软骨素合酶系统作一综述。</span><span class="english">This review brie? y introduces the bacterial chondroitin synthase.</span></p>
 
 <p><span class="chinese">钼援助在氨基葡萄糖和软骨素完全新陈代谢。</span><span class="english">Molybdenum aids in the complete metabolism of glucosamine and chondroitin.</span></p>

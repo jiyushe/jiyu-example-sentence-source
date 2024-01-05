@@ -1,5 +1,7 @@
 # 两栖动物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangqidongwu.md)
+
 <p><span class="chinese">青蛙和蝾螈都是两栖动物。</span><span class="english">Frogs and newts are amphibians.</span></p>
 
 <p><span class="chinese">我们现在开始研究两栖动物。</span><span class="english">"We're working on amphibians now, " says Sinervo.</span></p>

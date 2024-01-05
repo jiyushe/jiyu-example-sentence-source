@@ -1,5 +1,7 @@
 # fram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fram.md)
+
 <p><span class="chinese">你在我的农场做什么？</span><span class="english">What are you doing in my fram?</span></p>
 
 <p><span class="chinese">如果出现这种情况，框架就成为无用的了。</span><span class="english">If this situation should occur, the fram would become unusable.</span></p>

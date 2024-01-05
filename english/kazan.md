@@ -1,5 +1,7 @@
 # kazan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kazan.md)
+
 <p><span class="chinese">靠近喀山城了。</span><span class="english">Approaching the city of Kazan.</span></p>
 
 <p><span class="chinese">在喀山宾馆的屋顶。</span><span class="english">Standing on the roof of the Kazan Hotel.</span></p>

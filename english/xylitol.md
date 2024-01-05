@@ -1,5 +1,7 @@
 # xylitol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xylitol.md)
+
 <p><span class="chinese">木糖醇广泛用于英国销售的无糖产品。</span><span class="english">Xylitol is widely-used in sugar-free products sold in the UK.</span></p>
 
 <p><span class="chinese">对用玉米芯水解液发酵木糖醇进行了研究。</span><span class="english">The fermentation of corncob hydrolysate to xylitol was studied.</span></p>

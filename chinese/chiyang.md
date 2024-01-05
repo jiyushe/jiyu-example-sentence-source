@@ -1,5 +1,7 @@
 # 赤杨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiyang.md)
+
 <p><span class="chinese">下午过一座森林，黑橡与赤杨。</span><span class="english">At two a forest of oak and birch.</span></p>
 
 <p><span class="chinese">赤杨属于桦木科。</span><span class="english">Alder trees belong to the birch family.</span></p>

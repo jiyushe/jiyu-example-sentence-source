@@ -1,5 +1,7 @@
 # 惟一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyi_3.md)
+
 <p><span class="chinese">安伯是惟一真实的世界。</span><span class="english">Amber is the one , true world.</span></p>
 
 <p><span class="chinese">其它工具对OER是惟一的。</span><span class="english">Other tools are unique to OER.</span></p>

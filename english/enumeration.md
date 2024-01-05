@@ -1,5 +1,7 @@
 # enumeration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enumeration.md)
+
 <p><span class="chinese">最后一个方法是反向枚举。</span><span class="english">The final method is inverted enumeration.</span></p>
 
 <p><span class="chinese">枚举是下令证件号码。</span><span class="english">The enumeration is ordered by document number.</span></p>

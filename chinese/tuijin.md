@@ -1,5 +1,7 @@
 # 推进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuijin.md)
+
 <p><span class="chinese">他被强行推进一辆车里。</span><span class="english">He was thrust into a car.</span></p>
 
 <p><span class="chinese">部队正在向前推进。</span><span class="english">The troops were advancing.</span></p>

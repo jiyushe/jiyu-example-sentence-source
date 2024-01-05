@@ -1,5 +1,7 @@
 # inversely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inversely.md)
+
 <p><span class="chinese">债券收益率与价格走势成反比。</span><span class="english">Bond yields move inversely to prices.</span></p>
 
 <p><span class="chinese">他们一般都是成反比的。</span><span class="english">They are usually inversely proportional.</span></p>

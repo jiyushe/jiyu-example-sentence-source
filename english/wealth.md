@@ -1,5 +1,7 @@
 # wealth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wealth.md)
+
 <p><span class="chinese">什么是财富？</span><span class="english">What is wealth?</span></p>
 
 <p><span class="chinese">关于多到令人嫉妒的财富。</span><span class="english">ON ENVYING WEALTH.</span></p>

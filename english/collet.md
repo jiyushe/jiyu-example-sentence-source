@@ -1,5 +1,7 @@
 # collet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collet.md)
+
 <p><span class="chinese">隐藏式筒夹组合。</span><span class="english">Built-in collet holder set.</span></p>
 
 <p><span class="chinese">反向旋转夹头轴。</span><span class="english">Counter rotating collet spindles.</span></p>

@@ -1,5 +1,7 @@
 # uniform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uniform.md)
+
 <p><span class="chinese">他穿制服。</span><span class="english">He wears a  uniform.</span></p>
 
 <p><span class="chinese">看一眼那个穿制服的家伙。</span><span class="english">Lamp that guy in uniform.</span></p>

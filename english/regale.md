@@ -1,5 +1,7 @@
 # regale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regale.md)
+
 <p><span class="chinese">这是一次思想的盛宴。</span><span class="english">This is the regale of the thought.</span></p>
 
 <p><span class="chinese">他们将以盛宴款待宾客。</span><span class="english">They will regale the guests with a feast.</span></p>

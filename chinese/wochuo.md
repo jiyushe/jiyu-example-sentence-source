@@ -1,5 +1,7 @@
 # 龌龊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wochuo.md)
+
 <p><span class="chinese">这真是龌龊。</span><span class="english">This is ugly.</span></p>
 
 <p><span class="chinese">骗子队丢了身价打球龌龊。</span><span class="english">Fakers lose their class and play dirty.</span></p>

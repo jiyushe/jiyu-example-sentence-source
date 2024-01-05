@@ -1,5 +1,7 @@
 # reassure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reassure.md)
+
 <p><span class="chinese">为了让她安心，你可以说，</span><span class="english">To reassure her, you can say,</span></p>
 
 <p><span class="chinese">那并非让每个人都放心。</span><span class="english">That will not reassure everyone.</span></p>

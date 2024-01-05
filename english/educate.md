@@ -1,5 +1,7 @@
 # educate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/educate.md)
+
 <p><span class="chinese">培养您的团队。</span><span class="english">Educate your team.</span></p>
 
 <p><span class="chinese">带着爱教育他们。</span><span class="english">Educate the child in love.</span></p>

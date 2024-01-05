@@ -1,5 +1,7 @@
 # 战祸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanhuo_1.md)
+
 <p><span class="chinese">战祸之后，生活艰苦多了。</span><span class="english">Life was much harder in the aftermath of the war.</span></p>
 
 <p><span class="chinese">由于采取了一系列出人意料的果敢措施，这个国家幸免于战祸。</span><span class="english">By a series of bold strokes, the country was saved from war.</span></p>

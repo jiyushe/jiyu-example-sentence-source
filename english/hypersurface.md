@@ -1,5 +1,7 @@
 # hypersurface
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypersurface.md)
+
 <p><span class="chinese">利用超曲面排列的方法探讨了前馈神经网络的VC维。</span><span class="english">Discussing the VC dimension of neural network with the hypersurface arrangement.</span></p>
 
 <p><span class="chinese">我们的结果推广了同样条件下M是极小超曲面的情形。</span><span class="english">Our result extends the case when M is a minimal hypersurface in the same condition.</span></p>

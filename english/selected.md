@@ -1,5 +1,7 @@
 # selected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selected.md)
+
 <p><span class="chinese">他们是怎样被甄选出来的？</span><span class="english">How were they selected?</span></p>
 
 <p><span class="chinese">以精选的铁材制成。</span><span class="english">Made of selected steel.</span></p>

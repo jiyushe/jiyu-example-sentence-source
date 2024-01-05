@@ -1,5 +1,7 @@
 # mithril
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mithril.md)
+
 <p><span class="chinese">他是秘银大厅的牧师。</span><span class="english">He is the dwarf cleric of Mithril Hall.</span></p>
 
 <p><span class="chinese">秘银的特工压低身子，严肃地凝视着这个6个月大的孩子。</span><span class="english">Crouching low, the Mithril agent leveled the six-month-old a serious stare.</span></p>

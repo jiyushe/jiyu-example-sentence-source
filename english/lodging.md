@@ -1,5 +1,7 @@
 # lodging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lodging.md)
+
 <p><span class="chinese">你今晚有借宿的地方吗?。</span><span class="english">Do you have lodging for tonight?</span></p>
 
 <p><span class="chinese">您是否能让我借住一晚呢？</span><span class="english">Will you give me a night's lodging?</span></p>

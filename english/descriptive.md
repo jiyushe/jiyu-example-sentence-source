@@ -1,5 +1,7 @@
 # descriptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/descriptive.md)
+
 <p><span class="chinese">侏儒是一个爱描述的种族。</span><span class="english">Gnomes are a very descriptive race.</span></p>
 
 <p><span class="chinese">描述性的生态学是干燥无味的课题。</span><span class="english">Descriptive ecology is a dry subject.</span></p>

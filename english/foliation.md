@@ -1,5 +1,7 @@
 # foliation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foliation.md)
+
 <p><span class="chinese">叶理特别发育。</span><span class="english">Foliation is particularly pronounced.</span></p>
 
 <p><span class="chinese">我们垂直这些片理化岩石的走向穿越一段并作详细观察。</span><span class="english">Let us keep walking perpendicular to the trend of foliation to get more details.</span></p>

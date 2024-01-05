@@ -1,5 +1,7 @@
 # 恣意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyi_1.md)
+
 <p><span class="chinese">做庄恣意杀闲家。</span><span class="english">Do wild zhuang kill sent home.</span></p>
 
 <p><span class="chinese">毁坏这幅画的事是恣意破坏公物的人干的。</span><span class="english">The damage to the painting is the work of vandals.</span></p>

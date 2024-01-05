@@ -1,5 +1,7 @@
 # 苦尽甘来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kujinganlai.md)
+
 <p><span class="chinese">爱一个人，是苦尽甘来的。</span><span class="english">Love a person, is the sunshine.</span></p>
 
 <p><span class="chinese">常常是苦尽甘来。</span><span class="english">Sweet are the uses of adversity.</span></p>

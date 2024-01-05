@@ -1,5 +1,7 @@
 # troll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/troll.md)
+
 <p><span class="chinese">我问道印度阿三的味道了。</span><span class="english">I smell a Hindu troll.</span></p>
 
 <p><span class="chinese">我跑去找山怪了。</span><span class="english">I went looking for the troll.</span></p>

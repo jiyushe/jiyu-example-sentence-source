@@ -1,5 +1,7 @@
 # 词缀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cizhui.md)
+
 <p><span class="chinese">词缀使用其中的一个曲柄臂固定螺栓。</span><span class="english">Affix using one of the crank arm fixing bolts.</span></p>
 
 <p><span class="chinese">形容词的词缀量大且多样。</span><span class="english">The affixes of adjectives are large and diverse.</span></p>

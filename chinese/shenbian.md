@@ -1,5 +1,7 @@
 # 身边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenbian.md)
+
 <p><span class="chinese">他从我身边一闪溜了过去。</span><span class="english">He dodged past me.</span></p>
 
 <p><span class="chinese">他从她身边闪身躲过。</span><span class="english">He dodged past her.</span></p>

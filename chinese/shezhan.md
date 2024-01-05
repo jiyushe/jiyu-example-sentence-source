@@ -1,5 +1,7 @@
 # 舌战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shezhan.md)
+
 <p><span class="chinese">可是，所谓的“舌战群儒”到底是怎么一回事呢？</span><span class="english">What is exactly the "verbal fight with scholars"?</span></p>
 
 <p><span class="chinese">并且电台和唱片公司双方正在法庭内唇枪舌战。</span><span class="english">The two sides are also doing battle in the courts.</span></p>

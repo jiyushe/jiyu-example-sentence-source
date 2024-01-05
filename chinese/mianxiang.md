@@ -1,5 +1,7 @@
 # 面向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianxiang.md)
+
 <p><span class="chinese">这个房间面向大海。</span><span class="english">This room faces seaward.</span></p>
 
 <p><span class="chinese">是一次面向未来之旅。</span><span class="english">A journey for the future.</span></p>

@@ -1,5 +1,7 @@
 # windbreaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windbreaker.md)
+
 <p><span class="chinese">这件风衣是他的吗？</span><span class="english">Is this windbreaker his?</span></p>
 
 <p><span class="chinese">我能试穿下那件风衣吗？</span><span class="english">I can try that windbreaker?</span></p>

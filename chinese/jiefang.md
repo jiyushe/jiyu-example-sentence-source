@@ -1,5 +1,7 @@
 # 街坊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiefang.md)
+
 <p><span class="chinese">我们这位街坊有时侯有一些糊涂。</span><span class="english">We lady Sometimes there are confused.</span></p>
 
 <p><span class="chinese">全新的邻里街坊涌现出来。</span><span class="english">Whole new neighbourhoods have emerged.</span></p>

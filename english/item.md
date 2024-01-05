@@ -1,5 +1,7 @@
 # item
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/item.md)
+
 <p><span class="chinese">我欢迎这个项目。</span><span class="english">I welcome this item.</span></p>
 
 <p><span class="chinese">第一项产品编号是2456。</span><span class="english">The first item is 2456.</span></p>

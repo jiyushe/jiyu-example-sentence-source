@@ -1,5 +1,7 @@
 # 时气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqi_2.md)
+
 <p><span class="chinese">她发现他欺骗时气得要命。</span><span class="english">She went bananas when she found him cheating.</span></p>
 
 <p><span class="chinese">在时气范围内、抢晴播种。</span><span class="english">When gas in the area, looting, sunny planting.</span></p>

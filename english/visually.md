@@ -1,5 +1,7 @@
 # visually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visually.md)
+
 <p><span class="chinese">目视检查所有密封件。</span><span class="english">Visually inspect all sealing element.</span></p>
 
 <p><span class="chinese">——来自视障摄影者的声音</span><span class="english">Voices of visually impaired photographers</span></p>

@@ -1,5 +1,7 @@
 # 试举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiju_2.md)
+
 <p><span class="chinese">试举美国一个领地。</span><span class="english">Name one U. S. territory.</span></p>
 
 <p><span class="chinese">让我试举数例。</span><span class="english">Let me give some examples.</span></p>

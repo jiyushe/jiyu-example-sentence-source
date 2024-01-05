@@ -1,5 +1,7 @@
 # 要闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaowen.md)
+
 <p><span class="chinese">我想要闻闻玫瑰的幽香。</span><span class="english">I want to smell the roses.</span></p>
 
 <p><span class="chinese">在生物实验室不要闻任何东西。</span><span class="english">Don't SMELL anything in a biology lab.</span></p>

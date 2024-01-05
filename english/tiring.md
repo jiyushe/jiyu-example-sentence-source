@@ -1,5 +1,7 @@
 # tiring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiring.md)
+
 <p><span class="chinese">这是很累人的工作。</span><span class="english">It is very tiring work.</span></p>
 
 <p><span class="chinese">感情是一种很累的事。</span><span class="english">Love is a tiring thing.</span></p>

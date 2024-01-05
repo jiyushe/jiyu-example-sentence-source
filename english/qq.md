@@ -1,5 +1,7 @@
 # qq
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qq.md)
+
 <p><span class="chinese">海珠区绣花QQ群？</span><span class="english">District embroidery QQ group?</span></p>
 
 <p><span class="chinese">怎么你还跑我QQ上来了吗？哈哈！</span><span class="english">QQ me how you run up it? Haha!</span></p>

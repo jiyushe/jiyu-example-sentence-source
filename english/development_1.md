@@ -1,5 +1,7 @@
 # development 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/development_1.md)
+
 <p><span class="chinese">基于资产的开发。</span><span class="english">Asset-based development.</span></p>
 
 <p><span class="chinese">开发新产品。</span><span class="english">New product development.</span></p>

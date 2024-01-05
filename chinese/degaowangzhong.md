@@ -1,5 +1,7 @@
 # 德高望重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/degaowangzhong.md)
+
 <p><span class="chinese">他是一个德高望重的人。</span><span class="english">He is a venerable old man.</span></p>
 
 <p><span class="chinese">但有些德高望重的专家却并不这样认为。</span><span class="english">Some respected experts disagree.</span></p>

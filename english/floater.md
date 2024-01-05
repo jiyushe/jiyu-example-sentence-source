@@ -1,5 +1,7 @@
 # floater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floater.md)
+
 <p><span class="chinese">你是一个新的浮子患者？</span><span class="english">Are you a new floater sufferer?</span></p>
 
 <p><span class="chinese">我把漂浮者加入在大的家伙上的小路。</span><span class="english">I added the floater in the lane over the big guys.</span></p>

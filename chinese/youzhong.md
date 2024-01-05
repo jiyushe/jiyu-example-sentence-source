@@ -1,5 +1,7 @@
 # 有种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhong.md)
+
 <p><span class="chinese">他从断头台上下来时，他的目光里有种东西使众人肃然退立。</span><span class="english">The scaffold is a vision.</span></p>
 
 <p><span class="chinese">有种希望太和绝望相似。</span><span class="english">One hope is too like despair.</span></p>

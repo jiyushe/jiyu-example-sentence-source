@@ -1,5 +1,7 @@
 # 可兰经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kelanjing.md)
+
 <p><span class="chinese">伊斯兰教的可兰经。</span><span class="english">That is it's the Qur'an for Islam.</span></p>
 
 <p><span class="chinese">圣经和可兰经都是宗教性著作。</span><span class="english">SACRED】The Bible and Koran are sacred writings.</span></p>

@@ -1,5 +1,7 @@
 # aus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aus.md)
+
 <p><span class="chinese">李先生来自上海。</span><span class="english">Herr Li ist aus Shanghai.</span></p>
 
 <p><span class="chinese">吴先生和夫人是中国人。</span><span class="english">Herr und Frau Wu kommen aus China.</span></p>

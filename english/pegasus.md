@@ -1,5 +1,7 @@
 # pegasus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pegasus.md)
+
 <p><span class="chinese">独角兽和飞马令人生畏的混血。</span><span class="english">Formidable hybrid of unicorn and Pegasus.</span></p>
 
 <p><span class="chinese">我没有理由反对神马号的探险。</span><span class="english">I got nothing against the Pegasus expedition.</span></p>

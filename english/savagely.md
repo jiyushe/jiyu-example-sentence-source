@@ -1,5 +1,7 @@
 # savagely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savagely.md)
+
 <p><span class="chinese">一些韩餐真的是太他妈好吃了。</span><span class="english">Some Korean dishes are savagely good.</span></p>
 
 <p><span class="chinese">摩尔斯先生把头摇的像波浪鼓。</span><span class="english">Mister Morehouse shook his head savagely.</span></p>

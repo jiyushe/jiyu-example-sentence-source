@@ -1,5 +1,7 @@
 # 前往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianwang.md)
+
 <p><span class="chinese">欣然前往你会不会？</span><span class="english">Would you even go?</span></p>
 
 <p><span class="chinese">艾前往早矢香的半身像。</span><span class="english">Ai going for Sayaka's bust.</span></p>

@@ -1,5 +1,7 @@
 # pst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pst.md)
+
 <p><span class="chinese">公民有参与科普活动的权利。</span><span class="english">Citizens have the right to participate in PST activities.</span></p>
 
 <p><span class="chinese">上周六八月到2015年的第一次，这种新模式将在全球12点PST亮相。</span><span class="english">On Saturday the 1st of August 2015, this new mode will be debuted worldwide at 12pm PST.</span></p>

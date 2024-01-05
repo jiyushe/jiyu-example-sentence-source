@@ -1,5 +1,7 @@
 # 曲子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quzi.md)
+
 <p><span class="chinese">和贝多芬的曲子用的一样多</span><span class="english">Same as in the Beethoven.</span></p>
 
 <p><span class="chinese">直到把曲子全学完。</span><span class="english">Till the tune's complete.</span></p>

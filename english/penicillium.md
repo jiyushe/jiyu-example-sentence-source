@@ -1,5 +1,7 @@
 # penicillium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penicillium.md)
+
 <p><span class="chinese">酿酒酵母被青霉菌固定。</span><span class="english">Saccharomyces cerevisiae was immobilized by Penicillium.</span></p>
 
 <p><span class="chinese">生成霉菌毒素的霉菌都属于青酶和曲霉。</span><span class="english">All toxigenic moulds belonged to Penicillium and Aspergillus.</span></p>

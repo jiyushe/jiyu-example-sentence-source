@@ -1,5 +1,7 @@
 # 页面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yemian.md)
+
 <p><span class="chinese">预览该页面。</span><span class="english">Preview the page.</span></p>
 
 <p><span class="chinese">固定的页面不能被调出。</span><span class="english">This cannot be paged out.</span></p>

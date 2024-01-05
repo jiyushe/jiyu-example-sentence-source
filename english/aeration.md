@@ -1,5 +1,7 @@
 # aeration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeration.md)
+
 <p><span class="chinese">格律耶尔干酪气孔多是由于通风所致。</span><span class="english">The holes in Gruyere are due to aeration.</span></p>
 
 <p><span class="chinese">这是为了避免因曝气而引起的飞沫传播。</span><span class="english">This is to avoid aeration caused by droplets.</span></p>

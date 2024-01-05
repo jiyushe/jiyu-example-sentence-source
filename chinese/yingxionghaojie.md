@@ -1,5 +1,7 @@
 # 英雄豪杰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingxionghaojie.md)
+
 <p><span class="chinese">黄河两岸诞生了无数的英雄豪杰。</span><span class="english">Numerous heroes lived on both sides of the Yellow River.</span></p>
 
 <p><span class="chinese">正因为这样我们中华民族才不断涌出无数的英雄豪杰。</span><span class="english">That is why our nation has continually pouring countless heroes.</span></p>

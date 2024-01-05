@@ -1,5 +1,7 @@
 # ms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ms.md)
+
 <p><span class="chinese">小野女士问。</span><span class="english">Ms. Ono asked.</span></p>
 
 <p><span class="chinese">她地名字叫李玲。</span><span class="english">Her name is ms.</span></p>

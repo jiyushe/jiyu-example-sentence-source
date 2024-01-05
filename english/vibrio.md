@@ -1,5 +1,7 @@
 # vibrio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibrio.md)
+
 <p><span class="chinese">经血液培养是海洋创伤弧菌感染。</span><span class="english">The blood culture showed vibrio vulnificus growth.</span></p>
 
 <p><span class="chinese">该病由霍乱弧菌引起。</span><span class="english">The disease is caused by the bacterium Vibrio cholerae.</span></p>

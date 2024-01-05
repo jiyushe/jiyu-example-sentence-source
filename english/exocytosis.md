@@ -1,5 +1,7 @@
 # exocytosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exocytosis.md)
+
 <p><span class="chinese">指跨细胞膜的大量物质向胞外的输送。</span><span class="english">Exocytosis The bulk transport of materials out of the cell across the plasma membrane.</span></p>
 
 <p><span class="chinese">突触囊泡通过胞吐和胞吞作用完成一次突触囊泡循环。</span><span class="english">Synaptic vesicles complete a of synaptic vesicles cycle by exocytosis and endocytosis.</span></p>

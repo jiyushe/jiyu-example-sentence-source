@@ -1,5 +1,7 @@
 # lightheaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lightheaded.md)
+
 <p><span class="chinese">我感到头晕。</span><span class="english">I feel lightheaded.</span></p>
 
 <p><span class="chinese">你可能感到头昏眼花。</span><span class="english">You might suddenly feel lightheaded.</span></p>

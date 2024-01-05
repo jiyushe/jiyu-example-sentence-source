@@ -1,5 +1,7 @@
 # alabama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alabama.md)
+
 <p><span class="chinese">凯莉梦珀家在阿拉巴马州郊区。</span><span class="english">Kelly Mumper lives in rural Alabama.</span></p>
 
 <p><span class="chinese">罢工是先从亚拉巴马州开始的。</span><span class="english">The strike first started in Alabama.</span></p>

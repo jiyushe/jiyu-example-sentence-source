@@ -1,5 +1,7 @@
 # ruffian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruffian.md)
+
 <p><span class="chinese">一个人曾经是痞子。</span><span class="english">A person once was a ruffian.</span></p>
 
 <p><span class="chinese">他同歹徒进行了搏斗。</span><span class="english">He struggled with the ruffian.</span></p>

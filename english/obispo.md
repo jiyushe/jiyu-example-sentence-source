@@ -1,5 +1,7 @@
 # obispo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obispo.md)
+
 <p><span class="chinese">我跑通勤到圣路易斯奥比斯波，两周一次。</span><span class="english">I commute to San Luis Obispo twice a week.</span></p>
 
 <p><span class="chinese">圣。路易思。欧比斯勃市有着全年温和的宜人气候。</span><span class="english">San luis obispo enjoys an outstanding moderate year-round climate.</span></p>

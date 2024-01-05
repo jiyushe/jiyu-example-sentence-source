@@ -1,5 +1,7 @@
 # 边缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianyuan.md)
+
 <p><span class="chinese">边缘最大化。</span><span class="english">Maximize the fringes.</span></p>
 
 <p><span class="chinese">右边缘之间的区域。</span><span class="english">Take a right-hand turn.</span></p>

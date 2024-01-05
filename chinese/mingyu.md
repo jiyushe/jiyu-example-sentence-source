@@ -1,5 +1,7 @@
 # 明喻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyu.md)
+
 <p><span class="chinese">身体的部份用明喻直接作最佳的对照。</span><span class="english">The body parts are best compared in similes.</span></p>
 
 <p><span class="chinese">这本书中使用了很多明喻。</span><span class="english">There are many dari ng similes in this book.</span></p>

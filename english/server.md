@@ -1,5 +1,7 @@
 # server
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/server.md)
+
 <p><span class="chinese">域名解析服务器?。</span><span class="english">Domain Name Server?</span></p>
 
 <p><span class="chinese">注册到的IAX服务器。</span><span class="english">Register to an IAX Server.</span></p>

@@ -1,5 +1,7 @@
 # 送往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songwang.md)
+
 <p><span class="chinese">鞋类慈善网站soles4souls.org则把鞋子送往受灾地区。</span><span class="english">Soles4souls.org is sending shoes.</span></p>
 
 <p><span class="chinese">这就是送往全俄罗斯的肉排！</span><span class="english">And here are the cutlets for all Russia!</span></p>

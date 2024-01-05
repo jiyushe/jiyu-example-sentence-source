@@ -1,5 +1,7 @@
 # 逼近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bijin.md)
+
 <p><span class="chinese">危险逼近他。</span><span class="english">Danger overhangs him.</span></p>
 
 <p><span class="chinese">现在我在逼近这个bug了。</span><span class="english">Now I'm really honing in.</span></p>

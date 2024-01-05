@@ -1,5 +1,7 @@
 # scheming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scheming.md)
+
 <p><span class="chinese">你是个耍阴谋诡计的小魔鬼，对不对？</span><span class="english">You're a scheming little devil, aren't you?</span></p>
 
 <p><span class="chinese">他们正策画让她当选领导。</span><span class="english">They are scheming to get her elected as leader.</span></p>

@@ -1,5 +1,7 @@
 # 宋朝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songchao.md)
+
 <p><span class="chinese">这幅画第一次描绘了宋朝首都汴梁百姓的日常生活，也显示了当时的经济繁荣。</span><span class="english">It shows the prosperity of economy at that time.</span></p>
 
 <p><span class="chinese">但宋朝忌讳玄字，因而改称真武。</span><span class="english">However, Hyun Song taboo words, which was renamed Zhenwu.</span></p>

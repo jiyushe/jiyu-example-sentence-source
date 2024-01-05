@@ -1,5 +1,7 @@
 # renascence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renascence.md)
+
 <p><span class="chinese">就让我在火中重生！</span><span class="english">Let me renascence in the fire!</span></p>
 
 <p><span class="chinese">去创造最后复活的奇迹。</span><span class="english">To create her last renascence.</span></p>

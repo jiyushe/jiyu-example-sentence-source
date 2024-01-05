@@ -1,5 +1,7 @@
 # costume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/costume.md)
+
 <p><span class="chinese">一个人进了家戏装店。</span><span class="english">A guy goes into a costume shop.</span></p>
 
 <p><span class="chinese">和服是日本的民族服装。</span><span class="english">Kimono is Japan's national costume.</span></p>

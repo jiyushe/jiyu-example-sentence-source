@@ -1,5 +1,7 @@
 # immobilize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immobilize.md)
+
 <p><span class="chinese">为什么畏惧使我无法移动？</span><span class="english">Why let fear immobilize me?</span></p>
 
 <p><span class="chinese">将狗狗固定住并立即去见兽医。</span><span class="english">Immobilize the dog and take them to a vet immediately.</span></p>

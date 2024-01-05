@@ -1,5 +1,7 @@
 # mucilage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mucilage.md)
+
 <p><span class="chinese">这个黏糊糊的物质被称为海洋黏液。</span><span class="english">This stringy mess is known as marine mucilage.</span></p>
 
 <p><span class="chinese">这样的群体经常被粘质所包围。</span><span class="english">Volvox. Such a colony is often surrounded by mucilage.</span></p>

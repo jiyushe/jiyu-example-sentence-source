@@ -1,5 +1,7 @@
 # ineffective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ineffective.md)
+
 <p><span class="chinese">接受筒仓营销并不奏效。</span><span class="english">Accepting that silo marketing is ineffective.</span></p>
 
 <p><span class="chinese">现今很多教育都是效果很差的。</span><span class="english">Much education today is monumentally ineffective.</span></p>

@@ -1,5 +1,7 @@
 # justice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/justice.md)
+
 <p><span class="chinese">我要的是正义。</span><span class="english">I want justice.</span></p>
 
 <p><span class="chinese">抑或是正义得到了伸张？</span><span class="english">Justice served?</span></p>

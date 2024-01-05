@@ -1,5 +1,7 @@
 # 一无所有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwusuoyou.md)
+
 <p><span class="chinese">那些孩子一无所有。</span><span class="english">These kids had nothing.</span></p>
 
 <p><span class="chinese">那张小办公桌上一无所有。</span><span class="english">The small desk was bare.</span></p>

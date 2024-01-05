@@ -1,5 +1,7 @@
 # thoreau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoreau.md)
+
 <p><span class="chinese">我的15个学生阅读爱默生、梭罗、赫胥黎的作品。</span><span class="english">My 15 students read Emerson, Thoreau and Henry.</span></p>
 
 <p><span class="chinese">梭罗提供了洞穿这些问题核心的洞见。</span><span class="english">Thoreau provides insight into the core of these issues.</span></p>

@@ -1,5 +1,7 @@
 # 粘连
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanlian.md)
+
 <p><span class="chinese">浆膜的炎症导致了粘连。</span><span class="english">Serosal inflammation leads to adhesions.</span></p>
 
 <p><span class="chinese">你去做通液吧，如果没有粘连就最好了。</span><span class="english">You do it, if there is no adhesion on the best.</span></p>

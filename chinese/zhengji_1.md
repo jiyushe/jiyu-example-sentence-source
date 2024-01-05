@@ -1,5 +1,7 @@
 # 政绩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengji_1.md)
+
 <p><span class="chinese">他把我们的事情当成了他的国事和政绩。</span><span class="english">He put our love as the affairs of his state.</span></p>
 
 <p><span class="chinese">吉利根当州长四年，政绩斐然。</span><span class="english">The Gilligan record in four years as governor was exemplary.</span></p>

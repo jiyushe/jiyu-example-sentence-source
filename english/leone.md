@@ -1,5 +1,7 @@
 # leone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leone.md)
+
 <p><span class="chinese">阳光明媚的里昂在她的迷你裙！猫叫！</span><span class="english">Sunny Leone in her mini skirt! Miaow!</span></p>
 
 <p><span class="chinese">我到塞拉利昂来有两个理由。</span><span class="english">I came to Sierra Leone for two reasons.</span></p>

@@ -1,5 +1,7 @@
 # ricky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ricky.md)
+
 <p><span class="chinese">什么，瑞奇马丁是基友？</span><span class="english">What? Ricky Martin's gay.</span></p>
 
 <p><span class="chinese">给我来一杯玫瑰花水里奇。</span><span class="english">I'll have a Rosewater Ricky.</span></p>

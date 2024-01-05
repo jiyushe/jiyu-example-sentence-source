@@ -1,5 +1,7 @@
 # 换汤不换药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huantangbuhuanyao.md)
+
 <p><span class="chinese">现在的这个是换汤不换药的“死亡旅行”。</span><span class="english">This is "death-travel" in a different guise!</span></p>
 
 <p><span class="chinese">不过换汤不换药，此方案用词新鲜，但无改变美国的核心策略。</span><span class="english">The language was new, but it was not a major change in American policy.</span></p>

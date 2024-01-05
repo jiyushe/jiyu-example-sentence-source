@@ -1,5 +1,7 @@
 # 内疚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neijiu.md)
+
 <p><span class="chinese">他们表现出内疚了吗？</span><span class="english">Did they behave guiltily?</span></p>
 
 <p><span class="chinese">他因内疚而感到痛苦。</span><span class="english">He was tortured by guilt.</span></p>

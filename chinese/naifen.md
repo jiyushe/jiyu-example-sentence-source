@@ -1,5 +1,7 @@
 # 奶粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naifen.md)
+
 <p><span class="chinese">牛奶或奶粉冲剂1杯。</span><span class="english">Milk or milk powder granule 1 cup.</span></p>
 
 <p><span class="chinese">任何奶粉都不会比母奶好。</span><span class="english">No powder is as good as mother's milk.</span></p>

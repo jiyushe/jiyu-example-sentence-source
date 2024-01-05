@@ -1,5 +1,7 @@
 # comma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comma.md)
+
 <p><span class="chinese">逗号检查。</span><span class="english">Comma check.</span></p>
 
 <p><span class="chinese">使用逗号的断行。</span><span class="english">Use comma for a line break.</span></p>

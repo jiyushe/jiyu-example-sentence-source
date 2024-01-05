@@ -1,5 +1,7 @@
 # whiteout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiteout.md)
+
 <p><span class="chinese">在一个灵感下，立可白被发明了。</span><span class="english">With a stroke of genius, whiteout was invented.</span></p>
 
 <p><span class="chinese">我无法想象没有男朋友我该怎么办?。</span><span class="english">I just can not think what I will do whiteout my BF?</span></p>

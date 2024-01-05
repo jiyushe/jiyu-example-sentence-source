@@ -1,5 +1,7 @@
 # 文理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenli.md)
+
 <p><span class="chinese">文章写得文理不通。</span><span class="english">The essay is ungrammatical and incoherent.</span></p>
 
 <p><span class="chinese">没门，你给凯文理发的时候，差点给他理成了秃子。</span><span class="english">No way, Jose! You almost made Kevin bald when you did his hair.</span></p>

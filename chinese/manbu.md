@@ -1,5 +1,7 @@
 # 慢步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manbu.md)
+
 <p><span class="chinese">乐队奏起慢步舞曲。</span><span class="english">The band played a slow dance.</span></p>
 
 <p><span class="chinese">我喜欢这种慢步的调子。</span><span class="english">I love this ode to slow-moving.</span></p>

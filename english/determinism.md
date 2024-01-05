@@ -1,5 +1,7 @@
 # determinism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determinism.md)
+
 <p><span class="chinese">人不能既服从决定论又有自由意志</span><span class="english">You can't have determinism and free will.</span></p>
 
 <p><span class="chinese">这就是决定论的含义</span><span class="english">Well, that's what determinism is all about.</span></p>

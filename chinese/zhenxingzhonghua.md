@@ -1,5 +1,7 @@
 # 振兴中华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenxingzhonghua.md)
+
 <p><span class="chinese">实现振兴中华的伟大理想。</span><span class="english">Realize the lofty ideal of national rejuvenation.</span></p>
 
 <p><span class="chinese">爱国主义和振兴中华，构成其统一思想实践的内核与实质。</span><span class="english">Patriotism and summoning up China constitute the core of his thoughts on unification.</span></p>

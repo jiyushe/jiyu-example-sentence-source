@@ -1,5 +1,7 @@
 # hyperplane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperplane.md)
+
 <p><span class="chinese">如何确定方向LIBLINEAR分离超平面的吗?。</span><span class="english">How to determine orientation of the separating hyperplane in LIBLINEAR?</span></p>
 
 <p><span class="chinese">显像管的发明是又一次技术革新。</span><span class="english">The invention of hyperplane kinescopes is another technical innovation.</span></p>

@@ -1,5 +1,7 @@
 # cryotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryotherapy.md)
+
 <p><span class="chinese">然而，并非所有的卫生机构都配有冷冻疗法设备。</span><span class="english">However, not all health facilities have cryotherapy equipment.</span></p>
 
 <p><span class="chinese">低温疗法是植物低温贮藏技术的新应用。</span><span class="english">Cryotherapy is a novel application of plant cryopreservation techniques.</span></p>

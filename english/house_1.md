@@ -1,5 +1,7 @@
 # house 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/house_1.md)
+
 <p><span class="chinese">一所真正的大屋。</span><span class="english">A real house.</span></p>
 
 <p><span class="chinese">回屋去么？</span><span class="english">To the house?</span></p>

@@ -1,5 +1,7 @@
 # 掩埋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmai.md)
+
 <p><span class="chinese">但我不会把它们掩埋起来”。</span><span class="english">But I did not bury it.</span></p>
 
 <p><span class="chinese">将我们的名字掩埋。</span><span class="english">And covered up ----- our names.</span></p>

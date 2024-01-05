@@ -1,5 +1,7 @@
 # sinusitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinusitis.md)
+
 <p><span class="chinese">您得了鼻窦炎。</span><span class="english">You have sinusitis.</span></p>
 
 <p><span class="chinese">例如，鼻窦炎伴发哮喘是很常见的。</span><span class="english">For example, sinusitis with asthma is common.</span></p>

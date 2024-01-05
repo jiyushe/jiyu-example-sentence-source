@@ -1,5 +1,7 @@
 # briefly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/briefly.md)
+
 <p><span class="chinese">他约略谈到了那件事。</span><span class="english">He adverted briefly to that.</span></p>
 
 <p><span class="chinese">济慈所作之诗虽简洁却不失为壮丽。</span><span class="english">Keats sang briefly but gloriously.</span></p>

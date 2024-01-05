@@ -1,5 +1,7 @@
 # annoying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annoying.md)
+
 <p><span class="chinese">你能不能不要烦我！</span><span class="english">Will you stop annoying me?</span></p>
 
 <p><span class="chinese">噪音烦死人了.</span><span class="english">The noise is very annoying.</span></p>

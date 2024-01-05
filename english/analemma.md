@@ -1,5 +1,7 @@
 # analemma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analemma.md)
+
 <p><span class="chinese">而在火星上，这个8字曲线会更像一滴泪珠。</span><span class="english">On Mars, meanwhile, the analemma would look more like a teardrop.</span></p>
 
 <p><span class="chinese">关于投影几何，他带来的有椭圆投影、球极投影、平行正投影和透视法等。</span><span class="english">What he introduced included oval projection, stereographic projection, analemma and scenography etc.</span></p>

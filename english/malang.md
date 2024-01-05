@@ -1,5 +1,7 @@
 # malang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malang.md)
+
 <p><span class="chinese">遇害的小鸟变成桃树，将真相告诉了马郎。</span><span class="english">The dead bird changed into a peach and told the truth to Malang.</span></p>
 
 <p><span class="chinese">玛琅就坐落在拉豪尔谷地，是印度最边缘和最闭塞的角落之一。</span><span class="english">Malang sits in the Lahaul Valley, one of India’s most remote and isolated corners.</span></p>

@@ -1,5 +1,7 @@
 # 中庸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyong.md)
+
 <p><span class="chinese">能把中庸人士剔除团队吗？</span><span class="english">Can we cut out the middle-man?</span></p>
 
 <p><span class="chinese">中庸和咕咕钟“</span><span class="english">Mediocrity, the cuckoo clock."</span></p>

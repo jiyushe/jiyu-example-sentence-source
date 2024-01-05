@@ -1,5 +1,7 @@
 # 分赃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzang.md)
+
 <p><span class="chinese">强盗分赃。</span><span class="english">The thieves divvied up the loot.</span></p>
 
 <p><span class="chinese">小偷们分赃。</span><span class="english">The thieves divvied up the spoils.</span></p>

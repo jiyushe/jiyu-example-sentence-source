@@ -1,5 +1,7 @@
 # 品头论足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pintoulunzu.md)
+
 <p><span class="chinese">对身边人品头论足，是我们的天性使然。</span><span class="english">It is in our nature to judge the people around us.</span></p>
 
 <p><span class="chinese">一旦人们开始谈论他们自己，就不会去对你品头论足了。</span><span class="english">Once people start talking about themselves, they don't judge you.</span></p>

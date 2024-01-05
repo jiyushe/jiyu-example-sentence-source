@@ -1,5 +1,7 @@
 # 喜酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijiu.md)
+
 <p><span class="chinese">他吃喜酒去了。</span><span class="english">He went to a wedding feast.</span></p>
 
 <p><span class="chinese">我保您中前三名，你要患上中之后，我喝您的喜酒。</span><span class="english">I protect your list, you get three after, I drink in the pub you.</span></p>

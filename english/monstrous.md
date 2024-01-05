@@ -1,5 +1,7 @@
 # monstrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monstrous.md)
+
 <p><span class="chinese">滔天巨浪的激增高。</span><span class="english">The monstrous billows surge up high.</span></p>
 
 <p><span class="chinese">这种可怕的想法是不值一驳。</span><span class="english">Such a monstrous idea is not worth refuting.</span></p>

@@ -1,5 +1,7 @@
 # 赤芍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chishao.md)
+
 <p><span class="chinese">探索有效鉴别出中药赤芍饮片中地榆混伪品的方法。</span><span class="english">To effectively identify fake burner in red peony medicinal slices.</span></p>
 
 <p><span class="chinese">探索有效鉴别出中药赤芍饮片中地榆混伪品的方法。</span><span class="english">To effectively identify fake burnet in red peony medicinal slices.</span></p>

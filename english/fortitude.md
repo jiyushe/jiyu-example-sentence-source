@@ -1,5 +1,7 @@
 # fortitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortitude.md)
+
 <p><span class="chinese">坚韧不拔有别于勇猛。</span><span class="english">Fortitude is distinct from valour.</span></p>
 
 <p><span class="chinese">李顺信将军的性格坚毅。</span><span class="english">General Lishunxin's character is fortitude.</span></p>

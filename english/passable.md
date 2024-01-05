@@ -1,5 +1,7 @@
 # passable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passable.md)
+
 <p><span class="chinese">你是个差强人意的吉他手吗？</span><span class="english">Are you a passable guitar player?</span></p>
 
 <p><span class="chinese">她的英语发音还说得过去。</span><span class="english">Her English pronunciation is passable.</span></p>

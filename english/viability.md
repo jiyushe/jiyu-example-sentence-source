@@ -1,5 +1,7 @@
 # viability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viability.md)
+
 <p><span class="chinese">检查合同的有效期限。</span><span class="english">Check viability of Sales Contracts.</span></p>
 
 <p><span class="chinese">它估计了项目的基本生存能力。</span><span class="english">It evaluates the basic viability of the project.</span></p>

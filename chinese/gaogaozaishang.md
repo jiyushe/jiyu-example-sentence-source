@@ -1,5 +1,7 @@
 # 高高在上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaogaozaishang.md)
+
 <p><span class="chinese">高高在上和散那。</span><span class="english">Hosanna in the highest.</span></p>
 
 <p><span class="chinese">他看人的眼神还是那种高高在上的神态。</span><span class="english">His stare is one of regal aloofness.</span></p>

@@ -1,5 +1,7 @@
 # 作呕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoou.md)
+
 <p><span class="chinese">你哋令我作呕。</span><span class="english">U make me sick.</span></p>
 
 <p><span class="chinese">他的行为令我作呕。</span><span class="english">His behavior made me sick.</span></p>

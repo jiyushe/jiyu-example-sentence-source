@@ -1,5 +1,7 @@
 # 秃头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tutou.md)
+
 <p><span class="chinese">他是个长得像猪一样的秃头老男人。</span><span class="english">He is a bald porcine old man.</span></p>
 
 <p><span class="chinese">斯内德和罗本都是秃头么？</span><span class="english">Sineide and Luo Ben be a baldhead?</span></p>

@@ -1,5 +1,7 @@
 # 略略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvelve.md)
+
 <p><span class="chinese">我略略点一点头。</span><span class="english">I nodded.</span></p>
 
 <p><span class="chinese">关于那个问题他只略略说了几句。</span><span class="english">He touched only briefly on that question.</span></p>

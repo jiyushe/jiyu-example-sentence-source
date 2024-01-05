@@ -1,5 +1,7 @@
 # 曾孙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengsun.md)
+
 <p><span class="chinese">我是他们的曾孙子女。</span><span class="english">I'm their great-grandson.</span></p>
 
 <p><span class="chinese">有一年，他带着一个曾孙来。</span><span class="english">One year he came with a great-grandchild.</span></p>

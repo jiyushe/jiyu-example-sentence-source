@@ -1,5 +1,7 @@
 # classless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classless.md)
+
 <p><span class="chinese">英国能否有朝一日成为一个无阶级社会?。</span><span class="english">Can Britain ever be a classless society?</span></p>
 
 <p><span class="chinese">美国被认为一个没有阶级的社会。</span><span class="english">The USA is reputed to be a classless society.</span></p>

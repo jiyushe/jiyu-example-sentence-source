@@ -1,5 +1,7 @@
 # 贤能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianneng.md)
+
 <p><span class="chinese">全球范围内的贤能主义是许多人的梦想和追求。</span><span class="english">A global meritocracy is in all our interests.</span></p>
 
 <p><span class="chinese">奥巴马承认，政客不会由于参加这种活动而变得更加贤能。</span><span class="english">Obama concedes that politicians do not suddenly become more virtuous by attending.</span></p>

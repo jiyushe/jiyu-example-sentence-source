@@ -1,5 +1,7 @@
 # 玩忽职守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanhuzhishou.md)
+
 <p><span class="chinese">她的玩忽职守是无法掩饰的。</span><span class="english">Nothing can extenuate her negligence.</span></p>
 
 <p><span class="chinese">他因玩忽职守而被解雇了。</span><span class="english">He was dismissed for neglect of his duty.</span></p>

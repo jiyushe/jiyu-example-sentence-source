@@ -1,5 +1,7 @@
 # 肿胀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhang.md)
+
 <p><span class="chinese">右腰大肌肿胀。</span><span class="english">Swelling of the right psoas.</span></p>
 
 <p><span class="chinese">尸体开始肿胀了。</span><span class="english">The carcass started to bloat.</span></p>

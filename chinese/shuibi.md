@@ -1,5 +1,7 @@
 # 水笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuibi.md)
+
 <p><span class="chinese">对着水笔傻笑。</span><span class="english">Laugh at the pencil.</span></p>
 
 <p><span class="chinese">请用墨水笔填写这张表。</span><span class="english">Please fill this form in ink.</span></p>

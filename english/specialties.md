@@ -1,5 +1,7 @@
 # specialties
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specialties.md)
+
 <p><span class="chinese">有什么地方风味？</span><span class="english">Do you have any local specialties?</span></p>
 
 <p><span class="chinese">翠园供应特制的中国菜。</span><span class="english">Jade Garden serves many Chinese specialties.</span></p>

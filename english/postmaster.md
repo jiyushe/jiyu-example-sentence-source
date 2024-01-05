@@ -1,5 +1,7 @@
 # postmaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postmaster.md)
+
 <p><span class="chinese">他们委任他为邮政局长。</span><span class="english">They appointed him as postmaster.</span></p>
 
 <p><span class="chinese">他的父亲被任命为邮政局长。</span><span class="english">His father was appointed postmaster.</span></p>

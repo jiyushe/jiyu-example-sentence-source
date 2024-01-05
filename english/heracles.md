@@ -1,5 +1,7 @@
 # heracles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heracles.md)
+
 <p><span class="chinese">阿基里斯和海格立斯是古希腊的英雄。</span><span class="english">Achilles and heracles were ancient greek heroes.</span></p>
 
 <p><span class="chinese">一个名叫赫拉克利斯的人众望所归成为雅典领袖。</span><span class="english">One man, Heracles of Athens emerged as its undisputed leader.</span></p>

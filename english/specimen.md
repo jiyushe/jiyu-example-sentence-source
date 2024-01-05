@@ -1,5 +1,7 @@
 # specimen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specimen.md)
+
 <p><span class="chinese">他是一个莽汉。</span><span class="english">He is a tough specimen.</span></p>
 
 <p><span class="chinese">这些都是鱼的标本。</span><span class="english">All these are fish specimen.</span></p>

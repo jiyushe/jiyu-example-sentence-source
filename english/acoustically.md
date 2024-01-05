@@ -1,5 +1,7 @@
 # acoustically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acoustically.md)
+
 <p><span class="chinese">这恰好是良好的听觉也。</span><span class="english">It just happens to be good acoustically too.</span></p>
 
 <p><span class="chinese">分离式耳机和话筒以消除回音。</span><span class="english">Acoustically isolated earpiece and microphone to eliminate echo.</span></p>

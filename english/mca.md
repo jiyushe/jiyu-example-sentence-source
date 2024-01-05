@@ -1,5 +1,7 @@
 # mca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mca.md)
+
 <p><span class="chinese">在1988年，我与MCA唱片公司签了个六张专辑的合约。</span><span class="english">In 1988 I signed a six-record deal with MCA Records.</span></p>
 
 <p><span class="chinese">他表示这是马华重组及改革的决定。</span><span class="english">He claims this is a decision to reshuffle and reform MCA.</span></p>

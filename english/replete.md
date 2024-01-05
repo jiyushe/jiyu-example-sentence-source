@@ -1,5 +1,7 @@
 # replete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replete.md)
+
 <p><span class="chinese">该书充满了尾声。</span><span class="english">The book is also replete with codas.</span></p>
 
 <p><span class="chinese">真正的幽默是充满著智慧。</span><span class="english">Genuine humor is replete with wisdom.</span></p>

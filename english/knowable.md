@@ -1,5 +1,7 @@
 # knowable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knowable.md)
+
 <p><span class="chinese">上帝，作为问题的答案，超越了可知事物的领域。</span><span class="english">God, the answer, transcends the universe of knowable things.</span></p>
 
 <p><span class="chinese">此外，有些内容到运行时才能知道。</span><span class="english">In addition, some items are just not knowable until runtime.</span></p>

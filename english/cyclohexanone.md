@@ -1,5 +1,7 @@
 # cyclohexanone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclohexanone.md)
+
 <p><span class="chinese">提出了环己酮在这类催化剂上双聚反应的机理。</span><span class="english">Reaction pathway of cyclohexanone over these catalysts was presented.</span></p>
 
 <p><span class="chinese">烯草酮是一种具有优良除草活性的环己二酮类除草剂。</span><span class="english">Clethodim is one of cyclohexanone herbicide with good herbicidal activity.</span></p>

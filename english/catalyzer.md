@@ -1,5 +1,7 @@
 # catalyzer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalyzer.md)
+
 <p><span class="chinese">氟化氢可用作烷基化、聚合、缩合、异构化等有机合成的催化剂。</span><span class="english">It also used as the catalyzer on alkylation, polymerize, condensation and isomerization.</span></p>
 
 <p><span class="chinese">在催化剂生产中，固体原料的卸料切断阀的选择十分重要。</span><span class="english">In catalyzer plant, it's very important to select the discharging cutoff valve for solid.</span></p>

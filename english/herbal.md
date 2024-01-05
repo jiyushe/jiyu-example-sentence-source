@@ -1,5 +1,7 @@
 # herbal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herbal.md)
+
 <p><span class="chinese">花草茶。</span><span class="english">Herbal tea.</span></p>
 
 <p><span class="chinese">你有草药茶吗？</span><span class="english">Do you have herbal tea?</span></p>

@@ -1,5 +1,7 @@
 # tough 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tough.md)
+
 <p><span class="chinese">你是个倔孩子。</span><span class="english">You're a tough kid.</span></p>
 
 <p><span class="chinese">这是一门很难学的课程。</span><span class="english">It's a tough course.</span></p>

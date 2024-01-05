@@ -1,5 +1,7 @@
 # cao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cao.md)
+
 <p><span class="chinese">曹丽报道</span><span class="english">Cao Li reports.</span></p>
 
 <p><span class="chinese">曹先生爱它非常。</span><span class="english">Cao loved it very much.</span></p>

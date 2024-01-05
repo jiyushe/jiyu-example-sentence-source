@@ -1,5 +1,7 @@
 # 内乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiluan.md)
+
 <p><span class="chinese">通过让染上此病的动物在洞内乱跑。</span><span class="english">By infecting animals and letting them loose in the burrows.</span></p>
 
 <p><span class="chinese">军方扬言如果内乱继续就实行军管。</span><span class="english">The army is threatening to take over if civil unrest continues.</span></p>

@@ -1,5 +1,7 @@
 # 刀剪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daojian_1.md)
+
 <p><span class="chinese">王麻子、张小泉的刀剪一万年也不要搞掉。</span><span class="english">Pock-marked no, not even ten thousand years from now.</span></p>
 
 <p><span class="chinese">真皮的最大敌人是刀剪、硬物及高温。</span><span class="english">The biggest enemy is leather knives and scissors, hard materials and high temperature.</span></p>

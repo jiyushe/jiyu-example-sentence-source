@@ -1,5 +1,7 @@
 # 猪肝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhugan_1.md)
+
 <p><span class="chinese">从那以后，我一直不喜欢吃猪肝。</span><span class="english">I'll have the liver and onion.</span></p>
 
 <p><span class="chinese">吃猪肝对你们的眼睛有好处。</span><span class="english">Pork liver is good for your eyes.</span></p>

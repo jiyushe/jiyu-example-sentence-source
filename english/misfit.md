@@ -1,5 +1,7 @@
 # misfit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misfit.md)
+
 <p><span class="chinese">裤子尺码对她不合适。</span><span class="english">The trousers misfit her.</span></p>
 
 <p><span class="chinese">你是如何寻找周围的“非适当食品小岛”的呢？</span><span class="english">How do you find an ‘Island of Misfit Foods’ near you?</span></p>

@@ -1,5 +1,7 @@
 # bronchoscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronchoscopy.md)
+
 <p><span class="chinese">纤维支气管镜检查有很大的帮助。</span><span class="english">Fiberoptic bronchoscopy may be of great help.</span></p>
 
 <p><span class="chinese">如果怀疑胸膜间皮瘤，也可用支气管镜检查。</span><span class="english">A bronchoscopy may be performed if pleural mesothelioma is suspected.</span></p>

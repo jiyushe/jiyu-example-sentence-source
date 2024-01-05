@@ -1,5 +1,7 @@
 # transection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transection.md)
+
 <p><span class="chinese">显露每只动物的右侧坐骨神经，利刀横断。</span><span class="english">Each rat underwent right sciatic nerve transection.</span></p>
 
 <p><span class="chinese">切断结扎返流的交通支十分重要。</span><span class="english">Transection and ligation of the perforators are important.</span></p>

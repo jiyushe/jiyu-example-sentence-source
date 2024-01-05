@@ -1,5 +1,7 @@
 # 常备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changbei.md)
+
 <p><span class="chinese">牛仔裤是本店常备商品之一。</span><span class="english">Jeans is one of our stock items.</span></p>
 
 <p><span class="chinese">还是自己常备一把伞吧。</span><span class="english">You had better get ready one umbrella by yourself.</span></p>

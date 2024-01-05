@@ -1,5 +1,7 @@
 # genitals
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genitals.md)
+
 <p><span class="chinese">性器官里的神经细胞变得兴奋。</span><span class="english">Nerve cells in the genitals become excited.</span></p>
 
 <p><span class="chinese">镖弹可能伤到咽喉、眼睛、生殖器。</span><span class="english">Darts can injure the throat, eyes, or genitals.</span></p>

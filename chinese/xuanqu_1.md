@@ -1,5 +1,7 @@
 # 选区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanqu_1.md)
+
 <p><span class="chinese">他为了选票向这选区游说拜票。</span><span class="english">He canvassed the district for votes.</span></p>
 
 <p><span class="chinese">选区里没有克隆来解除链接。</span><span class="english">No clones to unlink in the selection.</span></p>

@@ -1,5 +1,7 @@
 # 略知一二
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvezhiyier.md)
+
 <p><span class="chinese">我们还对他们生活的其他方面略知一二。</span><span class="english">We know other things about their lives as well.</span></p>
 
 <p><span class="chinese">他总算对涉及到的各种因素略知一二了。</span><span class="english">He had by now an inkling of the factors involved.</span></p>

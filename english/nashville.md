@@ -1,5 +1,7 @@
 # nashville
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nashville.md)
+
 <p><span class="chinese">他住在纳什维尔。</span><span class="english">He lives in Nashville.</span></p>
 
 <p><span class="chinese">为什么我们不住在纳什维尔？</span><span class="english">Why aren’t we staying in Nashville?</span></p>

@@ -1,5 +1,7 @@
 # inspiratory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspiratory.md)
+
 <p><span class="chinese">室内空气要新鲜，可以自由吸入氧气。</span><span class="english">Indoor air wants fresh, OK and free inspiratory oxygen.</span></p>
 
 <p><span class="chinese">呃逆是一个简短的自愿吸气运动其次是声门关闭。</span><span class="english">Hiccup is a brief involuntary inspiratory movement followed by glottal closure.</span></p>

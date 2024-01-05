@@ -1,5 +1,7 @@
 # fought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fought.md)
+
 <p><span class="chinese">这小子还击了。</span><span class="english">The kid fought back.</span></p>
 
 <p><span class="chinese">他像一头猛狮那样战斗。</span><span class="english">He fought like a lion.</span></p>

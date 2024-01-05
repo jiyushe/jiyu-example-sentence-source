@@ -1,5 +1,7 @@
 # caffeine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caffeine.md)
+
 <p><span class="chinese">我需要一点咖啡因。</span><span class="english">I gotta have some caffeine.</span></p>
 
 <p><span class="chinese">睡前避免咖啡因。</span><span class="english">Avoid caffeine before sleep.</span></p>

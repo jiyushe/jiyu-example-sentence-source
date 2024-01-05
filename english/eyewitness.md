@@ -1,5 +1,7 @@
 # eyewitness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyewitness.md)
+
 <p><span class="chinese">圣经里都是目击者的描述。</span><span class="english">The Bible is filled with eyewitness accounts.</span></p>
 
 <p><span class="chinese">目击证人能够证实所有的证词。</span><span class="english">The eyewitness can substantiate all the testimony.</span></p>

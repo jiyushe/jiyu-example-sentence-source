@@ -1,5 +1,7 @@
 # componential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/componential.md)
+
 <p><span class="chinese">语义成分分析是一种解释词义的语义学方法。</span><span class="english">Componential analysis is a semantic approach to explaining lexical meaning.</span></p>
 
 <p><span class="chinese">语义成分分析是当代语义研究中的一种重要方法。</span><span class="english">Componential Analysis is one of the important approaches in studying semantics.</span></p>

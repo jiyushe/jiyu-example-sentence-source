@@ -1,5 +1,7 @@
 # 可敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kejing.md)
+
 <p><span class="chinese">一位可敬的员工。</span><span class="english">An honorable employee.</span></p>
 
 <p><span class="chinese">他是一位可敬的战士。</span><span class="english">He is a redoubtable fighter.</span></p>

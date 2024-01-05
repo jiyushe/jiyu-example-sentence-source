@@ -1,5 +1,7 @@
 # 心狠手辣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhenshoula.md)
+
 <p><span class="chinese">因为她不够心狠手辣。</span><span class="english">Because she lacks the killer instinct.</span></p>
 
 <p><span class="chinese">我会不折手段，变成一个心狠手辣的女人。</span><span class="english">I'll not fold means, bee a ruthless woman.</span></p>

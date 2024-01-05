@@ -1,5 +1,7 @@
 # gleaning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gleaning.md)
+
 <p><span class="chinese">目前，我们正从各种渠道收集信息。</span><span class="english">At present we're gleaning information from all sources.</span></p>
 
 <p><span class="chinese">拾取麦穗是最穷的人所允许的。</span><span class="english">Gleaning was allowed for the very poorest of the people.</span></p>

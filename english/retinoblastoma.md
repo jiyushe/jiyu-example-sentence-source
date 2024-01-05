@@ -1,5 +1,7 @@
 # retinoblastoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retinoblastoma.md)
+
 <p><span class="chinese">②视网膜母细胞瘤患儿随访6个月获完全缓解。</span><span class="english">The child with retinoblastoma had complete remission in a 6-months follow-up.</span></p>
 
 <p><span class="chinese">经过27个月的治疗后，其中一个患者已经没有可测量的视网膜胚细胞瘤。</span><span class="english">At 27 months after therapy, one patient was free of measurable retinoblastoma.</span></p>

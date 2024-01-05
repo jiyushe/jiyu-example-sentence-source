@@ -1,5 +1,7 @@
 # 董事会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongshihui.md)
+
 <p><span class="chinese">我是董事会主席“</span><span class="english">I've got nothing to do."</span></p>
 
 <p><span class="chinese">这样我们就有了最初的董事会。</span><span class="english">So that was the initial board.</span></p>

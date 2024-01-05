@@ -1,5 +1,7 @@
 # 陷害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhai_1.md)
+
 <p><span class="chinese">它是栽赃陷害的！</span><span class="english">It was planted!</span></p>
 
 <p><span class="chinese">他被敌人的诡计给陷害了。</span><span class="english">He is snared by the wiles of his enemy.</span></p>

@@ -1,5 +1,7 @@
 # magnificent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnificent.md)
+
 <p><span class="chinese">那是一个宏伟的建筑。</span><span class="english">It was a magnificent building.</span></p>
 
 <p><span class="chinese">不希罕华丽的大厦。</span><span class="english">Not rare magnificent building.</span></p>

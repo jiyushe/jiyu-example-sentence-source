@@ -1,5 +1,7 @@
 # syntonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syntonic.md)
+
 <p><span class="chinese">分析了谐振腔的设计。</span><span class="english">And analyse the designment of syntonic cavity.</span></p>
 
 <p><span class="chinese">同理电视也是一样，这在电子学中称为“谐振”。</span><span class="english">The TV that be the same as manage also is same, this is called in electronics " syntonic ".</span></p>

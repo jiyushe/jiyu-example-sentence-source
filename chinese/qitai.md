@@ -1,5 +1,7 @@
 # 气态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qitai.md)
+
 <p><span class="chinese">它是气态还是液态的呢？</span><span class="english">Was it a gas or a liquid?</span></p>
 
 <p><span class="chinese">固态钠和气态氯。</span><span class="english">Sodium solid plus chlorine gas.</span></p>

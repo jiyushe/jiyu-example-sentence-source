@@ -1,5 +1,7 @@
 # pandora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pandora.md)
+
 <p><span class="chinese">为什么疯狂潘多拉现在会在这？</span><span class="english">Why iz Lunatic Pandora here now?</span></p>
 
 <p><span class="chinese">任何时候潘多拉都禁止入内。</span><span class="english">Pandora is offlimits for all time.</span></p>

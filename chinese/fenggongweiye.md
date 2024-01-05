@@ -1,5 +1,7 @@
 # 丰功伟业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenggongweiye.md)
+
 <p><span class="chinese">所有浓烈的爱情和丰功伟业一样蕴含著巨大的风险。</span><span class="english">The great love and great achievements involve great risk.</span></p>
 
 <p><span class="chinese">古老的预言提及他的出现，以及他将铸下的奇迹般的丰功伟业。</span><span class="english">Ancient prophecies foretell his coming, and he performs miraculous feats.</span></p>

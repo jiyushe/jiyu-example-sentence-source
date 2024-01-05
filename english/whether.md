@@ -1,5 +1,7 @@
 # whether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whether.md)
+
 <p><span class="chinese">看你是否向我求婚了。</span><span class="english">On whether you ask me to.</span></p>
 
 <p><span class="chinese">不论偶们是谢顶地老人。</span><span class="english">Whether we be old and bald.</span></p>

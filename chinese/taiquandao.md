@@ -1,5 +1,7 @@
 # 跆拳道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiquandao.md)
+
 <p><span class="chinese">听起来和柔道、空手道，跆拳道差不多。</span><span class="english">It sounds like Judo , Karate or TKD.</span></p>
 
 <p><span class="chinese">跆拳道可以追溯到公元前50年。</span><span class="english">The taekwondo dates back to 50 B. C.</span></p>

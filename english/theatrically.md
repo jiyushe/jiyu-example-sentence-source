@@ -1,5 +1,7 @@
 # theatrically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theatrically.md)
+
 <p><span class="chinese">我觉得这场演出从戏剧角度来说更流畅。</span><span class="english">I think this show is more coherent theatrically.</span></p>
 
 <p><span class="chinese">他戏剧化的转头看飞过的蝴蝶。</span><span class="english">He theatrically turned his head to watch a butterfly flutter by.</span></p>

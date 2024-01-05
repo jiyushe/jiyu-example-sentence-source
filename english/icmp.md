@@ -1,5 +1,7 @@
 # icmp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icmp.md)
+
 <p><span class="chinese">远端主机使用一个ICMP时间戮记回复讯息以反应请求。</span><span class="english">The remote host uses an ICMP timestamp reply message to respond to the request.</span></p>
 
 <p><span class="chinese">最后对实现过程中遇到的IP分片、ICMP和PMTU问题提出了一套有效的解决方案。</span><span class="english">At last, effective solutions for difficulties on IP fragment, ICMP and PMTU are provided.</span></p>

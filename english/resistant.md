@@ -1,5 +1,7 @@
 # resistant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resistant.md)
+
 <p><span class="chinese">它是抗水。</span><span class="english">It is water resistant.</span></p>
 
 <p><span class="chinese">的耐水与耐碱性能。</span><span class="english">Resistant to water and alkali.</span></p>

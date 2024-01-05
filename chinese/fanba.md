@@ -1,5 +1,7 @@
 # 反霸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanba.md)
+
 <p><span class="chinese">同学们说，这种反霸行计划已产生很好效果。</span><span class="english">Students say such anti-bullying programs have made a big difference.</span></p>
 
 <p><span class="chinese">我们坚持原来的主张，那就是裁军的斗争必须同反霸斗争结合起来。</span><span class="english">We hold our ground that the struggle for disarmament must be combined with fight against hegemonism.</span></p>

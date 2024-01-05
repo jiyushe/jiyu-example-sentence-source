@@ -1,5 +1,7 @@
 # 奖赏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangshang.md)
+
 <p><span class="chinese">他的工作值得奖赏。</span><span class="english">His work merits a prize.</span></p>
 
 <p><span class="chinese">我要怎样奖赏你“</span><span class="english">" How can I rewards you?"</span></p>

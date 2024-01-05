@@ -1,5 +1,7 @@
 # 坐镇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuozhen.md)
+
 <p><span class="chinese">那庞大的街垒感到他坐镇在它的臀部。</span><span class="english">The enormous barricade felt him on its haunches.</span></p>
 
 <p><span class="chinese">马吕斯于是坐镇在街垒顶上警戒着。</span><span class="english">Marius posted himself on the lookout upon the crest of the barricade.</span></p>

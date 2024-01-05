@@ -1,5 +1,7 @@
 # xinjiang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xinjiang.md)
+
 <p><span class="chinese">信江潺清心扉。</span><span class="english">Xinjiang River clears your heart.</span></p>
 
 <p><span class="chinese">新疆是很多维族人的故乡。</span><span class="english">Xinjiang is home to many Uyghurs.</span></p>

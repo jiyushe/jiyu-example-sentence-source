@@ -1,5 +1,7 @@
 # happy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/happy.md)
+
 <p><span class="chinese">乐得跳舞！</span><span class="english">Happy Dance!</span></p>
 
 <p><span class="chinese">但是开心点。</span><span class="english">But be happy.</span></p>

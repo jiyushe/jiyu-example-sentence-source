@@ -1,5 +1,7 @@
 # manus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manus.md)
+
 <p><span class="chinese">从马努斯岛处划出小艇。</span><span class="english">Sea kayakers off Manus Island.</span></p>
 
 <p><span class="chinese">马努在村庄里的出现，却使这次任务流产。</span><span class="english">But the presence of Manus in the village causes the mission to be scrubbed.</span></p>

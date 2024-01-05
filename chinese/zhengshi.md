@@ -1,5 +1,7 @@
 # 政事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengshi.md)
+
 <p><span class="chinese">庆历三年，任参知政事，建议改革政治。</span><span class="english">Qingli three years. Canzhizhengshi, the proposed political reform.</span></p>
 
 <p><span class="chinese">所议论政事,合作寻找真理的生命。</span><span class="english">So arguing is the lifeblood for cooperating in the search of the truth.</span></p>

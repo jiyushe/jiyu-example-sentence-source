@@ -1,5 +1,7 @@
 # edification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edification.md)
+
 <p><span class="chinese">只是为了启发你们。</span><span class="english">This is just for your edification.</span></p>
 
 <p><span class="chinese">我现在向你们学习和启迪。</span><span class="english">I commend it to you for your study and edification.</span></p>

@@ -1,5 +1,7 @@
 # davis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/davis.md)
+
 <p><span class="chinese">生产者蜡丸戴维斯。</span><span class="english">The producer was Lawan Davis.</span></p>
 
 <p><span class="chinese">欧文•弗莱彻，鲍勃•戴维斯</span><span class="english">By OWEN FLETCHER And BOB DAVIS</span></p>

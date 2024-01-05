@@ -1,5 +1,7 @@
 # 招摇过市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoyaoguoshi.md)
+
 <p><span class="chinese">他们穿着新衣服招摇过市。</span><span class="english">They flashed it away in their new clothes.</span></p>
 
 <p><span class="chinese">我看见他开着他的崭新跑车招摇过市。</span><span class="english">I saw him out posing in his new sports car.</span></p>

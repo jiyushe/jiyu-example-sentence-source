@@ -1,5 +1,7 @@
 # bodega
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bodega.md)
+
 <p><span class="chinese">酒窖可酿造白葡萄酒、桃红葡萄酒和红葡萄酒。</span><span class="english">The bodega makes white, rosé, and red wines.</span></p>
 
 <p><span class="chinese">该酒窖拥有现代化的酿酒设备。</span><span class="english">The Bodega has modern winemaking installations.</span></p>

@@ -1,5 +1,7 @@
 # coral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coral.md)
+
 <p><span class="chinese">濑鱼在锚珊瑚里。</span><span class="english">Wrasse in anchor coral.</span></p>
 
 <p><span class="chinese">珊瑚的扣子和琥珀纽的晶彩。</span><span class="english">Thy coral clasps and amber studs.</span></p>

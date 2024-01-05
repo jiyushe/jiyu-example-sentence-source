@@ -1,5 +1,7 @@
 # rsvp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rsvp.md)
+
 <p><span class="chinese">如果有意参加，请在下周末前尽快联系我。</span><span class="english">If interested, please RSVP to me by the end of next week.</span></p>
 
 <p><span class="chinese">去找找在你附近的国情咨文观看聚会吧，而且别忘了回复</span><span class="english">Find and RSVP for a State of the Union Watch Party near you</span></p>

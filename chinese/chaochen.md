@@ -1,5 +1,7 @@
 # 朝臣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaochen.md)
+
 <p><span class="chinese">他是一个圆滑的朝臣。</span><span class="english">He was an adroit courtier.</span></p>
 
 <p><span class="chinese">朝臣们在女王面前卑躬屈膝。</span><span class="english">The courtiers cringed before the Queen.</span></p>

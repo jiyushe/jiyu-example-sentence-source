@@ -1,5 +1,7 @@
 # preset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preset.md)
+
 <p><span class="chinese">机器被重调时，预调的数据将被抹去。</span><span class="english">When the unit is reset, preset data is erased.</span></p>
 
 <p><span class="chinese">他按要求的时间预先把录像机调好。</span><span class="english">He preset the video recorder at the desired time.</span></p>

@@ -1,5 +1,7 @@
 # herbalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herbalism.md)
+
 <p><span class="chinese">羊藿是一种最有价值的中国草药补品。</span><span class="english">Epimedium is one of the most valued tonics of Chinese herbalism.</span></p>
 
 <p><span class="chinese">该药材专业魔兽世界，是非常有价值的。</span><span class="english">The herbalism profession in World of Warcraft is very rewarding.</span></p>

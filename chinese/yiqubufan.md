@@ -1,5 +1,7 @@
 # 一去不返
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqubufan.md)
+
 <p><span class="chinese">光阴和爱情皆一去不返。</span><span class="english">Time never goes backword, like love.</span></p>
 
 <p><span class="chinese">即使有一天你一去不返，我也会等候。</span><span class="english">Even if someday you do not, I will wait.</span></p>

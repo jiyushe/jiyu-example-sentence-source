@@ -1,5 +1,7 @@
 # 吃喝嫖赌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chihepiaodu.md)
+
 <p><span class="chinese">他开始游戏生活，吃喝嫖赌，彻底堕落为城市的行尸走肉。</span><span class="english">He started the game of life, drinking, total depravity as city of a dead-alive person.</span></p>
 
 <p><span class="chinese">有人说，在成都除了吃喝嫖赌，你再找不出其他的事情可以做。</span><span class="english">It is said that in ChengDu, except eat, drink, fuck, gamble, you can not find anything you can do.</span></p>

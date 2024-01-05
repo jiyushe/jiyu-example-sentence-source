@@ -1,5 +1,7 @@
 # rime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rime.md)
+
 <p><span class="chinese">凝结的水滴称为霜。</span><span class="english">The frozen droplets are called rime.</span></p>
 
 <p><span class="chinese">清晨地里覆盖着一层白霜。</span><span class="english">The field was covered with rime in the early morning.</span></p>

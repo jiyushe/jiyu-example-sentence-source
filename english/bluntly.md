@@ -1,5 +1,7 @@
 # bluntly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluntly.md)
+
 <p><span class="chinese">不客气的说，金钱万能。</span><span class="english">Bluntly stated, money talks.</span></p>
 
 <p><span class="chinese">“他是我的病人，”她毫不客气的说。</span><span class="english">He's my patient, " she said bluntly ."</span></p>

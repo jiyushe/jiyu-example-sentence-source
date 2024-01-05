@@ -1,5 +1,7 @@
 # protrusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protrusive.md)
+
 <p><span class="chinese">中药气雾剂技术呈现缓慢发展的状况，但不乏个别表现突出的品种。</span><span class="english">A relatively slow developing trend was shown, however, good protrusive kinds of TCM aerosols are not seldom.</span></p>
 
 <p><span class="chinese">人口与土地的矛盾是清中叶以来的一个突出现象。</span><span class="english">The contradiction between population and land was a protrusive phenomenon after the middle period of the Qing dynasty.</span></p>

@@ -1,5 +1,7 @@
 # 越冬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuedong_1.md)
+
 <p><span class="chinese">这是一种可以越冬的番茄。</span><span class="english">It's a tomato that could be wintered over.</span></p>
 
 <p><span class="chinese">玉米收获后耕翻冬灌，消灭越冬螨体。</span><span class="english">Plow and irrigate in winter after harvest.</span></p>

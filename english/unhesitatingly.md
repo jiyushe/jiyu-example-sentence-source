@@ -1,5 +1,7 @@
 # unhesitatingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhesitatingly.md)
+
 <p><span class="chinese">他毫不犹豫地把它们列为变种。</span><span class="english">He unhesitatingly ranks them as varieties.</span></p>
 
 <p><span class="chinese">“三十四，”约翰尼毫不犹豫地回答。</span><span class="english">"Thirty-four," Johnny answered unhesitatingly.</span></p>

@@ -1,5 +1,7 @@
 # insincerity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insincerity.md)
+
 <p><span class="chinese">我认为他是个不诚恳的人。</span><span class="english">I think he is a man of insincerity.</span></p>
 
 <p><span class="chinese">噢，天拉！多么伪善的人啊！</span><span class="english">Oh, my GOD! What a insincerity person!</span></p>

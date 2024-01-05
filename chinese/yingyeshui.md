@@ -1,5 +1,7 @@
 # 营业税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyeshui.md)
+
 <p><span class="chinese">他是不小心将名字留在了营业税单上的。</span><span class="english">he had accidently put his name on the sales-tax form.</span></p>
 
 <p><span class="chinese">申报缴纳有限公司建设费、营业税及报表。</span><span class="english">Declare and pay the construction fees, business tax reports.</span></p>

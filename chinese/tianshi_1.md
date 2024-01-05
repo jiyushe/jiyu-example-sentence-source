@@ -1,5 +1,7 @@
 # 甜食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianshi_1.md)
+
 <p><span class="chinese">您要一盘甜食吗？</span><span class="english">Would you like a sweet dish?</span></p>
 
 <p><span class="chinese">吃过多的甜食会使人倒胃囗。</span><span class="english">Too much sweet food cloys the.</span></p>

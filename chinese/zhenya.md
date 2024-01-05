@@ -1,5 +1,7 @@
 # 镇压
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenya.md)
+
 <p><span class="chinese">而这一点，目前正在遭受镇压。</span><span class="english">This lot is now being squelched.</span></p>
 
 <p><span class="chinese">警察拒绝对其进行镇压。</span><span class="english">The police refused to evict them.</span></p>

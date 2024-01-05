@@ -1,5 +1,7 @@
 # 改弦易辙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaixianyizhe.md)
+
 <p><span class="chinese">但是他最终还是改弦易辙，对这一点，他并不争辩。</span><span class="english">But he doesn’t dispute that he changed direction.</span></p>
 
 <p><span class="chinese">在你的维持阶段中，你可以放置一个词句指示物在改弦易辙上。</span><span class="english">During your upkeep, you may put a verse counter on Recantation.</span></p>

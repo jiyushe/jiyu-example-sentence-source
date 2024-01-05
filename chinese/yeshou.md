@@ -1,5 +1,7 @@
 # 野兽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeshou.md)
+
 <p><span class="chinese">龙的血盆大口分外显眼，显然是一只凶险的野兽。</span><span class="english">A dangerous beast, this.</span></p>
 
 <p><span class="chinese">火使野兽不敢靠近。</span><span class="english">Fire repels wild animals.</span></p>

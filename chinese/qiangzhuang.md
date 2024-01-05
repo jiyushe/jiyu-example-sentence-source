@@ -1,5 +1,7 @@
 # 强壮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangzhuang.md)
+
 <p><span class="chinese">强壮起来！</span><span class="english">Be strong!</span></p>
 
 <p><span class="chinese">他长得强壮和高。</span><span class="english">He's strong and tall.</span></p>

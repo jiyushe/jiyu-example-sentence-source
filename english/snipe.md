@@ -1,5 +1,7 @@
 # snipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snipe.md)
+
 <p><span class="chinese">我惊起了五六只山鹬。</span><span class="english">I started some half-dozen snipe.</span></p>
 
 <p><span class="chinese">一只鹬鸟看见河蚌，就想美餐一顿。</span><span class="english">A snipe saw the clam and wanted to enjoy it.</span></p>

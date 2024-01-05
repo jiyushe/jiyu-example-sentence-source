@@ -1,5 +1,7 @@
 # thiamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thiamine.md)
+
 <p><span class="chinese">硫胺将淀粉类食物转变为能量。</span><span class="english">Thiamine changes starchy foods into energy.</span></p>
 
 <p><span class="chinese">作为vitamin家族的一个成员，硫胺揭开了整个家族的故事。</span><span class="english">Thiamine is the vitamin that started it all.</span></p>

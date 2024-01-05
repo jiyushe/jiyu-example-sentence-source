@@ -1,5 +1,7 @@
 # owing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/owing.md)
+
 <p><span class="chinese">那笔钱仍欠着。</span><span class="english">The money is still owing.</span></p>
 
 <p><span class="chinese">应付的我都付了。</span><span class="english">I paid all that was owing.</span></p>

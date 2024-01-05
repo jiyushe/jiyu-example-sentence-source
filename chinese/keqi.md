@@ -1,5 +1,7 @@
 # 可气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keqi.md)
+
 <p><span class="chinese">我感觉那是对我们生活的一种干扰，让人感到荒唐可气。</span><span class="english">I felt it was a grotesque intrusion into our lives.</span></p>
 
 <p><span class="chinese">呵，你太可气了，艾米。朋友是做什么用的呢？</span><span class="english">Oh, you're very welcome, Amy. What a friend is for?</span></p>

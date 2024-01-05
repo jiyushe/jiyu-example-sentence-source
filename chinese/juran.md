@@ -1,5 +1,7 @@
 # 居然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juran.md)
+
 <p><span class="chinese">你居然还为我担保来着。</span><span class="english">You vouched for me.</span></p>
 
 <p><span class="chinese">这居然成了他们的理由。</span><span class="english">That's the rationale.</span></p>

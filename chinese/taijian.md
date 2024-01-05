@@ -1,5 +1,7 @@
 # 太监
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taijian.md)
+
 <p><span class="chinese">这太监在读什么呢？</span><span class="english">And what does he read?</span></p>
 
 <p><span class="chinese">我希望所有的男人都变成太监。</span><span class="english">I wish men could become eunuchs.</span></p>

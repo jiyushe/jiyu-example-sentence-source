@@ -1,5 +1,7 @@
 # intrude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intrude.md)
+
 <p><span class="chinese">护卫员同闯入的人扭打起来。</span><span class="english">The guards wrestled with the intrude rs.</span></p>
 
 <p><span class="chinese">我是否过多地侵扰了别人的悲痛？</span><span class="english">Did I intrude too far into people\'s grief?</span></p>

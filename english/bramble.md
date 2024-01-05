@@ -1,5 +1,7 @@
 # bramble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bramble.md)
+
 <p><span class="chinese">我们的周遭都是荆棘与嘈杂声浪。</span><span class="english">All about us is noise and bramble.</span></p>
 
 <p><span class="chinese">生活的荆棘中，我把一朵玫瑰选上。</span><span class="english">Off life's bramble bush, I picked a rose.</span></p>

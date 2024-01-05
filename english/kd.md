@@ -1,5 +1,7 @@
 # kd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kd.md)
+
 <p><span class="chinese">卡多古柏，让美丽从中绽放！</span><span class="english">KD Cooper, let beauty blossom!</span></p>
 
 <p><span class="chinese">整体橱柜设计作品KD做的！</span><span class="english">KD overall cabinet design work done!</span></p>

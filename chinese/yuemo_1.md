@@ -1,5 +1,7 @@
 # 约摸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuemo_1.md)
+
 <p><span class="chinese">约摸这样高。</span><span class="english">It's about this high.</span></p>
 
 <p><span class="chinese">朱莉娅姨妈约摸高出一英寸的样子。</span><span class="english">Aunt Julia was an inch or so the taller.</span></p>

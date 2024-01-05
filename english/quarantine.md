@@ -1,5 +1,7 @@
 # quarantine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quarantine.md)
+
 <p><span class="chinese">这项检疫措施现已取消。</span><span class="english">The quarantine is now abolished.</span></p>
 
 <p><span class="chinese">该船被留在港口进行检疫。</span><span class="english">The ship is detained in quarantine.</span></p>

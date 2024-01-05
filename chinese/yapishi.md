@@ -1,5 +1,7 @@
 # 雅皮士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yapishi.md)
+
 <p><span class="chinese">我想你可以把我称作'雅皮士'吧。</span><span class="english">I guess you can call me a yuppy.</span></p>
 
 <p><span class="chinese">他们成了80年代的雅皮士！</span><span class="english">They became the yuppies of the 80's!</span></p>

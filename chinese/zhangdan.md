@@ -1,5 +1,7 @@
 # 账单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangdan.md)
+
 <p><span class="chinese">在网上支付账单。</span><span class="english">Pay bills online.</span></p>
 
 <p><span class="chinese">这账单你付好吗？</span><span class="english">Will you pay the bill?</span></p>

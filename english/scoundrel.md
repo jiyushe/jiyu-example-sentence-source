@@ -1,5 +1,7 @@
 # scoundrel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scoundrel.md)
+
 <p><span class="chinese">他是一个彻头彻尾的恶棍。</span><span class="english">He is a thorough scoundrel.</span></p>
 
 <p><span class="chinese">她认为他是一个恶棍。</span><span class="english">She described him as a scoundrel.</span></p>

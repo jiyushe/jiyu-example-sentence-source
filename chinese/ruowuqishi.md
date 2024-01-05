@@ -1,5 +1,7 @@
 # 若无其事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruowuqishi.md)
+
 <p><span class="chinese">我问道，尽量装得若无其事。</span><span class="english">I asked, as casually as possible.</span></p>
 
 <p><span class="chinese">我能从狂热中迅速冷静下来，若无其事地观看电视。</span><span class="english">I can pop a top on a cold one and watch TV.</span></p>

@@ -1,5 +1,7 @@
 # dichloromethane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dichloromethane.md)
+
 <p><span class="chinese">介绍了固碱吸附除水在二氯甲烷回收中的应用情况。</span><span class="english">The application of solid base in drying recovered dichloromethane was introduced.</span></p>
 
 <p><span class="chinese">生产工艺过程产生的丙酮，原料挥发产生的二氯甲烷、丙酮等产生量较小。</span><span class="english">The output of acetone and dichloromethane which raw material volatilized is little.</span></p>

@@ -1,5 +1,7 @@
 # 反哺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanbu.md)
+
 <p><span class="chinese">二是反哺成本供给“一边倒”。</span><span class="english">Leaning to one side of back-nurture supply.</span></p>
 
 <p><span class="chinese">这是政府反哺的第四项任务。</span><span class="english">This is the fourth task of government back-nurture.</span></p>

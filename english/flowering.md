@@ -1,5 +1,7 @@
 # flowering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flowering.md)
+
 <p><span class="chinese">啊，花一样的面容里藏着蛇一样的心！</span><span class="english">O serpent heart, hid with a flowering face!</span></p>
 
 <p><span class="chinese">总有一天会开出属于我的花朵。</span><span class="english">Oneday some flowers will be flowering for me.</span></p>

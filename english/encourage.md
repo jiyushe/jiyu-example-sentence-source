@@ -1,5 +1,7 @@
 # encourage 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encourage.md)
+
 <p><span class="chinese">鼓励幽默。</span><span class="english">Encourage humour.</span></p>
 
 <p><span class="chinese">我们鼓励这样。</span><span class="english">We encourage this.</span></p>

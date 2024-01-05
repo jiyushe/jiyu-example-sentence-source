@@ -1,5 +1,7 @@
 # curtis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curtis.md)
+
 <p><span class="chinese">斯威夫特表示，荫凉可以帮助矫正这些问题。</span><span class="english">Curtis Swift says shade can help correct these problems.</span></p>
 
 <p><span class="chinese">作为表演者，柯蒂斯惊艳的英俊外貌可谓得天独厚。</span><span class="english">As a performer, Mr. Curtis drew on his startlingly good looks.</span></p>

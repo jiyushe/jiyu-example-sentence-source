@@ -1,5 +1,7 @@
 # 农学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongxue.md)
+
 <p><span class="chinese">眼下一个农学专业的毕业生能找到什么样的工作呢？</span><span class="english">What kind of a job can an aggie get these days?</span></p>
 
 <p><span class="chinese">贾思勰是一位有名的农学先驱。</span><span class="english">Jia Sixie is well-known as a pioneer in farming.</span></p>

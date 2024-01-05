@@ -1,5 +1,7 @@
 # carding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carding.md)
+
 <p><span class="chinese">梳棉或精梳不良。</span><span class="english">Poor carding or combing.</span></p>
 
 <p><span class="chinese">本文就是要对上述过程作一梳理和考察。</span><span class="english">This paper is to make this process a carding and inspection.</span></p>

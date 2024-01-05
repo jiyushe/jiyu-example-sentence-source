@@ -1,5 +1,7 @@
 # 茶话会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chahuahui.md)
+
 <p><span class="chinese">办一个茶话会.</span><span class="english">Have a tea party.</span></p>
 
 <p><span class="chinese">或者来个老式的茶话会。</span><span class="english">Or an old fashioned tea party?</span></p>

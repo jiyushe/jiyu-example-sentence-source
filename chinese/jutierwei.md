@@ -1,5 +1,7 @@
 # 具体而微
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jutierwei.md)
+
 <p><span class="chinese">社区是具体而微的，又是虚构的。</span><span class="english">Community is specific and real, but fictional too.</span></p>
 
 <p><span class="chinese">月圆月缺是具体而微的人生昭示。</span><span class="english">Full moon on a clear and concrete short life declares.</span></p>

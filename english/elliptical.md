@@ -1,5 +1,7 @@
 # elliptical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elliptical.md)
+
 <p><span class="chinese">大核一枚，椭圆形。</span><span class="english">One macronucleus, elliptical in shape.</span></p>
 
 <p><span class="chinese">椭圆与双喇叭“发火”高频率。</span><span class="english">Elliptical horn with twin "EED" high freq.</span></p>

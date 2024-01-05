@@ -1,5 +1,7 @@
 # fester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fester.md)
+
 <p><span class="chinese">伤口未溃烂。</span><span class="english">The wound did not fester.</span></p>
 
 <p><span class="chinese">伤口开始化脓。</span><span class="english">The wound began to fester.</span></p>

@@ -1,5 +1,7 @@
 # reevaluate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reevaluate.md)
+
 <p><span class="chinese">我们可以重新估计。</span><span class="english">We can  reevaluate.</span></p>
 
 <p><span class="chinese">重新审视你的目标。</span><span class="english">Reevaluate your goals.</span></p>

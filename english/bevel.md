@@ -1,5 +1,7 @@
 # bevel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bevel.md)
+
 <p><span class="chinese">双斜边一号砂轮。</span><span class="english">Double bevel edge wheel No.</span></p>
 
 <p><span class="chinese">你可以看到下面的斜面参数。</span><span class="english">You can see the Bevel settings below.</span></p>

@@ -1,5 +1,7 @@
 # 跳台滑雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaotaihuaxue.md)
+
 <p><span class="chinese">着陆山坡是为跳台滑雪页准备的。</span><span class="english">A landing slops is for ski jumping or ski soaring.</span></p>
 
 <p><span class="chinese">团体比赛中增加了跳台滑雪和雪橇比赛。</span><span class="english">Team events were added in Nordic combined and ski jumping.</span></p>

@@ -1,5 +1,7 @@
 # fh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fh.md)
+
 <p><span class="chinese">最后对断口遗传机制进行了分析。</span><span class="english">Finaly, the mechanism of FH is analyzed.</span></p>
 
 <p><span class="chinese">简述了跳频通信的基本原理。</span><span class="english">The principle of FH communication is described.</span></p>

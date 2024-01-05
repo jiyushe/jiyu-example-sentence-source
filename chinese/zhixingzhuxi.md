@@ -1,5 +1,7 @@
 # 执行主席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixingzhuxi.md)
+
 <p><span class="chinese">NISC执行主席洛丽·威廉姆斯表示，人们能够为防止外来物种入侵起到一定作用。</span><span class="english">People have a role to play in keeping exotics out, says Lori WIlliams, NISC executive director.</span></p>
 
 <p><span class="chinese">尤文执行主席斯蒂文森透露他们准备好了卖出几个一线队员，以平衡球队财政。</span><span class="english">Juventus president Franzo Grande Stevens has revealed they are set to sell several first team players.</span></p>

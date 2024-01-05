@@ -1,5 +1,7 @@
 # underglaze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underglaze.md)
+
 <p><span class="chinese">釉下墨彩雄鸡纹瓶。</span><span class="english">Underglaze black color cock pattern vase.</span></p>
 
 <p><span class="chinese">釉下彩弥勒佛。</span><span class="english">Underglaze Wucai porcelain Maitreya Buddha.</span></p>

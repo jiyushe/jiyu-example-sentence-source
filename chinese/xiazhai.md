@@ -1,5 +1,7 @@
 # 狭窄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazhai.md)
+
 <p><span class="chinese">宫颈狭窄。</span><span class="english">Cervical stenosis.</span></p>
 
 <p><span class="chinese">他们得钻过狭窄的隧道。</span><span class="english">A narrow way or alley.</span></p>

@@ -1,5 +1,7 @@
 # aladdin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aladdin.md)
+
 <p><span class="chinese">他想再把阿拉丁变成穷光蛋。</span><span class="english">He wanted to make Aladdin poor again.</span></p>
 
 <p><span class="chinese">阿拉丁乘着他的魔毯飞行。</span><span class="english">Aladdin is flying on his magic carpet.</span></p>

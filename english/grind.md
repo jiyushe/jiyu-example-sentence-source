@@ -1,5 +1,7 @@
 # grind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grind.md)
+
 <p><span class="chinese">真该把他碾成灰。</span><span class="english">Grind him to ashes!</span></p>
 
 <p><span class="chinese">完了后一路向南杀过去。</span><span class="english">Grind your way down south.</span></p>

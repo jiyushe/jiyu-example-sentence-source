@@ -1,5 +1,7 @@
 # erasable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erasable.md)
+
 <p><span class="chinese">我们称之为可擦写纸。</span><span class="english">We call it erasable paper.</span></p>
 
 <p><span class="chinese">写入的数据可以擦除，擦除之后还可以再写入。</span><span class="english">The written data is erasable. Data can be rewritten after being erased.</span></p>

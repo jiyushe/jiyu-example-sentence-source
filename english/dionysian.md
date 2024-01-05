@@ -1,5 +1,7 @@
 # dionysian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dionysian.md)
+
 <p><span class="chinese">那宏大的酒神现象呢？</span><span class="english">What about that tremendous phenomenon of the Dionysian?</span></p>
 
 <p><span class="chinese">酒神精神是尼采的一个重要概念。</span><span class="english">Dionysian Spirit is a major concept of Nietzsche's philosophy.</span></p>

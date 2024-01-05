@@ -1,5 +1,7 @@
 # 脚丫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoya.md)
+
 <p><span class="chinese">袜子是湿的，鞋子是湿的，就连脚丫也冷冰冰的。</span><span class="english">Wet shoes. Cold feet.</span></p>
 
 <p><span class="chinese">并且会让脚丫有薰衣草的气息。</span><span class="english">They also will make your feet smell like lavender.</span></p>

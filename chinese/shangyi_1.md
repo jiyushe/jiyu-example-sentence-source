@@ -1,5 +1,7 @@
 # 商议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangyi_1.md)
+
 <p><span class="chinese">商议如何攻打团城。</span><span class="english">How TuanCheng counsel against.</span></p>
 
 <p><span class="chinese">我将和我的朋友们商议。</span><span class="english">I shall advise with my friends.</span></p>

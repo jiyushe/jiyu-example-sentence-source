@@ -1,5 +1,7 @@
 # justinian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/justinian.md)
+
 <p><span class="chinese">肥东是香港侧田大学的侧田学家。</span><span class="english">Tung is a justinian of The Justin University of HK.</span></p>
 
 <p><span class="chinese">我们从查士丁尼，原来写在流亡中。</span><span class="english">We learn from Justinian that the original was written in exile.</span></p>

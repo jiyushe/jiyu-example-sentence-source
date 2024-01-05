@@ -1,5 +1,7 @@
 # fluorescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorescence.md)
+
 <p><span class="chinese">紫外光照射发弱绿黄色荧光。</span><span class="english">Weak green-yellow fluorescence under UV light.</span></p>
 
 <p><span class="chinese">以固定的完整虫体进行IFA，未显示荧光。</span><span class="english">IFA did not show fluorescence in intact tachyzoite.</span></p>

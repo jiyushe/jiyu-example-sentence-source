@@ -1,5 +1,7 @@
 # rhabdomyosarcoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhabdomyosarcoma.md)
+
 <p><span class="chinese">神经母细胞瘤5例，畸胎瘤1例，横纹肌肉瘤1例。</span><span class="english">There were neuroblastoma in 5, teratoma 1 and rhabdomyosarcoma 1.</span></p>
 
 <p><span class="chinese">组织切片显示，此肿块是胚胎型横纹肌肉瘤。</span><span class="english">Histological examination of the mass revealed embryonal rhabdomyosarcoma.</span></p>

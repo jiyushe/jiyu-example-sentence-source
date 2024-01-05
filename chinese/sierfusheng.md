@@ -1,5 +1,7 @@
 # 死而复生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sierfusheng.md)
+
 <p><span class="chinese">他死而复生啦！</span><span class="english">He that was dead lives!</span></p>
 
 <p><span class="chinese">人能从坟墓中死而复生吗?</span><span class="english">Can a man rise from the grave?</span></p>

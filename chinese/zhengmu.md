@@ -1,5 +1,7 @@
 # 征募
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengmu.md)
+
 <p><span class="chinese">你如何征募一个部队？</span><span class="english">How do you recruit an army?</span></p>
 
 <p><span class="chinese">如果你不能保护自己，那征募一个部队吧。</span><span class="english">If you can’t defend yourself, recruit an army.</span></p>

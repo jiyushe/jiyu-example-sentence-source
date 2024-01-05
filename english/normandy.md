@@ -1,5 +1,7 @@
 # normandy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/normandy.md)
+
 <p><span class="chinese">诺曼底和溪山。</span><span class="english">Normandy and Khe Sanh.</span></p>
 
 <p><span class="chinese">在诺曼底参观中世纪城堡和卢瓦尔河谷。</span><span class="english">Visit medieval castles in Normandy and the Loire Valley.</span></p>

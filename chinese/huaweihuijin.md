@@ -1,5 +1,7 @@
 # 化为灰烬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaweihuijin.md)
+
 <p><span class="chinese">这场火灾把那所房子化为灰烬。</span><span class="english">The fire reduced the house to ashes.</span></p>
 
 <p><span class="chinese">与香烟为伴，你的生命将化为灰烬。</span><span class="english">With cigarettes, your life goes to ashes.</span></p>

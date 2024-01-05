@@ -1,5 +1,7 @@
 # rift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rift.md)
+
 <p><span class="chinese">就是那琵琶琴的小裂痕。</span><span class="english">It is the little rift within the lute.</span></p>
 
 <p><span class="chinese">在15分钟内完成一个涅法雷姆秘境。同上。速度击杀。</span><span class="english">Finish a Nephalem Rift within 15 Minutes.</span></p>

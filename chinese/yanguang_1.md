@@ -1,5 +1,7 @@
 # 验光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanguang_1.md)
+
 <p><span class="chinese">眼睛验光师她惟有看书时才戴眼镜。</span><span class="english">She only wears gltest to read.</span></p>
 
 <p><span class="chinese">验光师拥有绝对的选择权。</span><span class="english">Options, that's what optometrists have.</span></p>

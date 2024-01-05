@@ -1,5 +1,7 @@
 # 萌动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengdong.md)
+
 <p><span class="chinese">某些东西在我内心萌动。</span><span class="english">Something stirring in my heart.</span></p>
 
 <p><span class="chinese">就萌动着一种强烈渴望。</span><span class="english">With a strong desire on the bud.</span></p>

@@ -1,5 +1,7 @@
 # insinuating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insinuating.md)
+
 <p><span class="chinese">我们没有暗示什么。</span><span class="english">We're not insinuating anything.</span></p>
 
 <p><span class="chinese">你绕来绕去是否暗指我在撒谎？</span><span class="english">Are you insinuating that I am a liar?</span></p>

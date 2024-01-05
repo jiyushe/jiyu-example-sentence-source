@@ -1,5 +1,7 @@
 # discotheque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discotheque.md)
+
 <p><span class="chinese">咱们到迪斯科舞厅去。</span><span class="english">Free entry to discotheque.</span></p>
 
 <p><span class="chinese">本镇有迪斯科舞厅吗?。</span><span class="english">Is there a discotheque in this town?</span></p>

@@ -1,5 +1,7 @@
 # cede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cede.md)
+
 <p><span class="chinese">他们觉得别人查不到自己，所以就置责任义务于不顾。</span><span class="english">They feel invisible, so they cede responsibility.</span></p>
 
 <p><span class="chinese">将军允诺于一月份之前交出兵权。</span><span class="english">The General had promised to cede power by January.</span></p>

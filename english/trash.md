@@ -1,5 +1,7 @@
 # trash 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trash.md)
+
 <p><span class="chinese">是白色垃圾吧。</span><span class="english">Is white trash.</span></p>
 
 <p><span class="chinese">垃圾桶里的钱钱。</span><span class="english">Cash in the trash.</span></p>

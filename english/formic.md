@@ -1,5 +1,7 @@
 # formic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formic.md)
+
 <p><span class="chinese">有些蚂蚁在受到刺激时会排出蚁酸。</span><span class="english">Some ants eject formic acid when irritated.</span></p>
 
 <p><span class="chinese">蚁精通可以治疗类风湿吗？</span><span class="english">Formic perfectness and OK treat kind of rheumatism?</span></p>

@@ -1,5 +1,7 @@
 # sprinter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprinter.md)
+
 <p><span class="chinese">他看上去就像一个奥运会的短跑选手。</span><span class="english">He looked like an Olympic sprinter.</span></p>
 
 <p><span class="chinese">他是短跑健将，而不怎么游泳选手。</span><span class="english">He is more a sprinter than a swimmer.</span></p>

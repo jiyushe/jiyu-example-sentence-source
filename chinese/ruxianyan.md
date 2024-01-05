@@ -1,5 +1,7 @@
 # 乳腺炎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruxianyan.md)
+
 <p><span class="chinese">预防措施还包括接种大肠菌乳腺炎疫苗。</span><span class="english">Prevention steps also include vaccinating for coliform mastitis.</span></p>
 
 <p><span class="chinese">奶头受伤也会引发乳腺炎，所以在挤奶期间要小心。</span><span class="english">Teat injuries can also cause mastitis , so be careful during milking.</span></p>

@@ -1,5 +1,7 @@
 # clavicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clavicular.md)
+
 <p><span class="chinese">锁骨骨折后手术半年了都无法抬起呢？</span><span class="english">Half an year of art of clavicular fracture defensive position cannot be raised?</span></p>
 
 <p><span class="chinese">方法对168例锁骨骨折的病历资料进行回顾性分析。</span><span class="english">Methods A retrospective analysis was made to 168 cases with clavicular fracture.</span></p>

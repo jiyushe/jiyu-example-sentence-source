@@ -1,5 +1,7 @@
 # 以泪洗面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yileiximian.md)
+
 <p><span class="chinese">我的妻子每晚以泪洗面。</span><span class="english">My wife cries every night.</span></p>
 
 <p><span class="chinese">然而，有时也会出现以泪洗面的结局。</span><span class="english">Sometimes, though, it ends in tears.</span></p>

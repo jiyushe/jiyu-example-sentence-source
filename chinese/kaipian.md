@@ -1,5 +1,7 @@
 # 开篇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaipian.md)
+
 <p><span class="chinese">它以一段预言为开篇。</span><span class="english">It starts off with a narrative about a vision.</span></p>
 
 <p><span class="chinese">但是路加福音是这样开篇的。</span><span class="english">The beginning of Luke,though,starts off like this.</span></p>

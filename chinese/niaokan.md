@@ -1,5 +1,7 @@
 # 鸟瞰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niaokan.md)
+
 <p><span class="chinese">鸟瞰维米，爪哇，印度尼西亚，1994。</span><span class="english">Vimy Aerial View, Java, Indonesia, 1994</span></p>
 
 <p><span class="chinese">这座电视塔鸟瞰着全城。</span><span class="english">The television tower domineers the city.</span></p>

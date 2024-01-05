@@ -1,5 +1,7 @@
 # infidel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infidel.md)
+
 <p><span class="chinese">你必须向我下跪，异教徒。因为我是这里的主人。</span><span class="english">Bow before your god, infidel. I am the Master here.</span></p>
 
 <p><span class="chinese">他允诺继续与无宗教信仰力量的抗争。</span><span class="english">He promised to continue the fight against infidel forces.</span></p>

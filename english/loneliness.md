@@ -1,5 +1,7 @@
 # loneliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loneliness.md)
+
 <p><span class="chinese">我已习惯于孤独。</span><span class="english">I'm used to loneliness.</span></p>
 
 <p><span class="chinese">为什么寂寞如此痛苦？</span><span class="english">Why is loneliness so painful?</span></p>

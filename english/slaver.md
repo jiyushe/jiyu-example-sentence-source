@@ -1,5 +1,7 @@
 # slaver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slaver.md)
+
 <p><span class="chinese">今天流的口水将汇成明天的眼泪。</span><span class="english">Today's slaver will drain into tomorrow's tear.</span></p>
 
 <p><span class="chinese">今天的谄媚，将成为明天的眼泪。</span><span class="english">Today's slaver will drain into tomorrow's tear.</span></p>

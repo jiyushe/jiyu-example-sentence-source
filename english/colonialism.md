@@ -1,5 +1,7 @@
 # colonialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonialism.md)
+
 <p><span class="chinese">我们得对殖民主义进行再探索。</span><span class="english">We need to re-explore Colonialism.</span></p>
 
 <p><span class="chinese">新老殖民主义是一脉相传的。</span><span class="english">Colonialism and neocolonialism are in the same strain.</span></p>

@@ -1,5 +1,7 @@
 # lordosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lordosis.md)
+
 <p><span class="chinese">腰椎前凸、NRS评分没有统计学意义。</span><span class="english">Deterioration in lumbar lordosis and NRS leg pain were not of significance.</span></p>
 
 <p><span class="chinese">骨盆倾角与腰椎前凸直接相关而与后凸无直接相关。</span><span class="english">Pelvic incidence correlated directly with lumbar lordosis but not kyphosis.</span></p>

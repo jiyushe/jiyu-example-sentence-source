@@ -1,5 +1,7 @@
 # woman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woman.md)
+
 <p><span class="chinese">我的女战士。</span><span class="english">My warrior woman.</span></p>
 
 <p><span class="chinese">闻香识女人。</span><span class="english">Scent of a Woman.</span></p>

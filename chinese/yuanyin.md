@@ -1,5 +1,7 @@
 # 元音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyin.md)
+
 <p><span class="chinese">再有就是元音。</span><span class="english">Third is the vowels.</span></p>
 
 <p><span class="chinese">啧，啧，啧，我们需要一个元音。</span><span class="english">Tut, tut, tut, we need a vowel.</span></p>

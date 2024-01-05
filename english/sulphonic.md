@@ -1,5 +1,7 @@
 # sulphonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulphonic.md)
+
 <p><span class="chinese">酸萘环上含有的两个磺酸基团，在水溶液中可以解离一个或者两个。</span><span class="english">H-acid has two sulphonic groups, which can be dissociated in aquatic solutions.</span></p>
 
 <p><span class="chinese">论述了氨基磺酸的三种生产方法，并介绍了氨基磺酸的开发情况。</span><span class="english">The production and application of amino sulphonic acid are reviewed in this paper.</span></p>

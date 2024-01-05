@@ -1,5 +1,7 @@
 # 杏黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinghuang.md)
+
 <p><span class="chinese">浸水的杏黄小果，饱满圆溜。</span><span class="english">Armeniacum flooded the small fruits, full circle away.</span></p>
 
 <p><span class="chinese">系着杏黄的围巾，帽沿战略地遮住一只眼睛。</span><span class="english">Your hat strategically dipped below one eye, your scarf, it was apricot.</span></p>

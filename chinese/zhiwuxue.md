@@ -1,5 +1,7 @@
 # 植物学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwuxue.md)
+
 <p><span class="chinese">他们在谈植物学。</span><span class="english">They were discussing botany.</span></p>
 
 <p><span class="chinese">植物学论述植物的研究。</span><span class="english">Botany deals with the study of plants.</span></p>

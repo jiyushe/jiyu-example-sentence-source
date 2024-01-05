@@ -1,5 +1,7 @@
 # 嗣后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihou.md)
+
 <p><span class="chinese">嗣后，你可以逛一下附近的动物园。</span><span class="english">Afterwards you can go to the neighbouring zoo.</span></p>
 
 <p><span class="chinese">嗣后，你可以逛一下四周的动物园。</span><span class="english">Afterwards you can go to the neighbouring zoo.</span></p>

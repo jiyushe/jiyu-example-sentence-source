@@ -1,5 +1,7 @@
 # 同级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongji_1.md)
+
 <p><span class="chinese">把同级的观点以项目符号或编号的形式排列。</span><span class="english">Use bulleted or numbered lists for items in a series.</span></p>
 
 <p><span class="chinese">以它的同级功放标准衡量，它同样有着相当的音乐性。</span><span class="english">It's also pretty musical by the standards of its peers.</span></p>

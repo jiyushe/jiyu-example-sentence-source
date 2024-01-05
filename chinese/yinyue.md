@@ -1,5 +1,7 @@
 # 隐约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyue.md)
+
 <p><span class="chinese">这隐约闪烁的幻影飞掠而出。</span><span class="english">The gleaming vision flits on.</span></p>
 
 <p><span class="chinese">星星从云层中隐约出现。</span><span class="english">Stars peeped through the clouds.</span></p>

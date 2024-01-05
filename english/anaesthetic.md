@@ -1,5 +1,7 @@
 # anaesthetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anaesthetic.md)
+
 <p><span class="chinese">哇，不用麻醉剂？</span><span class="english">Wow, no anaesthetic?</span></p>
 
 <p><span class="chinese">首先我要给她打一针麻药。</span><span class="english">I'II give her a shot of anaesthetic first.</span></p>

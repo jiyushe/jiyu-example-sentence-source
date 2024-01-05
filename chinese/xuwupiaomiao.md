@@ -1,5 +1,7 @@
 # 虚无缥缈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuwupiaomiao.md)
+
 <p><span class="chinese">亦真亦假,虚无缥缈</span><span class="english">It can true,it can be false,and so on.</span></p>
 
 <p><span class="chinese">忽闻海上有仙山，山在虚无缥缈间。</span><span class="english">Then he heard a sacred mountain in the sea.</span></p>

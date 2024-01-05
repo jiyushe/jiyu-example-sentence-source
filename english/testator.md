@@ -1,5 +1,7 @@
 # testator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testator.md)
+
 <p><span class="chinese">遗嘱人可以撤销、变更自己所立的遗嘱。</span><span class="english">A testator may revoke or alter a will he previously made.</span></p>
 
 <p><span class="chinese">一份遗嘱需要立遗嘱人和两个证人的签字。</span><span class="english">A will nee ds the signature of the testator and two witness.</span></p>

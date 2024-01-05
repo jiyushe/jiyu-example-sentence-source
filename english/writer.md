@@ -1,5 +1,7 @@
 # writer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/writer.md)
+
 <p><span class="chinese">我是一名作家。</span><span class="english">I am a writer.</span></p>
 
 <p><span class="chinese">人生是一场苦旅。</span><span class="english">Life is a writer.</span></p>

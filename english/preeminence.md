@@ -1,5 +1,7 @@
 # preeminence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preeminence.md)
+
 <p><span class="chinese">先把才子分为出人头地与怀才不遇两种。</span><span class="english">First with wit is divided into two unsuccessful preeminence.</span></p>
 
 <p><span class="chinese">先生，这辆汽车质量超群，你试开一下就知道了。</span><span class="english">Sir, this car quality preeminence , you tried to open to know once.</span></p>

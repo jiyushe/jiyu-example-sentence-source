@@ -1,5 +1,7 @@
 # keystroke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keystroke.md)
+
 <p><span class="chinese">使用时间轴调整按键输入速度。</span><span class="english">Use the Timeline to change keystroke speed.</span></p>
 
 <p><span class="chinese">在你回来之后，只要按一个按键就可以恢复隐藏。</span><span class="english">After you return, just press a keystroke to unhide.</span></p>

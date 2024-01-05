@@ -1,5 +1,7 @@
 # subcategory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subcategory.md)
+
 <p><span class="chinese">想想类别和子类别的问题。</span><span class="english">Think of the category and subcategory problems.</span></p>
 
 <p><span class="chinese">每个次目录的行动计划可以通过以下两种方式的任一种实现。</span><span class="english">Action plans for each subcategory can be accessed in one of two methods.</span></p>

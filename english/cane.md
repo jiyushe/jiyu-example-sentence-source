@@ -1,5 +1,7 @@
 # cane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cane.md)
+
 <p><span class="chinese">还有小拐杖。</span><span class="english">A little cane.</span></p>
 
 <p><span class="chinese">藤条潮湿时易弯曲。</span><span class="english">Cane is pliable when wet.</span></p>

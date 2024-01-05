@@ -1,5 +1,7 @@
 # kursk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kursk.md)
+
 <p><span class="chinese">德军在库尔斯克的进攻失败了。</span><span class="english">The German offensive near Kursk fails.</span></p>
 
 <p><span class="chinese">德军在库尔斯克附近发起战斗。</span><span class="english">German troops have started fighting near Kursk.</span></p>

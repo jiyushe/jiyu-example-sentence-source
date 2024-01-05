@@ -1,5 +1,7 @@
 # elide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elide.md)
+
 <p><span class="chinese">的确，这两个目标或许正在被人们忽略。</span><span class="english">Indeed the two aims may be beginning to elide.</span></p>
 
 <p><span class="chinese">这些思维习惯忽略了普通和正常之间的区别。</span><span class="english">These habits of thinking elide the difference between what is common and what is normal.</span></p>

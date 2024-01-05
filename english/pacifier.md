@@ -1,5 +1,7 @@
 # pacifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pacifier.md)
+
 <p><span class="chinese">“超级奶爸”大概上映了一年。</span><span class="english">"The Pacifier" played for, like, a year.</span></p>
 
 <p><span class="chinese">直肠的或电子的慰抚者温度被偏爱。</span><span class="english">A rectal or electronic pacifier temperature is preferred.</span></p>

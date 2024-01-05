@@ -1,5 +1,7 @@
 # implacable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implacable.md)
+
 <p><span class="chinese">跟人家怨恨不解，的确是性格上的一个阴影可是你对于自己的缺点，已经挑剔得很严格。</span><span class="english">Implacable resentment is a shade in a character.</span></p>
 
 <p><span class="chinese">威洛比吹嘘过他不饶人的性格，他应该受到谴责。</span><span class="english">Willoughby's boast of his implacable character was to blame.</span></p>

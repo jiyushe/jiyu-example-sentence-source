@@ -1,5 +1,7 @@
 # 行踪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzong.md)
+
 <p><span class="chinese">要依风去追逐爱者的行踪。</span><span class="english">To chase trace track of love with wind.</span></p>
 
 <p><span class="chinese">也许你我终将行踪不明。</span><span class="english">Maybe you and I will eventually missing.</span></p>

@@ -1,5 +1,7 @@
 # thru
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thru.md)
+
 <p><span class="chinese">我做这到我的教堂。</span><span class="english">I do this thru my church.</span></p>
 
 <p><span class="chinese">付款是通过GAF型代管而已。</span><span class="english">Payment is thru GAF escrow only.</span></p>

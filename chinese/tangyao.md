@@ -1,5 +1,7 @@
 # 汤药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangyao.md)
+
 <p><span class="chinese">吃了这些汤药，你很快会好的！</span><span class="english">Take there herbs, you will be well soon.</span></p>
 
 <p><span class="chinese">天空翻搅着，飘着小雨，我们像是迷失在巫婆熬的汤药中一样。</span><span class="english">The sky roiled and spit as if we were lost inside some potion.</span></p>

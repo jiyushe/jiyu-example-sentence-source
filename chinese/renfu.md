@@ -1,5 +1,7 @@
 # 人夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renfu.md)
+
 <p><span class="chinese">每个人夫自己的一份钱。</span><span class="english">Each one pays his own share.</span></p>
 
 <p><span class="chinese">少罗下人夫度真村，蓝魔球场，18号洞。</span><span class="english">Doral Golf Resort, Blue Monster Course, 18th Hole.</span></p>

@@ -1,5 +1,7 @@
 # imf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imf.md)
+
 <p><span class="chinese">国际货币基金组织和世界银行胁持整个国家。</span><span class="english">The IMF & World Bank take hostage entire nations.</span></p>
 
 <p><span class="chinese">国际货币基金组织总裁因酒店性侵犯案被收监，禁止保释。</span><span class="english">IMF chief jailed without bail in NY hotel-sex case.</span></p>

@@ -1,5 +1,7 @@
 # islander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/islander.md)
+
 <p><span class="chinese">岛民是指岛屿上的居民。</span><span class="english">Islander points to inhabitant of an island.</span></p>
 
 <p><span class="chinese">我在哪里可以在线免费观看电影岛民全部流？</span><span class="english">Where can I watch Islander movie online free full stream?</span></p>

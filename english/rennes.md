@@ -1,5 +1,7 @@
 # rennes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rennes.md)
+
 <p><span class="chinese">雷恩镇居民大约8500人。</span><span class="english">Rennes town of about 8,500 residents.</span></p>
 
 <p><span class="chinese">马龙知道关于里奈已经有了几百本书。</span><span class="english">Malone knew that hundreds of books existed on Rennes.</span></p>

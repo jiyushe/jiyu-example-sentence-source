@@ -1,5 +1,7 @@
 # portion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portion.md)
+
 <p><span class="chinese">一点点分量的食物。</span><span class="english">Itsy-bitsy portion of food.</span></p>
 
 <p><span class="chinese">什么是每天食物摄入量</span><span class="english">What is a portion of things?</span></p>

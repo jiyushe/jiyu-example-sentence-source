@@ -1,5 +1,7 @@
 # 动脑筋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongnaojin.md)
+
 <p><span class="chinese">你从来都不动脑筋思考的吗？</span><span class="english">Don't you ever think at all?</span></p>
 
 <p><span class="chinese">整天做这种不用动脑筋的工作，会让我发疯的。</span><span class="english">Do the without thinking job will make me crazy.</span></p>

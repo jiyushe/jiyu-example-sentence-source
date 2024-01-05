@@ -1,5 +1,7 @@
 # avenge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avenge.md)
+
 <p><span class="chinese">要不要我代你报仇？</span><span class="english">Want me to avenge you?</span></p>
 
 <p><span class="chinese">主人……会为我复仇雪耻的！</span><span class="english">The master will avenge me!</span></p>

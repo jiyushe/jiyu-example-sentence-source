@@ -1,5 +1,7 @@
 # 不可动摇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukedongyao.md)
+
 <p><span class="chinese">不可动摇的信念曾支撑过他。</span><span class="english">Unflagging faith had persevered him.</span></p>
 
 <p><span class="chinese">我们是这样的快乐，我们的爱情根本不可动摇。</span><span class="english">We were so happy, our love unshakable.</span></p>

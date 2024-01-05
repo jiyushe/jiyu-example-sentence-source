@@ -1,5 +1,7 @@
 # 天书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianshu.md)
+
 <p><span class="chinese">这就是无字天书。</span><span class="english">This is a wordless heavenly book.</span></p>
 
 <p><span class="chinese">某天书将会被电脑所取代吗？</span><span class="english">Will books be replaced by computers one day?</span></p>

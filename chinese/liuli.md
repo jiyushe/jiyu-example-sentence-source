@@ -1,5 +1,7 @@
 # 流利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuli.md)
+
 <p><span class="chinese">他操一口流利的德语。</span><span class="english">He speaks fluent German.</span></p>
 
 <p><span class="chinese">这支笔写起来流利。</span><span class="english">The pen writes fluently.</span></p>

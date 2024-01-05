@@ -1,5 +1,7 @@
 # often
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/often.md)
+
 <p><span class="chinese">我经常哭。</span><span class="english">I often cry.</span></p>
 
 <p><span class="chinese">我动辄就哭哭啼啼。</span><span class="english">I often cry.</span></p>

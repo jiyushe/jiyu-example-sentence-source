@@ -1,5 +1,7 @@
 # thermoplastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermoplastic.md)
+
 <p><span class="chinese">这类聚合体被称为热塑材料。</span><span class="english">These polymers are said to be thermoplastic.</span></p>
 
 <p><span class="chinese">门开高影响热塑性处理。</span><span class="english">Doors open with high impact thermoplastic handles.</span></p>

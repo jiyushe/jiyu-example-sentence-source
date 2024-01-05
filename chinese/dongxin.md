@@ -1,5 +1,7 @@
 # 动心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongxin.md)
+
 <p><span class="chinese">我是一个容易动心的人。</span><span class="english">I'm a soft-hearted man.</span></p>
 
 <p><span class="chinese">有男生追女孩，她动心了。</span><span class="english">A boy to chasing girls, she soon.</span></p>

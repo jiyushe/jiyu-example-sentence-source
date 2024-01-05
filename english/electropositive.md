@@ -1,5 +1,7 @@
 # electropositive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electropositive.md)
+
 <p><span class="chinese">关于含有砷的化合物，尤指含有三价砷。</span><span class="english">A compound of arsenic with a more electropositive element.</span></p>
 
 <p><span class="chinese">强电正性原子同水和酸反应。</span><span class="english">Strongly electropositive elements react with water and acids.</span></p>

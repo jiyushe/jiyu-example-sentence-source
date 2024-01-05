@@ -1,5 +1,7 @@
 # 水龙头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilongtou.md)
+
 <p><span class="chinese">水龙头。</span><span class="english">Faucets.</span></p>
 
 <p><span class="chinese">水龙头关不上了。</span><span class="english">Then turn off the tap.</span></p>

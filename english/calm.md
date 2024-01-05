@@ -1,5 +1,7 @@
 # calm 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calm.md)
+
 <p><span class="chinese">看透了，也就心静了。</span><span class="english">See, also calm.</span></p>
 
 <p><span class="chinese">奈妲冷静下来。</span><span class="english">Naida grew calm.</span></p>

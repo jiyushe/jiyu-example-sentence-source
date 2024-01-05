@@ -1,5 +1,7 @@
 # thermotropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermotropic.md)
+
 <p><span class="chinese">评价了热致液晶高聚物作为高性能成型材料的特点。</span><span class="english">Characteristics of thermotropic liquid crystal polymers used as high-performance moulded products are commented.</span></p>
 
 <p><span class="chinese">结果表明，该聚合物为热致液晶，能够呈现近晶相和向列相织构。</span><span class="english">The results showed that the polymer is a thermotropic liquid crystal and appeared of nematic and smectic texture.</span></p>

@@ -1,5 +1,7 @@
 # limulus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limulus.md)
+
 <p><span class="chinese">方法采用凝胶法和动态浊度法鲎试验。</span><span class="english">METHODS Gel clot and kinetic turbidimetric limulus tests were applied.</span></p>
 
 <p><span class="chinese">内毒素测定采用鲎试验偶氮基质显色法。</span><span class="english">Serum endotoxin was determined by limulus ameobatic chromogenic assay.</span></p>

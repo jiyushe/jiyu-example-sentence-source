@@ -1,5 +1,7 @@
 # rootstock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rootstock.md)
+
 <p><span class="chinese">根茎为深的直根，粗的10毫米。</span><span class="english">Rootstock a deep taproot to 10 mm thick.</span></p>
 
 <p><span class="chinese">直根和根茎坚固的，红棕色。</span><span class="english">Taproot and rootstock stout, reddish-brown.</span></p>

@@ -1,5 +1,7 @@
 # amputee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amputee.md)
+
 <p><span class="chinese">茱莉亚说，“帮助那些因战争致残的人。</span><span class="english">Help an amputee with the War Amps.</span></p>
 
 <p><span class="chinese">单腿膝上截肢的残疾人欲站立行走，假腿便要成为他们身体的重要组成部分。</span><span class="english">The prosthetic leg is an important part for the above-knee amputee to stand up and walk.</span></p>

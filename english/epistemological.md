@@ -1,5 +1,7 @@
 # epistemological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epistemological.md)
+
 <p><span class="chinese">新科玄之争存在深刻的认识论根源。</span><span class="english">The debates have incisive epistemological causes.</span></p>
 
 <p><span class="chinese">那便是他对认识论的简要概括。</span><span class="english">So a very very quick summary of his epistemological approach.</span></p>

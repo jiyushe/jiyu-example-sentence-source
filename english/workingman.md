@@ -1,5 +1,7 @@
 # workingman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workingman.md)
+
 <p><span class="chinese">我父亲是一个体力劳动者。</span><span class="english">My father was a workingman.</span></p>
 
 <p><span class="chinese">现在看来，那工人和白先生很可能是同一个人。</span><span class="english">It now seemed probable that that workingman and M.</span></p>

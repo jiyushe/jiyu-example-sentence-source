@@ -1,5 +1,7 @@
 # 结晶体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejingti.md)
+
 <p><span class="chinese">这是雪和冰的结晶体。</span><span class="english">It is snow and ice crystals.</span></p>
 
 <p><span class="chinese">施釉三遍及均匀地遍布结晶体。</span><span class="english">Brush 3 coasts dispersing the crystals evenly.</span></p>

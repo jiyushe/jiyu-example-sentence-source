@@ -1,5 +1,7 @@
 # craps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craps.md)
+
 <p><span class="chinese">生活不如意时，不要捡起那块小石头。</span><span class="english">When life craps on you, don’t pick up the rock.</span></p>
 
 <p><span class="chinese">整件事情，说穿了，就他妈的一个字，背！</span><span class="english">The whole thing, to be honest, is just one thing of craps.</span></p>

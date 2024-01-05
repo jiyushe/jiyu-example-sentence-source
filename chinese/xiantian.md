@@ -1,5 +1,7 @@
 # 先天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiantian.md)
+
 <p><span class="chinese">主情主义又有其先天的缺弊。</span><span class="english">Emotionalism also has its innate defect.</span></p>
 
 <p><span class="chinese">这是一场关于先天遗传与后天环境的无果辩论。</span><span class="english">This is a fruitless nature-nurture debate.</span></p>

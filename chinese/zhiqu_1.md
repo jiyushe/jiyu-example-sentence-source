@@ -1,5 +1,7 @@
 # 支取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqu_1.md)
+
 <p><span class="chinese">改变支取资金的划转方式。</span><span class="english">New method of the transfer of the Housing Fund.</span></p>
 
 <p><span class="chinese">我要从我的定期存款中支取200美圆。</span><span class="english">I want to withdraw 200 dollars from my  deposit account.</span></p>

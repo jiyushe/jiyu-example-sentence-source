@@ -1,5 +1,7 @@
 # 戒条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jietiao.md)
+
 <p><span class="chinese">这是最伟大和最首要的戒条。</span><span class="english">This is the great and first commandment.</span></p>
 
 <p><span class="chinese">他们很少触及政府的戒条。</span><span class="english">They rarely push the government's limits.</span></p>

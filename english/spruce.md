@@ -1,5 +1,7 @@
 # spruce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spruce.md)
+
 <p><span class="chinese">打扮一下跟我走。</span><span class="english">Spruce up and go with me.</span></p>
 
 <p><span class="chinese">把你自己打扮得整洁漂亮一点，你的样子很邋遢。</span><span class="english">Spruce yourself up a fit-you look a mess.</span></p>

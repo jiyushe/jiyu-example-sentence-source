@@ -1,5 +1,7 @@
 # disaffected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disaffected.md)
+
 <p><span class="chinese">政府的政策已激起了人民的不满。</span><span class="english">The government's policies have disaffected the pepole.</span></p>
 
 <p><span class="chinese">也许那个时候就已经到了青春叛逆期了吧！</span><span class="english">Maybe that time has come to the disaffected youth of the bar!</span></p>

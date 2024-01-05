@@ -1,5 +1,7 @@
 # distributed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distributed.md)
+
 <p><span class="chinese">分散式团队。</span><span class="english">Distributed teams.</span></p>
 
 <p><span class="chinese">在美国由华纳唱片发行。</span><span class="english">Distributed in the US by WMG.</span></p>

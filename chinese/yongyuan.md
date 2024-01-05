@@ -1,5 +1,7 @@
 # 永远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongyuan.md)
+
 <p><span class="chinese">你永远不会死。</span><span class="english">You never do die.</span></p>
 
 <p><span class="chinese">傻女，我爱你直到永远！</span><span class="english">I love U forever !</span></p>

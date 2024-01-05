@@ -1,5 +1,7 @@
 # 琴键
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinjian_1.md)
+
 <p><span class="chinese">他轻轻地触动琴键。</span><span class="english">He touched the keys gently.</span></p>
 
 <p><span class="chinese">钢琴有黑白两种琴键。</span><span class="english">A piano has black keys and white keys.</span></p>

@@ -1,5 +1,7 @@
 # 综采
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongcai_1.md)
+
 <p><span class="chinese">分层综采是厚煤层采煤方法之一。</span><span class="english">Slicing fully mechanized mining method is one of mining methods of thick seams.</span></p>
 
 <p><span class="chinese">担负大倾角工作面开采的综采队队长孙兆冰告诉笔者。</span><span class="english">Shoulder angle working face big mechanized mining captain Zhao-Bing told reporters.</span></p>

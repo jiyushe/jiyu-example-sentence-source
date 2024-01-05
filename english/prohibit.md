@@ -1,5 +1,7 @@
 # prohibit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prohibit.md)
+
 <p><span class="chinese">禁止闲时不想我！</span><span class="english">Prohibit I do not think when idle!</span></p>
 
 <p><span class="chinese">禁止…反言或禁止…翻供。</span><span class="english">To impede or prohibit by estoppel.</span></p>

@@ -1,5 +1,7 @@
 # confined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confined.md)
+
 <p><span class="chinese">为什么要是使用限定的空间？</span><span class="english">Why use those confined spaces?</span></p>
 
 <p><span class="chinese">她的病使她整天躺在床上。</span><span class="english">Her illness confined her to bed.</span></p>

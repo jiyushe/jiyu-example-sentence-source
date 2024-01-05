@@ -1,5 +1,7 @@
 # dreadnought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreadnought.md)
+
 <p><span class="chinese">一个无畏虽然失去了一条腿，但是也不会摧毁。</span><span class="english">Whilst the loss of a leg will not destroy a Dreadnought.</span></p>
 
 <p><span class="chinese">星界巨舰兽不会说话或者与人沟通。</span><span class="english">An astral dreadnought does not speak or otherwise communicate.</span></p>

@@ -1,5 +1,7 @@
 # 重视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshi_6.md)
+
 <p><span class="chinese">希望你们也能重视。</span><span class="english">We hope you do as well.</span></p>
 
 <p><span class="chinese">我们都重视教育。</span><span class="english">All of us value education.</span></p>

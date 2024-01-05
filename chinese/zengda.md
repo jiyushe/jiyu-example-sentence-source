@@ -1,5 +1,7 @@
 # 增大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengda.md)
+
 <p><span class="chinese">现在我已经整整增大了一个罩杯。</span><span class="english">I have added a full cup size.</span></p>
 
 <p><span class="chinese">增大的恐慌到处传播谣言。</span><span class="english">Growing panic blew the rumour about.</span></p>

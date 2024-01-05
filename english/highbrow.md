@@ -1,5 +1,7 @@
 # highbrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/highbrow.md)
+
 <p><span class="chinese">我们就古典音乐来了一次高水准的讨论。</span><span class="english">We had a highbrow discussion on classical music.</span></p>
 
 <p><span class="chinese">在第一流的报纸内对我颇有吸引力的是书刊评论和影评。</span><span class="english">What appeals to me in the highbrow papers are the books and film reviews.</span></p>

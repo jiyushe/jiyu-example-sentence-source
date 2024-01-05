@@ -1,5 +1,7 @@
 # crooner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crooner.md)
+
 <p><span class="chinese">但是一个古老学校的歌手启发了我。</span><span class="english">But that image of an old-school crooner inspired me.</span></p>
 
 <p><span class="chinese">出于好奇，我们联系了这位48岁的歌手李磊。</span><span class="english">Curious, we got in touch with Li Lei, the 48-year-old crooner.</span></p>

@@ -1,5 +1,7 @@
 # 入夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruye.md)
+
 <p><span class="chinese">已经入夜了。</span><span class="english">It is already night.</span></p>
 
 <p><span class="chinese">即使只有几个街口之遥，入夜后搭计程车是唯一选择。</span><span class="english">Your only option at night is to take a taxi.</span></p>

@@ -1,5 +1,7 @@
 # carpel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carpel.md)
+
 <p><span class="chinese">由两个或多个心皮形成的开裂干果。</span><span class="english">A dry, dehiscent fruit composed of more than one carpel.</span></p>
 
 <p><span class="chinese">写花程式时，子房上位的表示方法是在心皮数下加一横线。</span><span class="english">In a floral formula a superior ovary is denoted by a line below the carpel number.</span></p>

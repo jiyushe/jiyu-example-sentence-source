@@ -1,5 +1,7 @@
 # seem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seem.md)
+
 <p><span class="chinese">看起来让人烦躁不安。</span><span class="english">They seem fretful.</span></p>
 
 <p><span class="chinese">你看起来有点沮丧。</span><span class="english">You seem to be upset.</span></p>

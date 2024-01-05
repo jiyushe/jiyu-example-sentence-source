@@ -1,5 +1,7 @@
 # 战犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanfan.md)
+
 <p><span class="chinese">战犯求和。</span><span class="english">The war criminals sue for peace.</span></p>
 
 <p><span class="chinese">纳粹战犯因其灭绝人性的罪行而被判刑。</span><span class="english">The Nazi war criminals were condemned for crimes against humanity.</span></p>

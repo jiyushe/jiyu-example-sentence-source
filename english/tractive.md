@@ -1,5 +1,7 @@
 # tractive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tractive.md)
+
 <p><span class="chinese">论文的第一篇是关于铁路栈桥列车牵引计算。</span><span class="english">The first piece is about the tractive calculation on railway trestle.</span></p>
 
 <p><span class="chinese">对于高粘性泥沙，临界推移力就成为不重要的。</span><span class="english">For highly cohesive sediment, the critical tractive force becomes less significant.</span></p>

@@ -1,5 +1,7 @@
 # 吸气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiqi_1.md)
+
 <p><span class="chinese">深深缓慢地吸气。</span><span class="english">Deep, slow inhalation.</span></p>
 
 <p><span class="chinese">吸气，进入眼镜蛇式。</span><span class="english">Inhale into Cobra pose.</span></p>

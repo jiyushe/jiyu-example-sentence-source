@@ -1,5 +1,7 @@
 # pub 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pub.md)
+
 <p><span class="chinese">我喜欢那家小酒店。</span><span class="english">I like that small pub.</span></p>
 
 <p><span class="chinese">我和她约在当地的一家酒吧碰面。</span><span class="english">I meet her at a local pub.</span></p>

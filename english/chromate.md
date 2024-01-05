@@ -1,5 +1,7 @@
 # chromate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromate.md)
+
 <p><span class="chinese">与铬酸盐对待了模子塑像治疗。</span><span class="english">With chromate treated die cast treatment.</span></p>
 
 <p><span class="chinese">电镀铬自己能做么？</span><span class="english">Can self make electricity chromate treatment ?</span></p>

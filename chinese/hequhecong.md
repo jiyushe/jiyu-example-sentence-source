@@ -1,5 +1,7 @@
 # 何去何从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hequhecong.md)
+
 <p><span class="chinese">英特尔何去何从?</span><span class="english">WHITHER INTEL?</span></p>
 
 <p><span class="chinese">乐声戛然而止时，他们又将何去何从？</span><span class="english">What will they do when the music stops?</span></p>

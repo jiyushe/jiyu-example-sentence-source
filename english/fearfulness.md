@@ -1,5 +1,7 @@
 # fearfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fearfulness.md)
+
 <p><span class="chinese">我担心地打开了壁橱。</span><span class="english">I opened the closet with fearfulness.</span></p>
 
 <p><span class="chinese">我对探戈的激情掩饰着一个恐惧。</span><span class="english">My passion for tango disguises a fearfulness.</span></p>

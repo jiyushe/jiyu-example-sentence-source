@@ -1,5 +1,7 @@
 # 天火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianhuo.md)
+
 <p><span class="chinese">天火大火迎头赶上和网页加载迅速。</span><span class="english">Skyfire fires up fast and web pages load quickly.</span></p>
 
 <p><span class="chinese">但用户不能看Hulu的视频并不能说成是天火的错。</span><span class="english">But it's not Skyfire's fault that you can't view Hulu videos.</span></p>

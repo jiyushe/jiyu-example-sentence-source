@@ -1,5 +1,7 @@
 # tamar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tamar.md)
+
 <p><span class="chinese">犹大从他玛氏生法勒斯和谢拉“</span><span class="english">Judah had Perez and Zerah from Tamar."</span></p>
 
 <p><span class="chinese">他玛就孤孤单单地住在他胞兄押沙龙家里。</span><span class="english">So Tamar remained desolate in her brother Absalom's house.</span></p>

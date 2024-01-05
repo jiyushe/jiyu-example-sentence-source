@@ -1,5 +1,7 @@
 # 恍然大悟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangrandawu.md)
+
 <p><span class="chinese">碰了壁，我恍然大悟。</span><span class="english">Touched the wall, I came.</span></p>
 
 <p><span class="chinese">八重恍然大悟。</span><span class="english">Eight heavy take a tumble.</span></p>

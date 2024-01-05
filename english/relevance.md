@@ -1,5 +1,7 @@
 # relevance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relevance.md)
+
 <p><span class="chinese">它能跟什么相关呢？</span><span class="english">What relevance could it have?</span></p>
 
 <p><span class="chinese">他的发言不太贴题。</span><span class="english">His speech bore little relevance.</span></p>

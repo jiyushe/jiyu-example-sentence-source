@@ -1,5 +1,7 @@
 # oiled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oiled.md)
+
 <p><span class="chinese">全谷物上油皮革鞋面。</span><span class="english">Full-grain oiled leather upper.</span></p>
 
 <p><span class="chinese">他灌下更多的伏特加来促进思考。</span><span class="english">He oiled thought with more vodka.</span></p>

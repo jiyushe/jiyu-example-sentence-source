@@ -1,5 +1,7 @@
 # 阶下囚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiexiaqiu.md)
+
 <p><span class="chinese">贪婪让他变成了阶下囚。</span><span class="english">It is greed that reduced him to a prisoner.</span></p>
 
 <p><span class="chinese">最后他被几个强壮的海盗抓住而沦为阶下囚。</span><span class="english">At last he was caught as a prisoner by several strong pirates.</span></p>

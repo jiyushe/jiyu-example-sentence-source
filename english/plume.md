@@ -1,5 +1,7 @@
 # plume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plume.md)
+
 <p><span class="chinese">有一缕缕的浓烟，</span><span class="english">this huge plume of smoke,</span></p>
 
 <p><span class="chinese">尾部的披毛更长，在尾巴形成羽毛状。</span><span class="english">Longer hair on the tail forms a plume.</span></p>

@@ -1,5 +1,7 @@
 # 着火点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaohuodian.md)
+
 <p><span class="chinese">②必须达到着火点。</span><span class="english">Must achieve the kindling point.</span></p>
 
 <p><span class="chinese">燃烧距离从着火点开始测量。</span><span class="english">Distance is measured from the point of ignition.</span></p>

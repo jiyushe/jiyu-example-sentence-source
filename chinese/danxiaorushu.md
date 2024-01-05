@@ -1,5 +1,7 @@
 # 胆小如鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danxiaorushu.md)
+
 <p><span class="chinese">这个男孩胆小如鼠。</span><span class="english">The boy is as timid as a rabbit.</span></p>
 
 <p><span class="chinese">她因他胆小如鼠而鄙视他。</span><span class="english">She despised him for his cowardice.</span></p>

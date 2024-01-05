@@ -1,5 +1,7 @@
 # 折光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheguang.md)
+
 <p><span class="chinese">这是马克思主义预言的一种折光。</span><span class="english">This is a refraction of Marxist predictions.</span></p>
 
 <p><span class="chinese">醉人的樱桃红泛着紫色的折光。</span><span class="english">Attractive cherry red color with violet shimmer.</span></p>

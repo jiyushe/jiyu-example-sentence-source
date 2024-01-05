@@ -1,5 +1,7 @@
 # 油亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youliang_1.md)
+
 <p><span class="chinese">他注意到，她长长的波浪卷发，乌黑油亮。</span><span class="english">Her long wavy hair was jet black.</span></p>
 
 <p><span class="chinese">莫里斯说，吃蘸酱墨西哥煎玉米卷让小鸡的鸡冠变得油亮鲜红。</span><span class="english">Morris said taco sauce makes her comb light up bright red.</span></p>

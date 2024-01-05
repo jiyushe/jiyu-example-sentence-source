@@ -1,5 +1,7 @@
 # 爽心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangxin.md)
+
 <p><span class="chinese">其研究对象是爽心食品，目的是探究人们对爽心食品的感觉。</span><span class="english">The study focuses on "comfort food" and how it makes people feel.</span></p>
 
 <p><span class="chinese">在这个酷热的夏天，有了它们的相伴，我们人爽心也爽！</span><span class="english">In this hot summer, with their companions, we were Shuang Shuang heart!</span></p>

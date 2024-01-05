@@ -1,5 +1,7 @@
 # cgi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cgi.md)
+
 <p><span class="chinese">有时候，你并不需要用CGI来做一个自我解压。</span><span class="english">Sometimes you don't need the CGI to make awesome SFX. —hughho</span></p>
 
 <p><span class="chinese">这样，对于主要的投票CGI程序，耦合性就是最小的。</span><span class="english">In this way there was minimal coupling to the main ballot CGI program.</span></p>

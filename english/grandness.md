@@ -1,5 +1,7 @@
 # grandness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandness.md)
+
 <p><span class="chinese">伟大是需要时间证明的。</span><span class="english">Grandness need time to prove.</span></p>
 
 <p><span class="chinese">遗传算法是一种宏观意义上的仿生算法。</span><span class="english">GA is mimic-life algorithm in grandness.</span></p>

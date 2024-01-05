@@ -1,5 +1,7 @@
 # boll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boll.md)
+
 <p><span class="chinese">因为我们原以为它是一只雄猫呢。</span><span class="english">That cat is rolling a boll.</span></p>
 
 <p><span class="chinese">我很在意不乌韦棉铃电影。</span><span class="english">I don't much care for Uwe Boll movies.</span></p>

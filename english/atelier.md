@@ -1,5 +1,7 @@
 # atelier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atelier.md)
+
 <p><span class="chinese">这个工作室坐落在草坪之上。</span><span class="english">The atelier is located across the lawn.</span></p>
 
 <p><span class="chinese">一次，我去米兰拜访一家很棒的工作室。</span><span class="english">I once visited a very nice atelier in Milan.</span></p>

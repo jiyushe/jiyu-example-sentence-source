@@ -1,5 +1,7 @@
 # boxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boxy.md)
+
 <p><span class="chinese">那些四方形、没有品味的摊子出售糖果和香芋。</span><span class="english">Candy bars and cigarettes are sold from boxy tasteless kiosks.</span></p>
 
 <p><span class="chinese">我喜欢这种现代的方方正正的形状和大印花产生的对比。</span><span class="english">I love the contrast of the modern boxy shape with the large florals.</span></p>

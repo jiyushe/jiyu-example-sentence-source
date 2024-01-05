@@ -1,5 +1,7 @@
 # boutique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boutique.md)
+
 <p><span class="chinese">那家时装用品小商店没有多少货可供选择。</span><span class="english">The boutique has a poor choice of dresses.</span></p>
 
 <p><span class="chinese">市中心有许多精品和特色店。</span><span class="english">There are many boutique and specialty shops.</span></p>

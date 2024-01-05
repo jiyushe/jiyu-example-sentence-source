@@ -1,5 +1,7 @@
 # unsalted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsalted.md)
+
 <p><span class="chinese">确保选择不咸的品种。</span><span class="english">Be sure to choose the unsalted variety.</span></p>
 
 <p><span class="chinese">一个不加盐软奶酪从母羊'牛奶。</span><span class="english">An unsalted soft cheese made from ewes' milk.</span></p>

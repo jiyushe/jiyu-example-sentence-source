@@ -1,5 +1,7 @@
 # 故地重游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudizhongyou.md)
+
 <p><span class="chinese">故地重游嘛，当然兴奋了。</span><span class="english">Revisiting an old haunt is surely exciting.</span></p>
 
 <p><span class="chinese">没有时间故地重游，去充实我们的精神世界。</span><span class="english">No time to re-visit these sites and replenish our spirits.</span></p>

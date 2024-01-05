@@ -1,5 +1,7 @@
 # 火种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huozhong.md)
+
 <p><span class="chinese">我们必需保护火种源！</span><span class="english">We must protect the Allspark cube!</span></p>
 
 <p><span class="chinese">敢用什么手攫取这火种？</span><span class="english">What the hand dare seize the fire?</span></p>

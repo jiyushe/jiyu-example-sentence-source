@@ -1,5 +1,7 @@
 # 适得其反
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shideqifan.md)
+
 <p><span class="chinese">甚至我们的最周密安排的计划也可能产生适得其反的结果。</span><span class="english">Even our most carefully laid plans may backfire.</span></p>
 
 <p><span class="chinese">不过我觉得这几乎总是适得其反的。</span><span class="english">I think this is almost always counter-productive.</span></p>

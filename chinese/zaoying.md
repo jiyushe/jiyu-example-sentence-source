@@ -1,5 +1,7 @@
 # 造影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoying.md)
+
 <p><span class="chinese">血管造影是一种X射线测试。</span><span class="english">An angiogram is a kind of X-ray test.</span></p>
 
 <p><span class="chinese">核磁共振造影术在医界引起一阵骚动。</span><span class="english">MRI has caused a stir in the medical community.</span></p>

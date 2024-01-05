@@ -1,5 +1,7 @@
 # our 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/our_1.md)
+
 <p><span class="chinese">我们的爱。</span><span class="english">Our love.</span></p>
 
 <p><span class="chinese">我们的家！</span><span class="english">Our houses!</span></p>

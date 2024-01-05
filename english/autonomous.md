@@ -1,5 +1,7 @@
 # autonomous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autonomous.md)
+
 <p><span class="chinese">我来自广西壮族自治区。</span><span class="english">I come from Guangxi Zhuang Autonomous Region.</span></p>
 
 <p><span class="chinese">生命主体决非是一个具有自主权的主体。</span><span class="english">In no case is a subject an autonomous entity.</span></p>

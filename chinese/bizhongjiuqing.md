@@ -1,5 +1,7 @@
 # 避重就轻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhongjiuqing.md)
+
 <p><span class="chinese">政府总是将来也总会篡改数字和避重就轻。</span><span class="english">Governmentsalways have and always will fudge figures and cook books.</span></p>
 
 <p><span class="chinese">但当被问到哪怕只有一点点涉及名誉、财富甚至年龄的问题时，章瑞平又显得避重就轻起来。</span><span class="english">But he squirms when asked about anything remotely related to fame or fortune – or even his age.</span></p>

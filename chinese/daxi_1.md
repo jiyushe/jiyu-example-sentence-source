@@ -1,5 +1,7 @@
 # 大戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxi_1.md)
+
 <p><span class="chinese">很难想象，策划这两场大戏的导演均是里皮。</span><span class="english">Very difficult to imagine, plans these two major drama's direction is Lipi.</span></p>
 
 <p><span class="chinese">如果把2005年的中国车市比作一出精彩大戏的话，那么已经开演的上海车展无疑是这场戏的序曲。</span><span class="english">If the 2005 market is a big show, the coming Shanghai Auto Show is the prelude.</span></p>

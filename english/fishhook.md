@@ -1,5 +1,7 @@
 # fishhook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishhook.md)
+
 <p><span class="chinese">一个鱼钩？</span><span class="english">A fishhook?</span></p>
 
 <p><span class="chinese">然后我卖了他一个中等鱼钩。</span><span class="english">Then I sold him a medium fishhook.</span></p>

@@ -1,5 +1,7 @@
 # sweetly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweetly.md)
+
 <p><span class="chinese">这辆车骑起来很轻快。</span><span class="english">The bicycle runs sweetly.</span></p>
 
 <p><span class="chinese">多萝西对她甜甜一笑。</span><span class="english">Dorothy smiled sweetly at him.</span></p>

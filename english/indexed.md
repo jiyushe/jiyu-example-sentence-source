@@ -1,5 +1,7 @@
 # indexed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indexed.md)
+
 <p><span class="chinese">内容完全编入索引以支持搜索</span><span class="english">Content is fully indexed to support search</span></p>
 
 <p><span class="chinese">不要使用非默认索引属性。</span><span class="english">Do not use non-default indexed properties.</span></p>

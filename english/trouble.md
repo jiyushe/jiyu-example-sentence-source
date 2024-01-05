@@ -1,5 +1,7 @@
 # trouble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trouble.md)
+
 <p><span class="chinese">女人真麻烦。</span><span class="english">Female trouble.</span></p>
 
 <p><span class="chinese">艾尔弗雷德闯祸了吗？</span><span class="english">Is Alfred in trouble?</span></p>

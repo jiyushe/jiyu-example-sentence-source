@@ -1,5 +1,7 @@
 # 散文诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanwenshi.md)
+
 <p><span class="chinese">它写得像散文诗一样优美。</span><span class="english">It is a beautifully written prose-poem.</span></p>
 
 <p><span class="chinese">我爱好古典音乐、散文诗以及艺术。</span><span class="english">I love classical music, prose poetry and art.</span></p>

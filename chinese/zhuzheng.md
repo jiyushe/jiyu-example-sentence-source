@@ -1,5 +1,7 @@
 # 主政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzheng.md)
+
 <p><span class="chinese">这是我主政以来大家的共同愿景。</span><span class="english">That’s been our vision since taking office.</span></p>
 
 <p><span class="chinese">撒切尔夫人担任反对党领袖那会儿，彭爵士正好主政研究部。</span><span class="english">Lord Patten was director while Mrs Thatcher was Leader of the Opposition.</span></p>

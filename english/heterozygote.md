@@ -1,5 +1,7 @@
 # heterozygote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterozygote.md)
+
 <p><span class="chinese">在内含子16内有1个位点存在转换型杂合子。</span><span class="english">In intron 16 one site has transition heterozygote.</span></p>
 
 <p><span class="chinese">先证者为黎族男青年，属杂合子。</span><span class="english">The propositus was a young man of Li ethnic group, belonging to heterozygote.</span></p>

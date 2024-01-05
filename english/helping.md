@@ -1,5 +1,7 @@
 # helping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helping.md)
+
 <p><span class="chinese">谢谢你报了我的忙。</span><span class="english">Thank you for helping me.</span></p>
 
 <p><span class="chinese">请您帮个忙好吗?</span><span class="english">Would you mind helping me?</span></p>

@@ -1,5 +1,7 @@
 # sheen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheen.md)
+
 <p><span class="chinese">查理·申又回来了！</span><span class="english">Charlie Sheen is at it again!</span></p>
 
 <p><span class="chinese">柔和的棕黄色带微妙的绿色光泽。</span><span class="english">Soft tan with a subtle green sheen.</span></p>

@@ -1,5 +1,7 @@
 # 高兴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoxing.md)
+
 <p><span class="chinese">为她感到高兴？</span><span class="english">Happy for her?</span></p>
 
 <p><span class="chinese">我实在是太高兴了!</span><span class="english">I was so happy!</span></p>

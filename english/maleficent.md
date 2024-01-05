@@ -1,5 +1,7 @@
 # maleficent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maleficent.md)
+
 <p><span class="chinese">莫丽费森出现在门口。</span><span class="english">Maleficent appears in the door.</span></p>
 
 <p><span class="chinese">带有国家规定检疫对象的有害生物的。</span><span class="english">With maleficent organism quarantined by the national.</span></p>

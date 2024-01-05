@@ -1,5 +1,7 @@
 # ovum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovum.md)
+
 <p><span class="chinese">精卵融合之前精子必须获能。</span><span class="english">Sperm must be capacitated before sperm ovum fusion.</span></p>
 
 <p><span class="chinese">这一现象同样存在于马尾松毛虫卵内。</span><span class="english">This appearance exists similarly in Dendrolimus punctatus Walker ovum.</span></p>

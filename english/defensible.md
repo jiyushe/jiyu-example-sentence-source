@@ -1,5 +1,7 @@
 # defensible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defensible.md)
+
 <p><span class="chinese">堕胎从道德上讲合乎情理吗？</span><span class="english">Is abortion morally defensible?</span></p>
 
 <p><span class="chinese">既然如此，那是什么让我们相信互联网更能站得住脚？</span><span class="english">So what makes us think that the Internet is more defensible?</span></p>

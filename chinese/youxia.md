@@ -1,5 +1,7 @@
 # 游侠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxia.md)
+
 <p><span class="chinese">他只是个徒有虚名的游侠罢了。</span><span class="english">He is poor apology for a paladin.</span></p>
 
 <p><span class="chinese">他曾是一个著名的游侠。</span><span class="english">He was a well-known errant knight.</span></p>

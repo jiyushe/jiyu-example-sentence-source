@@ -1,5 +1,7 @@
 # tingle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tingle.md)
+
 <p><span class="chinese">我的良心开始感到刺痛貂。</span><span class="english">My conscience began to tingle.</span></p>
 
 <p><span class="chinese">振动支持萨伯瑞激动？</span><span class="english">Vibration support with Sabre Tingle?</span></p>

@@ -1,5 +1,7 @@
 # revival
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revival.md)
+
 <p><span class="chinese">为什么勾践要选择屈服和卧薪尝胆。</span><span class="english">Why choose Gou yield and Revival.</span></p>
 
 <p><span class="chinese">甲928复苏可能是其中之一。</span><span class="english">A 928 revival could be one of them.</span></p>

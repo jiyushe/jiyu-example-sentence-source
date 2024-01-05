@@ -1,5 +1,7 @@
 # orthodontics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthodontics.md)
+
 <p><span class="chinese">上切牙拥挤矫治效果较下切牙好。</span><span class="english">The orthodontics effect of upper-incision was better.</span></p>
 
 <p><span class="chinese">美国正牙学与牙面矫形学杂志。</span><span class="english">American Journal of Orthodontics and Dentofacial Orthopedics.</span></p>

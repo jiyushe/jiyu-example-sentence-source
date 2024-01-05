@@ -1,5 +1,7 @@
 # 正确
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengque.md)
+
 <p><span class="chinese">但是，这是正确的。</span><span class="english">But it is right.</span></p>
 
 <p><span class="chinese">那么这是否正确？</span><span class="english">So is it correct?</span></p>

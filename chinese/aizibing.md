@@ -1,5 +1,7 @@
 # 爱滋病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aizibing.md)
+
 <p><span class="chinese">因此便有了爱滋病这个病名。</span><span class="english">Hence came the name Aids.</span></p>
 
 <p><span class="chinese">建立红丝带中心，消灭爱滋病病毒！</span><span class="english">Set up red riband centre, perish HIV.</span></p>

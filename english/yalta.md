@@ -1,5 +1,7 @@
 # yalta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yalta.md)
+
 <p><span class="chinese">热那亚之于利久立海，就如雅尔达之于什麽？</span><span class="english">Genoa is to the Ligurian Sea as Yalta is to the WHAT?</span></p>
 
 <p><span class="chinese">雅尔塔会议做的主要决定是什么？</span><span class="english">What was the major decisions made at Yalta conference?</span></p>

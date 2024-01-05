@@ -1,5 +1,7 @@
 # mortar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortar.md)
+
 <p><span class="chinese">灰泥把砖粘合在一起。</span><span class="english">Mortar knits bricks together.</span></p>
 
 <p><span class="chinese">砖泥搭造撑不久。</span><span class="english">Bricks and mortar will not stay.</span></p>

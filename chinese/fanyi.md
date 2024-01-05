@@ -1,5 +1,7 @@
 # 翻译
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyi.md)
+
 <p><span class="chinese">见鬼去吧！坏情绪！怎麽翻译？</span><span class="english">Go to hell! Bad mood!</span></p>
 
 <p><span class="chinese">翻译句子这抽屉锁不上。</span><span class="english">This drawer won't lock.</span></p>

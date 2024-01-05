@@ -1,5 +1,7 @@
 # cadence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadence.md)
+
 <p><span class="chinese">他抑扬顿挫地朗诵诗歌。</span><span class="english">He read the poems with cadence.</span></p>
 
 <p><span class="chinese">为什么要以较高的步频节奏跑步？</span><span class="english">Why run with a higher running cadence?</span></p>

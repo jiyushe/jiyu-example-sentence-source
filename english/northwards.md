@@ -1,5 +1,7 @@
 # northwards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northwards.md)
+
 <p><span class="chinese">我们向北航行。</span><span class="english">We sailed northwards.</span></p>
 
 <p><span class="chinese">我们从伦敦驱车向北开到伯明翰。</span><span class="english">From London we drove northwards to Birmingham.</span></p>

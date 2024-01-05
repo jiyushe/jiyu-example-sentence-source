@@ -1,5 +1,7 @@
 # vasoactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasoactive.md)
+
 <p><span class="chinese">记录两组血管活性药物的使用情况。</span><span class="english">The use of vasoactive agents was also recorded.</span></p>
 
 <p><span class="chinese">抑或是小脑中的一些额外的血管活性肽作用了？</span><span class="english">A little extra Vasoactive Peptide in the Cerebellum?</span></p>

@@ -1,5 +1,7 @@
 # mischance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mischance.md)
+
 <p><span class="chinese">我把你的文件丢了，纯粹是碰上倒霉事了。</span><span class="english">I lost your file by pure mischance.</span></p>
 
 <p><span class="chinese">人都必须考虑灾难的可能性。</span><span class="english">One has to consider the chance of a mischance.</span></p>

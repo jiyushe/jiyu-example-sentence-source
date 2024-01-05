@@ -1,5 +1,7 @@
 # encompass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encompass.md)
+
 <p><span class="chinese">他们在城堡周围修了一条护城河。</span><span class="english">They built a moat to encompass the castle.</span></p>
 
 <p><span class="chinese">他将不再把她包围得死死的。</span><span class="english">He would no longer encompass every area of her life.</span></p>

@@ -1,5 +1,7 @@
 # underside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underside.md)
+
 <p><span class="chinese">用于卷材上墙时的背面开槽。</span><span class="english">For underside grooving of wall cove base.</span></p>
 
 <p><span class="chinese">岩石下面布满了海藻。</span><span class="english">The underside of the rock was covered with seaweed.</span></p>

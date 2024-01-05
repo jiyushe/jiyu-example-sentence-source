@@ -1,5 +1,7 @@
 # annexation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annexation.md)
+
 <p><span class="chinese">她让永民重新改一下兼并战略。</span><span class="english">She let people forever change again annexation strategy.</span></p>
 
 <p><span class="chinese">大多数华族琉球人在日本吞并战争时被通缉。</span><span class="english">Most of the Kumemura wanted war with Japan during annexation.</span></p>

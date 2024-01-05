@@ -1,5 +1,7 @@
 # sparely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparely.md)
+
 <p><span class="chinese">这个故事叙述得较为简略，人物的对话也很少。</span><span class="english">This story too is relatively sparely narrated, with little reported speech.</span></p>
 
 <p><span class="chinese">为网友提供至善至美的听觉享受不遗余力。</span><span class="english">Provides the flawless sense of hearing for the net friend to enjoy sparely no effort.</span></p>

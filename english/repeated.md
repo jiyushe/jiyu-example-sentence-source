@@ -1,5 +1,7 @@
 # repeated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repeated.md)
+
 <p><span class="chinese">“想，”她重复道。</span><span class="english">“Want, ” she repeated.</span></p>
 
 <p><span class="chinese">“拿着吧，”她重复。</span><span class="english">“Take it, ” she repeated.</span></p>

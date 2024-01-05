@@ -1,5 +1,7 @@
 # 杀气腾腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaqitengteng.md)
+
 <p><span class="chinese">一个戴面具的人杀气腾腾地闯进了市政广场。</span><span class="english">A masked man ran amok in the town square.</span></p>
 
 <p><span class="chinese">纳粹不仅仅是杀气腾腾的国家主义。</span><span class="english">Nazism was not only nationalism run amok.</span></p>

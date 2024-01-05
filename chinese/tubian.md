@@ -1,5 +1,7 @@
 # 突变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tubian.md)
+
 <p><span class="chinese">这是突变。</span><span class="english">There is mutation.</span></p>
 
 <p><span class="chinese">有发现突变纯合子。</span><span class="english">No mutant homozygote was found.</span></p>

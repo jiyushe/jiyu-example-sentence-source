@@ -1,5 +1,7 @@
 # flatterer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flatterer.md)
+
 <p><span class="chinese">我们的虚荣心是最坏的奉承者。</span><span class="english">Our own vanity is the worst flatterer.</span></p>
 
 <p><span class="chinese">奉承者的喉咙是一个打开的坟墓。</span><span class="english">A flatterer 's throat is an open sepulcher.</span></p>

@@ -1,5 +1,7 @@
 # 咬噬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoshi.md)
+
 <p><span class="chinese">谴责你的小狗，会不会停止他的咬噬。</span><span class="english">Reprimanding your puppy will not stop him from biting.</span></p>
 
 <p><span class="chinese">我还记得自己被嫉妒咬噬时的滋味，那让我感觉自己恶毒极了。</span><span class="english">I can recall being eaten with envy. It made me feel quite ill.</span></p>

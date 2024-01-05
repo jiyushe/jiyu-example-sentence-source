@@ -1,5 +1,7 @@
 # 担负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danfu_1.md)
+
 <p><span class="chinese">他将担负那工作。</span><span class="english">He'll shoulder the task.</span></p>
 
 <p><span class="chinese">现在需要担负起责任的是莫迪。</span><span class="english">The immediate onus is on Modi.</span></p>

@@ -1,5 +1,7 @@
 # violinist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/violinist.md)
+
 <p><span class="chinese">他想成为小提琴家。</span><span class="english">He wants to a violinist.</span></p>
 
 <p><span class="chinese">这个小提琴手技巧很熟练。</span><span class="english">The violinist is quite skilled.</span></p>

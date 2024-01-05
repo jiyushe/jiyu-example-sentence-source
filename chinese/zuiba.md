@@ -1,5 +1,7 @@
 # 嘴巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuiba.md)
+
 <p><span class="chinese">闭上我的嘴巴！</span><span class="english">Close my mouth!</span></p>
 
 <p><span class="chinese">擦擦你的小嘴巴。</span><span class="english">Wipe your mouth.</span></p>

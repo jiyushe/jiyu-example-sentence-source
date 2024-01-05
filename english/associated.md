@@ -1,5 +1,7 @@
 # associated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/associated.md)
+
 <p><span class="chinese">与之相关的权数。</span><span class="english">and its associated weight.</span></p>
 
 <p><span class="chinese">她同他有往来。</span><span class="english">She associated herself with him.</span></p>

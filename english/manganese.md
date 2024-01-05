@@ -1,5 +1,7 @@
 # manganese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manganese.md)
+
 <p><span class="chinese">无锰不成钢。</span><span class="english">No manganese no steel.</span></p>
 
 <p><span class="chinese">可以堆焊在锰钢上。</span><span class="english">Deposit on manganese steel possible.</span></p>

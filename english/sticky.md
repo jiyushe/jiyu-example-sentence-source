@@ -1,5 +1,7 @@
 # sticky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sticky.md)
+
 <p><span class="chinese">它是一个很有粘性的服务。</span><span class="english">It is a sticky service.</span></p>
 
 <p><span class="chinese">六条黏糊糊的吸盘棒。</span><span class="english">Six sticky sucker sticks.</span></p>

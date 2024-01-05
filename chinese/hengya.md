@@ -1,5 +1,7 @@
 # 恒牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengya.md)
+
 <p><span class="chinese">你多希望孩子的牙都换成了恒牙。</span><span class="english">You wished for your child to have all permanent teeth.</span></p>
 
 <p><span class="chinese">等乳牙脱落后，恒牙开始生长。</span><span class="english">As these teeth fall out . Our permanent teeth come through.</span></p>

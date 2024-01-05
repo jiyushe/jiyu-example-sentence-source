@@ -1,5 +1,7 @@
 # 近似
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinsi.md)
+
 <p><span class="chinese">什么是近似？</span><span class="english">OK, so what about approximations?</span></p>
 
 <p><span class="chinese">有点儿近似于哺乳动物的胎生。</span><span class="english">Quite similar to that of mammals.</span></p>

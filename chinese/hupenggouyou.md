@@ -1,5 +1,7 @@
 # 狐朋狗友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hupenggouyou.md)
+
 <p><span class="chinese">他和狐朋狗友去泡吧</span><span class="english">He can go to the bar with his friends</span></p>
 
 <p><span class="chinese">我预见不了你和你的那群狐朋狗友！</span><span class="english">I can't see past you and your pack of mutts!</span></p>

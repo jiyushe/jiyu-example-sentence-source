@@ -1,5 +1,7 @@
 # obligation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obligation.md)
+
 <p><span class="chinese">这是表白爱情还是尽义务？</span><span class="english">Is this love, or obligation?</span></p>
 
 <p><span class="chinese">别想逃避那项义务。</span><span class="english">Don't try to duck out of the obligation.</span></p>

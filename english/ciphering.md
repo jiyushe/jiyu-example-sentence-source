@@ -1,5 +1,7 @@
 # ciphering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ciphering.md)
+
 <p><span class="chinese">信令和用户数据都应被加密。</span><span class="english">Both Signalling and user data may be subject to ciphering.</span></p>
 
 <p><span class="chinese">在网络上，一次只支持一个加密算法式。</span><span class="english">One ciphering algorithm in network at a time is supported.</span></p>

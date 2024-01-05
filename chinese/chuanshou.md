@@ -1,5 +1,7 @@
 # 传授
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanshou.md)
+
 <p><span class="chinese">将你们的力量传授给她。</span><span class="english">Teach her about your power.</span></p>
 
 <p><span class="chinese">邓教授曾传授我们很多知識。</span><span class="english">Professor Teng taught us a lot.</span></p>

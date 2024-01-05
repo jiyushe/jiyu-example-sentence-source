@@ -1,5 +1,7 @@
 # heifer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heifer.md)
+
 <p><span class="chinese">小母牛在牛栏里吼叫。</span><span class="english">A heifer bellowed in her stall.</span></p>
 
 <p><span class="chinese">小母牛看到公牛套着工具辛苦的犁地。</span><span class="english">HEIFER saw an Ox hard at work harnessed to a plow.</span></p>

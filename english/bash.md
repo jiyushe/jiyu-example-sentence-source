@@ -1,5 +1,7 @@
 # bash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bash.md)
+
 <p><span class="chinese">把史破巴先生的太太的刀子抹净。</span><span class="english">Give Mr. Snipa's wife's knife a bash.</span></p>
 
 <p><span class="chinese">增加重击和劈裂的伤害。</span><span class="english">Increases the damage of Bash and Cleave.</span></p>

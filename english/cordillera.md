@@ -1,5 +1,7 @@
 # cordillera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cordillera.md)
+
 <p><span class="chinese">布卡拉曼加哥伦比亚中部偏北，科迪勒拉山系的安第斯山脉东部的一城市。</span><span class="english">A city of north-central Colombia in the Cordillera Oriental of the Andes.</span></p>
 
 <p><span class="chinese">科迪乐拉环也就是中央山脉是Altiplano的东南边界。</span><span class="english">The Cordillera Central, or Central Mountains, define the southeastern edge of the Altiplano.</span></p>

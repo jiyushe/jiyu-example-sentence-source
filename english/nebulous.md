@@ -1,5 +1,7 @@
 # nebulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nebulous.md)
+
 <p><span class="chinese">但蕾哈娜却是个更随性的才女。</span><span class="english">But Rihanna is a far more nebulous talent.</span></p>
 
 <p><span class="chinese">相对地，焕新一切是一个更模糊的目标。</span><span class="english">Refreshing everything, in contrast, is a more nebulous goal.</span></p>

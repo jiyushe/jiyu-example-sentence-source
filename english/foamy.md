@@ -1,5 +1,7 @@
 # foamy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foamy.md)
+
 <p><span class="chinese">我躺在满是泡沫的热澡盆里看书。</span><span class="english">I lay reading in a hot foamy bath.</span></p>
 
 <p><span class="chinese">我只关注那些泡沫状细胞。</span><span class="english">My only concern is those foamy cells.</span></p>

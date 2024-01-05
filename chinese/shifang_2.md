@@ -1,5 +1,7 @@
 # 释放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifang_2.md)
+
 <p><span class="chinese">而这份爱使你获得释放。</span><span class="english">And that frees you.</span></p>
 
 <p><span class="chinese">释放巴拉巴给我们！</span><span class="english">Release Barabbas to us!</span></p>

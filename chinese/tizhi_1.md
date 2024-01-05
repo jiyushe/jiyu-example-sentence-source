@@ -1,5 +1,7 @@
 # 体质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tizhi_1.md)
+
 <p><span class="chinese">这种补药会增强你的体质。</span><span class="english">This tonic should pick you up.</span></p>
 
 <p><span class="chinese">因为当时我体质还不错。</span><span class="english">Because I was in really good shape.</span></p>

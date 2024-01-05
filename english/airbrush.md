@@ -1,5 +1,7 @@
 # airbrush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airbrush.md)
+
 <p><span class="chinese">速度提高您的喷枪设计。</span><span class="english">Speed improves your airbrush designs.</span></p>
 
 <p><span class="chinese">老鼠尾巴是一个典型的喷枪设计。</span><span class="english">A rat tail is a classic airbrush design.</span></p>

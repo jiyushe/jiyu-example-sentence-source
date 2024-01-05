@@ -1,5 +1,7 @@
 # 形貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingmao.md)
+
 <p><span class="chinese">电极表面的形貌图也说明了这一现象。</span><span class="english">And SECM graph shows the same phenomenon.</span></p>
 
 <p><span class="chinese">点蚀形貌是敏锐的条纹状花样。</span><span class="english">The morphology of pits are sharp streak pattern.</span></p>

@@ -1,5 +1,7 @@
 # deke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deke.md)
+
 <p><span class="chinese">这就是为什么大家说大叔有很厉害的肘子。</span><span class="english">Its a reason why people say deke has sharp elbows.</span></p>
 
 <p><span class="chinese">明天是我的生日，大叔可以给我点惊喜吗？</span><span class="english">Tomorrow is my birthday, deke can give me some surprise?</span></p>

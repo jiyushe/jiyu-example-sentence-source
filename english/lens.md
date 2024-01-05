@@ -1,5 +1,7 @@
 # lens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lens.md)
+
 <p><span class="chinese">塔顶的菲涅尔透镜。</span><span class="english">Fresnel lens on the top.</span></p>
 
 <p><span class="chinese">好啦，让我们试一次镜头吧。</span><span class="english">Good, let us try a lens.</span></p>

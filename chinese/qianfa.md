@@ -1,5 +1,7 @@
 # 签发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfa.md)
+
 <p><span class="chinese">最后，我签发了法案。</span><span class="english">I signed the bill.</span></p>
 
 <p><span class="chinese">他签发给我文档写的是1975年的日期。</span><span class="english">The pater he hors me get a 1975 date.</span></p>

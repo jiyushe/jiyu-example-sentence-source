@@ -1,5 +1,7 @@
 # 巢穴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaoxue.md)
+
 <p><span class="chinese">消灭所有巢穴。</span><span class="english">Destroy all Lairs.</span></p>
 
 <p><span class="chinese">狗追狐狸到其巢穴。</span><span class="english">The fox elude the dog.</span></p>

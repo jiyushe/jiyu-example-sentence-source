@@ -1,5 +1,7 @@
 # identifiability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/identifiability.md)
+
 <p><span class="chinese">本文证明了治疗效果参数在这一假设下依然具有可识别性。</span><span class="english">In this paper, we prove the identifiability of the treatment effect.</span></p>
 
 <p><span class="chinese">“不正确”的AH模型的模型识别和参数估计也在文中进行了讨论。</span><span class="english">Identifiability of " improper" AH and its estimation are investigated in this paper.</span></p>

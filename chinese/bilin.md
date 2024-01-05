@@ -1,5 +1,7 @@
 # 比邻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bilin.md)
+
 <p><span class="chinese">我们是比邻。</span><span class="english">We are next-door neighbours.</span></p>
 
 <p><span class="chinese">⊙、海内存知己，天涯若比邻。</span><span class="english">Sea memory confidant, tianya zorpia.</span></p>

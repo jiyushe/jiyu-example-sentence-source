@@ -1,5 +1,7 @@
 # 生态学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengtaixue.md)
+
 <p><span class="chinese">这就是解放生态学。</span><span class="english">This is liberation ecology.</span></p>
 
 <p><span class="chinese">描述性的生态学是干燥无味的课题。</span><span class="english">Descriptive ecology is a dry subject.</span></p>

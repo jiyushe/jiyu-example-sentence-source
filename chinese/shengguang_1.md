@@ -1,5 +1,7 @@
 # 生光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengguang_1.md)
+
 <p><span class="chinese">动人的热情使她容颜生光。</span><span class="english">Charming warmth brightened her face.</span></p>
 
 <p><span class="chinese">星系于是灿然生光？</span><span class="english">Through which galaxies come to light?</span></p>

@@ -1,5 +1,7 @@
 # maxillary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maxillary.md)
+
 <p><span class="chinese">主要发生在上颌切牙。</span><span class="english">DDE predominately appeared on maxillary incisors.</span></p>
 
 <p><span class="chinese">犁骨位于上颌骨及腭嵴之上。</span><span class="english">The vomer itself rests on the maxillary and palatine crest.</span></p>

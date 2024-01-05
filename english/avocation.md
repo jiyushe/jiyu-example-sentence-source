@@ -1,5 +1,7 @@
 # avocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avocation.md)
+
 <p><span class="chinese">事实上，钓鱼是我的一大嗜好。</span><span class="english">In fact, fishing is my avocation.</span></p>
 
 <p><span class="chinese">那么跳舞对你来说就是一个“副业”。</span><span class="english">Dance, then, is a great avocation for you.</span></p>

@@ -1,5 +1,7 @@
 # amblyopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amblyopia.md)
+
 <p><span class="chinese">单眼弱视的最终结果是什么？</span><span class="english">What is the final result of monocular amblyopia?</span></p>
 
 <p><span class="chinese">它是不可能的治疗弱视后，这个年龄层。</span><span class="english">It is not possible to treat amblyopia after this age.</span></p>

@@ -1,5 +1,7 @@
 # poultice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poultice.md)
+
 <p><span class="chinese">一贴治疗眼睛红肿的膏药。</span><span class="english">A poultice for inflamed eyes.</span></p>
 
 <p><span class="chinese">高岭土、芥子末等泥罨剂。</span><span class="english">A kaolin, mustard, ETC poultice.</span></p>

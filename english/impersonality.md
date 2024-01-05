@@ -1,5 +1,7 @@
 # impersonality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impersonality.md)
+
 <p><span class="chinese">知识是一种具有客观基础的认知。</span><span class="english">Knowledge is a cognizance of basic impersonality.</span></p>
 
 <p><span class="chinese">这是一种典型的于己无关，将个体本身排除在外。</span><span class="english">A certain kind of, well, you might say impersonality.</span></p>

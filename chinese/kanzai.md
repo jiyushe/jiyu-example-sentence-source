@@ -1,5 +1,7 @@
 # 刊载
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanzai.md)
+
 <p><span class="chinese">他的退职昨天刊载于公报上。</span><span class="english">His retirement was gazetted yesterday.</span></p>
 
 <p><span class="chinese">登月的新闻被刊载在所有的报纸上。</span><span class="english">It was published in all the newspapers.</span></p>

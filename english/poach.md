@@ -1,5 +1,7 @@
 # poach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poach.md)
+
 <p><span class="chinese">我们“偷猎”！</span><span class="english">We "mate poach".</span></p>
 
 <p><span class="chinese">烤，烘或加香料水煮。</span><span class="english">Broil, bake or poach it with dill</span></p>

@@ -1,5 +1,7 @@
 # 分则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenze.md)
+
 <p><span class="chinese">而如果分歧演变为冲突，则分则两伤。</span><span class="english">Nobody will prosper if disagreements become conflicts.</span></p>
 
 <p><span class="chinese">空白罪状是罪状的下位概念，存在于刑法分则条文之中。</span><span class="english">Blank counts are the next- level concept exists in the Sub of the Criminal Code.</span></p>

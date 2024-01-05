@@ -1,5 +1,7 @@
 # incrimination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incrimination.md)
+
 <p><span class="chinese">他的控告是根据我的证词提出的。</span><span class="english">His incrimination was based on my testimony.</span></p>
 
 <p><span class="chinese">行为无价值是以结果无价值作为自身存在的基础。</span><span class="english">Behavioral incrimination is on the basis of consequential incrimination.</span></p>

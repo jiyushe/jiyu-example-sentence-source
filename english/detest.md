@@ -1,5 +1,7 @@
 # detest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detest.md)
+
 <p><span class="chinese">我讨厌耽误时间。</span><span class="english">I detest delays.</span></p>
 
 <p><span class="chinese">我也讨厌别人这点。</span><span class="english">I also detest it in others.</span></p>

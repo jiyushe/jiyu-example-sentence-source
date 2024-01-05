@@ -1,5 +1,7 @@
 # 披散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pisan.md)
+
 <p><span class="chinese">她的头发披散着。</span><span class="english">Her hair was hanging down.</span></p>
 
 <p><span class="chinese">她通常披散着头发。</span><span class="english">She usually wears her hair loose.</span></p>

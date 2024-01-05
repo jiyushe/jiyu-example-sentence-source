@@ -1,5 +1,7 @@
 # 石碑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibei.md)
+
 <p><span class="chinese">我们树立这块石碑。</span><span class="english">We set to-day a votive stone.</span></p>
 
 <p><span class="chinese">我发现了一块巨大的石碑。</span><span class="english">I've found a huge stone stele.</span></p>

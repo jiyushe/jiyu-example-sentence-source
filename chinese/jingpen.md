@@ -1,5 +1,7 @@
 # 井喷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingpen.md)
+
 <p><span class="chinese">很难说，但是我确实从这里听到如同曾经互联网繁荣井喷的回声。</span><span class="english">Hard to tell, but I do hear echoes of the dotcom boom here.</span></p>
 
 <p><span class="chinese">“十一”黄金周的“井喷”是再好不过的明证了。</span><span class="english">Eleven" Golden Week " blowout" is no better evidence of the.</span></p>

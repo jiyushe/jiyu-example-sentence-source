@@ -1,5 +1,7 @@
 # 九霄云外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuxiaoyunwai.md)
+
 <p><span class="chinese">重点是，我本应乐到九霄云外。</span><span class="english">Point is, I should be walking on clouds.</span></p>
 
 <p><span class="chinese">唯一可以确定的是，2007年似乎已在九霄云外。</span><span class="english">What's certain is that 2007 seems far away.</span></p>

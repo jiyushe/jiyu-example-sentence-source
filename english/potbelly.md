@@ -1,5 +1,7 @@
 # potbelly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potbelly.md)
+
 <p><span class="chinese">你的啤酒肚也比较小了。</span><span class="english">Your potbelly is getting a little smaller, too.</span></p>
 
 <p><span class="chinese">过多的腹部脂肪的大肚子将消失。</span><span class="english">Excess abdominal fat and potbelly would be gone.</span></p>

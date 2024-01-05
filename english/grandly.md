@@ -1,5 +1,7 @@
 # grandly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandly.md)
+
 <p><span class="chinese">我宣布东海第七届水晶节隆重开幕！</span><span class="english">I declare that the 7th crystal festival of Donghai open grandly.</span></p>
 
 <p><span class="chinese">或者我们可以更宏观地看,在更广的时间内讨论。</span><span class="english">Or we can ask the question more grandly about larger expands of time.</span></p>

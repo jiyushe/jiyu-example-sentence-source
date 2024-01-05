@@ -1,5 +1,7 @@
 # 启运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyun.md)
+
 <p><span class="chinese">这批货物昨天已从伦敦装船启运。</span><span class="english">The goods sailed yesterday from London.</span></p>
 
 <p><span class="chinese">货物今日业已启运，特此奉告。</span><span class="english">We are pleased to inform you that goods have been dispatched today.</span></p>

@@ -1,5 +1,7 @@
 # oxford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxford.md)
+
 <p><span class="chinese">围裙趾牛津风格。</span><span class="english">Apron-toe oxford style.</span></p>
 
 <p><span class="chinese">他担任牛津大学赛船的掌舵人。</span><span class="english">He coxed the Oxford boat.</span></p>

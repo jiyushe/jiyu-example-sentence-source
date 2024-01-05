@@ -1,5 +1,7 @@
 # 可嘉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kejia.md)
+
 <p><span class="chinese">她在逆境中勇气可嘉。</span><span class="english">She showed courage in adversity.</span></p>
 
 <p><span class="chinese">他这种精神还是非常可嘉的。</span><span class="english">He this kind of spirit is very laudable still.</span></p>

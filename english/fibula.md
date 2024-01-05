@@ -1,5 +1,7 @@
 # fibula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibula.md)
+
 <p><span class="chinese">接下来是腓骨，我的课本这样说。</span><span class="english">The fibula is next, according to my text.</span></p>
 
 <p><span class="chinese">我们通常使用两个或三个管状腓骨移植物。</span><span class="english">We normally use double- or triple-barrel fibula grafts.</span></p>

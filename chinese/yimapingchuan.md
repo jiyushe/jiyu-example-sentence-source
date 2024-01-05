@@ -1,5 +1,7 @@
 # 一马平川
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimapingchuan.md)
+
 <p><span class="chinese">无论高难险阻，我们的高空作业“蜘蛛人”一马平川。</span><span class="english">Whatever happened, we work high above the ground like a spider.</span></p>
 
 <p><span class="chinese">远古时期的河水通常都宽广开阔、一马平川似的奔腾不息。</span><span class="english">Ancient rivers were typically just wide, sheetlike flows of water.</span></p>

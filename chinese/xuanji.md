@@ -1,5 +1,7 @@
 # 旋即
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanji.md)
+
 <p><span class="chinese">入场券旋即发完。</span><span class="english">All the tickets were soon distributed.</span></p>
 
 <p><span class="chinese">因士兵之努力，火灾旋即扑灭。</span><span class="english">The fire was soon extinguished by the exertions of the soldiers.</span></p>

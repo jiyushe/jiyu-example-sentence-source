@@ -1,5 +1,7 @@
 # adequate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adequate.md)
+
 <p><span class="chinese">我没有充分的准备。</span><span class="english">I have no adequate preparation.</span></p>
 
 <p><span class="chinese">事实证明她能胜任此项工作。</span><span class="english">She proved adequate to the job.</span></p>

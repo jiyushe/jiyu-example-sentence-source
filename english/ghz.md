@@ -1,5 +1,7 @@
 # ghz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghz.md)
+
 <p><span class="chinese">你的脑袋又是几GHz的呢？</span><span class="english">How many GHz is your brain?</span></p>
 
 <p><span class="chinese">这种合成器的最高频率可达26.5吉赫。</span><span class="english">This synthesizer of the highest frequency of up to 26.5 GHz.</span></p>

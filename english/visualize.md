@@ -1,5 +1,7 @@
 # visualize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visualize.md)
+
 <p><span class="chinese">使名字形象化。</span><span class="english">Visualize the name.</span></p>
 
 <p><span class="chinese">可取消可视化进程的对话框</span><span class="english">Cancelable Visualize progress dialog</span></p>

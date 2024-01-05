@@ -1,5 +1,7 @@
 # asymmetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asymmetry.md)
+
 <p><span class="chinese">看到不对称了吗？</span><span class="english">You see the asymmetry?</span></p>
 
 <p><span class="chinese">不对称即是对称的缺失。</span><span class="english">Asymmetry is the lack of symmetry.</span></p>

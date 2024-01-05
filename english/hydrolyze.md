@@ -1,5 +1,7 @@
 # hydrolyze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrolyze.md)
+
 <p><span class="chinese">易水解生产碱式硝酸铋。</span><span class="english">Easily hydrolyze to produce basic bismuth nitrate.</span></p>
 
 <p><span class="chinese">在第一阶段，酶水解淀粉为可发酵性糖。</span><span class="english">In the first stage enzymes hydrolyze starch into fermentable sugars.</span></p>

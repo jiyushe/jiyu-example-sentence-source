@@ -1,5 +1,7 @@
 # 繁华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanhua_2.md)
+
 <p><span class="chinese">即使我离开，这世界繁华依旧。</span><span class="english">I'm useless for this world.</span></p>
 
 <p><span class="chinese">繁华过后，只剩残花。</span><span class="english">After the busy, with only the flowers.</span></p>

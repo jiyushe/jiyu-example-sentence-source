@@ -1,5 +1,7 @@
 # ram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ram.md)
+
 <p><span class="chinese">在RAM中的这个地方。</span><span class="english">That is here in RAM.</span></p>
 
 <p><span class="chinese">我把钉子钉进去。</span><span class="english">I ram the nails home.</span></p>

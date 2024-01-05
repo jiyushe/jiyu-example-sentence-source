@@ -1,5 +1,7 @@
 # faq
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faq.md)
+
 <p><span class="chinese">详情请至常见问题解答一节。</span><span class="english">For details please go to the FAQ section.</span></p>
 
 <p><span class="chinese">欲了解更多消息，请阅读“常见问题”。</span><span class="english">If you need more information, please read the the FAQ.</span></p>

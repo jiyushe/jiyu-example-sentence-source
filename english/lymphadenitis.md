@@ -1,5 +1,7 @@
 # lymphadenitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lymphadenitis.md)
+
 <p><span class="chinese">用于肺结核，淋巴结结核，淋巴结炎，咽喉炎。</span><span class="english">For tuberculosis, lymphatic tuberculosis, lymphadenitis , and pharyngitis.</span></p>
 
 <p><span class="chinese">用高频超声对年龄在3～14岁的380例小儿肠系膜淋巴结炎进行检查。</span><span class="english">Methods 380 case-n with childrens mesentery lymphadenitis in 3-14 years old were examined.</span></p>

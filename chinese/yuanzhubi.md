@@ -1,5 +1,7 @@
 # 圆珠笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhubi.md)
+
 <p><span class="chinese">这支圆珠笔是红色的。</span><span class="english">This ball-pen is red.</span></p>
 
 <p><span class="chinese">我们喜欢用圆珠笔写书。</span><span class="english">We like to biro book.</span></p>

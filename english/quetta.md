@@ -1,5 +1,7 @@
 # quetta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quetta.md)
+
 <p><span class="chinese">奎达的警方说，他们在这个城市外围封锁了道路，搜查过往的车辆。</span><span class="english">Quetta police say they sealed roads out of the city and searched cars.</span></p>
 
 <p><span class="chinese">袭击发生在巴基斯坦东南部城市奎达，有80多人在袭击中受伤。</span><span class="english">The blast wounded more than 80 others in the southwestern city of Quetta.</span></p>

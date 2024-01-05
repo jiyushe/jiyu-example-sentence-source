@@ -1,5 +1,7 @@
 # singularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singularity.md)
+
 <p><span class="chinese">这个奇点将会是怎样的？</span><span class="english">What Will the Singularity Look Like?</span></p>
 
 <p><span class="chinese">他称这个变化为“奇点”。</span><span class="english">He called this shift the Singularity.</span></p>

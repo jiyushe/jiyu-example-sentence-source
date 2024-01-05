@@ -1,5 +1,7 @@
 # boule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boule.md)
+
 <p><span class="chinese">将面团整形成短棍状或是圆球状放到铺了玉米面的烤盘上。</span><span class="english">Form into baton or boule shape and place them on a tray sprinkled with cornmeal.</span></p>
 
 <p><span class="chinese">他补充道，"Boule基因"可能是迄今为止发现最古老的精子特异性基因。</span><span class="english">He added that the Boule gene is likely the oldest human sperm-specific gene ever discovered.</span></p>

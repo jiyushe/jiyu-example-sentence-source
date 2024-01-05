@@ -1,5 +1,7 @@
 # 适当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidang_1.md)
+
 <p><span class="chinese">这是适当的。</span><span class="english">This is appropriate.</span></p>
 
 <p><span class="chinese">请在下面适当的空格打钩。</span><span class="english">What makes him tick?</span></p>

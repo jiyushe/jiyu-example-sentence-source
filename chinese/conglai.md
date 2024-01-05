@@ -1,5 +1,7 @@
 # 从来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/conglai.md)
+
 <p><span class="chinese">但是他从来没有。</span><span class="english">But he never did.</span></p>
 
 <p><span class="chinese">没有，我从来都没开过车。</span><span class="english">No, I never drive.</span></p>

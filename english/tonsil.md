@@ -1,5 +1,7 @@
 # tonsil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonsil.md)
+
 <p><span class="chinese">她一感冒，扁桃腺就会发炎。</span><span class="english">Her tonsil would irritate when getting a cold.</span></p>
 
 <p><span class="chinese">她一感冒，扁桃腺就会发炎。</span><span class="english">She will get tonsil inflammation once he catches a cold.</span></p>

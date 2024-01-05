@@ -1,5 +1,7 @@
 # 苏区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suqu.md)
+
 <p><span class="chinese">表现之三，严重削弱了苏区的革命力量。</span><span class="english">Weakening the revolutionary power in the Soviet areas seriously.</span></p>
 
 <p><span class="chinese">在我访问红色中国的时候，苏区工业都是手工业。</span><span class="english">Soviet industries, when I visited Red China , were all handicraft.</span></p>

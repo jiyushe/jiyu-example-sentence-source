@@ -1,5 +1,7 @@
 # triumph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triumph.md)
+
 <p><span class="chinese">他们分享了我们的胜利。</span><span class="english">They partook our triumph.</span></p>
 
 <p><span class="chinese">他因获胜而洋洋得意。</span><span class="english">He gloried in his triumph.</span></p>

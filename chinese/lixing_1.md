@@ -1,5 +1,7 @@
 # 厉行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixing_1.md)
+
 <p><span class="chinese">他们必须厉行精简，阿比德先生说。</span><span class="english">They have to downsize, says Mr Abed.</span></p>
 
 <p><span class="chinese">我们已经进入厉行紧缩的时代。</span><span class="english">We have entered the Age of Austerity.</span></p>

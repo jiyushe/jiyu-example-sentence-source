@@ -1,5 +1,7 @@
 # newsagent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newsagent.md)
+
 <p><span class="chinese">谁是最可靠的报刊经售人？</span><span class="english">Who's the most dependable newsagent?</span></p>
 
 <p><span class="chinese">最近发生的一股从报刊那里进行偷窃的浪潮。</span><span class="english">There has been a wave of theft from newsagent.</span></p>

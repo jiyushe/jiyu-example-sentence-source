@@ -1,5 +1,7 @@
 # 玩艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanyi_2.md)
+
 <p><span class="chinese">看看这个小玩艺儿。</span><span class="english">Look at this gadget.</span></p>
 
 <p><span class="chinese">他们认为那玩艺儿有帮助吗？</span><span class="english">Do they think it's helpful?</span></p>

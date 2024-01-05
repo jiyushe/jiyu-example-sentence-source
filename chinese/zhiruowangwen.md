@@ -1,5 +1,7 @@
 # 置若罔闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiruowangwen.md)
+
 <p><span class="chinese">一旦你真的听到，就不能置若罔闻。</span><span class="english">You cannot ignore them once truly heard.</span></p>
 
 <p><span class="chinese">这些警告被置若罔闻，结果危机来了。</span><span class="english">But these warnings were ignored, and the crisis came.</span></p>

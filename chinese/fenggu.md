@@ -1,5 +1,7 @@
 # 风骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenggu.md)
+
 <p><span class="chinese">总之，“风骨”应是一种美学要求。</span><span class="english">On a whole, Fenggu is a must of aesthetics.</span></p>
 
 <p><span class="chinese">意义是历史的风骨，价值是历史的品格。</span><span class="english">Significance is the stem and value is the quality.</span></p>

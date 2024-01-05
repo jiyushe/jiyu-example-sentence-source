@@ -1,5 +1,7 @@
 # 局子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzi.md)
+
 <p><span class="chinese">我急坏了，一路冲到局子里要保释他出来。</span><span class="english">In a panic, I rushed to go bail him out.</span></p>
 
 <p><span class="chinese">现在我进了局子，法律体制把我搞糊涂了。</span><span class="english">Now here I go gettin' lost in the system.</span></p>

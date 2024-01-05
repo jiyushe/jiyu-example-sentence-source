@@ -1,5 +1,7 @@
 # ptolemy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ptolemy.md)
+
 <p><span class="chinese">以你所知道的来看，他们是为托勒密做事。</span><span class="english">For your information, they work for Ptolemy XIII.</span></p>
 
 <p><span class="chinese">由儿子托勒密二世继承了他的王位。</span><span class="english">He was succeeded by his son, Ptolemy II Philadelphus.</span></p>

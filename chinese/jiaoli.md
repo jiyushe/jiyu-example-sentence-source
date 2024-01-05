@@ -1,5 +1,7 @@
 # 脚力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoli.md)
+
 <p><span class="chinese">他一天能走50公里，脚力真好。</span><span class="english">He's really got strong legs to be able to walk 50 kilometres a day.</span></p>
 
 <p><span class="chinese">如果你不抬轿，你连偶尔的脚力钱也没戏了。</span><span class="english">Sedan Chair If you do not, you are even occasionally the money gone.</span></p>

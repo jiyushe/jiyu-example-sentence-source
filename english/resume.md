@@ -1,5 +1,7 @@
 # resume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resume.md)
+
 <p><span class="chinese">看看你的简历。</span><span class="english">Look at your resume.</span></p>
 
 <p><span class="chinese">可是我的履历表呢？</span><span class="english">What about your resume?</span></p>

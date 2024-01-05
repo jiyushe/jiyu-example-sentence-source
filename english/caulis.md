@@ -1,5 +1,7 @@
 # caulis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caulis.md)
+
 <p><span class="chinese">从而证实鸡血藤水煎液具有镇痛作用。</span><span class="english">It prove that water decoction of Caulis spatholobi has analgesic effect.</span></p>
 
 <p><span class="chinese">目的研究复方首乌藤合剂对小鼠的促智活性。</span><span class="english">OBJECTIVE To study the nootropic effect of compound Caulis Polygoni Multiflori mixture in mice.</span></p>

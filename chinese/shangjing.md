@@ -1,5 +1,7 @@
 # 上京
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangjing.md)
+
 <p><span class="chinese">哦?我要此刻上京赶考准能患上中吗?。</span><span class="english">Oh? I want to have special attends Beijing now?</span></p>
 
 <p><span class="chinese">乖乖跟爷们上京里去吧！</span><span class="english">Obediently to Beijing where a with the menfolk go!</span></p>

@@ -1,5 +1,7 @@
 # 生猪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzhu.md)
+
 <p><span class="chinese">平均每户交售了两口生猪。</span><span class="english">Each household sold, on the average, two pigs.</span></p>
 
 <p><span class="chinese">过去一周里，生猪期货价格达到了四年来的最低点。</span><span class="english">Hog futures prices hit a four-year low this past week.</span></p>

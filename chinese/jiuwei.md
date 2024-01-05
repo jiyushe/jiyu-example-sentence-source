@@ -1,5 +1,7 @@
 # 久违
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuwei.md)
+
 <p><span class="chinese">重拾久违的激情。</span><span class="english">Re-connect with a long-lost passion.</span></p>
 
 <p><span class="chinese">一如偶遇久违的朋友般亲切。</span><span class="english">As encounter a long-lost friend kind.</span></p>

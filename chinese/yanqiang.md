@@ -1,5 +1,7 @@
 # 烟枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanqiang.md)
+
 <p><span class="chinese">我们在山麓停车场黑暗的角落用他那小号龙形大麻烟枪抽烟。</span><span class="english">We smoke out of his mini dragon bong, out in the lightless corner of the Foothill parking lot.</span></p>
 
 <p><span class="chinese">但无论烟枪还是手枪，关键在于要对这些权利加以哪些细致的限制和疏导。</span><span class="english">In both cases, the devil is in the detail of what restrictions and guidelines should apply to those rights.</span></p>

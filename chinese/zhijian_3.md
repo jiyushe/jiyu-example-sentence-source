@@ -1,5 +1,7 @@
 # 质检
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijian_3.md)
+
 <p><span class="chinese">免费提供质检、卫检代办服务。</span><span class="english">Free quality inspection, health inspection agency services.</span></p>
 
 <p><span class="chinese">所有产业商品在整个生产过程中得通过五道质检关。</span><span class="english">All products HAs to go through five checks in the all process.</span></p>

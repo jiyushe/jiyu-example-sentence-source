@@ -1,5 +1,7 @@
 # posteriorly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posteriorly.md)
+
 <p><span class="chinese">脊柱在L5处轻微向后弯曲。</span><span class="english">The spine curves slightly posteriorly at about L5.</span></p>
 
 <p><span class="chinese">所有肋的后端都附着在脊柱上。</span><span class="english">All the ribs are attached posteriorly to the vertebral column.</span></p>

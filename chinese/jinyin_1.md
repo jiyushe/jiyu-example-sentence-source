@@ -1,5 +1,7 @@
 # 金银
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyin_1.md)
+
 <p><span class="chinese">露珠似金银丝般装点着树叶。</span><span class="english">Drops of dew tinselled the leaves.</span></p>
 
 <p><span class="chinese">教堂用的金银器皿都锁起来了。</span><span class="english">All the church plate has been locked up.</span></p>

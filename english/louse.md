@@ -1,5 +1,7 @@
 # louse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/louse.md)
+
 <p><span class="chinese">不要让猜忌毁了一段好姻缘。</span><span class="english">Don't let suspicion louse up a good marriage.</span></p>
 
 <p><span class="chinese">小虱子跌进蛋壳，烧伤了自己。</span><span class="english">Then the little louse fell in and burnt herself.</span></p>

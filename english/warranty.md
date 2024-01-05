@@ -1,5 +1,7 @@
 # warranty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warranty.md)
+
 <p><span class="chinese">而且这些都是不保修的。</span><span class="english">And there’s no warranty.</span></p>
 
 <p><span class="chinese">超出质量保证期。</span><span class="english">Beyond the warranty period.</span></p>

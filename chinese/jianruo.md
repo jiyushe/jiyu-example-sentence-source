@@ -1,5 +1,7 @@
 # 减弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianruo.md)
+
 <p><span class="chinese">雨势已减弱。</span><span class="english">The rain has eased off.</span></p>
 
 <p><span class="chinese">恐惧减弱行动。</span><span class="english">Fear debilitates action.</span></p>

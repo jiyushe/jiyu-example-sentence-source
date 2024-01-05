@@ -1,5 +1,7 @@
 # dextral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dextral.md)
+
 <p><span class="chinese">右侧比目鱼躺着时右边的眼睛朝上。</span><span class="english">A dextral flatfish lies with the right eye uppermost.</span></p>
 
 <p><span class="chinese">二是逆冲、右旋、挤压型断层地震。</span><span class="english">Second, resulting from thrust, dextral and compressive faults earthquakes.</span></p>

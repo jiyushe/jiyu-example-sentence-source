@@ -1,5 +1,7 @@
 # 单刀直入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dandaozhiru.md)
+
 <p><span class="chinese">他想要单刀直入，劝告她。</span><span class="english">He wanted to plunge in and expostulate with her.</span></p>
 
 <p><span class="chinese">我习惯做事单刀直入。</span><span class="english">I have a habit of jumping into things too quickly.</span></p>

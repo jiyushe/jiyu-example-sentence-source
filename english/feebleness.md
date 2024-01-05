@@ -1,5 +1,7 @@
 # feebleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feebleness.md)
+
 <p><span class="chinese">其中一个原因可能是他们的金融市场比较微弱。</span><span class="english">One reason may be the feebleness of their financial markets.</span></p>
 
 <p><span class="chinese">我承认自己的努力微不足道，但幸运的是我并非孤军作战。</span><span class="english">I recognize the feebleness of my effort, but fortunately I am not alone.</span></p>

@@ -1,5 +1,7 @@
 # haughtily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haughtily.md)
+
 <p><span class="chinese">我要让你成为皇帝。</span><span class="english">Haughtily I'll make you the Emperor.</span></p>
 
 <p><span class="chinese">今天我们见面后你就变得很高傲哦。</span><span class="english">You became to act haughtily since we last met.</span></p>

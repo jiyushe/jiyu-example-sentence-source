@@ -1,5 +1,7 @@
 # asphaltic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asphaltic.md)
+
 <p><span class="chinese">沥青混凝土路?。</span><span class="english">Asphaltic concrete road?</span></p>
 
 <p><span class="chinese">以不同渣油和FCC油浆为原料，在实验室合成了沥青树脂。</span><span class="english">Asphaltic resins were synthesized from residual oil and FCC slurry in laboratory.</span></p>

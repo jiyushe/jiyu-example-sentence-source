@@ -1,5 +1,7 @@
 # 总是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongshi_2.md)
+
 <p><span class="chinese">我总是会扣上它。</span><span class="english">I always do it.</span></p>
 
 <p><span class="chinese">购物癖害得我总是赤字！</span><span class="english">I'm in the red.</span></p>

@@ -1,5 +1,7 @@
 # airliner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airliner.md)
+
 <p><span class="chinese">班机晚点了。</span><span class="english">The airliner is late.</span></p>
 
 <p><span class="chinese">两架战斗机掠过那架客机。</span><span class="english">Two fighters buzzed the airliner.</span></p>

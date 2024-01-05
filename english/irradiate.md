@@ -1,5 +1,7 @@
 # irradiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irradiate.md)
+
 <p><span class="chinese">我们用低速中子照射整个沙漠。</span><span class="english">We irradiate the desert with slow neutrons.</span></p>
 
 <p><span class="chinese">用激光笔照射一只苍蝇的复眼。</span><span class="english">Use a laser pen to irradiate one fly's compound eye.</span></p>

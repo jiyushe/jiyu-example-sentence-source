@@ -1,5 +1,7 @@
 # 熔炼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ronglian.md)
+
 <p><span class="chinese">你看他提到了熔炼。</span><span class="english">You see he mentioned smelting.</span></p>
 
 <p><span class="chinese">我的第一个熔炼时刻似乎是很久以前。</span><span class="english">y first melting moment seems a long time ago.</span></p>

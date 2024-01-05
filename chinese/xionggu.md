@@ -1,5 +1,7 @@
 # 胸骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xionggu.md)
+
 <p><span class="chinese">他折断了胸骨和髋关节。</span><span class="english">He’d fractured his rib and hip.</span></p>
 
 <p><span class="chinese">胸骨、肋骨亦分别切开。</span><span class="english">Breastbone and ribs were cut respectively.</span></p>

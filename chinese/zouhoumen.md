@@ -1,5 +1,7 @@
 # 走后门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouhoumen.md)
+
 <p><span class="chinese">要不要带你走后门？</span><span class="english">Want to use the back door?</span></p>
 
 <p><span class="chinese">她托关系走后门才找到了一份工作。</span><span class="english">She used her connections to land a job.</span></p>

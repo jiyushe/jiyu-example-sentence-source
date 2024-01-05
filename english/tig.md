@@ -1,5 +1,7 @@
 # tig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tig.md)
+
 <p><span class="chinese">两部分的氩弧焊焊接在一起。</span><span class="english">The two parts are TIG welded together.</span></p>
 
 <p><span class="chinese">在氩弧焊焊接机建造多次使用。</span><span class="english">The TIG welder used for much of the construction.</span></p>

@@ -1,5 +1,7 @@
 # 转关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanguan.md)
+
 <p><span class="chinese">出口商不应该从事转关货物的贸易。</span><span class="english">Supplier shall not engage in the transshipment of goods.</span></p>
 
 <p><span class="chinese">永鲜物流公司还可以提供可靠的异地转关服务。</span><span class="english">E&B fleet also can provide reliable cross-zone customs clearance service.</span></p>

@@ -1,5 +1,7 @@
 # 饮鸩止渴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzhenzhike.md)
+
 <p><span class="chinese">饮鸩止渴，不能因为口渴就拼命喝毒药。</span><span class="english">The remedy is worse than the, cannot because thirsty run drink poison.</span></p>
 
 <p><span class="chinese">毕竟，解决就业难的问题，千万不能饮鸩止渴。</span><span class="english">After all, we cannot drink poison to quench thirst when it comes to jobs.</span></p>

@@ -1,5 +1,7 @@
 # ella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ella.md)
+
 <p><span class="chinese">渴望与爱的人一起去西班牙。</span><span class="english">Quiero ir a Espana con mi ella.</span></p>
 
 <p><span class="chinese">我和官恩娜，薛凯琪出席香港电台活动！</span><span class="english">Me, Ella and Fiona hanging out at RTHK!</span></p>

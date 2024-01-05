@@ -1,5 +1,7 @@
 # 下颌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiahe.md)
+
 <p><span class="chinese">但是她的下颌线呢？</span><span class="english">But her jaw line?</span></p>
 
 <p><span class="chinese">把下颌磨牙钳子拿来。</span><span class="english">Give me the lower molar forceps.</span></p>

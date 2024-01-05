@@ -1,5 +1,7 @@
 # isoseismal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isoseismal.md)
+
 <p><span class="chinese">什么是等震线图？</span><span class="english">What are isoseismal maps?</span></p>
 
 <p><span class="chinese">地震烈度包络线通常用地面调查宏观地震影响和破坏现象来划分。</span><span class="english">Earthquake isoseismal is usually determined based on the macroscopic earthquake affection and damages observed in the field.</span></p>

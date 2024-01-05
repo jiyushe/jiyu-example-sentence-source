@@ -1,5 +1,7 @@
 # hest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hest.md)
+
 <p><span class="chinese">他是地狱中最H的领主。</span><span class="english">He is the hest lord in hell.</span></p>
 
 <p><span class="chinese">MRI检查是最佳的影像学检查方法。</span><span class="english">The MRI is the hest image examination.</span></p>

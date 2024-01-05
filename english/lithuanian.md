@@ -1,5 +1,7 @@
 # lithuanian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithuanian.md)
+
 <p><span class="chinese">贝尔从小讲立陶宛语和俄罗斯语。</span><span class="english">Bell grew up speaking Lithuanian and Russian.</span></p>
 
 <p><span class="chinese">通用俄语和立陶宛语。</span><span class="english">Russian and Lithuanian are also widely spoken.</span></p>

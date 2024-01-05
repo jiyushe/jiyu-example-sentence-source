@@ -1,5 +1,7 @@
 # artificially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artificially.md)
+
 <p><span class="chinese">它们通常是人工受精。</span><span class="english">They are typically artificially inseminated.</span></p>
 
 <p><span class="chinese">人为的状态是痛苦。</span><span class="english">The artificially self-imposed state is misery.</span></p>

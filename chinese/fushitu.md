@@ -1,5 +1,7 @@
 # 俯视图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushitu.md)
+
 <p><span class="chinese">翼形螺母的俯视图。</span><span class="english">Top view of wing nut.</span></p>
 
 <p><span class="chinese">方头螺栓的俯视图。</span><span class="english">Top view of square nut.</span></p>

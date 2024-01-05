@@ -1,5 +1,7 @@
 # anechoic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anechoic.md)
+
 <p><span class="chinese">根据降噪量要求对设备间采用简易消声室设计。</span><span class="english">Simple anechoic chamber was used for noise reduction.</span></p>
 
 <p><span class="chinese">iPhone的信号强度需要在消声室中进行</span><span class="english">An anechoic chamber is used to test the iPhone's signal strength.</span></p>

@@ -1,5 +1,7 @@
 # 下狱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiayu.md)
+
 <p><span class="chinese">滚石乐队的布赖恩?琼斯因为毒品被下狱。</span><span class="english">Brian Jones of the Rolling Stones was jailed for drug offences.</span></p>
 
 <p><span class="chinese">那豪宅的主人下狱之后，状况如何？</span><span class="english">How was it after the master of the mansion was put into prison?</span></p>

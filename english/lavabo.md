@@ -1,5 +1,7 @@
 # lavabo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lavabo.md)
+
 <p><span class="chinese">传统的卫浴洗手盆，习惯嵌入台面下。</span><span class="english">The traditional lavabo that defend bath, the habit embeds mesa falls.</span></p>
 
 <p><span class="chinese">把洗手盆放进淋浴区，也就是说，把洗手盆安排在湿区。</span><span class="english">Put lavabo into shower area, that is to say, arrange lavabo in wet area.</span></p>

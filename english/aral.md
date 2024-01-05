@@ -1,5 +1,7 @@
 # aral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aral.md)
+
 <p><span class="chinese">2000年的时候咸海的北部和南部水域就已经断开。</span><span class="english">By 2000 the Northern and Southern Aral Sea had already separated.</span></p>
 
 <p><span class="chinese">咸海的水源几乎完全来自阿姆河和锡尔河。</span><span class="english">The Aral Sea gets almost all its water from the Amu and Syr rivers.</span></p>

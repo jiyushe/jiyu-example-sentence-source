@@ -1,5 +1,7 @@
 # kindhearted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kindhearted.md)
+
 <p><span class="chinese">他家的人都是热心肠。</span><span class="english">His family are all kindhearted.</span></p>
 
 <p><span class="chinese">善良的男生和可爱的女生！</span><span class="english">Kindhearted boy and lovely girl!</span></p>

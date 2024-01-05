@@ -1,5 +1,7 @@
 # 挺身而出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingshenerchu.md)
+
 <p><span class="chinese">约翰逊先生望着面前漫长的道路毅然挺身而出。</span><span class="english">Mr. Johnson looked at the long road ahead of him.</span></p>
 
 <p><span class="chinese">相信我吧，如果你需要我，请让我知道，我会挺身而出。</span><span class="english">Take a chance on me. If you need me, let me know, gonna be around.</span></p>

@@ -1,5 +1,7 @@
 # sas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sas.md)
+
 <p><span class="chinese">SAS为多汗，静坐不能和乏力。</span><span class="english">SAS scores are sweatiness, akathisia and fatigue.</span></p>
 
 <p><span class="chinese">顺便提一下，SAS正是这样收费的。</span><span class="english">Incidentally, that's how SAS charges for their software.</span></p>

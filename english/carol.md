@@ -1,5 +1,7 @@
 # carol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carol.md)
+
 <p><span class="chinese">那就是为什么杰克爱卡罗尔的原因。</span><span class="english">That's why Jack loves Carol.</span></p>
 
 <p><span class="chinese">卡罗尔和汤姆请我们来吃午饭。</span><span class="english">Carol and Tom invited us to lunch.</span></p>

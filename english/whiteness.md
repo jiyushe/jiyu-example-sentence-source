@@ -1,5 +1,7 @@
 # whiteness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiteness.md)
+
 <p><span class="chinese">他碾磨你们，直至你们清白。</span><span class="english">He grinds you to whiteness.</span></p>
 
 <p><span class="chinese">权且称之为“白”的危机。</span><span class="english">Call it the crisis of whiteness.</span></p>

@@ -1,5 +1,7 @@
 # cursory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cursory.md)
+
 <p><span class="chinese">银行会出一个评估报告，但却很粗略。</span><span class="english">The bank will do an appraisal , but it will be a cursory one.</span></p>
 
 <p><span class="chinese">我忙得不可开交，所以只把这本书大略看了一下.</span><span class="english">My hands were full, so I just gave the book a cursory reading.</span></p>

@@ -1,5 +1,7 @@
 # armour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armour.md)
+
 <p><span class="chinese">它既是甲胄又是武器。</span><span class="english">It is an armour and a weapon.</span></p>
 
 <p><span class="chinese">飞牛大师的盔甲。</span><span class="english">Master Flying-Rhino's armour.</span></p>

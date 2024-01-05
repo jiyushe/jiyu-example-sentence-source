@@ -1,5 +1,7 @@
 # 矮子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aizi_1.md)
+
 <p><span class="chinese">矮子是惊悸的。</span><span class="english">The dwarfs were horrified.</span></p>
 
 <p><span class="chinese">我肯定会除掉那个矮子！</span><span class="english">I sure got rid of that runt!</span></p>

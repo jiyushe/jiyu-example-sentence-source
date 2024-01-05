@@ -1,5 +1,7 @@
 # indianapolis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indianapolis.md)
+
 <p><span class="chinese">道格拉斯-汉米尔顿博士是2010年印第安纳波利斯奖获得者。</span><span class="english">Dr. Iain Douglas-Hamilton is the winner of the 2010 Indianapolis Prize.</span></p>
 
 <p><span class="chinese">1988年，山达基在印地安那波利斯500汽车赛上赞助了一辆戴尼提号汽车。</span><span class="english">In 1988, Scientology sponsored a Dianetics car in the Indianapolis 500.</span></p>

@@ -1,5 +1,7 @@
 # 恶狗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/egou.md)
+
 <p><span class="chinese">但是玛丽的牙齿想恶狗一样。</span><span class="english">But Mary's teeth are like a bulldog.</span></p>
 
 <p><span class="chinese">蒙太古家的那条恶狗又来了。</span><span class="english">A dog of the house of Montague moves me.</span></p>

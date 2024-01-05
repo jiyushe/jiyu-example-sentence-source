@@ -1,5 +1,7 @@
 # suppleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suppleness.md)
+
 <p><span class="chinese">补充水份重现肌肤柔软肤质。</span><span class="english">Replenishes moisture to restore suppleness.</span></p>
 
 <p><span class="chinese">每一节课都要从柔软开始。</span><span class="english">Begin every lesson to start to create suppleness.</span></p>

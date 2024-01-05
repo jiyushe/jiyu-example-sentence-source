@@ -1,5 +1,7 @@
 # 包办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoban.md)
+
 <p><span class="chinese">我们的婚姻是包办的。</span><span class="english">Ours was an arranged marriage.</span></p>
 
 <p><span class="chinese">他们的婚姻是包办的。</span><span class="english">Their marriage is arranged one.</span></p>

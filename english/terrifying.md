@@ -1,5 +1,7 @@
 # terrifying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrifying.md)
+
 <p><span class="chinese">他在那儿，高大而可怕。</span><span class="english">Tall. Terrifying.</span></p>
 
 <p><span class="chinese">那部电影真恐怖。</span><span class="english">That movie was terrifying.</span></p>

@@ -1,5 +1,7 @@
 # naha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naha.md)
+
 <p><span class="chinese">看起来都是白色外，范说，从手机那霸。</span><span class="english">It looks all white outside, Sunagawa said by phone from Naha.</span></p>
 
 <p><span class="chinese">在她的那霸的经验，她已经迈出了第一步。</span><span class="english">With her NAHA experience, she's already taken the first step.</span></p>

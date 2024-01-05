@@ -1,5 +1,7 @@
 # peloponnesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peloponnesian.md)
+
 <p><span class="chinese">哈罗德爵士，我记得阿尔喀德斯在的伯罗奔尼撒战争中。</span><span class="english">Sir Harold, I think it was Alcibiades in the Peloponnesian War.</span></p>
 
 <p><span class="chinese">两大战争时代，发生了两次大战即希波战争和伯罗奔尼撒战争。</span><span class="english">Two war era refers to period of the Persian War and the Peloponnesian War.</span></p>

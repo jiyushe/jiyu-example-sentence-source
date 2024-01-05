@@ -1,5 +1,7 @@
 # maple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maple.md)
+
 <p><span class="chinese">它是槭木做的。</span><span class="english">It's made of maple.</span></p>
 
 <p><span class="chinese">光秃秃的枫树丫枝。</span><span class="english">Maple branches bare.</span></p>

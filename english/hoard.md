@@ -1,5 +1,7 @@
 # hoard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoard.md)
+
 <p><span class="chinese">不要储藏它。</span><span class="english">Do not hoard it.</span></p>
 
 <p><span class="chinese">那是什么，龙的藏宝？</span><span class="english">What's that, dragon hoard?</span></p>

@@ -1,5 +1,7 @@
 # 明朝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingchao.md)
+
 <p><span class="chinese">这座门楼是明朝都城的正南门。</span><span class="english">This is the south gate of the Ming capital.</span></p>
 
 <p><span class="chinese">关于明朝的永乐皇帝你知道些什么？</span><span class="english">What do you know about Ming Emperor Yongle?</span></p>

@@ -1,5 +1,7 @@
 # chamber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chamber.md)
+
 <p><span class="chinese">是的，我们有一个夜壶。</span><span class="english">Yes, we had a chamber pot.</span></p>
 
 <p><span class="chinese">并没有发现这样的密室。</span><span class="english">No such chamber has been found.</span></p>

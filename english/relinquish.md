@@ -1,5 +1,7 @@
 # relinquish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relinquish.md)
+
 <p><span class="chinese">狮身人面像不放弃自己的秘密，那么容易。</span><span class="english">Sphinxes do not relinquish their secrets so easily.</span></p>
 
 <p><span class="chinese">普金似乎不愿让出政治控制权。</span><span class="english">Putin seems unwilling to relinquish political control.</span></p>

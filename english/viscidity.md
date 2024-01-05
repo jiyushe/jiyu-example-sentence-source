@@ -1,5 +1,7 @@
 # viscidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscidity.md)
+
 <p><span class="chinese">粘度稳定剂延长了鲜胶乳的凝固时间。</span><span class="english">The viscidity stabilizers lengthened the solidified time of the fresh latex.</span></p>
 
 <p><span class="chinese">染整以生产涤纶、涤棉、涤粘、阳离子和弹力面料为主。</span><span class="english">The former is engaged in mainly producing terylene, cotton-dacon textile, viscidity dacron, cation and elasticity materials.</span></p>

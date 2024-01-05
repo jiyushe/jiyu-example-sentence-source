@@ -1,5 +1,7 @@
 # disown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disown.md)
+
 <p><span class="chinese">但不否认这鸟是自己的。</span><span class="english">But didn't disown the bird.</span></p>
 
 <p><span class="chinese">管理者也许会否认在业绩排名系统里面的角色。</span><span class="english">Managers may disown their part in the appraisal system.</span></p>

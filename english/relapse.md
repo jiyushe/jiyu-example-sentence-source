@@ -1,5 +1,7 @@
 # relapse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relapse.md)
+
 <p><span class="chinese">特里并没有旧病复发。</span><span class="english">John Terry has not had a relapse.</span></p>
 
 <p><span class="chinese">他生来就笨，而且还会旧病复发。</span><span class="english">He was born silly and had a relapse.</span></p>

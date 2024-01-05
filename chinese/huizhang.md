@@ -1,5 +1,7 @@
 # 徽章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huizhang.md)
+
 <p><span class="chinese">我们能给他弄个徽章吗？</span><span class="english">Can we get him a badge?</span></p>
 
 <p><span class="chinese">那位军官佩带着一枚徽章。</span><span class="english">The officer was wearing a medal.</span></p>

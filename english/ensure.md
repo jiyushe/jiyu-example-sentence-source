@@ -1,5 +1,7 @@
 # ensure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ensure.md)
+
 <p><span class="chinese">但是如何才能确保这点呢？</span><span class="english">But how can you ensure that?</span></p>
 
 <p><span class="chinese">我不能保证他会准时。</span><span class="english">I cannot ensure his being on time.</span></p>

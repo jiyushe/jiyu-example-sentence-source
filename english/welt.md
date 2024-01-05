@@ -1,5 +1,7 @@
 # welt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/welt.md)
+
 <p><span class="chinese">轮式皮革贴边。</span><span class="english">Wheeled leather welt.</span></p>
 
 <p><span class="chinese">内政部贴边口袋。</span><span class="english">Interior welt pockets.</span></p>

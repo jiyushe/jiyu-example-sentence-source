@@ -1,5 +1,7 @@
 # 感光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganguang.md)
+
 <p><span class="chinese">这些视蛋白通常在眼睛里有感光功能。</span><span class="english">These usually function in the eyes to sense light.</span></p>
 
 <p><span class="chinese">噢，对了，感光板曾被压在那堆书下。</span><span class="english">Oh yes, it had been underneath that stack of books.</span></p>

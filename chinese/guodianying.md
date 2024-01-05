@@ -1,5 +1,7 @@
 # 过电影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guodianying.md)
+
 <p><span class="chinese">还没有,但是我看过电影.</span><span class="english">Not yet,but I saw the movie.</span></p>
 
 <p><span class="chinese">你们读过电影的原著吗?。</span><span class="english">Q. Had you guys read the books?</span></p>

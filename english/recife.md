@@ -1,5 +1,7 @@
 # recife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recife.md)
+
 <p><span class="chinese">卡鲁阿巴西东北部一城市，位于累西腓西部。</span><span class="english">A city of northeastern Brazil west of Recife.</span></p>
 
 <p><span class="chinese">警察禁止我们记者从累西菲进入巴西。</span><span class="english">The police prohibited us reporters entering Brazil at Recife.</span></p>

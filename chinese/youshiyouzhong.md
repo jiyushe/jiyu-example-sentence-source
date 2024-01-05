@@ -1,5 +1,7 @@
 # 有始有终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshiyouzhong.md)
+
 <p><span class="chinese">坚持你已开始的，要有始有终。</span><span class="english">Stick with what you've started.</span></p>
 
 <p><span class="chinese">神作诸事向来有始有终。</span><span class="english">And God will finish what He has begun.</span></p>

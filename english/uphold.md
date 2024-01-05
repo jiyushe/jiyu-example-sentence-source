@@ -1,5 +1,7 @@
 # uphold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uphold.md)
+
 <p><span class="chinese">他表示愿意维护正义。</span><span class="english">He proffered to uphold justice.</span></p>
 
 <p><span class="chinese">八根柱子支撑着这个大圆顶。</span><span class="english">Eight columns uphold the big dome.</span></p>

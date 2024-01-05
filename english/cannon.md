@@ -1,5 +1,7 @@
 # cannon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannon.md)
+
 <p><span class="chinese">坎农博士说。</span><span class="english">Dr. Cannon said.</span></p>
 
 <p><span class="chinese">炮在隆隆地响。</span><span class="english">The cannon thundered.</span></p>

@@ -1,5 +1,7 @@
 # anharmonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anharmonic.md)
+
 <p><span class="chinese">他把交比叫作非调和比。</span><span class="english">The cross ratio he called anharmonic ratio.</span></p>
 
 <p><span class="chinese">应用双波函数量子理论，研究了在二次型非简谐振子模型场中运动的单粒子的运动状态，给出了力学量的时间演化方程。</span><span class="english">The double wave function theory is applied to study the motion of single particle in the quadratic anharmonic model field.</span></p>

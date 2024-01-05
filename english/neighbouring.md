@@ -1,5 +1,7 @@
 # neighbouring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neighbouring.md)
+
 <p><span class="chinese">附近村庄里的一位垂钓者。</span><span class="english">A fisherman from the neighbouring village.</span></p>
 
 <p><span class="chinese">证据可能在于我们邻近的星系。</span><span class="english">Evidence may be in our neighbouring galaxy.</span></p>

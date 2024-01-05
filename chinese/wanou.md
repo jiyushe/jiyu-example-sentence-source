@@ -1,5 +1,7 @@
 # 玩偶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanou.md)
+
 <p><span class="chinese">这是玩偶盒吗?。</span><span class="english">Is it jack-in-the-box?</span></p>
 
 <p><span class="chinese">很少有人是为了玩偶而前往。</span><span class="english">Few were there for the dolls.</span></p>

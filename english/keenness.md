@@ -1,5 +1,7 @@
 # keenness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keenness.md)
+
 <p><span class="chinese">这种艰苦的工作削弱了我的锐气。</span><span class="english">This hard work has drained away my keenness.</span></p>
 
 <p><span class="chinese">这些形容词都表达具有或显示出思维的快捷性。</span><span class="english">These adjectives mean having or showing mental keenness.</span></p>

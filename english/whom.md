@@ -1,5 +1,7 @@
 # whom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whom.md)
+
 <p><span class="chinese">那是由谁做成的呢？</span><span class="english">By whom was it made?</span></p>
 
 <p><span class="chinese">他该选择哪一个？</span><span class="english">Whom should he choose?</span></p>

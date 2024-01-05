@@ -1,5 +1,7 @@
 # 玄乎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanhu.md)
+
 <p><span class="chinese">确实很玄乎的哦！</span><span class="english">What do we really know about reincarnation?</span></p>
 
 <p><span class="chinese">风水其实没有一些人想象的那样玄乎。</span><span class="english">It isn't all mumbo jumbo as some people think.</span></p>

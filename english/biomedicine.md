@@ -1,5 +1,7 @@
 # biomedicine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biomedicine.md)
+
 <p><span class="chinese">生物医药产业成为新的经济增长点。</span><span class="english">Biomedicine Industry Becomes New Economic Growth Point.</span></p>
 
 <p><span class="chinese">这是生物医学与生物技术的网站。</span><span class="english">This is the website of Journal of Biomedicine and Biotechnology.</span></p>

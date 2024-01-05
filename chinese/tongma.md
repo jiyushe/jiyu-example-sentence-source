@@ -1,5 +1,7 @@
 # 痛骂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongma.md)
+
 <p><span class="chinese">他把他的儿子痛骂了一顿。</span><span class="english">He jumped his son out.</span></p>
 
 <p><span class="chinese">他痛骂他的儿子。</span><span class="english">He vituperated his son.</span></p>

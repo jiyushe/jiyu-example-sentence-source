@@ -1,5 +1,7 @@
 # any
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/any.md)
+
 <p><span class="chinese">任何类型。</span><span class="english">Any type.</span></p>
 
 <p><span class="chinese">有人回答吗</span><span class="english">Any takers?</span></p>

@@ -1,5 +1,7 @@
 # rapist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapist.md)
+
 <p><span class="chinese">很不安全，因为抢劫的人能藏在那里，袭击妇女。</span><span class="english">It is unsafe because a rapist could hide in there and attack women.</span></p>
 
 <p><span class="chinese">警方不相信她的话，因为她说那个罪犯是个陌生人。</span><span class="english">The police didn’t believe her when she said the rapist was a stranger.</span></p>

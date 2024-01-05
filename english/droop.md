@@ -1,5 +1,7 @@
 # droop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/droop.md)
+
 <p><span class="chinese">他的胸脯上下起伏，身子也好象衰颓了。</span><span class="english">His chest heaved and his body seemed to droop.</span></p>
 
 <p><span class="chinese">啊，我出生高贵，却在此双翼低垂。</span><span class="english">Born to higher things, here I droop my wings, ah!</span></p>

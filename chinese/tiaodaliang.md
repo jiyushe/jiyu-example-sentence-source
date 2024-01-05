@@ -1,5 +1,7 @@
 # 挑大梁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaodaliang.md)
+
 <p><span class="chinese">他在我们家是挑大梁的，所有的生活开销都由他提供。</span><span class="english">He's the big shoulders in our family who earns all the living.</span></p>
 
 <p><span class="chinese">我不想再挑大梁了，现阶段，我的身体已经不再允许那样做了，但是，我仍可以上场打球。</span><span class="english">I don't want to carry the load. At this stage, my body can't do that any more, but I still can play.</span></p>

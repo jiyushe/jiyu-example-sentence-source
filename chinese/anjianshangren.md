@@ -1,5 +1,7 @@
 # 暗箭伤人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anjianshangren.md)
+
 <p><span class="chinese">大部分批评是暗箭伤人。</span><span class="english">Most of the criticisms hit below the belt.</span></p>
 
 <p><span class="chinese">陈先生的恶意评论，是暗箭伤人。</span><span class="english">Mr. Chen's malicious remark is a stab in the back.</span></p>

@@ -1,5 +1,7 @@
 # geodesic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geodesic.md)
+
 <p><span class="chinese">命名为富勒的短程线圆顶结构。</span><span class="english">Fuller named this structure the geodesic dome.</span></p>
 
 <p><span class="chinese">上世纪40年代末，巴基提出了一个解决方法，即球型屋顶，这也是他最著名的发明。</span><span class="english">dome, the invention he is most famous for. The geodesic</span></p>

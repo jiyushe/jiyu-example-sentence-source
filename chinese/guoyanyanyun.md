@@ -1,5 +1,7 @@
 # 过眼烟云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoyanyanyun.md)
+
 <p><span class="chinese">时光飞逝，画面也如过眼烟云。</span><span class="english">As the years flew by , so did the images.</span></p>
 
 <p><span class="chinese">浮躁的欢喜或悲哀，不过是一些过眼烟云。</span><span class="english">The joy or sorrow, impetuous but some ephemeral.</span></p>

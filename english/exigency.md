@@ -1,5 +1,7 @@
 # exigency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exigency.md)
+
 <p><span class="chinese">独立于此例的紧急性之外</span><span class="english">Independently of the exigency of the case</span></p>
 
 <p><span class="chinese">在任何突发的紧急状况下董事长可自行采取行动。</span><span class="english">The president is free to act in any sudden exigency.</span></p>

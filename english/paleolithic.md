@@ -1,5 +1,7 @@
 # paleolithic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleolithic.md)
+
 <p><span class="chinese">石球是旧石器时代原始人用来狩猎的工具。</span><span class="english">The stone balls were tools of hunting in Paleolithic times.</span></p>
 
 <p><span class="chinese">北京猿人生活在六十九万年前的旧石器时代。</span><span class="english">Peking Man lived 690000 years ago, during Paleolithic times.</span></p>

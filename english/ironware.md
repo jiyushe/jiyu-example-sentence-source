@@ -1,5 +1,7 @@
 # ironware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ironware.md)
+
 <p><span class="chinese">墓中出土随葬品有陶器、铜器、铁器和石器等。</span><span class="english">The pottery, bronzes, ironware and stoneware were excavated in the tombs.</span></p>
 
 <p><span class="chinese">铁器的出现使人类历史产生了划时代的进步。</span><span class="english">The ironware produced a landmark of human history development and progress.</span></p>

@@ -1,5 +1,7 @@
 # 软软
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanruan.md)
+
 <p><span class="chinese">棉花糖，白白软软的。</span><span class="english">Candyfloss, sweet and soft.</span></p>
 
 <p><span class="chinese">这种布料摸起来软软的。</span><span class="english">This kind of cloth feels soft.</span></p>

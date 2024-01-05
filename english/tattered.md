@@ -1,5 +1,7 @@
 # tattered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tattered.md)
+
 <p><span class="chinese">他们都穿着褴褛的衣衫。</span><span class="english">They all wore tattered clothes.</span></p>
 
 <p><span class="chinese">唉，扯下她褴褛的舰旗吧！</span><span class="english">Ay, tear her tattered ensign down!</span></p>

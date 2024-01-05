@@ -1,5 +1,7 @@
 # resting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resting.md)
+
 <p><span class="chinese">考拉在树干上休息。</span><span class="english">A kola is resting on the trunk.</span></p>
 
 <p><span class="chinese">我看见几十头在歇息的骆驼。</span><span class="english">I saw dozens of resting camels.</span></p>

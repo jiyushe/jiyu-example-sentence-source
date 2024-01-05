@@ -1,5 +1,7 @@
 # unfortunately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfortunately.md)
+
 <p><span class="chinese">可惜这样不起作用。</span><span class="english">Unfortunately this does not work.</span></p>
 
 <p><span class="chinese">遗憾的是，我没有抄一份留底。</span><span class="english">Unfortunately I made no copy of it.</span></p>

@@ -1,5 +1,7 @@
 # catechism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catechism.md)
+
 <p><span class="chinese">请为慕道真理班的弟兄姊妹祷告。</span><span class="english">Pray for those who attend the catechism class.</span></p>
 
 <p><span class="chinese">答案可能会发现，在迄今为止最小的讲授。</span><span class="english">The answer may be found in our smallest catechism.</span></p>

@@ -1,5 +1,7 @@
 # rightness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rightness.md)
+
 <p><span class="chinese">我见到我那将寻求一个廉正一个地方！</span><span class="english">My seeing me is to seek a rightness a place!</span></p>
 
 <p><span class="chinese">现在两人已经公然的出双入对。</span><span class="english">Now 2 human already openly of the twice work into rightness.</span></p>

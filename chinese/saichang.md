@@ -1,5 +1,7 @@
 # 赛场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saichang.md)
+
 <p><span class="chinese">露天赛场简直在振动了！</span><span class="english">The fairgrounds are literally shaking!</span></p>
 
 <p><span class="chinese">以上就是来自体育赛场的新闻。</span><span class="english">So that was news from the playing field.</span></p>

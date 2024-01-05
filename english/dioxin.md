@@ -1,5 +1,7 @@
 # dioxin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dioxin.md)
+
 <p><span class="chinese">那些二恶英的书又在哪儿呢？</span><span class="english">Those dioxin books?</span></p>
 
 <p><span class="chinese">我们还有没有那些关于二恶英的儿童图画书呢？</span><span class="english">Do we have any more of those dioxin coloring books?</span></p>

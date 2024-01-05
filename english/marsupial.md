@@ -1,5 +1,7 @@
 # marsupial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marsupial.md)
+
 <p><span class="chinese">原产亚洲的树居型有袋动物…</span><span class="english">A tree dwelling marsupial of Asian origin.</span></p>
 
 <p><span class="chinese">“我们发现了迄今所知最巨大的有袋动物，”他告诉英国广播公司。</span><span class="english">"We found the most gigantic marsupial ever known, " he told the BBC.</span></p>

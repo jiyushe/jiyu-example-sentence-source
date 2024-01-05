@@ -1,5 +1,7 @@
 # meatpacking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meatpacking.md)
+
 <p><span class="chinese">你能跟我们讲讲肉品市场区吗？</span><span class="english">Can you tell us about the Meatpacking District?</span></p>
 
 <p><span class="chinese">肉品市场区在第14街的西边。</span><span class="english">The Meatpacking District is around 14th street west.</span></p>

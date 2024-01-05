@@ -1,5 +1,7 @@
 # wilson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wilson.md)
+
 <p><span class="chinese">我是发型设计师威尔森。</span><span class="english">I am the stylist, Wilson.</span></p>
 
 <p><span class="chinese">我的名字是伊莱恩·威尔逊。</span><span class="english">My name is Elaine Wilson.</span></p>

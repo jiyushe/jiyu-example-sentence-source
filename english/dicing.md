@@ -1,5 +1,7 @@
 # dicing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dicing.md)
+
 <p><span class="chinese">他们花时间在掷骰子赌博上。</span><span class="english">They spent time dicing.</span></p>
 
 <p><span class="chinese">把一把刀的刀刃切割成梳子状。</span><span class="english">Dicing a blade to a comb.</span></p>

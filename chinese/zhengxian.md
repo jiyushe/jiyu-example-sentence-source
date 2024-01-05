@@ -1,5 +1,7 @@
 # 争先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengxian.md)
+
 <p><span class="chinese">奥林匹克争先赛是一种团体赛。</span><span class="english">Olympic sprint is a team race.</span></p>
 
 <p><span class="chinese">运动员的冲刺，以争先赛的有关规则为准。</span><span class="english">Sprints shall be run according to the rules governing sprint races.</span></p>

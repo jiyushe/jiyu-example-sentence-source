@@ -1,5 +1,7 @@
 # fishermen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishermen.md)
+
 <p><span class="chinese">有些垂钓者就是不走运。</span><span class="english">SOme fishermen are unlucky.</span></p>
 
 <p><span class="chinese">渔民们拉鱼网。</span><span class="english">The fishermen haul the net.</span></p>

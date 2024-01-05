@@ -1,5 +1,7 @@
 # plumbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plumbing.md)
+
 <p><span class="chinese">三力卫浴实业有限公司。</span><span class="english">Sanli Plumbing Industry Co. , Ltd.</span></p>
 
 <p><span class="chinese">现在我们通过铅锤完成。</span><span class="english">Now we got through with the plumbing.</span></p>

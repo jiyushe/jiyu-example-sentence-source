@@ -1,5 +1,7 @@
 # remediation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remediation.md)
+
 <p><span class="chinese">我应该采用什么构件进行修复？</span><span class="english">Which components should we consider for remediation?</span></p>
 
 <p><span class="chinese">这不大可能，因为治理土壤的费用可能高达每亩数百万美元。</span><span class="english">It's unlikely when soil remediation can run into millions of dollars per acre.</span></p>

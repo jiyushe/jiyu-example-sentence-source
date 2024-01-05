@@ -1,5 +1,7 @@
 # 繁体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanti.md)
+
 <p><span class="chinese">所有FB用户可以“投票”或自己选择“繁体”。</span><span class="english">All FB users can "vote" or "thumbs up" his choice.</span></p>
 
 <p><span class="chinese">一个TF2维基繁体中文翻译者。</span><span class="english">One of the TF2 wiki Traditional Chinese translator.</span></p>

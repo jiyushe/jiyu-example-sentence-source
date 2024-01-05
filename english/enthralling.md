@@ -1,5 +1,7 @@
 # enthralling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enthralling.md)
+
 <p><span class="chinese">音乐是世界上最迷人的事物。</span><span class="english">Music is the most enthralling phenomenon in the world.</span></p>
 
 <p><span class="chinese">文佛山茶道馆是景区最有神韵的一景。</span><span class="english">Wenfu Teahouse is one of the most enthralling attractions.</span></p>

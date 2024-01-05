@@ -1,5 +1,7 @@
 # rood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rood.md)
+
 <p><span class="chinese">他吃了太多油腻的食物。</span><span class="english">He glutted himself with rich rood.</span></p>
 
 <p><span class="chinese">行动是通往知识的唯一的途径。</span><span class="english">Activity is the only rood to knowledge.</span></p>

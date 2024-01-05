@@ -1,5 +1,7 @@
 # 申论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenlun.md)
+
 <p><span class="chinese">但他更进一步申论。</span><span class="english">But he goes even further than this.</span></p>
 
 <p><span class="chinese">第三章侧重于对申论写作的各个环节写作思维的具体运用进行阐述。</span><span class="english">The third chapter fouses on the proposal writing's all links.</span></p>

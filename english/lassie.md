@@ -1,5 +1,7 @@
 # lassie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lassie.md)
+
 <p><span class="chinese">我是服了你了，小姑娘。</span><span class="english">I give you best, lassie.</span></p>
 
 <p><span class="chinese">是的。她的名字是蕾西。</span><span class="english">Yes. Her name is Lassie.</span></p>

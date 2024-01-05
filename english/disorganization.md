@@ -1,5 +1,7 @@
 # disorganization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disorganization.md)
+
 <p><span class="chinese">在个人或社会行为上的约束。</span><span class="english">Personal disorganization resulting in unsocial behavior.</span></p>
 
 <p><span class="chinese">怜悯并不代表充动或混乱。</span><span class="english">Compassion does not mean Impulsiveness or disorganization.</span></p>

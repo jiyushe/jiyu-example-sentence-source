@@ -1,5 +1,7 @@
 # 稀饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xifan.md)
+
 <p><span class="chinese">你可以做稀饭。</span><span class="english">You can make congee.</span></p>
 
 <p><span class="chinese">他吃的稀饭和面包。</span><span class="english">He had porridge and bread.</span></p>

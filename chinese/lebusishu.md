@@ -1,5 +1,7 @@
 # 乐不思蜀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lebusishu.md)
+
 <p><span class="chinese">这真的是让消费者乐不思蜀。</span><span class="english">This is really for consumers reluctant to leave.</span></p>
 
 <p><span class="chinese">我们希望而且相信，上海会使每一位旅游者流连忘返，“乐不思蜀”，给每一位旅游者留下了美好的回忆。</span><span class="english">A nice memory of the city will linger in the heart of every tourist.</span></p>

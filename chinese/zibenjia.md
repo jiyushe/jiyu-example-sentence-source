@@ -1,5 +1,7 @@
 # 资本家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zibenjia.md)
+
 <p><span class="chinese">“我把自己定位成资本家，”他说。</span><span class="english">"I consider myself a capitalist, " he said.</span></p>
 
 <p><span class="chinese">资本家还在拍劳动者的肩膀——用一把斧头。</span><span class="english">Capital still pat labour on the back- with an axe.</span></p>

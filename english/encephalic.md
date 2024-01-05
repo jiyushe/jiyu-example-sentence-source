@@ -1,5 +1,7 @@
 # encephalic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encephalic.md)
+
 <p><span class="chinese">而颅内血肿微创治疗的精确定位一直没有一个比较规范的方法。</span><span class="english">The exact orientation of mini-invasive treatment of the encephalic haematoma is not a standard method yet.</span></p>
 
 <p><span class="chinese">局部复发与否、颈淋巴结转移数与颅内转移相关。</span><span class="english">Local recurrence or not and the number of neck lymph node metastasis were related to encephalic metastasis.</span></p>

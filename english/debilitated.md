@@ -1,5 +1,7 @@
 # debilitated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debilitated.md)
+
 <p><span class="chinese">她让痢疾搞得身体非常虚弱。</span><span class="english">She has been debilitated by dysentery.</span></p>
 
 <p><span class="chinese">他因吃不饱变得非常虚弱。</span><span class="english">He was greatly debilitated by lack of food.</span></p>

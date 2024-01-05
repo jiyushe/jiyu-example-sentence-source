@@ -1,5 +1,7 @@
 # 壮胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangdan.md)
+
 <p><span class="chinese">你当刚强壮胆!</span><span class="english">Be strong and courageous.</span></p>
 
 <p><span class="chinese">整个事件只会给他们壮胆。</span><span class="english">This whole event has only emboldened them.</span></p>

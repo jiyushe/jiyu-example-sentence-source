@@ -1,5 +1,7 @@
 # 飘忽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaohu.md)
+
 <p><span class="chinese">明月在流水里飘忽彷徨。</span><span class="english">I see the moon wiggling in the stream.</span></p>
 
 <p><span class="chinese">为什么她描述自己感觉“飘忽不定”呢？</span><span class="english">Why did she describe herself as feeling “adrift”?</span></p>

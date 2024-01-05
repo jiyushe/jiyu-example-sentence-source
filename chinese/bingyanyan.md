@@ -1,5 +1,7 @@
 # 病恹恹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyanyan.md)
+
 <p><span class="chinese">你听起来病恹恹的！</span><span class="english">You sound so sick!</span></p>
 
 <p><span class="chinese">有什么不对劲吗？你看起来病恹恹的。</span><span class="english">Is there something wrong? You look sick.</span></p>

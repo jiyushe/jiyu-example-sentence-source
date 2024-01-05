@@ -1,5 +1,7 @@
 # hollowness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hollowness.md)
+
 <p><span class="chinese">感受到你内心的空虚。</span><span class="english">Feel the hollowness inside of your heart.</span></p>
 
 <p><span class="chinese">还有我灵巧戏法背后阵阵作痛的空虚。</span><span class="english">The aching hollowness in sleight of hand.</span></p>

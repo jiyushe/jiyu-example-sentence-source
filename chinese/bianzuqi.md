@@ -1,5 +1,7 @@
 # 变阻器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzuqi.md)
+
 <p><span class="chinese">可以调节的电阻器叫做变阻器。</span><span class="english">A variable resister is called a rheostat.</span></p>
 
 <p><span class="chinese">把磁场变阻器调节至短接位置。</span><span class="english">Adjust the rheostat to the pipe nipple position.</span></p>

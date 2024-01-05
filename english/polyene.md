@@ -1,5 +1,7 @@
 # polyene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyene.md)
+
 <p><span class="chinese">目的建立多烯磷脂酰胆碱注射液中苯甲醇的含量测定方法。</span><span class="english">Objective To establish a method for determination of benzyl alcohol in polyene phosphatidylcholine injection.</span></p>
 
 <p><span class="chinese">那他霉素是一种多烯大环内酯类抗真菌抗生素，是治疗真菌性角膜炎的医学论文集有效药物。</span><span class="english">Natamycin is a polyene macrolide antifungal antibiotic and is an effective agent in treating fungal keratitis.</span></p>

@@ -1,5 +1,7 @@
 # decidual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decidual.md)
+
 <p><span class="chinese">目的建立纯度较高的适于实验研究的人蜕膜细胞。</span><span class="english">Objective To establish highly purified functional human decidual cells from human placental in vitro.</span></p>
 
 <p><span class="chinese">孕酮可调节蜕膜细胞活性肾素的合成与分泌。</span><span class="english">The synthesis and secretion of active renin were regulated by progesterone in incubated decidual cells.</span></p>

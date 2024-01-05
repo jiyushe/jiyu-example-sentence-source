@@ -1,5 +1,7 @@
 # wrecker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrecker.md)
+
 <p><span class="chinese">一个从事打捞工作的人。</span><span class="english">To work as a wrecker.</span></p>
 
 <p><span class="chinese">她被认为是家庭杀手。</span><span class="english">She is perceived to be a home wrecker.</span></p>

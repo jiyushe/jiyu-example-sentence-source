@@ -1,5 +1,7 @@
 # 逼迫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bipo.md)
+
 <p><span class="chinese">不要逼迫别人接受你的意见。</span><span class="english">Don't force your opinion upon others.</span></p>
 
 <p><span class="chinese">译为现在象一层朦胧的薄雾逼迫浮士德。</span><span class="english">Now draw up Faustus, like a foggy mist.</span></p>

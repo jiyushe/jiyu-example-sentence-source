@@ -1,5 +1,7 @@
 # 脑力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoli.md)
+
 <p><span class="chinese">我们目前正在进行脑力激荡的讨论！</span><span class="english">We are brainstorming at this point!</span></p>
 
 <p><span class="chinese">工作操烦耗费大量脑力吗？</span><span class="english">Your work is too much a brain-drain?</span></p>

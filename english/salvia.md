@@ -1,5 +1,7 @@
 # salvia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salvia.md)
+
 <p><span class="chinese">鼠尾草是另外一种很能吸引蜂鸟的植物。</span><span class="english">Salvia is another popular flower that attracts hummingbirds.</span></p>
 
 <p><span class="chinese">微粉化对丹参质量影响的研究。</span><span class="english">Effect of Micronization on the Quality of Salvia miltiorrhiza Bge.</span></p>

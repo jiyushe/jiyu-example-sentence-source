@@ -1,5 +1,7 @@
 # 养气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangqi.md)
+
 <p><span class="chinese">刘勰养气思想中的“气”属于自然体气、生理之气的范畴。</span><span class="english">The writer thinks that Liu Xie's Qi is a kind of natural Qi.</span></p>
 
 <p><span class="chinese">桂林南溪山石刻养气汤方有二味药名脱落。</span><span class="english">Two Driug's name came off the "Yangqi Tang "on Caved Stone at Nanxi mountain in Guilin.</span></p>

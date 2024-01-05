@@ -1,5 +1,7 @@
 # sluggard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sluggard.md)
+
 <p><span class="chinese">他是一个莽汉。</span><span class="english">He is a sluggard.</span></p>
 
 <p><span class="chinese">他是一条硬汉。</span><span class="english">He is a sluggard.</span></p>

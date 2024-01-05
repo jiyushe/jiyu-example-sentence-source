@@ -1,5 +1,7 @@
 # onerous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onerous.md)
+
 <p><span class="chinese">忠贞的爱情容不下负心的背叛。</span><span class="english">Duteous love can not contain the onerous treachery.</span></p>
 
 <p><span class="chinese">这是我承担过的最艰巨的任务。</span><span class="english">This is the most onerous task I have ever undertaken.</span></p>

@@ -1,5 +1,7 @@
 # 举荐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jujian.md)
+
 <p><span class="chinese">你能把他举荐给经理吗?</span><span class="english">Can you recommend him to the manager?</span></p>
 
 <p><span class="chinese">我想把这本书举荐给你们读一下。</span><span class="english">I want to recomnend this book to you.</span></p>

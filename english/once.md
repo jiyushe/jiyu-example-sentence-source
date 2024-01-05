@@ -1,5 +1,7 @@
 # once 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/once.md)
+
 <p><span class="chinese">只尝试一次。</span><span class="english">Try only once.</span></p>
 
 <p><span class="chinese">我马上就开始了。</span><span class="english">I began at once.</span></p>

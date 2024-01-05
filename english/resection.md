@@ -1,5 +1,7 @@
 # resection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resection.md)
+
 <p><span class="chinese">腹腔镜结肠切除术是怎样进行的？</span><span class="english">HOW IS LAPAROSCOPIC COLON RESECTION PERFORMED?</span></p>
 
 <p><span class="chinese">小肠肠套叠需做肠切除术。</span><span class="english">Small bowel intussusception may require resection.</span></p>

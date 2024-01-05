@@ -1,5 +1,7 @@
 # pathogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathogenesis.md)
+
 <p><span class="chinese">其中血瘀耳窍为最主要的病机。</span><span class="english">Blood stasis is the most common pathogenesis.</span></p>
 
 <p><span class="chinese">目前POCD的发病机制尚不清楚。</span><span class="english">At present the pathogenesis of POCD remains unclear.</span></p>

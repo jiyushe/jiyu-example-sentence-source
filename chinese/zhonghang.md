@@ -1,5 +1,7 @@
 # 中行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonghang.md)
+
 <p><span class="chinese">意思就是说学习像在逆水中行船。</span><span class="english">It means that learning is like sailing upstream.</span></p>
 
 <p><span class="chinese">MV中行为异常的维京海盗们又酷又古怪。</span><span class="english">These freaking vikings are both cool and strange.</span></p>

@@ -1,5 +1,7 @@
 # music
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/music.md)
+
 <p><span class="chinese">音乐制作。</span><span class="english">Make music.</span></p>
 
 <p><span class="chinese">我热爱音乐。</span><span class="english">I love music.</span></p>

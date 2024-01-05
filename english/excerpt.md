@@ -1,5 +1,7 @@
 # excerpt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excerpt.md)
+
 <p><span class="chinese">另外一个片段</span><span class="english">Have we got another excerpt here?</span></p>
 
 <p><span class="chinese">下面是访谈的一些摘录。</span><span class="english">An excerpt of the interview is below.</span></p>

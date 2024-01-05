@@ -1,5 +1,7 @@
 # ridiculousness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ridiculousness.md)
+
 <p><span class="chinese">这荒谬的情景使他们大笑起来。</span><span class="english">The ridiculousness of the situation made all of them laugh.</span></p>
 
 <p><span class="chinese">难道只有我看到了这种趋势的荒谬性吗？</span><span class="english">Am I the only one who sees the ridiculousness of this tendency?</span></p>

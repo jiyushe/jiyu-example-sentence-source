@@ -1,5 +1,7 @@
 # 淫秽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhui.md)
+
 <p><span class="chinese">粗俗的，淫秽的，鄙俗的。</span><span class="english">Obscene, lewd, or vulgar.</span></p>
 
 <p><span class="chinese">他口出淫秽的语言。</span><span class="english">Obscenities belched out of him.</span></p>

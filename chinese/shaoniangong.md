@@ -1,5 +1,7 @@
 # 少年宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoniangong.md)
+
 <p><span class="chinese">这里是少年宫。</span><span class="english">Here is the Children's Palace.</span></p>
 
 <p><span class="chinese">这条街的尽头是少年宫。</span><span class="english">This street ends in the Children's Palace.</span></p>

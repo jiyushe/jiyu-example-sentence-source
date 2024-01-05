@@ -1,5 +1,7 @@
 # 占卜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanbu.md)
+
 <p><span class="chinese">他们用占卜杖在山上探测金属。</span><span class="english">They divined metal on the mountain.</span></p>
 
 <p><span class="chinese">占卜者的预言正确吗？</span><span class="english">Are Nostradamus predictions correct?</span></p>

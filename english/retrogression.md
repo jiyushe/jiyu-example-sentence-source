@@ -1,5 +1,7 @@
 # retrogression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrogression.md)
+
 <p><span class="chinese">进步还是退步？</span><span class="english">Progress or Retrogression?</span></p>
 
 <p><span class="chinese">时间飞速的在我的脑中倒退。</span><span class="english">Time of rapid retrogression in my mind.</span></p>

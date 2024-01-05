@@ -1,5 +1,7 @@
 # 秩序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixu.md)
+
 <p><span class="chinese">遵守公共秩序。</span><span class="english">Observe public order.</span></p>
 
 <p><span class="chinese">第一分钟秩序的呼吁。</span><span class="english">First order call formin.</span></p>

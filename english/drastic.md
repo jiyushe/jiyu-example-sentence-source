@@ -1,5 +1,7 @@
 # drastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drastic.md)
+
 <p><span class="chinese">但我们并不希望任何事情都是波澜起伏，</span><span class="english">And we don't want anything drastic happening,</span></p>
 
 <p><span class="chinese">我们必须采取遽烈的措施，以恢复秩序。</span><span class="english">We must adopt drastic measures to restore order.</span></p>

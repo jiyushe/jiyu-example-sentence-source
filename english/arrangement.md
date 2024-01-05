@@ -1,5 +1,7 @@
 # arrangement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrangement.md)
+
 <p><span class="chinese">而这项安排将于2010年到期。</span><span class="english">The arrangement expires in 2010.</span></p>
 
 <p><span class="chinese">服从工作安排。</span><span class="english">Comply with the work arrangement.</span></p>

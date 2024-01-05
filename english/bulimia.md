@@ -1,5 +1,7 @@
 # bulimia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulimia.md)
+
 <p><span class="chinese">患有厌食症和食欲过盛的人处于骨质流失的风险中。</span><span class="english">People who have anorexia or bulimia are at risk of bone loss.</span></p>
 
 <p><span class="chinese">有厌食症或暴食症的女性更倾向于描绘嘴部。</span><span class="english">The mouth was more emphasized by women with anorexia or bulimia.</span></p>

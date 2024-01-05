@@ -1,5 +1,7 @@
 # 陶然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoran.md)
+
 <p><span class="chinese">在“太平街”或“陶然桥北”站下车。</span><span class="english">"Tai Ping" or "Tao Ran Bridge" stop.</span></p>
 
 <p><span class="chinese">陶然表示，卫生部很可能在明年通过这一标准。</span><span class="english">The ministry is likely to give the Manual the green light next year, Tao said.</span></p>

@@ -1,5 +1,7 @@
 # 数据采集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujucaiji.md)
+
 <p><span class="chinese">一个数据采集应已足够。</span><span class="english">A data sampling should suffice.</span></p>
 
 <p><span class="chinese">探讨了数据采集卡设置的两种方法。</span><span class="english">Set of data acquisition card two ways.</span></p>

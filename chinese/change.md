@@ -1,5 +1,7 @@
 # 嫦娥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/change.md)
+
 <p><span class="chinese">你听过嫦娥奔月的传说吗？</span><span class="english">Have you heard tales of change?</span></p>
 
 <p><span class="chinese">嫦娥慌乱中服下了所有的仙丹。</span><span class="english">In her panic, Chang`e drank it all up.</span></p>

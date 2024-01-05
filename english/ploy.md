@@ -1,5 +1,7 @@
 # ploy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ploy.md)
+
 <p><span class="chinese">这是为他的新作求名的手段。</span><span class="english">This is a ploy to gain publicity for his new book.</span></p>
 
 <p><span class="chinese">您应该拒绝这种自私自利的手段。</span><span class="english">You should reject this self-serving sympathy ploy.</span></p>

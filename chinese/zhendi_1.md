@@ -1,5 +1,7 @@
 # 阵地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhendi_1.md)
+
 <p><span class="chinese">他的头一阵阵地痛。</span><span class="english">His head throbbed with pain.</span></p>
 
 <p><span class="chinese">阵地站中很不兴。</span><span class="english">Station in positions very Hing.</span></p>

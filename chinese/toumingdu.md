@@ -1,5 +1,7 @@
 # 透明度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toumingdu.md)
+
 <p><span class="chinese">透明度是硬道理。</span><span class="english">Transparency is the clincher.</span></p>
 
 <p><span class="chinese">你可以修改透明度和流量。</span><span class="english">You can work transparently or opaquely.</span></p>

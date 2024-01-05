@@ -1,5 +1,7 @@
 # haulage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haulage.md)
+
 <p><span class="chinese">一辆拖车正托运我们的巴士。</span><span class="english">A haulage truck is towing our bus.</span></p>
 
 <p><span class="chinese">拖运距离并不十分远。</span><span class="english">Haulage distances are not excessively long.</span></p>

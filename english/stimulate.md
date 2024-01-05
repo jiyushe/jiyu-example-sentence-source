@@ -1,5 +1,7 @@
 # stimulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stimulate.md)
+
 <p><span class="chinese">那么，出去刺激吧。</span><span class="english">So go out and stimulate.</span></p>
 
 <p><span class="chinese">咖啡茶使感奋。</span><span class="english">Coffee and tea stimulate me.</span></p>

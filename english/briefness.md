@@ -1,5 +1,7 @@
 # briefness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/briefness.md)
+
 <p><span class="chinese">RIP使用非常广泛，它简单、可靠，便于配置。</span><span class="english">RIP is widely used because of its reliability, briefness and easy configuration.</span></p>
 
 <p><span class="chinese">由于其方便、准确、快捷、简单，将愈来愈多的被应用到精米加工行业。</span><span class="english">It will be used more widely due to convenience, accuracy, celerity and briefness.</span></p>

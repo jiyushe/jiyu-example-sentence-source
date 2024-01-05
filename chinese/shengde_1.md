@@ -1,5 +1,7 @@
 # 省得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengde_1.md)
+
 <p><span class="chinese">及时一针省得过后九针。</span><span class="english">A stitch in time saves nines.</span></p>
 
 <p><span class="chinese">劳驾好吗？这样我就省得再跑一趟了。</span><span class="english">Would you please? That would save me a trip.</span></p>

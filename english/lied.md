@@ -1,5 +1,7 @@
 # lied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lied.md)
+
 <p><span class="chinese">他撒谎道。</span><span class="english">He lied.</span></p>
 
 <p><span class="chinese">她撒谎？</span><span class="english">She lied?</span></p>

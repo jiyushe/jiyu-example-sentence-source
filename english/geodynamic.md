@@ -1,5 +1,7 @@
 # geodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geodynamic.md)
+
 <p><span class="chinese">而雅典地球动力研究所的记录是6.5级。</span><span class="english">Athens' Geodynamic Institute registered the quake at 6.5 in magnitude.</span></p>
 
 <p><span class="chinese">其动力学过程是冈瓦纳裂解和亚洲的增生。</span><span class="english">It geodynamic pro-cess is marked by Gondwana disporsion and Asian accretion.</span></p>

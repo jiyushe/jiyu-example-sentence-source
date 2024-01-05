@@ -1,5 +1,7 @@
 # 闲心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxin.md)
+
 <p><span class="chinese">我没闲心开玩笑。</span><span class="english">I am in no mood for joking.</span></p>
 
 <p><span class="chinese">的萨特和长有羊蹄的农牧神“，“既有闲心虚造，就无多少悲痛“</span><span class="english">"Where there is leisure for fiction, there is little grief."</span></p>

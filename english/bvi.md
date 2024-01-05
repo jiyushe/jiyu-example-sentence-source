@@ -1,5 +1,7 @@
 # bvi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bvi.md)
+
 <p><span class="chinese">公司登记费，英属维尔京群岛政府。</span><span class="english">The company registration fee to the BVI government.</span></p>
 
 <p><span class="chinese">法团为英属维尔京群岛商业公司，基金公司。</span><span class="english">Incorporation of the Fund company as a BVI Business Company.</span></p>

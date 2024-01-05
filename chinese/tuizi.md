@@ -1,5 +1,7 @@
 # 推子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuizi.md)
+
 <p><span class="chinese">推子也是贴图的。</span><span class="english">Fader is also a map of.</span></p>
 
 <p><span class="chinese">要不要我用理发推子理后面的头发？</span><span class="english">Shall I use the clipper on the back?</span></p>

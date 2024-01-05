@@ -1,5 +1,7 @@
 # 行伍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangwu.md)
+
 <p><span class="chinese">将军出身行伍。</span><span class="english">The general rose from the ranks.</span></p>
 
 <p><span class="chinese">他是个行伍出身的将军。</span><span class="english">He was a general who had risen from the ranks.</span></p>

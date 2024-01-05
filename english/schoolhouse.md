@@ -1,5 +1,7 @@
 # schoolhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolhouse.md)
+
 <p><span class="chinese">我某个下午曾经访问过那个校舍。</span><span class="english">I visited that schoolhouse one afternoon.</span></p>
 
 <p><span class="chinese">我们兄妹四个在附近一所学校上学，学校只有一间教室。</span><span class="english">Four of us went to a nearby, one-room schoolhouse.</span></p>

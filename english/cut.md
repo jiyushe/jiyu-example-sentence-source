@@ -1,5 +1,7 @@
 # cut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cut.md)
+
 <p><span class="chinese">他把它割开了。</span><span class="english">He cut it open.</span></p>
 
 <p><span class="chinese">现在把它剪下来。</span><span class="english">Cut it down now.</span></p>

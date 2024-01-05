@@ -1,5 +1,7 @@
 # comintern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comintern.md)
+
 <p><span class="chinese">在苏联担任中共驻共产国际代表时的李大钊。</span><span class="english">In 1920 Li Dazhao met comintern Russian agent G. N. Voitrngsky.</span></p>
 
 <p><span class="chinese">共产国际的理论家根本就不值得一提。</span><span class="english">The theoreticians of the Comintern are not even worth mentioning.</span></p>

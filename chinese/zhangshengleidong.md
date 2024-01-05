@@ -1,5 +1,7 @@
 # 掌声雷动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangshengleidong.md)
+
 <p><span class="chinese">掌声雷动。</span><span class="english">The applause thundered forth.</span></p>
 
 <p><span class="chinese">帷幕降下，树丛间掌声雷动。</span><span class="english">Applause is sweeping through the trees.</span></p>

@@ -1,5 +1,7 @@
 # leveller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leveller.md)
+
 <p><span class="chinese">平等派军团也这么说吗？</span><span class="english">Do the Leveller regiments talk of that?</span></p>
 
 <p><span class="chinese">爱，像死亡----使人类永远齐头平等。</span><span class="english">Love, like death, a universal leveller of mankind.</span></p>

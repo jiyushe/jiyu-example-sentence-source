@@ -1,5 +1,7 @@
 # closedown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/closedown.md)
+
 <p><span class="chinese">但也有部分业内人士指出，该网站并非完全被封。</span><span class="english">But some industry experts say it is unlikely to see a complete closedown of the website.</span></p>
 
 <p><span class="chinese">因清偿债务、转产、歇业而降价销售商品。</span><span class="english">Selling any commodity due to debt liquidation, change of business, or closedown of business.</span></p>

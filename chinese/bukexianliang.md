@@ -1,5 +1,7 @@
 # 不可限量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukexianliang.md)
+
 <p><span class="chinese">中国市场的潜力不可限量。</span><span class="english">In China the sky's the limit.</span></p>
 
 <p><span class="chinese">看来妳得洞察力真是不可限量呢。</span><span class="english">It appears your perceptive powers know no bounds.</span></p>

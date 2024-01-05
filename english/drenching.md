@@ -1,5 +1,7 @@
 # drenching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drenching.md)
+
 <p><span class="chinese">妳别站在外边，要不全身都要湿透了。</span><span class="english">Dont stand outside, or you will get drenching.</span></p>
 
 <p><span class="chinese">一辆坐满人的吉普车急驶而过，溅了我一身水。</span><span class="english">A jeep, full, sped fast, drenching me in spray.</span></p>

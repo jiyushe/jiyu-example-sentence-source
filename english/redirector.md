@@ -1,5 +1,7 @@
 # redirector
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redirector.md)
+
 <p><span class="chinese">“防碰撞”式转向器总成具有吸收能量的功能。</span><span class="english">"Anti-clash" type redirector assembly has a function of absorbing energy.</span></p>
 
 <p><span class="chinese">文中重点介绍了货车2G轴转向架的技术参数和结构的确定。</span><span class="english">This paper mainly introduces the technic parameter and struture of railuay truck 2G axis redirector.</span></p>

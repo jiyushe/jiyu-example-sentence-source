@@ -1,5 +1,7 @@
 # submissiveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submissiveness.md)
+
 <p><span class="chinese">低头往下看通常都表示顺从或不好意思。</span><span class="english">Frequently looking down can indicate submissiveness or embarrassment.</span></p>
 
 <p><span class="chinese">政府权威具有合法性、强制性和服从性的特征。</span><span class="english">There are some characteristics such as validity, compulsory and submissiveness.</span></p>

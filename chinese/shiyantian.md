@@ -1,5 +1,7 @@
 # 试验田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyantian.md)
+
 <p><span class="chinese">国营农场把试验田划给这个小组负责。</span><span class="english">The state farm assigned the experimental plot to that group.</span></p>
 
 <p><span class="chinese">通常建筑师会将较小的项目作为新点子的试验田。</span><span class="english">Often architects use smaller commissions as testing grounds for new ideas.</span></p>

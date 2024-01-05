@@ -1,5 +1,7 @@
 # cyanosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyanosis.md)
+
 <p><span class="chinese">症状有紫绀和运动不耐。</span><span class="english">Signs include cyanosis and exercise intolerance.</span></p>
 
 <p><span class="chinese">再观察他的皮肤，无黄疸和发绀。</span><span class="english">Clinton's skin, you cannot see any jaundice or cyanosis.</span></p>

@@ -1,5 +1,7 @@
 # weaponry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weaponry.md)
+
 <p><span class="chinese">很重加强的方尖石塔启动高斯武器。</span><span class="english">Heavily Fortified Obelisks activate Gauss weaponry.</span></p>
 
 <p><span class="chinese">以色列本身一直在武器装备和人力资源上占优势。</span><span class="english">Israel itself has long been superior in weaponry and manpower.</span></p>

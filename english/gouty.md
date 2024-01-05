@@ -1,5 +1,7 @@
 # gouty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gouty.md)
+
 <p><span class="chinese">我有痛风可以吃吗？</span><span class="english">Can a gouty patient eat nuts?</span></p>
 
 <p><span class="chinese">治疗“痛风”的口服药副作用大吗？</span><span class="english">Cure " gouty " is side effect of drug of profess to convinced big?</span></p>

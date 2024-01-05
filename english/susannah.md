@@ -1,5 +1,7 @@
 # susannah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/susannah.md)
+
 <p><span class="chinese">我的未婚妻……苏珊。</span><span class="english">This is my fiancee, Susannah.</span></p>
 
 <p><span class="chinese">珊娜上学时赢得了书法奖。</span><span class="english">Susannah won the calligraphy prize when she was at school.</span></p>

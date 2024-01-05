@@ -1,5 +1,7 @@
 # unjustly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unjustly.md)
+
 <p><span class="chinese">我们不要不公正地贬低她的工作。</span><span class="english">Let's not devalue her work unjustly.</span></p>
 
 <p><span class="chinese">我懊悔不该错怪了她。</span><span class="english">I regretted having blamed her unjustly.</span></p>

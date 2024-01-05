@@ -1,5 +1,7 @@
 # cinnamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinnamic.md)
+
 <p><span class="chinese">一种含1，2，3-三氮唑肉桂酸化合物的制备方法。</span><span class="english">Method for preparing compound containing 1,2,3-triazole cinnamic acid.</span></p>
 
 <p><span class="chinese">桂枝皮部中桂皮醛的含量较高，木质部中肉桂酸的含量较高。</span><span class="english">The bark contains more cinnamaldehyde and less cinnamic acid than xylem.</span></p>

@@ -1,5 +1,7 @@
 # 铺床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puchuang.md)
+
 <p><span class="chinese">为其他人铺床叠被。</span><span class="english">Make beds for others.</span></p>
 
 <p><span class="chinese">或者你可以铺床叠被。</span><span class="english">Or maybe make the beds.</span></p>

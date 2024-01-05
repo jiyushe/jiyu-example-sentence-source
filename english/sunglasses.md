@@ -1,5 +1,7 @@
 # sunglasses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunglasses.md)
+
 <p><span class="chinese">我会戴上我的太阳镜。</span><span class="english">I wear my sunglasses.</span></p>
 
 <p><span class="chinese">我戴上了我的太阳镜。</span><span class="english">I put on my sunglasses.</span></p>

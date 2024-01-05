@@ -1,5 +1,7 @@
 # sherpa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sherpa.md)
+
 <p><span class="chinese">“她从未上过学，”夏巴人回答说。</span><span class="english">She never went to school, " the Sherpa answered."</span></p>
 
 <p><span class="chinese">丹增・诺尔盖被选中做他的登山同伴。</span><span class="english">Sherpa Tenzing was chosen as his climbing partner.</span></p>

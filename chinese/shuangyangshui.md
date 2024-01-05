@@ -1,5 +1,7 @@
 # 双氧水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangyangshui.md)
+
 <p><span class="chinese">就算没什么别的效果，双氧水在分解耳垢方面也很有效。</span><span class="english">If nothing else, H2O2 does effectively break up ear wax.</span></p>
 
 <p><span class="chinese">千万不要使用双氧水清洗，因为它会损坏新生成的组织。</span><span class="english">Never use hydrogen peroxide because it can break down newly formed tissue.</span></p>

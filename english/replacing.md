@@ -1,5 +1,7 @@
 # replacing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replacing.md)
+
 <p><span class="chinese">按任意键，开始替换文件。</span><span class="english">Press any key to replacing files.</span></p>
 
 <p><span class="chinese">没有人能替代斯蒂夫。</span><span class="english">There will be no replacing Steve.</span></p>

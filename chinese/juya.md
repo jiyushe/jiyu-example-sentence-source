@@ -1,5 +1,7 @@
 # 拘押
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juya.md)
+
 <p><span class="chinese">他们是因何被拘押？</span><span class="english">What is the reason for their detention?</span></p>
 
 <p><span class="chinese">他因酒后高速驾车而被拘押。</span><span class="english">He was detained for highballing his car after drinking.</span></p>

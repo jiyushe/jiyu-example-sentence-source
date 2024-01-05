@@ -1,5 +1,7 @@
 # 游民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmin.md)
+
 <p><span class="chinese">这是上帝给网络游民带来的最好的礼物。</span><span class="english">This is God's gift to internet denizens.</span></p>
 
 <p><span class="chinese">警察驱逐游民离开城市。</span><span class="english">The police hustled the tramps out of town.</span></p>

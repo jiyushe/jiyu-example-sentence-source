@@ -1,5 +1,7 @@
 # patronage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patronage.md)
+
 <p><span class="chinese">欢迎惠顾！</span><span class="english">Patronage welcome!</span></p>
 
 <p><span class="chinese">光顾这家餐馆的人很多。</span><span class="english">The restaurant has a large patronage.</span></p>

@@ -1,5 +1,7 @@
 # showdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/showdown.md)
+
 <p><span class="chinese">这样的舞台好像就是为了一决雌雄而准备的。</span><span class="english">The stage seemed set for a showdown.</span></p>
 
 <p><span class="chinese">许文强与丁力摊牌决裂。</span><span class="english">Xu Wenqiang and Ding showdown break.</span></p>

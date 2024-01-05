@@ -1,5 +1,7 @@
 # hematopoiesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematopoiesis.md)
+
 <p><span class="chinese">可是，这个造血机制又在哪里呢？</span><span class="english">But, where is this hematopoiesis mechanism again?</span></p>
 
 <p><span class="chinese">PBSCT能迅速重建和恢复造血功能。</span><span class="english">Allo PBSCT can rapidly reconstitute hematopoiesis.</span></p>

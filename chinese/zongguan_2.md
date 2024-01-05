@@ -1,5 +1,7 @@
 # 纵贯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongguan_2.md)
+
 <p><span class="chinese">一部图文并茂的钱币史，纵贯古今，精彩纷呈。</span><span class="english">A colorful history of coins and currency from their very beginnings.</span></p>
 
 <p><span class="chinese">京杭大运河纵贯苏州南北，交通十分方便。</span><span class="english">The city is cut by the Beijing-Hangzhou Grand Canal from north to south.</span></p>

@@ -1,5 +1,7 @@
 # urologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urologist.md)
+
 <p><span class="chinese">血液检测提供了一个激素剖面泌尿科医师。</span><span class="english">Blood tests provide the urologist with a hormone profile.</span></p>
 
 <p><span class="chinese">而爱丁堡私立Spire医院的泌尿科医生也拒绝做此项手术。</span><span class="english">The urologist at Edinburgh's private Spire hospital would not do it either.</span></p>

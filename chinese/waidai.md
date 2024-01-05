@@ -1,5 +1,7 @@
 # 外带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waidai.md)
+
 <p><span class="chinese">就弄个外带盒子就好了，问题解决啦。</span><span class="english">Just get a to-go box. Problem solved.</span></p>
 
 <p><span class="chinese">一个男人甚至点了一杯琴酒与可乐外带。</span><span class="english">One man ordered a rum and Coke to go.</span></p>

@@ -1,5 +1,7 @@
 # 主将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujiang.md)
+
 <p><span class="chinese">眼看武馆馆主将要反败为胜。</span><span class="english">See the martial arts will be crowned and win the game.</span></p>
 
 <p><span class="chinese">我的双眼已经看见了主将要降临的辉煌！</span><span class="english">Mine eyes have seen the glory of the coming of the Lord!</span></p>

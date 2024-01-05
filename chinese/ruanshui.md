@@ -1,5 +1,7 @@
 # 软水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanshui.md)
+
 <p><span class="chinese">软水如何实现节能？</span><span class="english">How Does Soft Water Save Energy?</span></p>
 
 <p><span class="chinese">自来水水质太硬，请购买一台软水器。</span><span class="english">Your tap water is too hard. Get a water softener.</span></p>

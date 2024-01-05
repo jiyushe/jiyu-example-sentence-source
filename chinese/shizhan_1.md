@@ -1,5 +1,7 @@
 # 施展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhan_1.md)
+
 <p><span class="chinese">他没有机会施展他的才能。</span><span class="english">He has no scope for his ability.</span></p>
 
 <p><span class="chinese">双方都施展出高超的球艺。</span><span class="english">Both sides showed brilliant play.</span></p>

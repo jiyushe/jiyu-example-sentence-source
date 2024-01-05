@@ -1,5 +1,7 @@
 # solubility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solubility.md)
+
 <p><span class="chinese">共聚物仍具有很好的耐热性。</span><span class="english">The solubility of the copolymers is good.</span></p>
 
 <p><span class="chinese">它们在溶解度和化学反应活性上有差别。</span><span class="english">They differ in solubility and chemical reactivity.</span></p>

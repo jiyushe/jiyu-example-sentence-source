@@ -1,5 +1,7 @@
 # manifold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manifold.md)
+
 <p><span class="chinese">阿的蒸汽侧视图多方面的。</span><span class="english">A side view of the steam manifold.</span></p>
 
 <p><span class="chinese">问卷上的问题纷繁复杂。</span><span class="english">The questions were manifold and diverse.</span></p>

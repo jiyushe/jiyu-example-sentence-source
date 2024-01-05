@@ -1,5 +1,7 @@
 # slower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slower.md)
+
 <p><span class="chinese">我喜欢慢节奏的生活。</span><span class="english">I like a slower life.</span></p>
 
 <p><span class="chinese">它甚至可以再慢。</span><span class="english">It can be slower even.</span></p>

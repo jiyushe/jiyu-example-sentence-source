@@ -1,5 +1,7 @@
 # 主文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuwen.md)
+
 <p><span class="chinese">本文主文分为五章。</span><span class="english">The paper includes five chapters.</span></p>
 
 <p><span class="chinese">本文主文分为四个局部。</span><span class="english">The main paper is divided into four parts.</span></p>

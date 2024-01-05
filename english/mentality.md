@@ -1,5 +1,7 @@
 # mentality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mentality.md)
+
 <p><span class="chinese">她们有丰富的心理世界。</span><span class="english">They have an abundance mentality.</span></p>
 
 <p><span class="chinese">科洛夫的问题在于他的心态。</span><span class="english">Korolev's problem was his mentality.</span></p>

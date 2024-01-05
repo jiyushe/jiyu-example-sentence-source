@@ -1,5 +1,7 @@
 # kentucky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kentucky.md)
+
 <p><span class="chinese">是的，肯德基炸鸡。</span><span class="english">Yes, Kentucky Fried Chicken.</span></p>
 
 <p><span class="chinese">他说，“我是从肯塔基州的卡温顿来的。</span><span class="english">I'm from Covington, Kentucky.</span></p>

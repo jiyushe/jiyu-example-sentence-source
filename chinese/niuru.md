@@ -1,5 +1,7 @@
 # 牛乳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuru.md)
+
 <p><span class="chinese">她正撇去牛乳之乳皮。</span><span class="english">She is skimming the milk.</span></p>
 
 <p><span class="chinese">牛乳中的固态物质包括盐分、蛋白质和糖。</span><span class="english">Milk solids include salts, protein and sugar.</span></p>

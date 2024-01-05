@@ -1,5 +1,7 @@
 # 始作俑者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizuoyongzhe.md)
+
 <p><span class="chinese">谁是这个烂摊子的始作俑者？</span><span class="english">Who is to blame for this mess?</span></p>
 
 <p><span class="chinese">实际上，埃拉特·玛扎尔就是这种对抗的始作俑者。</span><span class="english">Eilat Mazar is one of the reasons why.</span></p>

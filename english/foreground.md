@@ -1,5 +1,7 @@
 # foreground
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreground.md)
+
 <p><span class="chinese">她在画中画出了前景。</span><span class="english">She painted in the foreground.</span></p>
 
 <p><span class="chinese">另一个博克球状体位于其前方。</span><span class="english">Another Bok globule is in the foreground.</span></p>

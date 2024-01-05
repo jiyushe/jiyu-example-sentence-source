@@ -1,5 +1,7 @@
 # inasmuch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inasmuch.md)
+
 <p><span class="chinese">亚里士多德将梦定义为人在睡眠时的心理活动。</span><span class="english">The dream is defined  as the psychic activity of the sleeper, inasmuch as he is asleep.</span></p>
 
 <p><span class="chinese">因为我们是为人民服务的，所以不怕别人指出我们的缺点。</span><span class="english">Inasmuch as we serve the people, we are not afraid to have our shortcomings pointed out.</span></p>

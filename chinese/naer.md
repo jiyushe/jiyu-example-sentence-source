@@ -1,5 +1,7 @@
 # 哪儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naer.md)
+
 <p><span class="chinese">狄克，上哪儿去？</span><span class="english">Where to,Dick?</span></p>
 
 <p><span class="chinese">佳佳，上哪儿去？</span><span class="english">Where to,Jia Jia?</span></p>

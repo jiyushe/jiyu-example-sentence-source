@@ -1,5 +1,7 @@
 # 验明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanming_1.md)
+
 <p><span class="chinese">这种矿石被验明含金量高。</span><span class="english">This ore assays high in gold.</span></p>
 
 <p><span class="chinese">这种矿石验明含银量很高。</span><span class="english">The ore assays high in silver.</span></p>

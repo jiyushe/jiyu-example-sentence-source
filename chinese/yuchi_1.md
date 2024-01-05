@@ -1,5 +1,7 @@
 # 鱼池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuchi_1.md)
+
 <p><span class="chinese">还有一个鱼池，满池游弋着金黄色的鲤鱼。</span><span class="english">There was a fishpond full of golden koi.</span></p>
 
 <p><span class="chinese">我们种了许多树，还清洗了鱼池。</span><span class="english">We planted more trees and washed fish pool.</span></p>

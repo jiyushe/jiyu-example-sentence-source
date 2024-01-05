@@ -1,5 +1,7 @@
 # 地球物理学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diqiuwulixue.md)
+
 <p><span class="chinese">我们必须首先对地球物理学进行深入研究。</span><span class="english">We must  read up on geophysics first.</span></p>
 
 <p><span class="chinese">1944年傅承义成为中国首位地球物理学博士。</span><span class="english">In 1944, Fu Chengyi became China's first Ph. D.</span></p>

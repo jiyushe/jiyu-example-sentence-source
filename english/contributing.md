@@ -1,5 +1,7 @@
 # contributing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contributing.md)
+
 <p><span class="chinese">你们中有多少人对维基百科有所贡献？</span><span class="english">How many of you are contributing to wikis?</span></p>
 
 <p><span class="chinese">是太多了还是太少了呢</span><span class="english">Are they contributing too much, too little?</span></p>

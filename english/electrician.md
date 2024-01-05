@@ -1,5 +1,7 @@
 # electrician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrician.md)
+
 <p><span class="chinese">电工把电线接好了。</span><span class="english">The electrician joined the wires up.</span></p>
 
 <p><span class="chinese">电工把电线从线卷上解下来。</span><span class="english">The electrician wound the wires off.</span></p>

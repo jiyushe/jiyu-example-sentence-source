@@ -1,5 +1,7 @@
 # 遗弃罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqizui.md)
+
 <p><span class="chinese">遗弃罪是一种传统型的犯罪。</span><span class="english">The crime of abandonment is a kind of traditional crime.</span></p>
 
 <p><span class="chinese">扩大遗弃罪主体，犯罪主体包括自然人和单位。</span><span class="english">Three, Expanding the body of the abandonment crime, which including natural person and unit.</span></p>

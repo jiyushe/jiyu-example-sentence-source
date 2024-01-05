@@ -1,5 +1,7 @@
 # 美称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meicheng.md)
+
 <p><span class="chinese">小肥猫客栈有着生态花园客栈的美称。</span><span class="english">Small fat cat has ecological garden hotel inn name.</span></p>
 
 <p><span class="chinese">翡翠赢得了“玉石之王”的美称！</span><span class="english">Jadeite has won the laudatory title of " jade king "!</span></p>

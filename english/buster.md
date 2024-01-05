@@ -1,5 +1,7 @@
 # buster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buster.md)
+
 <p><span class="chinese">因为巴斯特死了。</span><span class="english">Buster was dead.</span></p>
 
 <p><span class="chinese">想要摆脱手机合同束缚吗？</span><span class="english">Cellphone Contract Buster.</span></p>

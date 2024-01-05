@@ -1,5 +1,7 @@
 # 雪峰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuefeng_1.md)
+
 <p><span class="chinese">李雪峰听说了许多故事。</span><span class="english">Li has heard a lot of stories.</span></p>
 
 <p><span class="chinese">感谢雪峰延承禅师提供本文。</span><span class="english">Thank Master Xuefeng contribute this essay.</span></p>

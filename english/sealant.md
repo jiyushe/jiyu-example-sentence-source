@@ -1,5 +1,7 @@
 # sealant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sealant.md)
+
 <p><span class="chinese">需要的话，抹一层密封剂。</span><span class="english">Apply a coat of sealant if you need to.</span></p>
 
 <p><span class="chinese">扼要介绍了该水膨胀防水密封胶的工程应用。</span><span class="english">It also briefs the application of the sealant.</span></p>

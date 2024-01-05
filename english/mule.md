@@ -1,5 +1,7 @@
 # mule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mule.md)
+
 <p><span class="chinese">他倔得像头骡子。</span><span class="english">He's as stubborn as a mule.</span></p>
 
 <p><span class="chinese">他倔强得简直像头牛。</span><span class="english">He’s as stubborn as a mule.</span></p>

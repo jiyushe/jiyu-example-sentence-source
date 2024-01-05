@@ -1,5 +1,7 @@
 # mismanagement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mismanagement.md)
+
 <p><span class="chinese">“择善固执”，善不善自有一番道理！</span><span class="english">"Being stubborn " , his own mismanagement good reason!</span></p>
 
 <p><span class="chinese">主管者的管理不当加速了公司的倒闭。</span><span class="english">The director's mismanagement has accelerated the company's failure.</span></p>

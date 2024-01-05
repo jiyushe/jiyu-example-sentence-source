@@ -1,5 +1,7 @@
 # 神韵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyun.md)
+
 <p><span class="chinese">它具有一种难以形容的神韵。</span><span class="english">It has an indescribable romantic charm.</span></p>
 
 <p><span class="chinese">有信心上帝将创造美妙的神韵。</span><span class="english">Have faith God will create the perfect cadence.</span></p>

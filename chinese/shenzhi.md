@@ -1,5 +1,7 @@
 # 深知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenzhi.md)
+
 <p><span class="chinese">我深知我与心痛有份。</span><span class="english">I have my share of heartaches.</span></p>
 
 <p><span class="chinese">我们具有真正的伟力，我们深知这一点。</span><span class="english">We have real power and we know it.</span></p>

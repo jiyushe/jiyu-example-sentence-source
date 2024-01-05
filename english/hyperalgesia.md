@@ -1,5 +1,7 @@
 # hyperalgesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperalgesia.md)
+
 <p><span class="chinese">然而，这些研究采用的都是经皮痛觉过敏模型。</span><span class="english">However, these studies have been performed using cutaneous models of hyperalgesia.</span></p>
 
 <p><span class="chinese">在以往的病例中，痛觉过敏可以在非疼痛性感觉强度仍然很低的情况下出现。</span><span class="english">In the former case, hyperalgesia should occur when intensity of non-painful sensations is still low.</span></p>

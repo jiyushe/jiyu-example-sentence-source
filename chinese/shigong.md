@@ -1,5 +1,7 @@
 # 事功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigong.md)
+
 <p><span class="chinese">梅曾亮一生主要是读书、教书、为官京师，成就在文学不在事功。</span><span class="english">And his main accomplishment is in literature instead of being an officer.</span></p>
 
 <p><span class="chinese">本文首次揭橥事功话语在秦史中的特殊意义。</span><span class="english">The paper reveals first time the discourse of feat in the history of Qin Dynasty.</span></p>

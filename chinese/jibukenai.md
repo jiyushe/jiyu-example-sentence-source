@@ -1,5 +1,7 @@
 # 急不可耐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jibukenai.md)
+
 <p><span class="chinese">他一定是急不可耐地要回家。</span><span class="english">He must be impatient to get back home.</span></p>
 
 <p><span class="chinese">这些马都急不可耐地要飞跑起来。</span><span class="english">The horses were raring to have a gallop.</span></p>

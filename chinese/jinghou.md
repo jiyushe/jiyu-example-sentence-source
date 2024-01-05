@@ -1,5 +1,7 @@
 # 静候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghou.md)
+
 <p><span class="chinese">但我的船长还在静候着我的沉寂。</span><span class="english">Yet quietly my captain awaits my silence.</span></p>
 
 <p><span class="chinese">“上帝啊，”他自语，静候“笑声”的出现。</span><span class="english">“God, ” he said, and waited for the laugh.</span></p>

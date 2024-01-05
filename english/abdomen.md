@@ -1,5 +1,7 @@
 # abdomen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abdomen.md)
+
 <p><span class="chinese">蜘蛛张着凸出的腹部。</span><span class="english">The spider has a bulgy abdomen.</span></p>
 
 <p><span class="chinese">腹部绘云龙纹。</span><span class="english">The abdomen painted dragon cloud.</span></p>

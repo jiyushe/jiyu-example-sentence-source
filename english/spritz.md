@@ -1,5 +1,7 @@
 # spritz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spritz.md)
+
 <p><span class="chinese">往你头发上轻轻喷点水。</span><span class="english">Lightly spritz your hair with water.</span></p>
 
 <p><span class="chinese">可能还要再喷点科隆香水哦。</span><span class="english">Maybe spritz on a little cologne too!</span></p>

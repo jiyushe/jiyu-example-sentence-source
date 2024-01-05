@@ -1,5 +1,7 @@
 # 异邦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibang.md)
+
 <p><span class="chinese">警方抓获了一名异邦间谍。</span><span class="english">The police had captured a foreign spy.</span></p>
 
 <p><span class="chinese">为向异邦报仇雪耻，为向列国进攻袭击。</span><span class="english">To execute vengeance upon the nations, chastisements among the people.</span></p>

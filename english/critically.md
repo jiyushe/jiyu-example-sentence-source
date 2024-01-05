@@ -1,5 +1,7 @@
 # critically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/critically.md)
+
 <p><span class="chinese">目前她也病危。</span><span class="english">She is also critically ill.</span></p>
 
 <p><span class="chinese">父病危，速归。</span><span class="english">Father critically ill return soon.</span></p>

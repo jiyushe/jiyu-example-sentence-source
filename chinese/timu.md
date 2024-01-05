@@ -1,5 +1,7 @@
 # 题目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/timu.md)
+
 <p><span class="chinese">题目是这样的</span><span class="english">Here's the problem.</span></p>
 
 <p><span class="chinese">我可以问几个题目吗?。</span><span class="english">May I ask some questio ?</span></p>

@@ -1,5 +1,7 @@
 # 真容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenrong.md)
+
 <p><span class="chinese">现在，就容笔者带您一睹未来网络信用评分的真容吧。</span><span class="english">Welcome to the credit score of the future.</span></p>
 
 <p><span class="chinese">但等秋天一到，凄风苦雨会把破败不堪的真容暴露无遗。</span><span class="english">But when autumn arrives, the wind and rain will ruthlessly expose the gaps and cracks.</span></p>

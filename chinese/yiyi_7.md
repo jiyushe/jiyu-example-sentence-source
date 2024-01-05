@@ -1,5 +1,7 @@
 # 疑义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyi_7.md)
+
 <p><span class="chinese">现在您当然会怀疑，因为过去我们确实存有疑义。</span><span class="english">Now you may be understandably skeptical, as we certainly were.</span></p>
 
 <p><span class="chinese">当时，老总们也都通过了，没有人再提出疑义。</span><span class="english">At that time, misters also passed, nobody proposes the doubt again.</span></p>

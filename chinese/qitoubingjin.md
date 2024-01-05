@@ -1,5 +1,7 @@
 # 齐头并进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qitoubingjin.md)
+
 <p><span class="chinese">教育和卫生齐头并进。</span><span class="english">Education and health go hand in hand.</span></p>
 
 <p><span class="chinese">工作和休息齐头并进，相得益彰。</span><span class="english">Work and rest go together, hand in hand.</span></p>

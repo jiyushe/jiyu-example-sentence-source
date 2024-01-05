@@ -1,5 +1,7 @@
 # dishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishing.md)
+
 <p><span class="chinese">工人们在挖沟。</span><span class="english">The workers are dishing a gutter.</span></p>
 
 <p><span class="chinese">批评指责并不能改变一件事情。</span><span class="english">Dishing out criticism won’t change a thing.</span></p>

@@ -1,5 +1,7 @@
 # mmf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mmf.md)
+
 <p><span class="chinese">MMF是一种普通的的疾病或综合征吗？</span><span class="english">Q2. Is MMF a general disease or syndrome?</span></p>
 
 <p><span class="chinese">它与疫苗中的铝有何关系？</span><span class="english">What is MMF and how is it related to aluminium in vaccines?</span></p>

@@ -1,5 +1,7 @@
 # 峻岭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junling.md)
+
 <p><span class="chinese">他们的武器工厂坐落在群山峻岭之中。</span><span class="english">Their arms factory lies in range of high mountains.</span></p>
 
 <p><span class="chinese">由于翻越高山峻岭，我们的汽车引擎发热了。</span><span class="english">Climbing the steep mountain caused our car to heat up.</span></p>

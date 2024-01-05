@@ -1,5 +1,7 @@
 # parry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parry.md)
+
 <p><span class="chinese">帕里教授说，我们需要更多的可用资金。</span><span class="english">Prof Parry said a lot more money needs to be made available.</span></p>
 
 <p><span class="chinese">双武器现在也可以让你招架前方的近战攻击。</span><span class="english">Dual Wield now also allows you to parry frontal melee attacks.</span></p>

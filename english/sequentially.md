@@ -1,5 +1,7 @@
 # sequentially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequentially.md)
+
 <p><span class="chinese">任意平行度的作业可以序列运行，也可以并发运行。</span><span class="english">Jobs of any degree of parallelism can be run sequentially or concurrently.</span></p>
 
 <p><span class="chinese">脚本文件中的行像以前一样读取，并顺序处理。</span><span class="english">The lines in the script file are read as before and processed sequentially.</span></p>

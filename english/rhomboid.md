@@ -1,5 +1,7 @@
 # rhomboid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhomboid.md)
+
 <p><span class="chinese">目的评价应用改良菱形皮瓣修复发际部位头皮缺损的效果。</span><span class="english">Modified rhomboid flap has become an ideal method of repairing nasal defects.</span></p>
 
 <p><span class="chinese">目的探讨菱形皮瓣的设计在扩张皮瓣中间松弛部分充分利用的意义。</span><span class="english">Objective To evaluate the use of rhomboid skin flap in expanded akin flap transfer.</span></p>

@@ -1,5 +1,7 @@
 # telomere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telomere.md)
+
 <p><span class="chinese">我们的第2条染色体在中心部位含有端粒DNA。</span><span class="english">Our second chromosome has telomere DNA at the center.</span></p>
 
 <p><span class="chinese">四联体是端粒形成的一种特殊的结构。</span><span class="english">G- quadruplex is a special structure formed by telomere.</span></p>

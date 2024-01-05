@@ -1,5 +1,7 @@
 # autoregulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autoregulation.md)
+
 <p><span class="chinese">临界关闭压在脑血流动力学评价中的应用。</span><span class="english">Evaluating cerebral blood flow autoregulation by critical closing pressure.</span></p>
 
 <p><span class="chinese">流速的改变被用来计算自身调节指数。</span><span class="english">The change in flow velocity was used to calculate the autoregulation index.</span></p>

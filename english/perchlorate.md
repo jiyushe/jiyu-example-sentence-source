@@ -1,5 +1,7 @@
 # perchlorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perchlorate.md)
+
 <p><span class="chinese">铪的化学形态为过氯酸盐或硝酸盐。</span><span class="english">Chemical form of hafnium is perchlorate or nitrate.</span></p>
 
 <p><span class="chinese">为高氯酸铵为基础的推进剂，它通常是前者。</span><span class="english">For ammonium perchlorate based propellants, it is usually the former.</span></p>

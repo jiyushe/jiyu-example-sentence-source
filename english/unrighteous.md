@@ -1,5 +1,7 @@
 # unrighteous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrighteous.md)
+
 <p><span class="chinese">而要去扔下那非正义的行为。</span><span class="english">Instead, throw off the unrighteous behavior.</span></p>
 
 <p><span class="chinese">但是，究竟谁正义或不正义？</span><span class="english">But actually who is righteous or unrighteous?</span></p>

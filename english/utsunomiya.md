@@ -1,5 +1,7 @@
 # utsunomiya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utsunomiya.md)
+
 <p><span class="chinese">宇都宫清吉与冈崎文夫的研究风格不同。</span><span class="english">Utsunomiya Kiyoyoshi Okazaki Fumio with the study of different styles.</span></p>
 
 <p><span class="chinese">其中应该提到的是冈崎文夫和宇都宫清吉。</span><span class="english">Which should be mentioned that Okazaki Fumio, and Utsunomiya Kiyoyoshi.</span></p>

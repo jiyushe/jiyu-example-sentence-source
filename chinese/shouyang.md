@@ -1,5 +1,7 @@
 # 手痒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyang.md)
+
 <p><span class="chinese">手痒，急于想干某事。</span><span class="english">One's fingers itch to do sth.</span></p>
 
 <p><span class="chinese">是手痒得想打他一个耳光。</span><span class="english">My fingers itch to box his ears.</span></p>

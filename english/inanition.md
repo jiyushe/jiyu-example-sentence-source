@@ -1,5 +1,7 @@
 # inanition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inanition.md)
+
 <p><span class="chinese">除了空虚我什么也不知道。</span><span class="english">I don't know except inanition.</span></p>
 
 <p><span class="chinese">弥补一些些心灵上的空虚。</span><span class="english">Remedy some inanition on soul a bit.</span></p>

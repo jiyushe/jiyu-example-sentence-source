@@ -1,5 +1,7 @@
 # 独占
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duzhan.md)
+
 <p><span class="chinese">她想独占他的时间。</span><span class="english">She tried to monopolize his time.</span></p>
 
 <p><span class="chinese">他们认为他们应该得到独占权。</span><span class="english">They think they deserve exclusivity.</span></p>

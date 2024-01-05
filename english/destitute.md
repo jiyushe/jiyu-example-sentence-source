@@ -1,5 +1,7 @@
 # destitute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destitute.md)
+
 <p><span class="chinese">这地带杳无人烟。</span><span class="english">The land is destitute of inhabitants.</span></p>
 
 <p><span class="chinese">洪水让许多人缺衣少食，无家可归。</span><span class="english">The floods left many people destitute.</span></p>

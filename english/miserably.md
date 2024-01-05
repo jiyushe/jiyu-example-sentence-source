@@ -1,5 +1,7 @@
 # miserably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miserably.md)
+
 <p><span class="chinese">有时候我非常不幸地失败了。</span><span class="english">Other times I fail miserably.</span></p>
 
 <p><span class="chinese">他们在这两个方面都惨遭失败。</span><span class="english">They failed miserably in both respects.</span></p>

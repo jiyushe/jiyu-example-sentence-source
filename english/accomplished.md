@@ -1,5 +1,7 @@
 # accomplished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accomplished.md)
+
 <p><span class="chinese">水坝已大功告成。</span><span class="english">The dam is accomplished.</span></p>
 
 <p><span class="chinese">她是个调情老手。</span><span class="english">She is an accomplished flirt.</span></p>

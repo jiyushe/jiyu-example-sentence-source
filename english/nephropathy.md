@@ -1,5 +1,7 @@
 # nephropathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephropathy.md)
+
 <p><span class="chinese">胰岛肾病是管理头等问题。</span><span class="english">Diabetic nephropathy is a major management issue.</span></p>
 
 <p><span class="chinese">糖尿病肾病中足细胞的肥大与丢失。</span><span class="english">Hypertrophy and Loss of Podocytes in Diabetic Nephropathy.</span></p>

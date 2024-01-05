@@ -1,5 +1,7 @@
 # performing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/performing.md)
+
 <p><span class="chinese">想欣赏艺术表演吗？</span><span class="english">Enjoy the performing arts?</span></p>
 
 <p><span class="chinese">为国王路易十五表演。</span><span class="english">Performing for King Louis XV.</span></p>

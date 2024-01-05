@@ -1,5 +1,7 @@
 # proofreader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proofreader.md)
+
 <p><span class="chinese">作家、编辑或者校对员吗？</span><span class="english">Are you a writer, editor, or proofreader?</span></p>
 
 <p><span class="chinese">校对员对这个词的拼写有疑问。</span><span class="english">The proofreader queried the spelling of the word.</span></p>

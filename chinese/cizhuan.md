@@ -1,5 +1,7 @@
 # 瓷砖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cizhuan.md)
+
 <p><span class="chinese">周围贴的瓷砖也是欧式的。</span><span class="english">These tiles are also Euro-style.</span></p>
 
 <p><span class="chinese">第一周瓷砖就碎了。</span><span class="english">The tile broke in the first week.</span></p>

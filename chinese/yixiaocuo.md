@@ -1,5 +1,7 @@
 # 一小撮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiaocuo.md)
+
 <p><span class="chinese">一小撮绒毛能变成你的温床</span><span class="english">A bit of fluff would be your bed</span></p>
 
 <p><span class="chinese">他们只不过是其中的一小撮。</span><span class="english">They constitute but a handful of the number.</span></p>

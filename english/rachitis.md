@@ -1,5 +1,7 @@
 # rachitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rachitis.md)
+
 <p><span class="chinese">什么是强直性脊柱炎？</span><span class="english">What is rigidity sex rachitis?</span></p>
 
 <p><span class="chinese">那人看来患有佝偻病。</span><span class="english">The man seems to have rachitis.</span></p>

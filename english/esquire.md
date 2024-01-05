@@ -1,5 +1,7 @@
 # esquire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esquire.md)
+
 <p><span class="chinese">Esquire可缩写成Esq.。</span><span class="english">Esquire can be abbreviated to Esq.</span></p>
 
 <p><span class="chinese">绅士酒吧的玻璃酒杯堆放在吧台和桌子上。</span><span class="english">Esquire tumblers chunk on bartops and tables.</span></p>

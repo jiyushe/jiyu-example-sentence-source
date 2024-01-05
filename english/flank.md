@@ -1,5 +1,7 @@
 # flank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flank.md)
+
 <p><span class="chinese">花园两侧是一些柳树。</span><span class="english">Some willows flank the garden.</span></p>
 
 <p><span class="chinese">他把手放在狗的胁腹上。</span><span class="english">He put his hand on the dog's flank.</span></p>

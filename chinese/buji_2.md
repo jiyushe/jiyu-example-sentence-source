@@ -1,5 +1,7 @@
 # 不羁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buji_2.md)
+
 <p><span class="chinese">她过着放纵不羁的生活。</span><span class="english">She leads a gay and wild life.</span></p>
 
 <p><span class="chinese">分享你雄强的脉搏，自由不羁。</span><span class="english">And share the impulse of thy strength.</span></p>

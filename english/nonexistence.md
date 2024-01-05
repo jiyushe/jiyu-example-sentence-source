@@ -1,5 +1,7 @@
 # nonexistence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonexistence.md)
+
 <p><span class="chinese">他们没有出现是一件坏事么？</span><span class="english">Is their nonexistence a bad thing?</span></p>
 
 <p><span class="chinese">最直接的回答是“不存在”，但这是不确切的。</span><span class="english">The immediate answer would be " nonexistence , " but this is incorrect.</span></p>

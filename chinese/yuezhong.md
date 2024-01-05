@@ -1,5 +1,7 @@
 # 月中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuezhong.md)
+
 <p><span class="chinese">月中好消息更多。</span><span class="english">More good news arrives mid-month.</span></p>
 
 <p><span class="chinese">我有一张4月中旬回去的票。</span><span class="english">I have a ticket to go back in mid-April.</span></p>

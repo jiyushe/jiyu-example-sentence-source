@@ -1,5 +1,7 @@
 # persona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persona.md)
+
 <p><span class="chinese">什么是用户角色？</span><span class="english">What is a persona?</span></p>
 
 <p><span class="chinese">我在等另外一个人。</span><span class="english">Estoy esperando a otra persona.</span></p>

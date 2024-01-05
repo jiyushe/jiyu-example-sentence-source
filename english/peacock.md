@@ -1,5 +1,7 @@
 # peacock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peacock.md)
+
 <p><span class="chinese">他的坐骑是一只孔雀。</span><span class="english">His vehicle is peacock.</span></p>
 
 <p><span class="chinese">孔雀象征骄傲。</span><span class="english">The peacock typifies pride.</span></p>

@@ -1,5 +1,7 @@
 # 招财进宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaocaijinbao.md)
+
 <p><span class="chinese">对富裕的喜爱感将会招财进宝。</span><span class="english">The feeling of wealth produces wealth.</span></p>
 
 <p><span class="chinese">大家都希望今年能够吉祥如意，招财进宝。</span><span class="english">We all hope that this year can wealth.</span></p>

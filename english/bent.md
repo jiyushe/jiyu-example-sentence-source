@@ -1,5 +1,7 @@
 # bent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bent.md)
+
 <p><span class="chinese">弄弯我的脚趾！</span><span class="english">Bent my toe!</span></p>
 
 <p><span class="chinese">他屈从于她的愿望。</span><span class="english">He bent to her wishes.</span></p>

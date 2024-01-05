@@ -1,5 +1,7 @@
 # meritocracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meritocracy.md)
+
 <p><span class="chinese">所以，一个有能者居之的伟大体制建立了起来。</span><span class="english">Hence, a great meritocracy could be created.</span></p>
 
 <p><span class="chinese">全球范围内的贤能主义是许多人的梦想和追求。</span><span class="english">A global meritocracy is in all our interests.</span></p>

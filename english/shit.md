@@ -1,5 +1,7 @@
 # shit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shit.md)
+
 <p><span class="chinese">去吃屎，去死吧。</span><span class="english">Eat shit and die.</span></p>
 
 <p><span class="chinese">结果发现是鸟屎。</span><span class="english">It was bird shit.</span></p>

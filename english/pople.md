@@ -1,5 +1,7 @@
 # pople
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pople.md)
+
 <p><span class="chinese">波普尔有使玉米入面粉。</span><span class="english">Pople there make maize into flour.</span></p>
 
 <p><span class="chinese">俱乐部一个对是新东西是因为年轻人物专访。</span><span class="english">The club is a new thing for young pople.</span></p>

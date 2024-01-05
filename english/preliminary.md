@@ -1,5 +1,7 @@
 # preliminary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preliminary.md)
+
 <p><span class="chinese">这是一个初步判断。</span><span class="english">This is a preliminary judgment.</span></p>
 
 <p><span class="chinese">子卫星的构想仍然是初步的。</span><span class="english">The moonlet idea is still preliminary.</span></p>

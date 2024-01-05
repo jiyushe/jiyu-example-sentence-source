@@ -1,5 +1,7 @@
 # 墙板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangban.md)
+
 <p><span class="chinese">墙板对立柱的支撑作用是明显的。</span><span class="english">So the effect of wallboard is obvious.</span></p>
 
 <p><span class="chinese">胶水会把瓷砖粘在墙板上。</span><span class="english">Glue will adhere the tiles to the wallboard.</span></p>

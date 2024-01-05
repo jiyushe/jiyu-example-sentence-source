@@ -1,5 +1,7 @@
 # agro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agro.md)
+
 <p><span class="chinese">北京最大的批发市场、新发地农产品批发市场的批发商数量昨天减少了30％。</span><span class="english">The number of wholesalers in Xinfadi Agro Wholesale Market, the largest in Beijing, decreased by 30 percent yesterday.</span></p>
 
 <p><span class="chinese">在化工、石化、汽车、工程、农业和食品加工、纺织品和珠宝方面具有优势。</span><span class="english">It is strong in chemical and petrochemical, automobile and engineering, agro and food processing, textiles and jewelry.</span></p>

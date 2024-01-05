@@ -1,5 +1,7 @@
 # 自命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziming.md)
+
 <p><span class="chinese">他自命为游泳最快的人。</span><span class="english">He fancies himself as the fastest swimmer.</span></p>
 
 <p><span class="chinese">他自命为艺术方面的权威。</span><span class="english">He sets himself up as an authority on art.</span></p>

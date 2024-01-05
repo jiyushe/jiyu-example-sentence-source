@@ -1,5 +1,7 @@
 # tuberosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuberosity.md)
+
 <p><span class="chinese">所有12例部分撕裂患者均见伴存的肱骨大结节挫伤。</span><span class="english">The concomitant contusion of greater tuberosity was found in all 12 partial rotator-cuff tears.</span></p>
 
 <p><span class="chinese">目的探讨坐骨结节囊肿的CT表现及CT扫描的诊断价值。</span><span class="english">Objective To explore the manifestation of cyst of ischial tuberosity on CT scan and its diagnostic value.</span></p>

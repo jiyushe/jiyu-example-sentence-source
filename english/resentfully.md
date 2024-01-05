@@ -1,5 +1,7 @@
 # resentfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resentfully.md)
+
 <p><span class="chinese">向雅蜜羞愤的想要自杀。</span><span class="english">Ashamed and resentfully absence a suicide to Ya Mi.</span></p>
 
 <p><span class="chinese">我和姐姐听了，气得咬牙切齿，愤愤不平地走回家去。</span><span class="english">My sister and I listen to and gnash, resentfully to walk home.</span></p>

@@ -1,5 +1,7 @@
 # awesome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awesome.md)
+
 <p><span class="chinese">非常棒。</span><span class="english">It was awesome.</span></p>
 
 <p><span class="chinese">你真了不起。</span><span class="english">You're awesome.</span></p>

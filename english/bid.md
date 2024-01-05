@@ -1,5 +1,7 @@
 # bid 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bid.md)
+
 <p><span class="chinese">照我的吩咐去做。</span><span class="english">Do as I bid.</span></p>
 
 <p><span class="chinese">中国信托投标与否？</span><span class="english">Chinatrust Bid?</span></p>

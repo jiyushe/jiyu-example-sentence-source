@@ -1,5 +1,7 @@
 # parenthesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parenthesis.md)
+
 <p><span class="chinese">不要读插入语。</span><span class="english">Do not read the parenthesis.</span></p>
 
 <p><span class="chinese">我如何调整那个括号？</span><span class="english">So how do I switch the parenthesis?</span></p>

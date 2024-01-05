@@ -1,5 +1,7 @@
 # 邪念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xienian.md)
+
 <p><span class="chinese">征服你内心的邪念！</span><span class="english">Conquer your inner demons!</span></p>
 
 <p><span class="chinese">征服你所有内心的邪念！</span><span class="english">Conque all your inner demons!</span></p>

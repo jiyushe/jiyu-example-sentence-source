@@ -1,5 +1,7 @@
 # 辎重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhong_1.md)
+
 <p><span class="chinese">辎重跟随在行进军队的后部。</span><span class="english">The baggage followed in the rear of the troops on march.</span></p>
 
 <p><span class="chinese">所有的军需品和辎重都被敌人夺走了。</span><span class="english">All of the artillery and baggage were captured by the enemy.</span></p>

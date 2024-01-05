@@ -1,5 +1,7 @@
 # 只得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhide_1.md)
+
 <p><span class="chinese">她只得再往下读。</span><span class="english">Again she read on.</span></p>
 
 <p><span class="chinese">我只得加入排队等着上厕所。</span><span class="english">I had to join a for the toilets.</span></p>

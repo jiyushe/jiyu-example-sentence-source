@@ -1,5 +1,7 @@
 # torques
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torques.md)
+
 <p><span class="chinese">外转矩是由系统外部生产的。</span><span class="english">External torques arise from outside the system.</span></p>
 
 <p><span class="chinese">作用力之和为，力矩之和为。</span><span class="english">Sum of all forces is zero, 0 sum of all torques is zero.</span></p>

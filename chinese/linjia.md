@@ -1,5 +1,7 @@
 # 邻家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linjia.md)
+
 <p><span class="chinese">有好邻家才有好篱笆。</span><span class="english">Good neighbors make good fences.</span></p>
 
 <p><span class="chinese">而我一直都是个貌不惊人的邻家女孩。</span><span class="english">I was always the girl next door.</span></p>

@@ -1,5 +1,7 @@
 # 举足轻重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzuqingzhong.md)
+
 <p><span class="chinese">在这个监狱里，他可是个举足轻重的人物。</span><span class="english">In this prison he is a heavy hitter.</span></p>
 
 <p><span class="chinese">近年来博弈论在法学上也举足轻重</span><span class="english">Game Theory is very important in law these days.</span></p>

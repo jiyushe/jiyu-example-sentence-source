@@ -1,5 +1,7 @@
 # eery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eery.md)
+
 <p><span class="chinese">坏事情也有好的一面。</span><span class="english">Eery bad has some good.</span></p>
 
 <p><span class="chinese">我每周绝食一天。</span><span class="english">I fast a day eery week.</span></p>

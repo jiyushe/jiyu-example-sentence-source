@@ -1,5 +1,7 @@
 # 呈请
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengqing.md)
+
 <p><span class="chinese">呈请书的其余部分如下所示。</span><span class="english">The rest of the petition follows below.</span></p>
 
 <p><span class="chinese">现连同此项呈请书提交一份本人的资产负债状况说明书。</span><span class="english">A statement of my affairs is filed with th is petition.</span></p>

@@ -1,5 +1,7 @@
 # ajar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ajar.md)
+
 <p><span class="chinese">请半开着门。</span><span class="english">Leave the door ajar.</span></p>
 
 <p><span class="chinese">左侧有一扇门半掩着。</span><span class="english">A door to the left stood ajar.</span></p>

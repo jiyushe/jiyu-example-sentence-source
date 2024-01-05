@@ -1,5 +1,7 @@
 # 定格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingge.md)
+
 <p><span class="chinese">回忆定格的年间，悲伤如水般弥漫。</span><span class="english">Memory frames, sad like water diffuse.</span></p>
 
 <p><span class="chinese">当她呼气的时候，脸孔定格在了安详的表情。</span><span class="english">As she exhaled, her face settled into repose.</span></p>

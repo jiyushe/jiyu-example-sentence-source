@@ -1,5 +1,7 @@
 # 产业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanye.md)
+
 <p><span class="chinese">这伤害了产业。</span><span class="english">It hurt the industry.</span></p>
 
 <p><span class="chinese">农业是当时的主导产业。</span><span class="english">Agriculture was dominant.</span></p>

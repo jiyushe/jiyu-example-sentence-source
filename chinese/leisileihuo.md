@@ -1,5 +1,7 @@
 # 累死累活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leisileihuo.md)
+
 <p><span class="chinese">那地主迫使雇农们累死累活地干。</span><span class="english">The landlord almost worked the farmhands to death.</span></p>
 
 <p><span class="chinese">为了换换心情。之前十年我在丹弗工作得累死累活。</span><span class="english">I spent the last decade working my ass off in Denver.</span></p>

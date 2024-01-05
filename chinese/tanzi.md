@@ -1,5 +1,7 @@
 # 坛子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanzi.md)
+
 <p><span class="chinese">你甚至可以用坛子。</span><span class="english">You can even use a jug.</span></p>
 
 <p><span class="chinese">这里有那麽多的油坛子。</span><span class="english">Here are so many oil jars.</span></p>

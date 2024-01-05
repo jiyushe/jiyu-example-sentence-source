@@ -1,5 +1,7 @@
 # extrapolation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrapolation.md)
+
 <p><span class="chinese">这是一个有后续影响力的外推。</span><span class="english">It is an extrapolation with consequences.</span></p>
 
 <p><span class="chinese">就其本身而言，这样的外推法并非是致命的。</span><span class="english">In itself, such extrapolation is hardly fatal.</span></p>

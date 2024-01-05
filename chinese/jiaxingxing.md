@@ -1,5 +1,7 @@
 # 假惺惺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaxingxing.md)
+
 <p><span class="chinese">不要假惺惺地为他的离去而悲伤。</span><span class="english">Don't have croco tears for he away.</span></p>
 
 <p><span class="chinese">他对这种假惺惺的谄谀不屑一顾。</span><span class="english">He is above the insincere flattery.</span></p>

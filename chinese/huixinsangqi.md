@@ -1,5 +1,7 @@
 # 灰心丧气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huixinsangqi.md)
+
 <p><span class="chinese">我感到灰心丧气。</span><span class="english">I'm downhearted.</span></p>
 
 <p><span class="chinese">我感到灰心丧气。</span><span class="english">I felt dispirited.</span></p>

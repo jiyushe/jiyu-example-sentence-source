@@ -1,5 +1,7 @@
 # 夹克
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiake.md)
+
 <p><span class="chinese">他的夹克没有衬里。</span><span class="english">His jacket was unlined.</span></p>
 
 <p><span class="chinese">我能试穿一下这件夹克吗？</span><span class="english">Can I try on this jacket?</span></p>

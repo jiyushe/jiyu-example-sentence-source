@@ -1,5 +1,7 @@
 # mithras
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mithras.md)
+
 <p><span class="chinese">为什么密特拉神会戴一顶弗利吉亚国的帽子？</span><span class="english">Why is Mithras shown wearing a Phrygian cap?</span></p>
 
 <p><span class="chinese">密特拉神的名字波斯语叫做“盟约”。</span><span class="english">The name Mithras was the Persian word for 'contract'.</span></p>

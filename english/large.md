@@ -1,5 +1,7 @@
 # large 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/large.md)
+
 <p><span class="chinese">大杯还是小杯？</span><span class="english">Large or small?</span></p>
 
 <p><span class="chinese">大杯还是小杯?。</span><span class="english">Large or Little?</span></p>

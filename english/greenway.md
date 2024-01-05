@@ -1,5 +1,7 @@
 # greenway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenway.md)
+
 <p><span class="chinese">什么是绿道？</span><span class="english">What is the "greenway"?</span></p>
 
 <p><span class="chinese">一条林荫大道环绕着该岛。</span><span class="english">A greenway circumnavigates the island, buffering views.</span></p>

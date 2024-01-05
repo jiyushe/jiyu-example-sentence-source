@@ -1,5 +1,7 @@
 # turndown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turndown.md)
+
 <p><span class="chinese">为客人提供开夜床服务。</span><span class="english">Offers opened turndown service.</span></p>
 
 <p><span class="chinese">我现在可以为您做夜床吗？</span><span class="english">May I do the turndown service now?</span></p>

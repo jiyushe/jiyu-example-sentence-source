@@ -1,5 +1,7 @@
 # 交配
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaopei.md)
+
 <p><span class="chinese">雄马与雌马交配。</span><span class="english">A horse covers a mare.</span></p>
 
 <p><span class="chinese">他使他的牛与良种牛交配。</span><span class="english">He graded up his herd.</span></p>

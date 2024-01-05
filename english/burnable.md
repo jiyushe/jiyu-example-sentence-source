@@ -1,5 +1,7 @@
 # burnable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burnable.md)
+
 <p><span class="chinese">木头和纸都是可燃物。</span><span class="english">Wood and paper are burnable.</span></p>
 
 <p><span class="chinese">我的邻居把可燃物拿到外面去。</span><span class="english">My neighbor is taking out the burnable trash.</span></p>

@@ -1,5 +1,7 @@
 # prophase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prophase.md)
+
 <p><span class="chinese">社会高度统一前期不可这么行事。</span><span class="english">Social unification prophase not so act.</span></p>
 
 <p><span class="chinese">末期大致是早期的逆向。</span><span class="english">Telophase is roughly the reverse of prophase.</span></p>

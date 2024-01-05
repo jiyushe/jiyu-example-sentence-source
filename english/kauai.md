@@ -1,5 +1,7 @@
 # kauai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kauai.md)
+
 <p><span class="chinese">一只僧海豹躺在夏威夷，考艾岛的沙滩上。</span><span class="english">Hawaiian monk seal on the beach in Kauai.</span></p>
 
 <p><span class="chinese">这项赛事花园岛新闻服务赛事和尼好岛自1902年。</span><span class="english">Kauai Garden Island News Serving Kauai and Ni'ihau Since 1902.</span></p>

@@ -1,5 +1,7 @@
 # bench 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bench.md)
+
 <p><span class="chinese">长凳倾斜了。</span><span class="english">The bench tipped up.</span></p>
 
 <p><span class="chinese">我让小伙坐到了一张长凳上。</span><span class="english">I got the kid to a bench.</span></p>

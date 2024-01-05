@@ -1,5 +1,7 @@
 # paunchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paunchy.md)
+
 <p><span class="chinese">只是稍微胖了些，不太胖。</span><span class="english">You are just a little bit chubby, not paunchy.</span></p>
 
 <p><span class="chinese">随着医学不断进步，大肚汉们可以多活些年月了。</span><span class="english">As medicine continues to advance, the paunchy may lead longer lives.</span></p>

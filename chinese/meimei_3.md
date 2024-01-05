@@ -1,5 +1,7 @@
 # 美美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meimei_3.md)
+
 <p><span class="chinese">当天，他美美地饱餐了一顿。</span><span class="english">That day,he ate his fill.</span></p>
 
 <p><span class="chinese">他美美吃完一顿晚餐。</span><span class="english">After he finished his dinner.</span></p>

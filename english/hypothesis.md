@@ -1,5 +1,7 @@
 # hypothesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothesis.md)
+
 <p><span class="chinese">我们有一个假设。</span><span class="english">So we have a hypothesis.</span></p>
 
 <p><span class="chinese">但是这一假设并不正确。</span><span class="english">But this hypothesis is not correct.</span></p>

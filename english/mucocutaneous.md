@@ -1,5 +1,7 @@
 # mucocutaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mucocutaneous.md)
+
 <p><span class="chinese">皮肤黏膜淋巴结综合征的诊断标准。</span><span class="english">Please discuss in brief the diagnosis standard of mucocutaneous lymph node syndrome.</span></p>
 
 <p><span class="chinese">粘膜皮肤受累的治疗应根据同时存在的其他损害情况。</span><span class="english">Mucocutaneous involvement should be treated according to the dominant or codominant lesions present.</span></p>

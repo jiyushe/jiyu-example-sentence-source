@@ -1,5 +1,7 @@
 # 子鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyu.md)
+
 <p><span class="chinese">三秒，子鱼可以睁开眼睛了。</span><span class="english">Is three, the son fish can open eyes.</span></p>
 
 <p><span class="chinese">让子鱼他们先不要来打扰我。</span><span class="english">Let son fish they don't come to bother me first.</span></p>

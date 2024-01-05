@@ -1,5 +1,7 @@
 # 起子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizi_4.md)
+
 <p><span class="chinese">设计并绘制开瓶起子的零件图。</span><span class="english">Finish the detail drawing of a bottle opener.</span></p>
 
 <p><span class="chinese">另附有十字型，一字型起子头各一支。</span><span class="english">Cross-followed, each one a head-shaped screwdriver.</span></p>

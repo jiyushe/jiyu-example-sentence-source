@@ -1,5 +1,7 @@
 # captain 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/captain.md)
+
 <p><span class="chinese">他是铁钩船长虎克。</span><span class="english">He's Captain Hook.</span></p>
 
 <p><span class="chinese">我问那个队长。</span><span class="english">I asked the captain.</span></p>

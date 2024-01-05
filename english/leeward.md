@@ -1,5 +1,7 @@
 # leeward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leeward.md)
+
 <p><span class="chinese">例如，船只总是在背风一侧航行。</span><span class="english">The boats sails, for example, are always on the leeward side of the boat.</span></p>
 
 <p><span class="chinese">机场将于周六下午为李瓦德举行追悼会。</span><span class="english">There will be a memorial service for Leeward at the airport Saturday afternoon.</span></p>

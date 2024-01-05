@@ -1,5 +1,7 @@
 # perchance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perchance.md)
+
 <p><span class="chinese">也许不深，却激烈而湍急</span><span class="english">Perchance not deep, but intense and rapid</span></p>
 
 <p><span class="chinese">也许要到忒修斯的婚礼以后。</span><span class="english">TITANIA Perchance till after Theseus ' wedding-day.</span></p>

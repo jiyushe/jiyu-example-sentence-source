@@ -1,5 +1,7 @@
 # enquire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enquire.md)
+
 <p><span class="chinese">所以我们开始探询。</span><span class="english">So we begin to enquire.</span></p>
 
 <p><span class="chinese">如果是有人要问。</span><span class="english">If someone should enquire.</span></p>

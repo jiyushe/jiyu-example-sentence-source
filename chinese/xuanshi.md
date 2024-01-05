@@ -1,5 +1,7 @@
 # 宣示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanshi.md)
+
 <p><span class="chinese">这是一个健康宣示</span><span class="english">Well that's a health claim.</span></p>
 
 <p><span class="chinese">这宣示改变的风，让心中火焰永远不熄。</span><span class="english">The wind of change that fans the flame.</span></p>

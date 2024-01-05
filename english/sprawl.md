@@ -1,5 +1,7 @@
 # sprawl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprawl.md)
+
 <p><span class="chinese">城市的无节制扩张侵占了东部的良田。</span><span class="english">Urban sprawl is paving over fertile land in the East.</span></p>
 
 <p><span class="chinese">我无法将她从蔓延的玫瑰花展上拉开。</span><span class="english">I couldn’t tear her away from the sprawl of rose displays.</span></p>

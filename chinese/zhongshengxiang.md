@@ -1,5 +1,7 @@
 # 众生相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshengxiang.md)
+
 <p><span class="chinese">“人生柱”是这个公园的象征，它展现着人生众生相。</span><span class="english">The symbol of the park is the Life Pole. Carved on the pole are 121 different human figures.</span></p>
 
 <p><span class="chinese">众生相系列从独特的角度真实地记录了那段特殊的历史，并启发人们思考。</span><span class="english">From a distinctive angle, the figurative paintings solidly record this special period in history and are thought-provoking.</span></p>

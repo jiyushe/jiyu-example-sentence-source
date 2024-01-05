@@ -1,5 +1,7 @@
 # despatch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despatch.md)
+
 <p><span class="chinese">礼貌是商务巨轮的润滑油。</span><span class="english">Despatch is the soul of business.</span></p>
 
 <p><span class="chinese">他觉得我们应该迅速行动。</span><span class="english">He feels we should act with despatch.</span></p>

@@ -1,5 +1,7 @@
 # indemnification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indemnification.md)
+
 <p><span class="chinese">因此，适当的赔偿非常重要。</span><span class="english">Proper indemnification is, therefore, extremely important.</span></p>
 
 <p><span class="chinese">但没有人理他，赔偿更是一分钱也没有。</span><span class="english">But no one manage him, the indemnification is also penny money to also have no.</span></p>

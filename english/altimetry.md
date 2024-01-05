@@ -1,5 +1,7 @@
 # altimetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altimetry.md)
+
 <p><span class="chinese">尤其注重在卫星测高资料的运用。</span><span class="english">Focusing on the applications of satellite altimetry.</span></p>
 
 <p><span class="chinese">高度数据与在8月12日采集的立体图像进行了对比。</span><span class="english">The altimetry data were matched against stereo images taken on Aug. 12.</span></p>

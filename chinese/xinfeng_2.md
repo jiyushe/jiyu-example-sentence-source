@@ -1,5 +1,7 @@
 # 新风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfeng_2.md)
+
 <p><span class="chinese">看来你们在开新风。</span><span class="english">You seem to have seta new trend.</span></p>
 
 <p><span class="chinese">新风从房间的底部慢慢地充满整个房间。</span><span class="english">The "fresh air lake" fills the room slowly from the bottom.</span></p>

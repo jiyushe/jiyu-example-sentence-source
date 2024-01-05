@@ -1,5 +1,7 @@
 # 临到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lindao.md)
+
 <p><span class="chinese">耶和华说，我必使灾祸临到你，将你除尽。</span><span class="english">I am going to bring disaster on you.</span></p>
 
 <p><span class="chinese">这事都临到尼布甲尼撒王。</span><span class="english">All this came upon the king Nebuchadnezzar.</span></p>

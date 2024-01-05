@@ -1,5 +1,7 @@
 # 蟒蛇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangshe.md)
+
 <p><span class="chinese">那是蟒蛇牌麦芽酒吗？</span><span class="english">Is that Anaconda Malt Liquor ?</span></p>
 
 <p><span class="chinese">渔民网到一条20英尺长的蟒蛇。</span><span class="english">They had caught a 20-foot python.</span></p>

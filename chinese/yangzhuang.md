@@ -1,5 +1,7 @@
 # 佯装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangzhuang.md)
+
 <p><span class="chinese">他佯装不知实情。</span><span class="english">He pretended not to know the facts.</span></p>
 
 <p><span class="chinese">一位佯装顾客而偷窃货品的人被店员逮到。</span><span class="english">A shoplifter was caught by the store clerks.</span></p>

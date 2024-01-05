@@ -1,5 +1,7 @@
 # 满天飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mantianfei.md)
+
 <p><span class="chinese">在这次峰会上，类似的预言满天飞。</span><span class="english">Predictions like this flew at the summit.</span></p>
 
 <p><span class="chinese">他们口无遮拦，把纸张扔得满天飞。</span><span class="english">They are talking out of turn, they are throwing paper.</span></p>

@@ -1,5 +1,7 @@
 # 租税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zushui.md)
+
 <p><span class="chinese">其法理基础是租税债务关系说和税收程序效率论。</span><span class="english">Its basics involve tax debt relations theory and tax procedures efficiency theory.</span></p>
 
 <p><span class="chinese">租税系园以其税收的和非税收的原因吸引着跨国投资者。</span><span class="english">The zones of taxation attract transnational investors by the tax and nontax reasons.</span></p>

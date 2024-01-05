@@ -1,5 +1,7 @@
 # multivariable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multivariable.md)
+
 <p><span class="chinese">你们将会发现在多元的微积分学里。</span><span class="english">As you will find in multivariable calculus.</span></p>
 
 <p><span class="chinese">并没有用到多元微积分。</span><span class="english">And for that you didn't need multivariable calculus.</span></p>

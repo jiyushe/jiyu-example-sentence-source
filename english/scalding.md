@@ -1,5 +1,7 @@
 # scalding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scalding.md)
+
 <p><span class="chinese">死猪不怕开水烫。</span><span class="english">A dead pig fears not scalding water.</span></p>
 
 <p><span class="chinese">我想抿一口茶，可是太烫了。</span><span class="english">I tried to sip the tea but it was scalding.</span></p>

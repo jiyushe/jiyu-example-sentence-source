@@ -1,5 +1,7 @@
 # clue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clue.md)
+
 <p><span class="chinese">下边是一条线索。</span><span class="english">Here’s a clue.</span></p>
 
 <p><span class="chinese">这是一个线索。</span><span class="english">That's a clue.</span></p>

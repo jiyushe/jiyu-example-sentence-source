@@ -1,5 +1,7 @@
 # heritage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heritage.md)
+
 <p><span class="chinese">只是文学遗产么？</span><span class="english">Mody only literary heritage?</span></p>
 
 <p><span class="chinese">这个印象是文化遗产吗？</span><span class="english">Is that impression a cultural heritage?</span></p>

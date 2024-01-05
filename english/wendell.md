@@ -1,5 +1,7 @@
 # wendell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wendell.md)
+
 <p><span class="chinese">这个办公室位于硬件工程部，横穿温德尔·桑德的办公室的走廊。</span><span class="english">It was across the aisle from Wendell Sander's office.</span></p>
 
 <p><span class="chinese">我们主管公众事条的副总裁温德尔·拉森给他们介绍情况。</span><span class="english">Wendell Larsen, our vice-president of public affairs, would brief them.</span></p>

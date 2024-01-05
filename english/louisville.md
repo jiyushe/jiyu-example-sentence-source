@@ -1,5 +1,7 @@
 # louisville
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/louisville.md)
+
 <p><span class="chinese">约路易斯维尔提供新闻资讯。</span><span class="english">Offers information and news about Louisville.</span></p>
 
 <p><span class="chinese">路易斯维尔制造球棒已经很久了。</span><span class="english">Louisville Slugger has been manufacturing bats for some time.</span></p>

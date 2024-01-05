@@ -1,5 +1,7 @@
 # shortly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortly.md)
+
 <p><span class="chinese">但是这是我们。</span><span class="english">We'll see that shortly.</span></p>
 
 <p><span class="chinese">他很快给你来电话。</span><span class="english">He will call you shortly.</span></p>

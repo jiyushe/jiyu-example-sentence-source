@@ -1,5 +1,7 @@
 # bathwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bathwater.md)
+
 <p><span class="chinese">试着慢跑着上楼梯到你的浴室。</span><span class="english">Try jogging upstairs to run your bathwater.</span></p>
 
 <p><span class="chinese">它们中的很多将会被扔到洗澡水里。</span><span class="english">A lot of them will get dropped in the bathwater.</span></p>

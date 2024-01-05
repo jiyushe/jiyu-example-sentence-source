@@ -1,5 +1,7 @@
 # healthily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/healthily.md)
+
 <p><span class="chinese">愿在座的各位都健康幸福！</span><span class="english">Wish's everyones in are all healthily happy!</span></p>
 
 <p><span class="chinese">而吃得健康还应该关注快乐。</span><span class="english">But eating healthily should be about pleasure.</span></p>

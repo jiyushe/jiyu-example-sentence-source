@@ -1,5 +1,7 @@
 # cosmetology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmetology.md)
+
 <p><span class="chinese">美容会所的贵宾卡！</span><span class="english">Cosmetology office distinguished guest card!</span></p>
 
 <p><span class="chinese">南宁美容美发学校哪家最好？</span><span class="english">Is the Nanning cosmetology hair-dressing school family best?</span></p>

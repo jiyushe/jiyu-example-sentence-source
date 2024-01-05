@@ -1,5 +1,7 @@
 # jolly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jolly.md)
+
 <p><span class="chinese">他是一个大好人。</span><span class="english">He is a jolly good man.</span></p>
 
 <p><span class="chinese">“是很好，”雷克斯应道。</span><span class="english">"Jolly nice, " said Rex.</span></p>

@@ -1,5 +1,7 @@
 # 小熊猫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxiongmao.md)
+
 <p><span class="chinese">哇！小熊猫！</span><span class="english">Wow! ! Panda Pandy!</span></p>
 
 <p><span class="chinese">小宝，我的小熊猫。</span><span class="english">Sao Po. My little panda.</span></p>

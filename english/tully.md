@@ -1,5 +1,7 @@
 # tully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tully.md)
+
 <p><span class="chinese">美珍跟踪阿兰，拍到了塔利与阿兰私奔的照片，并传给塔莎安。</span><span class="english">Mei tracking Alan, captured tully elopement with Alans photos, and passed on to tasha.</span></p>
 
 <p><span class="chinese">塔莎安无意中发现塔利收藏着与阿兰拉手的照片，两个人又大吵一架。</span><span class="english">Tasha, inadvertently found tully collection and Alan shake handshandle pictures, and a big fight.</span></p>

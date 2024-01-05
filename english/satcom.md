@@ -1,5 +1,7 @@
 # satcom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satcom.md)
+
 <p><span class="chinese">多余的卫星通信站将被关闭。</span><span class="english">Surplus satcom stations will be closed.</span></p>
 
 <p><span class="chinese">在演习中的机动SATCOM指挥站。</span><span class="english">The mobile SATCOM command post in exercise.</span></p>

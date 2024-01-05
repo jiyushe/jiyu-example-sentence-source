@@ -1,5 +1,7 @@
 # logger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logger.md)
+
 <p><span class="chinese">它还提供了一个很好的日志记录器。</span><span class="english">It also gives you a nice logger.</span></p>
 
 <p><span class="chinese">此日志记录器保留以供将来使用。</span><span class="english">This logger is reserved for future use.</span></p>

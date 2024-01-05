@@ -1,5 +1,7 @@
 # 温厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhou.md)
+
 <p><span class="chinese">说句公道话，他是一个温厚的人。</span><span class="english">To do him justice, he is a good-natured m an.</span></p>
 
 <p><span class="chinese">“他骚扰你了，是吗？”梅利温厚问道。</span><span class="english">"He upset you, didn't he?" Melly asked gently.</span></p>

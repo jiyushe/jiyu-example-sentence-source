@@ -1,5 +1,7 @@
 # sikkim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sikkim.md)
+
 <p><span class="chinese">印度在1975年吞并了锡金。</span><span class="english">India annexed the Sikkim in 1975.</span></p>
 
 <p><span class="chinese">锡金。不丹也有分布。</span><span class="english">Sikkim , Bhutan also has distributing.</span></p>

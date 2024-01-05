@@ -1,5 +1,7 @@
 # talent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talent.md)
+
 <p><span class="chinese">看看那个人才。</span><span class="english">Chack out the talent.</span></p>
 
 <p><span class="chinese">他是个嫉贤妒能的人。</span><span class="english">He is jealous of talent.</span></p>

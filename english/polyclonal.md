@@ -1,5 +1,7 @@
 # polyclonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyclonal.md)
+
 <p><span class="chinese">抗人NDRG家族的多克隆抗体制备。</span><span class="english">Polyclonal antibody preparation against NDRG family.</span></p>
 
 <p><span class="chinese">抗人NDRG家族寡肽的多克隆抗体制备。</span><span class="english">Polyclonal antibody preparation against the peptides of NDRG family proteins.</span></p>

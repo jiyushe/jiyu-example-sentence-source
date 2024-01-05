@@ -1,5 +1,7 @@
 # gymnosperm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gymnosperm.md)
+
 <p><span class="chinese">记忆它们的是被子植物和裸子植物等胚种。</span><span class="english">What recorded them were embryos of angiosperm and gymnosperm.</span></p>
 
 <p><span class="chinese">在数据库的统计数据基础上，我们分析了裸子植物的染色体特征。</span><span class="english">By data collection of the database, we analyzed chromosome features of the group Gymnosperm.</span></p>

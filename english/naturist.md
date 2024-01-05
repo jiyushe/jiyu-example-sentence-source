@@ -1,5 +1,7 @@
 # naturist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naturist.md)
+
 <p><span class="chinese">在科特贝尔附近的东部地区还有裸泳海滩。</span><span class="english">There are naturist beaches near Koktebel in the east.</span></p>
 
 <p><span class="chinese">在裸体主义者的地方，裸露是很自由的。</span><span class="english">There's a wonderful freedom being nude in a naturist area.</span></p>

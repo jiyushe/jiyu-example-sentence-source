@@ -1,5 +1,7 @@
 # toothed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toothed.md)
+
 <p><span class="chinese">小叶有粗锯齿。</span><span class="english">Flocculus has thick toothed.</span></p>
 
 <p><span class="chinese">在有齿的机器上拆碎布或。</span><span class="english">To tear up in a toothed machine.</span></p>

@@ -1,5 +1,7 @@
 # 僵死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangsi.md)
+
 <p><span class="chinese">你僵死的脑子想什么呢？！</span><span class="english">What's up with your dead brain?</span></p>
 
 <p><span class="chinese">我对消费僵死的咒语非常敏感。</span><span class="english">I am susceptible to spells of consumer rigor mortis.</span></p>

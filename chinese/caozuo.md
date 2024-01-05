@@ -1,5 +1,7 @@
 # 操作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caozuo.md)
+
 <p><span class="chinese">此操作应该失败。</span><span class="english">This should fail.</span></p>
 
 <p><span class="chinese">这个祭祀是怎么操作的呢？</span><span class="english">How does it operate?</span></p>

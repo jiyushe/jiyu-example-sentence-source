@@ -1,5 +1,7 @@
 # deputation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deputation.md)
+
 <p><span class="chinese">他们派了一个代表团到部里投诉。</span><span class="english">They sent a deputation to the ministry to complain.</span></p>
 
 <p><span class="chinese">村里的长者代表团在村长的带领下到达了。</span><span class="english">A deputation of elders from the village arrived headed by its chief.</span></p>

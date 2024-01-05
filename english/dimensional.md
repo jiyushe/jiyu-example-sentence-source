@@ -1,5 +1,7 @@
 # dimensional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimensional.md)
+
 <p><span class="chinese">量纲分析就是这样。</span><span class="english">End of my dimensional analysis.</span></p>
 
 <p><span class="chinese">这是一个三维图形。</span><span class="english">This is a three- dimensional figure.</span></p>

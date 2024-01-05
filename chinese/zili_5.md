@@ -1,5 +1,7 @@
 # 自励
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zili_5.md)
+
 <p><span class="chinese">在自励系统中，个体对未来结果的预期构成了个体行为的基本动力。</span><span class="english">In self-motivation system, the expectation of results is the main motivator.</span></p>
 
 <p><span class="chinese">介绍一种电容自励式无刷单相同步发电机空载电势的计算方法。</span><span class="english">Presents a calculating method for no-load, voltage waveform of the generator.</span></p>

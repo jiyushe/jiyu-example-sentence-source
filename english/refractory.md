@@ -1,5 +1,7 @@
 # refractory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refractory.md)
+
 <p><span class="chinese">淄博具有得天独厚的耐火材料资源。</span><span class="english">Zibo has a unique refractory resources.</span></p>
 
 <p><span class="chinese">也可以作为耐火材料之用。</span><span class="english">It also can be used as refractory materials.</span></p>

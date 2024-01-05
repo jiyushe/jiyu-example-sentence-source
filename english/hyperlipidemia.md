@@ -1,5 +1,7 @@
 # hyperlipidemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperlipidemia.md)
+
 <p><span class="chinese">GDM并发高脂血症时妊高征发病明显增加。</span><span class="english">The incidence of PIH increased in GDM patients with hyperlipidemia.</span></p>
 
 <p><span class="chinese">身体症状是影响中老年人就医的主要因素，尤为高血脂症者。</span><span class="english">It is used for the high-cholesterol patient or hyperlipidemia patient.</span></p>

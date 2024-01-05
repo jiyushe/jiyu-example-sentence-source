@@ -1,5 +1,7 @@
 # 战抖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhandou_1.md)
+
 <p><span class="chinese">我要看着他浑身战抖。</span><span class="english">I shall see him tremble.</span></p>
 
 <p><span class="chinese">那只青蛙因为看到了蛇而战抖。</span><span class="english">The frog is frightened at the sight of a snake.</span></p>

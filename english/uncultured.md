@@ -1,5 +1,7 @@
 # uncultured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncultured.md)
+
 <p><span class="chinese">可是你的知识结构怎么这样落后？</span><span class="english">However, how uncultured your knowledge structure is!</span></p>
 
 <p><span class="chinese">在印度，村民和城市居民都没有教养。</span><span class="english">Both villagers and city dwellers are uncultured in India.</span></p>

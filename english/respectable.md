@@ -1,5 +1,7 @@
 # respectable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respectable.md)
+
 <p><span class="chinese">可敬的平底船船夫！</span><span class="english">Highly respectable gondoliers!</span></p>
 
 <p><span class="chinese">听人说这条街是很体面的呢。</span><span class="english">I'm told this street is respectable.</span></p>

@@ -1,5 +1,7 @@
 # opportune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opportune.md)
+
 <p><span class="chinese">他在最适当的时候到达。</span><span class="english">He arrived at the most opportune moment.</span></p>
 
 <p><span class="chinese">成立于2008年的美图迎来了一个时机。</span><span class="english">Meitu, , founded in 2008, arrived at an opportune time.</span></p>

@@ -1,5 +1,7 @@
 # belshazzar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belshazzar.md)
+
 <p><span class="chinese">白沙萨还有一间桑拿。</span><span class="english">And the belshazzar also has a sauna.</span></p>
 
 <p><span class="chinese">当伯沙撒嘲笑神时，他的欢宴变成了丧礼。</span><span class="english">When Belshazzar mocked God, his feast became a funeral.</span></p>

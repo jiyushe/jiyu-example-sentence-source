@@ -1,5 +1,7 @@
 # housework
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housework.md)
+
 <p><span class="chinese">你必须做这些家事。</span><span class="english">You have to do the housework.</span></p>
 
 <p><span class="chinese">做家务真是令人烦透了。</span><span class="english">Doing housework is a real bore.</span></p>

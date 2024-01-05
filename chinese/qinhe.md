@@ -1,5 +1,7 @@
 # 亲和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinhe.md)
+
 <p><span class="chinese">神圣母亲和梵天是一体。</span><span class="english">The Divine Mother and Brahman are one.</span></p>
 
 <p><span class="chinese">你的男朋友是个不错的人，特别亲和。</span><span class="english">Your boyfriend is a great guy, really nice.</span></p>

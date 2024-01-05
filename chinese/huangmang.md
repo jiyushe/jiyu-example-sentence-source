@@ -1,5 +1,7 @@
 # 慌忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangmang.md)
+
 <p><span class="chinese">“哦，不”玛丽修女慌忙的说。</span><span class="english">"Oh, not" said Sister Mary hurriedly.</span></p>
 
 <p><span class="chinese">巴顿慌忙说。</span><span class="english">Keep it on!" said Mr. Button hurriedly.</span></p>

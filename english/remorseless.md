@@ -1,5 +1,7 @@
 # remorseless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remorseless.md)
+
 <p><span class="chinese">经过我坚持不懈的努力，我终于认识了他。</span><span class="english">By my remorseless great efforts, i met him finally.</span></p>
 
 <p><span class="chinese">他坚固的外壳下跳动的是一颗冷血的杀手之心。</span><span class="english">Within the hardened carapace beats the heart of a remorseless killer.</span></p>

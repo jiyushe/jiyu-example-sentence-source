@@ -1,5 +1,7 @@
 # 仗义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangyi.md)
+
 <p><span class="chinese">但还是要为几个弱者而仗义。</span><span class="english">Fight for a few underdogs anyway.</span></p>
 
 <p><span class="chinese">皓月等人都很仗义的说愿意替金素颜担保。</span><span class="english">The people are very generous to say for gold makeup guarantee.</span></p>

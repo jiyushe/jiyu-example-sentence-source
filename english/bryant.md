@@ -1,5 +1,7 @@
 # bryant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bryant.md)
+
 <p><span class="chinese">约翰逊告诉奥尼尔和布莱恩特。</span><span class="english">Johnson told O Neal and Bryant.</span></p>
 
 <p><span class="chinese">你能跟我们讲讲布莱恩公园吗？</span><span class="english">Can you tell us about Bryant Park?</span></p>

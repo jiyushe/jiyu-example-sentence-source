@@ -1,5 +1,7 @@
 # thiol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thiol.md)
+
 <p><span class="chinese">有关硫醇酯类的数据非常有限。</span><span class="english">Only a very limited amount of data is available on thiol esters.</span></p>
 
 <p><span class="chinese">巯基法操作较为简单，但所需的反应时间较长。</span><span class="english">While thiol method was simple but much more time costing for reaction.</span></p>

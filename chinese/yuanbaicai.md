@@ -1,5 +1,7 @@
 # 圆白菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanbaicai.md)
+
 <p><span class="chinese">花园里种了巨型圆白菜。</span><span class="english">Giant cabbages grew in the garden.</span></p>
 
 <p><span class="chinese">如果圆白菜和胡萝卜比赛谁会赢？</span><span class="english">If a cabbage and carrot raced, which one would win?</span></p>

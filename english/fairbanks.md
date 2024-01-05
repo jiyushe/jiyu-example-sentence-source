@@ -1,5 +1,7 @@
 # fairbanks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fairbanks.md)
+
 <p><span class="chinese">我已经充满从费尔班克斯向普拉德霍湾约12个小时。</span><span class="english">I had ridden from Fairbanks to Prudhoe Bay in about 12 hours.</span></p>
 
 <p><span class="chinese">而费正清夫妇的出现，给她的生活增添了新的色彩。</span><span class="english">But the appearance of the Fairbanks brought extra color to her life.</span></p>

@@ -1,5 +1,7 @@
 # 偏重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianzhong.md)
+
 <p><span class="chinese">通常，您希望偏重于工作存储。</span><span class="english">You want it to favor working storage.</span></p>
 
 <p><span class="chinese">卡其色有点偏重，不过挺好看。</span><span class="english">Khaki little too much weight, but very pretty.</span></p>

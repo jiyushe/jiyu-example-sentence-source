@@ -1,5 +1,7 @@
 # 陶土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taotu.md)
+
 <p><span class="chinese">高温使陶土硬化。</span><span class="english">Great heat indurates clay.</span></p>
 
 <p><span class="chinese">它们是陶土烧制而成的。</span><span class="english">They are kiln-fired pottery.</span></p>

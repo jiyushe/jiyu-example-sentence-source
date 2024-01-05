@@ -1,5 +1,7 @@
 # besmirch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/besmirch.md)
+
 <p><span class="chinese">污渍去除后一定要漂洗干净。</span><span class="english">After the besmirch purify must rinse clean.</span></p>
 
 <p><span class="chinese">当污渍去除后，还要用清水漂洗干净。</span><span class="english">When besmirch purify, even after rinse clean.</span></p>

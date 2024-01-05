@@ -1,5 +1,7 @@
 # optically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optically.md)
+
 <p><span class="chinese">外消旋体是不旋光的。</span><span class="english">The racemate is optically inactive.</span></p>
 
 <p><span class="chinese">发现旋光基质有外消旋作用。</span><span class="english">Racemization is found with optically active substrates.</span></p>

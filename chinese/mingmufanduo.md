@@ -1,5 +1,7 @@
 # 名目繁多
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingmufanduo.md)
+
 <p><span class="chinese">旅馆里的床亦名目繁多。</span><span class="english">Beds also go by different names.</span></p>
 
 <p><span class="chinese">名目繁多不胜枚举。</span><span class="english">The names of items are too numerous to enumerate.</span></p>

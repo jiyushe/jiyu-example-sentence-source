@@ -1,5 +1,7 @@
 # 妖魔鬼怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaomoguiguai.md)
+
 <p><span class="chinese">这次扮演毁灭世界的妖魔鬼怪的是黑洞。</span><span class="english">The bugaboo this time is black holes.</span></p>
 
 <p><span class="chinese">顶顶要紧的是，你别去碰那些妖魔鬼怪的东西。</span><span class="english">And above all, don't you HANDLE the witch-things.</span></p>

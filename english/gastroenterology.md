@@ -1,5 +1,7 @@
 # gastroenterology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastroenterology.md)
+
 <p><span class="chinese">贝勒临床胃肠病学最佳实践。</span><span class="english">Bailliere's Best Practice in Clinical Gastroenterology.</span></p>
 
 <p><span class="chinese">这是肠胃病学百科全书的网页。</span><span class="english">This is the web page of Encyclopedia of Gastroenterology.</span></p>

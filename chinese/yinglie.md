@@ -1,5 +1,7 @@
 # 英烈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinglie.md)
+
 <p><span class="chinese">陵园内还辟有四平英烈事迹展览馆。</span><span class="english">There is still the exhibition hall of Siping heroic deed in the cemetery.</span></p>
 
 <p><span class="chinese">在据点城里访问了英烈祠的英雄将变成更好的武士。</span><span class="english">Heroes visiting the Hall of Valhalla in a Stronghold become better warriors.</span></p>

@@ -1,5 +1,7 @@
 # tony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tony.md)
+
 <p><span class="chinese">替我向托尼问好。</span><span class="english">Say hello to Tony.</span></p>
 
 <p><span class="chinese">托尼安慰了她。</span><span class="english">Tony comforts her.</span></p>

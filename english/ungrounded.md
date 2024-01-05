@@ -1,5 +1,7 @@
 # ungrounded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ungrounded.md)
+
 <p><span class="chinese">您时常会感觉非常不踏实。</span><span class="english">At times youll feel very ungrounded.</span></p>
 
 <p><span class="chinese">为什么靛蓝孩子有不接地这个问题？</span><span class="english">Why are ungrounded "Indigo Children" such a problem?</span></p>

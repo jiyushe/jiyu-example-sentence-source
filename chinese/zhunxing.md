@@ -1,5 +1,7 @@
 # 准星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunxing.md)
+
 <p><span class="chinese">准星缩减为一个点。</span><span class="english">The crosshair is reduced to a dot.</span></p>
 
 <p><span class="chinese">一淘起来没个准星。</span><span class="english">Tao gets up to have no a gun sight.</span></p>

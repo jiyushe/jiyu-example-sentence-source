@@ -1,5 +1,7 @@
 # tectonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tectonic.md)
+
 <p><span class="chinese">这些出水几乎全与地质构造有关。</span><span class="english">They were all related to geology tectonic.</span></p>
 
 <p><span class="chinese">构造的活动性是另一个使人担心的因素。</span><span class="english">Tectonic activity is another cause for worry.</span></p>

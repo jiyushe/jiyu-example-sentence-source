@@ -1,5 +1,7 @@
 # lng
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lng.md)
+
 <p><span class="chinese">了解LNG工厂的各种危险源。</span><span class="english">Understand the dangers of LNG plant sources.</span></p>
 
 <p><span class="chinese">了解LNG工厂的各种危险源。</span><span class="english">Understand the dangerous sources in LNG plant.</span></p>

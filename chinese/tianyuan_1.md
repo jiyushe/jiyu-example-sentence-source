@@ -1,5 +1,7 @@
 # 田园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianyuan_1.md)
+
 <p><span class="chinese">蔬菜是在田园生长还是温室养殖？</span><span class="english">Farm-fresh or greenhouse grown?</span></p>
 
 <p><span class="chinese">难道说都市生活就一定比田园生活美好么？</span><span class="english">Is life better then, in the city?</span></p>

@@ -1,5 +1,7 @@
 # unpaired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpaired.md)
+
 <p><span class="chinese">有三个未成键电子在氮原子中。</span><span class="english">Three unpaired electrons in nitrogen.</span></p>
 
 <p><span class="chinese">现在我们有4个未配对电子。</span><span class="english">So now what we have is four unpaired electrons.</span></p>

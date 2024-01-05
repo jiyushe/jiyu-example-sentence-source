@@ -1,5 +1,7 @@
 # thrombosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrombosis.md)
+
 <p><span class="chinese">用角叉菜胶诱发小鼠体内血栓形成。</span><span class="english">Thrombosis was induced in mice by carrageenan.</span></p>
 
 <p><span class="chinese">放大后的冠状动脉血栓形成。</span><span class="english">Here is the coronary thrombosis at higher magnification.</span></p>

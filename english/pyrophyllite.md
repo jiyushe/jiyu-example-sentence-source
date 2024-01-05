@@ -1,5 +1,7 @@
 # pyrophyllite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrophyllite.md)
+
 <p><span class="chinese">叶蜡石相对热辐射率较低。</span><span class="english">The relative heat radiation rate of pyrophyllite is fairly low.</span></p>
 
 <p><span class="chinese">叶蜡石是高温高压合成金刚石的关键辅助材料。</span><span class="english">Pyrophyllite is a key assistant material in production of synthetic diamond.</span></p>

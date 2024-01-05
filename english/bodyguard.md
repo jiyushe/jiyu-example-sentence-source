@@ -1,5 +1,7 @@
 # bodyguard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bodyguard.md)
+
 <p><span class="chinese">忘了保膘是一个还是五个。</span><span class="english">And a bodyguard or five.</span></p>
 
 <p><span class="chinese">居伊国王和麾下精锐卫队。</span><span class="english">King Guy and his bodyguard.</span></p>

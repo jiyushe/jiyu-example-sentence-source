@@ -1,5 +1,7 @@
 # 巨流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juliu_1.md)
+
 <p><span class="chinese">真理的巨流乃汇聚错误的百川。</span><span class="english">The stream of truth, flows through its channels of mistakes.</span></p>
 
 <p><span class="chinese">十年，在历史的巨流不及一粒微。</span><span class="english">Ten years in the impressive course of history, is just a dust grain.</span></p>

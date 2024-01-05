@@ -1,5 +1,7 @@
 # retry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retry.md)
+
 <p><span class="chinese">您还可以设置连接的重试时间间隔。</span><span class="english">You can also set the connection retry interval.</span></p>
 
 <p><span class="chinese">您可以从安装程序主菜单中重试。</span><span class="english">You may retry it from the installation main menu.</span></p>

@@ -1,5 +1,7 @@
 # tender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tender.md)
+
 <p><span class="chinese">用温柔的庄严。</span><span class="english">With tender majesty.</span></p>
 
 <p><span class="chinese">这块牛肉切起来很嫩。</span><span class="english">The beef cuts tender.</span></p>

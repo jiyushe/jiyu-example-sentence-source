@@ -1,5 +1,7 @@
 # 把式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bashi_1.md)
+
 <p><span class="chinese">俗话说的好、光说不练假把式。</span><span class="english">As the saying goes, fake handle and a spout lip.</span></p>
 
 <p><span class="chinese">所以那个告诉我他们都是光说不练假把式。</span><span class="english">So that tells me they are all talks and no action.</span></p>

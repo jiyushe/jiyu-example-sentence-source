@@ -1,5 +1,7 @@
 # 皮革
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pige.md)
+
 <p><span class="chinese">比如说，白色皮革！</span><span class="english">Iike white leather!</span></p>
 
 <p><span class="chinese">轮式皮革贴边。</span><span class="english">Wheeled leather welt.</span></p>

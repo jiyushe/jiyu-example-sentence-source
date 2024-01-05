@@ -1,5 +1,7 @@
 # 胃癌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiai.md)
+
 <p><span class="chinese">食品摄入硒量过低易患咽喉癌和胃癌。</span><span class="english">Low selenium tied to throat, stomach cancers.</span></p>
 
 <p><span class="chinese">但是，胃癌是多因素促发的。</span><span class="english">"But gastric cancer is multi-factorial," he added.</span></p>

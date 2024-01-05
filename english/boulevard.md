@@ -1,5 +1,7 @@
 # boulevard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boulevard.md)
+
 <p><span class="chinese">铃木大道C50的。</span><span class="english">Suzuki Boulevard C50.</span></p>
 
 <p><span class="chinese">这是去太平路的车吗？</span><span class="english">Is this the right bus for Pacific Boulevard?</span></p>

@@ -1,5 +1,7 @@
 # 判词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panci.md)
+
 <p><span class="chinese">陪审员的判词一如往常。</span><span class="english">The jury had returned the usual verdict.</span></p>
 
 <p><span class="chinese">海德格尔准确地把握了这一点，但并不同意黑格尔对艺术的判词。</span><span class="english">Heidegger exactly sensed it, but he did not agree with Hegel's judgement of art.</span></p>

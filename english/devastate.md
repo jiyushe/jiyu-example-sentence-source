@@ -1,5 +1,7 @@
 # devastate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devastate.md)
+
 <p><span class="chinese">一旦银行倒闭，它们就会摧毁经济。</span><span class="english">When banks fail, they devastate the economy.</span></p>
 
 <p><span class="chinese">扑灭冲击到底在哪些方面比破甲好?。</span><span class="english">In what ways is Devastate better than Sunder Armor?</span></p>

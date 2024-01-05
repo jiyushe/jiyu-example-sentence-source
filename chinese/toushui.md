@@ -1,5 +1,7 @@
 # 偷税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toushui.md)
+
 <p><span class="chinese">该案是否构成偷税罪?。</span><span class="english">Is This Case Formed Tax Dodging?</span></p>
 
 <p><span class="chinese">纳税筹划不同于避税和偷税。</span><span class="english">Tax planning is different from tax avoidance and tax evasions.</span></p>

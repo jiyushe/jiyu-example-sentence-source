@@ -1,5 +1,7 @@
 # 花天酒地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huatianjiudi.md)
+
 <p><span class="chinese">他讨厌过现代生活中那种花天酒地的生活。</span><span class="english">He hates the racket of modem life.</span></p>
 
 <p><span class="chinese">在欧洲期间，他一直过着花天酒地的生活。</span><span class="english">He was helling around when in Europe.</span></p>

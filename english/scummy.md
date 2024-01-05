@@ -1,5 +1,7 @@
 # scummy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scummy.md)
+
 <p><span class="chinese">我爱他，这是爱，不像那些可恶的老鹰队。</span><span class="english">I love him. It's love, not like those scummy Eagles.</span></p>
 
 <p><span class="chinese">我爱他，这是爱，不像那些可恶的老鹰队“</span><span class="english">I love him. It's love, not like those scummy Eagles."</span></p>

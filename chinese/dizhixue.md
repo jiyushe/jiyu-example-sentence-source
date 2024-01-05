@@ -1,5 +1,7 @@
 # 地质学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhixue.md)
+
 <p><span class="chinese">这是美国地质学书目数据库的网站。</span><span class="english">This is the website of GeoRef.</span></p>
 
 <p><span class="chinese">这是地质学文摘数据库的网页。</span><span class="english">This is the webpage of Geobase.</span></p>

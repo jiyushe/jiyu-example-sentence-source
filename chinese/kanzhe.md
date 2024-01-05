@@ -1,5 +1,7 @@
 # 看着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanzhe.md)
+
 <p><span class="chinese">我会看着办。</span><span class="english">I'll see.</span></p>
 
 <p><span class="chinese">我们看着他死去了。</span><span class="english">He died on us.</span></p>

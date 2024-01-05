@@ -1,5 +1,7 @@
 # 导言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoyan_1.md)
+
 <p><span class="chinese">全书依实际调查现况分为11章，1。导言。</span><span class="english">In total, the book has 11 chapters.</span></p>
 
 <p><span class="chinese">本文由导言、五章及结语几部分组成。</span><span class="english">This paper consists of Perface, Five Chapters and End.</span></p>

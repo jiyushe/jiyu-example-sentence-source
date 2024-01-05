@@ -1,5 +1,7 @@
 # camomile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camomile.md)
+
 <p><span class="chinese">你为什么没有带着你的菊花来赴约？</span><span class="english">Why didn’t you come with your camomile?</span></p>
 
 <p><span class="chinese">这种茶是由春菊和白毫掺和制成的。</span><span class="english">This tea is blended by mixing camomile with pekoe.</span></p>

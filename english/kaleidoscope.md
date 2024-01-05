@@ -1,5 +1,7 @@
 # kaleidoscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaleidoscope.md)
+
 <p><span class="chinese">双眼如万花筒般绚烂的女孩</span><span class="english">A girl with kaleidoscope eyes.</span></p>
 
 <p><span class="chinese">双眼如万花筒般绚烂的女孩"</span><span class="english">A girl with kaleidoscope eyes."</span></p>

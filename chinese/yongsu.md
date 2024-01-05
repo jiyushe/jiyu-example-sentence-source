@@ -1,5 +1,7 @@
 # 庸俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongsu.md)
+
 <p><span class="chinese">他是个庸俗的男人。</span><span class="english">Es un hombre muy vulgar.</span></p>
 
 <p><span class="chinese">这是一个庸俗的故事。</span><span class="english">This is a four-letter story.</span></p>

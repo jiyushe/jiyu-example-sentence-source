@@ -1,5 +1,7 @@
 # bookie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookie.md)
+
 <p><span class="chinese">马克斯在卖毒品前是个赌注登记经纪人。</span><span class="english">Max was a bookie till he got into drugs.</span></p>
 
 <p><span class="chinese">你们在说足球赌博的笑话吧？</span><span class="english">This is going to be an English bookie joke, isn't it?</span></p>

@@ -1,5 +1,7 @@
 # 水性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixing.md)
+
 <p><span class="chinese">水性环氧树脂涂料。</span><span class="english">Water-based epoxy top coatings.</span></p>
 
 <p><span class="chinese">最好用水性胶润滑剂。</span><span class="english">One that lubricates, especially a lubricant.</span></p>

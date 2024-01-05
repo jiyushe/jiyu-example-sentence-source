@@ -1,5 +1,7 @@
 # 东北虎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongbeihu.md)
+
 <p><span class="chinese">黑龙江密山发现成年野生东北虎尸体。</span><span class="english">Dead Siberian tiger found in NE China.</span></p>
 
 <p><span class="chinese">东北虎是典型的林栖动物。</span><span class="english">The Manchurian tiger is the typical forests inhabit animal.</span></p>

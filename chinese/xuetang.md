@@ -1,5 +1,7 @@
 # 学堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuetang.md)
+
 <p><span class="chinese">为什么选择宝威学堂？</span><span class="english">Why do we choose Baowei school?</span></p>
 
 <p><span class="chinese">约翰参加许多学堂里的营谋。</span><span class="english">John takes part in many school avtivities.</span></p>

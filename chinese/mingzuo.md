@@ -1,5 +1,7 @@
 # 名作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzuo.md)
+
 <p><span class="chinese">这是他的不朽名作。</span><span class="english">It is his enduring masterpiece.</span></p>
 
 <p><span class="chinese">这是西班牙画家委拉斯凯兹的名作</span><span class="english">Here's the famous Spanish painter.</span></p>

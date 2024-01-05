@@ -1,5 +1,7 @@
 # handwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handwork.md)
+
 <p><span class="chinese">我喜欢做手工。</span><span class="english">I like handwork.</span></p>
 
 <p><span class="chinese">开有音乐课和手工课吗?。</span><span class="english">Are there music and handwork lessons?</span></p>

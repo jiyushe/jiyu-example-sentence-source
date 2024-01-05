@@ -1,5 +1,7 @@
 # 一阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhen.md)
+
 <p><span class="chinese">门那里来了一阵敲门声。</span><span class="english">A knock.</span></p>
 
 <p><span class="chinese">你感到一阵恶心。</span><span class="english">You're disgusted.</span></p>

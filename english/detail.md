@@ -1,5 +1,7 @@
 # detail 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detail.md)
+
 <p><span class="chinese">它有很多细节技术</span><span class="english">It has a lot of detail.</span></p>
 
 <p><span class="chinese">这些细节描述令他惊喜不已。</span><span class="english">The detail thrilled him.</span></p>

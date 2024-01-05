@@ -1,5 +1,7 @@
 # 冷眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengyan.md)
+
 <p><span class="chinese">他拿冷眼看胖女人。</span><span class="english">He highhatted a fat woman.</span></p>
 
 <p><span class="chinese">他一直对我冷眼相待。</span><span class="english">He said coldly, "All right"!</span></p>

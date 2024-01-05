@@ -1,5 +1,7 @@
 # 浮游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyou.md)
+
 <p><span class="chinese">鳄鱼在百草丛中浮游。</span><span class="english">The crocodiles boated around in the lilies.</span></p>
 
 <p><span class="chinese">那么就试试空中“浮游”吧。</span><span class="english">Well, try “levitation” or floating in the air.</span></p>

@@ -1,5 +1,7 @@
 # combat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combat.md)
+
 <p><span class="chinese">战斗是铁砧的意志。</span><span class="english">Combat is the anvil of will!</span></p>
 
 <p><span class="chinese">它可以战斗三个半小时。</span><span class="english">It can combat for 3, 5 hours.</span></p>

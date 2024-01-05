@@ -1,5 +1,7 @@
 # 病故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binggu.md)
+
 <p><span class="chinese">父亲病故后，我把那件衣服给忘了。</span><span class="english">When my father died, I forgot about the dress.</span></p>
 
 <p><span class="chinese">他收到一份电报，说他的母亲已病故。</span><span class="english">He received a telegram saying that his mother had died.</span></p>

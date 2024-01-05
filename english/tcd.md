@@ -1,5 +1,7 @@
 # tcd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tcd.md)
+
 <p><span class="chinese">患者组65例，对照组26例，作磁共振血管成像和经颅多普勒检查。</span><span class="english">Methods 65 patients group and 26 control group were examined by MRA and TCD.</span></p>
 
 <p><span class="chinese">颈动脉超声、TCD及超声心动图等检查在卒中病因学调查中起重要作用。</span><span class="english">MRA carotid Duplex, TCD and UCG are important in etiologic identification of stroke.</span></p>

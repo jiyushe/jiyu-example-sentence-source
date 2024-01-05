@@ -1,5 +1,7 @@
 # diphenyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diphenyl.md)
+
 <p><span class="chinese">其合成方法主要有酯交换法、尿素法和二硫化碳法等。</span><span class="english">Methods of synthesizing diphenyl carbonate included transesterification, urea and carbon disulfide.</span></p>
 
 <p><span class="chinese">以联苯为原料，通过苄基化反应合成高温导热油。</span><span class="english">A heat-transfer fluid with high temperature resistance was synthesized through benzylation of diphenyl.</span></p>

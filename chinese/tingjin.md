@@ -1,5 +1,7 @@
 # 挺进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingjin.md)
+
 <p><span class="chinese">我们知道如何向前挺进。</span><span class="english">We know how to move forward.</span></p>
 
 <p><span class="chinese">这艘船在狂涛骇浪中挺进。</span><span class="english">The ship bored on through the big waves.</span></p>

@@ -1,5 +1,7 @@
 # 化装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huazhuang.md)
+
 <p><span class="chinese">多棒的化装舞会！</span><span class="english">And what a masquerade!</span></p>
 
 <p><span class="chinese">他喜欢去化装舞会</span><span class="english">He liked to masquerade.</span></p>

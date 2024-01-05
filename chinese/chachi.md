@@ -1,5 +1,7 @@
 # 茶匙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chachi.md)
+
 <p><span class="chinese">往锅里放一茶匙盐。</span><span class="english">Put a teaspoonful of salt into the pan.</span></p>
 
 <p><span class="chinese">把两茶匙糖放在面包上。</span><span class="english">Put two teaspoons of sugar on the bread.</span></p>

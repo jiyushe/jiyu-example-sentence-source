@@ -1,5 +1,7 @@
 # Czech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/czech.md)
+
 <p><span class="chinese">捷克的鬼可能吼的是“baf”。</span><span class="english">A Czech ghost might say baf.</span></p>
 
 <p><span class="chinese">捷克语“大海”怎么说？</span><span class="english">What's the Czech for "ocean"?</span></p>

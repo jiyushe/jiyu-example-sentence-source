@@ -1,5 +1,7 @@
 # flannel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flannel.md)
+
 <p><span class="chinese">我常穿法兰绒做贴身衣。</span><span class="english">She bought a gray flannel coat.</span></p>
 
 <p><span class="chinese">我常穿法兰绒做贴身衣。</span><span class="english">I always wear flannel next my skin.</span></p>

@@ -1,5 +1,7 @@
 # idiot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idiot.md)
+
 <p><span class="chinese">你才是白痴。</span><span class="english">You're an idiot.</span></p>
 
 <p><span class="chinese">朱丽叶是个白痴。</span><span class="english">Juliet is an idiot.</span></p>

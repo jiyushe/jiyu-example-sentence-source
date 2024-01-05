@@ -1,5 +1,7 @@
 # battlements
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battlements.md)
+
 <p><span class="chinese">然而，在这城垛上漫步是多么让人愉快。</span><span class="english">And yet so pleasant for walking on the battlements.</span></p>
 
 <p><span class="chinese">目前只发现城垛、城门各三处。</span><span class="english">Currently only found in battlements , gates of all three.</span></p>

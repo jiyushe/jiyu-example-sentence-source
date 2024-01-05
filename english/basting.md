@@ -1,5 +1,7 @@
 # basting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basting.md)
+
 <p><span class="chinese">她在厨房给正在烤炙中的火鸡上奶油时，碧丝按了门铃。</span><span class="english">She was in the kitchen basting a turkey when Bess rang the bell.</span></p>
 
 <p><span class="chinese">主要生产以粗针为主的各类羊毛衫系列。</span><span class="english">Our main product includes all varieties of basting wool sweaters.</span></p>

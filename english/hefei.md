@@ -1,5 +1,7 @@
 # hefei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hefei.md)
+
 <p><span class="chinese">在合肥铁路站下车的旅客</span><span class="english">Deboarding at Hefei Railway Station</span></p>
 
 <p><span class="chinese">这样的公作在合肥到处都是。</span><span class="english">This public as everywhere in Hefei.</span></p>

@@ -1,5 +1,7 @@
 # 反唇相讥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanchunxiangji.md)
+
 <p><span class="chinese">“你就是不看好她，”我反唇相讥。</span><span class="english">"You just don't believe in her," Iaccused.</span></p>
 
 <p><span class="chinese">在某种情况下，反唇相讥是必要的。</span><span class="english">Under certain conditions, answering back sarcastically is necessary.</span></p>

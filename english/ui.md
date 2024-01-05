@@ -1,5 +1,7 @@
 # ui
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ui.md)
+
 <p><span class="chinese">两个UI搜索器都能共用它。</span><span class="english">Both UI searches can share it.</span></p>
 
 <p><span class="chinese">剽窃用户界面在中国允许吗？</span><span class="english">Is plagiarizing UI admitted in China?</span></p>

@@ -1,5 +1,7 @@
 # terrarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrarium.md)
+
 <p><span class="chinese">最后将植物放到水晶球盆景中。</span><span class="english">Finally, place your plants inside the terrarium.</span></p>
 
 <p><span class="chinese">在水晶球盆景中要放置水或雾收集器，以保持水分。</span><span class="english">Water or mist the terrarium sparingly, but keep it moist.</span></p>

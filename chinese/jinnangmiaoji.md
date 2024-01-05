@@ -1,5 +1,7 @@
 # 锦囊妙计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinnangmiaoji.md)
+
 <p><span class="chinese">汤姆备有锦囊妙计胸有成竹。</span><span class="english">Tom had an ace up his sleeve.</span></p>
 
 <p><span class="chinese">下一个锦囊妙计将会改变历史。</span><span class="english">The next bright idea could change history.</span></p>

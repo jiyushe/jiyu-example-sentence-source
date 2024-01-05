@@ -1,5 +1,7 @@
 # 下意识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiayishi.md)
+
 <p><span class="chinese">它下意识的透露出爱尔兰凯尔特人的气息。</span><span class="english">It's self-consciously Irish, Celtic.</span></p>
 
 <p><span class="chinese">对我而言，这更多的是一种下意识的反应。</span><span class="english">For me, its more of an automatic response.</span></p>

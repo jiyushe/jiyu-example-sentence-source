@@ -1,5 +1,7 @@
 # 奋进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenjin.md)
+
 <p><span class="chinese">勤勉奋进口号到处都是。</span><span class="english">Exhortatory slogans are everywhere.</span></p>
 
 <p><span class="chinese">奋进中的北京今古通欢迎您！</span><span class="english">The Beijing now thou the endeavour welcome you!</span></p>

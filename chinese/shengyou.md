@@ -1,5 +1,7 @@
 # 生油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyou.md)
+
 <p><span class="chinese">建立了未熟油的生油模式。</span><span class="english">Model of immature oil generation is established.</span></p>
 
 <p><span class="chinese">台北凹陷西部的油源基本上都来自胜北洼陷，由于胜北洼陷生油岩埋藏深。</span><span class="english">Oil and gas in the west of Taibei sag come from Shengbei depression basically.</span></p>

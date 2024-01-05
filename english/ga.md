@@ -1,5 +1,7 @@
 # ga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ga.md)
+
 <p><span class="chinese">使得墙裂了缝，二人并肩都走得过。</span><span class="english">And makes ga even two can pa abreast.</span></p>
 
 <p><span class="chinese">遗传算法是一种宏观意义上的仿生算法。</span><span class="english">GA is mimic-life algorithm in grandness.</span></p>

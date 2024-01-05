@@ -1,5 +1,7 @@
 # diarrhea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diarrhea.md)
+
 <p><span class="chinese">他拉肚子。</span><span class="english">He has trouble with diarrhea.</span></p>
 
 <p><span class="chinese">我想要呕吐又想拉肚子。</span><span class="english">I feel like vomiting and have diarrhea.</span></p>

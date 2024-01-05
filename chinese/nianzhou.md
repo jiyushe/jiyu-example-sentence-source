@@ -1,5 +1,7 @@
 # 念咒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianzhou.md)
+
 <p><span class="chinese">男巫对作恶多端的国王念咒法。</span><span class="english">The wizard uttered a spell against the wicked king.</span></p>
 
 <p><span class="chinese">当我忙完了一天的工作，我的念咒就是“放松一下吧”。</span><span class="english">When I wanted to quit my day job, it was “Liberate Yourself”.</span></p>

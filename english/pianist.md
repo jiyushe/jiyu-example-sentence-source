@@ -1,5 +1,7 @@
 # pianist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pianist.md)
+
 <p><span class="chinese">他是一位奥地利钢琴家。</span><span class="english">He is an Austrian pianist.</span></p>
 
 <p><span class="chinese">我当时是个菜鸟钢琴手</span><span class="english">I was a fledgling pianist.</span></p>

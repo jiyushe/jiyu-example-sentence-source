@@ -1,5 +1,7 @@
 # ultimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultimate.md)
+
 <p><span class="chinese">终极版？</span><span class="english">Ultimate?</span></p>
 
 <p><span class="chinese">所以，总统是最高的统治者。</span><span class="english">So it's the ultimate ruler.</span></p>

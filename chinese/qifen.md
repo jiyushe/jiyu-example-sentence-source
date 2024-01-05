@@ -1,5 +1,7 @@
 # 气愤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qifen.md)
+
 <p><span class="chinese">她的懒惰让我气愤。</span><span class="english">Her laziness maddens me.</span></p>
 
 <p><span class="chinese">他气愤地嗖嗖地抽打他的靴子。</span><span class="english">He angrily swished his boot.</span></p>

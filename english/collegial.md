@@ -1,5 +1,7 @@
 # collegial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collegial.md)
+
 <p><span class="chinese">合议庭的成员人数应当是单数。</span><span class="english">The members of a collegial panel shall be odd in number.</span></p>
 
 <p><span class="chinese">合议庭的成员，应当是三人以上的单数。</span><span class="english">The number of members of a collegial panel shall be an odd number of three or more.</span></p>

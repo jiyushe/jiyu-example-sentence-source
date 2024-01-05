@@ -1,5 +1,7 @@
 # inning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inning.md)
+
 <p><span class="chinese">他们在一局中给了我们两次保送上垒。</span><span class="english">They gave us two walks in one inning.</span></p>
 
 <p><span class="chinese">第一局比赛打了个平手。</span><span class="english">The score was tied in the first inning.</span></p>

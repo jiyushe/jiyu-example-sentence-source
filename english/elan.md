@@ -1,5 +1,7 @@
 # elan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elan.md)
+
 <p><span class="chinese">第二是对于乌托邦的热情的丧失。</span><span class="english">Second, there has been a loss of utopian élan.</span></p>
 
 <p><span class="chinese">十年经济增长让非洲商人有了新的活力。</span><span class="english">A decade of growth has also given Africa's business people a new élan.</span></p>

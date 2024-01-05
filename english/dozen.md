@@ -1,5 +1,7 @@
 # dozen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dozen.md)
+
 <p><span class="chinese">鸡蛋三十五便士一打。</span><span class="english">Eggs are 35p a dozen.</span></p>
 
 <p><span class="chinese">我买了一打鸡蛋。</span><span class="english">I bought a dozen eggs.</span></p>

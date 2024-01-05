@@ -1,5 +1,7 @@
 # garbage 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garbage.md)
+
 <p><span class="chinese">垃圾车。</span><span class="english">Garbage truck.</span></p>
 
 <p><span class="chinese">使用一个垃圾袋。</span><span class="english">Use a garbage bag.</span></p>

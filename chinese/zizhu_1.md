@@ -1,5 +1,7 @@
 # 自主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhu_1.md)
+
 <p><span class="chinese">你会获得自主。</span><span class="english">You get autonomy.</span></p>
 
 <p><span class="chinese">我用自主学习的理论。</span><span class="english">I used the theory of SALL.</span></p>

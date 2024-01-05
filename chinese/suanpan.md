@@ -1,5 +1,7 @@
 # 算盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanpan.md)
+
 <p><span class="chinese">学会用算盘。</span><span class="english">Learn how to use an abacus.</span></p>
 
 <p><span class="chinese">在英语里我们叫它为一个算盘。</span><span class="english">In English we call it an abacus.</span></p>

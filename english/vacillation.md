@@ -1,5 +1,7 @@
 # vacillation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacillation.md)
+
 <p><span class="chinese">优柔寡断是他失败的原因。</span><span class="english">Vacillation is the cause of his failure.</span></p>
 
 <p><span class="chinese">柔嫩寡断是他失败的原因。</span><span class="english">Vacillation is the cause of his failure.</span></p>

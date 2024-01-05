@@ -1,5 +1,7 @@
 # food 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/food.md)
+
 <p><span class="chinese">寒凉食物。</span><span class="english">Cold food.</span></p>
 
 <p><span class="chinese">食物是燃料。</span><span class="english">Food is fuel.</span></p>

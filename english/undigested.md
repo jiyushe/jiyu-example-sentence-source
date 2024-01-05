@@ -1,5 +1,7 @@
 # undigested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undigested.md)
+
 <p><span class="chinese">其他来自未消化食物的发酵过程。</span><span class="english">The rest is from fermentation of undigested food.</span></p>
 
 <p><span class="chinese">没有被消化的蛋白质会在你的胃里开始腐烂变质。</span><span class="english">Undigested protein begins to rot and putrefy in your tummy.</span></p>

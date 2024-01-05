@@ -1,5 +1,7 @@
 # chili
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chili.md)
+
 <p><span class="chinese">将红辣椒洗净切丝。</span><span class="english">Wash chili and slice.</span></p>
 
 <p><span class="chinese">卡宴是辣椒。</span><span class="english">Cayenne is a chili pepper.</span></p>

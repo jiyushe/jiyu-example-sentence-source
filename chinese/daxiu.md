@@ -1,5 +1,7 @@
 # 大修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxiu.md)
+
 <p><span class="chinese">你的汽车该大修了。</span><span class="english">Your car needs overhauling.</span></p>
 
 <p><span class="chinese">但这场“大修”将何时发生还不清楚。</span><span class="english">When that will happen is not clear.</span></p>

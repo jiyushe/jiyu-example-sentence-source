@@ -1,5 +1,7 @@
 # epitaxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epitaxy.md)
+
 <p><span class="chinese">单晶，衬底，光电子，薄膜，外延。</span><span class="english">Single Crystal, Substrate, Optico-Electronics, Film, Epitaxy.</span></p>
 
 <p><span class="chinese">这个高的数值可以和从化学气相淀积外延得到的数值相比拟。</span><span class="english">The higher value is comparable to those obtained in CVD epitaxy.</span></p>

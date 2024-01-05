@@ -1,5 +1,7 @@
 # curable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curable.md)
+
 <p><span class="chinese">结核病是可治愈的。</span><span class="english">TB is curable.</span></p>
 
 <p><span class="chinese">疟疾是既可预防又可治愈的。</span><span class="english">Malaria is both preventable and curable.</span></p>

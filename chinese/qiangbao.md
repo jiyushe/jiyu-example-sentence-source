@@ -1,5 +1,7 @@
 # 墙报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangbao.md)
+
 <p><span class="chinese">我班同学要我担任墙报工作。</span><span class="english">My classmates want me to work for the wall newspaper.</span></p>
 
 <p><span class="chinese">我的同学想让我做墙报工作。</span><span class="english">My classmates want me to work for the wall-newspaper.</span></p>

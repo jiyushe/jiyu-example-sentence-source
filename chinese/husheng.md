@@ -1,5 +1,7 @@
 # 呼声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/husheng.md)
+
 <p><span class="chinese">伊阿古你们听见一个呼声吗？</span><span class="english">Iago. Did not you hear a cry?</span></p>
 
 <p><span class="chinese">这就是么东梅的呼声！</span><span class="english">This is the voice of Mody Dongmei!</span></p>

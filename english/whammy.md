@@ -1,5 +1,7 @@
 # whammy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whammy.md)
+
 <p><span class="chinese">我讨厌失败的人，我怕和他们在一起沾上晦气！</span><span class="english">It irks me to stay with losers, for they will bring whammy to me.</span></p>
 
 <p><span class="chinese">使这成为一个双重冲击，包括你指导性文章中讲述的故事。</span><span class="english">Make it a double whammy and include your story in your how-to articles.</span></p>

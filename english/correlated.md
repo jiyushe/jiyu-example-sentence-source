@@ -1,5 +1,7 @@
 # correlated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correlated.md)
+
 <p><span class="chinese">不，但是他们相关。</span><span class="english">No but they are correlated.</span></p>
 
 <p><span class="chinese">这些能够被导入、分析和关联。</span><span class="english">These can be imported, analyzed, and correlated.</span></p>

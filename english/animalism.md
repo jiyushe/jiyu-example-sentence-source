@@ -1,5 +1,7 @@
 # animalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animalism.md)
+
 <p><span class="chinese">他说，这包含了动物主义的实质原则。</span><span class="english">This, he said, contained the essential principle of Animalism.</span></p>
 
 <p><span class="chinese">但是，对动物论来说，并不比其他观点有更多问题。</span><span class="english">But this is no more a problem for animalism than for other views.</span></p>

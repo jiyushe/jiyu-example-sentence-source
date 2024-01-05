@@ -1,5 +1,7 @@
 # skier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skier.md)
+
 <p><span class="chinese">你滑雪滑得好吗？</span><span class="english">Are you a good skier.</span></p>
 
 <p><span class="chinese">这个学生滑雪滑得好。</span><span class="english">This pupil is a good skier.</span></p>

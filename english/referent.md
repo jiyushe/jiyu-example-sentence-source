@@ -1,5 +1,7 @@
 # referent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/referent.md)
+
 <p><span class="chinese">“好”显然有所指是建立在喜悦和痛苦上的。</span><span class="english">"Good" obviously has a referent based on pleasure and pain.</span></p>
 
 <p><span class="chinese">当指涉运动发生时，象征和直接指涉物都发生了改变。</span><span class="english">As referent movement occurs, both symbolization and direct referent change.</span></p>

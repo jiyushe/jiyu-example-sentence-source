@@ -1,5 +1,7 @@
 # 种植
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhi_3.md)
+
 <p><span class="chinese">他是个棉花种植场主。</span><span class="english">He is a cotton planter.</span></p>
 
 <p><span class="chinese">农业种植糜、谷、土豆。</span><span class="english">Mi farming, Gu, potatoes.</span></p>

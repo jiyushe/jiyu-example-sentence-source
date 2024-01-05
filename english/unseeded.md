@@ -1,5 +1,7 @@
 # unseeded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unseeded.md)
+
 <p><span class="chinese">头号种子选手在第一轮就以2比6负于一名非种子选手。</span><span class="english">The first seed lost to an unseeded player by 2-6 in the first round.</span></p>
 
 <p><span class="chinese">任何的被不播种的奔流将会不管理由在视力上划除。</span><span class="english">Any unseeded torrents will be deleted on sight regardless of the reason.</span></p>

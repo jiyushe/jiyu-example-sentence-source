@@ -1,5 +1,7 @@
 # annotation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annotation.md)
+
 <p><span class="chinese">但是注解方法会更好吗？</span><span class="english">But is the annotation approach better?</span></p>
 
 <p><span class="chinese">读现代诗歌需要很多的注解。</span><span class="english">Modern poetry is in need of annotation.</span></p>

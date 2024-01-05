@@ -1,5 +1,7 @@
 # etcetera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etcetera.md)
+
 <p><span class="chinese">油漆刷子烫葑灯等等。</span><span class="english">Paint, brushes, ladders, lamps, etcetera.</span></p>
 
 <p><span class="chinese">再是去年明星楼盘全部出现交房问题等等。</span><span class="english">Total sales last year to star in others, etcetera.</span></p>

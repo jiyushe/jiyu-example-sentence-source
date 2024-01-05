@@ -1,5 +1,7 @@
 # cast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cast.md)
+
 <p><span class="chinese">他朝我望了一眼。</span><span class="english">He cast me a look.</span></p>
 
 <p><span class="chinese">可锻铸铁。</span><span class="english">Smithing cast iron.</span></p>

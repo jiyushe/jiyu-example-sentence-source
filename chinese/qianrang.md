@@ -1,5 +1,7 @@
 # 谦让
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianrang.md)
+
 <p><span class="chinese">我永远学不会谦让。</span><span class="english">I never learn humility.</span></p>
 
 <p><span class="chinese">谦让，公正和善良是美德。</span><span class="english">Humility, justice and kindness are virtues.</span></p>

@@ -1,5 +1,7 @@
 # ingratiating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingratiating.md)
+
 <p><span class="chinese">因此他就给史奎尔先生设计了一副殷勤、讨好的笑脸。</span><span class="english">So now he contrived an eager, ingratiating smile, which he bestowed on Mr.</span></p>
 
 <p><span class="chinese">他装出一副殷勤、讨好的笑脸，并把它投向史奎尔斯先生。</span><span class="english">He contrived an eager, ingratiating smile, which he bestowed on Mr. Squires.</span></p>

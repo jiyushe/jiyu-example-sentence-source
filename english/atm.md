@@ -1,5 +1,7 @@
 # atm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atm.md)
+
 <p><span class="chinese">我必须去提款机提款。</span><span class="english">I need to hit an ATM.</span></p>
 
 <p><span class="chinese">我孩子认为我是提款机。</span><span class="english">My kids think I am ATM.</span></p>

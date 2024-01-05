@@ -1,5 +1,7 @@
 # 鱼肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yurou.md)
+
 <p><span class="chinese">共享一份鱼肉怎么样？</span><span class="english">How about sharing a dish?</span></p>
 
 <p><span class="chinese">来一块鱼肉三明治怎么样？</span><span class="english">How about a fish sandwich?</span></p>

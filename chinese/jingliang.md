@@ -1,5 +1,7 @@
 # 晶亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingliang.md)
+
 <p><span class="chinese">牠从晶亮闪烁的海上来。</span><span class="english">It came from the glittering sea.</span></p>
 
 <p><span class="chinese">捧起晶亮的雨滴，留在心中的还是寂寞。</span><span class="english">Pick up bright the raindrops, or remain in the hearts of lonely.</span></p>

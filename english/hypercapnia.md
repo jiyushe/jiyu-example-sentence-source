@@ -1,5 +1,7 @@
 # hypercapnia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypercapnia.md)
+
 <p><span class="chinese">甲状腺激素替代治疗后可改善低氧和高碳酸血症。</span><span class="english">The hypoxia and hypercapnia ameliorated after thyroid hormone therapy.</span></p>
 
 <p><span class="chinese">股静脉注射纳洛酮使高二氧化碳通气反应增强。</span><span class="english">Ventilation response to hypercapnia was enhanced by injection of naloxone into femoral vein.</span></p>

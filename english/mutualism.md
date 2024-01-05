@@ -1,5 +1,7 @@
 # mutualism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutualism.md)
+
 <p><span class="chinese">互利共生。</span><span class="english">Mutualism.</span></p>
 
 <p><span class="chinese">狂热的互利共生并非只能成双成对。</span><span class="english">Rabid mutualism doesn't just happen in pairs.</span></p>

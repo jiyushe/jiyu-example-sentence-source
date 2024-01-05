@@ -1,5 +1,7 @@
 # 优先权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxianquan.md)
+
 <p><span class="chinese">男性有优先权，依旧卓尔不群</span><span class="english">Men have precedency and still excel</span></p>
 
 <p><span class="chinese">你方可在我方报盘方面享有优先权。</span><span class="english">You may enjoy priority in our offers.</span></p>

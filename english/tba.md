@@ -1,5 +1,7 @@
 # tba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tba.md)
+
 <p><span class="chinese">哦，你们啊，里奥，约翰，暂时待定中。</span><span class="english">Ahh, Rio, John, TBA.</span></p>
 
 <p><span class="chinese">探讨了TBA的臭氧氧化过程的降解机理。</span><span class="english">The degradation mechanism of TBA by ozonation was explored.</span></p>

@@ -1,5 +1,7 @@
 # unscientific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unscientific.md)
+
 <p><span class="chinese">你瞧这是非常不科学的。</span><span class="english">That's very unscientific you see.</span></p>
 
 <p><span class="chinese">它们是不科学的，不守纪律。</span><span class="english">They are unscientific and undisciplined.</span></p>

@@ -1,5 +1,7 @@
 # selenite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selenite.md)
+
 <p><span class="chinese">试验中的硒元素以亚硒酸钠的形式提供。</span><span class="english">The selenium are supplied in the form of sodium selenite.</span></p>
 
 <p><span class="chinese">用丹酚酸A或亚硒酸钠可激活钾通道开放。</span><span class="english">Salvianolic acid A or sodium selenite activated potassium channels.</span></p>

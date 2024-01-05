@@ -1,5 +1,7 @@
 # 恩泽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enze.md)
+
 <p><span class="chinese">你我形同陌路，相遇也是恩泽一场。</span><span class="english">You and I strangers meet is a grace.</span></p>
 
 <p><span class="chinese">我接受您的恩泽，心中非常激动。</span><span class="english">I accept your Enze, he is very excited.</span></p>

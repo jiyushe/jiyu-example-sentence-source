@@ -1,5 +1,7 @@
 # 卓见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuojian.md)
+
 <p><span class="chinese">我和丽莎•库卓见了面并教她吉他。</span><span class="english">I met Lisa Kudrow and tried to teach her a little guitar.</span></p>
 
 <p><span class="chinese">哲学家金岳霖、贺麟对翻译多持卓见。</span><span class="english">This paper expounds the views on translation advanced by Jin Yuelin and He Lin.</span></p>

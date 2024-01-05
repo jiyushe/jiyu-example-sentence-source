@@ -1,5 +1,7 @@
 # 加紧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiajin.md)
+
 <p><span class="chinese">所以就加紧了对女性问题的研究。</span><span class="english">And pressed on your women studies.</span></p>
 
 <p><span class="chinese">那个调度员加紧调车。</span><span class="english">The dispatcher to intensify shunting.</span></p>

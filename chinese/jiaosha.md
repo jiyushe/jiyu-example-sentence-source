@@ -1,5 +1,7 @@
 # 绞杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaosha.md)
+
 <p><span class="chinese">对于个体较小的猎物玉米蛇会直接吞食而不需要绞杀。</span><span class="english">However, corn snakes have also been observed swallowing small prey alive.</span></p>
 
 <p><span class="chinese">是鲁镇这个高度思想化的环境联合绞杀了祥林嫂。</span><span class="english">It was the Lu Town , this high ideological enviroment to unite strangling her.</span></p>

@@ -1,5 +1,7 @@
 # sitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sitter.md)
+
 <p><span class="chinese">我的保姆正等着我回家呢。</span><span class="english">My baby sitter is expecting me to come home.</span></p>
 
 <p><span class="chinese">一回到家，他们就付了保姆工资，让她回去。</span><span class="english">Upon arriving home, they promptly paid the baby sitter and sent her on her way.</span></p>

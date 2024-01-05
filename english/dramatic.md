@@ -1,5 +1,7 @@
 # dramatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dramatic.md)
+
 <p><span class="chinese">我喜欢戏剧片。</span><span class="english">I like dramatic films.</span></p>
 
 <p><span class="chinese">一个具有戏剧性的大话？</span><span class="english">A dramatic over-statement?</span></p>

@@ -1,5 +1,7 @@
 # 皮层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piceng.md)
+
 <p><span class="chinese">其内皮层细胞上凯氏带明显。</span><span class="english">The endodermis had clear Casparian strips on its cells.</span></p>
 
 <p><span class="chinese">皮层细胞间不形成明显的“哈蒂氏网”。</span><span class="english">Hartig net structure was not formed inter-cortical cells.</span></p>

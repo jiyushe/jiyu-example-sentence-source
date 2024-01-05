@@ -1,5 +1,7 @@
 # 对症下药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duizhengxiayao.md)
+
 <p><span class="chinese">他的金融白皮书有很多对症下药之处。</span><span class="english">His financial white paper gets much right.</span></p>
 
 <p><span class="chinese">甚至是江湖郎中对症下药也是可能的。</span><span class="english">And it is possible to find the right medicine even from a quack doctor.</span></p>

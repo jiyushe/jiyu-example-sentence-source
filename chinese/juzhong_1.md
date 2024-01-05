@@ -1,5 +1,7 @@
 # 居中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzhong_1.md)
+
 <p><span class="chinese">小标题一律居中。</span><span class="english">Please centre the subheads.</span></p>
 
 <p><span class="chinese">三是以水居中，环水建园。</span><span class="english">Third, the park is built around water.</span></p>

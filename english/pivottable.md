@@ -1,5 +1,7 @@
 # pivottable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pivottable.md)
+
 <p><span class="chinese">“更新数据”操作更改了数据透视表报表。</span><span class="english">The Refresh Data operation changed the PivotTable report.</span></p>
 
 <p><span class="chinese">选定的数据区域包括一张数据透视表报表。</span><span class="english">The data range you have selected includes a PivotTable report.</span></p>

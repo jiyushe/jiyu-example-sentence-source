@@ -1,5 +1,7 @@
 # bakery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bakery.md)
+
 <p><span class="chinese">面包店部分在哪里？</span><span class="english">Where is the bakery section?</span></p>
 
 <p><span class="chinese">同时也要注意面包店的产品。</span><span class="english">Be careful of bakery items, too.</span></p>

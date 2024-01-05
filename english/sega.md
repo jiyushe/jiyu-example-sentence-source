@@ -1,5 +1,7 @@
 # sega
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sega.md)
+
 <p><span class="chinese">日本人编写的世嘉土星模拟器。</span><span class="english">Japanese Sega Saturn prepared by the simulator.</span></p>
 
 <p><span class="chinese">我对自己第一次获得世嘉成因游戏机的那一时刻记忆犹新。</span><span class="english">I remember when I first got my Sega Genesis console.</span></p>

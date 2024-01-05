@@ -1,5 +1,7 @@
 # colonnade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonnade.md)
+
 <p><span class="chinese">周围是宫殿，公园和廊柱。</span><span class="english">By palace, park, and colonnade.</span></p>
 
 <p><span class="chinese">并建造有柱子的廊子，长五十肘，宽三十肘。</span><span class="english">He made a colonnade fifty cubits long and thirty wide.</span></p>

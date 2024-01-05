@@ -1,5 +1,7 @@
 # 提倡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tichang.md)
+
 <p><span class="chinese">我们提倡俭朴的生活。</span><span class="english">We advocate plain living.</span></p>
 
 <p><span class="chinese">我并不提倡避免云。</span><span class="english">I do not advocate cloud-avoidance.</span></p>

@@ -1,5 +1,7 @@
 # roofing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roofing.md)
+
 <p><span class="chinese">什么是欧文斯科宁屋面系统？</span><span class="english">What is a roofing system?</span></p>
 
 <p><span class="chinese">桁架在修建屋顶和桥梁时被广泛应用。</span><span class="english">Trusses have been extensively in roofing and Bridges.</span></p>

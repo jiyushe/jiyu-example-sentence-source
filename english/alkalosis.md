@@ -1,5 +1,7 @@
 # alkalosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkalosis.md)
+
 <p><span class="chinese">可能有碱中毒和缺钾。</span><span class="english">Alkalosis and potassium depletion may be pronounced.</span></p>
 
 <p><span class="chinese">可能有碱中毒和缺钾。</span><span class="english">Alkalosis and potassium depletion may be pronounced.</span></p>

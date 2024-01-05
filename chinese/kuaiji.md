@@ -1,5 +1,7 @@
 # 会计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaiji.md)
+
 <p><span class="chinese">那就先请个会计。</span><span class="english">Then get an accountant.</span></p>
 
 <p><span class="chinese">它是会计的结终者。</span><span class="english">It’s the end of accounting.</span></p>

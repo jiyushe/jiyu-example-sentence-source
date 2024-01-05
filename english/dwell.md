@@ -1,5 +1,7 @@
 # dwell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dwell.md)
+
 <p><span class="chinese">请不要高谈论阔。</span><span class="english">Please don't dwell on it.</span></p>
 
 <p><span class="chinese">在弱点和失败上痴缠。</span><span class="english">Dwell on weakness and failures.</span></p>

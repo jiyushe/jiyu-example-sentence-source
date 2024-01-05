@@ -1,5 +1,7 @@
 # 定植
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzhi_2.md)
+
 <p><span class="chinese">播期由定植期往前推30-40天即可。</span><span class="english">Sowing-date push by engraftment period 30-40 days.</span></p>
 
 <p><span class="chinese">定植以植苗造林为主，辅助进行播种造林和分殖造林。</span><span class="english">The seedlings were mainly used with complement of seeds and root divisions.</span></p>

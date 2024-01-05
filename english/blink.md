@@ -1,5 +1,7 @@
 # blink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blink.md)
+
 <p><span class="chinese">我们会眨眼。</span><span class="english">We will blink.</span></p>
 
 <p><span class="chinese">为什么人会眨眼睛？</span><span class="english">Why do you blink?</span></p>

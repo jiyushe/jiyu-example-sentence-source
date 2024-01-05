@@ -1,5 +1,7 @@
 # erupt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erupt.md)
+
 <p><span class="chinese">喷泉和火山均能喷发。</span><span class="english">Geysers and volcanoes erupt.</span></p>
 
 <p><span class="chinese">火山和间歇喷泉均能喷发。</span><span class="english">Volcanoes and geysers erupt.</span></p>

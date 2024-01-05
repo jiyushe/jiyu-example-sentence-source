@@ -1,5 +1,7 @@
 # 交通车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotongche.md)
+
 <p><span class="chinese">我建议乘机场交通车。</span><span class="english">I 'd suggest taking the limousine.</span></p>
 
 <p><span class="chinese">可是我建议您乘机场的交通车。</span><span class="english">But I'd suggest taking the limousine.</span></p>

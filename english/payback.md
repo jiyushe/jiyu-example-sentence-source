@@ -1,5 +1,7 @@
 # payback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/payback.md)
+
 <p><span class="chinese">但是回收率是值得的。</span><span class="english">But the payback is worth it.</span></p>
 
 <p><span class="chinese">这样做的好处很多，回报也十分快。</span><span class="english">The benefits are many, and the payback is quick.</span></p>

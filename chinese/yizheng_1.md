@@ -1,5 +1,7 @@
 # 议政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizheng_1.md)
+
 <p><span class="chinese">他们有时议议政，有时品品茶。</span><span class="english">They sometimes take counsel and sometimes tea.</span></p>
 
 <p><span class="chinese">然而，身为“诤臣”的议政的知识分子言论的相对独立性如何得到保障？</span><span class="english">Nevertheless, how can the independence of the statements made by these "advisors" be guaranteed?</span></p>

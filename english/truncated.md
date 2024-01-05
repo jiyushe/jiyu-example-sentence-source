@@ -1,5 +1,7 @@
 # truncated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truncated.md)
+
 <p><span class="chinese">他删节一则新闻以适合可用的版面。</span><span class="english">He truncated a news item to fit the available space.</span></p>
 
 <p><span class="chinese">请注意这是一个删节版的快速指引。</span><span class="english">Note that this is a very truncated quick-start guide.</span></p>

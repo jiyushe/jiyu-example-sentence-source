@@ -1,5 +1,7 @@
 # 容错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongcuo.md)
+
 <p><span class="chinese">性能、可伸缩性和容错问题</span><span class="english">Performance, scalability and fault-tolerant considerations</span></p>
 
 <p><span class="chinese">可见网络的容错能力是十分令人满意的。</span><span class="english">The fault-tolerant ability of the FLN is very satisfactory.</span></p>

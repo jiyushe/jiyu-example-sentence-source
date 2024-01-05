@@ -1,5 +1,7 @@
 # skeletal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skeletal.md)
+
 <p><span class="chinese">她如今不再是清瘦而是瘦骨嶙峋。</span><span class="english">She was not merely thin but skeletal.</span></p>
 
 <p><span class="chinese">我们需要特别重的骨骼系统。</span><span class="english">We need a heavy-weight skeletal system.</span></p>

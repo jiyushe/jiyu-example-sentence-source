@@ -1,5 +1,7 @@
 # 历算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lisuan.md)
+
 <p><span class="chinese">我的先祖们也带回了璀璨的西方文明，如医学与历算。</span><span class="english">My ancestors also brought back the resplendent western civilization, such as medicine and calendar.</span></p>
 
 <p><span class="chinese">他不仅在业余时间勤奋学习西方历算，也将科学作为控制汉人的手段。</span><span class="english">He not only learned mathematical sciences diligently in his spare time but also used it as a tool to control people.</span></p>

@@ -1,5 +1,7 @@
 # geophysical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geophysical.md)
+
 <p><span class="chinese">地球物理测井是其重要组成部分。</span><span class="english">Geophysical logging is the basic component of CCSD.</span></p>
 
 <p><span class="chinese">范公、周公都是画像，吕公是偶像。</span><span class="english">Gong, are portraits of the Duke and Geophysical Exploration & yes idols.</span></p>

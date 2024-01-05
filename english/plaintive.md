@@ -1,5 +1,7 @@
 # plaintive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plaintive.md)
+
 <p><span class="chinese">怨叹的maluré已被larifla所替代。</span><span class="english">The plaintive malure was replaced by the larifla.</span></p>
 
 <p><span class="chinese">纸箱里发出一声长长的悲鸣。</span><span class="english">A long plaintive wail emanated from the cardboard box.</span></p>

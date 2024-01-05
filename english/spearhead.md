@@ -1,5 +1,7 @@
 # spearhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spearhead.md)
+
 <p><span class="chinese">这矛头引出了许多问题。</span><span class="english">This spearhead raises many questions.</span></p>
 
 <p><span class="chinese">新上任的常务董事将在这场运动中挂帅。</span><span class="english">The new managing director will act as spearhead of the campaign.</span></p>

@@ -1,5 +1,7 @@
 # vegetative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vegetative.md)
+
 <p><span class="chinese">发展下层林地植被的层次。</span><span class="english">Develop vegetative layers of woodland understory.</span></p>
 
 <p><span class="chinese">他被连上了呼吸机，现在就是个植物人了。</span><span class="english">He's on a respirator and is in a vegetative state.</span></p>

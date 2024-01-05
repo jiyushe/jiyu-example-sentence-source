@@ -1,5 +1,7 @@
 # 地气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diqi_1.md)
+
 <p><span class="chinese">玛丽兴致勃勃地气参加舞会。</span><span class="english">Mary went to the ball with bells on.</span></p>
 
 <p><span class="chinese">由于地气的原因，这根铁柱子已经生锈了。</span><span class="english">This iron pillar has rusted because of the humidity in the land.</span></p>

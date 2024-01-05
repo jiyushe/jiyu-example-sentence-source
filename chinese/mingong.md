@@ -1,5 +1,7 @@
 # 民工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingong.md)
+
 <p><span class="chinese">“他们都是民工”。</span><span class="english">They are laborers.</span></p>
 
 <p><span class="chinese">你会见到民工子弟学校被关。</span><span class="english">You will see migrants’ schools closed.</span></p>

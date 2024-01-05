@@ -1,5 +1,7 @@
 # duke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duke.md)
+
 <p><span class="chinese">伯爵在公爵之下。</span><span class="english">An earl is beneath a duke.</span></p>
 
 <p><span class="chinese">城主从天上掉下来了！</span><span class="english">The duke fell from the sky!</span></p>

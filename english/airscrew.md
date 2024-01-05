@@ -1,5 +1,7 @@
 # airscrew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airscrew.md)
+
 <p><span class="chinese">此外，由于不用空气螺旋桨驱动，所以噪音也比较小。</span><span class="english">Moreover, they are also quieter, as they are not driven by an airscrew.</span></p>
 
 <p><span class="chinese">空气螺旋包括螺旋桨、风车、风扇和直升机叶片等。</span><span class="english">The airscrew included various propellers, fans, windmills and helicopter blades, etc.</span></p>

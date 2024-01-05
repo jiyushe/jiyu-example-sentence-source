@@ -1,5 +1,7 @@
 # 包裹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoguo.md)
+
 <p><span class="chinese">他捆上包裹。</span><span class="english">He tied the parcel.</span></p>
 
 <p><span class="chinese">我捆好包裹。</span><span class="english">I tied up the parcel.</span></p>

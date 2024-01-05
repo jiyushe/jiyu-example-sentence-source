@@ -1,5 +1,7 @@
 # 清谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtan_1.md)
+
 <p><span class="chinese">生活中有多少麻烦不都是由清谈引起的么。</span><span class="english">How much trouble in this life is caused by idle talk!</span></p>
 
 <p><span class="chinese">我们不能只清谈如何行，而且要行所言。</span><span class="english">We should not just talk the walk, but also walk the talk.</span></p>

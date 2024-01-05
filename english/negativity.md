@@ -1,5 +1,7 @@
 # negativity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negativity.md)
+
 <p><span class="chinese">你感觉到消极心态消失无踪。</span><span class="english">You sense the negativity fall away.</span></p>
 
 <p><span class="chinese">躲避消极思想和消极的人。</span><span class="english">Avoid negativity and negative people.</span></p>

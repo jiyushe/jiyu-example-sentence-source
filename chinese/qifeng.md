@@ -1,5 +1,7 @@
 # 启封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qifeng.md)
+
 <p><span class="chinese">请把本房间启封。</span><span class="english">Please unseal this room.</span></p>
 
 <p><span class="chinese">除非我的心自己磕破了自己，不然怎可随意启封？</span><span class="english">HOW SHALL MY heart be unsealed unless it be broken?</span></p>

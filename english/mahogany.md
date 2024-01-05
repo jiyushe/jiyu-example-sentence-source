@@ -1,5 +1,7 @@
 # mahogany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mahogany.md)
+
 <p><span class="chinese">这张桌子是桃绩心木的。</span><span class="english">This table is mahogany.</span></p>
 
 <p><span class="chinese">背板力木？用桃花心木。</span><span class="english">For back braces? Mahogany.</span></p>

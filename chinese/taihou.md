@@ -1,5 +1,7 @@
 # 太后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taihou.md)
+
 <p><span class="chinese">玛丽王太后喊道，“你是国王！</span><span class="english">Queen Mary shouted. 'You're a King!</span></p>
 
 <p><span class="chinese">长袍和王冠加身，她是太后。</span><span class="english">Gowned and crowned, she was a queen.</span></p>

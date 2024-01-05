@@ -1,5 +1,7 @@
 # decapitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decapitation.md)
+
 <p><span class="chinese">一个人被斩首后仍然能有15-20秒的清醒意识。</span><span class="english">A human head stays consciousfor 15-20 seconds after decapitation.</span></p>
 
 <p><span class="chinese">这导致贾巴的犯罪组织群龙无首。</span><span class="english">This precipitated the decapitation of Jabba's criminal organization.</span></p>

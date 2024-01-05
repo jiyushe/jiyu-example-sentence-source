@@ -1,5 +1,7 @@
 # momentum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/momentum.md)
+
 <p><span class="chinese">保持你的动力。</span><span class="english">Sustain your momentum.</span></p>
 
 <p><span class="chinese">但是苹果自有一套办法。</span><span class="english">But Apple has the momentum.</span></p>

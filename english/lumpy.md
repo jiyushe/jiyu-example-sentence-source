@@ -1,5 +1,7 @@
 # lumpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lumpy.md)
+
 <p><span class="chinese">但是笨笨不害怕小袋鼠。</span><span class="english">But Lumpy is not scary.</span></p>
 
 <p><span class="chinese">邮递员大傻鹿看起来挺尽职的……</span><span class="english">Mailman Lumpy seems to be really duteous.</span></p>

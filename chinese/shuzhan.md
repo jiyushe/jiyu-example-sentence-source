@@ -1,5 +1,7 @@
 # 舒展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhan.md)
+
 <p><span class="chinese">舒展成一曲悠扬的歌。</span><span class="english">Stretching into a song melodious.</span></p>
 
 <p><span class="chinese">或者只是站起来，舒展一下身体。</span><span class="english">Or simply stand and stretch for a minute.</span></p>

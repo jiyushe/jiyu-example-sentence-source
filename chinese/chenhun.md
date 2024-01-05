@@ -1,5 +1,7 @@
 # 晨昏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenhun.md)
+
 <p><span class="chinese">我爱你，穿越千年，无论晨昏。</span><span class="english">Sorry, I just can't stop loving you.</span></p>
 
 <p><span class="chinese">为黑夜，白昼和晨昏穿戴。</span><span class="english">Of night and light and the half-light.</span></p>

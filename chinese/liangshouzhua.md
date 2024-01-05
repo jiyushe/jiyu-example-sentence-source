@@ -1,5 +1,7 @@
 # 两手抓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangshouzhua.md)
+
 <p><span class="chinese">现在每个公司都在硬件软件两手抓。</span><span class="english">Now everybody is scrambling in both hardware and software.</span></p>
 
 <p><span class="chinese">这就是中国特色——两手抓，两条腿走路。</span><span class="english">These are Chinese characteristics – two hands and two legs!</span></p>

@@ -1,5 +1,7 @@
 # 水果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiguo.md)
+
 <p><span class="chinese">水果冰茶。</span><span class="english">Ice fruit tea.</span></p>
 
 <p><span class="chinese">阳光使水果成熟。</span><span class="english">The sun ripens fruit.</span></p>

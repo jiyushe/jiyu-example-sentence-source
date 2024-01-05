@@ -1,5 +1,7 @@
 # 先机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianji.md)
+
 <p><span class="chinese">许多竞争对手在下一轮竞争中可能抢得先机。</span><span class="english">Many competitors advance to the next round.</span></p>
 
 <p><span class="chinese">那么，以下是一些能让你占得先机的小贴士。</span><span class="english">So here are some tips to give you a head start.</span></p>

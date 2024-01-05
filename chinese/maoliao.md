@@ -1,5 +1,7 @@
 # 毛料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoliao.md)
+
 <p><span class="chinese">毛料衣服能乾洗吗?。</span><span class="english">Can woolens be dry-cleaned?</span></p>
 
 <p><span class="chinese">毛料比丝料耐穿。</span><span class="english">Wool stands up better than silk.</span></p>

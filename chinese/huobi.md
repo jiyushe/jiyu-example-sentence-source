@@ -1,5 +1,7 @@
 # 货币
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huobi.md)
+
 <p><span class="chinese">货币是可替换物。</span><span class="english">Money is fungible.</span></p>
 
 <p><span class="chinese">任何形式的货币.</span><span class="english">Any type of currency.</span></p>

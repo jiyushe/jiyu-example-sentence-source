@@ -1,5 +1,7 @@
 # 不顾死活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bugusihuo.md)
+
 <p><span class="chinese">囚犯们在绝望中更加不顾死活了。</span><span class="english">The prisoners grew more desperate.</span></p>
 
 <p><span class="chinese">囚徒们在绝望中更加不顾死活了。</span><span class="english">The prisoners grew more desperate in despair.</span></p>

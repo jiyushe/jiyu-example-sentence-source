@@ -1,5 +1,7 @@
 # petrography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrography.md)
+
 <p><span class="chinese">用岩相学方法研究浙江花岗岩的交代作用。</span><span class="english">Metasomatism of the granitic rocks in Zhejiang Province, China is investigated by petrography.</span></p>
 
 <p><span class="chinese">主要报导了南极格罗夫山新回收的6块非平衡型普通球粒陨石的岩石学和矿物化学特征。</span><span class="english">The petrography and mineral chemistry of 6 unequilibrated ordinary chondrites collected from the Grove Mountains, Antarctica, were studied.</span></p>

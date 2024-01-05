@@ -1,5 +1,7 @@
 # enginery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enginery.md)
+
 <p><span class="chinese">机械原理是机械类专业的一门主要干课程。</span><span class="english">The principle of machinery is mostly course of enginery profession.</span></p>
 
 <p><span class="chinese">配有内藏式高级液压缓降器。</span><span class="english">Equip the high-grade inner hydraulic pressure slow descent enginery.</span></p>

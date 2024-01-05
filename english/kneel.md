@@ -1,5 +1,7 @@
 # kneel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kneel.md)
+
 <p><span class="chinese">我们跪下祈祷吧。</span><span class="english">Let us kneel in prayer.</span></p>
 
 <p><span class="chinese">来跪在佐德面前吧！</span><span class="english">Come and kneel before Zod! Zod!</span></p>

@@ -1,5 +1,7 @@
 # cookbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cookbook.md)
+
 <p><span class="chinese">小狐狸看了看食谱，“曲奇饼的食谱看起来很简单嘛。”</span><span class="english">Fox looked at his cookbook.</span></p>
 
 <p><span class="chinese">它是一本烹饪书和游记。</span><span class="english">It's a cookbook and travel book.</span></p>

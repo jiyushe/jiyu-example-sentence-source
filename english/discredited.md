@@ -1,5 +1,7 @@
 # discredited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discredited.md)
+
 <p><span class="chinese">她用难听的流言蜚语臭他。</span><span class="english">She discredited him with ugly gossip.</span></p>
 
 <p><span class="chinese">他用流言蜚语败坏我的好名声。</span><span class="english">He discredited my good name with gossip.</span></p>

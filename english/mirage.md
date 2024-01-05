@@ -1,5 +1,7 @@
 # mirage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mirage.md)
+
 <p><span class="chinese">别把我推向海市蜃楼。</span><span class="english">Do not push my mirage.</span></p>
 
 <p><span class="chinese">他认为这种繁荣的海市蜃楼。</span><span class="english">He thinks the boom is a mirage.</span></p>

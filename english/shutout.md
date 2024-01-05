@@ -1,5 +1,7 @@
 # shutout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shutout.md)
+
 <p><span class="chinese">企业停工、停业期间工资如何支付？</span><span class="english">How to pay wages during shutdown and shutout of an enterprise?</span></p>
 
 <p><span class="chinese">这使他成为职棒史上获得完封战绩的最年长选手。</span><span class="english">It made him the oldest pitcher in baseball history to throw a shutout.</span></p>

@@ -1,5 +1,7 @@
 # extractable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extractable.md)
+
 <p><span class="chinese">这篇文章不可摘录。</span><span class="english">This article is not extractable.</span></p>
 
 <p><span class="chinese">不要玩这把可拔出的刀。</span><span class="english">Don't play with that extractable knife.</span></p>

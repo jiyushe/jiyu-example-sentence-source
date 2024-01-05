@@ -1,5 +1,7 @@
 # notary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notary.md)
+
 <p><span class="chinese">想成为一名助理法官或公证人。</span><span class="english">Want to be an assistant judge or notary.</span></p>
 
 <p><span class="chinese">担保人或公证人需要在哪里签署？</span><span class="english">Where do the sureties or Notary Public sign?</span></p>

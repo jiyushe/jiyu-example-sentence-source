@@ -1,5 +1,7 @@
 # 望文生义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangwenshengyi.md)
+
 <p><span class="chinese">学习外国语切莫望文生义。</span><span class="english">Don't interpret it without real understanding when you study a foreign language.</span></p>
 
 <p><span class="chinese">用拆字先生的办法，望文生义，家最初和猪圈有关。</span><span class="english">So, obviously, home in chinese had certain relation with piggery in ancient time.</span></p>

@@ -1,5 +1,7 @@
 # syringa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syringa.md)
+
 <p><span class="chinese">丁香属植物二新栽培变种。</span><span class="english">Two new cultivated varieties of syringa linn.</span></p>
 
 <p><span class="chinese">从窗口我闻到紫丁香的香味。</span><span class="english">Through the window I caught the scent of syringa.</span></p>

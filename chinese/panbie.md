@@ -1,5 +1,7 @@
 # 判别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panbie.md)
+
 <p><span class="chinese">自动开路端点判别。</span><span class="english">Open wire open-side judgement.</span></p>
 
 <p><span class="chinese">还有什么标准可以用来判别食品吗</span><span class="english">Other ideas of what might constitute a food?</span></p>

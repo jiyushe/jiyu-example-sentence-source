@@ -1,5 +1,7 @@
 # waterside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterside.md)
+
 <p><span class="chinese">如何治疗慢性浔麻疹?。</span><span class="english">How to treat waterside chronically hives ?</span></p>
 
 <p><span class="chinese">岸边，他一把把她拉到怀里。</span><span class="english">He pulled her to his chest there by the waterside.</span></p>

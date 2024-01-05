@@ -1,5 +1,7 @@
 # sian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sian.md)
+
 <p><span class="chinese">东北军和西北军控制了西安。</span><span class="english">Tungpei and Hsipei troops were in control at Sian.</span></p>
 
 <p><span class="chinese">我在到西安之前从来没有见到过一个红军战士。</span><span class="english">I have never seen a Red Army man before arrived in Sian.</span></p>

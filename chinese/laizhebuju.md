@@ -1,5 +1,7 @@
 # 来者不拒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laizhebuju.md)
+
 <p><span class="chinese">谁来都会被欢迎。来者不拒。</span><span class="english">Who eyer comes will be welcomed.</span></p>
 
 <p><span class="chinese">他要大宴宾客，来者不拒，像王公贵族一样。</span><span class="english">He would keep open house and entertain like a prince.</span></p>

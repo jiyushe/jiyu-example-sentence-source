@@ -1,5 +1,7 @@
 # shepherd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shepherd.md)
+
 <p><span class="chinese">神是我的牧者。</span><span class="english">God is my Shepherd.</span></p>
 
 <p><span class="chinese">告诉你我放得可好了。</span><span class="english">I am a good shepherd.</span></p>

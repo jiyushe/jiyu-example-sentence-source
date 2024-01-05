@@ -1,5 +1,7 @@
 # 骈文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianwen.md)
+
 <p><span class="chinese">正是民间普遍存在的骈偶观念才导致了骈文的生成。</span><span class="english">And it is folk concept of pian-ou style that leads to the appearance of pian literary style.</span></p>
 
 <p><span class="chinese">刘峻是梁代著名的骈文家，更是一位知识渊博的学者。</span><span class="english">Liu Jun is a famous parallel prose writer of Liang dynasty, is a knowledge profound scholar.</span></p>

@@ -1,5 +1,7 @@
 # 译制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_13.md)
+
 <p><span class="chinese">我们先看了一部用英文译制的记录片。</span><span class="english">First we saw a documentary dubbed in English.</span></p>
 
 <p><span class="chinese">昨晚，我们看了一部用英文译制的记录片。</span><span class="english">Last night, we saw a movie dubbed in English.</span></p>

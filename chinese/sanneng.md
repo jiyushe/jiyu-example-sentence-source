@@ -1,5 +1,7 @@
 # 三能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanneng.md)
+
 <p><span class="chinese">红宝石激光器是一个三能级系统。</span><span class="english">Ruby laser is a three-level system.</span></p>
 
 <p><span class="chinese">在低能量范围内，该分子可以简化为三能级体系。</span><span class="english">The molecule can be simplified as a three-level system.</span></p>

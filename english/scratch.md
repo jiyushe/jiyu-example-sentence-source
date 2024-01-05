@@ -1,5 +1,7 @@
 # scratch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scratch.md)
+
 <p><span class="chinese">替我挠挠头。</span><span class="english">Scratch my head.</span></p>
 
 <p><span class="chinese">刮擦测试。</span><span class="english">Do the scratch test.</span></p>

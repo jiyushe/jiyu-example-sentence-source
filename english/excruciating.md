@@ -1,5 +1,7 @@
 # excruciating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excruciating.md)
+
 <p><span class="chinese">病人主诉难以忍受的疼痛。</span><span class="english">The patient complains of excruciating pain.</span></p>
 
 <p><span class="chinese">然而，这部电影的绝大部分都让人难以忍受。</span><span class="english">However, most of the film is excruciating to endure.</span></p>

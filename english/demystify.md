@@ -1,5 +1,7 @@
 # demystify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demystify.md)
+
 <p><span class="chinese">我们要尽量使政府工作公开化.</span><span class="english">We are trying to demystify the workings of government.</span></p>
 
 <p><span class="chinese">我们需要澄清和阐明卫生系统如何有益地与卫生干预规划相联系。</span><span class="english">We need to clarify and demystify how health systems link usefully to health intervention programmes.</span></p>

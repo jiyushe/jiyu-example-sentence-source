@@ -1,5 +1,7 @@
 # 实事求是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishiqiushi.md)
+
 <p><span class="chinese">即便是受伤也要实事求是。</span><span class="english">Be truthful even if it hurts.</span></p>
 
 <p><span class="chinese">我祖父是位很实事求是的人。</span><span class="english">My grandfather was a very down-to-earth man.</span></p>

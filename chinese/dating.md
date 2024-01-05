@@ -1,5 +1,7 @@
 # 打听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dating.md)
+
 <p><span class="chinese">我曾经侧面打听过。</span><span class="english">I have inquired about it.</span></p>
 
 <p><span class="chinese">我觉得你能打听能明白了。</span><span class="english">I think you get the idea.</span></p>

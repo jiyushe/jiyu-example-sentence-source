@@ -1,5 +1,7 @@
 # 可行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kexing_1.md)
+
 <p><span class="chinese">因此这是可行的。</span><span class="english">So that’s feasible.</span></p>
 
 <p><span class="chinese">在某些案例中，我认为是可行的。</span><span class="english">In some cases, I think so.</span></p>

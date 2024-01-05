@@ -1,5 +1,7 @@
 # howbeit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/howbeit.md)
+
 <p><span class="chinese">只是我们必要撞在一个岛上。</span><span class="english">Howbeit we must be cast upon a certain island.</span></p>
 
 <p><span class="chinese">只是没有人明明的讲论他，因为怕犹太人。</span><span class="english">Howbeit no man spake openly of him for fear of the Jews.</span></p>

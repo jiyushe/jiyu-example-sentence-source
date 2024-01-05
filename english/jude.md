@@ -1,5 +1,7 @@
 # jude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jude.md)
+
 <p><span class="chinese">裘德洛与杰克布莱克饰演两位男主角。</span><span class="english">Jude Law and Jack Black co-star.</span></p>
 
 <p><span class="chinese">举下手,让裘德拍一下</span><span class="english">Raise your hands. Let Jude see it.</span></p>

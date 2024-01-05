@@ -1,5 +1,7 @@
 # sandro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandro.md)
+
 <p><span class="chinese">克劳迪娅接受了桑德罗作为她的情人。</span><span class="english">Claudia accepts Sandro as her lover.</span></p>
 
 <p><span class="chinese">这是桑德罗和加布埃拉的第二个儿子。</span><span class="english">He's the second son of Sandro and Gabriela.</span></p>

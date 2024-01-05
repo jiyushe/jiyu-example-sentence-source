@@ -1,5 +1,7 @@
 # 组件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zujian.md)
+
 <p><span class="chinese">重新签署组件。</span><span class="english">Re-sign the assembly.</span></p>
 
 <p><span class="chinese">基于组件的设计。</span><span class="english">Component-based design.</span></p>

@@ -1,5 +1,7 @@
 # coacervation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coacervation.md)
+
 <p><span class="chinese">制备壳聚糖-免疫核糖核酸纳米粒采用复凝聚方法。</span><span class="english">Chitosan-iRNA nanoparticles were prepared by complex coacervation method.</span></p>
 
 <p><span class="chinese">本文研究了以明胶—阿拉伯树胶为囊壁的复凝聚法微胶囊化工艺。</span><span class="english">The process for microencapsulation based on complex coacervation of gelatin-acacia has been investigated.</span></p>

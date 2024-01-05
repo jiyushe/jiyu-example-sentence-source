@@ -1,5 +1,7 @@
 # unmask
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmask.md)
+
 <p><span class="chinese">但是真正的目的是为了理解一瓶酒，而不仅只是拆穿它的真实身份。</span><span class="english">But the real goal is to understand a wine , not to unmask it.</span></p>
 
 <p><span class="chinese">维基解密正在致力于向全世界揭示这个腐败的中央银行体系。</span><span class="english">Wikileaks is also working to unmask this corrupt central-banking system.</span></p>

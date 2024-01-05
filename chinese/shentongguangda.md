@@ -1,5 +1,7 @@
 # 神通广大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shentongguangda.md)
+
 <p><span class="chinese">“人”形的造型，寓意水路两栖，神通广大。</span><span class="english">"Human"-shaped form, symbolizes amphibious, resourceful.</span></p>
 
 <p><span class="chinese">我不再是知道那个神通广大的露西了。</span><span class="english">I was no longer Lucy who knew what was best for everyone else.</span></p>

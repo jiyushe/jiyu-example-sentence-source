@@ -1,5 +1,7 @@
 # font
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/font.md)
+
 <p><span class="chinese">什么是字体大小？</span><span class="english">What's the font size?</span></p>
 
 <p><span class="chinese">30号字体？</span><span class="english">Thirty-point font size?</span></p>

@@ -1,5 +1,7 @@
 # 替身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tishen_1.md)
+
 <p><span class="chinese">他是一个特技替身演员?。</span><span class="english">He was a stuntman?</span></p>
 
 <p><span class="chinese">他过去一直在给明星做替身。</span><span class="english">He used to stand in for the star.</span></p>

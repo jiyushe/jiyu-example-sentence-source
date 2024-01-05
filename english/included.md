@@ -1,5 +1,7 @@
 # included
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/included.md)
+
 <p><span class="chinese">下装不包括在内。</span><span class="english">Bottoms not included.</span></p>
 
 <p><span class="chinese">文章也收录。</span><span class="english">Article also included.</span></p>

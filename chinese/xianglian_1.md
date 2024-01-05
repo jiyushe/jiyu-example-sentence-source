@@ -1,5 +1,7 @@
 # 相连
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianglian_1.md)
+
 <p><span class="chinese">听听家学他相连工作了三天。</span><span class="english">He works three day on end.</span></p>
 
 <p><span class="chinese">并且与保险业密切相连</span><span class="english">to become insurance-related.</span></p>

@@ -1,5 +1,7 @@
 # phenylalanine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenylalanine.md)
+
 <p><span class="chinese">标记的莽草酸迅速地转变成苯丙氨酸。</span><span class="english">Labelled shikimic acid is reality converted to phenylalanine.</span></p>
 
 <p><span class="chinese">第四章研究苯丙氨酸人工合成及拆分。</span><span class="english">Chapter Four is on the synthesis and resolution of phenylalanine.</span></p>

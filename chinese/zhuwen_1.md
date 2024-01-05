@@ -1,5 +1,7 @@
 # 朱文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuwen_1.md)
+
 <p><span class="chinese">健全的精神，寓于健全的体格。——朱文奴。</span><span class="english">Sound spirit, in a sound body.</span></p>
 
 <p><span class="chinese">至六朝，印章始刻朱文。</span><span class="english">To the Six Dynasties, Zhu engraved seal before.</span></p>

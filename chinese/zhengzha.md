@@ -1,5 +1,7 @@
 # 挣扎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzha.md)
+
 <p><span class="chinese">他们挣扎。</span><span class="english">They struggle.</span></p>
 
 <p><span class="chinese">他挣扎着要逃脱。</span><span class="english">He struggled to get free.</span></p>

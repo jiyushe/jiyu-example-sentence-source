@@ -1,5 +1,7 @@
 # 没关系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiguanxi.md)
+
 <p><span class="chinese">没关系，老阿妈说到。</span><span class="english">No matter, she said.</span></p>
 
 <p><span class="chinese">啊，没关系，请问吧。</span><span class="english">Ah,never mind, please.</span></p>

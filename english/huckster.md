@@ -1,5 +1,7 @@
 # huckster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huckster.md)
+
 <p><span class="chinese">我们的还价是有道理的。</span><span class="english">It is with reason to huckster.</span></p>
 
 <p><span class="chinese">他们企图强行向我推销红色短袜。</span><span class="english">They tried to huckster red socks to me.</span></p>

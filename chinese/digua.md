@@ -1,5 +1,7 @@
 # 地瓜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/digua.md)
+
 <p><span class="chinese">你是说你不喜欢地瓜泥吗？</span><span class="english">You said you don't like yams?</span></p>
 
 <p><span class="chinese">我把地瓜园围起来。</span><span class="english">I surrounded the sweet potato field.</span></p>

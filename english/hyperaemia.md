@@ -1,5 +1,7 @@
 # hyperaemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperaemia.md)
+
 <p><span class="chinese">眼睛充血·怎么办？不知道到底是什么？</span><span class="english">How does eye hyperaemia · do? What is knowing after all?</span></p>
 
 <p><span class="chinese">急性期病人颜面充血呈樱桃红色。</span><span class="english">Hyperaemia of face of acute period patient shows cherry red.</span></p>

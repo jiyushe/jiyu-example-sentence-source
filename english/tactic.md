@@ -1,5 +1,7 @@
 # tactic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tactic.md)
+
 <p><span class="chinese">这是一种典型的转移注意力的做法。</span><span class="english">It's a classic diversionary tactic.</span></p>
 
 <p><span class="chinese">恐惧并不总是一种消极策略。</span><span class="english">Fear is not always a negative tactic.</span></p>

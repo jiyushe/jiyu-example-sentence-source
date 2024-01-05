@@ -1,5 +1,7 @@
 # whoops
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whoops.md)
+
 <p><span class="chinese">让我们看看结果是怎么样的。</span><span class="english">It's kind of interesting. Whoops.</span></p>
 
 <p><span class="chinese">它还告诉我这个数组是回文的？</span><span class="english">And now let's do one, a, two. Whoops.</span></p>

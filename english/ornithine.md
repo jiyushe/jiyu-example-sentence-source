@@ -1,5 +1,7 @@
 # ornithine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ornithine.md)
+
 <p><span class="chinese">L-鸟氨酸是人体代谢中必不可少的中间代谢产物，一种非蛋白质氨基酸。</span><span class="english">L- ornithine is a kind of middle metabolizing production, which is not make of protein.</span></p>
 
 <p><span class="chinese">从患者的尿中排出大量的胱氨酸，精氨酸。</span><span class="english">Large amount of cystine as well as arginine lysine and ornithine are excreted in the urine.</span></p>

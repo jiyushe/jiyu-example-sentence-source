@@ -1,5 +1,7 @@
 # ferroelectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferroelectric.md)
+
 <p><span class="chinese">钛酸钡就是一种典型的位移型铁电体。</span><span class="english">Barium titanate is a typical ferroelectric substance.</span></p>
 
 <p><span class="chinese">该双层膜有良好的铁电性能。</span><span class="english">The film exhibits excellent ferroelectric properties.</span></p>

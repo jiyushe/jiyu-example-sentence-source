@@ -1,5 +1,7 @@
 # protamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protamine.md)
+
 <p><span class="chinese">并对制备该抗血清的意义予以讨论。</span><span class="english">The significance of antisera against protamine was discussed.</span></p>
 
 <p><span class="chinese">鱼精蛋白是一种多聚阳离子天然肽类，它是一种碱性蛋白质。</span><span class="english">Protamine is a kind of natural peptide with polypositive ion, and is a kind of basic protein.</span></p>

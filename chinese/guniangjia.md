@@ -1,5 +1,7 @@
 # 姑娘家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guniangjia.md)
+
 <p><span class="chinese">一个姑娘家就是会脸红呀。</span><span class="english">A girl has to be shy sometimes.</span></p>
 
 <p><span class="chinese">姑娘家一定要守信用。</span><span class="english">Girls must keep their promises.</span></p>

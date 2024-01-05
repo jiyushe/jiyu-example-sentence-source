@@ -1,5 +1,7 @@
 # 急中生智
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhongshengzhi.md)
+
 <p><span class="chinese">狡猾的狐狸急中生智，装出一副神圣不可侵犯的样子。</span><span class="english">The fox was very quick-witted and pretended to be sacrosanct.</span></p>
 
 <p><span class="chinese">但马上急中生智，一个主意跳出了她快速转动的脑海。</span><span class="english">Then suddenly, an idea came into her racing, terrified brain.</span></p>

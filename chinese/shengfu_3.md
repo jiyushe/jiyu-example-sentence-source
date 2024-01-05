@@ -1,5 +1,7 @@
 # 胜负
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengfu_3.md)
+
 <p><span class="chinese">胜负全在你手上。</span><span class="english">It's in you hands.</span></p>
 
 <p><span class="chinese">那两队不分胜负。</span><span class="english">The two teams tied.</span></p>

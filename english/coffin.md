@@ -1,5 +1,7 @@
 # coffin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coffin.md)
+
 <p><span class="chinese">什么棺材？</span><span class="english">What coffin?</span></p>
 
 <p><span class="chinese">面包片的形状看起来像棺材。</span><span class="english">The bread looks like a coffin.</span></p>

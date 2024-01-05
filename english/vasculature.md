@@ -1,5 +1,7 @@
 # vasculature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasculature.md)
+
 <p><span class="chinese">同时评估旁中心凹区域的视网膜脉管系统。</span><span class="english">The retinal vasculature in the parafoveal region was assessed.</span></p>
 
 <p><span class="chinese">然而．在脉管系统外。该通道开放又可减轻细胞损伤。</span><span class="english">However, channel opening may protect cells from damage outside the vasculature.</span></p>

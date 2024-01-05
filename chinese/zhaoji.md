@@ -1,5 +1,7 @@
 # 召集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoji.md)
+
 <p><span class="chinese">他吹哨子召集全体海员到甲板上。</span><span class="english">He piped  all hands on deck.</span></p>
 
 <p><span class="chinese">士兵召集在一起。</span><span class="english">He mustered all his soldiers.</span></p>

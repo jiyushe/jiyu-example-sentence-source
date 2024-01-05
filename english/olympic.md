@@ -1,5 +1,7 @@
 # olympic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olympic.md)
+
 <p><span class="chinese">奥林匹克争先赛是一种团体赛。</span><span class="english">Olympic sprint is a team race.</span></p>
 
 <p><span class="chinese">奥运主火炬手是谁？</span><span class="english">Who are the main Olympic torch ?</span></p>

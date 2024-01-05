@@ -1,5 +1,7 @@
 # tache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tache.md)
+
 <p><span class="chinese">速度检测是电机信号检测的重要一环。</span><span class="english">Speed measure is an important tache of motor signal detect.</span></p>
 
 <p><span class="chinese">船员跟踪管理是船员管理中的一个重要环节。</span><span class="english">Crew tracking management is an important tache in crew management.</span></p>

@@ -1,5 +1,7 @@
 # jehoshaphat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jehoshaphat.md)
+
 <p><span class="chinese">这都是犹大王约沙法的儿子。</span><span class="english">All these were sons of Jehoshaphat king of Israel.</span></p>
 
 <p><span class="chinese">这样，宁示的孙子，约沙法的儿子耶户背叛约兰。</span><span class="english">So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram.</span></p>

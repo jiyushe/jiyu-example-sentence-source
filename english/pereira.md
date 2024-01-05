@@ -1,5 +1,7 @@
 # pereira
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pereira.md)
+
 <p><span class="chinese">Pereira说这是一个可以普遍应用的研究结果。</span><span class="english">Pereira said he believed the findings would apply elsewhere.</span></p>
 
 <p><span class="chinese">本文的要旨即在于梳理这部分有关徐日升的中文文献。</span><span class="english">The aim of this paper is to sort out these records regarding Tomás Pereira.</span></p>

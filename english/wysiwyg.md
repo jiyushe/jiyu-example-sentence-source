@@ -1,5 +1,7 @@
 # wysiwyg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wysiwyg.md)
+
 <p><span class="chinese">全所见即所得模式-你看到的是什么你。</span><span class="english">Full WYSIWYG mode – What You See Is What You Get.</span></p>
 
 <p><span class="chinese">为什么，在我年轻时，我们没有优秀的所见即所得编辑器。</span><span class="english">Why, when I was just a lad, we didn't have fancy WYSIWYG editors.</span></p>

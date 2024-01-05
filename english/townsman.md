@@ -1,5 +1,7 @@
 # townsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/townsman.md)
+
 <p><span class="chinese">老乡是朋友，同事一样是朋友。</span><span class="english">Fellow- townsman are friends and colleagues are friends.</span></p>
 
 <p><span class="chinese">“要是他还活着，是该由他来办的，”那镇上人附和着说。</span><span class="english">"It behooves him well, if he be still in life," responded the townsman.</span></p>

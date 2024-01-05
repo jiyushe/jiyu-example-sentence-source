@@ -1,5 +1,7 @@
 # 木已成舟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muyichengzhou.md)
+
 <p><span class="chinese">但是现在木已成舟。</span><span class="english">But we are where we are.</span></p>
 
 <p><span class="chinese">木已成舟。</span><span class="english">That what's done is done.</span></p>

@@ -1,5 +1,7 @@
 # exhibitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhibitor.md)
+
 <p><span class="chinese">展览者说。</span><span class="english">Exhibitor said.</span></p>
 
 <p><span class="chinese">你会随中国参展团出发吗？</span><span class="english">Will you join the Chinese exhibitor group?</span></p>

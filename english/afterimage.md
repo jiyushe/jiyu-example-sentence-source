@@ -1,5 +1,7 @@
 # afterimage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterimage.md)
+
 <p><span class="chinese">每个梦都是女人离去的余影。</span><span class="english">Each dream is an afterimage of a women leaving.</span></p>
 
 <p><span class="chinese">这就是我的心镜中照出的清代残影。</span><span class="english">This is the afterimage of Qing dynasty reflected in my mirror.</span></p>

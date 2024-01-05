@@ -1,5 +1,7 @@
 # 空壳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongke.md)
+
 <p><span class="chinese">没人喜欢跟一副空壳打交道。</span><span class="english">No one wants to deal with a façade.</span></p>
 
 <p><span class="chinese">他先将奶油酥空壳缝合在一起，但是做出来的裙子跨掉了。</span><span class="english">At first, he sewed empty cream puffs together, but the dress collapsed.</span></p>

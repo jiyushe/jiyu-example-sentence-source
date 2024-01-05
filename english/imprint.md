@@ -1,5 +1,7 @@
 # imprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imprint.md)
+
 <p><span class="chinese">他站起来在文件上盖个章。</span><span class="english">He stands up to imprint a paper with a seal.</span></p>
 
 <p><span class="chinese">能逃脱生命印记的只是极少数。</span><span class="english">Only very little could escape life's imprint.</span></p>

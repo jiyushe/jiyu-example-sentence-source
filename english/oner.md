@@ -1,5 +1,7 @@
 # oner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oner.md)
+
 <p><span class="chinese">好名声得之难，失之易。</span><span class="english">A good name is so oner lost than won.</span></p>
 
 <p><span class="chinese">他猛击那窃贼的头部。</span><span class="english">He gave the thief a oner on the head.</span></p>

@@ -1,5 +1,7 @@
 # 双边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangbian.md)
+
 <p><span class="chinese">单边还是双边的，先生？</span><span class="english">Single or double-edged, sir?</span></p>
 
 <p><span class="chinese">双边地的最小膝流出物。</span><span class="english">Minimal knee effusion bilaterally.</span></p>

@@ -1,5 +1,7 @@
 # vena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vena.md)
+
 <p><span class="chinese">有效改善静脉曲张。</span><span class="english">Good at restrain vena swell.</span></p>
 
 <p><span class="chinese">其余患者穿刺均顺利到达上腔静脉。</span><span class="english">The rest of the patients are well to puncture the vena cava.</span></p>

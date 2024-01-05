@@ -1,5 +1,7 @@
 # caucasus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caucasus.md)
+
 <p><span class="chinese">高加索的叛匪死了，他的恐怖事业也会终结。</span><span class="english">Caucasus Renegade Dies, and His Cause May Die, Too.</span></p>
 
 <p><span class="chinese">北高加索共和国地区的冲突硝烟又起。</span><span class="english">Conflicts in its north Caucasus republics have flared again.</span></p>

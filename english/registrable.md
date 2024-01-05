@@ -1,5 +1,7 @@
 # registrable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/registrable.md)
+
 <p><span class="chinese">服务商标注册。</span><span class="english">Service marks are registrable.</span></p>
 
 <p><span class="chinese">政府是该船舶的船东。</span><span class="english">Subject to this Part, a Government ship is registrable.</span></p>

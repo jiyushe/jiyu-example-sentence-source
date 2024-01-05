@@ -1,5 +1,7 @@
 # sweden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweden.md)
+
 <p><span class="chinese">瑞典3-2阿根廷。</span><span class="english">Sweden 3-2</span></p>
 
 <p><span class="chinese">我认为是瑞典。</span><span class="english">I think Sweden.</span></p>

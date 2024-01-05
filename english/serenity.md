@@ -1,5 +1,7 @@
 # serenity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serenity.md)
+
 <p><span class="chinese">然而，宁静并未持续很久。</span><span class="english">This serenity doesn't last long.</span></p>
 
 <p><span class="chinese">因杜拉因散发着宁静的气质。</span><span class="english">She smiles often and emanates serenity.</span></p>

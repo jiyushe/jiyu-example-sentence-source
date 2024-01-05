@@ -1,5 +1,7 @@
 # 星子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzi_1.md)
+
 <p><span class="chinese">说话的时候，别把唾沫星子喷出来。</span><span class="english">Don't sputter when you speak.</span></p>
 
 <p><span class="chinese">于是星子便将那块黄色的金子给了他。</span><span class="english">Child gave him the piece of yellow gold.</span></p>

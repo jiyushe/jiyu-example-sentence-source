@@ -1,5 +1,7 @@
 # 启事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishi_2.md)
+
 <p><span class="chinese">这则启事通知。</span><span class="english">This not ice apprises.</span></p>
 
 <p><span class="chinese">驯服的公众接受了这个一再被重申的启事。</span><span class="english">Docile, it accepts the reiterated suggestion.</span></p>

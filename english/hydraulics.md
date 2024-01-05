@@ -1,5 +1,7 @@
 # hydraulics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydraulics.md)
+
 <p><span class="chinese">当时的机器人需要用水力来带动</span><span class="english">They were robots powered by hydraulics.</span></p>
 
 <p><span class="chinese">这种分裂合并成为埃尔伍德水力学。</span><span class="english">This division was merged into Elwood Hydraulics.</span></p>

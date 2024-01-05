@@ -1,5 +1,7 @@
 # 铜元
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyuan_1.md)
+
 <p><span class="chinese">母材区除了奥氏体组织外，存在铜元素的扩散。</span><span class="english">Other than austenite, copper element dissolution is found in material.</span></p>
 
 <p><span class="chinese">母材区除了奥氏体组织外，存在铜元素的扩散。</span><span class="english">Other than austenite, copper element dissolution was found in material.</span></p>

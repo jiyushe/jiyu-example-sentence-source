@@ -1,5 +1,7 @@
 # 放生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangsheng.md)
+
 <p><span class="chinese">钓起一条记忆的鱼儿，然后，放生吧。</span><span class="english">Caught a fish and let it go.</span></p>
 
 <p><span class="chinese">他把他的池塘起名为放生池。</span><span class="english">He called his pond the Free Life Pond.</span></p>

@@ -1,5 +1,7 @@
 # 节操
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiecao.md)
+
 <p><span class="chinese">他是节操高尚的人。</span><span class="english">He is a man of high principle.</span></p>
 
 <p><span class="chinese">松树是节操的象征。</span><span class="english">The pine is a badge of constancy.</span></p>

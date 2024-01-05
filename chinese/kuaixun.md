@@ -1,5 +1,7 @@
 # 快讯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaixun.md)
+
 <p><span class="chinese">人人都有自己名字的谷歌快讯。</span><span class="english">Everybody has a Google alert on their name.</span></p>
 
 <p><span class="chinese">股票快讯另外筛分，分级，选项。</span><span class="english">Stock Alerts Plus Screener, Ratings, Options.</span></p>

@@ -1,5 +1,7 @@
 # carapace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carapace.md)
+
 <p><span class="chinese">因此，他们提出一个黑暗的甲壳。</span><span class="english">Therefore, they present a dark carapace.</span></p>
 
 <p><span class="chinese">这种傲慢态度成了他的保护壳。</span><span class="english">The arrogance became his protective carapace.</span></p>

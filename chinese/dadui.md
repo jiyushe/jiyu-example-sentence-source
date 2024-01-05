@@ -1,5 +1,7 @@
 # 大队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadui.md)
+
 <p><span class="chinese">我马上打电话给除虫大队。</span><span class="english">I'll call the exterminators right away.</span></p>
 
 <p><span class="chinese">我还竞选大队委了呢！</span><span class="english">I also campaigned for the production brigade to entrust!</span></p>

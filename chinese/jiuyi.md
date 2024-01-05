@@ -1,5 +1,7 @@
 # 久已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuyi.md)
+
 <p><span class="chinese">我重新哭泣爱情久已过去的哀愁。</span><span class="english">And weep afresh love's long since cancell'd woe.</span></p>
 
 <p><span class="chinese">这个湖泊久已成为一个风景区。</span><span class="english">This lake has been a scenic spot for a long time.</span></p>

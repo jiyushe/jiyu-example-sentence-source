@@ -1,5 +1,7 @@
 # 没命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiming.md)
+
 <p><span class="chinese">他身上被打中了几枪，差一点就没命了。</span><span class="english">He was hit by several bullets, and almost died.</span></p>
 
 <p><span class="chinese">如果当时他们放弃了搜寻，那么我就没命了。</span><span class="english">If they had given up searching, I would have died.</span></p>

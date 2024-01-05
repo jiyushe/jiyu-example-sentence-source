@@ -1,5 +1,7 @@
 # 工具钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjugang.md)
+
 <p><span class="chinese">淬硬工具钢。</span><span class="english">Hardened tool steel.</span></p>
 
 <p><span class="chinese">天平是用工具钢制成的。</span><span class="english">This balance is made of tool steel.</span></p>

@@ -1,5 +1,7 @@
 # kike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kike.md)
+
 <p><span class="chinese">你喜欢这个颜色吗？</span><span class="english">Do you kike this colour?</span></p>
 
 <p><span class="chinese">你看起来好像是度过了很不愉快的一天。</span><span class="english">You look kike you're having a bad day.</span></p>

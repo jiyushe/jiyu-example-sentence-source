@@ -1,5 +1,7 @@
 # bronchial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronchial.md)
+
 <p><span class="chinese">她患有支气管哮喘。</span><span class="english">She suffers from bronchial asthma.</span></p>
 
 <p><span class="chinese">洋葱对支气管的收缩有很大的帮助。</span><span class="english">Eating onions helps ease constriction of bronchial tubes.</span></p>

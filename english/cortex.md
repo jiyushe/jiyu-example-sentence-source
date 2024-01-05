@@ -1,5 +1,7 @@
 # cortex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cortex.md)
+
 <p><span class="chinese">现在再说大脑皮层。</span><span class="english">And now the cortex.</span></p>
 
 <p><span class="chinese">他们位于大脑皮层的下面</span><span class="english">They're underneath the cortex.</span></p>

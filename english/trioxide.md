@@ -1,5 +1,7 @@
 # trioxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trioxide.md)
+
 <p><span class="chinese">三氧化硫在硫磺酸里的吸收。</span><span class="english">Absorption of sulfur trioxide in sulfuric acid.</span></p>
 
 <p><span class="chinese">二氧化硫转化成三氧化硫。</span><span class="english">Conversion of sulfur dioxide to sulfur trioxide.</span></p>

@@ -1,5 +1,7 @@
 # 今儿个
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinerge.md)
+
 <p><span class="chinese">今儿个凤儿尽吹，爱人。</span><span class="english">The wind doth blow today, my love.</span></p>
 
 <p><span class="chinese">“他们今儿个输了，”孩子告诉他。</span><span class="english">They lost today" the boy told him."</span></p>

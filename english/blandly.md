@@ -1,5 +1,7 @@
 # blandly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blandly.md)
+
 <p><span class="chinese">“杜洛埃先生在家吗？”赫斯渥和悦地说。</span><span class="english">"Is Mr. Drouet in?" said Hurstwood blandly.</span></p>
 
 <p><span class="chinese">佛祖温和地笑了，说，“你们不能和彼此在一起。</span><span class="english">The Buddha smiles blandly and says, "You can't live with each other.</span></p>

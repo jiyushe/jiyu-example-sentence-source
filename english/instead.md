@@ -1,5 +1,7 @@
 # instead 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instead.md)
+
 <p><span class="chinese">请用抹布代替。</span><span class="english">Use wipes instead.</span></p>
 
 <p><span class="chinese">我改为选择了220。</span><span class="english">I chose 220 instead.</span></p>

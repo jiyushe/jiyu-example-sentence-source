@@ -1,5 +1,7 @@
 # startle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/startle.md)
+
 <p><span class="chinese">鹿很容易受到惊吓。</span><span class="english">The deer startle easily.</span></p>
 
 <p><span class="chinese">嘘，小声点儿。别吓着它们。</span><span class="english">Sh, be quiet. Don't startle them.</span></p>

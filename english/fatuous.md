@@ -1,5 +1,7 @@
 # fatuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatuous.md)
+
 <p><span class="chinese">这就是愚蠢式爱情。</span><span class="english">That's fatuous love.</span></p>
 
 <p><span class="chinese">多么愚蠢的一个人。</span><span class="english">What a fatuous people.</span></p>

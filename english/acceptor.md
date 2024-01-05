@@ -1,5 +1,7 @@
 # acceptor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acceptor.md)
+
 <p><span class="chinese">电子商业汇票的付款人为承兑人。</span><span class="english">The payer of an ECD shall be the acceptor.</span></p>
 
 <p><span class="chinese">我们需要一个电子供体和电子受体。</span><span class="english">You need a donor and you need an acceptor.</span></p>

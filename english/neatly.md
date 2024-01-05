@@ -1,5 +1,7 @@
 # neatly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neatly.md)
+
 <p><span class="chinese">他总是穿戴整齐。</span><span class="english">He always dresses neatly.</span></p>
 
 <p><span class="chinese">他不久前刚侥幸脱险。</span><span class="english">He had just escaped neatly.</span></p>

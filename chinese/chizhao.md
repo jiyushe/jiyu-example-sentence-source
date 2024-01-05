@@ -1,5 +1,7 @@
 # 池沼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chizhao.md)
+
 <p><span class="chinese">谁会在乎泥水池沼在想什么呢？</span><span class="english">So who cares what the bog thinks?</span></p>
 
 <p><span class="chinese">留与你双眼的是两潭幽深池沼...</span><span class="english">And it leaves two dark pools in your eyes.</span></p>

@@ -1,5 +1,7 @@
 # 自由王国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyouwangguo.md)
+
 <p><span class="chinese">唐娜陶醉在她新发现的自由王国里。</span><span class="english">Dona was rejoicing in her new-found freedom.</span></p>
 
 <p><span class="chinese">在通往自由王国的路上，有些事情看起来好像已经到达终点。</span><span class="english">Something approaching the realm of freedom seemed to have arrived.</span></p>

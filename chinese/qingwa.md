@@ -1,5 +1,7 @@
 # 青蛙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingwa.md)
+
 <p><span class="chinese">毕比遇见一只青蛙。</span><span class="english">BeeBee meets a frog.</span></p>
 
 <p><span class="chinese">那青蛙更丑。</span><span class="english">That frog is uglier.</span></p>

@@ -1,5 +1,7 @@
 # ethnocentrism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnocentrism.md)
+
 <p><span class="chinese">这并且是民族优越感的标志。</span><span class="english">It is also a sign of ethnocentrism.</span></p>
 
 <p><span class="chinese">最近，我又一次想到了民族优越感这个问题。</span><span class="english">Recently, I was reminded of this problem of ethnocentrism.</span></p>

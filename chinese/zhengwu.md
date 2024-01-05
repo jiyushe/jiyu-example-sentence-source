@@ -1,5 +1,7 @@
 # 政务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengwu.md)
+
 <p><span class="chinese">查看全部6号线政务视频教程。</span><span class="english">See all Line 6 CS video tutorials.</span></p>
 
 <p><span class="chinese">这种情况也同样适用于电子政务。</span><span class="english">This applies to e-government as well.</span></p>

@@ -1,5 +1,7 @@
 # aminophenol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aminophenol.md)
+
 <p><span class="chinese">主要用作营养增补剂，可做氨基酸输液、综合氨基酸制剂的主要成份。</span><span class="english">It also can be used as the main component of aminophenol transfusion and synthesize aminophenol.</span></p>
 
 <p><span class="chinese">蜜蜂幼虫中含有16种以上的氨基酸，尤以赖氨酸、谷氨酸含量最高。</span><span class="english">Bee larva contains more than 16 kinds of aminophenol with highest content of lysine and glutamic acid.</span></p>

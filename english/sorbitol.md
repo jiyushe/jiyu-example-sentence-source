@@ -1,5 +1,7 @@
 # sorbitol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorbitol.md)
+
 <p><span class="chinese">山梨醇有一非常奇怪的性质。</span><span class="english">Sorbitol has one very odd property.</span></p>
 
 <p><span class="chinese">山梨醇氧化酶则氧化山梨醇转化为葡萄糖。</span><span class="english">Sorbitol oxidase oxidizes sorbitol to convert it into glucose.</span></p>

@@ -1,5 +1,7 @@
 # arachne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arachne.md)
+
 <p><span class="chinese">这回何瑞克宁大吃一惊，但是已经太迟了。</span><span class="english">Arachne was frightened now, but it was too late.</span></p>
 
 <p><span class="chinese">结果，何瑞克宁缩小变成和人的拇指一般大的微小生物。</span><span class="english">Then Arachne shrank to a little creature no larger than one's thumb.</span></p>

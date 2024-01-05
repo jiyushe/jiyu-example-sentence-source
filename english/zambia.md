@@ -1,5 +1,7 @@
 # zambia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zambia.md)
+
 <p><span class="chinese">我看到赞比亚的未来。</span><span class="english">I see the future of Zambia.</span></p>
 
 <p><span class="chinese">有多达一万人向北逃到了赞比亚。</span><span class="english">As many as 10,000 fled north to Zambia.</span></p>

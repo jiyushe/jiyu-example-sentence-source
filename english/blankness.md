@@ -1,5 +1,7 @@
 # blankness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blankness.md)
+
 <p><span class="chinese">以后你还会给我同样的空白吗？</span><span class="english">Will you give me the same blankness in later?</span></p>
 
 <p><span class="chinese">刚才的音乐只给她留下一份戚然和空虚。</span><span class="english">The music left only this bad hurt in her and a blankness.</span></p>

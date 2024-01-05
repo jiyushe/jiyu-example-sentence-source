@@ -1,5 +1,7 @@
 # 囚徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiutu.md)
+
 <p><span class="chinese">或者是它们不能饶恕的囚徒？</span><span class="english">Or their unforgiven prisoner?</span></p>
 
 <p><span class="chinese">注意一下,囚徒是复数形式</span><span class="english">Notice, it's Prisoners, plural.</span></p>

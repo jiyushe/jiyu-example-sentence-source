@@ -1,5 +1,7 @@
 # rustic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rustic.md)
+
 <p><span class="chinese">龙甲村的青石小径。</span><span class="english">A rustic path in Longjia village.</span></p>
 
 <p><span class="chinese">好主意，我喜欢乡村风格的。</span><span class="english">Good idea. I like a rustic style.</span></p>

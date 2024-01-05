@@ -1,5 +1,7 @@
 # 不胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/busheng.md)
+
 <p><span class="chinese">版面编排，将不胜感激。</span><span class="english">Mockups will be appreciated.</span></p>
 
 <p><span class="chinese">你光临本店我们不胜荣幸。</span><span class="english">We're very glad to have you here.</span></p>

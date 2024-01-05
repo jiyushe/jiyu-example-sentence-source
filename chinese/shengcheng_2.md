@@ -1,5 +1,7 @@
 # 生成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengcheng_2.md)
+
 <p><span class="chinese">您要测试或生成的文件。</span><span class="english">What you test or generate.</span></p>
 
 <p><span class="chinese">这生成一个类文件。</span><span class="english">This generates a class file.</span></p>

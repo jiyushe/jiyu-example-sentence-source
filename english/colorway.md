@@ -1,5 +1,7 @@
 # colorway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorway.md)
+
 <p><span class="chinese">配色是干净的，类似Scandi。</span><span class="english">The colorway was clean and Scandi.</span></p>
 
 <p><span class="chinese">云彩的变动是魔幻时刻中最动人的地方。</span><span class="english">Every changing colorway is the most beautiful part of the magic hour.</span></p>

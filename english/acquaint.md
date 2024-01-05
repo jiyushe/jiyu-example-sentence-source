@@ -1,5 +1,7 @@
 # acquaint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquaint.md)
+
 <p><span class="chinese">你必须熟悉你的新职责。</span><span class="english">You must acquaint with your new duties.</span></p>
 
 <p><span class="chinese">旅游会使我们熟悉新的风俗习惯。</span><span class="english">Travel will acquaint us with new customs.</span></p>

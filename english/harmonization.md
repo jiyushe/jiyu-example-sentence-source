@@ -1,5 +1,7 @@
 # harmonization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harmonization.md)
+
 <p><span class="chinese">校准和协调真正意味着什么？</span><span class="english">What do alignment and harmonization really mean?</span></p>
 
 <p><span class="chinese">评估每个相关数据元素的一致性和协调性需求。</span><span class="english">Assess alignment and harmonization requirements for each relevant data element.</span></p>

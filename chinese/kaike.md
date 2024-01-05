@@ -1,5 +1,7 @@
 # 开课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaike.md)
+
 <p><span class="chinese">一些学校也重新开课了，尽管一些学校建筑都倒塌了，但还是在帐篷里开始了上课。</span><span class="english">collapsed lessons have had to be held in tents.</span></p>
 
 <p><span class="chinese">何嘉仁明天新班就要开课了！</span><span class="english">The new class in Hess will get started tomorrow!</span></p>

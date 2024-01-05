@@ -1,5 +1,7 @@
 # 三六九等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanliujiudeng.md)
+
 <p><span class="chinese">欧洲的吉普赛人与其他族群一样也分三六九等。</span><span class="english">Romanies in Europe, like any other ethnic group, are no monolith.</span></p>
 
 <p><span class="chinese">其实跟大多数人想象的不同，这些为小俱乐部如朴茨茅斯这样球队踢球的球员挣的钱并不多，而且球队内部球员也分三六九等。</span><span class="english">Contrary to what most people assume, all the players at a club like Portsmouth are not on big money.</span></p>

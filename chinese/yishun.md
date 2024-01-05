@@ -1,5 +1,7 @@
 # 一瞬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishun.md)
+
 <p><span class="chinese">十年光阴，一瞬即逝。</span><span class="english">Ten years passes in a flash.</span></p>
 
 <p><span class="chinese">那一瞬，我飞升成仙。</span><span class="english">At that moment, I became an immortal.</span></p>

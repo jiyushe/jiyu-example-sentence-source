@@ -1,5 +1,7 @@
 # 红光满面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongguangmanmian.md)
+
 <p><span class="chinese">那个商人最近红光满面。</span><span class="english">That businessman is in red recently.</span></p>
 
 <p><span class="chinese">那我怎么看见一位绅士红光满面呢？</span><span class="english">If ever I saw a gentleman in the pink?</span></p>

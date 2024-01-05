@@ -1,5 +1,7 @@
 # 免除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianchu.md)
+
 <p><span class="chinese">我恳求免除分派的那个任务。</span><span class="english">I begged off that assignment.</span></p>
 
 <p><span class="chinese">你能免除我的债务吗?</span><span class="english">Will you forgive me the debt?</span></p>

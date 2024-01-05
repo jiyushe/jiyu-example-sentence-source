@@ -1,5 +1,7 @@
 # 壁垒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bilei.md)
+
 <p><span class="chinese">我记得岸上的壁垒。</span><span class="english">I remember the bulwarks by the shore.</span></p>
 
 <p><span class="chinese">我们需要减轻南南贸易的壁垒。</span><span class="english">We need lower barriers to South-South trade.</span></p>

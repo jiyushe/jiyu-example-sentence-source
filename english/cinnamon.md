@@ -1,5 +1,7 @@
 # cinnamon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinnamon.md)
+
 <p><span class="chinese">我们没有桂皮粉了。</span><span class="english">We don't have any cinnamon.</span></p>
 
 <p><span class="chinese">很酥，也有很多的肉桂。</span><span class="english">Nice crunch, lots of cinnamon.</span></p>

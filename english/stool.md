@@ -1,5 +1,7 @@
 # stool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stool.md)
+
 <p><span class="chinese">把那个方凳拿来。</span><span class="english">Bring me that stool.</span></p>
 
 <p><span class="chinese">我回到丁我的矮凳上。</span><span class="english">I returned to my stool.</span></p>

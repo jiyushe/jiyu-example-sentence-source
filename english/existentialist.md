@@ -1,5 +1,7 @@
 # existentialist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/existentialist.md)
+
 <p><span class="chinese">他说的东西几乎像是20世纪的存在主义者。</span><span class="english">He says almost like a 20th century existentialist.</span></p>
 
 <p><span class="chinese">存在主义者不相信激情的力量。</span><span class="english">The existentialist does not believe in the power of passion.</span></p>

@@ -1,5 +1,7 @@
 # interstate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interstate.md)
+
 <p><span class="chinese">沿州级公路向北到7号出囗。</span><span class="english">Take the interstate north to Exit 7.</span></p>
 
 <p><span class="chinese">我们仍然在去州际公路的路上吗？</span><span class="english">Are we still on course for the Interstate?</span></p>

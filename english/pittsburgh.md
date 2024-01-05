@@ -1,5 +1,7 @@
 # pittsburgh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pittsburgh.md)
+
 <p><span class="chinese">我来自匹茨堡。</span><span class="english">I'm from Pittsburgh?</span></p>
 
 <p><span class="chinese">在这方面，以匹兹堡作为会议地点适逢其会。</span><span class="english">Pittsburgh was a perfect venue for this work.</span></p>

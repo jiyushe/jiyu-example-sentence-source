@@ -1,5 +1,7 @@
 # inherently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inherently.md)
+
 <p><span class="chinese">从本质上来说，它都具有更强的可分析性。</span><span class="english">It's inherently more analyzable.</span></p>
 
 <p><span class="chinese">为银行打工就一定是罪恶吗？</span><span class="english">Is working for a bank inherently evil?</span></p>

@@ -1,5 +1,7 @@
 # 试射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishe_1.md)
+
 <p><span class="chinese">但是这种导弹从来没有经过试射。</span><span class="english">But, it has never been tested," Elleman said.</span></p>
 
 <p><span class="chinese">5月26日，北韩又试射了2枚导弹。</span><span class="english">On May 26, North Korea test-fired two more missiles.</span></p>

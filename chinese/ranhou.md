@@ -1,5 +1,7 @@
 # 然后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranhou.md)
+
 <p><span class="chinese">然后等待。</span><span class="english">Then wait.</span></p>
 
 <p><span class="chinese">我们显示结果为奇数，然后我们继续。</span><span class="english">Again, wow.</span></p>

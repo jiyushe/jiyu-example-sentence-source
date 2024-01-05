@@ -1,5 +1,7 @@
 # 受益匪浅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyifeiqian.md)
+
 <p><span class="chinese">你的思想也将受益匪浅。</span><span class="english">Your mind will benefit too.</span></p>
 
 <p><span class="chinese">广坊蹬漳读使我受益匪浅。</span><span class="english">I have benefited a lot from reading.</span></p>

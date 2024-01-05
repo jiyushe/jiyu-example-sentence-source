@@ -1,5 +1,7 @@
 # 瑞雪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruixue.md)
+
 <p><span class="chinese">瑞雪脸上又加霜。</span><span class="english">Auspicious snow adds frost in the face.</span></p>
 
 <p><span class="chinese">一场瑞雪能给人们带来新的希望和好的运气。</span><span class="english">A big snow can bring people new hope and good luck.</span></p>

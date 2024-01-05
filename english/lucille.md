@@ -1,5 +1,7 @@
 # lucille
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucille.md)
+
 <p><span class="chinese">今日，露西尔·鲍尔诞辰100周年。</span><span class="english">Lucille Ball would be 100 years old today.</span></p>
 
 <p><span class="chinese">露西尔和我将会很高兴同你们共进晚餐的。</span><span class="english">Any night. Lucille and I'd love to have you.</span></p>

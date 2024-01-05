@@ -1,5 +1,7 @@
 # 后顾之忧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houguzhiyou.md)
+
 <p><span class="chinese">ECMC产品的客户的后顾之忧。</span><span class="english">ECMC products to worry about the customer.</span></p>
 
 <p><span class="chinese">使您对艺嘉的选择毫无后顾之忧。</span><span class="english">Make your choice of Jia Yi nothing to worry about.</span></p>

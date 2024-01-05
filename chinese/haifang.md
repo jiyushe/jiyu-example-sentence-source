@@ -1,5 +1,7 @@
 # 海防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haifang.md)
+
 <p><span class="chinese">敌人的致命处在海防。</span><span class="english">The enemy’s Achilles’ heel was his harbour defense.</span></p>
 
 <p><span class="chinese">为我的祖国增加海防的力量。</span><span class="english">For my country to increase the strength of Haiphong.</span></p>

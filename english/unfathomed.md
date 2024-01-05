@@ -1,5 +1,7 @@
 # unfathomed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfathomed.md)
+
 <p><span class="chinese">遥遥相对的海岸在渊深莫测的泪海之歌里调和它们的呼声。</span><span class="english">The two separated shores mingle their voices in a song of unfathomed tears.</span></p>
 
 <p><span class="chinese">对其结构进行分析，并对模糊控制理论未解决的规则选取问题进行探讨。</span><span class="english">The unfathomed problems of how to optimize the fuzzy rule base are discussed.</span></p>

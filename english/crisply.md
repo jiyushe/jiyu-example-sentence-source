@@ -1,5 +1,7 @@
 # crisply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crisply.md)
+
 <p><span class="chinese">“旧金山加州大学，”一个酥脆的声音回答。</span><span class="english">UCSF, " a voice answered crisply.</span></p>
 
 <p><span class="chinese">对我来说这款电脑性能表现十分优越。</span><span class="english">The computer performed crisply and well for me.</span></p>

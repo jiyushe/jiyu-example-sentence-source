@@ -1,5 +1,7 @@
 # duplicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duplicate.md)
+
 <p><span class="chinese">你能为我配一把钥匙吗?。</span><span class="english">Can you duplicate a key for me?</span></p>
 
 <p><span class="chinese">请照这把钥匙为我配一把。</span><span class="english">Please duplicate this key for me.</span></p>

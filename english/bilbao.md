@@ -1,5 +1,7 @@
 # bilbao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilbao.md)
+
 <p><span class="chinese">毕尔巴鄂将在世博会上展示什么？</span><span class="english">What is Bilbao going to show in the Expo?</span></p>
 
 <p><span class="chinese">我们也必须赞扬毕尔包竞技的表现。</span><span class="english">We must congratulate Bilbao for their performance.</span></p>

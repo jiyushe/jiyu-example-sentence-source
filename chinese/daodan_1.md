@@ -1,5 +1,7 @@
 # 捣蛋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daodan_1.md)
+
 <p><span class="chinese">孩子们还是每天捣蛋。</span><span class="english">Kids misbehave every day.</span></p>
 
 <p><span class="chinese">坏小孩调皮捣蛋。</span><span class="english">The bad child is mischievous.</span></p>

@@ -1,5 +1,7 @@
 # 坟茔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenying.md)
+
 <p><span class="chinese">坟茔中的死鬼，脸色铁青。</span><span class="english">Death grew pale within the grave.</span></p>
 
 <p><span class="chinese">在大海边那座坟茔里。</span><span class="english">In her tomb by the side of the sea.</span></p>

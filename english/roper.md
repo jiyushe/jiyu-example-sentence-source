@@ -1,5 +1,7 @@
 # roper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roper.md)
+
 <p><span class="chinese">我真希望罗拍能来一趟！</span><span class="english">I wish to goodness Roper would come!</span></p>
 
 <p><span class="chinese">谁是世界上最伟大罗珀？</span><span class="english">Who's the greatest roper in the world?</span></p>

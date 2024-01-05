@@ -1,5 +1,7 @@
 # chase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chase.md)
+
 <p><span class="chinese">这回，让他们追着咱吧。</span><span class="english">Let them chase us.</span></p>
 
 <p><span class="chinese">我最喜欢带劲的追踪。</span><span class="english">I love a good chase.</span></p>

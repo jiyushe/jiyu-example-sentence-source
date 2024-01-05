@@ -1,5 +1,7 @@
 # hitherto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hitherto.md)
+
 <p><span class="chinese">他从来还没有遇到过这种夹棍的压榨。</span><span class="english">Never had such pincers seized him hitherto.</span></p>
 
 <p><span class="chinese">迄今为止貌似斯文的争端正在变得尖锐有棱。</span><span class="english">A hitherto polite dispute is acquiring a sharper edge.</span></p>

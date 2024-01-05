@@ -1,5 +1,7 @@
 # corset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corset.md)
+
 <p><span class="chinese">胸衣最早孕育发生于古罗马时期。</span><span class="english">Corset produced in the earliest period of ancient Rome.</span></p>
 
 <p><span class="chinese">我想你的意思是激活腹横肌，即紧身衣肌肉。</span><span class="english">I think you mean to activate the transversus abdominis, ie corset muscles.</span></p>

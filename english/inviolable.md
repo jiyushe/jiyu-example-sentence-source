@@ -1,5 +1,7 @@
 # inviolable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inviolable.md)
+
 <p><span class="chinese">它是神，不可侵犯的神。</span><span class="english">It is a god, and inviolable.</span></p>
 
 <p><span class="chinese">因为法利赛人本来是不可亵渎的。</span><span class="english">For the Pharisees would have been inviolable.</span></p>

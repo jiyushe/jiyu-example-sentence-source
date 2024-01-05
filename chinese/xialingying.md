@@ -1,5 +1,7 @@
 # 夏令营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xialingying.md)
+
 <p><span class="chinese">夏令营？</span><span class="english">Summer camp?</span></p>
 
 <p><span class="chinese">我需要一些钱支付夏令营的费用。</span><span class="english">I need to some money to -summer camp.</span></p>

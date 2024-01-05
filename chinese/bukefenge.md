@@ -1,5 +1,7 @@
 # 不可分割
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukefenge.md)
+
 <p><span class="chinese">残心和舍身不可分割的联系在一起。</span><span class="english">Zanshin and sutemi are inextricably linked.</span></p>
 
 <p><span class="chinese">难道时间不就像爱，是不可分割没有间隙的么？</span><span class="english">And is not time even as love is, undivided and paceless?</span></p>

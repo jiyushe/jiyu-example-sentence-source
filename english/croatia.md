@@ -1,5 +1,7 @@
 # croatia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croatia.md)
+
 <p><span class="chinese">克罗地亚5-0厄瓜多尔。</span><span class="english">Croatia 5-0</span></p>
 
 <p><span class="chinese">森林步道，十六，克罗地亚。</span><span class="english">Forest Trail, Plitvice, Croatia.</span></p>

@@ -1,5 +1,7 @@
 # pakistan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pakistan.md)
+
 <p><span class="chinese">但他给予巴基斯坦的不止于此。</span><span class="english">But he gave Pakistan more.</span></p>
 
 <p><span class="chinese">东南亚的巴基斯坦？</span><span class="english">South-East Asia's Pakistan?</span></p>

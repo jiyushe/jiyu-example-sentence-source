@@ -1,5 +1,7 @@
 # 卖艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maiyi.md)
+
 <p><span class="chinese">鸽子的说话，卖艺人不会唱歌。</span><span class="english">Speaking of doves, buskers cannot sing.</span></p>
 
 <p><span class="chinese">晚上我到火车站外面去卖艺。</span><span class="english">I busk outside a railway station at night.</span></p>

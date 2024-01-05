@@ -1,5 +1,7 @@
 # superphosphate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superphosphate.md)
+
 <p><span class="chinese">这自然是过磷酸骨粉的功效。</span><span class="english">Surely this is due to the superphosphate bone meal.</span></p>
 
 <p><span class="chinese">牛粪、过钙是基质中主要镉污染物质。</span><span class="english">Cattle manure and calcium superphosphate were main polluting material.</span></p>

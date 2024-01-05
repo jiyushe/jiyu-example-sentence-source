@@ -1,5 +1,7 @@
 # lowell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowell.md)
+
 <p><span class="chinese">在洛厄尔，我每个月的房租是400美元。</span><span class="english">My rent in Lowell was 0 dollars a month.</span></p>
 
 <p><span class="chinese">这位画家是实验室的创立者帕西维尔?罗尼尔。</span><span class="english">The artist was the observatory's founder, Percival Lowell.</span></p>

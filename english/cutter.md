@@ -1,5 +1,7 @@
 # cutter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutter.md)
+
 <p><span class="chinese">曲奇饼成形机过程。</span><span class="english">Cookie cutter process.</span></p>
 
 <p><span class="chinese">电线剪剥皮机“，”</span><span class="english">Wire Automatic Cutter.</span></p>

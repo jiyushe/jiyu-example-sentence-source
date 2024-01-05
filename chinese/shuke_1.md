@@ -1,5 +1,7 @@
 # 熟客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuke_1.md)
+
 <p><span class="chinese">你已经有了一长串名单的熟客。</span><span class="english">You’ve built a good list of repeat clients.</span></p>
 
 <p><span class="chinese">你觉得熟客卷的设计风格如何？</span><span class="english">How do you think the style of membership card?</span></p>

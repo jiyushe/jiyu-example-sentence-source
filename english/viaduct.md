@@ -1,5 +1,7 @@
 # viaduct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viaduct.md)
+
 <p><span class="chinese">一趟晚班列车隆隆驶过高架铁路。</span><span class="english">Across the high viaduct rumbles a late train.</span></p>
 
 <p><span class="chinese">广州人民路高架桥是国内第一座高架桥。</span><span class="english">The Renmin Road Viaduct in Guangzhou is the first viaduct in China.</span></p>

@@ -1,5 +1,7 @@
 # 预报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yubao.md)
+
 <p><span class="chinese">乌鸦呱呱叫预报灾难。</span><span class="english">The crow croaked disaster.</span></p>
 
 <p><span class="chinese">杰克是一名天气预报员。</span><span class="english">Jack is a weather forecaster.</span></p>

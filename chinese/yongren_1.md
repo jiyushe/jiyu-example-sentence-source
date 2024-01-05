@@ -1,5 +1,7 @@
 # 庸人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongren_1.md)
+
 <p><span class="chinese">庸人往往是势利鬼。</span><span class="english">The philistine is often a snob.</span></p>
 
 <p><span class="chinese">意思是说庸人多自忧，不要小题大作。</span><span class="english">Don't make much ado about nothing.</span></p>

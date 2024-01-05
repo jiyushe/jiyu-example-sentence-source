@@ -1,5 +1,7 @@
 # 阴谋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinmou.md)
+
 <p><span class="chinese">没有任何阴谋。</span><span class="english">Therewas no conspiracy.</span></p>
 
 <p><span class="chinese">他参与了这个阴谋。</span><span class="english">He fell in for the plot.</span></p>

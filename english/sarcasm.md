@@ -1,5 +1,7 @@
 # sarcasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarcasm.md)
+
 <p><span class="chinese">巨大的讽刺。</span><span class="english">Heavy sarcasm.</span></p>
 
 <p><span class="chinese">谢谢你的讽刺。</span><span class="english">Thanks for your sarcasm.</span></p>

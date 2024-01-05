@@ -1,5 +1,7 @@
 # 指靠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhikao.md)
+
 <p><span class="chinese">你可以指靠我。</span><span class="english">You can count on me.</span></p>
 
 <p><span class="chinese">不过你行的意思可以指靠它句号。</span><span class="english">You can count on him, though.</span></p>

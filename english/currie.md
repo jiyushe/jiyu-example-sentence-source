@@ -1,5 +1,7 @@
 # currie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/currie.md)
+
 <p><span class="chinese">据他的分析，一个原油的“新牛市”很可能已经在存在。</span><span class="english">There is scope for a “new bull market” in oil, Currie said.</span></p>
 
 <p><span class="chinese">谢天谢地，南希·赫恩赖奇和贝蒂·科里留了下来。</span><span class="english">Thank goodness, Nancy Hernreich and Betty Currie were staying.</span></p>

@@ -1,5 +1,7 @@
 # triumphantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triumphantly.md)
+
 <p><span class="chinese">罗伯特正得意扬扬地看着我。</span><span class="english">Robert was looking at me triumphantly.</span></p>
 
 <p><span class="chinese">但罗斯福成功地再次当选。</span><span class="english">But Roosevelt was triumphantly re-elected.</span></p>

@@ -1,5 +1,7 @@
 # lambeth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lambeth.md)
+
 <p><span class="chinese">今天是琳宝盼了已久的星期天。</span><span class="english">Today is the Lambeth waited long Sunday.</span></p>
 
 <p><span class="chinese">现在我们再从蓝贝瑟桥通过，进入西敏区。</span><span class="english">We're now crossing Lambeth Bridge into Westminster.</span></p>

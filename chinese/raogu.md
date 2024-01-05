@@ -1,5 +1,7 @@
 # 桡骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/raogu.md)
+
 <p><span class="chinese">肱骨、桡骨和尺骨在哪儿？</span><span class="english">Where are you humerus, radius, and ulna?</span></p>
 
 <p><span class="chinese">桡骨小头骨折多长时间可以拆掉石膏？</span><span class="english">Can how long of is radius small fracture pull down gesso ?</span></p>

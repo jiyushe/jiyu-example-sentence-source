@@ -1,5 +1,7 @@
 # icky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icky.md)
+
 <p><span class="chinese">学校自助餐厅里的饭菜确实很差。</span><span class="english">The food is really icky in the school cafeteria.</span></p>
 
 <p><span class="chinese">便宜的鞋子，像讨厌的布料一样，让人一目了然。</span><span class="english">Cheap shoes, much like icky fabric, look obvious.</span></p>

@@ -1,5 +1,7 @@
 # heartbreak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartbreak.md)
+
 <p><span class="chinese">即使心碎，也已为时晚矣。</span><span class="english">Then it's already too late for heartbreak.</span></p>
 
 <p><span class="chinese">赛琳心碎地在酒吧喝酒，跳舞，发泄。</span><span class="english">SaiLin heartbreak in bar drink, dance, vent.</span></p>

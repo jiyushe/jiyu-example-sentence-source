@@ -1,5 +1,7 @@
 # reaping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reaping.md)
+
 <p><span class="chinese">他们正在收割一片麦田。</span><span class="english">They are reaping a field of wheat.</span></p>
 
 <p><span class="chinese">现在你是自食恶果。</span><span class="english">You are now reaping the consequences.</span></p>

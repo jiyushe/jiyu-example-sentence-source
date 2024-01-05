@@ -1,5 +1,7 @@
 # 放弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangqi.md)
+
 <p><span class="chinese">永不轻言放弃。</span><span class="english">Never give up.</span></p>
 
 <p><span class="chinese">绝不要轻言放弃。</span><span class="english">Never say die.</span></p>

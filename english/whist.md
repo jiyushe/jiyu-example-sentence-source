@@ -1,5 +1,7 @@
 # whist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whist.md)
+
 <p><span class="chinese">您会打惠斯特就更使外祖父喜出望外了。</span><span class="english">You will overwhelm my grandfather with delight if you play whist.</span></p>
 
 <p><span class="chinese">历经几个世纪的演化，它逐渐变得流行起来。</span><span class="english">Through the centuries whist evolved and grew steadily in popularity.</span></p>

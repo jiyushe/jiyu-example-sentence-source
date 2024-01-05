@@ -1,5 +1,7 @@
 # ablative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ablative.md)
+
 <p><span class="chinese">烧蚀冷却对发动机比冲的影响。</span><span class="english">Effect of ablative cooling on specific impulse of rocket engine.</span></p>
 
 <p><span class="chinese">如确实需要治疗，可进行消融或切除。</span><span class="english">If treatment is desired, ablative or excisional modalities are appropriate.</span></p>

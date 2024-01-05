@@ -1,5 +1,7 @@
 # kamchatka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kamchatka.md)
+
 <p><span class="chinese">堪察加的螃蟹是最上乘的产品。</span><span class="english">The Kamchatka crab is, truly, the perfect product.</span></p>
 
 <p><span class="chinese">Old永远是勘察加半岛最老的熊之一。</span><span class="english">Always Old is one of the oldest bears in Kamchatka region.</span></p>

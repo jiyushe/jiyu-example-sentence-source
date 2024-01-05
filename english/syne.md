@@ -1,5 +1,7 @@
 # syne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syne.md)
+
 <p><span class="chinese">什么东西使我想起了往昔的美好。</span><span class="english">Something reminds me of auld lang syne.</span></p>
 
 <p><span class="chinese">什么东西是我想起了往昔的美好。</span><span class="english">Something reminds my of auld lang syne.</span></p>

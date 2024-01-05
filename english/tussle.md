@@ -1,5 +1,7 @@
 # tussle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tussle.md)
+
 <p><span class="chinese">我听说，这几乎是一场有身体接触的较力了。</span><span class="english">I'm told it is almost a physical tussle.</span></p>
 
 <p><span class="chinese">露西推倒了金姆，警员拉开打架的各方。</span><span class="english">Lucy pushes Kim, and the officer breaks up the tussle.</span></p>

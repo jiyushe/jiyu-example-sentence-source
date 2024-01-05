@@ -1,5 +1,7 @@
 # route
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/route.md)
+
 <p><span class="chinese">可以选择我自己的路线。</span><span class="english">I can choose my own route.</span></p>
 
 <p><span class="chinese">我们要走那条路。</span><span class="english">We should take this route.</span></p>

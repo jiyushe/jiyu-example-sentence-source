@@ -1,5 +1,7 @@
 # 看样子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanyangzi.md)
+
 <p><span class="chinese">看样子她没有成功。</span><span class="english">Apparently she did not succeed.</span></p>
 
 <p><span class="chinese">看样子一场暴风雨即将来临。</span><span class="english">It looks as if a storm is brewing.</span></p>

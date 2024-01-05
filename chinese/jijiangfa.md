@@ -1,5 +1,7 @@
 # 激将法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijiangfa.md)
+
 <p><span class="chinese">他是在激将法的鼓动下做这件事的。</span><span class="english">He did it on a dare.</span></p>
 
 <p><span class="chinese">这不过是他的激将法。</span><span class="english">He's just egging you on.</span></p>

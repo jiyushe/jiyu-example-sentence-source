@@ -1,5 +1,7 @@
 # wording
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wording.md)
+
 <p><span class="chinese">这是措辞的失误。</span><span class="english">This is wrong wording.</span></p>
 
 <p><span class="chinese">措辞谨慎可使意义清楚。</span><span class="english">Careful wording aids clearness.</span></p>

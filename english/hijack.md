@@ -1,5 +1,7 @@
 # hijack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hijack.md)
+
 <p><span class="chinese">昨天他们试图劫持我们的货车。</span><span class="english">Yesterday they tried to hijack some of our trucks.</span></p>
 
 <p><span class="chinese">它们还可以劫持人体细胞，以供其自行繁殖。</span><span class="english">They can hijack the body’s cells for their own reproduction.</span></p>

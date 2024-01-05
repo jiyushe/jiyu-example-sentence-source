@@ -1,5 +1,7 @@
 # 休假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiujia.md)
+
 <p><span class="chinese">计划休假的旅行。</span><span class="english">To plan a vacine trip.</span></p>
 
 <p><span class="chinese">我当然希望能够带薪休假。</span><span class="english">I love my pay-vacation.</span></p>

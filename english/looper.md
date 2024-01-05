@@ -1,5 +1,7 @@
 # looper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/looper.md)
+
 <p><span class="chinese">升降式底线分线盘，使穿线更容易。</span><span class="english">The Looper Thread Take-up can make it up and down for threading easy.</span></p>
 
 <p><span class="chinese">进料支撑台，跳动辊，四点对中装置。</span><span class="english">Entry strip support table, looper roll and four-point centering device.</span></p>

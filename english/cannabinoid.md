@@ -1,5 +1,7 @@
 # cannabinoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannabinoid.md)
+
 <p><span class="chinese">提供了调节大麻素受体的杂环化合物。</span><span class="english">Heterocyclic compounds which modulate cannabinoid receptors are presented.</span></p>
 
 <p><span class="chinese">事实上当发生肝纤维化时肝脏存在大麻素受体。</span><span class="english">It turns out that there actually cannabinoid receptors in the liver once you have fibrosis.</span></p>

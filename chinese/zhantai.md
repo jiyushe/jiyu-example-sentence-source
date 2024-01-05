@@ -1,5 +1,7 @@
 # 站台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhantai.md)
+
 <p><span class="chinese">那个站台只是一个梦而已。</span><span class="english">The station is only a dream.</span></p>
 
 <p><span class="chinese">取得此站台连结的传输类型。</span><span class="english">Gets the name of the site link.</span></p>

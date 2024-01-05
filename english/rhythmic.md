@@ -1,5 +1,7 @@
 # rhythmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhythmic.md)
+
 <p><span class="chinese">炙热的阳光，空气中迷漫着咸味，海浪有节奏地拍打着。</span><span class="english">Salty air. Rhythmic waves.</span></p>
 
 <p><span class="chinese">是一名俄罗斯的艺术体操运动员。</span><span class="english">She is a rhythmic gymnast from Russia.</span></p>

@@ -1,5 +1,7 @@
 # 野外工作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yewaigongzuo.md)
+
 <p><span class="chinese">他们正在学习怎样在野外工作和生存。</span><span class="english">They are learning how to survive in a jangle.</span></p>
 
 <p><span class="chinese">地质学家，我们大部分时间在野外工作。</span><span class="english">As geologist, we work in the field most of the time.</span></p>

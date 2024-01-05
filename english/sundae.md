@@ -1,5 +1,7 @@
 # sundae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sundae.md)
+
 <p><span class="chinese">一份圣代冰淇淋要多么钱？</span><span class="english">I'd like to have a sundae.</span></p>
 
 <p><span class="chinese">我要一个草莓圣代。</span><span class="english">I need a Strawberry Sundae.</span></p>

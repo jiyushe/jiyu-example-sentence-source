@@ -1,5 +1,7 @@
 # shoulder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoulder.md)
+
 <p><span class="chinese">没有肩袢。</span><span class="english">No shoulder pads.</span></p>
 
 <p><span class="chinese">扛他回家来！</span><span class="english">Shoulder Him Home!</span></p>

@@ -1,5 +1,7 @@
 # 脚夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaofu_2.md)
+
 <p><span class="chinese">她给脚夫小费。</span><span class="english">She baksheeshed the porter.</span></p>
 
 <p><span class="chinese">把你的行李交给脚夫。</span><span class="english">Give your bags to the porter.</span></p>

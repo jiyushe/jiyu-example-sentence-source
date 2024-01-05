@@ -1,5 +1,7 @@
 # positivism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/positivism.md)
+
 <p><span class="chinese">实证论与新实证论也是如此。</span><span class="english">So are the monistic doctrines of positivism and neopositivism.</span></p>
 
 <p><span class="chinese">因之，法律实证主义在实践上具有更稳健、妥切、现实的品格。</span><span class="english">Legal positivism is more steady, proper and realistic in practice.</span></p>

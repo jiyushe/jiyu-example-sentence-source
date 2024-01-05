@@ -1,5 +1,7 @@
 # menage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menage.md)
+
 <p><span class="chinese">你是如何让自己成为超级巨星?。</span><span class="english">How did you menage to be a superstar?</span></p>
 
 <p><span class="chinese">它描述了古怪的法耶德家族。</span><span class="english">It describes the bizarre Fayed menage.</span></p>

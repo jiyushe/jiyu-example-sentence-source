@@ -1,5 +1,7 @@
 # 纸型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixing_3.md)
+
 <p><span class="chinese">套打纸型不一样，你自己试试！</span><span class="english">Try first, then you can!</span></p>
 
 <p><span class="chinese">我找到了一套很棒的纸型。</span><span class="english">I've found a great pattern.</span></p>

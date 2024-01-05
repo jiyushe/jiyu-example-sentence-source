@@ -1,5 +1,7 @@
 # juanita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juanita.md)
+
 <p><span class="chinese">你认为尊妮达怎样失去受保护权呢?。</span><span class="english">How did Juanita lose her Right to Protection?</span></p>
 
 <p><span class="chinese">那天下午，朱恩妮塔跑来串门，给卡罗尔解闷。</span><span class="english">That afternoon Juanita dropped in to brighten Carol.</span></p>

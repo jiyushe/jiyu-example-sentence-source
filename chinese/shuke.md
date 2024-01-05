@@ -1,5 +1,7 @@
 # 术科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuke.md)
+
 <p><span class="chinese">对导致体育教育专业学生术科能力欠缺的原因进行了分析。</span><span class="english">The physical education students led to cultural reasons for the lack of capacity is analyzed.</span></p>
 
 <p><span class="chinese">论述的是改革高师体育专业术科教学模式，培养学生创新精神和实践能力的问题。</span><span class="english">In this paper, the author analyses the reformation for the teaching model of normal university P.</span></p>

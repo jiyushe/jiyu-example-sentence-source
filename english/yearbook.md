@@ -1,5 +1,7 @@
 # yearbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yearbook.md)
+
 <p><span class="chinese">别忘了在我的毕业纪念册上签名留念。</span><span class="english">Don't forget to sign my yearbook.</span></p>
 
 <p><span class="chinese">本学年校刊将于五月二十日出刊。</span><span class="english">The yearbook will be published on May 20.</span></p>

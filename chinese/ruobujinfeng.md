@@ -1,5 +1,7 @@
 # 弱不禁风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruobujinfeng.md)
+
 <p><span class="chinese">你们这帮东西，弱不禁风！</span><span class="english">You're a bunch of softies!</span></p>
 
 <p><span class="chinese">他瘦瘠的身体看起来似乎弱不禁风。</span><span class="english">His thin body looks extremely delicate.</span></p>

@@ -1,5 +1,7 @@
 # 成化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenghua.md)
+
 <p><span class="chinese">成化威老师如何看待卢敏老师的学生？</span><span class="english">What does teacher Cheng Huawei treat teacher Lu Min's students?</span></p>
 
 <p><span class="chinese">坐下来欣赏这个苏格兰威士忌成化的木桶吧。</span><span class="english">Sit back and enjoy watching this cask of Scottish whisky maturing.</span></p>

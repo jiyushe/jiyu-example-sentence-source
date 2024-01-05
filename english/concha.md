@@ -1,5 +1,7 @@
 # concha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concha.md)
+
 <p><span class="chinese">只用喙口对着耳垂呼唤，“亲爱的。”</span><span class="english">"Dear" the dear beak in the dear concha crying.</span></p>
 
 <p><span class="chinese">目的建立复方牡蛎合剂的质量控制方法。</span><span class="english">Objective To establish a quality control method for compound concha ostreae mistura.</span></p>

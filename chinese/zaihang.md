@@ -1,5 +1,7 @@
 # 在行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaihang.md)
+
 <p><span class="chinese">阅读我很在行。</span><span class="english">I'm good at reading.</span></p>
 
 <p><span class="chinese">我对中国食物并不在行。</span><span class="english">I am not into chine food.</span></p>

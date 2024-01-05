@@ -1,5 +1,7 @@
 # luscious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luscious.md)
+
 <p><span class="chinese">热带地区出产甘美的水果。</span><span class="english">Tropical zones breed luscious fruits.</span></p>
 
 <p><span class="chinese">芬芳的三叶草冒出了地面。</span><span class="english">The clover sprang up green and luscious.</span></p>

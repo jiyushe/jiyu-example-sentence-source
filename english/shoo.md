@@ -1,5 +1,7 @@
 # shoo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoo.md)
+
 <p><span class="chinese">在中场休息的时候，把大家都踢出家门去走走，到邻居那儿串个门。</span><span class="english">At halftime, shoo everyone outdoors for a walk around the neighborhood.</span></p>
 
 <p><span class="chinese">在值班的警员试着把人群散去，于是他使用了扬声器。</span><span class="english">The police on duty tried to shoo away the crowd by using a loud-speaker.</span></p>

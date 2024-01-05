@@ -1,5 +1,7 @@
 # 铅字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzi_2.md)
+
 <p><span class="chinese">这本书是用大号铅字印的。</span><span class="english">The book was in large print.</span></p>
 
 <p><span class="chinese">这本书用大号铅字印刷。</span><span class="english">The book is printed in large type.</span></p>

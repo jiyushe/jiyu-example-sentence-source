@@ -1,5 +1,7 @@
 # situate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/situate.md)
+
 <p><span class="chinese">将对伊战略置于地区努力中。</span><span class="english">Situate the strategy in a regional approach.</span></p>
 
 <p><span class="chinese">他们正设法确定医院的修建地点。</span><span class="english">They are trying to decide where to situate the hospital.</span></p>

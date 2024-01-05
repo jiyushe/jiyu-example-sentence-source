@@ -1,5 +1,7 @@
 # state 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/state.md)
+
 <p><span class="chinese">一个国家？</span><span class="english">One state?</span></p>
 
 <p><span class="chinese">哪一个州？</span><span class="english">Which State?</span></p>

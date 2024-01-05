@@ -1,5 +1,7 @@
 # 年逾古稀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianyuguxi.md)
+
 <p><span class="chinese">那个年逾古稀的老翁经常出国。</span><span class="english">Not infrequently does the septuagenarian go abroad.</span></p>
 
 <p><span class="chinese">寄种子的原来是一位年逾古稀的老人。</span><span class="english">It turned out to be an old woman of over 70 years old.</span></p>

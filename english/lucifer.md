@@ -1,5 +1,7 @@
 # lucifer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucifer.md)
+
 <p><span class="chinese">撒旦是救世主？</span><span class="english">Lucifer as Redeemer?</span></p>
 
 <p><span class="chinese">然后下面是路西法。</span><span class="english">Then Below is Lucifer.</span></p>

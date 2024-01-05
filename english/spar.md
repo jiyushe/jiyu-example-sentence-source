@@ -1,5 +1,7 @@
 # spar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spar.md)
+
 <p><span class="chinese">他们总是为一些小事而争吵。</span><span class="english">They always spar over trivial matters.</span></p>
 
 <p><span class="chinese">从船首伸出来的圆材。</span><span class="english">A spar projecting from the bow of a vessel.</span></p>

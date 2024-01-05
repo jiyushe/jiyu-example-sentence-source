@@ -1,5 +1,7 @@
 # cornish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornish.md)
+
 <p><span class="chinese">我是康沃尔人，我为自己的祖先感到自豪。</span><span class="english">I'm Cornish and proud of my roots.</span></p>
 
 <p><span class="chinese">科尼什船长再次下达了停航的命令。</span><span class="english">Captain Cornish repeated his order to heave to.</span></p>

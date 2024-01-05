@@ -1,5 +1,7 @@
 # reverence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverence.md)
+
 <p><span class="chinese">孝敬，尊敬父母是每个子女都应尽的责任和义务！</span><span class="english">Youth's first duty is reverence to parents.</span></p>
 
 <p><span class="chinese">让我们记住并且敬畏那些逝去的生命们。</span><span class="english">We remember with reverence the lives we lost.</span></p>

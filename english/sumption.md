@@ -1,5 +1,7 @@
 # sumption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sumption.md)
+
 <p><span class="chinese">不过，中国的体育消费情况怎么样?。</span><span class="english">However, how is the sports con- sumption in China?</span></p>
 
 <p><span class="chinese">葛眉巧用谎言欺骗夏晚晴，夏晚晴信以为真。</span><span class="english">GeMei use opportunely lies deceive summer sun yat sen villa, summer sun yat sen villa sumption.</span></p>

@@ -1,5 +1,7 @@
 # touchstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/touchstone.md)
+
 <p><span class="chinese">试金之石可试金，正如黄金能试人。</span><span class="english">As the touchstone tries gold,so gold tries man.</span></p>
 
 <p><span class="chinese">法律则是司法公正的唯一评价标准。</span><span class="english">Laws is the only touchstone of judical justice.</span></p>

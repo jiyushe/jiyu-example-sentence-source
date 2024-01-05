@@ -1,5 +1,7 @@
 # chemical 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemical.md)
+
 <p><span class="chinese">还是化学制品呢</span><span class="english">Is it a chemical?</span></p>
 
 <p><span class="chinese">化学势。</span><span class="english">Chemical potential.</span></p>

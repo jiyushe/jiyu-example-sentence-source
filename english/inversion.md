@@ -1,5 +1,7 @@
 # inversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inversion.md)
+
 <p><span class="chinese">这是一个小倒置。</span><span class="english">It’s a bit of an inversion.</span></p>
 
 <p><span class="chinese">那么什么是倒排表？</span><span class="english">So what are inversion lists?</span></p>

@@ -1,5 +1,7 @@
 # gyri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gyri.md)
+
 <p><span class="chinese">脑回顶部容易受到创伤外力的打击。</span><span class="english">The crests of the gyri are most susceptible to the traumatic forces.</span></p>
 
 <p><span class="chinese">额中回与额下回的区分是以矢状走行的额下沟为标志。</span><span class="english">Inferior frontal sulcus is the landmark of middle and inferior frontal gyri.</span></p>

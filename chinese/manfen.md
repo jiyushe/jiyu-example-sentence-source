@@ -1,5 +1,7 @@
 # 满分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manfen.md)
+
 <p><span class="chinese">那次法语测验她得了满分。</span><span class="english">She aced out on that test in French.</span></p>
 
 <p><span class="chinese">他在考试中得了满分。</span><span class="english">He gained full marks in the examination.</span></p>

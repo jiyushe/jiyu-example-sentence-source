@@ -1,5 +1,7 @@
 # cortices
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cortices.md)
+
 <p><span class="chinese">在4层骨皮质固定时也进行扭矩失效实验。</span><span class="english">Torque-to-failure tests were also done for 4 cortices of fixation.</span></p>
 
 <p><span class="chinese">所衬灰质与大脑皮层连续，CT影像与灰质等密度。</span><span class="english">Lined gray matter was isodensity on CT and continuous with adjacent cerebral cortices.</span></p>

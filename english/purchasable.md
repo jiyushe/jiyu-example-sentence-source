@@ -1,5 +1,7 @@
 # purchasable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purchasable.md)
+
 <p><span class="chinese">样本商店展示所有可购买的物品，甚至是小镇。</span><span class="english">Sample shops display all purchasable goods, even in small towns.</span></p>
 
 <p><span class="chinese">能否购得钢板?若可能，约何时发货，价格如何?。</span><span class="english">Steel plate purchasable if so purchase price and delivery time expect?</span></p>

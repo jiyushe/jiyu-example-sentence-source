@@ -1,5 +1,7 @@
 # 桀骜不驯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieaobuxun.md)
+
 <p><span class="chinese">与遥远地区桀骜不驯的马赛人亲密接触可以增加旅行的神秘感。</span><span class="english">Close contact with the proud Maasai in remote areas adds to the fascination.</span></p>
 
 <p><span class="chinese">不像那些伟大的摇滚乐队，威尔曼认为他们不会被自己的桀骜不驯所摧毁。</span><span class="english">Unlike great rock bands, he does not think they will be destroyed by their own hubris.</span></p>

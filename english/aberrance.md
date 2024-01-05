@@ -1,5 +1,7 @@
 # aberrance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aberrance.md)
+
 <p><span class="chinese">染色体畸变可能是胃癌发生的细胞学基础。</span><span class="english">Chromosome aberrance probably are the cytological elements causing gastric cancer.</span></p>
 
 <p><span class="chinese">第三部分，重点剖析“大跃进”运动中群众心理的歧变。</span><span class="english">Part III emphasizes on the populace mental aberrance in the movement "Great Quantum leap".</span></p>

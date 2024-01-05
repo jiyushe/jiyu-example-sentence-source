@@ -1,5 +1,7 @@
 # unicef
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unicef.md)
+
 <p><span class="chinese">UNICEF将如何帮助中国的赈灾?。</span><span class="english">How will UNICEF help survivals from China's Earthquake?</span></p>
 
 <p><span class="chinese">联合国儿童基金会也将向运动提供技术支持。</span><span class="english">UNICEF will also provide technical support to the campaign.</span></p>

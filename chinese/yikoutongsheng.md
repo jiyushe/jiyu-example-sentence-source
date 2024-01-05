@@ -1,5 +1,7 @@
 # 异口同声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yikoutongsheng.md)
+
 <p><span class="chinese">“我想要买你的驴子，”两人异口同声说。</span><span class="english">"I'll buy your donkey, " said the two.</span></p>
 
 <p><span class="chinese">老师们异口同声地称赞他。</span><span class="english">The teachers praised him with one accord.</span></p>

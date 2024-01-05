@@ -1,5 +1,7 @@
 # 接班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieban.md)
+
 <p><span class="chinese">他们等待着日班的工人来接班。</span><span class="english">I work on the day shift.</span></p>
 
 <p><span class="chinese">我为什么要有接班计划？</span><span class="english">Why do I need succession planning?</span></p>

@@ -1,5 +1,7 @@
 # lithiasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithiasis.md)
+
 <p><span class="chinese">提及结石病，很多人认为是因饮食不卫生而导致体内形成“石头”。</span><span class="english">Refer to the lithiasis many people think that it's caused by eating unhealthy food.</span></p>
 
 <p><span class="chinese">目的探讨肝尾叶胆管结石的术中诊断与手术处理方法。</span><span class="english">Objective To investigate the diagnosis and treatment of intrahepatic lithiasis in caudate lobe.</span></p>

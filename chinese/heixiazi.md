@@ -1,5 +1,7 @@
 # 黑匣子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heixiazi.md)
+
 <p><span class="chinese">黑匣子一类的东西。</span><span class="english">Something like a black box.</span></p>
 
 <p><span class="chinese">欧盟拟为公交车辆装“黑匣子”。</span><span class="english">EU proposes 'black boxes' for buses and taxis.</span></p>

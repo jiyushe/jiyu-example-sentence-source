@@ -1,5 +1,7 @@
 # nights
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nights.md)
+
 <p><span class="chinese">夜晚从不凄冷。</span><span class="english">The nights are never cold.</span></p>
 
 <p><span class="chinese">一次四百，包夜七百。</span><span class="english">Seven hundred? whole nights.</span></p>

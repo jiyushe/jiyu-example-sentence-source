@@ -1,5 +1,7 @@
 # sporadically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sporadically.md)
+
 <p><span class="chinese">还听到零星枪声。</span><span class="english">Gunfire could still be heard sporadically.</span></p>
 
 <p><span class="chinese">变异似是偶发和自发的。</span><span class="english">The mutations appear to occur sporadically and spontaneously.</span></p>

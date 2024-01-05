@@ -1,5 +1,7 @@
 # 周岁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhousui.md)
+
 <p><span class="chinese">他12周岁。</span><span class="english">He's twelve years old.</span></p>
 
 <p><span class="chinese">大年初六，是宝宝一周岁生日。</span><span class="english">I am but one year old.</span></p>

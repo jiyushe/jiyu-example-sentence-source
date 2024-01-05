@@ -1,5 +1,7 @@
 # tarnish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarnish.md)
+
 <p><span class="chinese">空气和潮湿使银子失去光泽。</span><span class="english">Air and moisture tarnish silver.</span></p>
 
 <p><span class="chinese">只有经常的清洁才能防患于未然。</span><span class="english">Opt for frequent cleanings to nip tarnish in the bud.</span></p>

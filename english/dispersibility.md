@@ -1,5 +1,7 @@
 # dispersibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispersibility.md)
+
 <p><span class="chinese">此共聚物不需中和，就能获得良好的水分散性。</span><span class="english">The copolymer could acquire good water dispersibility needless of neutralization.</span></p>
 
 <p><span class="chinese">具有良好的分散性，可明显改善混凝土的和易性，提高砼的强度。</span><span class="english">It has great dispersibility and can improve the workability and strength of concrete.</span></p>

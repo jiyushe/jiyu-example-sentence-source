@@ -1,5 +1,7 @@
 # shimmery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shimmery.md)
+
 <p><span class="chinese">暗色基调上闪耀着银色。</span><span class="english">Shimmery silver with a dark base.</span></p>
 
 <p><span class="chinese">闪亮草绿色带一点黄调。</span><span class="english">Bright shimmery grass green with a hint of yellow.</span></p>

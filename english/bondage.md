@@ -1,5 +1,7 @@
 # bondage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bondage.md)
+
 <p><span class="chinese">他从束缚中解放出来。</span><span class="english">He was delivered from bondage.</span></p>
 
 <p><span class="chinese">他做了自己野心的奴隶。</span><span class="english">Heis in bondage to his ambition.</span></p>

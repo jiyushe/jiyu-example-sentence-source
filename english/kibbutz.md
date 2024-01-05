@@ -1,5 +1,7 @@
 # kibbutz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kibbutz.md)
+
 <p><span class="chinese">我听过许多发生在,以色列集体农场的争执与矛盾。</span><span class="english">I've heard a lot of stories about a lot of bickering at the kibbutz.</span></p>
 
 <p><span class="chinese">1988年，伊拉娜。利维恩-玛哈兹瑞跟随丈夫来到雅格基布兹并且定居。</span><span class="english">Ilana arrived in kibbutz Yagur in 1988 with her husband and settle down ever since.</span></p>

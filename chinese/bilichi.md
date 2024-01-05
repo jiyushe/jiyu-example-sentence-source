@@ -1,5 +1,7 @@
 # 比例尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bilichi.md)
+
 <p><span class="chinese">纵坐标比例尺以分贝为单位是线性的。</span><span class="english">The ordinate scale is linear in decibels.</span></p>
 
 <p><span class="chinese">平面图，剖面图，立面图，大样，比例尺，侧面，正面，背面。</span><span class="english">Plan, section, elev, detail, scale, side, front, rear.</span></p>

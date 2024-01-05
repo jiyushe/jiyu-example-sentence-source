@@ -1,5 +1,7 @@
 # 心力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinli.md)
+
 <p><span class="chinese">还应尽量避免做能瘦腿的心力运动。</span><span class="english">Avoid doing cardio that will slim the legs.</span></p>
 
 <p><span class="chinese">他在与他们斗争的过程中耗尽心力。</span><span class="english">He exhausted himself struggling against them.</span></p>

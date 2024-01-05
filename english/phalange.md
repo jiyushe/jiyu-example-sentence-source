@@ -1,5 +1,7 @@
 # phalange
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phalange.md)
+
 <p><span class="chinese">手指骨折了怎样保养?。</span><span class="english">How was hand phalange folded maintain?</span></p>
 
 <p><span class="chinese">脚指骨折怎样能好的快？</span><span class="english">How is crural phalange folded can good fast?</span></p>

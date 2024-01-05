@@ -1,5 +1,7 @@
 # bookmaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookmaking.md)
+
 <p><span class="chinese">它生产多达200本书，每小时点播赌注。</span><span class="english">It produces up to 200 books per hour for on-demand bookmaking.</span></p>
 
 <p><span class="chinese">行动中共拘捕年龄介乎三十四至四十一岁的五男一女，他们涉嫌在单位内收受「外围马」赌注。</span><span class="english">Five men and a woman aged between 34 and 41 were apprehended inside the unit for bookmaking on local horse racing.</span></p>

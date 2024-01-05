@@ -1,5 +1,7 @@
 # experimentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/experimentation.md)
+
 <p><span class="chinese">金融创新也会涉及实验</span><span class="english">So financial inventions also involve experimentation.</span></p>
 
 <p><span class="chinese">发展是考求、出错和实验的历程。</span><span class="english">Growth is a process of trial, error and experimentation.</span></p>

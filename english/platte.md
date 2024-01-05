@@ -1,5 +1,7 @@
 # platte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platte.md)
+
 <p><span class="chinese">此外，在某些情况下营养服务南部普拉特县。</span><span class="english">Also, in some instances SCN serves southern Platte County.</span></p>
 
 <p><span class="chinese">路上他们俩停车过夜，第二天中午抵达北普拉特。</span><span class="english">The two of them stopped overnight and arrived in North Platte at noon the next day.</span></p>

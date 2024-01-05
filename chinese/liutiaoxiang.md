@@ -1,5 +1,7 @@
 # 柳条箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liutiaoxiang.md)
+
 <p><span class="chinese">她有一个细柳条箱。</span><span class="english">She has a willow twig case.</span></p>
 
 <p><span class="chinese">一柳条箱可容纳的量。</span><span class="english">This jug will contain a liter.</span></p>

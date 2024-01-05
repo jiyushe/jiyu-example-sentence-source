@@ -1,5 +1,7 @@
 # 方面军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangmianjun.md)
+
 <p><span class="chinese">高等院校是科学研究的一个重要方面军。</span><span class="english">High school is one of important force of science research.</span></p>
 
 <p><span class="chinese">胜利，是多个方面军协同配合的结果。</span><span class="english">The victories in the two battles were the result of cooperation among various front armies.</span></p>

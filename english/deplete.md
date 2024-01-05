@@ -1,5 +1,7 @@
 # deplete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deplete.md)
+
 <p><span class="chinese">现在叫援护消耗能量点。</span><span class="english">Instead, strikers now deplete power stock.</span></p>
 
 <p><span class="chinese">是巨猿耗尽竹资源的吗？</span><span class="english">Did they deplete the bamboo resources themselves?</span></p>

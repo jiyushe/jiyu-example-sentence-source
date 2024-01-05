@@ -1,5 +1,7 @@
 # existentialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/existentialism.md)
+
 <p><span class="chinese">我参加了一次存在主义的考试。</span><span class="english">I took a test in Existentialism.</span></p>
 
 <p><span class="chinese">存在主义是一门关于选择的哲学。</span><span class="english">Existentialism is a philosophy of choice.</span></p>

@@ -1,5 +1,7 @@
 # spiffy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiffy.md)
+
 <p><span class="chinese">你穿这套新衣看起来真帅。</span><span class="english">You look spiffy in your new outfit.</span></p>
 
 <p><span class="chinese">最妙不过的事是马上睡觉去。</span><span class="english">The spiffy thing is to hit the sack at once.</span></p>

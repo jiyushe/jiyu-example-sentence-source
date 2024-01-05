@@ -1,5 +1,7 @@
 # irregularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irregularity.md)
+
 <p><span class="chinese">完整之异常警报及自动停机功能。</span><span class="english">Complete irregularity alarm and auto stop function.</span></p>
 
 <p><span class="chinese">那么你们是怎么用不稳定的收入来付那些规律的账单呢？</span><span class="english">How do you guys manage that irregularity in the face of regular bills?</span></p>

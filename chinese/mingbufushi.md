@@ -1,5 +1,7 @@
 # 名不副实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingbufushi.md)
+
 <p><span class="chinese">保罗是个名不副实的艺术家。</span><span class="english">Paul is an artist of a sort.</span></p>
 
 <p><span class="chinese">尽管如此，我们还被标榜为名不副实的饮食之国。</span><span class="english">And yet, we are also labelled a bad food nation.</span></p>

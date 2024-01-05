@@ -1,5 +1,7 @@
 # condensed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condensed.md)
+
 <p><span class="chinese">这是一场浓缩的宿命。</span><span class="english">This is a condensed foreordination.</span></p>
 
 <p><span class="chinese">我们可以分享同一罐炼乳。</span><span class="english">We can share a can of condensed milk.</span></p>

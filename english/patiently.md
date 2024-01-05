@@ -1,5 +1,7 @@
 # patiently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patiently.md)
+
 <p><span class="chinese">她耐心地听着。</span><span class="english">She listens patiently.</span></p>
 
 <p><span class="chinese">吉米耐心地听着。</span><span class="english">Jimi listens patiently.</span></p>

@@ -1,5 +1,7 @@
 # 痛击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongji_2.md)
+
 <p><span class="chinese">史密斯用右手长拳痛击对手。</span><span class="english">Smith peppered his opponent with long right.</span></p>
 
 <p><span class="chinese">马上我们将要开始一个痛击实验。</span><span class="english">We will begin the painful shock experiment in a moment.</span></p>

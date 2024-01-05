@@ -1,5 +1,7 @@
 # 不可逾越
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukeyuyue.md)
+
 <p><span class="chinese">这些问题似乎不可逾越。</span><span class="english">These problems can seem insurmountable.</span></p>
 
 <p><span class="chinese">一个不可逾越的泥沼区。</span><span class="english">A piece of impassable bog with yield of liquid peat.</span></p>

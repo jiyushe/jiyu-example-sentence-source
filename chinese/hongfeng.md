@@ -1,5 +1,7 @@
 # 洪峰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongfeng.md)
+
 <p><span class="chinese">三峡大坝做好准备，迎接第二次洪峰。</span><span class="english">Three Gorges Dam braces for second flood peak.</span></p>
 
 <p><span class="chinese">“不！太太”贾菲说，“只是攀登马特洪峰。”</span><span class="english">"No'm, " said Japhy, "just climbing Matterhorn. "</span></p>

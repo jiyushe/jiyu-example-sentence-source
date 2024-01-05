@@ -1,5 +1,7 @@
 # 靠边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaobian_1.md)
+
 <p><span class="chinese">请靠边停车。我快吐了。</span><span class="english">Please pull over. I'm throwing up.</span></p>
 
 <p><span class="chinese">帕默叫他的司机靠边停下车。</span><span class="english">Palmer has his driver to pull over.</span></p>

@@ -1,5 +1,7 @@
 # 细则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xize.md)
+
 <p><span class="chinese">城市法令与城镇细则。</span><span class="english">City ordinance and town by-laws.</span></p>
 
 <p><span class="chinese">须受「亚洲万里通」之条款及细则约束。</span><span class="english">Asia Miles terms and conditions apply.</span></p>

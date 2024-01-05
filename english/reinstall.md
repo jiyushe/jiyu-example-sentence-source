@@ -1,5 +1,7 @@
 # reinstall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinstall.md)
+
 <p><span class="chinese">如何重新安装在我的电脑磁盘工具？</span><span class="english">How do I reinstall Disk Tools on my computer?</span></p>
 
 <p><span class="chinese">我该怎么办？重装系统吗？</span><span class="english">What should I do? Should I reinstall the system?</span></p>

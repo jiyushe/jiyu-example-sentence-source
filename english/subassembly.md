@@ -1,5 +1,7 @@
 # subassembly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subassembly.md)
+
 <p><span class="chinese">首先，在组合中现地建立次组合。</span><span class="english">First, you create a subassembly in-place in the assembly.</span></p>
 
 <p><span class="chinese">受聘于飞机或飞机部件制造商。</span><span class="english">They are employed by aircraft and aircraft subassembly manufacturers.</span></p>

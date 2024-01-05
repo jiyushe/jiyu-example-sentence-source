@@ -1,5 +1,7 @@
 # 漏风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loufeng.md)
+
 <p><span class="chinese">冬日寒冷屋儿漏风雪我颤抖。</span><span class="english">The winters were cold and the snow blew in.</span></p>
 
 <p><span class="chinese">要考虑采用密封设计取代漏风的地方。</span><span class="english">Consider replacing these with models designed for airtight construction.</span></p>

@@ -1,5 +1,7 @@
 # genoa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genoa.md)
+
 <p><span class="chinese">他们在热那亚一味坑害她。</span><span class="english">They let her in at Genoa.</span></p>
 
 <p><span class="chinese">多米尼科有约在身，他在热那亚很开心。</span><span class="english">Domencio has a contract. He is very happy Genoa.</span></p>

@@ -1,5 +1,7 @@
 # waterline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterline.md)
+
 <p><span class="chinese">“翡翠海”船水线以上有严峻的破坏。</span><span class="english">I have major damage below waterline.</span></p>
 
 <p><span class="chinese">实心玻璃钢船壳。水线上PVC夹心材三明治结构。</span><span class="english">Solid Fiberglass Hull with PVC Cored Above Waterline.</span></p>

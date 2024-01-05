@@ -1,5 +1,7 @@
 # yer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yer.md)
+
 <p><span class="chinese">难道你从来没有想过你父母是从哪里学会这些东西的？“”</span><span class="english">Did yeh never wonder where yer parents learned it all?</span></p>
 
 <p><span class="chinese">如果你没有吃完你的肉，你就不能有任何的布丁。</span><span class="english">If you don't eat yer meat, you can't have any pudding.</span></p>

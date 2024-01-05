@@ -1,5 +1,7 @@
 # 规律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guilv.md)
+
 <p><span class="chinese">剩余价值规律。</span><span class="english">Law of surplus value.</span></p>
 
 <p><span class="chinese">那样就不符合规律了。</span><span class="english">Did not meet the regular.</span></p>

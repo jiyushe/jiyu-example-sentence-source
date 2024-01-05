@@ -1,5 +1,7 @@
 # hereat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hereat.md)
+
 <p><span class="chinese">于此更看出了人的虚伪性。</span><span class="english">Hereat more the hypocritical sex that saw a person.</span></p>
 
 <p><span class="chinese">尘世间最痛苦的事莫过于此。</span><span class="english">Material life the most painful matter nothing is better than and hereat.</span></p>

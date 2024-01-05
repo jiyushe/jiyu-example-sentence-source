@@ -1,5 +1,7 @@
 # scabbard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scabbard.md)
+
 <p><span class="chinese">匕首牢牢地卡在银质刀鞘中。</span><span class="english">The dagger stuck tightly in the silver scabbard.</span></p>
 
 <p><span class="chinese">拔出从剑鞘或枪套中或仿佛从剑鞘或枪套中拔出。</span><span class="english">To draw from or as if from a sheath or scabbard.</span></p>

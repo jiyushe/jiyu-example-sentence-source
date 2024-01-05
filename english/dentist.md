@@ -1,5 +1,7 @@
 # dentist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dentist.md)
+
 <p><span class="chinese">我的牙医就是这么干的。</span><span class="english">That's what my dentist did.</span></p>
 
 <p><span class="chinese">牙科医生则是完全中性。</span><span class="english">"Dentist" is fairly neutral.</span></p>

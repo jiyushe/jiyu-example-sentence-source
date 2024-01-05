@@ -1,5 +1,7 @@
 # vw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vw.md)
+
 <p><span class="chinese">周围有很多破旧的大众牌汽车。</span><span class="english">There were a lot of beat-up VW vans around.</span></p>
 
 <p><span class="chinese">后来他又买了第二辆车，是一架大众桑塔纳。</span><span class="english">He has since bought a second car, a VW Santana.</span></p>

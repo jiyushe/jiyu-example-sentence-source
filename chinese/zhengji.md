@@ -1,5 +1,7 @@
 # 征集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengji.md)
+
 <p><span class="chinese">我们征集他们当会议招待员。</span><span class="english">We enlisted them to serve as ushers at the meeting.</span></p>
 
 <p><span class="chinese">军队向该村征集粮草。</span><span class="english">The army requisitioned the village for army provisions.</span></p>

@@ -1,5 +1,7 @@
 # 不少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushao.md)
+
 <p><span class="chinese">你让我今天增辉不少。</span><span class="english">You brighten my day.</span></p>
 
 <p><span class="chinese">他有不少好马吧？</span><span class="english">Did he have fine horses?</span></p>

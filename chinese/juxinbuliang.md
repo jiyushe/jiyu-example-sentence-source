@@ -1,5 +1,7 @@
 # 居心不良
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juxinbuliang.md)
+
 <p><span class="chinese">侯爵，侯爵将你的居心不良。</span><span class="english">Scaramouche, scaramouche will you do the fandango.</span></p>
 
 <p><span class="chinese">瞅了他一眼，她微嘟了下嘴，居心不良。</span><span class="english">Chou his one eye, she tiny Du next jaws, with bad purpose.</span></p>

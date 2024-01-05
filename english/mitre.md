@@ -1,5 +1,7 @@
 # mitre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitre.md)
+
 <p><span class="chinese">使你的切割锯木店。</span><span class="english">Make mitre cuts in your wood shop.</span></p>
 
 <p><span class="chinese">在主教广场又发现一个！</span><span class="english">They found another one in Mitre Square!</span></p>

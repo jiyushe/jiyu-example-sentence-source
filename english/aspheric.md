@@ -1,5 +1,7 @@
 # aspheric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspheric.md)
+
 <p><span class="chinese">具有非球面光学面的AIOL调节力相对较大。</span><span class="english">The AIOL with aspheric surface has better tunability.</span></p>
 
 <p><span class="chinese">一种很成功的方法是利用一个三合非球面透镜阵列。</span><span class="english">One highly successful approach utilizes a triplet aspheric lens array.</span></p>

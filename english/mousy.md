@@ -1,5 +1,7 @@
 # mousy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mousy.md)
+
 <p><span class="chinese">跑步去拿，小老鼠。</span><span class="english">Run and fetch it, Mousy.</span></p>
 
 <p><span class="chinese">那个胆小的男人抬起头来。</span><span class="english">The mousy man looked up.</span></p>

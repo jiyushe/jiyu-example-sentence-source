@@ -1,5 +1,7 @@
 # imprudence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imprudence.md)
+
 <p><span class="chinese">我曾暗示他的不谨慎。</span><span class="english">I hinted at his imprudence.</span></p>
 
 <p><span class="chinese">她不会忍受她儿子无耻的行为。</span><span class="english">She would not endure her son's imprudence.</span></p>

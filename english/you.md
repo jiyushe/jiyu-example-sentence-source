@@ -1,5 +1,7 @@
 # you 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/you.md)
+
 <p><span class="chinese">你就是怕！</span><span class="english">You are.</span></p>
 
 <p><span class="chinese">你撒谎！</span><span class="english">You lie!</span></p>

@@ -1,5 +1,7 @@
 # flashy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flashy.md)
+
 <p><span class="chinese">不喜欢，看起来有点太俗艳了…</span><span class="english">No, it's a little too flashy.</span></p>
 
 <p><span class="chinese">他们是华丽丽的玩意儿，是身份的象征。</span><span class="english">they are flashy creatures, status symbols.</span></p>

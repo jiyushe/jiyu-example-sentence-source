@@ -1,5 +1,7 @@
 # computational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/computational.md)
+
 <p><span class="chinese">应用和计算谐波分析。</span><span class="english">Applied and Computational Harmonic Analysis.</span></p>
 
 <p><span class="chinese">这是个非常简单的计算网络</span><span class="english">So, there's a very simple computational network.</span></p>

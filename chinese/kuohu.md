@@ -1,5 +1,7 @@
 # 括弧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuohu.md)
+
 <p><span class="chinese">把你的名字填在每页上端的括弧内。</span><span class="english">Put your name in brackets at the top of each page.</span></p>
 
 <p><span class="chinese">老师用括弧标出了我家庭作业中的错误。</span><span class="english">The teacher bracketed the mistakes in my homework.</span></p>

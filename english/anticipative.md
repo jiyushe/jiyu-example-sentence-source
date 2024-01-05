@@ -1,5 +1,7 @@
 # anticipative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticipative.md)
+
 <p><span class="chinese">经过试生产达到了预期效果。</span><span class="english">It meets the anticipative impact through trial production.</span></p>
 
 <p><span class="chinese">试验结果证明设计方案可行，达到了预期的目标。</span><span class="english">We got the anticipative result and the design is proved feasible.</span></p>

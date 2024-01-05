@@ -1,5 +1,7 @@
 # samoan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samoan.md)
+
 <p><span class="chinese">第三章叙述1899年的萨摩亚内战。</span><span class="english">The third chapter describes the Samoan civil war of 1899.</span></p>
 
 <p><span class="chinese">萨摩亚与西方在文化上很多地方差异非常大。</span><span class="english">Samoan culture is very different from most Western cultures.</span></p>

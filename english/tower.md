@@ -1,5 +1,7 @@
 # tower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tower.md)
+
 <p><span class="chinese">东京塔。</span><span class="english">Tokyo Tower.</span></p>
 
 <p><span class="chinese">镇公所的塔。</span><span class="english">Town Hall Tower.</span></p>

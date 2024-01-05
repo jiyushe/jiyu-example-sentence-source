@@ -1,5 +1,7 @@
 # 佐证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuozheng.md)
+
 <p><span class="chinese">在此例举临证医案四则以佐证。</span><span class="english">Four proven cases were presented for examples.</span></p>
 
 <p><span class="chinese">这是一本文献佐证翔实可靠的传记。</span><span class="english">This book is a carefully documented biography.</span></p>

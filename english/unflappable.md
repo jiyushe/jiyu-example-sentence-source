@@ -1,5 +1,7 @@
 # unflappable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unflappable.md)
+
 <p><span class="chinese">你公司里最处变不惊的人是谁？</span><span class="english">Who in your organization is unflappable amid change?</span></p>
 
 <p><span class="chinese">一头金发的她也为正在崛起的一代头脑冷静的党派人士树立了标准范本。</span><span class="english">She's also the gold-haired standard for a rising generation of unflappable partisans.</span></p>

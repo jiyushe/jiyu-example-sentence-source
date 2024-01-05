@@ -1,5 +1,7 @@
 # 王者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangzhe.md)
+
 <p><span class="chinese">一个永世长存的王者！</span><span class="english">Long live the king.</span></p>
 
 <p><span class="chinese">为王者应该站着死去。</span><span class="english">A King should die standing.</span></p>

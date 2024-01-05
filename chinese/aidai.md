@@ -1,5 +1,7 @@
 # 爱戴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aidai.md)
+
 <p><span class="chinese">迈克尔•富特并不总是备受爱戴。</span><span class="english">He was not always so popular.</span></p>
 
 <p><span class="chinese">虽然哈姆雷特曾经杀死一个克劳迪斯的贵族，但是全国百姓仍然很爱戴他，那就是为什么克劳迪斯不能杀死哈姆雷特的原因。</span><span class="english">That was why Claudius could not kill Hamlet.</span></p>

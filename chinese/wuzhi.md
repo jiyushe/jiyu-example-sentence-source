@@ -1,5 +1,7 @@
 # 五指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzhi.md)
+
 <p><span class="chinese">在伸手不见五指的黑暗中，我什么也看不见。</span><span class="english">I couldn't see through the thick darkness.</span></p>
 
 <p><span class="chinese">窗外依旧黑，不见五指，没有月光。</span><span class="english">The window is still black, dark, moonless.</span></p>

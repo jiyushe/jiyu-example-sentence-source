@@ -1,5 +1,7 @@
 # devolution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devolution.md)
+
 <p><span class="chinese">归还下放权力的整个过程，方于2010年完成。</span><span class="english">The full process of restoring devolution was only completed in 2010.</span></p>
 
 <p><span class="chinese">自此，一代代暨南人薪火相传，奋斗不息。</span><span class="english">From that time on, generation and YiNan person torch devolution , struggle not an interest.</span></p>

@@ -1,5 +1,7 @@
 # pupa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pupa.md)
+
 <p><span class="chinese">之后它变成了一只蛹。</span><span class="english">It turns into a pupa then.</span></p>
 
 <p><span class="chinese">朝我所向往的化蛹前进。</span><span class="english">Look at me the pupa forward.</span></p>

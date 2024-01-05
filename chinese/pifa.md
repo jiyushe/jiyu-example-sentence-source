@@ -1,5 +1,7 @@
 # 批发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pifa.md)
+
 <p><span class="chinese">请问手机壳批发能寄到国外吗？</span><span class="english">Can it send to the overseas?</span></p>
 
 <p><span class="chinese">批发零售无任欢迎。</span><span class="english">Wholesale and retail not welcome.</span></p>

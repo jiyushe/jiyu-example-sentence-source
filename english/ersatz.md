@@ -1,5 +1,7 @@
 # ersatz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ersatz.md)
+
 <p><span class="chinese">人参代用品的买卖很兴隆。</span><span class="english">There is a flourishing trade in ersatz ginseng.</span></p>
 
 <p><span class="chinese">而这一郑重而蹩脚的史诗电影不仅错失了智慧的方舟，也没有愉悦岸上的大众。</span><span class="english">And this solemn, ersatz epic not only misses the boat intellectually but also fails as entertainment.</span></p>

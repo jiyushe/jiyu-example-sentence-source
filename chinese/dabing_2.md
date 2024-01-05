@@ -1,5 +1,7 @@
 # 大饼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabing_2.md)
+
 <p><span class="chinese">这是张多么美好的大饼。</span><span class="english">This is piece of how good flat bread.</span></p>
 
 <p><span class="chinese">鼠老三采来一把五彩缤纷的野花，一朵朵摆在大饼上。</span><span class="english">Rat three put on some flower to the coke.</span></p>

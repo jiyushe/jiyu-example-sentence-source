@@ -1,5 +1,7 @@
 # proud 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proud_1.md)
+
 <p><span class="chinese">我们非常自豪。</span><span class="english">We're very proud.</span></p>
 
 <p><span class="chinese">我感到非常自豪。</span><span class="english">I felt very proud.</span></p>

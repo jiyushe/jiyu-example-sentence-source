@@ -1,5 +1,7 @@
 # 本意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benyi_1.md)
+
 <p><span class="chinese">她本意是好的，我知道。</span><span class="english">Her heart meant well. I know that.</span></p>
 
 <p><span class="chinese">没有伤害任何人的本意。</span><span class="english">For the person who were hurted by me.</span></p>

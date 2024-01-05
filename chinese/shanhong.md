@@ -1,5 +1,7 @@
 # 山洪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanhong.md)
+
 <p><span class="chinese">土耳其山洪爆发，31人死亡。</span><span class="english">Flash floods kill 31 in Turkey.</span></p>
 
 <p><span class="chinese">山洪从山上流下来，爱德华被冲到一个孤岛。</span><span class="english">Edward was drifted to an isolated island.</span></p>

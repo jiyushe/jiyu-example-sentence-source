@@ -1,5 +1,7 @@
 # 出尔反尔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuerfaner.md)
+
 <p><span class="chinese">出尔反尔，给他呼吸的氧气。</span><span class="english">The tether gave him oxygen to breathe.</span></p>
 
 <p><span class="chinese">王秀丽已经习惯了政府的出尔反尔。</span><span class="english">Wang is used to the vagaries of government decisions.</span></p>

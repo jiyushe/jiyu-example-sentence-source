@@ -1,5 +1,7 @@
 # thereafter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thereafter.md)
+
 <p><span class="chinese">请相信我，会苦尽甘来的…</span><span class="english">Please believe me, will thereafter.</span></p>
 
 <p><span class="chinese">此后，曲线迅速转平。</span><span class="english">Thereafter the curve rapidly levels off.</span></p>

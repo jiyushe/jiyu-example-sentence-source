@@ -1,5 +1,7 @@
 # 名垂千古
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingchuiqiangu.md)
+
 <p><span class="chinese">她将名垂千古。</span><span class="english">Her fame will endure for ever.</span></p>
 
 <p><span class="chinese">他总是要死的，但他将会名垂千古。</span><span class="english">He will die, hut his fame will live on after him.</span></p>

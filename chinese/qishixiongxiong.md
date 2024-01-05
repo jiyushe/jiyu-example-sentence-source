@@ -1,5 +1,7 @@
 # 气势汹汹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishixiongxiong.md)
+
 <p><span class="chinese">我们决不会被反动派的气势汹汹所吓倒。</span><span class="english">We shall never be cowed by the bluster of reactionaries.</span></p>
 
 <p><span class="chinese">面试官在谈判中只是气势汹汹。</span><span class="english">The interviewer is just trying to get a leg up on you in negotiations.</span></p>

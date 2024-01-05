@@ -1,5 +1,7 @@
 # 无业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuye_2.md)
+
 <p><span class="chinese">刘有着两个孩子而自身无业。</span><span class="english">Liu has two children but is not employed.</span></p>
 
 <p><span class="chinese">美国无业妇女苏尔曼一胎生了八个孩子。</span><span class="english">Surman, an American unemployed woman, at a birth.</span></p>

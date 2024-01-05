@@ -1,5 +1,7 @@
 # tbm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tbm.md)
+
 <p><span class="chinese">这里的另一个格鲁曼飞机，隧道掘进机复仇者。</span><span class="english">Here's another Grumman aircraft, the TBM Avenger.</span></p>
 
 <p><span class="chinese">结果结核性脑膜脑炎患者脑脊液白细胞总数升高。</span><span class="english">Results The total leucocytes increased in CSF of TBM patients.</span></p>

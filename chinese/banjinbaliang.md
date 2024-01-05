@@ -1,5 +1,7 @@
 # 半斤八两
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banjinbaliang.md)
+
 <p><span class="chinese">“半斤八两，有啥区别，”我爸爸说。</span><span class="english">“Well. Same difference, ” my father says.</span></p>
 
 <p><span class="chinese">而由此招致的反革命也半斤八两。</span><span class="english">But here comes the counter-revolution just the same.</span></p>

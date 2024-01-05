@@ -1,5 +1,7 @@
 # 运动量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yundongliang.md)
+
 <p><span class="chinese">你的身体会告诉你运动量是否足够。</span><span class="english">Your body should tell you if it's had enough.</span></p>
 
 <p><span class="chinese">马拉慕需要一个合理的运动量。</span><span class="english">Malamutes need a reasonable amount of exercise.</span></p>

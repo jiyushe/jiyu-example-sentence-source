@@ -1,5 +1,7 @@
 # bonnie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonnie.md)
+
 <p><span class="chinese">邦尼开始哭了起来。</span><span class="english">Bonnie began to cry.</span></p>
 
 <p><span class="chinese">“我想把邦尼接走。”</span><span class="english">“ I guess I ‘ll take Bonnie.</span></p>

@@ -1,5 +1,7 @@
 # raving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raving.md)
+
 <p><span class="chinese">客人们都为它倾倒了。</span><span class="english">The guests had been raving about it.</span></p>
 
 <p><span class="chinese">我的老板是一个咆哮着的疯狂的奴隶驾驭者。</span><span class="english">My boss is a raving lunatic slave driver.</span></p>

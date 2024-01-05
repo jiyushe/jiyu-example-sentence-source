@@ -1,5 +1,7 @@
 # neighboring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neighboring.md)
+
 <p><span class="chinese">它与科技息息相关。</span><span class="english">Literacy is a neighboring technology.</span></p>
 
 <p><span class="chinese">突尼斯害怕邻近的利比亚。</span><span class="english">Tunisia is afraid of neighboring Libya.</span></p>

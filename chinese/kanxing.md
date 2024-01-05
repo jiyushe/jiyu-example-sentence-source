@@ -1,5 +1,7 @@
 # 刊行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanxing.md)
+
 <p><span class="chinese">刊行是毫无道理的。</span><span class="english">Such a publication was madness.</span></p>
 
 <p><span class="chinese">刊行债券时，理卖按债券的面值记帐。</span><span class="english">Bonds shall be accounted for at par value.</span></p>

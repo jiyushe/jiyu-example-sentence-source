@@ -1,5 +1,7 @@
 # antoine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antoine.md)
+
 <p><span class="chinese">欧内斯特．德伐日，圣安托万区酒店主。</span><span class="english">Ernest Defarge, wine-vendor of St. Antoine.</span></p>
 
 <p><span class="chinese">安托万只好乖乖地滚到酒吧的另一边。</span><span class="english">Antoine effed off to the other end of the bar.</span></p>

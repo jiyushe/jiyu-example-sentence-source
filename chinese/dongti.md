@@ -1,5 +1,7 @@
 # 胴体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongti.md)
+
 <p><span class="chinese">日光下，我一寸一寸地打量着她那完美的胴体。</span><span class="english">In the daylight I examined her perfect body inch by inch.</span></p>
 
 <p><span class="chinese">她的未来就像是她性感的胴体，永远都是一个让人惊艳的谜。</span><span class="english">Her future as the carcass of her sexy, amazing is always a mystery.</span></p>

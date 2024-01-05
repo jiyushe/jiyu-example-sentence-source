@@ -1,5 +1,7 @@
 # 壁画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bihua.md)
+
 <p><span class="chinese">好像是壁画上嵌金的雕饰。</span><span class="english">As in the gold mosaic of a wall.</span></p>
 
 <p><span class="chinese">壁画上是释迦牟尼在说法。</span><span class="english">The mural depicts Sakyamuni teaching.</span></p>

@@ -1,5 +1,7 @@
 # indivisible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indivisible.md)
+
 <p><span class="chinese">下一步，他会发现所有的形相都融入不可分割的绝对本体里面。</span><span class="english">Next he finds that the form merges in the Indivisible Absolute.</span></p>
 
 <p><span class="chinese">在某一上下文中视为不可分的一种数据单位。</span><span class="english">A unit of data that, in a certain context, is considered indivisible.</span></p>

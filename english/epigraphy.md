@@ -1,5 +1,7 @@
 # epigraphy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epigraphy.md)
+
 <p><span class="chinese">扎实的知识，专注的用心，其在金石学的研究上成绩卓然。</span><span class="english">Solid knowledge of the intention to focus its research on epigraphy Zoran grade.</span></p>
 
 <p><span class="chinese">金石学在宋代成为专门的学问，取得了很高的成就。</span><span class="english">Epigraphy became a special discipline, and made great achievement in the Song Dynasty.</span></p>

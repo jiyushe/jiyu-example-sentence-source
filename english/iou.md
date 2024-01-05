@@ -1,5 +1,7 @@
 # iou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iou.md)
+
 <p><span class="chinese">我们不应该给农民打白条。</span><span class="english">We shouldn't issue IOU to farmers.</span></p>
 
 <p><span class="chinese">你看不见你自己，你所看见礯只是你的影子。</span><span class="english">What you are iou do not see, what you see is your shadow.</span></p>

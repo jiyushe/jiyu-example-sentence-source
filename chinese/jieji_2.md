@@ -1,5 +1,7 @@
 # 阶级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieji_2.md)
+
 <p><span class="chinese">圣洁的尤纳塞阶级。</span><span class="english">Holy Order of the Yunasai.</span></p>
 
 <p><span class="chinese">这个阶级获得了成功</span><span class="english">And the state is winning out.</span></p>

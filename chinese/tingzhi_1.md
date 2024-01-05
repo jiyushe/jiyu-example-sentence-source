@@ -1,5 +1,7 @@
 # 停滞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhi_1.md)
+
 <p><span class="chinese">文化素养从不停滞。</span><span class="english">Literacy skills never stop.</span></p>
 
 <p><span class="chinese">水在沟中停滞而变浊。</span><span class="english">The water stagnates in the ditch.</span></p>

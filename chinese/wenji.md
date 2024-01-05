@@ -1,5 +1,7 @@
 # 文集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenji.md)
+
 <p><span class="chinese">代表一个自动图文集词条。</span><span class="english">Represents a single AutoText entry.</span></p>
 
 <p><span class="chinese">导入数据并创建一个文集文件。</span><span class="english">Import the data and create a corpus file</span></p>

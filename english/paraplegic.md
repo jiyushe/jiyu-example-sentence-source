@@ -1,5 +1,7 @@
 # paraplegic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paraplegic.md)
+
 <p><span class="chinese">在悉尼残疾人奥运会上，他赢得了箭术比赛的奖牌。</span><span class="english">In Sydney Paraplegic Olympics, he won a medal in archery.</span></p>
 
 <p><span class="chinese">还是自己变半身不遂，哪个会令你幸福？</span><span class="english">Or one in which you become paraplegic? Which would make you happier?</span></p>

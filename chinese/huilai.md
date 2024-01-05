@@ -1,5 +1,7 @@
 # 回来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huilai.md)
+
 <p><span class="chinese">我把它拿回来。</span><span class="english">I take it back.</span></p>
 
 <p><span class="chinese">他刚回来。</span><span class="english">He just got back.</span></p>

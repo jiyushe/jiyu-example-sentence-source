@@ -1,5 +1,7 @@
 # 叛逆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panni.md)
+
 <p><span class="chinese">笑是危险的而且具有叛逆性。</span><span class="english">Laughter is dangerous and rebellious.</span></p>
 
 <p><span class="chinese">但是，他们并不认为自己叛逆。</span><span class="english">But they don`t see themselves as "rebels".</span></p>

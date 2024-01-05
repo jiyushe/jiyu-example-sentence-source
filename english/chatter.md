@@ -1,5 +1,7 @@
 # chatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chatter.md)
+
 <p><span class="chinese">寒冷使他的牙齿打颤。</span><span class="english">Cold made his teeth chatter.</span></p>
 
 <p><span class="chinese">我截下了一些通话聊天。</span><span class="english">I picked up on some chatter.</span></p>

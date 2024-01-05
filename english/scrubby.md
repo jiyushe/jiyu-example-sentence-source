@@ -1,5 +1,7 @@
 # scrubby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrubby.md)
+
 <p><span class="chinese">澳大利亚和新几内亚灌木丛生的地区中褐红色的小沙袋鼠。</span><span class="english">Small reddish-brown wallabies of scrubby areas of Australia and New Guinea.</span></p>
 
 <p><span class="chinese">我的意思是无限连只是为那些固执于胜负的无聊的家伙准备的。</span><span class="english">I mean infinites combos are for scrubby experts players that don't like to lose.</span></p>

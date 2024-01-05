@@ -1,5 +1,7 @@
 # imbroglio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imbroglio.md)
+
 <p><span class="chinese">他总结出了整个苏联的纷纷扰扰。</span><span class="english">He summarizes the Soviet imbroglio</span></p>
 
 <p><span class="chinese">尽量不要在经济上有纠葛。</span><span class="english">Try to avoid the imbroglio on money.</span></p>

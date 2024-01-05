@@ -1,5 +1,7 @@
 # 烧毁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaohui.md)
+
 <p><span class="chinese">烧毁它，退订了它。</span><span class="english">Fire it. Burn it.</span></p>
 
 <p><span class="chinese">文件立刻烧毁了。</span><span class="english">The papers burned up in a minute.</span></p>

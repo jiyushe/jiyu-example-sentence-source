@@ -1,5 +1,7 @@
 # unvaried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unvaried.md)
+
 <p><span class="chinese">一望无际的云幕蒙住了从天顶到地乎线的整个夜空。</span><span class="english">An unvaried pall of cloud muffled the whole expanse of sky from zenith to horizon.</span></p>
 
 <p><span class="chinese">这比起模拟调压器只能以固定参数进行电压调节，无疑是一个进步。</span><span class="english">It is an improvement with comparison to the unvaried transistor voltage regulators.</span></p>

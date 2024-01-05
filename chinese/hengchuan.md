@@ -1,5 +1,7 @@
 # 横穿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengchuan.md)
+
 <p><span class="chinese">她跳着舞横穿过了房间。</span><span class="english">She danced across the room.</span></p>
 
 <p><span class="chinese">四名男士横穿过马路。</span><span class="english">Four men ran across the road.</span></p>

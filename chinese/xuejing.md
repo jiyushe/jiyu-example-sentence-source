@@ -1,5 +1,7 @@
 # 雪景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuejing.md)
+
 <p><span class="chinese">你看过雪景吗？</span><span class="english">Have you ever seen the snowscape?</span></p>
 
 <p><span class="chinese">我产窗户框住了一幅绝美的雪景。</span><span class="english">My window frames a thrillign snowy landscape.</span></p>

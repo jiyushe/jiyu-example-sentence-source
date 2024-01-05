@@ -1,5 +1,7 @@
 # 忠贞不二
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhenbuer.md)
+
 <p><span class="chinese">他喜欢他们的坚韧不拔和忠贞不二。</span><span class="english">He liked their toughness and their loyalty.</span></p>
 
 <p><span class="chinese">他们问我怎么知道我的挚爱对我永远忠贞不二的。</span><span class="english">They asked me how I knew my true love was true.</span></p>

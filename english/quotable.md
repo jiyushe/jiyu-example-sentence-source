@@ -1,5 +1,7 @@
 # quotable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quotable.md)
+
 <p><span class="chinese">他说话时使用了大量引语。</span><span class="english">He comes up with so many quotable phrases.</span></p>
 
 <p><span class="chinese">他的话在混合群体中不能引用。</span><span class="english">His remarks are not quotable in mixed company.</span></p>

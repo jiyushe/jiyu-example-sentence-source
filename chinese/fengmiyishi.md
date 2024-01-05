@@ -1,5 +1,7 @@
 # 风靡一时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengmiyishi.md)
+
 <p><span class="chinese">他们希望这间店会风靡一时，但它会吗？</span><span class="english">They hope it will be a hit, but will it?</span></p>
 
 <p><span class="chinese">那首流行歌曲曾经风靡一时。</span><span class="english">That pop-song had a great vogue at one time.</span></p>

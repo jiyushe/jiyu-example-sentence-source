@@ -1,5 +1,7 @@
 # blowhole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blowhole.md)
+
 <p><span class="chinese">这个喷水孔在头的顶部。</span><span class="english">This blowhole is on the top of its head.</span></p>
 
 <p><span class="chinese">鲸鱼通过鼻子喷射出满是水的空气。</span><span class="english">To spout moist air from the blowhole. Used of a whale.</span></p>

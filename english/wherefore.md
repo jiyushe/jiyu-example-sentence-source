@@ -1,5 +1,7 @@
 # wherefore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wherefore.md)
+
 <p><span class="chinese">为何要使用以用户为中心的授权？</span><span class="english">Wherefore user-centric authorization?</span></p>
 
 <p><span class="chinese">为什么还不能给你带来平静呢？</span><span class="english">And wherefore should it not bring you peace?</span></p>

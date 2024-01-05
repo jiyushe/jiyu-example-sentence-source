@@ -1,5 +1,7 @@
 # links
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/links.md)
+
 <p><span class="chinese">我需要生活的联系。</span><span class="english">I need live links.</span></p>
 
 <p><span class="chinese">请谨慎使用链接。</span><span class="english">Use links with care.</span></p>

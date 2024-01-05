@@ -1,5 +1,7 @@
 # hardness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardness.md)
+
 <p><span class="chinese">硬度高达约人权委员会65。</span><span class="english">Hardness up to about HRC 65.</span></p>
 
 <p><span class="chinese">硬度高达约人权委员会67。</span><span class="english">Hardness up to about HRC 67.</span></p>

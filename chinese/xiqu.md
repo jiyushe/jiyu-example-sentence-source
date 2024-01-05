@@ -1,5 +1,7 @@
 # 吸取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiqu.md)
+
 <p><span class="chinese">我还是要吸取教训。</span><span class="english">I suck.</span></p>
 
 <p><span class="chinese">这次的教训并未被吸取。</span><span class="english">The lesson didn't soak in.</span></p>

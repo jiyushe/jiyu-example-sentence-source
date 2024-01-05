@@ -1,5 +1,7 @@
 # snakebite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snakebite.md)
+
 <p><span class="chinese">你有治疗毒蛇咬伤的解毒药吗？</span><span class="english">Do you have any antidote for a snakebite?</span></p>
 
 <p><span class="chinese">无毒蛇咬伤通常有多个牙印。</span><span class="english">Snakebite usually have no more than Yayin.</span></p>

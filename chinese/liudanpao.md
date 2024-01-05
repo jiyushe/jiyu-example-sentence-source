@@ -1,5 +1,7 @@
 # 榴弹炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liudanpao.md)
+
 <p><span class="chinese">PLA下一次会使用多得多的榴弹炮。</span><span class="english">Next time, the PLA will use a lot more than just howitzers.</span></p>
 
 <p><span class="chinese">在重新不再是一个“跳过点”或榴弹炮的枪。</span><span class="english">There is no longer a "skip point" on either howitzer's gun.</span></p>

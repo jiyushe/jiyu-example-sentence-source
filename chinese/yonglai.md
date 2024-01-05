@@ -1,5 +1,7 @@
 # 用来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yonglai.md)
+
 <p><span class="chinese">“绿牌”用来警告球员不礼貌的行为。</span><span class="english">A green card for bad manners.</span></p>
 
 <p><span class="chinese">大量的黏土被用来造砖。</span><span class="english">Much clay is used for bricks.</span></p>

@@ -1,5 +1,7 @@
 # 偷袭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touxi.md)
+
 <p><span class="chinese">我们在半夜里偷袭敌人。</span><span class="english">We stole on the enemy at midnight.</span></p>
 
 <p><span class="chinese">鬼凤放出烟雾，准备偷袭。</span><span class="english">Feng ghost of smoke, ready to attack.</span></p>

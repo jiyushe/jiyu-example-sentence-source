@@ -1,5 +1,7 @@
 # iec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iec.md)
+
 <p><span class="chinese">发审委设会议召集人5名。</span><span class="english">The IEC shall have 5 conveners.</span></p>
 
 <p><span class="chinese">辩论者必须是文化交流大使选拔赛决赛选手。</span><span class="english">A debater must be a competitor in IEC finals.</span></p>

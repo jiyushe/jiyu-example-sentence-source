@@ -1,5 +1,7 @@
 # inanity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inanity.md)
+
 <p><span class="chinese">他们的声明是彻头彻尾的废话。</span><span class="english">Their statement was a downright inanity.</span></p>
 
 <p><span class="chinese">十分无聊时，我就独自大笑。</span><span class="english">I laugh all alone at my complete inanity.</span></p>

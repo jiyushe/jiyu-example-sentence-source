@@ -1,5 +1,7 @@
 # denominal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denominal.md)
+
 <p><span class="chinese">英语与汉语中都存在着大量的名源动词。</span><span class="english">There exist quantities of denominal verbs both in English and in Chinese.</span></p>
 
 <p><span class="chinese">英语与汉语中都存在着大量的名源动词。</span><span class="english">There exist quantities of denominal verbs salt in English and in Chinese.</span></p>

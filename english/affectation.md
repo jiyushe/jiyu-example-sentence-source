@@ -1,5 +1,7 @@
 # affectation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affectation.md)
+
 <p><span class="chinese">这名歌手做作的样子令我厌烦。</span><span class="english">This singer's affectation annoyed me.</span></p>
 
 <p><span class="chinese">我不喜欢她做作的行为。</span><span class="english">I dislike the affectation of her action.</span></p>

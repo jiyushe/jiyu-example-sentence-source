@@ -1,5 +1,7 @@
 # jama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jama.md)
+
 <p><span class="chinese">迦玛清真寺外的大广场</span><span class="english">Broad Square Outside Jama Masjid</span></p>
 
 <p><span class="chinese">“我们紧密合作，”服刑中的海盗贾马·阿卜杜拉希说。</span><span class="english">“We work together, ” said Jama Abdullahi, a jailed pirate.</span></p>

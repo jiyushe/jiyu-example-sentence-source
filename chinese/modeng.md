@@ -1,5 +1,7 @@
 # 摩登
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/modeng.md)
+
 <p><span class="chinese">摩登家庭非常搞笑。</span><span class="english">Modern Family is hilarious.</span></p>
 
 <p><span class="chinese">他也送来了一辆摩登的汽车。</span><span class="english">And he also sent a modern car.</span></p>

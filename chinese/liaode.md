@@ -1,5 +1,7 @@
 # 了得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaode.md)
+
 <p><span class="chinese">母亲叫道，“这还了得！</span><span class="english">The mother exclaimed, "But that's terrible!</span></p>
 
 <p><span class="chinese">我听见了得得的马蹄声。</span><span class="english">I heard the clip clip of the horses' hooves.</span></p>

@@ -1,5 +1,7 @@
 # obligee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obligee.md)
+
 <p><span class="chinese">债权人的撤销权是一项古老的民法制度。</span><span class="english">The withdrawing right of the obligee is an ancient civil law system.</span></p>
 
 <p><span class="chinese">第一百零九条拾得遗失物，应当返还权利人。</span><span class="english">Article 109 A person who finds a lost thing shall return it to the obligee.</span></p>

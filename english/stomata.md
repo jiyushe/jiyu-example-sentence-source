@@ -1,5 +1,7 @@
 # stomata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stomata.md)
+
 <p><span class="chinese">气孔分布区内的表皮细胞有时为多边形。</span><span class="english">Epidermal cells on areas with stomata are polygonous.</span></p>
 
 <p><span class="chinese">氧气和二氧化碳也会经由气孔出入。</span><span class="english">Oxygen and carbon dioxide also pass through the stomata.</span></p>

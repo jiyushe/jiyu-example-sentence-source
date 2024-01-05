@@ -1,5 +1,7 @@
 # 赝品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanpin.md)
+
 <p><span class="chinese">市道市情上卖的那些外壳都是赝品。</span><span class="english">The products on sale are fakes.</span></p>
 
 <p><span class="chinese">但是这注定了是一个赝品流行的时代。</span><span class="english">But then this is the age of fakes.</span></p>

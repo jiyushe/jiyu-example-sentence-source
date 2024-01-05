@@ -1,5 +1,7 @@
 # busses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busses.md)
+
 <p><span class="chinese">对上学校车的孩子们，挥手示意。</span><span class="english">Wave at kids on school busses.</span></p>
 
 <p><span class="chinese">他提及，目前他的学校使用的是最先进的校车。</span><span class="english">They really use state-of-the-art school busses.</span></p>

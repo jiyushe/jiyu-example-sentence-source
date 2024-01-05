@@ -1,5 +1,7 @@
 # realignment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realignment.md)
+
 <p><span class="chinese">发展中国家担心这样的重新调整会正式化。</span><span class="english">Developing countries are uneasy about formalising such a realignment.</span></p>
 
 <p><span class="chinese">冷战之后一个重要的政治和经济的新的排列组合开始了。</span><span class="english">A major political and economic realignment started after the end of the Cold War.</span></p>

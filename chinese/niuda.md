@@ -1,5 +1,7 @@
 # 扭打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuda.md)
+
 <p><span class="chinese">大吵大闹之后他们又扭打在一起。</span><span class="english">They scuffled after quarrelling.</span></p>
 
 <p><span class="chinese">护卫员同闯入的人扭打起来。</span><span class="english">The guards wrestled with the intrude rs.</span></p>

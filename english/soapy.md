@@ -1,5 +1,7 @@
 # soapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soapy.md)
+
 <p><span class="chinese">小王向东走去。</span><span class="english">Soapy walked eastward.</span></p>
 
 <p><span class="chinese">苏比聆听着音乐。</span><span class="english">Soapy listened to the music.</span></p>

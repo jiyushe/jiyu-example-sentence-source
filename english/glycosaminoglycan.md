@@ -1,5 +1,7 @@
 # glycosaminoglycan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycosaminoglycan.md)
+
 <p><span class="chinese">应用该方法对人体尿液中糖胺多糖的二糖组成进行了分析。</span><span class="english">This method can be applied directly to the analysis of human urinary glycosaminoglycan.</span></p>
 
 <p><span class="chinese">过渡区尺寸以及其活动度与髓核氨基葡聚糖含量是息息相关的。</span><span class="english">Neutral zone modulus and range of motion were correlated with nucleus glycosaminoglycan.</span></p>

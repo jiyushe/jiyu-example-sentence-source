@@ -1,5 +1,7 @@
 # engine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engine.md)
+
 <p><span class="chinese">Z31发动机互换。</span><span class="english">Z31 engine swap.</span></p>
 
 <p><span class="chinese">发动机米米的。</span><span class="english">Engine meter meter.</span></p>

@@ -1,5 +1,7 @@
 # 凭单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingdan.md)
+
 <p><span class="chinese">请在凭单上用首字母签名。</span><span class="english">Would you mind initialing this voucher?</span></p>
 
 <p><span class="chinese">查帐员审核了全部凭单。</span><span class="english">The auditor looked through all the vouchers.</span></p>

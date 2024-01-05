@@ -1,5 +1,7 @@
 # 干酵母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjiaomu.md)
+
 <p><span class="chinese">混合干酵母与水。</span><span class="english">Mix Dry Yeast with the water.</span></p>
 
 <p><span class="chinese">面粉和干酵母混合在一盆内。</span><span class="english">Sift together the flour and dry yeast in a bowl.</span></p>

@@ -1,5 +1,7 @@
 # rising
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rising.md)
+
 <p><span class="chinese">旭日初升。</span><span class="english">The sun is just rising.</span></p>
 
 <p><span class="chinese">上行,不断地上行</span><span class="english">Up. It keeps rising up.</span></p>

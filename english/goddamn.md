@@ -1,5 +1,7 @@
 # goddamn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goddamn.md)
+
 <p><span class="chinese">我没有那么多该死的夜晚！</span><span class="english">I don’t have all goddamn night!</span></p>
 
 <p><span class="chinese">所以给我他妈的两秒钟。</span><span class="english">So give me two goddamn seconds.</span></p>

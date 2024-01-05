@@ -1,5 +1,7 @@
 # sarong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarong.md)
+
 <p><span class="chinese">“沙龙”还是“纱笼”?。</span><span class="english">Salon or Sarong?</span></p>
 
 <p><span class="chinese">很多人，包括妇女和男子都穿一种叫做腰布的围裙。</span><span class="english">Many, both women and men wear a sarong called longyi.</span></p>

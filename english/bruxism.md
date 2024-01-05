@@ -1,5 +1,7 @@
 # bruxism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bruxism.md)
+
 <p><span class="chinese">但牙医们发现在爱尔兰，磨牙症患者数目更多。</span><span class="english">But dentists found there are more people with bruxism in Ireland.</span></p>
 
 <p><span class="chinese">大多数人对他们正为磨牙症或者磨牙问题所侵害的事实懵懂无知。</span><span class="english">Most people are unaware that they suffer from Bruxism or grinding of teeth.</span></p>

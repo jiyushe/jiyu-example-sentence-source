@@ -1,5 +1,7 @@
 # genome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genome.md)
+
 <p><span class="chinese">然后就是人类基因组了。</span><span class="english">And then there is the human genome.</span></p>
 
 <p><span class="chinese">最终拯救整个基因组吗？</span><span class="english">Eventually a whole genome?” Hecht said.</span></p>

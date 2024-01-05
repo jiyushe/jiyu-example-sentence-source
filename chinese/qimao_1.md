@@ -1,5 +1,7 @@
 # 起锚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qimao_1.md)
+
 <p><span class="chinese">我船现在可以起锚吗？</span><span class="english">Can I heave up now?</span></p>
 
 <p><span class="chinese">起锚了，男孩。</span><span class="english">Weigh anchor, Boys.</span></p>

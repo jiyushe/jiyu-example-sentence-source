@@ -1,5 +1,7 @@
 # benign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benign.md)
+
 <p><span class="chinese">它的动机是好的。</span><span class="english">Its motives are benign.</span></p>
 
 <p><span class="chinese">小管状腺瘤本质上常是良性的。</span><span class="english">Small ones are virtually always benign.</span></p>

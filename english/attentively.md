@@ -1,5 +1,7 @@
 # attentively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attentively.md)
+
 <p><span class="chinese">我注视这他的一举一动。</span><span class="english">I watched his movements attentively.</span></p>
 
 <p><span class="chinese">当地重量级的人物专注地倾听。</span><span class="english">Local heavyweights listen attentively.</span></p>

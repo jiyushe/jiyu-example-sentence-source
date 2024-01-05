@@ -1,5 +1,7 @@
 # paying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paying.md)
+
 <p><span class="chinese">我现在正付出代价，真是现世报！</span><span class="english">I'm paying for it!</span></p>
 
 <p><span class="chinese">我讨厌付账单。</span><span class="english">I hate paying bills.</span></p>

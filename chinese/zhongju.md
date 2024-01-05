@@ -1,5 +1,7 @@
 # 终局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongju.md)
+
 <p><span class="chinese">他说“战斗已到痛苦的终局”。</span><span class="english">"This battle has reached its bitter end, " he said.</span></p>
 
 <p><span class="chinese">该裁判属终局裁判，对缔约双方均有拘束力。</span><span class="english">Such decision shall be final and binding on the Parties.</span></p>

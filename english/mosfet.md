@@ -1,5 +1,7 @@
 # mosfet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mosfet.md)
+
 <p><span class="chinese">介绍了MOSFET交流方波逆变电源的工作原理。</span><span class="english">Introduce the principle of MOSFET AC square wave inverter power source.</span></p>
 
 <p><span class="chinese">采用了MOSFET逆变器驱动潜水螺杆电泵的方案。</span><span class="english">A submersible screw electric pump drived by a PWM MOSFET inverter is used.</span></p>

@@ -1,5 +1,7 @@
 # minimization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minimization.md)
+
 <p><span class="chinese">这是典型的能量最小化问题。</span><span class="english">This is typically an energy minimization problem.</span></p>
 
 <p><span class="chinese">我们有一套“危害最小化”的标准政策流程。</span><span class="english">We have a standardized policy of "harm minimization."</span></p>

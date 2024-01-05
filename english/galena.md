@@ -1,5 +1,7 @@
 # galena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galena.md)
+
 <p><span class="chinese">方铅矿这种矿物就是由铅硫化物组成的。</span><span class="english">The mineral galena is composed of lead sulfide.</span></p>
 
 <p><span class="chinese">黄铁矿、闪锌矿及方铅矿为矿石中的主要金属矿物。</span><span class="english">Major metal minerals in ore are pyrite, sphalerite and galena.</span></p>

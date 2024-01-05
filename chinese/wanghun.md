@@ -1,5 +1,7 @@
 # 亡魂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanghun.md)
+
 <p><span class="chinese">阿卡莎是死于叹霜之剑下的无数亡魂之一。</span><span class="english">Akasha is one of the many souls claimed by the blade, Frostmourne.</span></p>
 
 <p><span class="chinese">阿弥陀佛，阿弥陀佛，接引亡魂直上金桥银桥桥上过，阿弥陀佛。</span><span class="english">Buddha and Buddha, please hurry to carry the kind away through the bridge.</span></p>

@@ -1,5 +1,7 @@
 # 忠义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyi_2.md)
+
 <p><span class="chinese">你是个忠义的人，必是报好信息。</span><span class="english">A worthy man like you must be bringing good news.</span></p>
 
 <p><span class="chinese">忠义观念有一个不断演变的过程。</span><span class="english">The view on loyalty covers a course of evolution.</span></p>

@@ -1,5 +1,7 @@
 # borough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borough.md)
+
 <p><span class="chinese">乔为区里工作。</span><span class="english">Joe works for the borough.</span></p>
 
 <p><span class="chinese">你能介绍一下博罗市集吗？</span><span class="english">Could you introduce Borough Market?</span></p>

@@ -1,5 +1,7 @@
 # 痴人说梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chirenshuomeng.md)
+
 <p><span class="chinese">是痴人说梦的笑话吗？</span><span class="english">Is it a ridiculous dream?</span></p>
 
 <p><span class="chinese">事实证明我只不过是在痴人说梦。</span><span class="english">But I was just being silly.</span></p>

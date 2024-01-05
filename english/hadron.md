@@ -1,5 +1,7 @@
 # hadron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hadron.md)
+
 <p><span class="chinese">强子层次上强子的质量可以唯象的引入。</span><span class="english">In hadron levels the hadronic masses can be introduced phenomenologically.</span></p>
 
 <p><span class="chinese">其中的AEBB-2000使更高性能强子对撞机的诞生成为可能。</span><span class="english">Development of AEBB-2000 made it possible to create the greater hadron collider.</span></p>

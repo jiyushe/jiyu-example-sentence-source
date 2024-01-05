@@ -1,5 +1,7 @@
 # tehran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tehran.md)
+
 <p><span class="chinese">伊斯帕罕伊朗中部一城市，在续墨兰以南。</span><span class="english">A city of central Iran south of Tehran.</span></p>
 
 <p><span class="chinese">我们的记者从德黑兰发回报道。</span><span class="english">Our correspondent in Tehran Lyse Doucet.</span></p>

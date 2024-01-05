@@ -1,5 +1,7 @@
 # ogre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ogre.md)
+
 <p><span class="chinese">在奥伽战争中是恶魔族的宗主。</span><span class="english">Supported the demons in the Ogre Battle.</span></p>
 
 <p><span class="chinese">这只脾气稍稍有些古怪的绿色怪物第四次出现在了我们的眼前。</span><span class="english">The fourth outing for the grumpy green ogre.</span></p>

@@ -1,5 +1,7 @@
 # 统购统销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonggoutongxiao.md)
+
 <p><span class="chinese">国家对麻黄素实行统购统销。</span><span class="english">The State practices monopoly for the purchase and marketing of ephedrine.</span></p>
 
 <p><span class="chinese">本文试图从趋势研究的途径考察中共统购统销和农业税兴废的举措。</span><span class="english">This article explores the rise and the abolishment of the unified purchase and agricultural tax in China.</span></p>

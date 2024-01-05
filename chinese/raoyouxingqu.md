@@ -1,5 +1,7 @@
 # 饶有兴趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/raoyouxingqu.md)
+
 <p><span class="chinese">皮彻饶有兴趣地看着他们。</span><span class="english">Pitcher watched them with interest.</span></p>
 
 <p><span class="chinese">国家航空总署饶有兴趣地追踪着史蒂夫此事的进展。</span><span class="english">NASA followed Stevie’s progress with interest.</span></p>

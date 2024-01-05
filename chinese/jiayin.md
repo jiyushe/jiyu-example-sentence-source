@@ -1,5 +1,7 @@
 # 佳音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiayin.md)
+
 <p><span class="chinese">我的名字叫秦佳音。</span><span class="english">My name is Qin Jiayin.</span></p>
 
 <p><span class="chinese">戒指与欢乐，所有佳音。</span><span class="english">With joyful ring, all caroling.</span></p>

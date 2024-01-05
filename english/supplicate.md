@@ -1,5 +1,7 @@
 # supplicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supplicate.md)
+
 <p><span class="chinese">求你啦，告诉我吧。</span><span class="english">I supplicate you to tell me.</span></p>
 
 <p><span class="chinese">所以，绝不要祈求。要感激。</span><span class="english">Therefore never supplicate. Appreciate.</span></p>

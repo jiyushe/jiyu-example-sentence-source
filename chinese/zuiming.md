@@ -1,5 +1,7 @@
 # 罪名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuiming.md)
+
 <p><span class="chinese">他被陪审团裁定罪名成立。</span><span class="english">He was convicted by a jury.</span></p>
 
 <p><span class="chinese">他被洗脱所有指控的罪名。</span><span class="english">He was cleared of all charges.</span></p>

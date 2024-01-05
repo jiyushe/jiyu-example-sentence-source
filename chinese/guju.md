@@ -1,5 +1,7 @@
 # 故居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guju.md)
+
 <p><span class="chinese">她的故居现在已是博物馆了。</span><span class="english">Her house is a museum now.</span></p>
 
 <p><span class="chinese">梁实秋故居位于鱼山路33号。</span><span class="english">Liang's former residence at No. 33 Fish Road.</span></p>

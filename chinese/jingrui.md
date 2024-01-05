@@ -1,5 +1,7 @@
 # 精锐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingrui.md)
+
 <p><span class="chinese">居伊国王和麾下精锐卫队。</span><span class="english">King Guy and his bodyguard.</span></p>
 
 <p><span class="chinese">这个师是英国的一支精锐部队。</span><span class="english">This is a crack British division.</span></p>

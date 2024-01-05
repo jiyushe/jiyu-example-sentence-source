@@ -1,5 +1,7 @@
 # 泔脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjiao.md)
+
 <p><span class="chinese">把泔脚拿去喂猪。</span><span class="english">Feed the scraps to the pig.</span></p>
 
 <p><span class="chinese">我去拿一桶泔脚来。</span><span class="english">I'll go and get a bucket of slops.</span></p>

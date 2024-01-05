@@ -1,5 +1,7 @@
 # invite 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invite.md)
+
 <p><span class="chinese">我邀请你去阅读。</span><span class="english">I invite you to read.</span></p>
 
 <p><span class="chinese">邀请别人共进午餐。</span><span class="english">Invite people to lunch.</span></p>

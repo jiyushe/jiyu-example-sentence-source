@@ -1,5 +1,7 @@
 # 认账
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzhang.md)
+
 <p><span class="chinese">自己说的话，怎么不认账?。</span><span class="english">How can you go back upon your word?</span></p>
 
 <p><span class="chinese">错了就要认账。</span><span class="english">If you're wrong, you should admit it.</span></p>

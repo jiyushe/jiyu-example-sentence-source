@@ -1,5 +1,7 @@
 # gigantic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gigantic.md)
+
 <p><span class="chinese">一场人间大聚会。</span><span class="english">What a gigantic human party!</span></p>
 
 <p><span class="chinese">它在庞大的空中闪耀。</span><span class="english">It glittered in the gigantic sky.</span></p>

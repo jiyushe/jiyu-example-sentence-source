@@ -1,5 +1,7 @@
 # nondescript
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nondescript.md)
+
 <p><span class="chinese">她穿着平平常常的衣服。</span><span class="english">She was wearing nondescript clothes.</span></p>
 
 <p><span class="chinese">你拥有了一只无以名状的相机保护包！</span><span class="english">You've got a protective yet nondescript camera bag!</span></p>

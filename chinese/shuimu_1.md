@@ -1,5 +1,7 @@
 # 税目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimu_1.md)
+
 <p><span class="chinese">以表芯装成的钟，但不包括税目91.04的钟。</span><span class="english">Clocks with watch movements, excluding clocks of heading No. 91.04</span></p>
 
 <p><span class="chinese">具体品种及税目另行公布。</span><span class="english">The specific categories and tax items shall be promulgated separately.</span></p>

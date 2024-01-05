@@ -1,5 +1,7 @@
 # vocational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocational.md)
+
 <p><span class="chinese">我是从职业学校出来的。</span><span class="english">I am from a vocational school.</span></p>
 
 <p><span class="chinese">重视职业教育。</span><span class="english">Emphasis on vocational education.</span></p>

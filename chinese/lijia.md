@@ -1,5 +1,7 @@
 # 例假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijia.md)
+
 <p><span class="chinese">你妻子上一次例假是在什么时候？</span><span class="english">When was your wife's last menstrual period?</span></p>
 
 <p><span class="chinese">我的妻子心情烦燥，一定是到了来例假的日子。</span><span class="english">My wife is crabby. It must be that time of the Month.</span></p>

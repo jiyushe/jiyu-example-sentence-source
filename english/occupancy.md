@@ -1,5 +1,7 @@
 # occupancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occupancy.md)
+
 <p><span class="chinese">这就是洪特定律,它解释了电子分布问题。</span><span class="english">This is the Hund Rule and it explains electron occupancy.</span></p>
 
 <p><span class="chinese">这就是洪特定律，它解释了电子分布问题。</span><span class="english">This is the Hund Rule and it explains electron occupancy.</span></p>

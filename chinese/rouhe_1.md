@@ -1,5 +1,7 @@
 # 柔和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouhe_1.md)
+
 <p><span class="chinese">柔和侍人，始终如一。</span><span class="english">Be gentle with other, always.</span></p>
 
 <p><span class="chinese">她的声音柔和，带有气息。</span><span class="english">Her voice was soft and breathy.</span></p>

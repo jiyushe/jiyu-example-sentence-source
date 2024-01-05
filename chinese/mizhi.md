@@ -1,5 +1,7 @@
 # 密植
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mizhi.md)
+
 <p><span class="chinese">他说，经过密植的具有竞争力的作物会很快遮蔽土地，这将有助于抑制杂草生长。</span><span class="english">He says a dense, competitive crop that quickly shades the soil will help suppress many weeds.</span></p>
 
 <p><span class="chinese">合理密植可提高单位面积的切花产量而不会影响质量。</span><span class="english">Reasonably dense planting can increase the cut flower output without sacrificing the quality.</span></p>

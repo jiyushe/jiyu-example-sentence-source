@@ -1,5 +1,7 @@
 # 风能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengneng.md)
+
 <p><span class="chinese">很明显，里根看不起风能。</span><span class="english">Evidently, Reagan despised wind power.</span></p>
 
 <p><span class="chinese">然而，大部分风能潜藏在高海拔区域。</span><span class="english">But most of this energy is at high altitude.</span></p>

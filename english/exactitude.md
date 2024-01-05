@@ -1,5 +1,7 @@
 # exactitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exactitude.md)
+
 <p><span class="chinese">制图正确、标注齐全符合国家标准。</span><span class="english">Graphics exactitude , mark well-found match a nation standard.</span></p>
 
 <p><span class="chinese">实验表明，建立的精确衰减模型是正确和有效的。</span><span class="english">With experimentations, the models are exactitude and effectual.</span></p>

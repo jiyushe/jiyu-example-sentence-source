@@ -1,5 +1,7 @@
 # 光明正大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangmingzhengda.md)
+
 <p><span class="chinese">这笔交易完全是光明正大的。</span><span class="english">The deal was completely above board.</span></p>
 
 <p><span class="chinese">我做生意都是光明正大的。</span><span class="english">My business dealings are above board.</span></p>

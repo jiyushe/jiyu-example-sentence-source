@@ -1,5 +1,7 @@
 # tine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tine.md)
+
 <p><span class="chinese">不要等到有时间了，才能够去付出、服务。</span><span class="english">Don't wait to have tine to be able to serve.</span></p>
 
 <p><span class="chinese">所以我们能在一个长的时间以后仍然记得某事。</span><span class="english">That's why we still remember things after a long tine.</span></p>

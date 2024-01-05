@@ -1,5 +1,7 @@
 # astound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astound.md)
+
 <p><span class="chinese">我的热度没有吓坏你吗？</span><span class="english">Does not my heat astound you.</span></p>
 
 <p><span class="chinese">易用性将你震惊。</span><span class="english">The ease of use will astound you.</span></p>

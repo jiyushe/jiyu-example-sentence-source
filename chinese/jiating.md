@@ -1,5 +1,7 @@
 # 家庭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiating.md)
+
 <p><span class="chinese">举行家庭辩论赛。</span><span class="english">Hold debates.</span></p>
 
 <p><span class="chinese">我喜欢我的家庭。</span><span class="english">I like my family.</span></p>

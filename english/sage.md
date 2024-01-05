@@ -1,5 +1,7 @@
 # sage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sage.md)
+
 <p><span class="chinese">泡一杯鼠尾草茶。</span><span class="english">Brew a cup of sage tea.</span></p>
 
 <p><span class="chinese">鼠尾草、薄荷均为药草。</span><span class="english">Sage and mint are herbs.</span></p>

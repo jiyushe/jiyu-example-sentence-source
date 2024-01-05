@@ -1,5 +1,7 @@
 # 通关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongguan_2.md)
+
 <p><span class="chinese">你可以通关了。</span><span class="english">You may go through now.</span></p>
 
 <p><span class="chinese">他暗通关节，钻营投机挤进了委员会。</span><span class="english">He bribed himself onto the committee.</span></p>

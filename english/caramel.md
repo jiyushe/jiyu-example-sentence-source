@@ -1,5 +1,7 @@
 # caramel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caramel.md)
+
 <p><span class="chinese">焦糖姜味脆饼。</span><span class="english">Caramel Ginger Crunchies.</span></p>
 
 <p><span class="chinese">但其实，整个作品都是用焦糖做成的。</span><span class="english">However, it’s made entirely of caramel.</span></p>

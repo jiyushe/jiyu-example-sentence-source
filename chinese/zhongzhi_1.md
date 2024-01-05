@@ -1,5 +1,7 @@
 # 中止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhi_1.md)
+
 <p><span class="chinese">谎言必须要中止。</span><span class="english">The lies have to stop.</span></p>
 
 <p><span class="chinese">升级中止。</span><span class="english">The upgrade aborts now.</span></p>

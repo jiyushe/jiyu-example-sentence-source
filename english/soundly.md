@@ -1,5 +1,7 @@
 # soundly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soundly.md)
+
 <p><span class="chinese">他们睡得都很香。</span><span class="english">They all slept soundly.</span></p>
 
 <p><span class="chinese">她睡得正香。</span><span class="english">She is sleeping soundly.</span></p>

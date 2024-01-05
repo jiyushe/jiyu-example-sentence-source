@@ -1,5 +1,7 @@
 # meager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meager.md)
+
 <p><span class="chinese">又黑又瘦的永生被镀成金色。</span><span class="english">Meager immortality black and gilded.</span></p>
 
 <p><span class="chinese">人类真正需要的的东西是非常之微少的。</span><span class="english">What humans really need is very meager.</span></p>

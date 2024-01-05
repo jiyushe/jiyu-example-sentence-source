@@ -1,5 +1,7 @@
 # 知觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijue_1.md)
+
 <p><span class="chinese">有知觉的。</span><span class="english">Righty is conscious.</span></p>
 
 <p><span class="chinese">镇静剂使她失去知觉。</span><span class="english">Tranquilizers zonked her out.</span></p>

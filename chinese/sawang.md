@@ -1,5 +1,7 @@
 # 撒网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sawang.md)
+
 <p><span class="chinese">撒网捕风，徒劳无益。</span><span class="english">Catch the wind with a net.</span></p>
 
 <p><span class="chinese">撒网捕风，徒劳无功。</span><span class="english">The wind cannot be caught in net.</span></p>

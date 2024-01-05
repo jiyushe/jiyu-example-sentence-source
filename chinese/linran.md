@@ -1,5 +1,7 @@
 # 凛然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linran.md)
+
 <p><span class="chinese">黑人凛然拒之，超过100人因此被捕。</span><span class="english">When they refused, over 100 were arrested.</span></p>
 
 <p><span class="chinese">这位老人在祖国眼前可说是浩气凛然。</span><span class="english">This aged man is august in the eyes of his country.</span></p>

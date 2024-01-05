@@ -1,5 +1,7 @@
 # icr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icr.md)
+
 <p><span class="chinese">实验选用不同年龄的ICR纯系小鼠，腹腔注射MPTP。</span><span class="english">The ICR mice were injected with MPTP in abdominal cavity.</span></p>
 
 <p><span class="chinese">塞族控制区内甚至举行了选举，不过联合国、欧盟及国际民事代表处宣布该选举无效。</span><span class="english">It even held local elections, condemned as illegal by the UN, the EU and the ICR.</span></p>

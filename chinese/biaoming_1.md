@@ -1,5 +1,7 @@
 # 表明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoming_1.md)
+
 <p><span class="chinese">不过他通常是在最后才表明态度。</span><span class="english">That was always the end.</span></p>
 
 <p><span class="chinese">我都会表明自己是一个笨蛋。</span><span class="english">I'd prove myself a moron.</span></p>

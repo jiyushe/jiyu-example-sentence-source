@@ -1,5 +1,7 @@
 # 毛骨悚然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maogusongran.md)
+
 <p><span class="chinese">我喜欢读使人毛骨悚然的小说。</span><span class="english">I love thrillers.</span></p>
 
 <p><span class="chinese">听上去挺毛骨悚然的，但这的确是事实。</span><span class="english">Macabre but true.</span></p>

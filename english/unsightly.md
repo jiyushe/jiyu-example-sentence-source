@@ -1,5 +1,7 @@
 # unsightly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsightly.md)
+
 <p><span class="chinese">他的皮肤上长满了难看的疹块。</span><span class="english">His skin was covered with unsightly blotches.</span></p>
 
 <p><span class="chinese">然而，他们却很难看，也引起疼痛。</span><span class="english">However, they are unsightly and can be painful.</span></p>

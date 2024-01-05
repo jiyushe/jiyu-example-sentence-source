@@ -1,5 +1,7 @@
 # extendible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extendible.md)
+
 <p><span class="chinese">及时响应的、灵活的且可扩展的基础设施</span><span class="english">Responsive, flexible, and extendible infrastructure</span></p>
 
 <p><span class="chinese">如上所述，它提供了更多信息，并且易于扩展。</span><span class="english">As mentioned, it provides more information and is easily extendible.</span></p>

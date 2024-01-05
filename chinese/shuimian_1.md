@@ -1,5 +1,7 @@
 # 睡眠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimian_1.md)
+
 <p><span class="chinese">睡眠呼吸暂停是可以治疗的。</span><span class="english">It is treatable.</span></p>
 
 <p><span class="chinese">＊只在夜间睡眠。</span><span class="english">Sleep only at night.</span></p>

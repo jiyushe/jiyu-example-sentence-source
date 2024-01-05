@@ -1,5 +1,7 @@
 # 原封不动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanfengbudong.md)
+
 <p><span class="chinese">这封信被原封不动地退了回来。</span><span class="english">The letter was returned to him unopened.</span></p>
 
 <p><span class="chinese">房间里的所有东西都保持原封不动。</span><span class="english">All the things in the room were kept changeless.</span></p>

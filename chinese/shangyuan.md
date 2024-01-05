@@ -1,5 +1,7 @@
 # 上院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangyuan.md)
+
 <p><span class="chinese">贵族院就是英国议会的上院。</span><span class="english">House of the British Parliament.</span></p>
 
 <p><span class="chinese">上院否决了该项议案。</span><span class="english">The motion was negatived by the House.</span></p>

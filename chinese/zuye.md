@@ -1,5 +1,7 @@
 # 卒业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuye.md)
+
 <p><span class="chinese">我要带你妈妈去卒业舞会。</span><span class="english">I'll take your mom to the prom.</span></p>
 
 <p><span class="chinese">他的两个孩子也的确从密歇根大学卒业。</span><span class="english">Both of his kids actually did graduate Michigan.</span></p>

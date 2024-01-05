@@ -1,5 +1,7 @@
 # 粘液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianye.md)
+
 <p><span class="chinese">蛇会对受害者分泌粘液。</span><span class="english">The snake slimed his victim.</span></p>
 
 <p><span class="chinese">你的大便里有血或粘液吗？</span><span class="english">Be there any blood or mucus in your stool?</span></p>

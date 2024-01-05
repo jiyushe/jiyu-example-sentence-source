@@ -1,5 +1,7 @@
 # landor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landor.md)
+
 <p><span class="chinese">是的，我是兰道。</span><span class="english">Yes, I an Landor.</span></p>
 
 <p><span class="chinese">墨尔本问朗涛发展一套连贯的品牌战略、新身份系统。</span><span class="english">City of Melbourne asked Landor to develop a cohesive brand strategy and new identity system.</span></p>

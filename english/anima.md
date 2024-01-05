@@ -1,5 +1,7 @@
 # anima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anima.md)
+
 <p><span class="chinese">请把你的灵魂交给撒旦大人。</span><span class="english">Please give your anima to Satany.</span></p>
 
 <p><span class="chinese">软件质量是软件的生命。</span><span class="english">The anima of software is quality.</span></p>

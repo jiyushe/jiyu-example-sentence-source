@@ -1,5 +1,7 @@
 # ninety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ninety.md)
+
 <p><span class="chinese">有九十个刎。</span><span class="english">There are ninety.</span></p>
 
 <p><span class="chinese">这种教室大概装90人。</span><span class="english">The room hosts about ninety.</span></p>

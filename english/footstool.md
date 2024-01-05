@@ -1,5 +1,7 @@
 # footstool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footstool.md)
+
 <p><span class="chinese">那脚凳究竟是甚麽呢？</span><span class="english">And what is that footstool?</span></p>
 
 <p><span class="chinese">等我使你仇敌作你的脚凳。</span><span class="english">Until I make thy foes thy footstool.</span></p>

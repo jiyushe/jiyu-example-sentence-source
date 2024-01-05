@@ -1,5 +1,7 @@
 # bba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bba.md)
+
 <p><span class="chinese">商管学士毕业生于茶聚中与老师们拍照留念。</span><span class="english">BBA graduates took a group photo with teaching faculty in the Tea Reception.</span></p>
 
 <p><span class="chinese">胡先生向在场的商管生讲述他在证券资本市场业界发展的经历。</span><span class="english">Mr. Wu was sharing his experiences in equity capital markets with BBA students.</span></p>

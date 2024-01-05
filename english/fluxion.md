@@ -1,5 +1,7 @@
 # fluxion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluxion.md)
+
 <p><span class="chinese">公文的流动通过强大的工作流引擎来实现。</span><span class="english">The fluxion of the document use the mighty workflow engine to realize.</span></p>
 
 <p><span class="chinese">在上海有很多外地人，所以上海人口流动很大。</span><span class="english">There are many foreigners in Shanghai, so the fluxion of population is very large.</span></p>

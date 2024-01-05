@@ -1,5 +1,7 @@
 # 奋发有为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfayouwei.md)
+
 <p><span class="chinese">认识的主体性为奋发有为的人生奠定理论基础。</span><span class="english">Subjectiveness of cognition lays the foundation for diligent and ambitious people.</span></p>
 
 <p><span class="chinese">您不仅是一位好老师，也是我们亲密的朋友，谢谢您帮助我们奋发有为。</span><span class="english">Thank you for helping us make something of our lives.My heartfelt thanks to you, dear teacher.</span></p>

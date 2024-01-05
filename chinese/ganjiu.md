@@ -1,5 +1,7 @@
 # 干酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjiu.md)
+
 <p><span class="chinese">干嘛不尝一杯干酒蒲萄酒吗？</span><span class="english">Why don't you try a glass of dry whellote wine?</span></p>
 
 <p><span class="chinese">确定你是要口感强烈的干酒还是清淡果味浓的葡萄酒。</span><span class="english">Decide if you want a dry, intense wine, or a lighter, fruity wine.</span></p>

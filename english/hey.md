@@ -1,5 +1,7 @@
 # hey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hey.md)
+
 <p><span class="chinese">哦，嘿。</span><span class="english">Oh, hey.</span></p>
 
 <p><span class="chinese">老妹说“嘿”</span><span class="english">Sis says "hey""</span></p>

@@ -1,5 +1,7 @@
 # 休戚相关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuqixiangguan.md)
+
 <p><span class="chinese">我们的社区银行也与此休戚相关。</span><span class="english">And our community banks also have a stake in reform.</span></p>
 
 <p><span class="chinese">梅尔夫人和奥斯蒙德是休戚相关的。</span><span class="english">Madame Merle's interest was identical with Osmond's.</span></p>

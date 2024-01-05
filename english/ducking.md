@@ -1,5 +1,7 @@
 # ducking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ducking.md)
+
 <p><span class="chinese">不要跑和回避作掩护，他抽出了他的9毫米火箭筒。</span><span class="english">Instead of running and ducking for cover, he drew his 9mm sidearm.</span></p>
 
 <p><span class="chinese">当我们来到一处狭小的地方时，我注意到人们低下头来。</span><span class="english">When we came to a narrow place in the road, I noticed people ducking.</span></p>

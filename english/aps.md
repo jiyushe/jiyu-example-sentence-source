@@ -1,5 +1,7 @@
 # aps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aps.md)
+
 <p><span class="chinese">下腰痛诊疗指南是美国内科医师学会和美国痛疼学会于2007年发布的。</span><span class="english">The LBP guidelines from the ACP and the APS came out in 2007.</span></p>
 
 <p><span class="chinese">用户可以查看到已装备的帧数以及每一帧中的ap。</span><span class="english">The user can see the number of frames equipped and APs in each frame.</span></p>

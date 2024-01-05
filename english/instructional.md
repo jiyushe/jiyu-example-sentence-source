@@ -1,5 +1,7 @@
 # instructional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instructional.md)
+
 <p><span class="chinese">有一本使用手册！</span><span class="english">There is an instructional manual !</span></p>
 
 <p><span class="chinese">教学内容的多种输出方式。</span><span class="english">Multi-output of instructional content.</span></p>

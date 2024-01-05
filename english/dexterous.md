@@ -1,5 +1,7 @@
 # dexterous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dexterous.md)
+
 <p><span class="chinese">林先生是位技术纯熟的外科医师。</span><span class="english">Mr. Lin is a dexterous surgeon.</span></p>
 
 <p><span class="chinese">那我们就来看看你怎么使巧劲儿。</span><span class="english">Let's see how dexterous you are.</span></p>

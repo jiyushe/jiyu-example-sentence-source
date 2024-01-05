@@ -1,5 +1,7 @@
 # polarimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarimeter.md)
+
 <p><span class="chinese">将这些溶液加到自储物室取出的旋光管中。</span><span class="english">Add this to a polarimeter tube obtained from the stock room.</span></p>
 
 <p><span class="chinese">因陋就简地为旋光仪加装恒温水套，避免了温度对实验的影响。</span><span class="english">It is explained that I append a thermostatic water-jacket to the polarimeter.</span></p>

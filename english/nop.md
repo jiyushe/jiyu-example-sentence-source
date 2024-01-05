@@ -1,5 +1,7 @@
 # nop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nop.md)
+
 <p><span class="chinese">国家有机项目来认可有机认证项目。</span><span class="english">The NOP accredits the organic certification programs.</span></p>
 
 <p><span class="chinese">并且供应商提供的有机成分必须也是NOP认证的。</span><span class="english">Also your suppliers of organic ingredients must be NOP certified.</span></p>

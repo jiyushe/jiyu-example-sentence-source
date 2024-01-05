@@ -1,5 +1,7 @@
 # exceedingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exceedingly.md)
+
 <p><span class="chinese">生命是极其短暂的。</span><span class="english">Life is exceedingly brief.</span></p>
 
 <p><span class="chinese">这件工作做得很是超卓。</span><span class="english">It's exceedingly well done.</span></p>

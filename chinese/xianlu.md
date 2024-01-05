@@ -1,5 +1,7 @@
 # 显露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianlu.md)
+
 <p><span class="chinese">我不能把恐惧显露出来。</span><span class="english">I could not show fear.</span></p>
 
 <p><span class="chinese">她绽出笑容，显露内心的欢乐。</span><span class="english">Her smile told her joy.</span></p>

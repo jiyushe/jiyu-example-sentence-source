@@ -1,5 +1,7 @@
 # 物是人非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushirenfei.md)
+
 <p><span class="chinese">物是人非啊！</span><span class="english">People have changed ah!</span></p>
 
 <p><span class="chinese">不过依家都物是人非咯…</span><span class="english">I will never forget the person.</span></p>

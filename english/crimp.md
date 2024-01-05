@@ -1,5 +1,7 @@
 # crimp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crimp.md)
+
 <p><span class="chinese">用装订机装订好书脊。</span><span class="english">Crimp spine on pages for permanent binding.</span></p>
 
 <p><span class="chinese">销子安装后，将铰链两端紧固。以免销子脱落。</span><span class="english">Crimp hinge ends after pin installation to retain pin.</span></p>

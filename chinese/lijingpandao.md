@@ -1,5 +1,7 @@
 # 离经叛道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijingpandao.md)
+
 <p><span class="chinese">我就要做一个离经叛道的异教徒！</span><span class="english">I was about to become a heretic!</span></p>
 
 <p><span class="chinese">所有伟大的真理开始都离经叛道</span><span class="english">ALL GREAT TRUTHS BEGIN AS BLASPHEMIES</span></p>

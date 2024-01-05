@@ -1,5 +1,7 @@
 # profiteer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profiteer.md)
+
 <p><span class="chinese">他是个投机商。</span><span class="english">He is a profiteer.</span></p>
 
 <p><span class="chinese">我觉得自己就像一个战时的奸商。</span><span class="english">I feel like a war-time profiteer.</span></p>

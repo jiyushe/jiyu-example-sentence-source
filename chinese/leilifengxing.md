@@ -1,5 +1,7 @@
 # 雷厉风行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leilifengxing.md)
+
 <p><span class="chinese">要养成雷厉风行的习惯是需要一点时间的。</span><span class="english">It takes time to develop the habit of taking action.</span></p>
 
 <p><span class="chinese">你或许认为“雷厉风行，只争朝夕”是最好的办事风格吧。</span><span class="english">You would think that immediate, unmitigated action is best.</span></p>

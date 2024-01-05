@@ -1,5 +1,7 @@
 # phosgene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosgene.md)
+
 <p><span class="chinese">四氯化碳，四氯乙烯，氯仿，光气。</span><span class="english">Carbon tetrachloride, tetrachloroethylene, chloroform, phosgene.</span></p>
 
 <p><span class="chinese">避免使用价格昂贵的原料如苄基氯甲酸酯。</span><span class="english">Phosgene as the raw material was used instead of benzyl chloroformate.</span></p>

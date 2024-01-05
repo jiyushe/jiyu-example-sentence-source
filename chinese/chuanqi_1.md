@@ -1,5 +1,7 @@
 # 喘气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanqi_1.md)
+
 <p><span class="chinese">她在喘气，他们冷静下来。</span><span class="english">She gasps as they calm down.</span></p>
 
 <p><span class="chinese">好，不要喘气。</span><span class="english">That should not take a breath.</span></p>

@@ -1,5 +1,7 @@
 # hygroscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hygroscopic.md)
+
 <p><span class="chinese">无水草酸有吸湿性。</span><span class="english">Anhydrous oxalic acid are hygroscopic.</span></p>
 
 <p><span class="chinese">氯化锂盐具有吸湿性的。</span><span class="english">The salt lithium chloride is hygroscopic.</span></p>

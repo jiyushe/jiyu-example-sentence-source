@@ -1,5 +1,7 @@
 # 自行车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixingche.md)
+
 <p><span class="chinese">我常骑自行车。</span><span class="english">I cycle a lot.</span></p>
 
 <p><span class="chinese">大众自行车D8</span><span class="english">Public Bikes D8</span></p>

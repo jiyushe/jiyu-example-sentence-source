@@ -1,5 +1,7 @@
 # pulverize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulverize.md)
+
 <p><span class="chinese">它可以一下就粉碎一块巨石。</span><span class="english">It can pulverize a boulder in one strike.</span></p>
 
 <p><span class="chinese">在其他的时刻，我扬言要粉碎它。</span><span class="english">On other occasions I threatened to pulverize it.</span></p>

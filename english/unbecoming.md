@@ -1,5 +1,7 @@
 # unbecoming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbecoming.md)
+
 <p><span class="chinese">干这种事与他的身分极不相称。</span><span class="english">It is utterly unbecoming of him to do such a thing.</span></p>
 
 <p><span class="chinese">你绝不能做出与你的地位不相称的事情。</span><span class="english">You must not do what is unbecoming for your situation.</span></p>

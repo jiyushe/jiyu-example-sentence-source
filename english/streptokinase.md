@@ -1,5 +1,7 @@
 # streptokinase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streptokinase.md)
+
 <p><span class="chinese">我们进行了一项试验，以阐明胸膜腔内应用链激酶的治疗作用。</span><span class="english">We conducted a trial to clarify the therapeutic role of intrapleural streptokinase.</span></p>
 
 <p><span class="chinese">用链激酶溶栓治疗比先前想象的效果更差。</span><span class="english">Fibrinolytic therapy with streptokinase is less efficacious than previously believed.</span></p>

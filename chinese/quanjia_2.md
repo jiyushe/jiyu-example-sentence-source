@@ -1,5 +1,7 @@
 # 劝架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanjia_2.md)
+
 <p><span class="chinese">约翰，你怎么不上去劝架？</span><span class="english">John, why don't you stop them fighting?</span></p>
 
 <p><span class="chinese">一开始我还想去劝架，后来还是算了。</span><span class="english">At first I wanted to stop it, but I left them be.</span></p>

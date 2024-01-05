@@ -1,5 +1,7 @@
 # dialyzer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dialyzer.md)
+
 <p><span class="chinese">本实用新型是一种静电药物透析器。</span><span class="english">The utility model relates to an electrostatic dialyzer for remedies.</span></p>
 
 <p><span class="chinese">结论国产PES14HF聚醚砜高通量透析器临床使用安全、有效。</span><span class="english">Conclusion PES14HF dialyzer is efficient and safe for clinical application.</span></p>

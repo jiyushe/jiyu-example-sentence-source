@@ -1,5 +1,7 @@
 # hypermarket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypermarket.md)
+
 <p><span class="chinese">然而，在北京市中心的华普超市，周四上午盐就卖光了。</span><span class="english">Nonetheless, in downtown Beijing, Huapu Hypermarket sold out of salt Thursday morning.</span></p>
 
 <p><span class="chinese">您知道西门町吗？西门捷运站附近有个大卖场。</span><span class="english">Do you know a place named Ximending? There is a hypermarket near the Ximen MRT station.</span></p>

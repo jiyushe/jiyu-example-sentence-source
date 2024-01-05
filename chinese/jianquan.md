@@ -1,5 +1,7 @@
 # 健全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianquan.md)
+
 <p><span class="chinese">健全的精力寓于康健的身板。</span><span class="english">B sound mind in a sound body.</span></p>
 
 <p><span class="chinese">健全的精神，寓于健全的体格。——朱文奴。</span><span class="english">Sound spirit, in a sound body.</span></p>

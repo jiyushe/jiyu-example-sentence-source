@@ -1,5 +1,7 @@
 # psychoanalytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychoanalytic.md)
+
 <p><span class="chinese">这里面全是精神分析的一派胡言。</span><span class="english">It's all full of psychoanalytic mumbo- jumbo.</span></p>
 
 <p><span class="chinese">因为连课前作业都完全像一个心理学测试。</span><span class="english">Even the pre-assignment is totally like psychoanalytic test.</span></p>

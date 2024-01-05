@@ -1,5 +1,7 @@
 # protrude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protrude.md)
+
 <p><span class="chinese">不要让你前侧肋骨的下端向前突出。</span><span class="english">Don't let your lower front ribs protrude forward.</span></p>
 
 <p><span class="chinese">他们的眼睛嵌在身体里，一点都不向外凸出。</span><span class="english">The eyes lie flush with the body and do not protrude at all.</span></p>

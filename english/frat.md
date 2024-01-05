@@ -1,5 +1,7 @@
 # frat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frat.md)
+
 <p><span class="chinese">你想让我加入你的兄弟会?。</span><span class="english">So you want me to join your frat?</span></p>
 
 <p><span class="chinese">但是它真的很好，因为这是个医学预科兄弟会，</span><span class="english">But it's really nice because it's a pre-med frat</span></p>

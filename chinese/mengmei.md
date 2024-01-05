@@ -1,5 +1,7 @@
 # 蒙昧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengmei.md)
+
 <p><span class="chinese">偶尔辰，蒙昧也是一种福泽。</span><span class="english">Sometimes ignorance can be bliss.</span></p>
 
 <p><span class="chinese">这只是个蒙昧的例子并非不敦朴。</span><span class="english">This is an instance of stupidity not dishonesty.</span></p>

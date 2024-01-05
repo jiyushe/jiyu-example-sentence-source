@@ -1,5 +1,7 @@
 # hazy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hazy.md)
+
 <p><span class="chinese">不清楚工作对自己的要求。</span><span class="english">Hazy about demand from shebang.</span></p>
 
 <p><span class="chinese">人悄悄，帘外月胧明。</span><span class="english">People quietly, out curtain hazy on.</span></p>

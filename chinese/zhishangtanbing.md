@@ -1,5 +1,7 @@
 # 纸上谈兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishangtanbing.md)
+
 <p><span class="chinese">不要再纸上谈兵了，实验它，而且今天就实验。</span><span class="english">Don't just discuss your theories, test them, and test them today.</span></p>
 
 <p><span class="chinese">纸上谈兵没用。这绝对是一门令人受益的课程。</span><span class="english">Being an armchair strategist doesn't work. This is a useful lesson.</span></p>

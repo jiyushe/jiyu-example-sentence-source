@@ -1,5 +1,7 @@
 # cabochon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabochon.md)
+
 <p><span class="chinese">是要钻石的、红宝石的还是蓝宝石的？</span><span class="english">A sapphire that was cut cabochon.</span></p>
 
 <p><span class="chinese">八角形表冠设置蓝色凸圆形树冠。</span><span class="english">Octagonal-shaped crown set with blue cabochon crown.</span></p>

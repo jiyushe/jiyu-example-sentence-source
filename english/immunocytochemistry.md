@@ -1,5 +1,7 @@
 # immunocytochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunocytochemistry.md)
+
 <p><span class="chinese">方法免疫细胞化学和原位杂交技术。</span><span class="english">Methods Immunocytochemistry and in situ hybridization.</span></p>
 
 <p><span class="chinese">以免疫细胞化学法检测BACE基因的表达情况。</span><span class="english">The expression of the BACE gene was detected by immunocytochemistry.</span></p>

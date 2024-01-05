@@ -1,5 +1,7 @@
 # ritual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ritual.md)
+
 <p><span class="chinese">让这成为家庭惯例。</span><span class="english">Make this a family ritual.</span></p>
 
 <p><span class="chinese">于静中完成这道仪式。</span><span class="english">In the static in this ritual.</span></p>

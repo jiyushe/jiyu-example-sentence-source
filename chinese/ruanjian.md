@@ -1,5 +1,7 @@
 # 软件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanjian.md)
+
 <p><span class="chinese">软件类。</span><span class="english">Software category.</span></p>
 
 <p><span class="chinese">一言以蔽之，软件。</span><span class="english">In a word, software.</span></p>

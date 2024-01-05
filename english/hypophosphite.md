@@ -1,5 +1,7 @@
 # hypophosphite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypophosphite.md)
+
 <p><span class="chinese">所有四个优先使用化学浴次磷酸钠作为还原剂。</span><span class="english">All four preferred electroless baths use hypophosphite as a reducing agent.</span></p>
 
 <p><span class="chinese">重点论述了次磷酸钠工业生产中的杂质去除问题。</span><span class="english">The impurities removing in production of sodium hypophosphite is focused in the paper.</span></p>

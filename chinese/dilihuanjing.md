@@ -1,5 +1,7 @@
 # 地理环境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dilihuanjing.md)
+
 <p><span class="chinese">人类与地理环境的共生。</span><span class="english">Intergrowth of mankind and geographical conditions.</span></p>
 
 <p><span class="chinese">地貌是自然地理环境要素的重要组成部分。</span><span class="english">Geomorphology is one of the most factors of physical geographical environment.</span></p>

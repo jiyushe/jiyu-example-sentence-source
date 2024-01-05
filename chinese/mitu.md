@@ -1,5 +1,7 @@
 # 迷途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mitu.md)
+
 <p><span class="chinese">你的不幸的迷途羔羊！</span><span class="english">Lost sheep of your misfortune!</span></p>
 
 <p><span class="chinese">谋恶的，岂非走入迷途吗？</span><span class="english">Do not those who plot evil go astray?</span></p>

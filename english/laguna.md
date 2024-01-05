@@ -1,5 +1,7 @@
 # laguna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laguna.md)
+
 <p><span class="chinese">加州威尔顿的拉古那.德尔.绍尔度假村</span><span class="english">Laguna del Sol, Wilton, California</span></p>
 
 <p><span class="chinese">智利拉古那圣拉斐尔国家公园</span><span class="english">Laguna San Rafael National Park, Chile</span></p>

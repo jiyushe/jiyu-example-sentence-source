@@ -1,5 +1,7 @@
 # 樊笼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanlong.md)
+
 <p><span class="chinese">自由是打开一切樊笼的钥匙。</span><span class="english">Freedom is the key to open all cages.</span></p>
 
 <p><span class="chinese">他第一次成功地脱出家庭的樊笼。</span><span class="english">He had won his first release from the fences of home.</span></p>

@@ -1,5 +1,7 @@
 # 鼓掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzhang_2.md)
+
 <p><span class="chinese">观众们鼓掌的频率放慢了。</span><span class="english">They clap slowly.</span></p>
 
 <p><span class="chinese">全街垒鼓掌叫好。</span><span class="english">The barricade applauded.</span></p>

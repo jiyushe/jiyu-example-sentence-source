@@ -1,5 +1,7 @@
 # ftp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ftp.md)
+
 <p><span class="chinese">它可以帮助你寻找网络和FTP目录。</span><span class="english">It helps you find web and FTP directories.</span></p>
 
 <p><span class="chinese">FTP伺服器，并自动上传和下载文件。</span><span class="english">FTP server and automatically upload and download files.</span></p>

@@ -1,5 +1,7 @@
 # 轴瓦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouwa.md)
+
 <p><span class="chinese">把轴瓦油路润色一下。</span><span class="english">Dress up the oil way of the bush.</span></p>
 
 <p><span class="chinese">刮研主轴承轴瓦。</span><span class="english">Fit and scrape the main bearing bushes.</span></p>

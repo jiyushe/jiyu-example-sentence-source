@@ -1,5 +1,7 @@
 # daybreak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daybreak.md)
+
 <p><span class="chinese">破晓时雨停了。</span><span class="english">The rain left off at daybreak.</span></p>
 
 <p><span class="chinese">她在拂晓时上吊了。</span><span class="english">She had hanged herself at daybreak.</span></p>

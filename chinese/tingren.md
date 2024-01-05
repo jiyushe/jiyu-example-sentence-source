@@ -1,5 +1,7 @@
 # 听任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingren.md)
+
 <p><span class="chinese">我们是听任命运摆布的块垒吗？</span><span class="english">Are we the puppets of fate?</span></p>
 
 <p><span class="chinese">他听任孩子们乱跑乱闹，不加管束。</span><span class="english">He allows his children to run wild.</span></p>

@@ -1,5 +1,7 @@
 # krona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/krona.md)
+
 <p><span class="chinese">冰岛克朗是冰岛的官方货币。</span><span class="english">The Icelandic krona is the official currency of Iceland.</span></p>
 
 <p><span class="chinese">外国投资者纷纷撤离，给冰岛货币克朗带来了沉重打击。</span><span class="english">Foreign investors fled, pounding the country's currency, the krona.</span></p>

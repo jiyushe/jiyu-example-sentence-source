@@ -1,5 +1,7 @@
 # kit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kit.md)
+
 <p><span class="chinese">基特•吉勒特报道。</span><span class="english">Kit Gillet reports.</span></p>
 
 <p><span class="chinese">下载开发人员工具箱。</span><span class="english">Download the developer kit.</span></p>

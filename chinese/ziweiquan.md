@@ -1,5 +1,7 @@
 # 自卫权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziweiquan.md)
+
 <p><span class="chinese">那样我们就要行使我们的自卫权了。</span><span class="english">Then we'll exercise our right of self-defence.</span></p>
 
 <p><span class="chinese">在被非法攻击下才可使用自卫权。</span><span class="english">The right of self-defense is only available against unlawful attack.</span></p>

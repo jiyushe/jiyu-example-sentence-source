@@ -1,5 +1,7 @@
 # apnea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apnea.md)
+
 <p><span class="chinese">肥胖也会导致睡眠呼吸暂停。</span><span class="english">Obesity can also contribute to sleep apnea.</span></p>
 
 <p><span class="chinese">男人比女人更容易患这种呼吸暂停症。</span><span class="english">Men are more likely than women to develop apnea.</span></p>

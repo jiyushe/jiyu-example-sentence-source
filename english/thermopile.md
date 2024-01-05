@@ -1,5 +1,7 @@
 # thermopile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermopile.md)
+
 <p><span class="chinese">热堆一般是个涂黑了的热探测器。</span><span class="english">Thermopile is usually a blackened thermal detector.</span></p>
 
 <p><span class="chinese">该传感器包括一个膜与热电堆在它上面。</span><span class="english">The sensors consist of a membrane with a thermopile on top of it.</span></p>

@@ -1,5 +1,7 @@
 # inertia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inertia.md)
+
 <p><span class="chinese">这是转动惯量。</span><span class="english">This is the moment of inertia.</span></p>
 
 <p><span class="chinese">又名惯性定律</span><span class="english">It's called the Law of Inertia.</span></p>

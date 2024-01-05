@@ -1,5 +1,7 @@
 # felix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/felix.md)
+
 <p><span class="chinese">费利克斯死于德韦尔登两千三。</span><span class="english">Felix de Weldon died in two thousand three.</span></p>
 
 <p><span class="chinese">费利克斯到天堂中的那片大睡莲浮叶上去了。</span><span class="english">Felix went to that great lily pad in the sky.</span></p>

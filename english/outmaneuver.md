@@ -1,5 +1,7 @@
 # outmaneuver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outmaneuver.md)
+
 <p><span class="chinese">所以你要用些高速移动的策略来对付一些坦克并快速的攻击。</span><span class="english">So use your high speed to outmaneuver other tanks and make quick attacks.</span></p>
 
 <p><span class="chinese">康纳利极力想把对方吓倒，而尼克松的方针是以谋略制胜。</span><span class="english">Connally sought to cow opposition while Nixon's strategy was to outmaneuver it.</span></p>

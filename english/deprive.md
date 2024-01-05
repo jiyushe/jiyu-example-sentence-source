@@ -1,5 +1,7 @@
 # deprive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deprive.md)
+
 <p><span class="chinese">不要剥夺你自己。</span><span class="english">Don't deprive yourself.</span></p>
 
 <p><span class="chinese">他企图剥夺我们一角钱。</span><span class="english">He had sought to deprive us of dime.</span></p>

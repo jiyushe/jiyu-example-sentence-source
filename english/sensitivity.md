@@ -1,5 +1,7 @@
 # sensitivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensitivity.md)
+
 <p><span class="chinese">象质指示器当量灵敏度。</span><span class="english">Equivalent I. Q. I. sensitivity.</span></p>
 
 <p><span class="chinese">高灵敏度低泄漏选择。</span><span class="english">High-Low leak sensitivity selector.</span></p>

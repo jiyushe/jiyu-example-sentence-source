@@ -1,5 +1,7 @@
 # 枕巾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjin.md)
+
 <p><span class="chinese">如果你需要枕巾的话，可以在亚麻制品壁橱中看看。</span><span class="english">If you want a towel, look in the linen closet.</span></p>
 
 <p><span class="chinese">毛巾，浴巾，枕巾，胚布。</span><span class="english">Towel, Bath Towel, Towel Blanket, Grey Fabric.</span></p>

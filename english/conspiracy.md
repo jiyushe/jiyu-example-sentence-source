@@ -1,5 +1,7 @@
 # conspiracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conspiracy.md)
+
 <p><span class="chinese">没有任何阴谋。</span><span class="english">Therewas no conspiracy.</span></p>
 
 <p><span class="chinese">这分明是个阴谋！</span><span class="english">It must be a conspiracy.</span></p>

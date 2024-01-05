@@ -1,5 +1,7 @@
 # confine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confine.md)
+
 <p><span class="chinese">这才是真正的“限权”，也才是非常直接的约束。</span><span class="english">This is the direct way to confine rights.</span></p>
 
 <p><span class="chinese">我限定自己每天只抽五支烟。</span><span class="english">I confine myself to five cigarettes a day.</span></p>

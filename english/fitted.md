@@ -1,5 +1,7 @@
 # fitted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fitted.md)
+
 <p><span class="chinese">这件女上衣她穿正合适。</span><span class="english">The blouse fitted her nicely.</span></p>
 
 <p><span class="chinese">这衣服完全合她的身。</span><span class="english">The dress fitted her perfectly.</span></p>

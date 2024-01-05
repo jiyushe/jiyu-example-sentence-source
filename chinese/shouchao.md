@@ -1,5 +1,7 @@
 # 受潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouchao.md)
+
 <p><span class="chinese">这种木料受潮容易变形。</span><span class="english">This wood warps easily in damp conditions.</span></p>
 
 <p><span class="chinese">皮革受潮可变质。</span><span class="english">Leather can deteriorate in damp conditions.</span></p>

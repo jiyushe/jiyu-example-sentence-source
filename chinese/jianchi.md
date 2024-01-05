@@ -1,5 +1,7 @@
 # 坚持
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianchi.md)
+
 <p><span class="chinese">我必须坚持下去。</span><span class="english">I had to go on.</span></p>
 
 <p><span class="chinese">爱是坚持。</span><span class="english">Love perseveres.</span></p>

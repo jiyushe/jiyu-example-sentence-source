@@ -1,5 +1,7 @@
 # especial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/especial.md)
+
 <p><span class="chinese">在你的生涯外有特殊的己吗？</span><span class="english">Hay alguien especial en tu vida?</span></p>
 
 <p><span class="chinese">她没什么特别的个人奢望。</span><span class="english">She has no especial personal ambition.</span></p>

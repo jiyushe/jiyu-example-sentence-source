@@ -1,5 +1,7 @@
 # 指名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiming.md)
+
 <p><span class="chinese">指定要从子项中删除的指名的值。</span><span class="english">Specifies the named value to be deleted from the subkey.</span></p>
 
 <p><span class="chinese">当老师指名约瑟回等时，他答不出来。</span><span class="english">Jose didn't know the answer when the teacher called on him.</span></p>

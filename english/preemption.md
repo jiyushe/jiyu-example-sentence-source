@@ -1,5 +1,7 @@
 # preemption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preemption.md)
+
 <p><span class="chinese">优先购买权是民法上的一项重要权利。</span><span class="english">Preemption is an important right in civil law.</span></p>
 
 <p><span class="chinese">Evan修改了对于线程的支持，并且添加了一些优先级别。</span><span class="english">Evan fixed our Thread support and added some preemption.</span></p>

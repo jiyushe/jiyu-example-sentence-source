@@ -1,5 +1,7 @@
 # heedless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heedless.md)
+
 <p><span class="chinese">你将得到毫不提防的处女。</span><span class="english">Heedless Virgins you will gain.</span></p>
 
 <p><span class="chinese">他们都和猫儿一样，懒惰驯良。</span><span class="english">They are as heedless and as indolent as cats.</span></p>

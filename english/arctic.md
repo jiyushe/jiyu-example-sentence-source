@@ -1,5 +1,7 @@
 # Arctic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arctic.md)
+
 <p><span class="chinese">拉普兰，北极圈。</span><span class="english">Lapland, the Arctic Circle.</span></p>
 
 <p><span class="chinese">北极海冰近况与分析.</span><span class="english">Arctic Sea Ice News and Analysis.</span></p>

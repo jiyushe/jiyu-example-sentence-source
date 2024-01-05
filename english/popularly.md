@@ -1,5 +1,7 @@
 # popularly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popularly.md)
+
 <p><span class="chinese">这也就是广为人知的所谓“印钱”行为。</span><span class="english">It is what is popularly known as printing money.</span></p>
 
 <p><span class="chinese">此外，大蒜还被广泛地用作穷人的万灵丹。</span><span class="english">Moreover, it's popularly used as the poor man's cure-all.</span></p>

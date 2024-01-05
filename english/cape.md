@@ -1,5 +1,7 @@
 # cape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cape.md)
+
 <p><span class="chinese">她披着一件红披肩。</span><span class="english">She wore a red cape.</span></p>
 
 <p><span class="chinese">船绕过海岬。</span><span class="english">The ship rounded the cape.</span></p>

@@ -1,5 +1,7 @@
 # 衰微
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaiwei.md)
+
 <p><span class="chinese">残留的月光，衰微，衰微！</span><span class="english">Hang-over moons, wane, wane!</span></p>
 
 <p><span class="chinese">他的脉搏衰微，热情安卧无语。</span><span class="english">When his pulse failing, passion speechless lies.</span></p>

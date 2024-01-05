@@ -1,5 +1,7 @@
 # 形影不离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingyingbuli.md)
+
 <p><span class="chinese">两个朋友形影不离。</span><span class="english">The two friends were inseparable.</span></p>
 
 <p><span class="chinese">我总是形影不离，与你计议前程。</span><span class="english">I am always here to plan with you.</span></p>

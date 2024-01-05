@@ -1,5 +1,7 @@
 # synthesise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synthesise.md)
+
 <p><span class="chinese">猫无法从色氨酸中合成足够的烟酸。</span><span class="english">The cat cannot synthesise sufficient nicotinic acid from tryptophan.</span></p>
 
 <p><span class="chinese">但是，也可以让电脑从零开始合成某种声音。</span><span class="english">However, it is also possible to program the computer to synthesise such sounds from scratch.</span></p>

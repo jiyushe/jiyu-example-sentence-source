@@ -1,5 +1,7 @@
 # nefarious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nefarious.md)
+
 <p><span class="chinese">他是一个穷凶极恶的杀人犯。</span><span class="english">He is a nefarious murderer.</span></p>
 
 <p><span class="chinese">他是个穷凶恶极的杀人犯。</span><span class="english">he is a nefarious murderer.</span></p>

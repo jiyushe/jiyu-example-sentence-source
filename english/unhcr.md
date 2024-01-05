@@ -1,5 +1,7 @@
 # unhcr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhcr.md)
+
 <p><span class="chinese">联合国难民署发言人雷德蒙德说，这些蛇头丢下这些人跑了。</span><span class="english">UNHCR spokesman, Ron Redmond, says the smugglers abandoned them.</span></p>
 
 <p><span class="chinese">唐艾飞恩是联合国难民署达达布营区官员。</span><span class="english">Ephraim Tan is a UNHCR Registration officer in Dadaab refugee camp.</span></p>

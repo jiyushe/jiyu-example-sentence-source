@@ -1,5 +1,7 @@
 # radiotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiotherapy.md)
+
 <p><span class="chinese">利用放射治疗机来治疗癌症。</span><span class="english">Cancer is treated by radiotherapy units.</span></p>
 
 <p><span class="chinese">跟骨病变采用放射治疗。</span><span class="english">Radiotherapy was for the case of calcaneus.</span></p>

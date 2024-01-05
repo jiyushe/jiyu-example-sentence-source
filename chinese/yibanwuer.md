@@ -1,5 +1,7 @@
 # 一般无二
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibanwuer.md)
+
 <p><span class="chinese">在最后的分析中，幸福和爱一般无二。</span><span class="english">In the final analysis, there is no difference between happiness and love.</span></p>
 
 <p><span class="chinese">在Stephenson的世界里，胜利一般无二的阅读手册的家伙。</span><span class="english">In Stephenson's world, victory generally goes to the guy who's read the manual.</span></p>

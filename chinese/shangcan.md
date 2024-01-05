@@ -1,5 +1,7 @@
 # 伤残
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangcan.md)
+
 <p><span class="chinese">她的一只胳臂在事故中伤残了。</span><span class="english">Her arm was mutilated in the accident.</span></p>
 
 <p><span class="chinese">我所看到的可怕的死亡和伤残。</span><span class="english">I have seen horrible deaths and mutilations.</span></p>

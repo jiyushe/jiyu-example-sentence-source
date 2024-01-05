@@ -1,5 +1,7 @@
 # standardization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standardization.md)
+
 <p><span class="chinese">降本增效呼唤标准化管理。</span><span class="english">Cost down need standardization management.</span></p>
 
 <p><span class="chinese">标准化的基本概念和标准件。</span><span class="english">Concepts of standardization and standard parts.</span></p>

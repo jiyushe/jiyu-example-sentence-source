@@ -1,5 +1,7 @@
 # trial 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trial.md)
+
 <p><span class="chinese">其他6人尚在候审。</span><span class="english">Six others await trial.</span></p>
 
 <p><span class="chinese">一个审判法庭上的法官。</span><span class="english">A judge in a trial court.</span></p>

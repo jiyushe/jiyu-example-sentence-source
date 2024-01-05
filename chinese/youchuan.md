@@ -1,5 +1,7 @@
 # 游船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youchuan.md)
+
 <p><span class="chinese">泰晤士河在默默消蚀着游船。</span><span class="english">Thames erode ships be silent.</span></p>
 
 <p><span class="chinese">另一个码头停泊着一艘游船。</span><span class="english">One of the jetties leads to a boat.</span></p>

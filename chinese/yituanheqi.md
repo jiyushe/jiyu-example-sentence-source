@@ -1,5 +1,7 @@
 # 一团和气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yituanheqi.md)
+
 <p><span class="chinese">量器统一，童叟无欺，纠纷就少，民间一团和气。</span><span class="english">The same measuring apparatus made trades fair so that disputes became less.</span></p>
 
 <p><span class="chinese">圣诞节没有苦难，即使是士兵也反对打仗，人人都是一团和气。</span><span class="english">There is no adversity on Christmas day. Even the soldiers are adverse to fighting.</span></p>

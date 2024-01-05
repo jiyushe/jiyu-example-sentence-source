@@ -1,5 +1,7 @@
 # citizen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citizen.md)
+
 <p><span class="chinese">谁应该是一个公民？</span><span class="english">Who should be a citizen?</span></p>
 
 <p><span class="chinese">他是一位品格端正的公民。</span><span class="english">He is an upright citizen.</span></p>

@@ -1,5 +1,7 @@
 # innovatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innovatory.md)
+
 <p><span class="chinese">时刻乃是最大的革新家。</span><span class="english">Time is the biggest innovatory.</span></p>
 
 <p><span class="chinese">以上是本论文的创新思想和新见解。</span><span class="english">These opinions discussed hereinbefore are innovatory views of this thesis.</span></p>

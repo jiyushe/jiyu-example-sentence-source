@@ -1,5 +1,7 @@
 # 仪容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yirong.md)
+
 <p><span class="chinese">是我心衣饰的得体仪容。</span><span class="english">Is but the seemly raiment of my heart.</span></p>
 
 <p><span class="chinese">良好的仪容能使你感觉更好。</span><span class="english">Looking better can help you feel better.</span></p>

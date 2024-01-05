@@ -1,5 +1,7 @@
 # 人杰地灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renjiediling.md)
+
 <p><span class="chinese">湖南是一个人杰地灵，景色秀美的地方。</span><span class="english">Hunan is a place of greatness and beauty.</span></p>
 
 <p><span class="chinese">是一个山青水秀、人杰地灵的好地方。</span><span class="english">Is a a good place for outstanding people.</span></p>

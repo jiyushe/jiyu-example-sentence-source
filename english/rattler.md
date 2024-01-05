@@ -1,5 +1,7 @@
 # rattler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rattler.md)
+
 <p><span class="chinese">“是的，那是一条响尾蛇，我不会走近的。”完了！</span><span class="english">Yes, that's a rattler , I won't go near it. ' Finished!</span></p>
 
 <p><span class="chinese">许多人看到响尾蛇时都十分害怕，马上就打电话求助。</span><span class="english">Many people are frightened when they see a rattler and call for help right away.</span></p>

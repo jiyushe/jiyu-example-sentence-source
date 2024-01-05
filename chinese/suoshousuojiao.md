@@ -1,5 +1,7 @@
 # 缩手缩脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoshousuojiao.md)
+
 <p><span class="chinese">别那么缩手缩脚的，说说你到底是什么意思。</span><span class="english">Stop pussyfooting around and say what you mean.</span></p>
 
 <p><span class="chinese">工作你尽管大胆去干，别缩手缩脚的。</span><span class="english">Be bold in doing your work and don't be overcautious.</span></p>

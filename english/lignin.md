@@ -1,5 +1,7 @@
 # lignin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lignin.md)
+
 <p><span class="chinese">木质素的结构单元是愈创木基。</span><span class="english">The structure unit of lignin is guaiacol.</span></p>
 
 <p><span class="chinese">黑液木质素还载有从树上。</span><span class="english">Black liquor also contains lignin from the trees.</span></p>

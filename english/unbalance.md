@@ -1,5 +1,7 @@
 # unbalance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbalance.md)
+
 <p><span class="chinese">他的忧虑可能使他陷于精神错乱。</span><span class="english">His anxieties threatened to unbalance his mind.</span></p>
 
 <p><span class="chinese">中国媒介产业布局出现了结构性失衡。</span><span class="english">The industrial layout of media is structural unbalance.</span></p>

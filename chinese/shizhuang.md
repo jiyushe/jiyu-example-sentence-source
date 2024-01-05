@@ -1,5 +1,7 @@
 # 时装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhuang.md)
+
 <p><span class="chinese">但我依然热爱时装。</span><span class="english">But I still love fashion.</span></p>
 
 <p><span class="chinese">我从事时装行业-搞设计的。</span><span class="english">I'm in fashion-on the design side.</span></p>

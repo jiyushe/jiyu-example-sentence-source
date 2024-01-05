@@ -1,5 +1,7 @@
 # 骨折
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzhe.md)
+
 <p><span class="chinese">骶骨骨折了该注意些什么？</span><span class="english">Sacrum fracture what should notice?</span></p>
 
 <p><span class="chinese">大夫将替丹的骨折的腿正骨。</span><span class="english">The doctor will set Dan's broken leg.</span></p>

@@ -1,5 +1,7 @@
 # 桑蚕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangcan.md)
+
 <p><span class="chinese">还盛产茶叶和桑蚕。</span><span class="english">This area also produces large quantities of tea and silkworms.</span></p>
 
 <p><span class="chinese">其中的桑蚕微粒子虫也是桑蚕的主要病原微生物。</span><span class="english">Of which, Nosema bombycis is a main pathogen to the silkworm, Bombyx mori.</span></p>

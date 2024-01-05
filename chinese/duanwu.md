@@ -1,5 +1,7 @@
 # 端午
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanwu.md)
+
 <p><span class="chinese">因为今天是端午。</span><span class="english">Becuse today is Dragon Boat Festival.</span></p>
 
 <p><span class="chinese">漳县端午，牧童祀山神。</span><span class="english">Zhangxian Dragon Boat Festival, cowboy mountain worship.</span></p>

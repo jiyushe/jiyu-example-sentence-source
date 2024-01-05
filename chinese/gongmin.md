@@ -1,5 +1,7 @@
 # 公民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongmin.md)
+
 <p><span class="chinese">我衷心感谢艾奥瓦的公民们。</span><span class="english">Thank you, Iowa.</span></p>
 
 <p><span class="chinese">日安，女公民。</span><span class="english">Good day citizeness.</span></p>

@@ -1,5 +1,7 @@
 # tajikistan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tajikistan.md)
+
 <p><span class="chinese">例如俄罗斯、乌克兰、莫尔达瓦和塔吉克斯坦。</span><span class="english">They include russia ukraine moldova and tajikistan.</span></p>
 
 <p><span class="chinese">程国平表示，塔吉克斯坦是中国的友好邻邦。</span><span class="english">Cheng said Tajikistan is a friendly neighbor of China.</span></p>

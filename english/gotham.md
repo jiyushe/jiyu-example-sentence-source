@@ -1,5 +1,7 @@
 # gotham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gotham.md)
+
 <p><span class="chinese">戈谭市需要一个真正的英雄。</span><span class="english">Gotham needs its true hero.</span></p>
 
 <p><span class="chinese">高谭需要我是什么样的，我就是那样的人。</span><span class="english">I'm whatever Gotham needs me to be.</span></p>

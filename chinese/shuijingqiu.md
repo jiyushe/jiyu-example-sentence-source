@@ -1,5 +1,7 @@
 # 水晶球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijingqiu.md)
+
 <p><span class="chinese">我有一个里面有熊的大水晶球。</span><span class="english">I have a big snow globe with bears in it.</span></p>
 
 <p><span class="chinese">通过眼球速动睡眠，人们可以成为通晓未来的水晶球吗？</span><span class="english">Could REM sleep turn you into a crystal ball?</span></p>

@@ -1,5 +1,7 @@
 # wring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wring.md)
+
 <p><span class="chinese">把你的湿衣服拧干。</span><span class="english">Wring out your wet clothes.</span></p>
 
 <p><span class="chinese">用完毛巾后，拧干毛巾。</span><span class="english">Wring out your towel after you use it.</span></p>

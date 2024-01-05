@@ -1,5 +1,7 @@
 # degression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degression.md)
+
 <p><span class="chinese">调整后的新能源法将为提高或降低补偿下降率的调节设置更多的门槛。</span><span class="english">The altered EEG contains more threshold values for higher or lower degression.</span></p>
 
 <p><span class="chinese">同时观察水生植物和鱼类的死亡等影响因素。</span><span class="english">To observe mosquito larva density degression rate, both hydrophytes and fishes death rate.</span></p>

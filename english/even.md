@@ -1,5 +1,7 @@
 # even 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/even.md)
+
 <p><span class="chinese">甚至我。</span><span class="english">Even me.</span></p>
 
 <p><span class="chinese">连这都能找到！</span><span class="english">Even up here!</span></p>

@@ -1,5 +1,7 @@
 # 封条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengtiao.md)
+
 <p><span class="chinese">如果是，集装箱的门是否贴封条或上锁？</span><span class="english">If yes, are the container doors sealed or locked?</span></p>
 
 <p><span class="chinese">由谁负责提供和加贴封条？</span><span class="english">Who provides and affixes the seals toconveyances?</span></p>

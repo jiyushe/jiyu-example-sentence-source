@@ -1,5 +1,7 @@
 # nasa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nasa.md)
+
 <p><span class="chinese">艾伦·斯特恩曾是美宇航局空间科学探索项目负责人。</span><span class="english">Stern, former NASA space chief.</span></p>
 
 <p><span class="chinese">因此，美国宇航局计划继续不停地搜索。</span><span class="english">So NASA plans to keep searching.</span></p>

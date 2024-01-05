@@ -1,5 +1,7 @@
 # extravehicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extravehicular.md)
+
 <p><span class="chinese">出舱操作分四阶段，时间超过20小时。</span><span class="english">Extravehicular operations in four phases, time is more than 20 hours.</span></p>
 
 <p><span class="chinese">那么中国航天员首次出舱活动会有哪些风险？</span><span class="english">Well, the first Chinese astronaut extravehicular activities, what the risks are?</span></p>

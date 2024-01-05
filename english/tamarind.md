@@ -1,5 +1,7 @@
 # tamarind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tamarind.md)
+
 <p><span class="chinese">罗望子长满一望无际的草原。</span><span class="english">O'er plains where the tamarind grew.</span></p>
 
 <p><span class="chinese">把黄姜粉、糖、亚参加入拌匀。</span><span class="english">Mix the turmeric powder, sugar and tamarind with water.</span></p>

@@ -1,5 +1,7 @@
 # 选美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanmei.md)
+
 <p><span class="chinese">我很喜欢看选美比赛。</span><span class="english">I really enjoy watching them.</span></p>
 
 <p><span class="chinese">他是那次选美比赛的一名评审。</span><span class="english">He was a judge at the beauty contest.</span></p>

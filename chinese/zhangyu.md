@@ -1,5 +1,7 @@
 # 章鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangyu.md)
+
 <p><span class="chinese">这是她的章鱼“兽穴”。</span><span class="english">This is her octopus "den.</span></p>
 
 <p><span class="chinese">彩虹章鱼同游嬉。</span><span class="english">And swam with rainbow octopus.</span></p>

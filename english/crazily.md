@@ -1,5 +1,7 @@
 # crazily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crazily.md)
+
 <p><span class="chinese">见了一次面后，我却对你痴痴缠。</span><span class="english">After seeing surface, I crazily entangle to u.</span></p>
 
 <p><span class="chinese">这是我的爱好，而且变得非常的成功。</span><span class="english">This was my hobby that became crazily successful.</span></p>

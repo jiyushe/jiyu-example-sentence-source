@@ -1,5 +1,7 @@
 # millennia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millennia.md)
+
 <p><span class="chinese">斗牛的历史迄今已有一千多年了。</span><span class="english">The history of bull fighting stretches back millennia.</span></p>
 
 <p><span class="chinese">本土居民依靠猎捕和采集，在那里生活了数千年。</span><span class="english">Indigenous peoples have lived for millennia by hunting and gathering.</span></p>

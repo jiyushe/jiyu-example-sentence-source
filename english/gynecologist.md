@@ -1,5 +1,7 @@
 # gynecologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gynecologist.md)
+
 <p><span class="chinese">她是个妇科医生。</span><span class="english">She is a gynecologist.</span></p>
 
 <p><span class="chinese">我爸就想让我和他一样当个妇科医生。</span><span class="english">My father wanted me to be a gynecologist like him.</span></p>

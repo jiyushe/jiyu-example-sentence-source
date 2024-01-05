@@ -1,5 +1,7 @@
 # nostalgia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nostalgia.md)
+
 <p><span class="chinese">好怀恋你们啊！</span><span class="english">Ah nostalgia you good!</span></p>
 
 <p><span class="chinese">这场如痴如狂的怀旧思潮从何而起？</span><span class="english">Why such a frenzy of nostalgia?</span></p>

@@ -1,5 +1,7 @@
 # chassis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chassis.md)
+
 <p><span class="chinese">连接至汽车底盘地线。</span><span class="english">Connect to vehicle chassis ground.</span></p>
 
 <p><span class="chinese">电源开启状态下机箱打开。</span><span class="english">The chassis is open while the power is on.</span></p>

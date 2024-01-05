@@ -1,5 +1,7 @@
 # stint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stint.md)
+
 <p><span class="chinese">在制定计划上不要吝惜时间，多想一想好。</span><span class="english">Don't stint on time to make a plan.</span></p>
 
 <p><span class="chinese">尚希不吝指教。</span><span class="english">We hope that you will not stint your criticism.</span></p>

@@ -1,5 +1,7 @@
 # 宅第
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaidi.md)
+
 <p><span class="chinese">还有，我们家族的宅第和房产在哪儿呢？</span><span class="english">And where be our family mansions and estates?</span></p>
 
 <p><span class="chinese">她家在一个大农场上有一所壮观的宅第。</span><span class="english">Her family owned a grand house on a giant ranch.</span></p>

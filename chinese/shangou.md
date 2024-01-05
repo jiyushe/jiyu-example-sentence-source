@@ -1,5 +1,7 @@
 # 山沟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangou.md)
+
 <p><span class="chinese">他们爬上了一条狭窄的山沟。</span><span class="english">They clambered up a narrow gully.</span></p>
 
 <p><span class="chinese">你怎么把我带到山沟里来了？</span><span class="english">Why did you take me to this mountain gully ?</span></p>

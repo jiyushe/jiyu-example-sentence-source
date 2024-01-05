@@ -1,5 +1,7 @@
 # leapt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leapt.md)
+
 <p><span class="chinese">火焰升腾。</span><span class="english">The flames leapt up.</span></p>
 
 <p><span class="chinese">老虎扑向猎人。</span><span class="english">The tiger leapt at the hunter.</span></p>

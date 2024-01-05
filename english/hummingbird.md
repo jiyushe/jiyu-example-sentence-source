@@ -1,5 +1,7 @@
 # hummingbird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hummingbird.md)
+
 <p><span class="chinese">然后有一只小蜂雀飞过。</span><span class="english">Then a tiny hummingbird flew by.</span></p>
 
 <p><span class="chinese">这是蜂鸟巢里的一对蛋。</span><span class="english">A pair of eggs in a hummingbird nest.</span></p>

@@ -1,5 +1,7 @@
 # 拆借
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaijie.md)
+
 <p><span class="chinese">可以买卖，出售，拆借，租赁，对换，套期。</span><span class="english">They can be bought, sold, borrowed, lent, swapped and hedged.</span></p>
 
 <p><span class="chinese">违反规定同业拆借的。</span><span class="english">Making inter-bank borrowing or lending in violation of regulations"."</span></p>

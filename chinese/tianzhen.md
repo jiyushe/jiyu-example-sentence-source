@@ -1,5 +1,7 @@
 # 天真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhen.md)
+
 <p><span class="chinese">但他还是天真的。</span><span class="english">But he is innocent.</span></p>
 <p><span class="chinese">得承认，我很天真。</span><span class="english">I'll admit it, I was naive.</span></p>
 

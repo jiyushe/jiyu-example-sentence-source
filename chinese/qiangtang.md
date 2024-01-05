@@ -1,5 +1,7 @@
 # 枪膛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangtang.md)
+
 <p><span class="chinese">为什么，为什么，我们让子弹射出枪膛。</span><span class="english">Why, why, do we shoot the gun.</span></p>
 
 <p><span class="chinese">他检查了一下他枪膛里的火药。</span><span class="english">He looked to the priming of his gun.</span></p>

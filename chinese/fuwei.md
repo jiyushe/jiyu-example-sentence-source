@@ -1,5 +1,7 @@
 # 抚慰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuwei.md)
+
 <p><span class="chinese">抚慰我的皮肤。</span><span class="english">Soothes my skin.</span></p>
 
 <p><span class="chinese">这时候，真相宛如一股抚慰伤口的暖流沁入心间。</span><span class="english">The healing oxygen is truth.</span></p>

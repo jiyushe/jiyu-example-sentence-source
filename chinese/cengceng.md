@@ -1,5 +1,7 @@
 # 层层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cengceng.md)
+
 <p><span class="chinese">层层迷雾遮蔽了重重峰峦。</span><span class="english">Fogs hide the mountain peaks.</span></p>
 
 <p><span class="chinese">像巍峨绝顶的层层深蓝云峰。</span><span class="english">Like towering peaks of dark-blue clouds.</span></p>

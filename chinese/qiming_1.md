@@ -1,5 +1,7 @@
 # 齐名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiming_1.md)
+
 <p><span class="chinese">在英国，威尔是与罗杰斯和福斯特齐名的三个建筑大师之一。</span><span class="english">Will Alsop is now among the top 3 architects in Britain.</span></p>
 
 <p><span class="chinese">拥有上百年历史，与唐山麻糖齐名。</span><span class="english">Have a century of history, along with the Tangshanma tang.</span></p>

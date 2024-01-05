@@ -1,5 +1,7 @@
 # 双季稻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangjidao.md)
+
 <p><span class="chinese">双季稻作生产灌溉必不可少。</span><span class="english">Irrigation is essential in double ri ce systems.</span></p>
 
 <p><span class="chinese">文中讨论了双季稻区稻水象甲生活史对策的适应意义。</span><span class="english">The ecological implication of this life history strategy of rice water weevil was discussed.</span></p>

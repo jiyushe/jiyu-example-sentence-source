@@ -1,5 +1,7 @@
 # 百年不遇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bainianbuyu.md)
+
 <p><span class="chinese">百年不遇的讨厌鬼！</span><span class="english">The pill of the century!</span></p>
 
 <p><span class="chinese">你创造了百年不遇的历史事件。</span><span class="english">That you are a once-in-all-history event.</span></p>

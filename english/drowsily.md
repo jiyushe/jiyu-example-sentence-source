@@ -1,5 +1,7 @@
 # drowsily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drowsily.md)
+
 <p><span class="chinese">到京汉大道上，他昏昏沉沉地就地躺在马路中间睡着了。</span><span class="english">He fell asleep drowsily just at the middle of the road Jinghan Avenue.</span></p>
 
 <p><span class="chinese">我们早就约定了，嘦以最慵懒的姿势，恍惚哋面对这个世界。</span><span class="english">As we agreed, to face the globe drowsily in our maximum weak positions.</span></p>

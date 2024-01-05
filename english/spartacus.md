@@ -1,5 +1,7 @@
 # spartacus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spartacus.md)
+
 <p><span class="chinese">一人立志，万夫莫敌。</span><span class="english">A person to spartacus.</span></p>
 
 <p><span class="chinese">斯巴达克斯是一名被关押囚禁的罗马属军兵士。</span><span class="english">Spartacus is a soldier in the Roman Auxiliary who has been taken prisoner.</span></p>

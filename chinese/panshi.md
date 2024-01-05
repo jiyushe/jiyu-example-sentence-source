@@ -1,5 +1,7 @@
 # 盘石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panshi.md)
+
 <p><span class="chinese">祂要藏你在万古的盘石中。</span><span class="english">He'll hide you ever in the rock of ages.</span></p>
 
 <p><span class="chinese">请留盘石上，垂钓将已矣。</span><span class="english">Please stay to the solid rock, fishing will be gone.</span></p>

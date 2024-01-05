@@ -1,5 +1,7 @@
 # mammary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mammary.md)
+
 <p><span class="chinese">怎样快速消肿乳腺肿块?。</span><span class="english">Bump of mammary gland of how fast detumescence ?</span></p>
 
 <p><span class="chinese">能抚慰乳腺增生发育。</span><span class="english">To assuage the development of mammary hyperplasia.</span></p>

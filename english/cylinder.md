@@ -1,5 +1,7 @@
 # cylinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cylinder.md)
+
 <p><span class="chinese">除了圆柱形的活塞。</span><span class="english">Except the cylinder.</span></p>
 
 <p><span class="chinese">对于这个圆柱面。</span><span class="english">For the cylinder. OK.</span></p>

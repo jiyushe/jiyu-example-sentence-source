@@ -1,5 +1,7 @@
 # contravene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contravene.md)
+
 <p><span class="chinese">调解协议的内容不得违反法律规定。</span><span class="english">The content of the settlement agreement shall not contravene the law.</span></p>
 
 <p><span class="chinese">所有的网站都说如果你违反了条款他们将保留这个权利。</span><span class="english">All poker sites reserve the right to do this if you contravene their terms and conditions.</span></p>

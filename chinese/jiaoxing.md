@@ -1,5 +1,7 @@
 # 侥幸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxing.md)
+
 <p><span class="chinese">但她绝非侥幸。</span><span class="english">But it was no fluke.</span></p>
 
 <p><span class="chinese">不要心存侥幸。不要冒险。</span><span class="english">Don't take any chances. 11.</span></p>

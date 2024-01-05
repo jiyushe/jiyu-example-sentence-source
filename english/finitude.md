@@ -1,5 +1,7 @@
 # finitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finitude.md)
+
 <p><span class="chinese">这样便已经正确说出意志的有限性了。</span><span class="english">In these words, a correct expression is given to the finitude of Will.</span></p>
 
 <p><span class="chinese">第五部分着重分析世界公民权利的内容、性质及其合法性。</span><span class="english">The legitimacy derives from two theory of the finitude of globe and property.</span></p>

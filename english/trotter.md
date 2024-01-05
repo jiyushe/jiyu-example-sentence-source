@@ -1,5 +1,7 @@
 # trotter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trotter.md)
+
 <p><span class="chinese">而且，太太特罗特似乎长大了她的工作感到厌烦。</span><span class="english">And, Missus Trotter seemed to have grown tired of her job.</span></p>
 
 <p><span class="chinese">煮上大约15分钟。</span><span class="english">Add in enough water to cover the trotter and cook for about 15 minutes.</span></p>

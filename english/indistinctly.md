@@ -1,5 +1,7 @@
 # indistinctly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indistinctly.md)
+
 <p><span class="chinese">一艘海盗船隐隐约约在雾中出现了。</span><span class="english">A sea rover has appeared indistinctly in the fog.</span></p>
 
 <p><span class="chinese">我认为画家没有权利油漆朦胧。</span><span class="english">I considered that the painter had no right to paint indistinctly.</span></p>

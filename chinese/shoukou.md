@@ -1,5 +1,7 @@
 # 收口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoukou.md)
+
 <p><span class="chinese">伤收口了。</span><span class="english">The wound has healed.</span></p>
 
 <p><span class="chinese">他肩膀上的伤口开始收口了。</span><span class="english">The wound in his arm has begun to close up.</span></p>

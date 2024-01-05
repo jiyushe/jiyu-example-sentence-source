@@ -1,5 +1,7 @@
 # dsp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dsp.md)
+
 <p><span class="chinese">其程序与硬件逻辑图也可为其他DSP系统提供参考。</span><span class="english">The hardware and software can help of other DSP systems.</span></p>
 
 <p><span class="chinese">单一的DSP或PC机处理已远远不能满足实时性要求。</span><span class="english">Processing with single DSP or PC cannot handle it real-timely.</span></p>

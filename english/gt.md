@@ -1,5 +1,7 @@
 # gt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gt.md)
+
 <p><span class="chinese">平均土壤热通量为-1。</span><span class="english">The average Gt was -1.</span></p>
 
 <p><span class="chinese">GT式——近似于3级基本式，只不过处理成了GT式运动条纹模样。</span><span class="english">Similar to Basic 3X but with a sporty GT stripe look.</span></p>

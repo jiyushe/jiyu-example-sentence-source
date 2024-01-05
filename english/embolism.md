@@ -1,5 +1,7 @@
 # embolism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embolism.md)
+
 <p><span class="chinese">纤维软骨梗塞或栓塞。</span><span class="english">Fibrocartilaginous Infarct or Embolism.</span></p>
 
 <p><span class="chinese">溶栓治疗是治疗血栓性疾病的安全而有效的手段。</span><span class="english">Thrombolytic therapy is an effective tool for treatment of embolism.</span></p>

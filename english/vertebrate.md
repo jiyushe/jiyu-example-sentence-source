@@ -1,5 +1,7 @@
 # vertebrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vertebrate.md)
+
 <p><span class="chinese">脊索但无真正的脊柱鱼类动物。</span><span class="english">The vertebrate spine or spinal column.</span></p>
 
 <p><span class="chinese">脾脏某些脊椎动物的脾脏，如牛或猪的。</span><span class="english">The spleen of certain vertebrate animals, such as cows or pigs.</span></p>

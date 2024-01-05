@@ -1,5 +1,7 @@
 # chimney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chimney.md)
+
 <p><span class="chinese">烟囱通风良好。</span><span class="english">The chimney draws well.</span></p>
 
 <p><span class="chinese">烟囱排出烟来。</span><span class="english">The chimney ejects smoke.</span></p>

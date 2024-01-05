@@ -1,5 +1,7 @@
 # 假造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazao.md)
+
 <p><span class="chinese">纯粹是假造事实。</span><span class="english">It is a pure fabrication.</span></p>
 
 <p><span class="chinese">没有人能够假造像这样的一份清单。</span><span class="english">No one could phony a list like that.</span></p>

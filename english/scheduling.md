@@ -1,5 +1,7 @@
 # scheduling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scheduling.md)
+
 <p><span class="chinese">我们不会做很仔细的日程安排。</span><span class="english">We wouldn't do specific scheduling.</span></p>
 
 <p><span class="chinese">提出了测控网均衡调度的方法。</span><span class="english">A balanced scheduling algorithm is presented.</span></p>

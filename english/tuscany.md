@@ -1,5 +1,7 @@
 # tuscany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuscany.md)
+
 <p><span class="chinese">托斯卡那安静极了。</span><span class="english">Tuscany was very quiet.</span></p>
 
 <p><span class="chinese">托斯卡纳？你搬到意大利了？</span><span class="english">Tuscany? Have you moved to Italy?</span></p>

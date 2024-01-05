@@ -1,5 +1,7 @@
 # inseparability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inseparability.md)
+
 <p><span class="chinese">重生不可从它的果子分开。</span><span class="english">Inseparability of regeneration from its fruits.</span></p>
 
 <p><span class="chinese">思维和思维者的存在简单的不可分性。</span><span class="english">The simple inseparability of the thought and being of the thinker.</span></p>

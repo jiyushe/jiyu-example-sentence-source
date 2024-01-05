@@ -1,5 +1,7 @@
 # dispense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispense.md)
+
 <p><span class="chinese">作为一名法官，你应该主持公道。</span><span class="english">As a judge, you should dispense justice.</span></p>
 
 <p><span class="chinese">法官和法庭公正执法。</span><span class="english">Judges and law courts dispense justice justly.</span></p>

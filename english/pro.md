@@ -1,5 +1,7 @@
 # pro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pro.md)
+
 <p><span class="chinese">赞成还是反对？</span><span class="english">Pro or con?</span></p>
 
 <p><span class="chinese">网球用品专门店。</span><span class="english">Tennis pro shop.</span></p>

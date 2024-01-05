@@ -1,5 +1,7 @@
 # remedy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remedy.md)
+
 <p><span class="chinese">无错不可纠。</span><span class="english">No wrong without remedy.</span></p>
 
 <p><span class="chinese">内观就是这样的一个疗法。</span><span class="english">Vipassana is such a remedy.</span></p>

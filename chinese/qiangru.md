@@ -1,5 +1,7 @@
 # 强如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangru.md)
+
 <p><span class="chinese">当面的责备，强如背地的爱情。</span><span class="english">Open rebuke is better than secret love.</span></p>
 
 <p><span class="chinese">更多的高潮可能发生，每一个都强如潮水。</span><span class="english">More orgasms may occur, each gaining in intensity.</span></p>

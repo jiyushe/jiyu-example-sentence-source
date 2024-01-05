@@ -1,5 +1,7 @@
 # 电子层
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianziceng.md)
+
 <p><span class="chinese">卤原子在它们的介电子层含有七个电子。</span><span class="english">Halogen atoms contain seven electrons in their valence shell.</span></p>
 
 <p><span class="chinese">过渡元素原子电子层结构是长期困扰教学过程的难点。</span><span class="english">The electron structure of transition elements is permanentlydiffcult point of teaching.</span></p>

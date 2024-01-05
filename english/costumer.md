@@ -1,5 +1,7 @@
 # costumer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/costumer.md)
+
 <p><span class="chinese">如何说服客户采纳你的方案？</span><span class="english">How to convince costumer to accept your proposal?</span></p>
 
 <p><span class="chinese">我会做一个咖啡馆的老服务员！</span><span class="english">I would be a familiar costumer in one of the bars.</span></p>

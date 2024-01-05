@@ -1,5 +1,7 @@
 # 沿革
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yange_1.md)
+
 <p><span class="chinese">第一章，呼麦的历史沿革与发展现状。</span><span class="english">Charpter one, Humai's history and current situation.</span></p>
 
 <p><span class="chinese">分析了信托收据的概念、性质及其沿革。</span><span class="english">Analyze concept, character and evolution of trust receipt.</span></p>

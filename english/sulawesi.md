@@ -1,5 +1,7 @@
 # sulawesi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulawesi.md)
+
 <p><span class="chinese">该病例为南苏拉威西省望加锡一名14岁女孩。</span><span class="english">The case is a 14-year-old female from Makassar, South Sulawesi Province.</span></p>
 
 <p><span class="chinese">2006年病毒向东进一步蔓延至巴布亚岛和苏门答腊的大部分地区。</span><span class="english">In 2006 the virus spread further east infecting Papua and much of Sulawesi.</span></p>

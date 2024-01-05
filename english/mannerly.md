@@ -1,5 +1,7 @@
 # mannerly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mannerly.md)
+
 <p><span class="chinese">跟长辈讲话应该有礼貌。</span><span class="english">Please speak mannerly with the eldership.</span></p>
 
 <p><span class="chinese">他看起来性感。但仍然，如常地有礼。</span><span class="english">He looks sexy. But still, he is mannerly as usual.</span></p>

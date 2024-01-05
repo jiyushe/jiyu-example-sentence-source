@@ -1,5 +1,7 @@
 # superintendent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superintendent.md)
+
 <p><span class="chinese">他是学校的管理者。</span><span class="english">He was the Superintendent.</span></p>
 
 <p><span class="chinese">后来又当上了江汉关监督。</span><span class="english">Later he became a river superintendent.</span></p>

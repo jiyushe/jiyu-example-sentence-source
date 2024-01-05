@@ -1,5 +1,7 @@
 # 恶魔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/emo.md)
+
 <p><span class="chinese">啊，你看恶魔城。这就是军队！</span><span class="english">Oh- its just the troops!</span></p>
 
 <p><span class="chinese">恶魔快跑的故事版本。</span><span class="english">Run Devil Run Story ver.</span></p>

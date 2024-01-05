@@ -1,5 +1,7 @@
 # professorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/professorship.md)
+
 <p><span class="chinese">我希望简能得到她一直渴望的教授职位。</span><span class="english">I hope Jan gets that professorship she's in for.</span></p>
 
 <p><span class="chinese">他从讲师晋升为教授。</span><span class="english">He advanced from a lectureship to a professorship.</span></p>

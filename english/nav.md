@@ -1,5 +1,7 @@
 # nav
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nav.md)
+
 <p><span class="chinese">威尔站在导航控制台前面。</span><span class="english">Will stood at the NAV station.</span></p>
 
 <p><span class="chinese">航后检查发现左后航行灯不亮。</span><span class="english">Postflight check found L AFT NAV light not on.</span></p>

@@ -1,5 +1,7 @@
 # 轻机枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjiqiang.md)
+
 <p><span class="chinese">请把布朗式轻机枪给我们，好吗？</span><span class="english">Could You Please Oblige Us With A Bren Gun?</span></p>
 
 <p><span class="chinese">其余的人都在战壕里用轻机枪和冲锋枪射击。</span><span class="english">The rest were in trenches with light MG and SMGs.</span></p>

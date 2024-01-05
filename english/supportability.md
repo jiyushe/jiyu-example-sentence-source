@@ -1,5 +1,7 @@
 # supportability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supportability.md)
+
 <p><span class="chinese">最后，就保障性设计中的费用权衡问题提出了几点建议。</span><span class="english">Then the paper gives some advice of supportability project on budget problem.</span></p>
 
 <p><span class="chinese">可用性设计是装备综合保障分析的重要内容。</span><span class="english">Availability project is the main task for arms' integrated supportability analysis.</span></p>

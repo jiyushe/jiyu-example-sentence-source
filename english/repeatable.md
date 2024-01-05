@@ -1,5 +1,7 @@
 # repeatable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repeatable.md)
+
 <p><span class="chinese">这是一个快速、可重复的过程。</span><span class="english">This is a fast and repeatable process.</span></p>
 
 <p><span class="chinese">准确，无脉，可重复的流程。</span><span class="english">Get precise, pulseless, repeatable flow.</span></p>

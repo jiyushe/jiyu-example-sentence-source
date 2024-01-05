@@ -1,5 +1,7 @@
 # 熨斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yundou.md)
+
 <p><span class="chinese">总是依赖于你的熨斗？</span><span class="english">Addicted to your flatiron?</span></p>
 
 <p><span class="chinese">把皱纹用熨斗熨平。</span><span class="english">Smooth wrinkles with an iron.</span></p>

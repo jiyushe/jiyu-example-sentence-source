@@ -1,5 +1,7 @@
 # 鸟枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niaoqiang.md)
+
 <p><span class="chinese">他用鸟枪向野鸭子射击。</span><span class="english">He peppered the wild ducks with bird shot.</span></p>
 
 <p><span class="chinese">我让她平静下来，凯拉于是带着一支鸟枪出去了。</span><span class="english">I calmed her down as Kayla sneaked out of the house with a shotgun.</span></p>

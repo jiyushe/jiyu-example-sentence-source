@@ -1,5 +1,7 @@
 # 打颤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhan_1.md)
+
 <p><span class="chinese">他浑身都在打颤。</span><span class="english">The friend is shivering.</span></p>
 
 <p><span class="chinese">寒冷使他的牙齿打颤。</span><span class="english">Cold made his teeth chatter.</span></p>

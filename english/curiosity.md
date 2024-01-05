@@ -1,5 +1,7 @@
 # curiosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curiosity.md)
+
 <p><span class="chinese">他受好奇心的驱使。</span><span class="english">He yielded to curiosity.</span></p>
 
 <p><span class="chinese">爱好有助于培养好奇心。</span><span class="english">Hobbie help develop curiosity.</span></p>

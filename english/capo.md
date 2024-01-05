@@ -1,5 +1,7 @@
 # capo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capo.md)
+
 <p><span class="chinese">哦，我借用艾伦的投诉警察课。</span><span class="english">Oh, and I'm borrowing Alan's capo.</span></p>
 
 <p><span class="chinese">空虚的重复演奏，不过禁欲主义的男性实在太迷人了！</span><span class="english">An empty de capo. Stoic men are so charming!</span></p>

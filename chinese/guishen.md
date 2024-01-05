@@ -1,5 +1,7 @@
 # 鬼神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guishen.md)
+
 <p><span class="chinese">这是鬼神们赐给他的。</span><span class="english">This is what they deliver him.</span></p>
 
 <p><span class="chinese">魔尊——鬼神界的统治者。</span><span class="english">Demonor, the Lord of the Demon plane.</span></p>

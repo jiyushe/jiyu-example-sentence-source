@@ -1,5 +1,7 @@
 # hereford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hereford.md)
+
 <p><span class="chinese">我已经决定要成为一个“无角赫里福德”的牧场主。</span><span class="english">I've decided to become a "polled hereford" rancher.</span></p>
 
 <p><span class="chinese">海尔福德本赛季在联赛中客场成绩比主场成绩好。</span><span class="english">Hereford have gained more points away than at home in the league this season.</span></p>

@@ -1,5 +1,7 @@
 # 公检法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjianfa.md)
+
 <p><span class="chinese">新疆，一少年与嫌犯重名被押212天公检法均未发现冤情。</span><span class="english">Boy's name put him in custody for 212 days.</span></p>
 
 <p><span class="chinese">适用于银行、税务、金融、公检法、组织部等机构存放文档资料。</span><span class="english">For file materials as of bank, taxes authority, financial, public security, inspector, court and organization departments.</span></p>

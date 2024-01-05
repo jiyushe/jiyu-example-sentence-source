@@ -1,5 +1,7 @@
 # phonograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonograph.md)
+
 <p><span class="chinese">留声机唱片。</span><span class="english">A phonograph album.</span></p>
 
 <p><span class="chinese">把唱机开小一些。</span><span class="english">Turn down the phonograph.</span></p>

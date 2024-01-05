@@ -1,5 +1,7 @@
 # spectrometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectrometry.md)
+
 <p><span class="chinese">气相色谱分析中是否一定要用质谱检测器?。</span><span class="english">Do we always need mass spectrometry with gas chromatography?</span></p>
 
 <p><span class="chinese">采用液相色谱-质谱联用法。</span><span class="english">The liquid chromatography-mass spectrometry method was used.</span></p>

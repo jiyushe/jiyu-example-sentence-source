@@ -1,5 +1,7 @@
 # 古今中外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujinzhongwai.md)
+
 <p><span class="chinese">这是古今中外许多严肃的艺术家孜孜以求的艺术境界。</span><span class="english">This bourn is the one that many serious authors go in for.</span></p>
 
 <p><span class="chinese">这也许可以解释为什么古今中外那么多圣人终沦为受难者。</span><span class="english">Perhaps that explains why so many saints end up as martyrs.</span></p>

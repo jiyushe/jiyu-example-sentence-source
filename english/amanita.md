@@ -1,5 +1,7 @@
 # amanita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amanita.md)
+
 <p><span class="chinese">名称来自于产生此毒素的Amanita属蘑菇。</span><span class="english">Name derives from mushroom of genus Amanita in which toxin is found.</span></p>
 
 <p><span class="chinese">从威海玛伽山上采集的9株夏季常见大型真菌中筛选出产漆酶能力最强的菌株白毒鹅膏菌。</span><span class="english">Amanita verna which could produce laccase was isolated from 9 fungi gathered on the Majia mountain.</span></p>

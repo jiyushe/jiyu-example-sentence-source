@@ -1,5 +1,7 @@
 # 英名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingming.md)
+
 <p><span class="chinese">我知道上帝有他英名的用意。</span><span class="english">I am sure he keeps nothing from me but this.</span></p>
 
 <p><span class="chinese">他将英名长存。</span><span class="english">His reputation will live long after his death.</span></p>

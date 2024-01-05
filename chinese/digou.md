@@ -1,5 +1,7 @@
 # 地沟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/digou.md)
+
 <p><span class="chinese">你至少需要在150毫米高的地基上挖一条地沟。</span><span class="english">You need a trench for the foundations at least 150mm high.</span></p>
 
 <p><span class="chinese">很高兴伦纳德终于有一个地沟头兄弟了。</span><span class="english">Glad Kawhi finally has another cornrow friend in the league now.</span></p>

@@ -1,5 +1,7 @@
 # chromatics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromatics.md)
+
 <p><span class="chinese">色彩学指影响你情绪、情感和对他人的印象的颜色。</span><span class="english">Chromatics or color can affect your mood , your emotions, and your im pression of others.</span></p>
 
 <p><span class="chinese">从色彩学角度来说，黑白灰属中间色调，整体偏中性。</span><span class="english">From the chromatics angle, the black lime is the half-tone , the whole leaning neutrality.</span></p>

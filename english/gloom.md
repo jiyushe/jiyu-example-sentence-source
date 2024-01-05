@@ -1,5 +1,7 @@
 # gloom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gloom.md)
+
 <p><span class="chinese">像梦一般地凄婉迷茫。</span><span class="english">A dream full of nameless gloom.</span></p>
 
 <p><span class="chinese">是穿过黑暗的迷宫般的深处。</span><span class="english">Through what mazy depth of gloom.</span></p>

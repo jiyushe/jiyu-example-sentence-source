@@ -1,5 +1,7 @@
 # photosynthetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photosynthetic.md)
+
 <p><span class="chinese">细菌光合作用的色素是细菌叶绿素。</span><span class="english">The photosynthetic pigment in bacteria is bacteriochlorophyll.</span></p>
 
 <p><span class="chinese">HL型普那菊苣是高光合、高蒸腾的类型。</span><span class="english">HL-type was high photosynthetic ability, high transpiration type.</span></p>

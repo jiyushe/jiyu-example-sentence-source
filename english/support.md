@@ -1,5 +1,7 @@
 # support 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/support.md)
+
 <p><span class="chinese">我支援你。</span><span class="english">I support you.</span></p>
 
 <p><span class="chinese">其次是支持。</span><span class="english">Next is support.</span></p>

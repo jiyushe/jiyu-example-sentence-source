@@ -1,5 +1,7 @@
 # 神经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjing.md)
+
 <p><span class="chinese">你整个儿神经兮兮的！</span><span class="english">You're all nerves!</span></p>
 
 <p><span class="chinese">他神经兮兮地笑着。</span><span class="english">He laughs nervously.</span></p>

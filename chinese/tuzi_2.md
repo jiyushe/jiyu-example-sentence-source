@@ -1,5 +1,7 @@
 # 秃子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzi_2.md)
+
 <p><span class="chinese">秃子不需梳头。</span><span class="english">The bald need no comb.</span></p>
 
 <p><span class="chinese">墨西哥秃子大模大样地走了出去。</span><span class="english">The airless Mexican walked boldly out.</span></p>

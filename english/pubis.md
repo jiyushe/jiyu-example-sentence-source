@@ -1,5 +1,7 @@
 # pubis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pubis.md)
+
 <p><span class="chinese">12周时可在耻骨联合上触及宫底。</span><span class="english">At 12 weeks the fundus becomes palpable at the symphysis pubis.</span></p>
 
 <p><span class="chinese">耻骨联合上方可触及软而宽的胎铃。</span><span class="english">The symphysis pubis only then touches soft and the wide embryo bell.</span></p>

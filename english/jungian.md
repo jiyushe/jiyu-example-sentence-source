@@ -1,5 +1,7 @@
 # jungian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jungian.md)
+
 <p><span class="chinese">你认为什么是容格心理学的目标？</span><span class="english">What would you say would be the goal of Jungian psychology?</span></p>
 
 <p><span class="chinese">在荣格心理学中妇女所具有的男性内在个性。</span><span class="english">In Jungian psychology, the masculine inner personality as present in women.</span></p>

@@ -1,5 +1,7 @@
 # gct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gct.md)
+
 <p><span class="chinese">RECK基因可能在骨巨细胞瘤的发生、生长过程中起重要作用。</span><span class="english">RECK may play an important part in the invasion and growth of GCT of bone.</span></p>
 
 <p><span class="chinese">实验结果表明，骨巨细胞瘤中的巨噬细胞与梭形的单核细胞各具不同的特点。</span><span class="english">The difference of characteristics between macrophages and spindle mononuclear cells of GCT was described.</span></p>

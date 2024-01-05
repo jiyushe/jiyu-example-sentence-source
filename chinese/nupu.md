@@ -1,5 +1,7 @@
 # 奴仆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nupu.md)
+
 <p><span class="chinese">愿迦南作闪的奴仆。</span><span class="english">May Canaan be the slave of Shem.</span></p>
 
 <p><span class="chinese">成为你的牧牛者和奴仆吧。</span><span class="english">Become Thy cowherd and Thy slave.</span></p>

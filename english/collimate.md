@@ -1,5 +1,7 @@
 # collimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collimate.md)
+
 <p><span class="chinese">在该系统中，我们采用三片式准直镜来对光束进行准直。</span><span class="english">In this OPU, we use a triplet lens to collimate the laser beam.</span></p>
 
 <p><span class="chinese">说，目前已有证据显示健康问题相关的气候变化。</span><span class="english">O says there is already evidence of hales problems related to collimate change.</span></p>

@@ -1,5 +1,7 @@
 # spooky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spooky.md)
+
 <p><span class="chinese">看到他们真的很可怕。</span><span class="english">It’s really spooky to see them.</span></p>
 
 <p><span class="chinese">联系我时请说明是在一网打尽看到的，谢谢！</span><span class="english">It's spooky how cevler some ppl are. Thanks!</span></p>

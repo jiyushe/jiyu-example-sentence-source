@@ -1,5 +1,7 @@
 # headset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headset.md)
+
 <p><span class="chinese">我需要一副耳机。</span><span class="english">I need a headset.</span></p>
 
 <p><span class="chinese">请给我一副耳机。</span><span class="english">May I have a headset?</span></p>

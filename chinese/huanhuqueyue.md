@@ -1,5 +1,7 @@
 # 欢呼雀跃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanhuqueyue.md)
+
 <p><span class="chinese">很多欧洲人忍不住要欢呼雀跃。</span><span class="english">Many Europeans can’t resist crowing.</span></p>
 
 <p><span class="chinese">整个核工业界为这次“核文艺复兴”欢呼雀跃。</span><span class="english">Industry hails "nuclear renaissance."</span></p>

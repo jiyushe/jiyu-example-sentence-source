@@ -1,5 +1,7 @@
 # 升学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxue.md)
+
 <p><span class="chinese">汤姆，你的升学考试怎么样？</span><span class="english">Tom, how was your entrance exam?</span></p>
 
 <p><span class="chinese">如果我通过了升学考试我将去上大学。</span><span class="english">I'll go to college if I pass the Matriculation Exam.</span></p>

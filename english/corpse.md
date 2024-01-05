@@ -1,5 +1,7 @@
 # corpse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corpse.md)
+
 <p><span class="chinese">这是一具尸体。</span><span class="english">It's a corpse.</span></p>
 
 <p><span class="chinese">这就是我的尸体。</span><span class="english">Here's my corpse.</span></p>

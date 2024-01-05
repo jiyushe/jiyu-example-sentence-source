@@ -1,5 +1,7 @@
 # reel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reel.md)
+
 <p><span class="chinese">这是一个电影胶卷。</span><span class="english">It’s a film reel.</span></p>
 
 <p><span class="chinese">取下塑料盘放好。</span><span class="english">Take off the plastic reel.</span></p>

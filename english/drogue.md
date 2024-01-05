@@ -1,5 +1,7 @@
 # drogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drogue.md)
+
 <p><span class="chinese">这是浮锚发射管。</span><span class="english">That's the drogue shoots.</span></p>
 
 <p><span class="chinese">安装在中部的软管和锥管提高和执行任务的灵活性。</span><span class="english">A center-mounted hose and drogue improves mission flexibility.</span></p>

@@ -1,5 +1,7 @@
 # reinforcer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinforcer.md)
+
 <p><span class="chinese">研究者指出最佳的赞美是一种微弱的增强物。</span><span class="english">Researchers point out that at best praise is a weak reinforcer.</span></p>
 
 <p><span class="chinese">创造一个条件强化的过程称为条件训练。</span><span class="english">The process of creating a conditioned reinforcer is called conditioning.</span></p>

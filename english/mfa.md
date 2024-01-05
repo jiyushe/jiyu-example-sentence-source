@@ -1,5 +1,7 @@
 # mfa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mfa.md)
+
 <p><span class="chinese">请你登录外交部网站查看有关内容。</span><span class="english">Please check the MFA website for related information.</span></p>
 
 <p><span class="chinese">若其他父母已去世，需提交被中国外交部认证的死亡证明。</span><span class="english">If the other parent is passed away, death certificate legalized by MFA.</span></p>

@@ -1,5 +1,7 @@
 # infliction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infliction.md)
+
 <p><span class="chinese">非得施以永无休止的痛苦才行吗？</span><span class="english">Is the unending infliction of pain also required?</span></p>
 
 <p><span class="chinese">太长期不要浸没ourself在这处罚。</span><span class="english">Don't immerse ourself in this infliction too long.</span></p>

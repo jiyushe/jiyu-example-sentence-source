@@ -1,5 +1,7 @@
 # 影印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyin.md)
+
 <p><span class="chinese">你能影印。</span><span class="english">You can photocopy.</span></p>
 
 <p><span class="chinese">这是影印机。</span><span class="english">Here is the photocopier.</span></p>

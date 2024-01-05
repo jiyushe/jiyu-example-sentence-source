@@ -1,5 +1,7 @@
 # louisiana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/louisiana.md)
+
 <p><span class="chinese">路易斯安那州是河口国家。</span><span class="english">Louisiana is the Bayou State.</span></p>
 
 <p><span class="chinese">不，我认为是路易斯安那州。</span><span class="english">No, I think it was Louisiana.</span></p>

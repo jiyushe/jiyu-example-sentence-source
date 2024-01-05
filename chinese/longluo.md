@@ -1,5 +1,7 @@
 # 笼络
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longluo.md)
+
 <p><span class="chinese">他们要去笼络新的一百万用户吗？</span><span class="english">How are they going to get their next million users?</span></p>
 
 <p><span class="chinese">我和你一样，并不想为这位候选人去笼络人心。</span><span class="english">I'm no more fond of selling such a candidate than you are.</span></p>

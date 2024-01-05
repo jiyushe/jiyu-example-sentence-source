@@ -1,5 +1,7 @@
 # adapters
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adapters.md)
+
 <p><span class="chinese">然后，我们添加适配器。</span><span class="english">Then we add the adapters.</span></p>
 
 <p><span class="chinese">用来将针头安装在胶筒上的转接头。</span><span class="english">Adapters to fit needle to cartridge.</span></p>

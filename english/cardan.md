@@ -1,5 +1,7 @@
 # cardan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardan.md)
+
 <p><span class="chinese">传动轴带保护离合器。</span><span class="english">Cardan shaft with clutch.</span></p>
 
 <p><span class="chinese">检查前万向节轴上的回旋式风箱是否损坏。</span><span class="english">Check the convoluted air bellows on the front cardan shaft for damage.</span></p>

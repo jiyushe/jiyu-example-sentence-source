@@ -1,5 +1,7 @@
 # 平坦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingtan_1.md)
+
 <p><span class="chinese">为自己铺下一条更平坦更漫长的路。</span><span class="english">I have long way to go.</span></p>
 
 <p><span class="chinese">真爱之路从来不平坦。</span><span class="english">Te road to true love never flat.</span></p>

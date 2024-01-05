@@ -1,5 +1,7 @@
 # 听说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingshuo.md)
+
 <p><span class="chinese">我们听说你哭了？</span><span class="english">We heard you wept.</span></p>
 
 <p><span class="chinese">我听说他很小器。</span><span class="english">I heard he is mean.</span></p>

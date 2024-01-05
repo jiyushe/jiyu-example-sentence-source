@@ -1,5 +1,7 @@
 # refund
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refund.md)
+
 <p><span class="chinese">她应得退款。</span><span class="english">She is due refund.</span></p>
 
 <p><span class="chinese">能退给我钱吗?。</span><span class="english">Can I have a refund?</span></p>

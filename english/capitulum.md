@@ -1,5 +1,7 @@
 # capitulum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitulum.md)
+
 <p><span class="chinese">踝状突位于核后端的植入窝中。</span><span class="english">The capitulum is inside the implantation fossa.</span></p>
 
 <p><span class="chinese">瘦果在萌发之前必须与头状花序分离。</span><span class="english">The achenes need to be disconnected from the capitulum before they germinate.</span></p>

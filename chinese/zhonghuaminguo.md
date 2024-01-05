@@ -1,5 +1,7 @@
 # 中华民国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonghuaminguo.md)
+
 <p><span class="chinese">中华民国是一个自由的国家。</span><span class="english">R. O. C. is a free country.</span></p>
 
 <p><span class="chinese">台北是中华民国的首都。</span><span class="english">Taipei is the capital of R. O. C.</span></p>

@@ -1,5 +1,7 @@
 # gauss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gauss.md)
+
 <p><span class="chinese">高斯向他指出证明是错误的。</span><span class="english">Gauss showed him that the proof was fallacious.</span></p>
 
 <p><span class="chinese">小高斯是第一个作出答案的孩子。</span><span class="english">Little Gauss was the first one to give the answer.</span></p>

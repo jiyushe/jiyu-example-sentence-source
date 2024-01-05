@@ -1,5 +1,7 @@
 # whither
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whither.md)
+
 <p><span class="chinese">英特尔何去何从?</span><span class="english">WHITHER INTEL?</span></p>
 
 <p><span class="chinese">他们的归宿在哪里？</span><span class="english">Whither are they going?</span></p>

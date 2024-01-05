@@ -1,5 +1,7 @@
 # 交响乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxiangyue.md)
+
 <p><span class="chinese">是交响乐</span><span class="english">Well, it's a symphony.</span></p>
 
 <p><span class="chinese">对的,第九交响乐</span><span class="english">Okay. So Ninth Symphony.</span></p>

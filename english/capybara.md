@@ -1,5 +1,7 @@
 # capybara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capybara.md)
+
 <p><span class="chinese">这里一只婴儿水豚用鼻爱抚它的妈妈在巴西的沼泽地。</span><span class="english">Here, a baby capybara nuzzles its mother in a Brazilian swamp.</span></p>
 
 <p><span class="chinese">物种范围从很小部分的老鼠到产自巴西的100磅重的水豚。</span><span class="english">The species ranged from tiny field mice to the 100-pound capybara from Brazil.</span></p>

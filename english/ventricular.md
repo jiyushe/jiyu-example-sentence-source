@@ -1,5 +1,7 @@
 # ventricular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ventricular.md)
+
 <p><span class="chinese">左室每搏功指数。</span><span class="english">LVSWI, left ventricular stroke work index.</span></p>
 
 <p><span class="chinese">病种主要为房、室间隔缺损。</span><span class="english">Disease is mainly ventricular sepal defect.</span></p>

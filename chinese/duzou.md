@@ -1,5 +1,7 @@
 # 独奏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duzou.md)
+
 <p><span class="chinese">这段独奏有多长呢</span><span class="english">How long is this solo?</span></p>
 
 <p><span class="chinese">今天有没有马头琴独奏？</span><span class="english">Is there a solo of that fiddle?</span></p>

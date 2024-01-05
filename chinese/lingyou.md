@@ -1,5 +1,7 @@
 # 领有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingyou.md)
+
 <p><span class="chinese">你永遥不能领有太多的天空。</span><span class="english">You can never have too much sky.</span></p>
 
 <p><span class="chinese">但她们都已领有自己现在的恋爱。</span><span class="english">But they have their own now love.</span></p>

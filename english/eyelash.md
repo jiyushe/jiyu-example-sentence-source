@@ -1,5 +1,7 @@
 # eyelash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyelash.md)
+
 <p><span class="chinese">能借我用睫毛夹吗？</span><span class="english">Can I use your eyelash curler?</span></p>
 
 <p><span class="chinese">连个卷睫毛夹都怕。</span><span class="english">You're afraid of an eyelash curler.</span></p>

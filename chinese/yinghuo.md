@@ -1,5 +1,7 @@
 # 萤火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghuo.md)
+
 <p><span class="chinese">萤火一号“将不会登陆火星，而是在其轨道上运行并进行探测。</span><span class="english">It won't land on Mars but will orbit and monitor the planet.</span></p>
 
 <p><span class="chinese">夜色愈深，路上静寂。萤火在草间闪烁。</span><span class="english">The night grows dark and the road lonely. Fireflies gleam among the leaves.</span></p>

@@ -1,5 +1,7 @@
 # 仆役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puyi.md)
+
 <p><span class="chinese">突然，他听到他的仆役吹起了口哨。</span><span class="english">Suddenly, he heard his servant whistling.</span></p>
 
 <p><span class="chinese">金钱是好的仆役，坏的主人。</span><span class="english">Money is a good servant, but a bad master.</span></p>

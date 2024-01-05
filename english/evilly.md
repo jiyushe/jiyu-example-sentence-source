@@ -1,5 +1,7 @@
 # evilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evilly.md)
+
 <p><span class="chinese">他邪恶地对我说。</span><span class="english">He said evilly.</span></p>
 
 <p><span class="chinese">邪从鼻人。</span><span class="english">Evilly from nose person.</span></p>

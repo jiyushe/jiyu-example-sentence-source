@@ -1,5 +1,7 @@
 # acer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acer.md)
+
 <p><span class="chinese">此外，宏基还因存货周转率低而屡遭批评。</span><span class="english">Acer was also criticized for its slow inventory turnover.</span></p>
 
 <p><span class="chinese">徐州宏三为公司提供了反担保。</span><span class="english">Xuzhou Acer for the company provided three counter-guarantee.</span></p>

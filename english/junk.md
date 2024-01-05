@@ -1,5 +1,7 @@
 # junk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/junk.md)
+
 <p><span class="chinese">废品商。</span><span class="english">Junk dealer.</span></p>
 
 <p><span class="chinese">少读垃圾资料。</span><span class="english">Read less junk.</span></p>

@@ -1,5 +1,7 @@
 # aia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aia.md)
+
 <p><span class="chinese">但友邦保险及其承销投行不会继续打折了。</span><span class="english">But AIA and its bankers will go only so low.</span></p>
 
 <p><span class="chinese">许多海外的资格可以获得AIA的免试。</span><span class="english">Many overseas qualifications attract AIA exemptions.</span></p>

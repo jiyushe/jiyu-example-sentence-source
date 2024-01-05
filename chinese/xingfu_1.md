@@ -1,5 +1,7 @@
 # 杏脯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingfu_1.md)
+
 <p><span class="chinese">我给你买了些杏脯。</span><span class="english">I bought some preserved apricots for you.</span></p>
 
 <p><span class="chinese">果脯—杏脯、干枣、梅干、葡萄干</span><span class="english">Dried fruits – apricots, dates, prunes, raisins</span></p>

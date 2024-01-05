@@ -1,5 +1,7 @@
 # imperfectly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperfectly.md)
+
 <p><span class="chinese">每一颗不安的心，都跳的如此不完美。</span><span class="english">Each restless heart beats so imperfectly.</span></p>
 
 <p><span class="chinese">燃烧的烟子也可以再循环利用。</span><span class="english">The imperfectly combusted soot can be reused again.</span></p>

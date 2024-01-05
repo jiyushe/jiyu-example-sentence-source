@@ -1,5 +1,7 @@
 # 鸡雏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jichu.md)
+
 <p><span class="chinese">母鸡用翅膀保护鸡雏。</span><span class="english">The chickens gathered under the hen.</span></p>
 
 <p><span class="chinese">新生小鸡雏的性别是很难判断的。</span><span class="english">It's difficult to sex newborn chicks.</span></p>

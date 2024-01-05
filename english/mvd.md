@@ -1,5 +1,7 @@
 # mvd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mvd.md)
+
 <p><span class="chinese">MVD是影响其复发的危险因素。</span><span class="english">KDR and MVD were risk factors for recurrence.</span></p>
 
 <p><span class="chinese">同时也可以通过远程对MVD进行人工操作。</span><span class="english">You can also manually operate the remote on MVD.</span></p>

@@ -1,5 +1,7 @@
 # 岿然不动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuiranbudong.md)
+
 <p><span class="chinese">我会坐着像山一样岿然不动。</span><span class="english">I'll sit as still as a hill.</span></p>
 
 <p><span class="chinese">他，岿然不动，注视她。</span><span class="english">And he, unmoved , regarded her.</span></p>

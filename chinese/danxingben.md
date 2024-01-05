@@ -1,5 +1,7 @@
 # 单行本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danxingben.md)
+
 <p><span class="chinese">本丛书的单行本在不断更新。</span><span class="english">This series of monographs in the constantly updated.</span></p>
 
 <p><span class="chinese">与单行本出版物的不同之处在于再版引用出处。</span><span class="english">It differs from reprinted publication in that a reprint cites sources.</span></p>

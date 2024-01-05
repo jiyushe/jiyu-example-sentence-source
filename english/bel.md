@@ -1,5 +1,7 @@
 # bel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bel.md)
+
 <p><span class="chinese">贝乐喜欢昂贵的东西。</span><span class="english">Bel liked expensive things.</span></p>
 
 <p><span class="chinese">可是贝尔正好跑到他和高格之间。</span><span class="english">But Bel was between him and Gog.</span></p>

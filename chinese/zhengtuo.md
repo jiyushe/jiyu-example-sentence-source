@@ -1,5 +1,7 @@
 # 挣脱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengtuo.md)
+
 <p><span class="chinese">马挣脱了缰绳。</span><span class="english">He bridled the horse.</span></p>
 
 <p><span class="chinese">她挣脱开来，跑掉了。</span><span class="english">She shook free and ran.</span></p>

@@ -1,5 +1,7 @@
 # 迫近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pojin.md)
+
 <p><span class="chinese">既然未来正向我们迫近。</span><span class="english">Now that future looms before us.</span></p>
 
 <p><span class="chinese">当最后时限迫近的时候你会怎么做？</span><span class="english">What do you do when the deadline looms?</span></p>

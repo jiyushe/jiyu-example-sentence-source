@@ -1,5 +1,7 @@
 # urticaria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urticaria.md)
+
 <p><span class="chinese">怎样治疗产后荨麻疹？</span><span class="english">How to treat postpartum urticaria?</span></p>
 
 <p><span class="chinese">过敏性皮肤反应，例如风疹块。</span><span class="english">Allergic skin reaction such as urticaria.</span></p>

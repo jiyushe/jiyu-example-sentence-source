@@ -1,5 +1,7 @@
 # 家谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiapu.md)
+
 <p><span class="chinese">这个是锡伯族家中的家谱。</span><span class="english">This is a Xibe family genealogy.</span></p>
 
 <p><span class="chinese">语言是民族的家谱。</span><span class="english">Languages are the pedigrees of nations.</span></p>

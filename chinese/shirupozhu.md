@@ -1,5 +1,7 @@
 # 势如破竹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shirupozhu.md)
+
 <p><span class="chinese">在中国，苹果势如破竹。</span><span class="english">In China, Apple’s on a roll.</span></p>
 
 <p><span class="chinese">动画片今夏看来也将势如破竹。</span><span class="english">Animated films also look to be big this summer.</span></p>

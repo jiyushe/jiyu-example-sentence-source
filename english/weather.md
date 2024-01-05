@@ -1,5 +1,7 @@
 # weather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weather.md)
+
 <p><span class="chinese">我谢你，天气。</span><span class="english">Thanks, Weather.</span></p>
 
 <p><span class="chinese">大冷的天。</span><span class="english">Big cold weather.</span></p>

@@ -1,5 +1,7 @@
 # abreaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abreaction.md)
+
 <p><span class="chinese">我是通过想问题去发泄的，这是我的方法。</span><span class="english">So I am abreaction by consider question. This is my way.</span></p>
 
 <p><span class="chinese">半月后，清晨的雾气仍未完全消散。</span><span class="english">After the half moon, the morning mist is still not completely abreaction.</span></p>

@@ -1,5 +1,7 @@
 # oda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oda.md)
+
 <p><span class="chinese">小田就开始用该手铐去羞辱绫。</span><span class="english">Using them, Oda humiliates Ayane.</span></p>
 
 <p><span class="chinese">小田认为何洪有古怪，便决定进行调查。</span><span class="english">Oda think He Hongyou eccentric, decided to investigate.</span></p>

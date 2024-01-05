@@ -1,5 +1,7 @@
 # facs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facs.md)
+
 <p><span class="chinese">FACS是一种快速而且敏感的鉴定方法。</span><span class="english">FACS is a quick and sensitive method of identification.</span></p>
 
 <p><span class="chinese">细胞周期分析和DNA电泳研究细胞凋亡。</span><span class="english">The apoptosis of NB4 cell was analyzed by DNA fragments and FACS.</span></p>

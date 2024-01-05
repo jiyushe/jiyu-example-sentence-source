@@ -1,5 +1,7 @@
 # leaching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaching.md)
+
 <p><span class="chinese">温度是影响浸取效果的重要因素。</span><span class="english">Leaching temperature was important to result.</span></p>
 
 <p><span class="chinese">TPS浸取模型的建立和应用。</span><span class="english">Foundation of TPS leaching model and its application.</span></p>

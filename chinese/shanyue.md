@@ -1,5 +1,7 @@
 # 山岳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanyue.md)
+
 <p><span class="chinese">把我放回我酷爱的山岳</span><span class="english">Place me among the rocks I love</span></p>
 
 <p><span class="chinese">瑞士以其山岳闻名。</span><span class="english">Switzerland is famous for its mountains.</span></p>

@@ -1,5 +1,7 @@
 # 脂油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyou_2.md)
+
 <p><span class="chinese">有节制的使用脂油。</span><span class="english">Use fats sparingly.</span></p>
 
 <p><span class="chinese">脂油都是耶和华的。</span><span class="english">All the fat is the Lord 's.</span></p>

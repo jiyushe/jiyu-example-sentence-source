@@ -1,5 +1,7 @@
 # clairvoyant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clairvoyant.md)
+
 <p><span class="chinese">你是通灵还是透视啊？</span><span class="english">Are you psychic or clairvoyant?</span></p>
 
 <p><span class="chinese">它说明爱情是盲目的但是友情是睿智的。</span><span class="english">that love is blind but friendship is clairvoyant.</span></p>

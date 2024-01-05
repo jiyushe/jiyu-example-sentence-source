@@ -1,5 +1,7 @@
 # 花哨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huashao.md)
+
 <p><span class="chinese">她穿一套花哨的新衣。</span><span class="english">She was dogged out in a new outfit.</span></p>
 
 <p><span class="chinese">谁会要这么花哨的裙子？</span><span class="english">Who on earth would want such a splashy dress?</span></p>

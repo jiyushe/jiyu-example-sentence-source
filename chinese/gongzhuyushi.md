@@ -1,5 +1,7 @@
 # 公诸于世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhuyushi.md)
+
 <p><span class="chinese">许多新发现已公诸于世。</span><span class="english">Many new discoveries have been brought to light.</span></p>
 
 <p><span class="chinese">我想要把这件事公诸于世。</span><span class="english">I wish to make this matter known to the general public.</span></p>

@@ -1,5 +1,7 @@
 # complied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complied.md)
+
 <p><span class="chinese">本规则各条在各种天气条件下都应遵守。</span><span class="english">Rules in this Part shall be complied with in all weathers.</span></p>
 
 <p><span class="chinese">关于号型的各条规定在白天都应遵守。</span><span class="english">The Rules concerning shapes shall be complied with by day.</span></p>

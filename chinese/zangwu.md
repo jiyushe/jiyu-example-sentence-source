@@ -1,5 +1,7 @@
 # 赃物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zangwu.md)
+
 <p><span class="chinese">赃物成了他思想上的很大负担。</span><span class="english">The theft weighed on his mind.</span></p>
 
 <p><span class="chinese">还回赃物我们就扯平了。</span><span class="english">Just return the loot eachdill call it even.</span></p>

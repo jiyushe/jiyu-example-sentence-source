@@ -1,5 +1,7 @@
 # extenuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extenuation.md)
+
 <p><span class="chinese">这借口对他是种安慰。</span><span class="english">It was a comfort to him, this extenuation.</span></p>
 
 <p><span class="chinese">律师以被告年龄为由要求减轻其行为过错。</span><span class="english">Counsel pleaded the accused's age in extenuation of his actions.</span></p>

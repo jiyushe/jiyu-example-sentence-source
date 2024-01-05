@@ -1,5 +1,7 @@
 # 拿给
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nagei.md)
+
 <p><span class="chinese">我把它拿给爸爸看。</span><span class="english">I showed it to Papa.</span></p>
 
 <p><span class="chinese">拿给我吧。</span><span class="english">Just hand me it now.</span></p>

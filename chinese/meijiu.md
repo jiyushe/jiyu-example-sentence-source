@@ -1,5 +1,7 @@
 # 美酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meijiu.md)
+
 <p><span class="chinese">酣饮你的美酒。</span><span class="english">I'll drink your sweet wine.</span></p>
 
 <p><span class="chinese">沱江清流变美酒！</span><span class="english">Turning Tuo River into wine!</span></p>

@@ -1,5 +1,7 @@
 # jinggang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jinggang.md)
+
 <p><span class="chinese">踏访井冈山——中国革命的摇篮</span><span class="english">Mount Jinggang the cradle of the Chinese revolution.</span></p>
 
 <p><span class="chinese">井冈山位于四县之交。</span><span class="english">The Jinggang Mountains stand where the boundaries of four counties meet.</span></p>

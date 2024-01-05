@@ -1,5 +1,7 @@
 # fitly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fitly.md)
+
 <p><span class="chinese">你用一句绝妙的引文很恰当地开始。</span><span class="english">You fitly begin with an elegant quotation.</span></p>
 
 <p><span class="chinese">当时我恰好目睹了这个事情的全过程。</span><span class="english">I witnessed the whole process of this thing fitly at that time.</span></p>

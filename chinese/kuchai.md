@@ -1,5 +1,7 @@
 # 苦差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuchai.md)
+
 <p><span class="chinese">你的工作是苦差吗？</span><span class="english">Is your work drudgery?</span></p>
 
 <p><span class="chinese">自由设计算是苦差还是一种消遣？</span><span class="english">Is it drudgery or a stress-free job?</span></p>

@@ -1,5 +1,7 @@
 # trove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trove.md)
+
 <p><span class="chinese">马达加斯加是一个让人惊叹的藏宝之岛。</span><span class="english">Madagascar is a trove of the wondrous.</span></p>
 
 <p><span class="chinese">奥波利博士差点自己就找到了这堆信件。</span><span class="english">Dr. Olby almost discovered the trove himself.</span></p>

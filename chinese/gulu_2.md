@@ -1,5 +1,7 @@
 # 骨碌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gulu_2.md)
+
 <p><span class="chinese">约翰看到妻子把那把铜茶壶放在他们那辆福特嘉年华的后座上时，眼珠子骨碌碌地直转。</span><span class="english">John rolled his eyes when his wife set the brass teapot in the backseat of their Ford Festiva.</span></p>
 
 <p><span class="chinese">菲尔波特一声不响地注视着那个圆圈和那两个正方形，吓人的大眼睛骨碌碌地转个不停。</span><span class="english">Philpot's goggle eyes rolled horribly as he glared silently at the circle and the two squares.</span></p>

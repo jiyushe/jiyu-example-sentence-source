@@ -1,5 +1,7 @@
 # wreckage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wreckage.md)
+
 <p><span class="chinese">沉船残骸堵塞了航道。</span><span class="english">Wreckage filled the channel.</span></p>
 
 <p><span class="chinese">残骸慢慢漂走了。</span><span class="english">The wreckage slowly drifted away.</span></p>

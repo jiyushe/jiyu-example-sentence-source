@@ -1,5 +1,7 @@
 # 落井下石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luojingxiashi.md)
+
 <p><span class="chinese">拉斯维加斯对失败者落井下石。</span><span class="english">Las Vegas handicapped the underdogs by a large margin.</span></p>
 
 <p><span class="chinese">中国传媒真的这么渴望对他们的英国同行落井下石吗？</span><span class="english">Are Chinese reporters really so eager to flog their British peers?</span></p>

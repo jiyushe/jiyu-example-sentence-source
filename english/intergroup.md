@@ -1,5 +1,7 @@
 # intergroup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intergroup.md)
+
 <p><span class="chinese">组间分析采用方差分析。</span><span class="english">Analysis of variance was applied in the intergroup analysis.</span></p>
 
 <p><span class="chinese">描述组织如何管理冲突。</span><span class="english">Discuss interpersonal and intergroup conflict in organizations.</span></p>

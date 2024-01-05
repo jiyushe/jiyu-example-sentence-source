@@ -1,5 +1,7 @@
 # antimony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antimony.md)
+
 <p><span class="chinese">三氧化二锑、锑的生产销售。</span><span class="english">Sanyanghuaerti, refined antimony production sales.</span></p>
 
 <p><span class="chinese">铸造活字的合金，由铅，锡和锑组成。</span><span class="english">The alloy for cast type, comprising lead, tin and antimony.</span></p>

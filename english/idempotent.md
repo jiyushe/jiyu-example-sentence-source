@@ -1,5 +1,7 @@
 # idempotent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idempotent.md)
+
 <p><span class="chinese">首先利用弱理想，引入了弱全幂等环的概念。</span><span class="english">The conception of weak completely idempotent rings is introduced.</span></p>
 
 <p><span class="chinese">最后还证明了幂等算子和它的伴随是相似的。</span><span class="english">In the end we prove that idempotent operator is similar to its adjoint.</span></p>

@@ -1,5 +1,7 @@
 # congressional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congressional.md)
+
 <p><span class="chinese">国会的督促并没有必要。</span><span class="english">There is no need for a congressional prod.</span></p>
 
 <p><span class="chinese">两年前，荣获国会金质奖章。</span><span class="english">He won the Congressional Gold Medal two years ago.</span></p>

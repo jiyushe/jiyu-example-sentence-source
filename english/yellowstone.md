@@ -1,5 +1,7 @@
 # yellowstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yellowstone.md)
+
 <p><span class="chinese">黄石公园的大峡谷。</span><span class="english">Grand Canyon of the Yellowstone.</span></p>
 
 <p><span class="chinese">黄石国家公园的一匹狼。</span><span class="english">A wolf in Yellowstone national park.</span></p>

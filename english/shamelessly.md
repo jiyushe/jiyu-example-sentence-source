@@ -1,5 +1,7 @@
 # shamelessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shamelessly.md)
+
 <p><span class="chinese">他厚颜无耻地奉承她。</span><span class="english">He flattered her shamelessly.</span></p>
 
 <p><span class="chinese">然而我们还是不知羞耻地调笑危险。</span><span class="english">And yet we flirt shamelessly with risk.</span></p>

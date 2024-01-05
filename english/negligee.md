@@ -1,5 +1,7 @@
 # negligee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negligee.md)
+
 <p><span class="chinese">妇女穿的宽松的晨衣。</span><span class="english">A loose dressing gown or negligee.</span></p>
 
 <p><span class="chinese">噢，玛丽，你穿着这件小睡衣简直太迷人了！</span><span class="english">Oh, Mary, you look ravishing in that skimpy negligee !</span></p>

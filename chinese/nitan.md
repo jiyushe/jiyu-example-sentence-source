@@ -1,5 +1,7 @@
 # 泥炭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nitan.md)
+
 <p><span class="chinese">把插枝扦插泥炭中。</span><span class="english">A cutting in a peat bog.</span></p>
 
 <p><span class="chinese">移栽到含泥炭的土壤里。</span><span class="english">Transplant the seedlings into peaty soil.</span></p>

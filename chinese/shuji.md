@@ -1,5 +1,7 @@
 # 书记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuji.md)
+
 <p><span class="chinese">他是我们的支部书记。</span><span class="english">He is secretary of our branch.</span></p>
 
 <p><span class="chinese">李先生任党委书记兼市长。</span><span class="english">Mr Li is Party secretary and major.</span></p>

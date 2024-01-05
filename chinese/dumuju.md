@@ -1,5 +1,7 @@
 # 独幕剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dumuju.md)
+
 <p><span class="chinese">无谓的独幕剧中，你在寻找什么。</span><span class="english">What an earth you are looking for.</span></p>
 
 <p><span class="chinese">她打算写一个独幕剧。</span><span class="english">She talked of writing a one-act play.</span></p>

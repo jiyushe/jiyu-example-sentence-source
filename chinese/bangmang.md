@@ -1,5 +1,7 @@
 # 帮忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangmang.md)
+
 <p><span class="chinese">我有人帮忙的。</span><span class="english">I had some help.</span></p>
 
 <p><span class="chinese">我要你的帮忙。</span><span class="english">I want your help.</span></p>

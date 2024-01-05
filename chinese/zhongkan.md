@@ -1,5 +1,7 @@
 # 中看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongkan.md)
+
 <p><span class="chinese">该隐作神眼中看为恶的事。</span><span class="english">Cain, did evil in God's sight.</span></p>
 
 <p><span class="chinese">她在人群中看不见她儿子了。</span><span class="english">She lost her son in the crowd.</span></p>

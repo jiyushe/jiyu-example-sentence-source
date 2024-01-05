@@ -1,5 +1,7 @@
 # 热爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reai.md)
+
 <p><span class="chinese">我热爱音乐。</span><span class="english">I love music.</span></p>
 
 <p><span class="chinese">我热爱我的工作。</span><span class="english">I love my job!</span></p>

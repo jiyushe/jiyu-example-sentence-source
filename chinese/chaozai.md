@@ -1,5 +1,7 @@
 # 超载
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaozai.md)
+
 <p><span class="chinese">他们使那只船超载。</span><span class="english">They overloaded the vessel.</span></p>
 
 <p><span class="chinese">这就是一个信息超载的现象。</span><span class="english">It's another case of information overload.</span></p>

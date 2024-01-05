@@ -1,5 +1,7 @@
 # copartner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copartner.md)
+
 <p><span class="chinese">他是一家律师所的合伙人。</span><span class="english">He is a copartner of the attorney office.</span></p>
 
 <p><span class="chinese">北极光合伙人邓峰认为。</span><span class="english">Deng Feng of aurora borealis copartner thinks.</span></p>

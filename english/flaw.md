@@ -1,5 +1,7 @@
 # flaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flaw.md)
+
 <p><span class="chinese">究竟是什么缺陷？</span><span class="english">What's the flaw?</span></p>
 
 <p><span class="chinese">杜库有什么缺陷？</span><span class="english">Did he have a flaw?</span></p>

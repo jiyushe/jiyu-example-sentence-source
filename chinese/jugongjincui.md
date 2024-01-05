@@ -1,5 +1,7 @@
 # 鞠躬尽瘁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jugongjincui.md)
+
 <p><span class="chinese">它是一项要履行的职责，我将为此鞠躬尽瘁。</span><span class="english">It is a charge to keep and I will give it my all.</span></p>
 
 <p><span class="chinese">他真是鞠躬尽瘁，死而后已。</span><span class="english">He really gave his all till his heart ceased to beat.</span></p>

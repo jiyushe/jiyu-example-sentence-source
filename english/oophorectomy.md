@@ -1,5 +1,7 @@
 # oophorectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oophorectomy.md)
+
 <p><span class="chinese">在任何分析与年龄层中，没有一个是卵巢切除术与增加存活率有关的。</span><span class="english">In no analysis or age group was oophorectomy associated with increased survival.</span></p>
 
 <p><span class="chinese">为更深入的了解这些问题，他们研究了绝经开始前卵巢切除的影响。</span><span class="english">To provide more insight into these issues, they studied the effect of oophorectomy prior to menopause onset.</span></p>

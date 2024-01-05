@@ -1,5 +1,7 @@
 # sinter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinter.md)
+
 <p><span class="chinese">冬天来了，春天还会远吗？</span><span class="english">If sinter comes, can spring be far behind?</span></p>
 
 <p><span class="chinese">并探讨了水热反应烧结机理。</span><span class="english">The hydrothermal reaction sinter mechanism was discussed.</span></p>

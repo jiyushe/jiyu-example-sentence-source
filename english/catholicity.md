@@ -1,5 +1,7 @@
 # catholicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catholicity.md)
+
 <p><span class="chinese">这是一个关于宽容和爱的故事。</span><span class="english">This is a story about catholicity and love.</span></p>
 
 <p><span class="chinese">所以我们要多宽容别人。</span><span class="english">Therefore, we should have catholicity to others.</span></p>

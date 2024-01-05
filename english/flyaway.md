@@ -1,5 +1,7 @@
 # flyaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flyaway.md)
+
 <p><span class="chinese">同样对碎发有效。</span><span class="english">It is also extremely forgiving to flyaway hairs.</span></p>
 
 <p><span class="chinese">公告夏天的飞鸟，飞到我的窗前唱歌，又飞去了。</span><span class="english">Stray birds of summer come to my window to sing and flyaway.</span></p>

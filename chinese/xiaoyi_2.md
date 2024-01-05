@@ -1,5 +1,7 @@
 # 校医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyi_2.md)
+
 <p><span class="chinese">这就是你们的校医是个妇产科医生的原因。</span><span class="english">That's why your school nurse is an obstetrician.</span></p>
 
 <p><span class="chinese">那个老于世故的校医脾气很坏。</span><span class="english">The sophisticated school doctor had a sour temper.</span></p>

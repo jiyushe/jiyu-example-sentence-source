@@ -1,5 +1,7 @@
 # lemur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lemur.md)
+
 <p><span class="chinese">而雄性环尾狐猴几乎是漠不关心。</span><span class="english">Ring-tailed lemur males could care less.</span></p>
 
 <p><span class="chinese">马达加斯加的环尾狐猴在野外。</span><span class="english">Madagascar's ring-tailed lemur in the wild.</span></p>

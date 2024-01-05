@@ -1,5 +1,7 @@
 # thug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thug.md)
+
 <p><span class="chinese">他看起来像个小混混儿。</span><span class="english">He looks like a thug.</span></p>
 
 <p><span class="chinese">软脚流氓不能进行阻挡。</span><span class="english">Spineless Thug can't block.</span></p>

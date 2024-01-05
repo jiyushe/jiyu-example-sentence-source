@@ -1,5 +1,7 @@
 # 依从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yicong.md)
+
 <p><span class="chinese">但依从你的话，我就下网。</span><span class="english">Rhema I will let down the net.</span></p>
 
 <p><span class="chinese">血液在依从的双唇上的闪光。</span><span class="english">The blood that gleams on the yielding lips.</span></p>

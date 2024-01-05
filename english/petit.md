@@ -1,5 +1,7 @@
 # petit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petit.md)
+
 <p><span class="chinese">小客体永远无法跨越这个罅隙。</span><span class="english">The petit a never crosses this gap.</span></p>
 
 <p><span class="chinese">奥雷利娅尤其是迷人的小收看。</span><span class="english">Aurelia Petit especially is fascinating to watch.</span></p>

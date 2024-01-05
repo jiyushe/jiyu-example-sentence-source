@@ -1,5 +1,7 @@
 # flowerbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flowerbed.md)
+
 <p><span class="chinese">那条狗直蹿过花坛。</span><span class="english">The dog rushed straight through the flowerbed.</span></p>
 
 <p><span class="chinese">他在他花园的花坛里种植郁金香。</span><span class="english">He grows tulips in the flowerbed in his garden.</span></p>

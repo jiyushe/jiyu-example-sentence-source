@@ -1,5 +1,7 @@
 # cannes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannes.md)
+
 <p><span class="chinese">这个星期，嘎纳静悄悄。</span><span class="english">CANNES was quiet this week.</span></p>
 
 <p><span class="chinese">她的影片在戛纳电影节首次放映。</span><span class="english">Her film was premiered in Cannes Festival.</span></p>

@@ -1,5 +1,7 @@
 # 破相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poxiang.md)
+
 <p><span class="chinese">她的脸因鼻子残损而破相。</span><span class="english">Her face was disfigured by a broken nose.</span></p>
 
 <p><span class="chinese">她脸上一条红色的长疤使她破相了。</span><span class="english">Her face was disfigured by a long red scar.</span></p>

@@ -1,5 +1,7 @@
 # 银花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhua_1.md)
+
 <p><span class="chinese">你能帮我告诉巴特，我在等他一起去雪树银花舞会吗？</span><span class="english">Could you tell Bart that I'm waiting for him to go to the snowflake ball?</span></p>
 
 <p><span class="chinese">目的研究泸州地区产山银花挥发油的化学成分。</span><span class="english">Objective To identify the compositions of volatile oil from Luzhou Flos Lonicerae.</span></p>

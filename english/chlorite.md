@@ -1,5 +1,7 @@
 # chlorite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlorite.md)
+
 <p><span class="chinese">允许非亚氯酸钠漂白。</span><span class="english">No sodium chlorite bleaching allowed by us.</span></p>
 
 <p><span class="chinese">在这些矿物中，高岭石，伊利石和绿泥石最常见。</span><span class="english">Of these minerals kaolinite illite and chlorite are commonest.</span></p>

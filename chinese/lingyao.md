@@ -1,5 +1,7 @@
 # 灵药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingyao.md)
+
 <p><span class="chinese">它们应该向东方看齐，寻求灵药。</span><span class="english">They should look east for a cure.</span></p>
 
 <p><span class="chinese">哪个是你确保消除心情不好的灵药呢？</span><span class="english">What one thing is your sure fire bad mood buster?</span></p>

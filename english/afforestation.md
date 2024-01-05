@@ -1,5 +1,7 @@
 # afforestation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afforestation.md)
+
 <p><span class="chinese">造林是一项重大任务。</span><span class="english">Afforestation is a matter of vital importance.</span></p>
 
 <p><span class="chinese">校园绿化面积为2310平方米。</span><span class="english">The campus afforestation area is 2310 square meters.</span></p>

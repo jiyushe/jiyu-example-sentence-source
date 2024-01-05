@@ -1,5 +1,7 @@
 # 聪慧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/conghui.md)
+
 <p><span class="chinese">没有爱人的聪慧心要如何跳动呢?。</span><span class="english">Or doth it beat Without love's smart?</span></p>
 
 <p><span class="chinese">他们更聪慧，更聪明。</span><span class="english">They're more intelligent. They're smarter.</span></p>

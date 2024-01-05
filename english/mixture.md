@@ -1,5 +1,7 @@
 # mixture 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mixture.md)
+
 <p><span class="chinese">空气是多种气体的混合物。</span><span class="english">Air is a mixture of gases.</span></p>
 
 <p><span class="chinese">那是低共熔混合物。</span><span class="english">That's a eutectic mixture.</span></p>

@@ -1,5 +1,7 @@
 # 财权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caiquan.md)
+
 <p><span class="chinese">一年以前，这个人控制了该公司的财权。</span><span class="english">You should have control of your vehicle at all times.</span></p>
 
 <p><span class="chinese">财务主管拒绝放弃俱乐部的财权。</span><span class="english">The Treasurer refused to let go of the club's purse strings.</span></p>

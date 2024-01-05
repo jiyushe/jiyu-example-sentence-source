@@ -1,5 +1,7 @@
 # 经营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingying_1.md)
+
 <p><span class="chinese">他经营皮货。</span><span class="english">He deals in furs.</span></p>
 
 <p><span class="chinese">我经营一个餐车。</span><span class="english">I run a dining car.</span></p>

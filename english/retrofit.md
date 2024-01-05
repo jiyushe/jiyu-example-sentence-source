@@ -1,5 +1,7 @@
 # retrofit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrofit.md)
+
 <p><span class="chinese">房子翻新可能需要安装新的门框。</span><span class="english">A retrofit may involve putting in new door jambs.</span></p>
 
 <p><span class="chinese">比尔博接替了，我们接受到一个新任务，时间是两星期。</span><span class="english">Bilbo , and to put in for a retrofit within two weeks.</span></p>

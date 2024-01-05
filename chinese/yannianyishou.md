@@ -1,5 +1,7 @@
 # 延年益寿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yannianyishou.md)
+
 <p><span class="chinese">吃蔬菜，不要抽烟，系上你的安全带，我们都懂得这些延年益寿的基本方法。</span><span class="english">Eat your vegetables. Don't smoke.</span></p>
 
 <p><span class="chinese">茶叶为什么可以治病，为什么可以延年益寿？</span><span class="english">Why tea can cure, why can prolong life?</span></p>

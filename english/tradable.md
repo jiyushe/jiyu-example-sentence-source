@@ -1,5 +1,7 @@
 # tradable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tradable.md)
+
 <p><span class="chinese">罗德里克先生的模型也呈现了一个单一的可被交易的商品。</span><span class="english">Mr Rodrik’s model also assumes a single tradable good.</span></p>
 
 <p><span class="chinese">配额是可以或不可以转移的、继承的或交易的。</span><span class="english">Quotas may or may not be transferable, inheritable , or tradable.</span></p>

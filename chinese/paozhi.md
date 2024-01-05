@@ -1,5 +1,7 @@
 # 抛掷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paozhi.md)
+
 <p><span class="chinese">生活向我们抛掷弧线球。</span><span class="english">Life will throw us curveballs.</span></p>
 
 <p><span class="chinese">安娜继续跳着。艾尔莎继续抛掷魔法。</span><span class="english">Anna keeps jumping. Elsa keeps casting magic.</span></p>

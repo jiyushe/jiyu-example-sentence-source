@@ -1,5 +1,7 @@
 # disturbingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disturbingly.md)
+
 <p><span class="chinese">洛雷斯做出结论说，昏迷患者被以“令人不安的常规标准”误诊。</span><span class="english">Laureys concluded that coma patients are misdiagnosed "on a disturbingly regular basis".</span></p>
 
 <p><span class="chinese">叹息声透过外间的窗户，飘飘悠悠消弭在了喧嚣的雨声中。</span><span class="english">Sigh a voice via the skylight of outside, drift long stop at disturbingly loud rain voice in.</span></p>

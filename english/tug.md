@@ -1,5 +1,7 @@
 # tug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tug.md)
+
 <p><span class="chinese">把拖船拖缆降低。</span><span class="english">Lower towing line to tug.</span></p>
 
 <p><span class="chinese">然后他们进行了一场拔河比赛。</span><span class="english">Then they had a tug of war.</span></p>

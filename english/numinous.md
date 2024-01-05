@@ -1,5 +1,7 @@
 # numinous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numinous.md)
+
 <p><span class="chinese">那天他们领着我去了一个神秘的地方。</span><span class="english">They led me to a numinous place that day.</span></p>
 
 <p><span class="chinese">灵宝斋法是道教斋法的主流。</span><span class="english">The numinous treasure rites are the mainstream of Taoist rites.</span></p>

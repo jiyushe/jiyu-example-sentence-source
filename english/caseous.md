@@ -1,5 +1,7 @@
 # caseous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caseous.md)
+
 <p><span class="chinese">目的探讨大叶性干酪性肺炎的诊断与方法。</span><span class="english">Objective To study the diagnosis and the treatment of caseous lobar pneumonia.</span></p>
 
 <p><span class="chinese">目的探讨鼻内窥镜下手术治疗干酪性鼻炎及鼻窦炎的疗效。</span><span class="english">Objective To observe the effect of revision endoscopic sinus surgery for caseous sinusitis and caseous rhinitis.</span></p>

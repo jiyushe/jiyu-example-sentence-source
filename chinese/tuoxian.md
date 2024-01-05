@@ -1,5 +1,7 @@
 # 脱险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoxian.md)
+
 <p><span class="chinese">他不久前刚侥幸脱险。</span><span class="english">He had just escaped neatly.</span></p>
 
 <p><span class="chinese">小船从暴风雨中脱险。</span><span class="english">The boat outlived the storm.</span></p>

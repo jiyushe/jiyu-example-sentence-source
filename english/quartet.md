@@ -1,5 +1,7 @@
 # quartet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quartet.md)
+
 <p><span class="chinese">事实上，我们现在不算是四重奏了。</span><span class="english">In fact, we are rarely now a quartet.</span></p>
 
 <p><span class="chinese">弦乐四重奏，A小调，作品51号之二。</span><span class="english">String Quartet in Aminor op. 51 No. 2</span></p>

@@ -1,5 +1,7 @@
 # medulloblastoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medulloblastoma.md)
+
 <p><span class="chinese">目的评价髓母细胞瘤脊髓种植的手术治疗意义。</span><span class="english">Objective To evaluate the operation for spinal seeding of medulloblastoma.</span></p>
 
 <p><span class="chinese">方法收集经手术与病理证实的髓母细胞瘤12例。</span><span class="english">Methods 12 cases with medulloblastoma were conformed by surgery and pathology.</span></p>

@@ -1,5 +1,7 @@
 # corvette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corvette.md)
+
 <p><span class="chinese">谢谢。这是学佛菜1965年型号的。</span><span class="english">Thanks. It's a 1965 Corvette.</span></p>
 
 <p><span class="chinese">驱潜快艇听到了露西的呼救信号。</span><span class="english">Lucy's distress call was heard by the corvette.</span></p>

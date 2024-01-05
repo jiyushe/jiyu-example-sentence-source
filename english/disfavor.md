@@ -1,5 +1,7 @@
 # disfavor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disfavor.md)
+
 <p><span class="chinese">托马斯似乎不赞成这项建议。</span><span class="english">Thomas seems to look upon the proposal with disfavor.</span></p>
 
 <p><span class="chinese">大部份的人都不赞成他的想法，因该那些想法都过时了！</span><span class="english">Most people disfavor his ideas since you are not awaydated.</span></p>

@@ -1,5 +1,7 @@
 # 地动山摇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/didongshanyao.md)
+
 <p><span class="chinese">随着地动山摇的一声巨响。</span><span class="english">With the booming sound which shakes the earth.</span></p>
 
 <p><span class="chinese">随着地动山摇的一声巨响</span><span class="english">With the tremendous sound of the shaking of the ground</span></p>

@@ -1,5 +1,7 @@
 # 轻歌曼舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinggemanwu.md)
+
 <p><span class="chinese">轻歌曼舞未必快乐。</span><span class="english">All are not merry that dance lightly.</span></p>
 
 <p><span class="chinese">联欢晚会上，同学们轻歌曼舞，表演了一个个精彩的节目。</span><span class="english">At the party, students sing and dance, and give many excellent performances.</span></p>

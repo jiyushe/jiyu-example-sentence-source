@@ -1,5 +1,7 @@
 # barbarous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbarous.md)
+
 <p><span class="chinese">踩踏着一面铜锣的野蛮的铿锵节拍。</span><span class="english">Goes to the barbarous clangour of a gong.</span></p>
 
 <p><span class="chinese">他们摈弃了这种野蛮风俗。</span><span class="english">They did away with this barbarous custom.</span></p>

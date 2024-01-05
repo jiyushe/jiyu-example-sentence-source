@@ -1,5 +1,7 @@
 # 探视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanshi.md)
+
 <p><span class="chinese">他们毕竟在边境上探视过</span><span class="english">They were on the border looking in.</span></p>
 
 <p><span class="chinese">这个病人是不允许探视的。</span><span class="english">This patient is not allowed visitors.</span></p>

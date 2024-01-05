@@ -1,5 +1,7 @@
 # 奏章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouzhang.md)
+
 <p><span class="chinese">另一份奏章是关于教会改革的。</span><span class="english">Another paper was on church reform.</span></p>
 
 <p><span class="chinese">培根向国王递呈了一份奏章。</span><span class="english">Bacon dedicated to the King a paper.</span></p>

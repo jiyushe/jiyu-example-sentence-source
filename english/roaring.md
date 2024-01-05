@@ -1,5 +1,7 @@
 # roaring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roaring.md)
+
 <p><span class="chinese">没有汽车压过马路的轰叫。</span><span class="english">No pressure to cross the roaring.</span></p>
 
 <p><span class="chinese">叫啸着的狂风把一棵大树都吹折了。</span><span class="english">The roaring wind damaged a big tree.</span></p>

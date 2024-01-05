@@ -1,5 +1,7 @@
 # competitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/competitor.md)
+
 <p><span class="chinese">我智胜了我的对手。</span><span class="english">I've dished my competitor.</span></p>
 
 <p><span class="chinese">她和对手不分胜负。</span><span class="english">She tied with her competitor.</span></p>

@@ -1,5 +1,7 @@
 # 南端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanduan.md)
+
 <p><span class="chinese">南下列车驶离昔日的旧溪口站南端。</span><span class="english">The south side of old Hsi-Kou Station. 1968.</span></p>
 
 <p><span class="chinese">纳迦在南端的裂鞭废墟生活。</span><span class="english">Naga live near the south end, in the Riplash Ruins.</span></p>

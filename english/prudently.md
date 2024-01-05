@@ -1,5 +1,7 @@
 # prudently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prudently.md)
+
 <p><span class="chinese">谨慎计划。</span><span class="english">Plan prudently.</span></p>
 
 <p><span class="chinese">他们在蓬车安全上路后立即谨慎地离去了。</span><span class="english">They had prudently withdrawn as soon as the van had got fairly under way.</span></p>

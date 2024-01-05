@@ -1,5 +1,7 @@
 # 奇装异服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizhuangyifu.md)
+
 <p><span class="chinese">我喜欢奇装异服。</span><span class="english">I wanted the fancy clothes.</span></p>
 
 <p><span class="chinese">他的奇装异服真使我笑死了。</span><span class="english">His weird clothes really gas me.</span></p>

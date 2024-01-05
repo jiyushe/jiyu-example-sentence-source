@@ -1,5 +1,7 @@
 # 后会有期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houhuiyouqi.md)
+
 <p><span class="chinese">希望我们后会有期。</span><span class="english">I hope we meet again.</span></p>
 
 <p><span class="chinese">再见，后会有期。</span><span class="english">Bye, see you next time.</span></p>

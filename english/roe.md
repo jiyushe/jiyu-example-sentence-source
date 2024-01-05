@@ -1,5 +1,7 @@
 # roe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roe.md)
+
 <p><span class="chinese">他们的一半在腹部上带着绿色的卵块。</span><span class="english">A half of them had roe on their bellies.</span></p>
 
 <p><span class="chinese">这些微小的基因种子被称作“鱼卵”。</span><span class="english">These tiny seeds of genes are called "roe."</span></p>

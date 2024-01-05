@@ -1,5 +1,7 @@
 # 蜜饯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mijian_1.md)
+
 <p><span class="chinese">母亲做了一些蜜饯洋李。</span><span class="english">Mother made some plum preserves.</span></p>
 
 <p><span class="chinese">他们每年秋天都做蜜饯水果。</span><span class="english">They candy fruit in autumn every year.</span></p>

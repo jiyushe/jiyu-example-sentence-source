@@ -1,5 +1,7 @@
 # expediently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expediently.md)
+
 <p><span class="chinese">使用灵活方便，可组成任意需要的模组。</span><span class="english">It used neatly and expediently as any required modules.</span></p>
 
 <p><span class="chinese">每个贡献者都应该知道如何方便地获得代码审查结果</span><span class="english">every contributor knows how to obtain code review expediently</span></p>

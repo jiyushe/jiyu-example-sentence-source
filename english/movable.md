@@ -1,5 +1,7 @@
 # movable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/movable.md)
+
 <p><span class="chinese">吊桥的可移动部分。</span><span class="english">The movable part of a drawbridge.</span></p>
 
 <p><span class="chinese">百页可以是活动式的，也可以是固定式的。</span><span class="english">They may be either movable or fixed.</span></p>

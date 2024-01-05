@@ -1,5 +1,7 @@
 # 掀动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandong_1.md)
+
 <p><span class="chinese">春风掀动了她的衣襟。</span><span class="english">The spring breeze lifted the edge of her blouse.</span></p>
 
 <p><span class="chinese">他舔了舔手指，掀动他那个笔记本。</span><span class="english">He licked a finger and pushed at the pages of the notebook.</span></p>

@@ -1,5 +1,7 @@
 # emboss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emboss.md)
+
 <p><span class="chinese">在硬币上浮雕出图案。</span><span class="english">Emboss a design on a coin.</span></p>
 
 <p><span class="chinese">很喜欢这两张浮雕式的书签。</span><span class="english">Love these two emboss style bookmarks.</span></p>

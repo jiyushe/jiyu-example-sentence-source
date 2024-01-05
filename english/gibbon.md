@@ -1,5 +1,7 @@
 # gibbon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gibbon.md)
+
 <p><span class="chinese">吉本是一个聪明的白人男性。</span><span class="english">Gibbon was white, smart and male.</span></p>
 
 <p><span class="chinese">吉本是白人，既聪明，又是男性。</span><span class="english">Gibbon was white, smart and male.</span></p>

@@ -1,5 +1,7 @@
 # 举世闻名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jushiwenming.md)
+
 <p><span class="chinese">重庆火锅也是举世闻名的。</span><span class="english">Chongqing hot pot is famous.</span></p>
 
 <p><span class="chinese">法国美食举世闻名。</span><span class="english">French cuisine is famous around the world.</span></p>

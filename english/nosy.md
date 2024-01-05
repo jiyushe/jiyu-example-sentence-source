@@ -1,5 +1,7 @@
 # nosy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nosy.md)
+
 <p><span class="chinese">你怎么称呼爱管闲事的胡椒啊？</span><span class="english">What do you call a nosy pepper?</span></p>
 
 <p><span class="chinese">我对别人怎么生活很感兴趣。</span><span class="english">I'm really nosy about how others live.</span></p>

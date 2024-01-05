@@ -1,5 +1,7 @@
 # 分晓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenxiao.md)
+
 <p><span class="chinese">此事还未见分晓。</span><span class="english">The outcome of the matter is still uncertain.</span></p>
 
 <p><span class="chinese">就我看来，对于瑞诺兹的表演，至少还有待分晓。</span><span class="english">The jury's still out on Reynolds, at least as far as I'm concerned.</span></p>

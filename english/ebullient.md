@@ -1,5 +1,7 @@
 # ebullient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ebullient.md)
+
 <p><span class="chinese">热情的女店主。</span><span class="english">An ebullient woman shop-owner.</span></p>
 
 <p><span class="chinese">有时蓖麻油还可以用作了热情洋溢。</span><span class="english">Sometimes castor oil can also be used as an ebullient.</span></p>

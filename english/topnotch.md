@@ -1,5 +1,7 @@
 # topnotch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topnotch.md)
+
 <p><span class="chinese">这个东西真高级.</span><span class="english">This is topnotch.</span></p>
 
 <p><span class="chinese">近期，体外培养生精干细胞也获得成功。</span><span class="english">Recently, born in vitro topnotch cells also succeed.</span></p>

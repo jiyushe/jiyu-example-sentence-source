@@ -1,5 +1,7 @@
 # 中队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdui.md)
+
 <p><span class="chinese">狼头呼叫狼中队！</span><span class="english">Wolf Leader to Wolf Squadron!</span></p>
 
 <p><span class="chinese">第七中队伤亡惨重。</span><span class="english">Squad Seven suffered many casualties.</span></p>

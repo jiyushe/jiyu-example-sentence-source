@@ -1,5 +1,7 @@
 # 校规
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaogui.md)
+
 <p><span class="chinese">遵守班规及校规。</span><span class="english">Obey class rules and school rules.</span></p>
 
 <p><span class="chinese">这些都是他必须要遵守的严格校规。</span><span class="english">These are strict school rules, which he must obey.</span></p>

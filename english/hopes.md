@@ -1,5 +1,7 @@
 # hopes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hopes.md)
+
 <p><span class="chinese">伯顿希望如此。</span><span class="english">Burton hopes so.</span></p>
 
 <p><span class="chinese">战争使人们对和平的希望落了空。</span><span class="english">War belied hopes for peace.</span></p>

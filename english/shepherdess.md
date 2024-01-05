@@ -1,5 +1,7 @@
 # shepherdess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shepherdess.md)
+
 <p><span class="chinese">秋天梦寐在牧羊女的眼里。</span><span class="english">Autumn sleeps in the shepherdess eyes.</span></p>
 
 <p><span class="chinese">牧羊女毫不犹豫地说。</span><span class="english">The Shepherdess said with no hesitation.</span></p>

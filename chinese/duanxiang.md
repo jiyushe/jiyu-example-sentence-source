@@ -1,5 +1,7 @@
 # 端详
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanxiang.md)
+
 <p><span class="chinese">她盯着那卡片端详了一会儿。</span><span class="english">She stared at it a moment.</span></p>
 
 <p><span class="chinese">端详一下自己的掌心。</span><span class="english">Look at the palms of your hands.</span></p>

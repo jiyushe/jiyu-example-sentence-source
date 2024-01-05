@@ -1,5 +1,7 @@
 # antelope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antelope.md)
+
 <p><span class="chinese">猎人取出羚羊的内脏。</span><span class="english">The hunter disembowelled the antelope.</span></p>
 
 <p><span class="chinese">彩色的邮票上窜出一只跳跃的羚羊。</span><span class="english">An antelope leapt across a colourful stamp.</span></p>

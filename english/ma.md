@@ -1,5 +1,7 @@
 # ma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ma.md)
+
 <p><span class="chinese">马健是谁？</span><span class="english">Who is Ma Jian?</span></p>
 
 <p><span class="chinese">美术老师马先生。</span><span class="english">Art teacher Mr Ma.</span></p>

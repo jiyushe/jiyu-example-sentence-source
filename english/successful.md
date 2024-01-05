@@ -1,5 +1,7 @@
 # successful 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/successful.md)
+
 <p><span class="chinese">其中有五次测试获得了成功。</span><span class="english">Five have been successful.</span></p>
 
 <p><span class="chinese">格外的成功。</span><span class="english">Extraordinarily successful.</span></p>

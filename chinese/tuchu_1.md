@@ -1,5 +1,7 @@
 # 突出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuchu_1.md)
+
 <p><span class="chinese">他的额头很突出。</span><span class="english">He has a forehead.</span></p>
 
 <p><span class="chinese">这是个非常突出的特点。</span><span class="english">It's very prominent.</span></p>

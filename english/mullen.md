@@ -1,5 +1,7 @@
 # mullen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mullen.md)
+
 <p><span class="chinese">陈表示他已邀请马伦尽快访问中国。</span><span class="english">Chen said he has invited Mullen to visit China as soon as possible.</span></p>
 
 <p><span class="chinese">马伦说这些演习的规模都不大，而且是早就计划好的。</span><span class="english">Admiral Mullen said the exercises were both small and long-scheduled.</span></p>

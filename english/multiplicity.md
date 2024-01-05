@@ -1,5 +1,7 @@
 # multiplicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiplicity.md)
+
 <p><span class="chinese">第三是症状的多样性。</span><span class="english">The third is the multiplicity of symptoms.</span></p>
 
 <p><span class="chinese">通用汽车用不同档次多种品牌“抱团”打天下的策略也开始受挫。</span><span class="english">GM's strategy of offering a multiplicity of brands started to fray.</span></p>

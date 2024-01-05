@@ -1,5 +1,7 @@
 # 媒婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meipo.md)
+
 <p><span class="chinese">李媒婆给他们的答案是毫无疑问的肯定。</span><span class="english">Absolutely, Matchmaker Li told them.</span></p>
 
 <p><span class="chinese">媒婆没问题，我会有办法的。</span><span class="english">Matchmaker No problem. I have an idea.</span></p>

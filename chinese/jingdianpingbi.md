@@ -1,5 +1,7 @@
 # 静电屏蔽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdianpingbi.md)
+
 <p><span class="chinese">限幅的波形表明需要改进静电屏蔽。</span><span class="english">A clipped waveform indicates a need to improve electrostatic shielding.</span></p>
 
 <p><span class="chinese">所有飞机都是静电屏蔽的，所以没有造成损失。</span><span class="english">All planes are electrostatically shielded so no damage hopefully to anyone inside!</span></p>

@@ -1,5 +1,7 @@
 # avalon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avalon.md)
+
 <p><span class="chinese">他们将这次事件成为阿瓦隆爆炸。</span><span class="english">They've dubbed the event the Avalon explosion.</span></p>
 
 <p><span class="chinese">华隆印刷机械是您理想的选择。</span><span class="english">Avalon printing machinery is your ideal choice.</span></p>

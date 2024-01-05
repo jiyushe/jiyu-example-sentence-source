@@ -1,5 +1,7 @@
 # mediocrity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mediocrity.md)
+
 <p><span class="chinese">白华看到的只有平庸。</span><span class="english">Hua sees only mediocrity.</span></p>
 
 <p><span class="chinese">这家公司淘汰庸才。</span><span class="english">The company abhors mediocrity.</span></p>

@@ -1,5 +1,7 @@
 # 主妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhufu.md)
+
 <p><span class="chinese">她母亲是一个勤俭的主妇。</span><span class="english">Her mother is a thrifty housewife.</span></p>
 
 <p><span class="chinese">她是一个有经验的主妇。</span><span class="english">She was a housewife of experience.</span></p>

@@ -1,5 +1,7 @@
 # 遗嘱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhu_1.md)
+
 <p><span class="chinese">这是我的遗嘱。</span><span class="english">This is my will.</span></p>
 
 <p><span class="chinese">他死前留遗嘱了吗?。</span><span class="english">Do he die testate ?</span></p>

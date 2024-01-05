@@ -1,5 +1,7 @@
 # 深情厚意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqinghouyi_2.md)
+
 <p><span class="chinese">她的深情厚意鼓舞了他。</span><span class="english">He was heartened by her kindness.</span></p>
 
 <p><span class="chinese">感谢你的深情厚意。</span><span class="english">Thank you for your extreme kindness.</span></p>

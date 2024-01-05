@@ -1,5 +1,7 @@
 # viennese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viennese.md)
+
 <p><span class="chinese">他的维也纳厨娘也受他的恩宠。</span><span class="english">He also favored his Viennese diet cook.</span></p>
 
 <p><span class="chinese">她的头低着，眼睛看着手中的威尼斯鹰羽扇。</span><span class="english">She looked down at her Viennese fan of eagle feathers.</span></p>

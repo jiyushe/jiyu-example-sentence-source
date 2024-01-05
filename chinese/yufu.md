@@ -1,5 +1,7 @@
 # 预付
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yufu.md)
+
 <p><span class="chinese">您可以付一些预付金吗？</span><span class="english">May I have some deposit?</span></p>
 
 <p><span class="chinese">预付定金是多少？</span><span class="english">How much is it per month?</span></p>

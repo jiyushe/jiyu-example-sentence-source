@@ -1,5 +1,7 @@
 # 瓷土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/citu.md)
+
 <p><span class="chinese">用来淘洗瓷土等原料的。</span><span class="english">Used for washing porcelain clay and stuff like that.</span></p>
 
 <p><span class="chinese">哦，这些矿物质构成不同的瓷土，对吧？</span><span class="english">I see and these mineral form various kinds of porcelain clay right?</span></p>

@@ -1,5 +1,7 @@
 # crinkle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crinkle.md)
+
 <p><span class="chinese">我把那本作文选揉皱了，揩黑了。</span><span class="english">I made the book crinkle and black with a mess.</span></p>
 
 <p><span class="chinese">人造纤维织物一般没有棉织物那么容易起皱。</span><span class="english">rayon is not so easy to crinkle as cotton fabric.</span></p>

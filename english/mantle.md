@@ -1,5 +1,7 @@
 # mantle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mantle.md)
+
 <p><span class="chinese">披风上的长袜……</span><span class="english">stockings on the mantle...</span></p>
 
 <p><span class="chinese">她有一件漂亮的斗篷。</span><span class="english">She has a beautiful mantle.</span></p>

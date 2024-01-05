@@ -1,5 +1,7 @@
 # 可好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kehao.md)
+
 <p><span class="chinese">现在可好，手提电脑也能用了。</span><span class="english">Now add laptops.</span></p>
 
 <p><span class="chinese">告诉你我放得可好了。</span><span class="english">I am a good shepherd.</span></p>

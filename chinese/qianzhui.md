@@ -1,5 +1,7 @@
 # 前缀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzhui.md)
+
 <p><span class="chinese">使用拉丁语作前缀。</span><span class="english">Use these Latin prefixes.</span></p>
 
 <p><span class="chinese">这些类名称以一个点前缀开始。</span><span class="english">The class names begin with a dot prefix.</span></p>

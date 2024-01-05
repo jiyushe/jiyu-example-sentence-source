@@ -1,5 +1,7 @@
 # serine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serine.md)
+
 <p><span class="chinese">介绍目前丝氨酸的国内外生产状况。</span><span class="english">Introduce the productive state of serine all over the world.</span></p>
 
 <p><span class="chinese">丝氨酸蛋白酶催化蛋白质中肽键的分解。</span><span class="english">Serine proteases catalyze the cleavge of peptide bonds in proteins.</span></p>

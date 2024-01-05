@@ -1,5 +1,7 @@
 # icecap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icecap.md)
+
 <p><span class="chinese">南极洲约百分之九十五的地方被厚度差不多的常积不消的冰覆盖着。</span><span class="english">Some 95 percent of Antarctica is covered by an icecap averaging.</span></p>
 
 <p><span class="chinese">同时，全球变暖正使覆盖格陵兰岛84万平方英里近80％的巨大积冰快速融化。</span><span class="english">rapidly melting the mighty icecap that covers some 80 percent of Greenland’s 840, 000 square miles.</span></p>

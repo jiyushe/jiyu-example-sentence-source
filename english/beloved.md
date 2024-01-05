@@ -1,5 +1,7 @@
 # beloved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beloved.md)
+
 <p><span class="chinese">我的最爱你啊，到底在哪里？</span><span class="english">Where are you my beloved?</span></p>
 
 <p><span class="chinese">刘湛秋的爱妻。</span><span class="english">Beloved wife of Liuzhanqiu.</span></p>

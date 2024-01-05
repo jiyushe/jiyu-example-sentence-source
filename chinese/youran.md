@@ -1,5 +1,7 @@
 # 悠然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youran.md)
+
 <p><span class="chinese">他在乡下过着悠然的日子。</span><span class="english">He lives a carefree life in the country.</span></p>
 
 <p><span class="chinese">在彩虹之上的某个地方，青鸟悠然飞翔。</span><span class="english">Somewhere over the rainbow blue birds fly.</span></p>

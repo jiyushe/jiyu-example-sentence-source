@@ -1,5 +1,7 @@
 # imagic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imagic.md)
+
 <p><span class="chinese">着重分析了粘液瘤的影像学表现。</span><span class="english">The imagic manifestations of myxoma are emphasized.</span></p>
 
 <p><span class="chinese">语言符号具有映象象似性和拟象象似性。</span><span class="english">Iconicity of language signs falls into imagic iconicity and diagrammatic iconicity.</span></p>

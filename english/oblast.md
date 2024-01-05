@@ -1,5 +1,7 @@
 # oblast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oblast.md)
+
 <p><span class="chinese">萨马拉地区开始运行第一个轨道巴士。</span><span class="english">There is the first rail bus in Samara oblast.</span></p>
 
 <p><span class="chinese">阿斯特拉罕州附近的黑亚尔村发现了珍稀动物化石墓地。</span><span class="english">A whole cemetery of rare fossil animals was found in a village Chyorny Yar in Astrakhan oblast.</span></p>

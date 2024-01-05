@@ -1,5 +1,7 @@
 # immunology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunology.md)
+
 <p><span class="chinese">近年来肿瘤免疫学的研究发展较快。</span><span class="english">Research of oncological immunology has developed rapidly.</span></p>
 
 <p><span class="chinese">这个研究发表在儿科过敏反应和免疫学杂志上。</span><span class="english">The research is in the journal Pediatric Allergy and Immunology.</span></p>

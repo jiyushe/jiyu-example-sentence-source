@@ -1,5 +1,7 @@
 # 战斗员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhandouyuan.md)
+
 <p><span class="chinese">美国的M-4坦克战斗员。</span><span class="english">M-4 tank crews of the United States.</span></p>
 
 <p><span class="chinese">战士与只有敌对战斗员战斗。</span><span class="english">Soldiers fight only enemy combatants.</span></p>

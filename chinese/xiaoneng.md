@@ -1,5 +1,7 @@
 # 效能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoneng.md)
+
 <p><span class="chinese">另一方面，或许肥皂不具有这种效能。</span><span class="english">Perhaps, on the other hand, it may not.</span></p>
 
 <p><span class="chinese">观察滑石对关节炎效能。</span><span class="english">To observe talcum's effect on arthritis.</span></p>

@@ -1,5 +1,7 @@
 # 千亩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianmu.md)
+
 <p><span class="chinese">火焚毁了千亩林木。</span><span class="english">Fire destroyed thousand acres of timber.</span></p>
 
 <p><span class="chinese">若是千亩一苗，孩子在父母的乾坤里，便独步天下了。</span><span class="english">If acres of a vaccine, the child in the parents universe, the world will be the only solution.</span></p>

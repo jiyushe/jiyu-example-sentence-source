@@ -1,5 +1,7 @@
 # 青年节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingnianjie.md)
+
 <p><span class="chinese">“五四”是青年节。</span><span class="english">May 4 is Youth Day.</span></p>
 
 <p><span class="chinese">你在青年节做了什么事？</span><span class="english">What did you do on Youth Day?</span></p>

@@ -1,5 +1,7 @@
 # snowslide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowslide.md)
+
 <p><span class="chinese">他死于雪崩。</span><span class="english">He was killed by the snowslide.</span></p>
 
 <p><span class="chinese">雪崩阻碍了该地区的交通。</span><span class="english">A snowslide has blocked off traffic in this area.</span></p>

@@ -1,5 +1,7 @@
 # phenol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenol.md)
+
 <p><span class="chinese">锌不仅是碳酸酚酶。</span><span class="english">Zinc is not only phenol oxidase in carbonate.</span></p>
 
 <p><span class="chinese">葡萄籽中含有的儿茶素是一种酚类抗氧化剂。</span><span class="english">Catechin is a phenol antioxidant found in grape seeds.</span></p>

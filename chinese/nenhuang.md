@@ -1,5 +1,7 @@
 # 嫩黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nenhuang.md)
+
 <p><span class="chinese">其色泽嫩黄，清香扑鼻。</span><span class="english">The color yellow, fragrant aroma.</span></p>
 
 <p><span class="chinese">像三月的青春在嫩黄的柳树上！</span><span class="english">March-bloom, like on mealed-with-yellow sallows!</span></p>

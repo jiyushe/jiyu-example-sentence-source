@@ -1,5 +1,7 @@
 # 落榜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luobang.md)
+
 <p><span class="chinese">在65家上榜中国和香港公司中，有21家是去年落榜后今年回归。</span><span class="english">Of those 65, 21 return from last year.</span></p>
 
 <p><span class="chinese">去年她考大学落榜，我要她重考。</span><span class="english">I want her to take the college exam again.</span></p>

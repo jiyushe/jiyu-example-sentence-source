@@ -1,5 +1,7 @@
 # vasoconstrictor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasoconstrictor.md)
+
 <p><span class="chinese">血管内皮细胞分泌的强缩血管物质。</span><span class="english">Vascular endothelial cell excretes , strong vasoconstrictor.</span></p>
 
 <p><span class="chinese">它可直接对血管平滑肌作为一种强有力的血管收缩剂。</span><span class="english">It acts directly on vascular smooth muscle as a potent vasoconstrictor.</span></p>

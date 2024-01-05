@@ -1,5 +1,7 @@
 # compartmentalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compartmentalization.md)
+
 <p><span class="chinese">在这里我们可以看到区分真核细胞背后的重要性。</span><span class="english">Here we can see the importance behind compartmentalization of the eukaryotic cell.</span></p>
 
 <p><span class="chinese">金属离子在液泡中的区域化分布是植物耐重金属的主要原因。</span><span class="english">Vacuolar compartmentalization appears to be the source of tolerance of metal_accumulating plants.</span></p>

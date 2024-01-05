@@ -1,5 +1,7 @@
 # crus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crus.md)
+
 <p><span class="chinese">在野外小腿骨折怎么处理？</span><span class="english">How is outdoors crus fracture handled?</span></p>
 
 <p><span class="chinese">小腿抽筋引起小腿肌肉疼痛?。</span><span class="english">Does crus cramp cause crus muscle ache?</span></p>

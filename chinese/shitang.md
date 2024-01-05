@@ -1,5 +1,7 @@
 # 食堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitang.md)
+
 <p><span class="chinese">学校食堂里挤满了人。</span><span class="english">The cafeteria was packed.</span></p>
 
 <p><span class="chinese">大多数学生在校吃食堂。</span><span class="english">Most of the students eat in.</span></p>

@@ -1,5 +1,7 @@
 # compensatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compensatory.md)
+
 <p><span class="chinese">猪能进行代偿性生长吗？</span><span class="english">Are pigs capable of compensatory growth?</span></p>
 
 <p><span class="chinese">法律是补偿性的而非惩罚性的。</span><span class="english">The law is compensatory ratherthan punitive.</span></p>

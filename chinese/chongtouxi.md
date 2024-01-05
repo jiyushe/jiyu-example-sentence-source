@@ -1,5 +1,7 @@
 # 重头戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongtouxi.md)
+
 <p><span class="chinese">接下来贝茨与马克•安德里森的会面才是重头戏。</span><span class="english">The clincher was Bates's meeting with Andreessen.</span></p>
 
 <p><span class="chinese">用枪，是警官学校特殊的重头戏之一。</span><span class="english">Using a gun is one of the students' specialities.</span></p>

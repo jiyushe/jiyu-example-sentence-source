@@ -1,5 +1,7 @@
 # myelopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myelopathy.md)
+
 <p><span class="chinese">未见神经毒性及脊髓病出现。</span><span class="english">Neurotoxicity or myelopathy was not observed.</span></p>
 
 <p><span class="chinese">颈椎神经根病变和脊髓病变的手术有多大益处？</span><span class="english">How beneficial is surgery for cervical radiculopathy and myelopathy?</span></p>

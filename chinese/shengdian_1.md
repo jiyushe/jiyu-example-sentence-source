@@ -1,5 +1,7 @@
 # 盛典
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdian_1.md)
+
 <p><span class="chinese">就职仪式是一场盛典。</span><span class="english">The inauguration was a big event.</span></p>
 
 <p><span class="chinese">第十三届华表奖颁奖盛典正在进行中。</span><span class="english">The 13th Huabiao award celebration is on show.</span></p>

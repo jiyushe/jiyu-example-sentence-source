@@ -1,5 +1,7 @@
 # 阎罗王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanluowang.md)
+
 <p><span class="chinese">于是就没有抓他到阎罗王那儿去喝茶。</span><span class="english">Well, they didn't drag him off to have tea with King Yama.</span></p>
 
 <p><span class="chinese">咁所以帮阎罗王打工个喳都系牛头多过马面。</span><span class="english">So, you can see many ox- faces working for the King of Hell.</span></p>

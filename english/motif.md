@@ -1,5 +1,7 @@
 # motif
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motif.md)
+
 <p><span class="chinese">知道今年教师节的主题吗？</span><span class="english">What is the motif of this year?</span></p>
 
 <p><span class="chinese">胸部的绣花和印图很好的体现了优点。</span><span class="english">AWS embroidery and print motif on the chest.</span></p>

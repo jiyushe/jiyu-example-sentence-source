@@ -1,5 +1,7 @@
 # hanoi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hanoi.md)
+
 <p><span class="chinese">简单的汉诺塔的算法！！！</span><span class="english">Simple Tower of Hanoi algorithm! ! !</span></p>
 
 <p><span class="chinese">在这个寺庙内有三个非常大的金刚石柱子。</span><span class="english">There's a temple in the middle of Hanoi.</span></p>

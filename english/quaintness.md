@@ -1,5 +1,7 @@
 # quaintness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quaintness.md)
+
 <p><span class="chinese">啊，古典的力量啊。</span><span class="english">Ah, the power of quaintness.</span></p>
 
 <p><span class="chinese">店铺里依然弥漫着一种亲切的古雅气氛。</span><span class="english">The shops had still a pleasant quaintness.</span></p>

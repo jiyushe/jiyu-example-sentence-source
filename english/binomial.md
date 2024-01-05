@@ -1,5 +1,7 @@
 # binomial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/binomial.md)
+
 <p><span class="chinese">二项分布的介绍到此为止</span><span class="english">So, that is the binomial distribution.</span></p>
 
 <p><span class="chinese">将二项式扩展到规定幂的定理。</span><span class="english">This is nothing but the binomial expansion.</span></p>

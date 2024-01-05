@@ -1,5 +1,7 @@
 # gentry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentry.md)
+
 <p><span class="chinese">你有没有绅士风度啊?。</span><span class="english">Do you have the gentry demeanour?</span></p>
 
 <p><span class="chinese">白人、男性乡绅可以投票。</span><span class="english">The white, male landed gentry could vote.</span></p>

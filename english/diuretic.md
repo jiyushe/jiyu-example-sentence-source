@@ -1,5 +1,7 @@
 # diuretic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diuretic.md)
+
 <p><span class="chinese">就像酒精一样，咖啡因也是一种利尿剂。</span><span class="english">Just like alcohol, caffeine is a diuretic.</span></p>
 
 <p><span class="chinese">避免利尿的咖啡因和香草。</span><span class="english">Just avoid caffeine and herbs that are diuretic.</span></p>

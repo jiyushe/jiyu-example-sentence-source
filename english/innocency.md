@@ -1,5 +1,7 @@
 # innocency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innocency.md)
+
 <p><span class="chinese">我可以证明他清白。</span><span class="english">I can certify to his innocency.</span></p>
 
 <p><span class="chinese">所以时间是纯真的敌人。</span><span class="english">So time is the enemy of innocency.</span></p>

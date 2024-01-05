@@ -1,5 +1,7 @@
 # 琴棋书画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinqishuhua.md)
+
 <p><span class="chinese">琴棋书画，画也排在最后。</span><span class="english">Poetry and painting, painting also came in last.</span></p>
 
 <p><span class="chinese">琴棋书画样样通，但不精。</span><span class="english">Poetry and painting everything through, but not refined.</span></p>

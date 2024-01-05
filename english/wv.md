@@ -1,5 +1,7 @@
 # wv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wv.md)
+
 <p><span class="chinese">第二天上完课，我们两个回到了在Charleston，WV的家，在回去的车上，我们讨论了一下发生的种种事情。</span><span class="english">After the end of classes the next day the two of us returned to our homes in Charleston, WV.</span></p>
 
 <p><span class="chinese">同时，详细分析、设计并最终实现WV模块的各个子模块。</span><span class="english">This thesis focuses on the design and implementation of WV module in Instant Message gateway.</span></p>

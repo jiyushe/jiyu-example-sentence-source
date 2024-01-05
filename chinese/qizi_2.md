@@ -1,5 +1,7 @@
 # 旗子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizi_2.md)
+
 <p><span class="chinese">旗子迎风飘扬。</span><span class="english">With flags aflutter.</span></p>
 
 <p><span class="chinese">看到那面旗子了吗？</span><span class="english">Do you see that flag?</span></p>

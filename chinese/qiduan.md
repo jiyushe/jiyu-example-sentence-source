@@ -1,5 +1,7 @@
 # 气短
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiduan.md)
+
 <p><span class="chinese">你呼吸有气短现象吗？</span><span class="english">Are you short of breath?</span></p>
 
 <p><span class="chinese">他在用力时从来没有气短过。</span><span class="english">He's never been short of breath on exertion.</span></p>

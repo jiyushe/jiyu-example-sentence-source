@@ -1,5 +1,7 @@
 # mystery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mystery.md)
+
 <p><span class="chinese">这正是神秘所在。</span><span class="english">That is the mystery.</span></p>
 
 <p><span class="chinese">但这其实并不神秘。</span><span class="english">It's not a mystery at all.</span></p>

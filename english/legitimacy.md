@@ -1,5 +1,7 @@
 # legitimacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legitimacy.md)
+
 <p><span class="chinese">道教的仪礼空间与王朝的正统性。</span><span class="english">Taoist Ritual Space and Dynastic Legitimacy.</span></p>
 
 <p><span class="chinese">他们得证明其价值和正确性.</span><span class="english">They have to prove their value and legitimacy.</span></p>

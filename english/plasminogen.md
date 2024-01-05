@@ -1,5 +1,7 @@
 # plasminogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasminogen.md)
+
 <p><span class="chinese">作者研究了血浆和组织激肽释放酶激活纤溶酶原的机制。</span><span class="english">We studied the mechanism of plasma and tissue kallikrein in activating plasminogen.</span></p>
 
 <p><span class="chinese">该药能够克服现用药物出血的缺点。因为BB-10153是由凝血酶激活的。</span><span class="english">BB-10153 is an engineered variant of human plasminogen that is activated to plasmin by thrombin.</span></p>

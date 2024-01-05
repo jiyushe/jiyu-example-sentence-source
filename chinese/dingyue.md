@@ -1,5 +1,7 @@
 # 订约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingyue.md)
+
 <p><span class="chinese">英联邦同意和这个国家订约。</span><span class="english">The Commonwealth agreed to make a compact with this country.</span></p>
 
 <p><span class="chinese">该建筑师订约以一定的造价承造那些房子。</span><span class="english">The architect contracted to build the houses at a fixed price.</span></p>

@@ -1,5 +1,7 @@
 # 纸烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyan_1.md)
+
 <p><span class="chinese">我吸了他的纸烟。</span><span class="english">I smoked his baccy.</span></p>
 
 <p><span class="chinese">走掉啦。我吸了他的纸烟。</span><span class="english">Gone. I smoked his baccy.</span></p>

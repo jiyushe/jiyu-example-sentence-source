@@ -1,5 +1,7 @@
 # cunning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cunning.md)
+
 <p><span class="chinese">但是他狡猾起来了。</span><span class="english">But he grew cunning.</span></p>
 
 <p><span class="chinese">但是死神很狡猾。</span><span class="english">But Death was cunning.</span></p>

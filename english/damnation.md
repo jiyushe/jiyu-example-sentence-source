@@ -1,5 +1,7 @@
 # damnation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/damnation.md)
+
 <p><span class="chinese">这真是对大政府再恰当不过的诅咒。</span><span class="english">A very good damnation of Big Government.</span></p>
 
 <p><span class="chinese">你的话会拯救你，也会成为你的诅咒。</span><span class="english">Words can be your salvation. Words can also be your damnation.</span></p>

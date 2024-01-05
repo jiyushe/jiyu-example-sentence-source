@@ -1,5 +1,7 @@
 # histomorphology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histomorphology.md)
+
 <p><span class="chinese">目的观察乐福至长期用药后对大鼠血象及重要器官组织形态学的影响。</span><span class="english">Objective To observe the effect of Luvos on blood picture and organ histomorphology in rats.</span></p>
 
 <p><span class="chinese">目的观察自拟强骨饮对骨质疏松症的骨形态计量学的影响，并探讨其机制。</span><span class="english">OBJECTIVE To observe the bone histomorphology effect of Qiangguyin on collum femur of ovariectomized rats.</span></p>

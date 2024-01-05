@@ -1,5 +1,7 @@
 # 通通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongtong_1.md)
+
 <p><span class="chinese">我们每天给卧室通通风。</span><span class="english">We air the bedrooms every day.</span></p>
 
 <p><span class="chinese">把窗子打开，使房间通通风。</span><span class="english">Opon the window and air the room.</span></p>

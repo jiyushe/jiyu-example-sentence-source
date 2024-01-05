@@ -1,5 +1,7 @@
 # 天有不测风云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianyoubucefengyun.md)
+
 <p><span class="chinese">公司可以将这笔钱存到银行，以防范天有不测风云。</span><span class="english">It could put it in the bank and save it for a rainy day.</span></p>
 
 <p><span class="chinese">天有不测风云，尤其是个新手在“尽力而为”的时候。</span><span class="english">Shit happens, especially when a newbie is "trying his best".</span></p>

@@ -1,5 +1,7 @@
 # 醋意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuyi.md)
+
 <p><span class="chinese">这引起了爱德华的醋意大发。</span><span class="english">This caused Edward's jealousy.</span></p>
 
 <p><span class="chinese">难道让她的醋意翻倍不好吗？</span><span class="english">Well, now she'll be twice as jealous.</span></p>

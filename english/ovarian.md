@@ -1,5 +1,7 @@
 # ovarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovarian.md)
+
 <p><span class="chinese">治疗卵巢囊肿为何选择艾丽斯？</span><span class="english">Treatment of ovarian cysts why choose Alice?</span></p>
 
 <p><span class="chinese">血中荷尔蒙检测显示正常卵巢功能。</span><span class="english">Hormone assay presents normal ovarian function.</span></p>

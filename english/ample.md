@@ -1,5 +1,7 @@
 # ample
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ample.md)
+
 <p><span class="chinese">货源充足，价格低廉。</span><span class="english">Ample supply, low prices.</span></p>
 
 <p><span class="chinese">请填写这张汇款告诉书。</span><span class="english">Please ample out this remittance blooper.</span></p>

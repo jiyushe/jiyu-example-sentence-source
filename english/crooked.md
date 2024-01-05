@@ -1,5 +1,7 @@
 # crooked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crooked.md)
+
 <p><span class="chinese">他弯起胳臂。</span><span class="english">He crooked his arm.</span></p>
 
 <p><span class="chinese">买一只歪歪扭扭的猫儿。</span><span class="english">He bought a crooked cat.</span></p>

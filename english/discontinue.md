@@ -1,5 +1,7 @@
 # discontinue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discontinue.md)
+
 <p><span class="chinese">这件工作将于冬天停止。</span><span class="english">The job will discontinue in the winter.</span></p>
 
 <p><span class="chinese">这份杂志将于下周停刊。</span><span class="english">This magazine will discontinue next week.</span></p>

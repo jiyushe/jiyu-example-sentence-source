@@ -1,5 +1,7 @@
 # dichotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dichotomy.md)
+
 <p><span class="chinese">我不喜欢这样简单的一分为二。</span><span class="english">I don’t like that dichotomy.</span></p>
 
 <p><span class="chinese">所以大学和城市就像两个世界。</span><span class="english">So there's like a dichotomy between university and city.</span></p>

@@ -1,5 +1,7 @@
 # studio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/studio.md)
+
 <p><span class="chinese">试金石画室网站欢迎您！</span><span class="english">Welcome to sjs studio !</span></p>
 
 <p><span class="chinese">你自己有摄影室吗？</span><span class="english">You have a photo studio ?</span></p>

@@ -1,5 +1,7 @@
 # basra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basra.md)
+
 <p><span class="chinese">甚至在此以前，他们就轻易处理巴士拉。</span><span class="english">Even before that, they treaded lightly in Basra.</span></p>
 
 <p><span class="chinese">他接着去到了巴士拉并会见了英国士兵。</span><span class="english">He then went on to Basra to meet British troops.</span></p>

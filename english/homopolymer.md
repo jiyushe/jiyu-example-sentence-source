@@ -1,5 +1,7 @@
 # homopolymer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homopolymer.md)
+
 <p><span class="chinese">氯乙烯均聚物和共聚物树脂。</span><span class="english">Homopolymer and copolymer resins of vinyl chloride.</span></p>
 
 <p><span class="chinese">PVDF类型I均聚物是一种著名的没有金属离子和外部有机化合物的材料。</span><span class="english">PVDF Type I homopolymer is notably free of metallic ions and foreign organic compounds.</span></p>

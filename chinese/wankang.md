@@ -1,5 +1,7 @@
 # 顽抗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wankang.md)
+
 <p><span class="chinese">他们谴责内塔尼亚胡的顽抗。</span><span class="english">They chastise Mr Netanyahu for his recalcitrance.</span></p>
 
 <p><span class="chinese">甚至就在我们讲话的此时此刻，旧政权的残余仍在顽抗。</span><span class="english">Now, even as we speak, remnants of the old regime continue to fight.</span></p>

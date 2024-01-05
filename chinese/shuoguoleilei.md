@@ -1,5 +1,7 @@
 # 硕果累累
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoguoleilei.md)
+
 <p><span class="chinese">这次旅行的成果似乎硕果累累。</span><span class="english">The travel seems to be paying off.</span></p>
 
 <p><span class="chinese">秋天，是一个五谷丰登、硕果累累的季节。</span><span class="english">Fall, is a bumper grain harvest, fruitful season.</span></p>

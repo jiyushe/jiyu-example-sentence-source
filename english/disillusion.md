@@ -1,5 +1,7 @@
 # disillusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disillusion.md)
+
 <p><span class="chinese">我不忍心使你失望，但你取胜的机会实际上等于零。</span><span class="english">I hate to disillusion you,but your chances of winning are practically zero.</span></p>
 
 <p><span class="chinese">她依然相信有圣诞老人，要使她这一幻想破灭还真于心不忍。</span><span class="english">She still believes in Santa Claus and it would be creel to disillusion her.</span></p>

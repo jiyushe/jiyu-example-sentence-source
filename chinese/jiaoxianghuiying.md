@@ -1,5 +1,7 @@
 # 交相辉映
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxianghuiying.md)
+
 <p><span class="chinese">与ARM的低功耗芯片交相辉映的是它悠闲自得的企业文化。</span><span class="english">ARM’s low-power chips are echoed in its laidback culture.</span></p>
 
 <p><span class="chinese">与湖光山色交相辉映的有56处人文历史古迹。</span><span class="english">Each other and the beauty of 56 historic sites humanities.</span></p>

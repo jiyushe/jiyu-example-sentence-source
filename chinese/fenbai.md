@@ -1,5 +1,7 @@
 # 粉白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenbai.md)
+
 <p><span class="chinese">她穿一件粉白色的上衣。</span><span class="english">She 's wearing a pink and white blouse.</span></p>
 
 <p><span class="chinese">我最喜欢的颜色是粉白色的。</span><span class="english">My favorite color is pink. I want to know Chinese well.</span></p>

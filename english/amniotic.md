@@ -1,5 +1,7 @@
 # amniotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amniotic.md)
+
 <p><span class="chinese">结果羊膜移植片生长良好。</span><span class="english">Results Amniotic membrane xenograft grown well.</span></p>
 
 <p><span class="chinese">蛋清流到了装肉桂卷的罐头上。</span><span class="english">Clear amniotic fluid coated the can of cinnamon rolls.</span></p>

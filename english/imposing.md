@@ -1,5 +1,7 @@
 # imposing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imposing.md)
+
 <p><span class="chinese">那座城堡是座气势宏伟的建筑物。</span><span class="english">The castle is an imposing building.</span></p>
 
 <p><span class="chinese">他已失去堂堂仪表。</span><span class="english">He has lost his imposing appearance.</span></p>

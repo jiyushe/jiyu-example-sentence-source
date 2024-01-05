@@ -1,5 +1,7 @@
 # fortuitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortuitous.md)
+
 <p><span class="chinese">图书和期刊的赠阅可能往往带有相当的偶然性。</span><span class="english">Gifts of books and journals can often be quite fortuitous.</span></p>
 
 <p><span class="chinese">至于受损以及不断变化的染色体，只是意外的副产品罢了。</span><span class="english">Mangled and ever changing chromosomes are but fortuitous by-products.</span></p>

@@ -1,5 +1,7 @@
 # 上报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangbao.md)
+
 <p><span class="chinese">上报你所有的收入。</span><span class="english">Report all of your income.</span></p>
 
 <p><span class="chinese">同时决定是否与何时上报给总经理。</span><span class="english">Determine if and when the GM should be alerted.</span></p>

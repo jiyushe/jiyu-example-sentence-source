@@ -1,5 +1,7 @@
 # equivocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equivocation.md)
+
 <p><span class="chinese">摸棱两可是谎话的近亲。</span><span class="english">Equivocation is first cousin to a lie.</span></p>
 
 <p><span class="chinese">含糊其词是谎话的。</span><span class="english">Equivocation is Number1 cousin to a lie.</span></p>

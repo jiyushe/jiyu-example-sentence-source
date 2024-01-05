@@ -1,5 +1,7 @@
 # 耙子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pazi_1.md)
+
 <p><span class="chinese">那耙子是做什么用的?。</span><span class="english">What's that rake for?</span></p>
 
 <p><span class="chinese">请用耙子把花园的小路耙平。</span><span class="english">Rake the garden paths, please.</span></p>

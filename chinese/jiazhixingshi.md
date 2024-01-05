@@ -1,5 +1,7 @@
 # 价值形式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazhixingshi.md)
+
 <p><span class="chinese">信仰作为人类社会生活、精神生活的一种精神表现，其本身就是一种价值形式。</span><span class="english">Faith, as a spirit of human social life and spiritual life, itself is a kind of value form.</span></p>
 
 <p><span class="chinese">应在附表中插入以货币价值形式显示的所有品项一次性付款的价格和单价。</span><span class="english">Lump sum Prices or Unit Rates shall be inserted against all items in the Schedules which have a monetary value.</span></p>

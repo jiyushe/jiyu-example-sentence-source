@@ -1,5 +1,7 @@
 # rub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rub.md)
+
 <p><span class="chinese">搓搓背。</span><span class="english">Rub your back.</span></p>
 
 <p><span class="chinese">我可以给你按摩一下后背。</span><span class="english">I can rub your back.</span></p>

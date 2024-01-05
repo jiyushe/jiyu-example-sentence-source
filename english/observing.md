@@ -1,5 +1,7 @@
 # observing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/observing.md)
+
 <p><span class="chinese">安将旁听今天的会议。</span><span class="english">Ann will be observing today.</span></p>
 
 <p><span class="chinese">花一天时间观察一对儿。</span><span class="english">Go spend a day observing couples.</span></p>

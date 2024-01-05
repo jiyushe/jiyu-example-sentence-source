@@ -1,5 +1,7 @@
 # 免罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianzui.md)
+
 <p><span class="chinese">不知法不能作为免罪的口实。</span><span class="english">I-of the law excuses no man.</span></p>
 
 <p><span class="chinese">不知法不能作为免罪的口实。</span><span class="english">I-of the law excuses no one.</span></p>

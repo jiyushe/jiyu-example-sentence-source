@@ -1,5 +1,7 @@
 # aboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aboard.md)
+
 <p><span class="chinese">舰上有一个图书馆。</span><span class="english">There is a library aboard.</span></p>
 
 <p><span class="chinese">引水员上了船。</span><span class="english">The pilot came aboard the ship.</span></p>

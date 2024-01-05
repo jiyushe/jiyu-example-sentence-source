@@ -1,5 +1,7 @@
 # 生锈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxiu.md)
+
 <p><span class="chinese">露在外面的铁会生锈的。</span><span class="english">Exposed iron will rust.</span></p>
 
 <p><span class="chinese">铁容易生锈。</span><span class="english">Iron gathers rust easily.</span></p>

@@ -1,5 +1,7 @@
 # flimsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flimsy.md)
+
 <p><span class="chinese">这纸写上去太薄。</span><span class="english">The paper is flimsy to write on.</span></p>
 
 <p><span class="chinese">幸福的含义怎能那么浅薄？</span><span class="english">Meanings of happiness won’t so flimsy.</span></p>

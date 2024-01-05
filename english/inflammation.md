@@ -1,5 +1,7 @@
 # inflammation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflammation.md)
+
 <p><span class="chinese">您的喉咙发炎了。</span><span class="english">You have inflammation in your throat.</span></p>
 
 <p><span class="chinese">你的手臂因感染已肿起来了。</span><span class="english">Your arm has swollen by inflammation.</span></p>

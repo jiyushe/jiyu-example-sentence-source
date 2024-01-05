@@ -1,5 +1,7 @@
 # landsat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landsat.md)
+
 <p><span class="chinese">2005年4月2日由陆地卫星5号拍摄</span><span class="english">Image taken by Landsat 5 on Apr. 2, 2005</span></p>
 
 <p><span class="chinese">1985年4月8日由陆地卫星5号拍摄</span><span class="english">Image taken by Landsat 5 on Apr. 8, 1985</span></p>

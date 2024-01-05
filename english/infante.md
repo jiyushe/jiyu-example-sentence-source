@@ -1,5 +1,7 @@
 # infante
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infante.md)
+
 <p><span class="chinese">相信柯凡特公司会为您带来全方位的满意！</span><span class="english">Infante Ke trust will bring you full satisfaction!</span></p>
 
 <p><span class="chinese">如果凡特的设想能够应用于工业生产，人类将于2009年进入新的能源时代。</span><span class="english">If the idea of Infante can be used in industrial production, in 2009 humanity will be entering a new energy era.</span></p>

@@ -1,5 +1,7 @@
 # cardiotonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardiotonic.md)
+
 <p><span class="chinese">可以说，恰到好处的赞美是打在男人身上的一剂强心剂。</span><span class="english">Can say, be just perfect compliment is playing on men as a cardiotonic agent.</span></p>
 
 <p><span class="chinese">他心脏骤停，医生赶紧为他注射了强心针。</span><span class="english">His heart halted suddenly, the doctor injected him with a cardiotonic needle.</span></p>

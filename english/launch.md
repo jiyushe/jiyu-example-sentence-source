@@ -1,5 +1,7 @@
 # launch 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/launch.md)
+
 <p><span class="chinese">于是我决定启动该实验。</span><span class="english">So I decide to launch it.</span></p>
 
 <p><span class="chinese">如何启动一个重量的客户吗？</span><span class="english">How to launch a Wt Client?</span></p>

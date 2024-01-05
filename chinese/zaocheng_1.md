@@ -1,5 +1,7 @@
 # 造成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaocheng_1.md)
+
 <p><span class="chinese">仓促造成浪费。</span><span class="english">Haste makes Waste.</span></p>
 
 <p><span class="chinese">这是设计造成的。</span><span class="english">This is by design.</span></p>

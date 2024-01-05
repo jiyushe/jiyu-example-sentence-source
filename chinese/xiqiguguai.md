@@ -1,5 +1,7 @@
 # 稀奇古怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiqiguguai.md)
+
 <p><span class="chinese">莎拉有一些稀奇古怪的想法。</span><span class="english">Sarah has some off-the-wall ideas.</span></p>
 
 <p><span class="chinese">这是一群稀奇古怪的人。</span><span class="english">This is an odd collection of people.</span></p>

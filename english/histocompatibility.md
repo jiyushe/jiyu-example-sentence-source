@@ -1,5 +1,7 @@
 # histocompatibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histocompatibility.md)
+
 <p><span class="chinese">炭纤维粉注入兔脑内表现出良好的组织相容性。</span><span class="english">The fine carbon fiber powder had a good histocompatibility.</span></p>
 
 <p><span class="chinese">很有趣的是，被作用的靶分子就是HLA-G所属的主要组织相容性抗原家族的一员。</span><span class="english">Interestingly, the targets are members of the major histocompatibility complex family to which HLA-G belongs.</span></p>

@@ -1,5 +1,7 @@
 # noiseless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noiseless.md)
+
 <p><span class="chinese">我想住在寂静的地方。</span><span class="english">I want to live somewhere noiseless.</span></p>
 
 <p><span class="chinese">采用无噪音密封滚珠轴承。</span><span class="english">Use noiseless sealed ball bearings.</span></p>

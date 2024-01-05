@@ -1,5 +1,7 @@
 # 运动员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yundongyuan.md)
+
 <p><span class="chinese">他是一位跳高的运动员。</span><span class="english">He's a high-jumper.</span></p>
 
 <p><span class="chinese">她是一名跳远运动员。</span><span class="english">She's a long-jumper.</span></p>

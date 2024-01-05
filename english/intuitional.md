@@ -1,5 +1,7 @@
 # intuitional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intuitional.md)
+
 <p><span class="chinese">每当我们“领会”一首乐曲时，我们都能体会到柏格森的直觉作用。</span><span class="english">Whenever we "grasp" a melody, we are performing Bergson's intuitional operation.</span></p>
 
 <p><span class="chinese">数学直觉思维在数学思维活动中有着特殊的地位和作用。</span><span class="english">Intuitional thought of mathematics has special status and function in mathematical thought.</span></p>

@@ -1,5 +1,7 @@
 # 评说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingshuo_1.md)
+
 <p><span class="chinese">“突然，拥有600万穆斯林人成为了一种优势，”一个人淡淡地评说。</span><span class="english">“Suddenly, having 6m Muslims is a great advantage,” notes one dryly.</span></p>
 
 <p><span class="chinese">至于成果，那就留于后人评说吧。</span><span class="english">As for the results, just leave it to the later generation to comment.</span></p>

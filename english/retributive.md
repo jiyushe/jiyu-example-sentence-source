@@ -1,5 +1,7 @@
 # retributive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retributive.md)
+
 <p><span class="chinese">报复型正义要求以眼还眼，以牙还牙。</span><span class="english">Retributive justice demands an eye for an eye.</span></p>
 
 <p><span class="chinese">报应刑隐含着三个价值悖论。</span><span class="english">Retributive punishment implies three value paradoxes.</span></p>

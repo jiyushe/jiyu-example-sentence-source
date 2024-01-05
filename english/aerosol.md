@@ -1,5 +1,7 @@
 # aerosol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerosol.md)
+
 <p><span class="chinese">检测速度每小时可检测400-500只气雾罐。</span><span class="english">It can detect 400-500 aerosol cans per hour.</span></p>
 
 <p><span class="chinese">几乎所有的气雾剂推进剂都是这样。</span><span class="english">This is true of almost all aerosol propellants.</span></p>

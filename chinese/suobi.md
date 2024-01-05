@@ -1,5 +1,7 @@
 # 锁闭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suobi.md)
+
 <p><span class="chinese">汽车有动力转向和中枢锁闭系统。</span><span class="english">The car has power steering and a central locking system.</span></p>
 
 <p><span class="chinese">疯子们锁闭在太空舱内，浪费着生命，仿佛他们无足轻重。</span><span class="english">Madmen locked inside capsules, squandering lives as if they were nothing.</span></p>

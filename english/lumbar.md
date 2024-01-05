@@ -1,5 +1,7 @@
 # lumbar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lumbar.md)
+
 <p><span class="chinese">什么是腰椎？</span><span class="english">What is lumbar?</span></p>
 
 <p><span class="chinese">腿和腰自然会衰老。</span><span class="english">Leg and lumbar nature will be anile.</span></p>

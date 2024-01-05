@@ -1,5 +1,7 @@
 # weaponization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weaponization.md)
+
 <p><span class="chinese">当前，外空领域正日益面临武器化的危险。</span><span class="english">Outer space is now facing the looming danger of weaponization.</span></p>
 
 <p><span class="chinese">他重申中国坚决一贯主张和平利用外空，坚决反对外空武器化。</span><span class="english">He reiterated that China is firmly opposed to the weaponization of space and the program is peaceful.</span></p>

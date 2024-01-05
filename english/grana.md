@@ -1,5 +1,7 @@
 # grana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grana.md)
+
 <p><span class="chinese">这些成堆的类囊体称为质体基粒。</span><span class="english">These stacks of thylakoids are called grana.</span></p>
 
 <p><span class="chinese">叶绿体的体积较小、呈梭形，叶绿体的基粒片层排列紧密。</span><span class="english">The like-shuttle chloroplast was small, with tightly stacking lamellae of grana.</span></p>

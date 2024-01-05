@@ -1,5 +1,7 @@
 # labyrinthian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labyrinthian.md)
+
 <p><span class="chinese">该功能的推出颇为曲折。</span><span class="english">Of this function roll out very labyrinthian.</span></p>
 
 <p><span class="chinese">屋主本人是设计师，“迷宫”之屋就是他的杰作。</span><span class="english">House advocate oneself are stylist, " Labyrinthian " the classic that house is him.</span></p>

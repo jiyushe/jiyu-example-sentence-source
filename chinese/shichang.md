@@ -1,5 +1,7 @@
 # 市场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichang.md)
+
 <p><span class="chinese">我做市场。</span><span class="english">I do marketing.</span></p>
 
 <p><span class="chinese">市场街。</span><span class="english">Great market street.</span></p>

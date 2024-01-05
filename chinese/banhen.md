@@ -1,5 +1,7 @@
 # 斑痕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banhen.md)
+
 <p><span class="chinese">她满脸斑痕，眼睛肿胀。</span><span class="english">Her face was blotchy and her eyes swollen.</span></p>
 
 <p><span class="chinese">不拘男女，若肉皮上起了些斑痕，即白色的斑痕。</span><span class="english">If a whiteness appear in the skin of a man or a woman.</span></p>

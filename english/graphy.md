@@ -1,5 +1,7 @@
 # graphy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graphy.md)
+
 <p><span class="chinese">从地层学上看，它们都属于白垩纪。</span><span class="english">From the view of strati graphy they all belong to the cretaceous period.</span></p>
 
 <p><span class="chinese">第二种测定法是古磁学分析法，也叫磁极地层学测定法。</span><span class="english">The second dating method was palaeo-magnetic analysis or magnetic polarity strati graphy.</span></p>

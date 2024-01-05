@@ -1,5 +1,7 @@
 # 计算中心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jisuanzhongxin.md)
+
 <p><span class="chinese">例如，丹麦正在发展成一个重要的普适计算中心。</span><span class="english">Denmark, for example, is emerging as a leading center for pervasive computing.</span></p>
 
 <p><span class="chinese">允许多个计算中心的闲置能力得到最优化的使用，提升了效率。</span><span class="english">Allows optimum use of spare capacity for multiple computer centres, making it more efficient.</span></p>

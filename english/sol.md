@@ -1,5 +1,7 @@
 # sol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sol.md)
+
 <p><span class="chinese">不仅是索尔。</span><span class="english">It was not only Sol.</span></p>
 
 <p><span class="chinese">“索尔是一个真男人，”温格说。</span><span class="english">"Sol is a strong man, " said Wenger.</span></p>

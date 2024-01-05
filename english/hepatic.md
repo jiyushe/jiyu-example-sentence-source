@@ -1,5 +1,7 @@
 # hepatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hepatic.md)
+
 <p><span class="chinese">也许是肝静脉？</span><span class="english">Maybe the hepatic vein?</span></p>
 
 <p><span class="chinese">肝性胸水是真的吗？</span><span class="english">Was it really hepatic hydrothorax?</span></p>

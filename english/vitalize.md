@@ -1,5 +1,7 @@
 # vitalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitalize.md)
+
 <p><span class="chinese">振兴汉派文化，战略思考必不可少。</span><span class="english">To vitalize Wuhan-style culture, strategic consideration is indispensable.</span></p>
 
 <p><span class="chinese">希望透过〈全人〉能全面活化马来西亚的乡村福音事工。</span><span class="english">Her ambition is to vitalize the gospel ministry of rural villages in Malaysia.</span></p>

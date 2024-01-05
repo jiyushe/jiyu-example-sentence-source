@@ -1,5 +1,7 @@
 # 随即
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suiji_1.md)
+
 <p><span class="chinese">苏克雷随即离开了。</span><span class="english">Sucre leaves.</span></p>
 
 <p><span class="chinese">随即收回之前的话</span><span class="english">And they take them back.</span></p>

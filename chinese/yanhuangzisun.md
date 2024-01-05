@@ -1,5 +1,7 @@
 # 炎黄子孙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhuangzisun.md)
+
 <p><span class="chinese">我们都是炎黄子孙的后代。</span><span class="english">We are all the descendants of the people.</span></p>
 
 <p><span class="chinese">你凝聚了天下炎黄子孙的心啊！</span><span class="english">You unite the hearts of Chinese people in the world ah!</span></p>

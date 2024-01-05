@@ -1,5 +1,7 @@
 # 作假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuojia_1.md)
+
 <p><span class="chinese">我爱你，约翰。那是无法作假的。</span><span class="english">I love yiou, john. you can't fake something like that.</span></p>
 
 <p><span class="chinese">第二，冒充预算鹰派的大多数人是在作假。</span><span class="english">Second, most people posing as deficit hawks are faking it.</span></p>

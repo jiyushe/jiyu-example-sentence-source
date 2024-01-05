@@ -1,5 +1,7 @@
 # thorpe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thorpe.md)
+
 <p><span class="chinese">索普还证明，苍头燕雀学歌是有所选择的。</span><span class="english">Thorpe also showed that the chaffinch is selective imitate.</span></p>
 
 <p><span class="chinese">接着，索普就开始研究苍头燕雀是在什么时候学唱歌的。</span><span class="english">Thorpe next set out to determine exactly when the chaffinch learns to sing.</span></p>

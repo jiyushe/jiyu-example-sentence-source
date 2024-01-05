@@ -1,5 +1,7 @@
 # detumescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detumescence.md)
+
 <p><span class="chinese">怎样让眼睛消肿?。</span><span class="english">How to let eye detumescence?</span></p>
 
 <p><span class="chinese">什么可以止痒消肿?。</span><span class="english">What can stop urticant detumescence?</span></p>

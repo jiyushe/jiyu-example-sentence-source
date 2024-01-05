@@ -1,5 +1,7 @@
 # assyrian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assyrian.md)
+
 <p><span class="chinese">今天的亚述语被认为是阿卡得语的方言。</span><span class="english">Nowadays Assyrian is considered a dialect of Akkadian.</span></p>
 
 <p><span class="chinese">亚述族的武士曾用芬香的油料来卷曲他们的长胡子。</span><span class="english">Assyrian warriors curled their long beards with scented oils.</span></p>

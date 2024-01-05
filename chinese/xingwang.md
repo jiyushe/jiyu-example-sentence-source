@@ -1,5 +1,7 @@
 # 兴旺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingwang.md)
+
 <p><span class="chinese">市场将会兴旺。</span><span class="english">Markets will be vitalized.</span></p>
 
 <p><span class="chinese">他的生意兴旺。</span><span class="english">He has a thriving business.</span></p>

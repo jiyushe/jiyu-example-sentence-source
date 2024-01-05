@@ -1,5 +1,7 @@
 # 草原
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoyuan.md)
+
 <p><span class="chinese">那喀拉峻草原呢？</span><span class="english">And the Kalajun Grassland?</span></p>
 
 <p><span class="chinese">在草原上飞得高。</span><span class="english">In the meadow is flying high.</span></p>

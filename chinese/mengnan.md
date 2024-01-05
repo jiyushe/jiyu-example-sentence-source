@@ -1,5 +1,7 @@
 # 蒙难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengnan.md)
+
 <p><span class="chinese">这就是我们的蒙难之夜。</span><span class="english">These are our nights of Gethsemane.</span></p>
 
 <p><span class="chinese">民族英雄张煌言蒙难南田事迹，史志早有记载。</span><span class="english">The national hero, Zhang Huangyan s deeds have definite historical records.</span></p>

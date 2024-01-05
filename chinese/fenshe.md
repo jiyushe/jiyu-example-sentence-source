@@ -1,5 +1,7 @@
 # 分设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshe.md)
+
 <p><span class="chinese">委员会分设以下四个功能小组。</span><span class="english">Committee was divided four function groups.</span></p>
 
 <p><span class="chinese">学校不得分设重点班和非重点班。</span><span class="english">And the schools shall not divide the classes into key and non-key classes.</span></p>

@@ -1,5 +1,7 @@
 # 稳操胜券
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wencaoshengquan.md)
+
 <p><span class="chinese">你稳操胜券，不要错过这个机会。</span><span class="english">You have the ball at your feet, don't miss the chance.</span></p>
 
 <p><span class="chinese">尽管马英九在民调中领先，但他还不能说是稳操胜券。</span><span class="english">Despite Ma's lead in the polls, he's not yet a shoo-in.</span></p>

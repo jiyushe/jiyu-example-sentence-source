@@ -1,5 +1,7 @@
 # wheelbarrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheelbarrow.md)
+
 <p><span class="chinese">你现在需要一个真正的独轮车。</span><span class="english">You are going to need a real wheelbarrow.</span></p>
 
 <p><span class="chinese">他把一辆手推车推到了后院。</span><span class="english">He trundled a wheelbarrow to the backyard.</span></p>

@@ -1,5 +1,7 @@
 # antemarital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antemarital.md)
+
 <p><span class="chinese">并开展婚前、婚后追踪服务，收到良好社会效益。</span><span class="english">The antemarital and postnuptial scout service were developed to acquire the good social effect.</span></p>
 
 <p><span class="chinese">按规定，婚检结果要告知男女双方，可避免“知情不报”情况发生。</span><span class="english">As a rule, antemarital examination results to inform both men and women can avoid the "failure" to happen.</span></p>

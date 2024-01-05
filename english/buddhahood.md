@@ -1,5 +1,7 @@
 # buddhahood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buddhahood.md)
+
 <p><span class="chinese">这就是佛了。</span><span class="english">This is achieving Buddhahood.</span></p>
 
 <p><span class="chinese">每个人修行不就是为了成佛？</span><span class="english">Spiritual cultivation is for attaining Buddhahood.</span></p>

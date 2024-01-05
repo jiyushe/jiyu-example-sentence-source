@@ -1,5 +1,7 @@
 # occlusal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occlusal.md)
+
 <p><span class="chinese">自然牙列咬合重建的诊断参考位。</span><span class="english">Diganosis reference position of occlusal reconstruction of natural dentition.</span></p>
 
 <p><span class="chinese">咬合板高度对下颌髁突位置的影响。</span><span class="english">Influence of inserting occlusal splints on the position of mandibular condyle.</span></p>

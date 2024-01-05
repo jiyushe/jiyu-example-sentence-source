@@ -1,5 +1,7 @@
 # 晶体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingti.md)
+
 <p><span class="chinese">我们需要有序的晶体。</span><span class="english">I want an ordered solid.</span></p>
 
 <p><span class="chinese">所以声速在不同晶体中是不一样的。</span><span class="english">Speed of sound is different.</span></p>

@@ -1,5 +1,7 @@
 # 真心诚意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenxinchengyi.md)
+
 <p><span class="chinese">如果你要道歉，那就真心诚意。</span><span class="english">If you apologize, mean it.</span></p>
 
 <p><span class="chinese">不过，他们共同拥有的就是真心诚意。</span><span class="english">They all have in common, however, sincerity.</span></p>

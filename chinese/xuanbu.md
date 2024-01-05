@@ -1,5 +1,7 @@
 # 宣布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanbu.md)
+
 <p><span class="chinese">我先跟你们宣布一下。</span><span class="english">A few announcements.</span></p>
 
 <p><span class="chinese">我有大消息要宣布。</span><span class="english">I have some big news.</span></p>

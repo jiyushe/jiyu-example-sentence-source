@@ -1,5 +1,7 @@
 # 指定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiding_2.md)
+
 <p><span class="chinese">指定您的标准。</span><span class="english">Specify your criteria.</span></p>
 
 <p><span class="chinese">不指定折弯的止裂槽。</span><span class="english">Do not specify bend reliefs.</span></p>

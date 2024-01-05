@@ -1,5 +1,7 @@
 # burden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burden.md)
+
 <p><span class="chinese">论大马士革的默示。</span><span class="english">The burden of Damascus.</span></p>
 
 <p><span class="chinese">负担在你身上。</span><span class="english">The burden is put on you.</span></p>

@@ -1,5 +1,7 @@
 # 总署
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongshu_1.md)
+
 <p><span class="chinese">国家航空总署饶有兴趣地追踪着史蒂夫此事的进展。</span><span class="english">NASA followed Stevie’s progress with interest.</span></p>
 
 <p><span class="chinese">欧洲太空总署策划了该实验。</span><span class="english">And the European Space Agency planed the trial.</span></p>

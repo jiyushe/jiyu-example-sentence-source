@@ -1,5 +1,7 @@
 # tres
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tres.md)
+
 <p><span class="chinese">我在这儿等了三个小时。</span><span class="english">He esperado aquí tres horas.</span></p>
 
 <p><span class="chinese">如果能把三只戒指同时戴上，该有多酷。</span><span class="english">It would be tres cool to wear all three at a go.</span></p>

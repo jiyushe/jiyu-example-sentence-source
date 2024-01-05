@@ -1,5 +1,7 @@
 # sural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sural.md)
+
 <p><span class="chinese">VAC联合腓肠神经营养血管皮瓣是修复足踝部创面的良好方法之一。</span><span class="english">VAC United Sural neuro-veno-fasciocutaneous flap to repair the ankle wounds was a good way.</span></p>
 
 <p><span class="chinese">目的探讨腓肠神经伴行血管岛状皮瓣的临床应用。</span><span class="english">Objective To investigate the clinical application of the sural neurocutaneous island vascular flap.</span></p>

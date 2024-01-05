@@ -1,5 +1,7 @@
 # 烫发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangfa.md)
+
 <p><span class="chinese">修剪、烫发。</span><span class="english">A trim and perm.</span></p>
 
 <p><span class="chinese">修剪然后烫发。</span><span class="english">A trim and perm.</span></p>

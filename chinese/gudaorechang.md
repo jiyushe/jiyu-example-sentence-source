@@ -1,5 +1,7 @@
 # 古道热肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudaorechang.md)
+
 <p><span class="chinese">没有要搅得我古道热肠烦。</span><span class="english">Don"t get on my nerves!"</span></p>
 
 <p><span class="chinese">中国人比爱尔兰人更古道热肠？</span><span class="english">Are the Chinese more generous than the Irish?</span></p>

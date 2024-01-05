@@ -1,5 +1,7 @@
 # antifriction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antifriction.md)
+
 <p><span class="chinese">使用感应加热装置加热减摩轴承内圈。</span><span class="english">Use inductive heating unit to heat antifriction bearing inner ring.</span></p>
 
 <p><span class="chinese">在装轴套时，在轴上涂上一薄层减摩剂。</span><span class="english">Surely applying a thin layer of antifriction when installing sleeve.</span></p>

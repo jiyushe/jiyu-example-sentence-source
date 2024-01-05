@@ -1,5 +1,7 @@
 # durbar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/durbar.md)
+
 <p><span class="chinese">颜色在谒见室广场附近的市场中是令人惊奇的。</span><span class="english">The colours in the markets around Durbar Square are wonderful.</span></p>
 
 <p><span class="chinese">政府武装士兵已尔首都德满都——王广场遍象。</span><span class="english">Durbar Square, historic center of Nepal's capital city of Kathmandu.</span></p>

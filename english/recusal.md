@@ -1,5 +1,7 @@
 # recusal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recusal.md)
+
 <p><span class="chinese">他说，最高法院没有明确指导规定，在什么情况下应该要求取消资格。</span><span class="english">He said the court provided no guidance about when recusal will be constitutionally required.</span></p>
 
 <p><span class="chinese">他说，最高法院没有提供指导意见，在什么情况下应该要求取消资格。</span><span class="english">He said the court provided no guidance about when recusels recusal will be constitutionally required.</span></p>

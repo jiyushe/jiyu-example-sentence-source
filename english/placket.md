@@ -1,5 +1,7 @@
 # placket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placket.md)
+
 <p><span class="chinese">五个按钮的前门襟。</span><span class="english">Five-button front placket.</span></p>
 
 <p><span class="chinese">门襟拉链扣在前面。</span><span class="english">Snap placket over zip front.</span></p>

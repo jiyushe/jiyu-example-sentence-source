@@ -1,5 +1,7 @@
 # washed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washed.md)
+
 <p><span class="chinese">我感到精疲力竭。</span><span class="english">I feel washed up.</span></p>
 
 <p><span class="chinese">我已经洗手不干了。</span><span class="english">I'm all washed up.</span></p>

@@ -1,5 +1,7 @@
 # brice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brice.md)
+
 <p><span class="chinese">布赖斯有一把好看的小刀。</span><span class="english">Brice has a nice knife.</span></p>
 
 <p><span class="chinese">如今，如果你要找莱斯，你不会在摄影机前找到她。</span><span class="english">If you look for Brice today, you won't find her in front of a camera.</span></p>

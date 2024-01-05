@@ -1,5 +1,7 @@
 # pele
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pele.md)
+
 <p><span class="chinese">你怎样看待踢球时的贝利？</span><span class="english">What have you seen of Pele in action?</span></p>
 
 <p><span class="chinese">这个博物馆在很大程度上就是一个贝利纪念馆。</span><span class="english">In many ways, the museum is a shrine to Pele.</span></p>

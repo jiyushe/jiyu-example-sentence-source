@@ -1,5 +1,7 @@
 # squander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squander.md)
+
 <p><span class="chinese">不要浪费你辛苦赚来的钱。</span><span class="english">Don't squander your hard-earned money.</span></p>
 
 <p><span class="chinese">有生的瞬间遇见你，竟花光所有力气。</span><span class="english">Have a moment to meet you, to squander all strengths.</span></p>

@@ -1,5 +1,7 @@
 # 平时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingshi_1.md)
+
 <p><span class="chinese">他平时笑不笑？</span><span class="english">Does he ever laugh?</span></p>
 
 <p><span class="chinese">你平时阅读什么。</span><span class="english">What do you read about?</span></p>

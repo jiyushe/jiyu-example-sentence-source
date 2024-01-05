@@ -1,5 +1,7 @@
 # miniaturization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miniaturization.md)
+
 <p><span class="chinese">本扫描变像管的显著特点是尺寸小，结构紧凑。</span><span class="english">The feature of the streak tube is miniaturization and compact.</span></p>
 
 <p><span class="chinese">也介绍了测温传感器结构小型化方面所做的工作。</span><span class="english">The miniaturization of current temperature sensor is also dicus-sed.</span></p>

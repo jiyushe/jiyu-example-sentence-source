@@ -1,5 +1,7 @@
 # 强健
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangjian.md)
+
 <p><span class="chinese">运动可使肌肉强健。</span><span class="english">Exercise tones up the muscles.</span></p>
 
 <p><span class="chinese">这位战士身体如铁打一般的强健。</span><span class="english">The soldier was as hard as nails.</span></p>

@@ -1,5 +1,7 @@
 # shied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shied.md)
+
 <p><span class="chinese">男孩向狗扔了一块石头。</span><span class="english">The boy shied a stone at the dog.</span></p>
 
 <p><span class="chinese">那马听到巨大的响声时惊得往后倒退。</span><span class="english">The horse shied at the loud noise.</span></p>

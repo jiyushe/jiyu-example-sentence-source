@@ -1,5 +1,7 @@
 # redressal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redressal.md)
+
 <p><span class="chinese">第四章，推进农业结构的战略性调整。</span><span class="english">Chapter four, push strategical redressal of agriculture structure.</span></p>
 
 <p><span class="chinese">为此，时尚杂志应该做一些调整，尽量减少不良影响。</span><span class="english">So, the fashion magazines should do some redressal in order to reduce blight.</span></p>

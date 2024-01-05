@@ -1,5 +1,7 @@
 # simd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simd.md)
+
 <p><span class="chinese">联合SIMD结算的各个结果到一个标量返回值上。</span><span class="english">Consolidate the values calculated using SIMD into a single scalar return value.</span></p>
 
 <p><span class="chinese">文章介绍了一种新的嵌入式SIMD协处理器地址产生器。</span><span class="english">A new address generator of the embeded SIMD coprocessor is introduced in this paper.</span></p>

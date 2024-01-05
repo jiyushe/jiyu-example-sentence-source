@@ -1,5 +1,7 @@
 # 轮转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunzhuan.md)
+
 <p><span class="chinese">你知道你的命运之轮转向哪里吗？</span><span class="english">Do you know what your destiny is?</span></p>
 
 <p><span class="chinese">这种新型轮转印刷机印刷得很快。</span><span class="english">This new rotary press prints very rapidly.</span></p>

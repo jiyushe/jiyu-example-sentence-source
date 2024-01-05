@@ -1,5 +1,7 @@
 # prayer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prayer.md)
+
 <p><span class="chinese">主啊，请听听我的祈祷吧。</span><span class="english">Lord, hear my prayer.</span></p>
 
 <p><span class="chinese">此刻是安静的祈祷者</span><span class="english">Now the quiet prayer.</span></p>

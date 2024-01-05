@@ -1,5 +1,7 @@
 # 追随
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuisui.md)
+
 <p><span class="chinese">我们追随总统。</span><span class="english">We follow our president.</span></p>
 
 <p><span class="chinese">我们想让所有人都追随我们。</span><span class="english">We want everyone to follow us.</span></p>

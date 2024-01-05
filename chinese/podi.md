@@ -1,5 +1,7 @@
 # 坡地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/podi.md)
+
 <p><span class="chinese">坡地上树木高耸排成行。</span><span class="english">a row of tall trees topping the downs</span></p>
 
 <p><span class="chinese">缺少土地的农民开垦坡地。</span><span class="english">Land-hungry peasants push up the hill sides.</span></p>

@@ -1,5 +1,7 @@
 # resent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resent.md)
+
 <p><span class="chinese">他或许该憎恨这一切。</span><span class="english">He should probably resent it.</span></p>
 
 <p><span class="chinese">我痛恨他的独断作风。</span><span class="english">I resent his dictatorial manner.</span></p>

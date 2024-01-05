@@ -1,5 +1,7 @@
 # creaky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creaky.md)
+
 <p><span class="chinese">衣橱总咯吱咯吱响，犯不上去打扰她。</span><span class="english">Creaky wardrobe. No use disturbing her.</span></p>
 
 <p><span class="chinese">但是今天我们年、面对的是已经破旧的系统这样一个现实。</span><span class="english">But today we face the reality of a system that has become creaky.</span></p>

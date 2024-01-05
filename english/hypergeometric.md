@@ -1,5 +1,7 @@
 # hypergeometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypergeometric.md)
+
 <p><span class="chinese">在文章的第二部分，我们考虑了双超几何项的递推公式。</span><span class="english">In part II, we consider the recurrence formula of double hypergeometric terms.</span></p>
 
 <p><span class="chinese">本文用超几何函数来表示倾角函数。</span><span class="english">In this paper, the inclination functions are expressed as the hypergeometric functions.</span></p>

@@ -1,5 +1,7 @@
 # 盼望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panwang.md)
+
 <p><span class="chinese">我盼望着你早来。</span><span class="english">I expected you sooner.</span></p>
 
 <p><span class="chinese">这是我们唯一的盼望！</span><span class="english">That is our only hope!</span></p>

@@ -1,5 +1,7 @@
 # irrationally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrationally.md)
+
 <p><span class="chinese">不过，这些投行也知道，投资者正失去理性。</span><span class="english">But they know investors are acting irrationally.</span></p>
 
 <p><span class="chinese">贪婪是人们做出不合理的冒险的次级房贷资产投资的原因。</span><span class="english">Greed is the reason why people made irrationally risky investment in subprime mortgage assets.</span></p>

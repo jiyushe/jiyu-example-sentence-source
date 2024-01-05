@@ -1,5 +1,7 @@
 # ussr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ussr.md)
+
 <p><span class="chinese">卡拉什尼科夫枪，苏联。</span><span class="english">The Kalashnikov gun, the USSR.</span></p>
 
 <p><span class="chinese">一直永远地停留在了苏联的时代。</span><span class="english">always and forever in the USSR.</span></p>

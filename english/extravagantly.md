@@ -1,5 +1,7 @@
 # extravagantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extravagantly.md)
+
 <p><span class="chinese">洛杉矶人的预期高的夸张</span><span class="english">The Los Angeles people had extravagantly high expectations.</span></p>
 
 <p><span class="chinese">这两种不同的表述之间相隔11个星期，而差别是如此之大。</span><span class="english">The two statements, 11 weeks apart, are extravagantly dissonant.</span></p>

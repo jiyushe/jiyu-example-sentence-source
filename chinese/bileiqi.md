@@ -1,5 +1,7 @@
 # 避雷器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bileiqi.md)
+
 <p><span class="chinese">避雷器，放电管，磁簧开关，磁簧继电器。</span><span class="english">Surge Arrestor, Reed Switch, Reed Relay.</span></p>
 
 <p><span class="chinese">目前，使用最多的是氧化锌避雷器。</span><span class="english">At present, the most commonly used are zinc oxide arrester.</span></p>

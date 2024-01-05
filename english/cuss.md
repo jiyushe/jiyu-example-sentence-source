@@ -1,5 +1,7 @@
 # cuss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuss.md)
+
 <p><span class="chinese">我不乱骂。</span><span class="english">I don't cuss.</span></p>
 
 <p><span class="chinese">别说我坏话。</span><span class="english">Don't cuss me!</span></p>

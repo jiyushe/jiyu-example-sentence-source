@@ -1,5 +1,7 @@
 # 王侯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanghou_1.md)
+
 <p><span class="chinese">用王侯的标准来修建的。</span><span class="english">Using the standards for princes and marquises.</span></p>
 
 <p><span class="chinese">我的心却仍贵如王侯，自己作主。</span><span class="english">Kept hearts in liveries , but mine own was free.</span></p>

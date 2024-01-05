@@ -1,5 +1,7 @@
 # 坐禅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuochan.md)
+
 <p><span class="chinese">参禅亦称坐禅。</span><span class="english">Zen meditation is called Zazen.</span></p>
 
 <p><span class="chinese">坐禅需要一丝不苟，细节是关键。</span><span class="english">Zazen is meticulous work and details are important.</span></p>

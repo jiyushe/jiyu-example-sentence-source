@@ -1,5 +1,7 @@
 # 瞌睡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keshui.md)
+
 <p><span class="chinese">他打了一下午的瞌睡。</span><span class="english">He dozed away the afternoon.</span></p>
 
 <p><span class="chinese">让我先打个瞌睡。</span><span class="english">Let me catch some Z's first.</span></p>

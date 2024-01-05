@@ -1,5 +1,7 @@
 # fulminating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulminating.md)
+
 <p><span class="chinese">他踱来踱去，怒斥他的儿子。</span><span class="english">He paced up and down, fulminating against his son.</span></p>
 
 <p><span class="chinese">最严重的致死性并发症是暴发性结肠炎。</span><span class="english">The most le al complication is fulminating colitis.</span></p>

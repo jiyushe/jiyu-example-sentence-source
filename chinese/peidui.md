@@ -1,5 +1,7 @@
 # 配对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peidui.md)
+
 <p><span class="chinese">鸟常常成双配对。</span><span class="english">Birds often pair for life.</span></p>
 
 <p><span class="chinese">鸳鸯终生配对。</span><span class="english">The mandarine ducks paired for life.</span></p>

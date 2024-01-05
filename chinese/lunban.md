@@ -1,5 +1,7 @@
 # 轮班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunban.md)
+
 <p><span class="chinese">一位矿工在轮班前戴上安全装备。</span><span class="english">A miner picked up safety supplies before his shift.</span></p>
 
 <p><span class="chinese">这些美国研究人员也发现，轮班工作者的褪黑激素量较低。</span><span class="english">The US researchers also found lower melatonin levels in shift workers.</span></p>

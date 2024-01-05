@@ -1,5 +1,7 @@
 # 周全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouquan.md)
+
 <p><span class="chinese">好重新做个周全地生活计划！</span><span class="english">Good makes to live completely the plan!</span></p>
 
 <p><span class="chinese">不要听他那考虑不周全的主意！</span><span class="english">Don't listen to his inconsiderable idea.</span></p>

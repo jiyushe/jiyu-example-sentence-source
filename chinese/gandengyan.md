@@ -1,5 +1,7 @@
 # 干瞪眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gandengyan.md)
+
 <p><span class="chinese">但我们只能干瞪眼。</span><span class="english">So we could do nothing but look on.</span></p>
 
 <p><span class="chinese">等候的时间未必就要干瞪眼。</span><span class="english">Waiting time does not have to be wasted time.</span></p>

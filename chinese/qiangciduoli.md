@@ -1,5 +1,7 @@
 # 强词夺理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangciduoli.md)
+
 <p><span class="chinese">那是强词夺理。</span><span class="english">That's a special pleading.</span></p>
 
 <p><span class="chinese">强词夺理不能折服人。</span><span class="english">No one can be persuaded by sophistry.</span></p>

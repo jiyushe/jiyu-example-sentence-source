@@ -1,5 +1,7 @@
 # ait
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ait.md)
+
 <p><span class="chinese">有时当车辆和人流太多的时候感觉呼吸都很困难。</span><span class="english">AIt gets difficult to breathe sometimes with all the traffic.</span></p>
 
 <p><span class="chinese">苦参类生物碱抗肿瘤作用。</span><span class="english">The Anti-Tumor Activity on Alkaloid of Sophora Favescens Ait.</span></p>

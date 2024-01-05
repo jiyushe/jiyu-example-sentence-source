@@ -1,5 +1,7 @@
 # tress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tress.md)
+
 <p><span class="chinese">美波动在她乌黑的发上</span><span class="english">Which waves in every raven tress</span></p>
 
 <p><span class="chinese">没在她乌黑的发际流淌。</span><span class="english">Which waves in every raven tress.</span></p>

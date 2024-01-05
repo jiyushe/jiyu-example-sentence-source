@@ -1,5 +1,7 @@
 # sweaty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweaty.md)
+
 <p><span class="chinese">他们浑身是汗，乱哄哄的站在一起。</span><span class="english">They're in a mess, very sweaty.</span></p>
 
 <p><span class="chinese">什么？她当然很辣！尤其香汗淋漓的时候。</span><span class="english">What? She's hot! As in, sweaty.</span></p>

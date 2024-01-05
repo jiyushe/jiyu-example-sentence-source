@@ -1,5 +1,7 @@
 # feeder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feeder.md)
+
 <p><span class="chinese">什么样的育肥牛，从哪儿来？</span><span class="english">What kind of feeder cattle, from where?</span></p>
 
 <p><span class="chinese">好的邻居会产生好的直属学校。</span><span class="english">Good neighbors make good feeder schools.</span></p>

@@ -1,5 +1,7 @@
 # nonunion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonunion.md)
+
 <p><span class="chinese">无骨不连和其他并发症发生。</span><span class="english">There were no nonunion and other complications.</span></p>
 
 <p><span class="chinese">该术式是治疗腕舟骨骨折骨不连的一种有效方法。</span><span class="english">It is an effective operation method to treat nonunion of scaphoid bone.</span></p>

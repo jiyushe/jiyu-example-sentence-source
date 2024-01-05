@@ -1,5 +1,7 @@
 # 异能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yineng.md)
+
 <p><span class="chinese">马术属于躲避式异能。</span><span class="english">Horsemanship is an evasion ability.</span></p>
 
 <p><span class="chinese">将此异能视为魔法力源使用。</span><span class="english">Play this ability as a mana source.</span></p>

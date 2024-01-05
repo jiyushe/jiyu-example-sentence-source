@@ -1,5 +1,7 @@
 # impoundment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impoundment.md)
+
 <p><span class="chinese">小湾拱坝是当前我国已进入蓄水阶段的最高坝。</span><span class="english">Xiaowan arch dam is the highest arch dam in impoundment period in China.</span></p>
 
 <p><span class="chinese">并对心墙蓄水前后的土压力进行了定性分析。</span><span class="english">And the earth pressure before and after impoundment is analyzed qualitatively.</span></p>

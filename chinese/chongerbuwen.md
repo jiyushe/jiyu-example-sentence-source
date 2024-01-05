@@ -1,5 +1,7 @@
 # 充耳不闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongerbuwen.md)
+
 <p><span class="chinese">没有人喜欢别人对自己的话充耳不闻。</span><span class="english">Nobody likes to not be heard.</span></p>
 
 <p><span class="chinese">但政府对他们的担忧充耳不闻。</span><span class="english">But their words fell on deaf ears.</span></p>

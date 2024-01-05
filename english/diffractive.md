@@ -1,5 +1,7 @@
 # diffractive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffractive.md)
+
 <p><span class="chinese">报道二维纯位相环带衍射光学透镜的研究。</span><span class="english">The study of plane pure-phase equi-width ring diffractive optical lenses is reported.</span></p>
 
 <p><span class="chinese">使用四种不同光源，对菲涅耳透镜的衍射效率进行测试。</span><span class="english">Four kinds of laser source are used to measure the diffractive efficiency of Fresnel lens.</span></p>

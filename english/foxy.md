@@ -1,5 +1,7 @@
 # foxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foxy.md)
+
 <p><span class="chinese">她真是一个性感迷人的小妞儿！</span><span class="english">What a foxy dame she is!</span></p>
 
 <p><span class="chinese">表情略显狡猾。</span><span class="english">A slightly foxy expression.</span></p>

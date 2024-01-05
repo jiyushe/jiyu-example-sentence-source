@@ -1,5 +1,7 @@
 # cucumber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cucumber.md)
+
 <p><span class="chinese">把黄瓜切成薄薄的片。</span><span class="english">Slice the cucumber thinly.</span></p>
 
 <p><span class="chinese">用搅拌机打成黄瓜泥。</span><span class="english">Puree cucumber in a blender.</span></p>

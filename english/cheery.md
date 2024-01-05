@@ -1,5 +1,7 @@
 # cheery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheery.md)
+
 <p><span class="chinese">菲利浦先生是个生性快活的人。</span><span class="english">Mr. Phillips was a cheery man.</span></p>
 
 <p><span class="chinese">我是古古鸡，热情有魅力。</span><span class="english">I am CHEERY ROOSTER, cheery and charming.</span></p>

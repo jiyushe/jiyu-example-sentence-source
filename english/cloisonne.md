@@ -1,5 +1,7 @@
 # cloisonne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloisonne.md)
+
 <p><span class="chinese">我喜欢这个陶瓷花瓶。</span><span class="english">I like the cloisonné vase.</span></p>
 
 <p><span class="chinese">嗯，这一套景泰蓝的手镯怎样？</span><span class="english">Er, how about a set of cloisonné bracelets?</span></p>

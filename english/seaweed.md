@@ -1,5 +1,7 @@
 # seaweed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seaweed.md)
+
 <p><span class="chinese">我要买干的海苔。</span><span class="english">I need some dried seaweed.</span></p>
 
 <p><span class="chinese">海带豆腐汤！啊啊啊啊太好吃了！</span><span class="english">Seaweed and tofu soup! Mmmmm yum!</span></p>

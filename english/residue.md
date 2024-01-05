@@ -1,5 +1,7 @@
 # residue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/residue.md)
+
 <p><span class="chinese">冲洗液走完全离开无残留。</span><span class="english">Rinses away completely leaving no residue.</span></p>
 
 <p><span class="chinese">萃取液蒸干，以流动相溶解。</span><span class="english">The residue was dissolved in mobile phases.</span></p>

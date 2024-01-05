@@ -1,5 +1,7 @@
 # 伤兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangbing.md)
+
 <p><span class="chinese">那个伤兵跌跌撞撞地向前走去。</span><span class="english">The wounded soldier lurched forward.</span></p>
 
 <p><span class="chinese">那名伤兵因痛苦而翻滚著。</span><span class="english">The wounded soldier writhed in agony.</span></p>

@@ -1,5 +1,7 @@
 # julep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/julep.md)
+
 <p><span class="chinese">它有一个稻草，和薄荷朱利普小枝。</span><span class="english">It has a straw, and mint Julep branchlets.</span></p>
 
 <p><span class="chinese">所以说小苏打去黑头的说法其实不现实。</span><span class="english">So saying sodium bicarbonate julep is in fact not true.</span></p>

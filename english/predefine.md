@@ -1,5 +1,7 @@
 # predefine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predefine.md)
+
 <p><span class="chinese">每笔交易前，我提前衡量风险。</span><span class="english">I predefine the risk of every trade.</span></p>
 
 <p><span class="chinese">在招聘计划中可预定义的招聘活动。</span><span class="english">In the recruitment plan, we can predefine recruitment activities.</span></p>

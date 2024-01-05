@@ -1,5 +1,7 @@
 # simpleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simpleness.md)
+
 <p><span class="chinese">算例表明，该文的方法简单、有效。</span><span class="english">Examples indicate simpleness and efficiency of this method.</span></p>
 
 <p><span class="chinese">实验结果表明，该装置简单可行。</span><span class="english">Devices' simpleness and validity are proved by the experimental result.</span></p>

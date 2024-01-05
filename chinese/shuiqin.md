@@ -1,5 +1,7 @@
 # 水禽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiqin.md)
+
 <p><span class="chinese">此外还有其它各式各样的水禽。</span><span class="english">All kinds of waterfowl abound.</span></p>
 
 <p><span class="chinese">这狗是一个从事与水禽专家。</span><span class="english">This engaging dog is a specialist with waterfowl.</span></p>

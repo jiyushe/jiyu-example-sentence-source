@@ -1,5 +1,7 @@
 # 友人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youren.md)
+
 <p><span class="chinese">送友人或自用。</span><span class="english">For friends or for oneself.</span></p>
 
 <p><span class="chinese">与友人K'的第一场战斗。</span><span class="english">First match with friend, K'.</span></p>

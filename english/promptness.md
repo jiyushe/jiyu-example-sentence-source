@@ -1,5 +1,7 @@
 # promptness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promptness.md)
+
 <p><span class="chinese">工作上准时是绝对必要的。</span><span class="english">Promptness on the job is a must.</span></p>
 
 <p><span class="chinese">准时在美国社会是受到高度认可的。</span><span class="english">D. Promptness is valued highly in American life.</span></p>

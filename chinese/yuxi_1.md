@@ -1,5 +1,7 @@
 # 玉玺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxi_1.md)
+
 <p><span class="chinese">于是大流士王立这禁令，加盖玉玺。</span><span class="english">So King Darius put the decree in writing.</span></p>
 
 <p><span class="chinese">穆罕默德的玉玺就是一枚银环镶边的阴雕红玉髓。</span><span class="english">Muhammad's seal was an engraved Cornelian set in a silver ring.</span></p>

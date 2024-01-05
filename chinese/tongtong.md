@@ -1,5 +1,7 @@
 # 统统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongtong.md)
+
 <p><span class="chinese">统统想像出全新的场景。</span><span class="english">Always imagine new places!</span></p>
 
 <p><span class="chinese">把你的玩具从地上统统拾起来。</span><span class="english">Gather your toys from the floor.</span></p>

@@ -1,5 +1,7 @@
 # 绍兴酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoxingjiu.md)
+
 <p><span class="chinese">绍兴酒变得好喝。</span><span class="english">Hsiaohsing Wine tastes good.</span></p>
 
 <p><span class="chinese">绍兴酒很好喝。</span><span class="english">Shaoxing wine tastes very good.</span></p>

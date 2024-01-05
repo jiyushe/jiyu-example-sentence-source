@@ -1,5 +1,7 @@
 # postoffice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postoffice.md)
+
 <p><span class="chinese">我要去邮局了。</span><span class="english">I am going to the postoffice.</span></p>
 
 <p><span class="chinese">我的兄弟是一个邮局？？？</span><span class="english">My brother is a postoffice???</span></p>

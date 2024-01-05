@@ -1,5 +1,7 @@
 # 公车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongche.md)
+
 <p><span class="chinese">我坐错公车了。</span><span class="english">A. I took the wrong bus.</span></p>
 
 <p><span class="chinese">我想问问附近有没有公车站？</span><span class="english">Is here a bus stop near by?</span></p>

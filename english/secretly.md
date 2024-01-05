@@ -1,5 +1,7 @@
 # secretly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secretly.md)
+
 <p><span class="chinese">丹丹偷偷地笑了。</span><span class="english">Daniel is laughing secretly.</span></p>
 
 <p><span class="chinese">我心里暗暗地啧啧称赞。</span><span class="english">I heart secretly tut praise.</span></p>

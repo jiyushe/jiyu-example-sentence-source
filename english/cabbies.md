@@ -1,5 +1,7 @@
 # cabbies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabbies.md)
+
 <p><span class="chinese">马车夫那种流浪生活真妙。</span><span class="english">Curious the life of drifting cabbies.</span></p>
 
 <p><span class="chinese">他说一打的司机拒绝了他出钱买通他们来自己驾驶的要求。</span><span class="english">He said a dozen cabbies refused his offer of cash to let him drive.</span></p>

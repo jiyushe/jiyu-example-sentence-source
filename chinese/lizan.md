@@ -1,5 +1,7 @@
 # 礼赞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizan.md)
+
 <p><span class="chinese">这是海洋的礼赞。</span><span class="english">And this is ocean's poem.</span></p>
 
 <p><span class="chinese">这正是我送你这爱的礼赞的原因。</span><span class="english">And that's why I send you this loving salutation.</span></p>

@@ -1,5 +1,7 @@
 # arresting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arresting.md)
+
 <p><span class="chinese">她从捕人警官手中逃脱。</span><span class="english">She broke away from the arresting officer.</span></p>
 
 <p><span class="chinese">三张照片中，柯瑟琳的那张最为醒目。</span><span class="english">Of the three photos, Cordell's was the most arresting.</span></p>

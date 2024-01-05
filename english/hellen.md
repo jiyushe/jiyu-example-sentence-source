@@ -1,5 +1,7 @@
 # hellen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hellen.md)
+
 <p><span class="chinese">下午好，海伦。</span><span class="english">Good afternoon, hellen.</span></p>
 
 <p><span class="chinese">海伦不能滑雪，对吗？</span><span class="english">Hellen can not ski, can she?</span></p>

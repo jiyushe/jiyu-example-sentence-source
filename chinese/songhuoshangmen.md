@@ -1,5 +1,7 @@
 # 送货上门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songhuoshangmen.md)
+
 <p><span class="chinese">这里提供送货上门服务。</span><span class="english">We offer a home-delivery service.</span></p>
 
 <p><span class="chinese">这里提供送货上门服务。</span><span class="english">It provides home-delivery service here.</span></p>

@@ -1,5 +1,7 @@
 # airspeed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airspeed.md)
+
 <p><span class="chinese">飞机使用空速管测量飞行速度。</span><span class="english">Aircraft use pitot tubes to measure airspeed.</span></p>
 
 <p><span class="chinese">在空速表上可以调整的指针。</span><span class="english">An adjustable pointer on the airspeed indicator.</span></p>

@@ -1,5 +1,7 @@
 # 评理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingli.md)
+
 <p><span class="chinese">叫警察来评理啊！</span><span class="english">Call the police to judge ah!</span></p>
 
 <p><span class="chinese">这一桩桩一件件，导游员找谁去评理？！</span><span class="english">This scenario, the tour guide who find one reason?!</span></p>

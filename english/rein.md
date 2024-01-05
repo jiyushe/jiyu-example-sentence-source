@@ -1,5 +1,7 @@
 # rein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rein.md)
+
 <p><span class="chinese">马随缰绳的控制行走。</span><span class="english">A horse obeys the rein.</span></p>
 
 <p><span class="chinese">你一定要捺住火气。</span><span class="english">You must rein in your temper.</span></p>

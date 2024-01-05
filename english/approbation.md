@@ -1,5 +1,7 @@
 # approbation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approbation.md)
+
 <p><span class="chinese">我预料大家只有感激赞许。</span><span class="english">I anticipate nothing but grateful approbation.</span></p>
 
 <p><span class="chinese">经理赞许地审读她的报告。</span><span class="english">The manager surveyed her report with approbation.</span></p>

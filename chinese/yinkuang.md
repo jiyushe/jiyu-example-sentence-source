@@ -1,5 +1,7 @@
 # 银矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinkuang.md)
+
 <p><span class="chinese">那银矿已不再开采了。</span><span class="english">The silver mines are no longer worked.</span></p>
 
 <p><span class="chinese">山门银矿为大型独立银矿床。</span><span class="english">The Shanmen silver deposit is a large, independent one.</span></p>

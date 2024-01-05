@@ -1,5 +1,7 @@
 # shameful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shameful.md)
+
 <p><span class="chinese">它是可耻的。</span><span class="english">It's shameful.</span></p>
 
 <p><span class="chinese">忍辱贪生不如死得光荣。</span><span class="english">Better a glorious death than a shameful life.</span></p>

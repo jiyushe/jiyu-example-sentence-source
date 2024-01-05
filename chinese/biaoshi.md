@@ -1,5 +1,7 @@
 # 标示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoshi.md)
+
 <p><span class="chinese">道路标示作図装置。</span><span class="english">A road surface drawing device.</span></p>
 
 <p><span class="chinese">有两个房间用卡片标示着他的名字。</span><span class="english">His name was carded upon two rooms.</span></p>

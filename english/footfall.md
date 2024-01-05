@@ -1,5 +1,7 @@
 # footfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footfall.md)
+
 <p><span class="chinese">沉重的脚步声。</span><span class="english">A heavy footfall.</span></p>
 
 <p><span class="chinese">转动的轮子，然后是这夜晚轻柔的脚步。</span><span class="english">Whirling wheel, then soft footfall of thought.</span></p>

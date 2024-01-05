@@ -1,5 +1,7 @@
 # 塔吊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tadiao.md)
+
 <p><span class="chinese">DBQ4000型塔吊是国内最大的行走式塔吊之一，其路基的设计与施工极为重要。</span><span class="english">DBQ4000 tower crane is one of the largest walk tower cranes in civil.</span></p>
 
 <p><span class="chinese">观光塔拥有比塔吊更高的安全储备。</span><span class="english">The sightseeing tower has higher emergency capacity than the tower crane.</span></p>

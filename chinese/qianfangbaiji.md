@@ -1,5 +1,7 @@
 # 千方百计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfangbaiji.md)
+
 <p><span class="chinese">你会千方百计寻求关注吗？</span><span class="english">Do you plead for attention?</span></p>
 
 <p><span class="chinese">我将千方百计满足你的需求。</span><span class="english">I will study to satisfy your needs.</span></p>

@@ -1,5 +1,7 @@
 # 单杠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangang.md)
+
 <p><span class="chinese">她坐在高高的单杠上哭起来。</span><span class="english">Beth sat high on the monkey bars crying.</span></p>
 
 <p><span class="chinese">体操运动员们在单杠上练习。</span><span class="english">This is only an exercise in composition.</span></p>

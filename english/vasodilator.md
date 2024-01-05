@@ -1,5 +1,7 @@
 # vasodilator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasodilator.md)
+
 <p><span class="chinese">正常的血管张力要靠缩血管因子和舒血管因子之间的平衡来维护。</span><span class="english">The balance of vasoconstrictor and vasodilator can maintain normal tension of blood vessel.</span></p>
 
 <p><span class="chinese">用离体血管环研究了东莨菪碱扩血管作用的机制。</span><span class="english">Rabbit thoracic aortic rings were used to investigate the vasodilator mechanisms of scopolamine.</span></p>

@@ -1,5 +1,7 @@
 # 其中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizhong.md)
+
 <p><span class="chinese">其中之一是音高。</span><span class="english">One is pitch.</span></p>
 
 <p><span class="chinese">其中之一是“bagman"。</span><span class="english">One is bagman.</span></p>

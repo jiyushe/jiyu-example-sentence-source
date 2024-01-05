@@ -1,5 +1,7 @@
 # bulky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulky.md)
+
 <p><span class="chinese">当选择膨体纱编织毛衣。</span><span class="english">Select bulky yarn when knitting a sweater.</span></p>
 
 <p><span class="chinese">电视机体积大，会老、残旧的时候！</span><span class="english">TV is big, bulky and most of the time old!</span></p>

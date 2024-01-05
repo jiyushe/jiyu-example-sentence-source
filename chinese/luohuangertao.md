@@ -1,5 +1,7 @@
 # 落荒而逃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luohuangertao.md)
+
 <p><span class="chinese">战争结束后，我也落荒而逃。</span><span class="english">After the fight, I ran away too.</span></p>
 
 <p><span class="chinese">德里克和教堂里的其他人落荒而逃。</span><span class="english">Derek and everyone else in the church flees.</span></p>

@@ -1,5 +1,7 @@
 # 映衬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingchen.md)
+
 <p><span class="chinese">在白雪的映衬下红梅显得更加鲜艳美丽。</span><span class="english">White snow heightens the red plum blossoms.</span></p>
 
 <p><span class="chinese">在黑色地板的映衬下她的头发显得越发红艳。</span><span class="english">Her hair looked very red on the black floor.</span></p>

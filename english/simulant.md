@@ -1,5 +1,7 @@
 # simulant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simulant.md)
+
 <p><span class="chinese">虽然都是模拟出来的景象，可是效果非常逼真。</span><span class="english">Even though it is just a simulant Earth Core, it is true to life.</span></p>
 
 <p><span class="chinese">最后，详细讨论了用该算法对模拟剂的处理结果。</span><span class="english">Finally, we discuss in detail the simulated results for simulant.</span></p>

@@ -1,5 +1,7 @@
 # altitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altitude.md)
+
 <p><span class="chinese">高跳低开伞降方式。</span><span class="english">HAL High Altitude Low Opening.</span></p>
 
 <p><span class="chinese">高跳低开伞降方式。</span><span class="english">HALO- High Altitude Low Opening.</span></p>

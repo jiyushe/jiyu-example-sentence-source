@@ -1,5 +1,7 @@
 # pacesetter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pacesetter.md)
+
 <p><span class="chinese">在某种意义上，领导是事业的带头人。</span><span class="english">In a sense, the leadership is the pacesetter.</span></p>
 
 <p><span class="chinese">在某种意义上，率领应是事业的带头人。</span><span class="english">In a sense a leader is the pacesetter in doing things.</span></p>

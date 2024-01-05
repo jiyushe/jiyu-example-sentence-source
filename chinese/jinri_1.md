@@ -1,5 +1,7 @@
 # 近日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinri_1.md)
+
 <p><span class="chinese">新加坡近日将允许开放蹦极运动。</span><span class="english">Singapore will now permit bungee jumping.</span></p>
 
 <p><span class="chinese">jMaki项目近日发布了1.0版本。</span><span class="english">Today the jMaki project released version 1.0.</span></p>

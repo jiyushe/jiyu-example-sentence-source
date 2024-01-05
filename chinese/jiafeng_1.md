@@ -1,5 +1,7 @@
 # 家风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiafeng_1.md)
+
 <p><span class="chinese">因此你看，气真是在我家风生水起！</span><span class="english">So the chi is definately flowing well in our home!</span></p>
 
 <p><span class="chinese">那种家风是由父亲传给儿子的。</span><span class="english">That family trait is handed on from father to son.</span></p>

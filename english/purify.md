@@ -1,5 +1,7 @@
 # purify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purify.md)
+
 <p><span class="chinese">从这倒这，我就可以提纯。</span><span class="english">From here to here. And you can purify.</span></p>
 
 <p><span class="chinese">怎样去除眼袋啊？把眼袋变小啊？</span><span class="english">How purify pouch? pouch decrescent ah?</span></p>

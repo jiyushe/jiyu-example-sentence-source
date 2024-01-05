@@ -1,5 +1,7 @@
 # riemannian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riemannian.md)
+
 <p><span class="chinese">黎曼流形上的幂零结构指什么？</span><span class="english">What is nilpotent structure on Riemannian manifold?</span></p>
 
 <p><span class="chinese">设M是紧致连通的黎曼流形。</span><span class="english">Let M be a compact and connected Riemannian manifold.</span></p>

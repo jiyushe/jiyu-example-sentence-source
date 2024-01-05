@@ -1,5 +1,7 @@
 # ananias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ananias.md)
+
 <p><span class="chinese">谁充满了亚拿尼亚的心？</span><span class="english">Who had filled the heart Ananias?</span></p>
 
 <p><span class="chinese">这便是亚拿尼亚和撒非喇夫妻的故事。</span><span class="english">So we get the story of Ananias and Sapphira, husband and wife.</span></p>

@@ -1,5 +1,7 @@
 # 雄姿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongzi.md)
+
 <p><span class="chinese">人们蜂拥着前去一睹国王的雄姿。</span><span class="english">To move or go as a throng.</span></p>
 
 <p><span class="chinese">人们蜂拥着前去一睹国王的雄姿。</span><span class="english">The people throng to see the king.</span></p>

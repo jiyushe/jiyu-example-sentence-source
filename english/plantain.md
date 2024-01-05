@@ -1,5 +1,7 @@
 # plantain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plantain.md)
+
 <p><span class="chinese">大蕉类似于香蕉。</span><span class="english">A plantain is similar to a banana.</span></p>
 
 <p><span class="chinese">用芭蕉扇扇，猴扑灭了火。</span><span class="english">With the plantain fan, Monkey put out the fire.</span></p>

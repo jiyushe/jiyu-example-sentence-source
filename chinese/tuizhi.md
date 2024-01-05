@@ -1,5 +1,7 @@
 # 退职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuizhi.md)
+
 <p><span class="chinese">真了不起，那他为什么要退职呢？</span><span class="english">Wonderful, then why did he retire?</span></p>
 
 <p><span class="chinese">他的退职昨天刊载于公报上。</span><span class="english">His retirement was gazetted yesterday.</span></p>

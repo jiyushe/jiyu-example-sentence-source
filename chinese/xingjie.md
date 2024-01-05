@@ -1,5 +1,7 @@
 # 行劫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingjie.md)
+
 <p><span class="chinese">问题是那些失业者们行劫。</span><span class="english">The problem is that those who are out of jobs probably rob.</span></p>
 
 <p><span class="chinese">同时，窃贼也更难找到空屋行劫。</span><span class="english">And burglars find it harder to identify empty houses to rob.</span></p>

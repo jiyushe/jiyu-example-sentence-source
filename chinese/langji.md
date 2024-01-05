@@ -1,5 +1,7 @@
 # 狼藉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langji.md)
+
 <p><span class="chinese">他一动不动地站在那,呆呆地望着满地狼藉的食物。</span><span class="english">He stood stock-still and looked down at the food.</span></p>
 
 <p><span class="chinese">结果他的房子一片狼藉。</span><span class="english">As as a result, his house was extremely cluttered.</span></p>

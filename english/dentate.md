@@ -1,5 +1,7 @@
 # dentate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dentate.md)
+
 <p><span class="chinese">萼裂片3，长不及宽，边缘明显具牙齿。</span><span class="english">Calyx lobes 3, wider than long, margin distinctly dentate.</span></p>
 
 <p><span class="chinese">它们再发出分支至海马各区和齿状回。</span><span class="english">They gave off branches to each subfield of the hippocampus and dentate gyrus.</span></p>

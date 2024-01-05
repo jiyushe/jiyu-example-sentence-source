@@ -1,5 +1,7 @@
 # 相见恨晚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjianhenwan.md)
+
 <p><span class="chinese">我有种相见恨晚的感觉！</span><span class="english">I feel it's too late to meet you !</span></p>
 
 <p><span class="chinese">有情人邂逅却相见恨晚。</span><span class="english">The lovers meet, but meet too late.</span></p>

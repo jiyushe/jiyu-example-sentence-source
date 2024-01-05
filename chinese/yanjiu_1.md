@@ -1,5 +1,7 @@
 # 研究
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjiu_1.md)
+
 <p><span class="chinese">所以我做研究。</span><span class="english">So we did research.</span></p>
 
 <p><span class="chinese">去研究自己。</span><span class="english">To study yourselves.</span></p>

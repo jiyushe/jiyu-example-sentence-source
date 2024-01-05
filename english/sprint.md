@@ -1,5 +1,7 @@
 # sprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprint.md)
+
 <p><span class="chinese">奥林匹克争先赛是一种团体赛。</span><span class="english">Olympic sprint is a team race.</span></p>
 
 <p><span class="chinese">罗布·哈梅林在波尔多获得短跑冠军。</span><span class="english">Rob Harmeling won the sprint in Bordeaux.</span></p>

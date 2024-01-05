@@ -1,5 +1,7 @@
 # staging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staging.md)
+
 <p><span class="chinese">九段分期法。</span><span class="english">Kudan staging method.</span></p>
 
 <p><span class="chinese">七段分期法。</span><span class="english">Seven-Segment staging method.</span></p>

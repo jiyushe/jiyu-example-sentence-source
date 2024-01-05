@@ -1,5 +1,7 @@
 # 席卷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijuan.md)
+
 <p><span class="chinese">这种狂热正席卷日本。</span><span class="english">The craze is sweeping over Japan.</span></p>
 
 <p><span class="chinese">世俗的骚动，席卷荒野。</span><span class="english">And worldly tempests, raging wild.</span></p>

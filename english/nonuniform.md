@@ -1,5 +1,7 @@
 # nonuniform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonuniform.md)
+
 <p><span class="chinese">但是，形状变得不均匀在径向方向。</span><span class="english">But the shape became nonuniform in the radial direction.</span></p>
 
 <p><span class="chinese">究其原因，主要是大坝不均匀变形所致。</span><span class="english">These cracks were mainly caused by the nonuniform deformation of the dam.</span></p>

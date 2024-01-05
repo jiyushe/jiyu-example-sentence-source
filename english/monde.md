@@ -1,5 +1,7 @@
 # monde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monde.md)
+
 <p><span class="chinese">巴黎的每个人都有罪"</span><span class="english">a Paris tout le monde etait coupable."</span></p>
 
 <p><span class="chinese">他提到的人选包括CNN，纽约时报，世界报或国家报。</span><span class="english">He mentioned possible contenders such as CNN, the New York Times, Le Monde or El Pais.</span></p>

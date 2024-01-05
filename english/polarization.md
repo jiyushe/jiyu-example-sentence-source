@@ -1,5 +1,7 @@
 # polarization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarization.md)
+
 <p><span class="chinese">两极化是条捷径。</span><span class="english">Polarization is a shortcut.</span></p>
 
 <p><span class="chinese">换句话说，偏振性质未包括在内。</span><span class="english">In other words polarization properties are excluded.</span></p>

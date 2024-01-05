@@ -1,5 +1,7 @@
 # artist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artist.md)
+
 <p><span class="chinese">像艺术家一样偷窃。</span><span class="english">Steal like an artist.</span></p>
 
 <p><span class="chinese">他是一位风雅的艺术家。</span><span class="english">He is a tasteful artist.</span></p>

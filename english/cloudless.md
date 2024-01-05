@@ -1,5 +1,7 @@
 # cloudless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloudless.md)
+
 <p><span class="chinese">看那晴朗无云的天空！</span><span class="english">Look at this cloudless sky!</span></p>
 
 <p><span class="chinese">郎弗罗是无云的明月。</span><span class="english">Longfellow a cloudless moon.</span></p>

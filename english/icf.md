@@ -1,5 +1,7 @@
 # icf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icf.md)
+
 <p><span class="chinese">罗锐，ICF国际咨询公司高级顾问。</span><span class="english">Luo Rui is a senior consultant at ICF International.</span></p>
 
 <p><span class="chinese">对强激光产生等离子体的诊断，是ICF研究中的重要领域。</span><span class="english">In ICF research, the diagnosis of laser-produced plasma is a important area.</span></p>

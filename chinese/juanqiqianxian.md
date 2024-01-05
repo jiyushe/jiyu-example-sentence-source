@@ -1,5 +1,7 @@
 # 捐弃前嫌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanqiqianxian.md)
+
 <p><span class="chinese">好了，让我们捐弃前嫌，成为朋友。</span><span class="english">Let's bury the hatchet and be friends.</span></p>
 
 <p><span class="chinese">是我们捐弃前嫌的时候了。</span><span class="english">It is time to bury our past misunderstandings.</span></p>

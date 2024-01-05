@@ -1,5 +1,7 @@
 # 依凭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiping.md)
+
 <p><span class="chinese">依凭博大的智慧和宽广的胸怀。</span><span class="english">With great wisdom and broad bosom.</span></p>
 
 <p><span class="chinese">我们依凭报纸获悉所发生的事情。</span><span class="english">We depend on the newspapers for information about what is happening.</span></p>

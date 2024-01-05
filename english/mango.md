@@ -1,5 +1,7 @@
 # mango
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mango.md)
+
 <p><span class="chinese">加入新鲜芒果汁。</span><span class="english">Add in fresh mango juice.</span></p>
 
 <p><span class="chinese">芒果汁可致癌…</span><span class="english">Mango juice prevents cancer.</span></p>

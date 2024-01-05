@@ -1,5 +1,7 @@
 # advocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advocation.md)
+
 <p><span class="chinese">这种任劳任怨的工作态度是值得我们学习和提倡的。</span><span class="english">Such work attitude is worthy of study and advocation.</span></p>
 
 <p><span class="chinese">民间门神的演变与皇家对民风的倡导有着直接的关系。</span><span class="english">The evolvement of folk door spirit had direct connection to the imperial advocation.</span></p>

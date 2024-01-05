@@ -1,5 +1,7 @@
 # 限额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiane.md)
+
 <p><span class="chinese">给你自己一个限额。</span><span class="english">Give yourself an allowance.</span></p>
 
 <p><span class="chinese">我张卡已过了限额。</span><span class="english">My card is over its limits.</span></p>

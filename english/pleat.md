@@ -1,5 +1,7 @@
 # pleat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleat.md)
+
 <p><span class="chinese">我喜欢前面的褶子。</span><span class="english">I like the pleat in the front.</span></p>
 
 <p><span class="chinese">现在我们将要开始制作背后的褶。</span><span class="english">Now we're going to pleat the backside.</span></p>

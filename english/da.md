@@ -1,5 +1,7 @@
 # da
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/da.md)
+
 <p><span class="chinese">你得到。</span><span class="english">da You get da.</span></p>
 
 <p><span class="chinese">列昂纳多·达·芬奇！</span><span class="english">Leonardo Da Vinci!</span></p>

@@ -1,5 +1,7 @@
 # sensor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensor.md)
+
 <p><span class="chinese">为何选择对射光束的传感器?。</span><span class="english">Why use a thru-beam sensor?</span></p>
 
 <p><span class="chinese">还有，这是一个音速感应器。</span><span class="english">This is a subsonic impact sensor.</span></p>

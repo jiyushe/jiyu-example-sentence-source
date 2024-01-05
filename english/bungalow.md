@@ -1,5 +1,7 @@
 # bungalow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bungalow.md)
+
 <p><span class="chinese">小平房是房子的一种类型。</span><span class="english">A bungalow is a type of house.</span></p>
 
 <p><span class="chinese">培群迁至峇摩劳路一洋房上课。</span><span class="english">Moved to a bungalow at Balmoral Road.</span></p>

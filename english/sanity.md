@@ -1,5 +1,7 @@
 # sanity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanity.md)
+
 <p><span class="chinese">现在做一个检查。</span><span class="english">So now a sanity check.</span></p>
 
 <p><span class="chinese">然后我做一个检查。</span><span class="english">I then do a sanity check.</span></p>

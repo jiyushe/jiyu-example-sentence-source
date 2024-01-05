@@ -1,5 +1,7 @@
 # farina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farina.md)
+
 <p><span class="chinese">我对花粉过敏。</span><span class="english">I'm allergic to farina.</span></p>
 
 <p><span class="chinese">由淀粉组成的或包含淀粉的。</span><span class="english">Similar to or yielding farina.</span></p>

@@ -1,5 +1,7 @@
 # 店面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianmian.md)
+
 <p><span class="chinese">请问蔡总目前百分女人有多少家店面？</span><span class="english">How many stores do you have now, Mr Cai?</span></p>
 
 <p><span class="chinese">照度高低取决于店面形象要求。</span><span class="english">Light levels vary depending on the store image.</span></p>

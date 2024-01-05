@@ -1,5 +1,7 @@
 # 密不可分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mibukefen.md)
+
 <p><span class="chinese">贫困与疾病密不可分。</span><span class="english">Disadvantage and disease go together.</span></p>
 
 <p><span class="chinese">农夫和苦工，与土地密不可分。</span><span class="english">Tillers and toilers, bound to the land.</span></p>

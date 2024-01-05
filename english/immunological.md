@@ -1,5 +1,7 @@
 # immunological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunological.md)
+
 <p><span class="chinese">提示有增强免疫及抗应激作用。</span><span class="english">S has immunological functions and anti-stress effect.</span></p>
 
 <p><span class="chinese">为什么您的选择也是风湿科？</span><span class="english">Are you familiar with Rheumatism and Immunological Disease Forum ?</span></p>

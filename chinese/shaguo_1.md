@@ -1,5 +1,7 @@
 # 砂锅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaguo_1.md)
+
 <p><span class="chinese">来份鲔鱼砂锅饭。</span><span class="english">The tuna casserole, please.</span></p>
 
 <p><span class="chinese">我在煮晚餐要吃的砂锅。</span><span class="english">I'm making casserole for dinner tonight.</span></p>

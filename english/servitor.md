@@ -1,5 +1,7 @@
 # servitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/servitor.md)
+
 <p><span class="chinese">给我一杯高度黑麦威士忌。</span><span class="english">"Gimme a rye-high, " he said to the servitor.</span></p>
 
 <p><span class="chinese">仆人说，这一点岂可摆给一百人吃呢。</span><span class="english">And his servitor said, What, should I set this before an hundred men?</span></p>

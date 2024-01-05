@@ -1,5 +1,7 @@
 # artefact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artefact.md)
+
 <p><span class="chinese">难道这就是科学应该是由西方起源的原因吗？</span><span class="english">So is this why science is considered to be a western artefact?</span></p>
 
 <p><span class="chinese">但是，宗教的出现，乃是作为创造虚构世界的那种能力的一个人工产物。</span><span class="english">But it arises as an artefact of the ability to build fictive worlds.</span></p>

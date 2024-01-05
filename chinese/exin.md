@@ -1,5 +1,7 @@
 # 恶心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/exin.md)
+
 <p><span class="chinese">令我恶心。</span><span class="english">sickened me.</span></p>
 
 <p><span class="chinese">你感到恶心?</span><span class="english">You got sick?</span></p>

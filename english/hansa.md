@@ -1,5 +1,7 @@
 # hansa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hansa.md)
+
 <p><span class="chinese">距离汉莎下一班飞苏黎世的航班还有两个小时。</span><span class="english">There was still two hours left before next flight from Hansa to Zurich.</span></p>
 
 <p><span class="chinese">然而他的回答有点出乎意料，他职业生涯的下一站将是罗斯托克俱乐部，他将第二次披上此队的战袍。</span><span class="english">The answer to that question is however, his former club Hansa Rostock, who play in the second division.</span></p>

@@ -1,5 +1,7 @@
 # pleural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleural.md)
+
 <p><span class="chinese">也可能出现胸膜腔渗液。</span><span class="english">Pleural effusions may also be present.</span></p>
 
 <p><span class="chinese">肺间质增厚和胸腔积液。</span><span class="english">Pleural effusion and lobular interstitium thickness.</span></p>

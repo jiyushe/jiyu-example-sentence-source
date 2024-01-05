@@ -1,5 +1,7 @@
 # mainly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mainly.md)
+
 <p><span class="chinese">好，有两个理由。</span><span class="english">Well for two reas mainly.</span></p>
 
 <p><span class="chinese">你主要是干什莫用？</span><span class="english">What do you are mainly stem?</span></p>

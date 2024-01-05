@@ -1,5 +1,7 @@
 # chekiang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chekiang.md)
+
 <p><span class="chinese">浙江大学图书馆有各种各样的图书。</span><span class="english">Chekiang university library has a wide variety of books.</span></p>
 
 <p><span class="chinese">根据白崇禧说，这个体系已经在浙江执行。</span><span class="english">According to Pai, this system had already been implemented in Chekiang.</span></p>

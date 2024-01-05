@@ -1,5 +1,7 @@
 # 入市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushi_4.md)
+
 <p><span class="chinese">谁可以接盘呢？投资者已经不再入市了。</span><span class="english">Who are the buyers? Investors aren't any more.</span></p>
 
 <p><span class="chinese">止损点放在自我们入市交易后的最高收盘价减去2.5ATR处。</span><span class="english">Exit at the highest close since entry minus 2.5 ATR on a stop.</span></p>

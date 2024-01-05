@@ -1,5 +1,7 @@
 # lorelei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lorelei.md)
+
 <p><span class="chinese">请转告芮莱·伯尔，说我想念她。</span><span class="english">Tell Lorelei Burr I miss her.</span></p>
 
 <p><span class="chinese">也许，在罗雷莱没有人签租约。</span><span class="english">Perhaps nobody signed leases at the Lorelei.</span></p>

@@ -1,5 +1,7 @@
 # walleye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/walleye.md)
+
 <p><span class="chinese">暂停捕捞，散放了鼓眼鱼的鱼苗。</span><span class="english">Fishing was suspended. Walleye fry were stocked.</span></p>
 
 <p><span class="chinese">这儿既没有视频游戏，也没有Wii家用游戏中虚拟的斜视眼睛。</span><span class="english">This was no video game, no virtual walleye of Wii.</span></p>

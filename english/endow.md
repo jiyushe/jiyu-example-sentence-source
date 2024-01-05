@@ -1,5 +1,7 @@
 # endow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endow.md)
+
 <p><span class="chinese">上帝以此来回收祂施给人类的光阴。</span><span class="english">God uses this to recycle the time he endow onto mankind.</span></p>
 
 <p><span class="chinese">这让他的日常经历富有浪漫色彩。</span><span class="english">It can endow his daily experience with a kind of romance.</span></p>

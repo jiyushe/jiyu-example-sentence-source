@@ -1,5 +1,7 @@
 # 艳羡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxian_2.md)
+
 <p><span class="chinese">男人希望获得别人的信任和艳羡。</span><span class="english">Men want to be trusted and admired.</span></p>
 
 <p><span class="chinese">知道自己是最好的，又何需再去艳羡别人！</span><span class="english">When you know you are great, you have no need to hate!</span></p>

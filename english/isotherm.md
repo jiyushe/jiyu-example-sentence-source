@@ -1,5 +1,7 @@
 # isotherm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isotherm.md)
+
 <p><span class="chinese">等温线的方程了。</span><span class="english">That's the isotherm here.</span></p>
 
 <p><span class="chinese">假设的等温线模式可以在北极周围观测到。</span><span class="english">The hypothetical isotherm pattern can be observed around the arctic region.</span></p>

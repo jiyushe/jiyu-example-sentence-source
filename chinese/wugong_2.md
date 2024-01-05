@@ -1,5 +1,7 @@
 # 武功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugong_2.md)
+
 <p><span class="chinese">本人武功这辈子的错误，但我仍然爱你！</span><span class="english">I gest mistake in this life, but I still love you!</span></p>
 
 <p><span class="chinese">如果一个武功大师没文化，他就是一个野蛮人。</span><span class="english">If a martial artist lacks culture, he is a savage.</span></p>

@@ -1,5 +1,7 @@
 # chitin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chitin.md)
+
 <p><span class="chinese">甲壳素生产从螃蟹和虾炮弹。</span><span class="english">Chitin Produced from crab &shrimp shells.</span></p>
 
 <p><span class="chinese">甲壳质是一种丰富的天然资源。</span><span class="english">Chitin is a kind of rich natural resources.</span></p>

@@ -1,5 +1,7 @@
 # 凉快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangkuai.md)
+
 <p><span class="chinese">但我现在是凉快的。</span><span class="english">But I'm cool now.</span></p>
 
 <p><span class="chinese">在热热的房间里，我喜欢凉快一点。</span><span class="english">I prefer this to a hot room.</span></p>

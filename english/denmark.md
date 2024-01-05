@@ -1,5 +1,7 @@
 # denmark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denmark.md)
+
 <p><span class="chinese">维堡，位于丹麦，是一座拥有悠久历史的老城镇。</span><span class="english">Viborg is a city in Denmark.</span></p>
 
 <p><span class="chinese">你是丹麦队的支持者吗？</span><span class="english">Are you supporters of Denmark?</span></p>

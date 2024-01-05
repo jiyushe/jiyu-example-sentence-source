@@ -1,5 +1,7 @@
 # 恩情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enqing.md)
+
 <p><span class="chinese">爱到最后，都是恩情。</span><span class="english">Love in the end, is kindness.</span></p>
 
 <p><span class="chinese">我怎么才能报答你的恩情呢？</span><span class="english">How can I reward your kindness?</span></p>

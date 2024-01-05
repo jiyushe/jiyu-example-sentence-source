@@ -1,5 +1,7 @@
 # unperturbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unperturbed.md)
+
 <p><span class="chinese">我四十不动心。</span><span class="english">At forty, I attained to an unperturbed mind.</span></p>
 
 <p><span class="chinese">好脾气的人会泰然自若。</span><span class="english">The good-tempered man tends to be unperturbed.</span></p>

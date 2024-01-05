@@ -1,5 +1,7 @@
 # drifting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drifting.md)
+
 <p><span class="chinese">流沙磨损岩石。</span><span class="english">Drifting sand abrades rocks.</span></p>
 
 <p><span class="chinese">我为了似水流年而流泪。</span><span class="english">I weep for the drifting years.</span></p>

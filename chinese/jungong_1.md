@@ -1,5 +1,7 @@
 # 竣工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jungong_1.md)
+
 <p><span class="chinese">这座建筑物提前竣工了。</span><span class="english">This building was finished ahead of time.</span></p>
 
 <p><span class="chinese">这座桥梁拟于半年内竣工。</span><span class="english">The bridge is to be completed in half a year.</span></p>

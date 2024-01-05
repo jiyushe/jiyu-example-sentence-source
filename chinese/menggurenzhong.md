@@ -1,5 +1,7 @@
 # 蒙古人种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menggurenzhong.md)
+
 <p><span class="chinese">属蒙古人种美洲支系。</span><span class="english">Mongolian race of American branch.</span></p>
 
 <p><span class="chinese">严格意义上的日本人属于蒙古人种。</span><span class="english">The Japanese proper are of the Mongolian race.</span></p>

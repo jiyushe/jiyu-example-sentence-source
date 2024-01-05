@@ -1,5 +1,7 @@
 # 三晋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjin.md)
+
 <p><span class="chinese">竭诚为三晋患者服务。</span><span class="english">Shanxi services for patients with dedication.</span></p>
 
 <p><span class="chinese">三晋锐角布中的涅金布当是韩国铸造的法定流通货币。</span><span class="english">The spade coins shaped acute angle of Three Jin states should be the legal currency made by Han state.</span></p>

@@ -1,5 +1,7 @@
 # 邪恶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiee.md)
+
 <p><span class="chinese">他邪恶地对我说。</span><span class="english">He said evilly.</span></p>
 
 <p><span class="chinese">定会以邪恶相报。</span><span class="english">Do evil in return.</span></p>

@@ -1,5 +1,7 @@
 # 为止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizhi.md)
+
 <p><span class="chinese">到现在为止都跟得上？</span><span class="english">So far, so good?</span></p>
 
 <p><span class="chinese">直到猪会飞为止。</span><span class="english">Till pigs can fly.</span></p>

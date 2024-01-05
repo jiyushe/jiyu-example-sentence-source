@@ -1,5 +1,7 @@
 # 粉饰太平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshitaiping.md)
+
 <p><span class="chinese">不用粉饰太平。</span><span class="english">No need to sugarcoat the peace.</span></p>
 
 <p><span class="chinese">他们不希望得到那些糖衣包裹的或粉饰太平的信息。</span><span class="english">They don’t want it sugarcoated or whitewashed.</span></p>

@@ -1,5 +1,7 @@
 # ea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ea.md)
+
 <p><span class="chinese">那一定是一个便衣警察。</span><span class="english">Ca that really ea lain-policeman.</span></p>
 
 <p><span class="chinese">就在巴亚海湾的一个浮石岛边。</span><span class="english">Beside ea pumice isle in Baiae5s bay.</span></p>

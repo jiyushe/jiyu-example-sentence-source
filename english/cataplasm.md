@@ -1,5 +1,7 @@
 # cataplasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cataplasm.md)
+
 <p><span class="chinese">目的建立那如-3巴布剂的质量标准。</span><span class="english">Objective To establish the quality standard of Naru-3 Cataplasm.</span></p>
 
 <p><span class="chinese">结论采用此最佳基质配比可制备质量较佳的巴布剂基质。</span><span class="english">Conclusion with this optimum proportion of matrix better quality cataplasm can be prepared.</span></p>

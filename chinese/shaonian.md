@@ -1,5 +1,7 @@
 # 少年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaonian.md)
+
 <p><span class="chinese">当你还是少年时？</span><span class="english">When you were teen?</span></p>
 
 <p><span class="chinese">赌上你的70级之路吧，少年！</span><span class="english">Gamble your way to 70!</span></p>

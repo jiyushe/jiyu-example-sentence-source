@@ -1,5 +1,7 @@
 # pediment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pediment.md)
+
 <p><span class="chinese">山形墙上的精美浮雕。</span><span class="english">Beautiful reliefs on the pediment.</span></p>
 
 <p><span class="chinese">另一家公司是山花我遵循黄金。</span><span class="english">Another company I follow is Pediment Gold.</span></p>

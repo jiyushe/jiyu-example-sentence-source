@@ -1,5 +1,7 @@
 # 下位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiawei.md)
+
 <p><span class="chinese">子房半下位，有毛，花柱2。</span><span class="english">Ovary semi-inferior, hairy , styles 2.</span></p>
 
 <p><span class="chinese">子房下位，瓶形，4室，具腺。</span><span class="english">Ovary inferior, urceolate, 4-celled, glandular.</span></p>

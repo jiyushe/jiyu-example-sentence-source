@@ -1,5 +1,7 @@
 # 公审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshen.md)
+
 <p><span class="chinese">为何他同意这一滑稽的摆摆样子的家族公审呢？</span><span class="english">Criminal. Why had he agreed to this ludicrous show trial?</span></p>
 
 <p><span class="chinese">除了她的情人以外,谁都没有看到,因为所有的眼睛都盯着公审场上的他。</span><span class="english">No one but her lover saw it. Every eye but his was fixed on the man in the arena.</span></p>

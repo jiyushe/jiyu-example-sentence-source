@@ -1,5 +1,7 @@
 # luge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luge.md)
+
 <p><span class="chinese">但这里最吸引人的，其实是两条水泥地的旱地无舵雪橇赛道，一条专业级，一条初学者用。</span><span class="english">But the main attraction is two concrete luge tracks, one for beginners.</span></p>
 
 <p><span class="chinese">小型撬运动员把他们的背靠在雪橇上通过冰刀来滑行比赛。</span><span class="english">Luge athletes race by lying on their backs on sleds with steel runners.</span></p>

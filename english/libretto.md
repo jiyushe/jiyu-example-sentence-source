@@ -1,5 +1,7 @@
 # libretto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libretto.md)
+
 <p><span class="chinese">在歌词中，Schwartz先生很完整地展现了整个故事。</span><span class="english">In his libretto Mr. Schwartz tells the story well.</span></p>
 
 <p><span class="chinese">唱词清楚，曲调动听，成为有名的民歌手。</span><span class="english">Libretto clear melody sounds, become a famous folk singer.</span></p>

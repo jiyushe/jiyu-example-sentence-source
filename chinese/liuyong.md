@@ -1,5 +1,7 @@
 # 留用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuyong.md)
+
 <p><span class="chinese">他庸碌无能，不值得留用。</span><span class="english">He's incompetent and not worth keeping on.</span></p>
 
 <p><span class="chinese">我处境使我无法留用他。</span><span class="english">I am so circumstanced that I cannot keep him.</span></p>

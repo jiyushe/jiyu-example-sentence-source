@@ -1,5 +1,7 @@
 # detrimental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detrimental.md)
+
 <p><span class="chinese">是否有什么不利长期后果？</span><span class="english">Were there any detrimental long term effects?</span></p>
 
 <p><span class="chinese">缺乏睡眠是有害于健康的。</span><span class="english">Lack of sleep is detrimental to one 's health.</span></p>

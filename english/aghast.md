@@ -1,5 +1,7 @@
 # aghast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aghast.md)
+
 <p><span class="chinese">听到这里，我真是目瞪口呆。</span><span class="english">When I heard that, I was aghast.</span></p>
 
 <p><span class="chinese">吓呆了的孩子说不出一句话。</span><span class="english">The child aghast can't say a word.</span></p>

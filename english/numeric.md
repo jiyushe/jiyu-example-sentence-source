@@ -1,5 +1,7 @@
 # numeric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numeric.md)
+
 <p><span class="chinese">用數字键输入传真号码。</span><span class="english">Enter a fax number using the numeric keypad.</span></p>
 
 <p><span class="chinese">它同时支持数字和符号名称。</span><span class="english">It supports both numeric and symbolic names.</span></p>

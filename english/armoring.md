@@ -1,5 +1,7 @@
 # armoring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armoring.md)
+
 <p><span class="chinese">河床表面具有明显的粗化层。</span><span class="english">Obviously armoring layer existed in the surface of the river bed.</span></p>
 
 <p><span class="chinese">为其在装甲车辆上的应用做出了理论准备。</span><span class="english">The theory is prepared for the application on the armoring vehicle.</span></p>

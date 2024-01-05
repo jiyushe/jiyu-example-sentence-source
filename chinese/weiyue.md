@@ -1,5 +1,7 @@
 # 违约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyue.md)
+
 <p><span class="chinese">它会违约。</span><span class="english">It defaults.</span></p>
 
 <p><span class="chinese">如何厘定违约日期?。</span><span class="english">How to determine the default date?</span></p>

@@ -1,5 +1,7 @@
 # 却说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queshuo.md)
+
 <p><span class="chinese">我却说，我消瘦了！</span><span class="english">But I say, Leanness to me!</span></p>
 
 <p><span class="chinese">你想帮他个忙，他却说，他不喜欢求人。</span><span class="english">I hate asking favors of people.</span></p>

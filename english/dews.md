@@ -1,5 +1,7 @@
 # dews
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dews.md)
+
 <p><span class="chinese">那露珠亲吻花朵。</span><span class="english">The dews kiss the flower.</span></p>
 
 <p><span class="chinese">晨露在阳光下闪烁。</span><span class="english">Morning dews glitter in the sun.</span></p>

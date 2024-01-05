@@ -1,5 +1,7 @@
 # polyphony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyphony.md)
+
 <p><span class="chinese">我们称这个复音</span><span class="english">This we call polyphony.</span></p>
 
 <p><span class="chinese">在复调音乐中与右手一样重要。</span><span class="english">Polyphony is as important as the right hand.</span></p>

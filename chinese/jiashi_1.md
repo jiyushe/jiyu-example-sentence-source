@@ -1,5 +1,7 @@
 # 假释
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashi_1.md)
+
 <p><span class="chinese">他们让你假释了？</span><span class="english">So they paroled you?</span></p>
 
 <p><span class="chinese">你的假释官是谁？</span><span class="english">Who's your parole officer?</span></p>

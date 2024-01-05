@@ -1,5 +1,7 @@
 # accelerative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accelerative.md)
+
 <p><span class="chinese">中国目前已经进入全面加速转型期。</span><span class="english">China has been entering an overall accelerative transformation period by now.</span></p>
 
 <p><span class="chinese">结果表明，富锌相的存在使得合金溶解加速，溶解较为均匀。</span><span class="english">The result shows zinc enrichment phase makes alloy dissolve accelerative and uniformly.</span></p>

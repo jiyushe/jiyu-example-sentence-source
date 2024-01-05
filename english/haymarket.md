@@ -1,5 +1,7 @@
 # haymarket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haymarket.md)
+
 <p><span class="chinese">劳工罢工和抗议最严重的事件发生芝加哥的干草市场广场。</span><span class="english">The most serious incident took place in Chicago's Haymarket Square.</span></p>
 
 <p><span class="chinese">的干草市场事件是地球源周围愤怒的市民。</span><span class="english">The Haymarket incident was a source of outrage from people around the globe.</span></p>

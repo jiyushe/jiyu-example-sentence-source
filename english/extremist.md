@@ -1,5 +1,7 @@
 # extremist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extremist.md)
+
 <p><span class="chinese">柏拉图确实是很极端。</span><span class="english">Plato, of course, is an extremist.</span></p>
 
 <p><span class="chinese">那个行刺者被认为是个极端主义分子。</span><span class="english">The assassin was adjudged an extremist.</span></p>

@@ -1,5 +1,7 @@
 # neuralgic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuralgic.md)
+
 <p><span class="chinese">属于或关于神经痛的，或患有神经痛的。</span><span class="english">Neuralgic pain in a joint or joints.</span></p>
 
 <p><span class="chinese">内存神经痛该怎么治疗？</span><span class="english">Is memory neuralgic how should treat?</span></p>

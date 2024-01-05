@@ -1,5 +1,7 @@
 # 炮塔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paota.md)
+
 <p><span class="chinese">一座激光炮塔瞄准了博加。</span><span class="english">A laser turret targeted Boga.</span></p>
 
 <p><span class="chinese">安装在汽车上的T-26坦克炮塔。</span><span class="english">T-26 tank turret is mounted on the car.</span></p>

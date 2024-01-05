@@ -1,5 +1,7 @@
 # 一马当先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimadangxian.md)
+
 <p><span class="chinese">这个家伙总是一马当先。</span><span class="english">The dude always raced from the front.</span></p>
 
 <p><span class="chinese">内伊拔出了他的剑，一马当先。</span><span class="english">Ney drew his sword and placed himself at their head.</span></p>

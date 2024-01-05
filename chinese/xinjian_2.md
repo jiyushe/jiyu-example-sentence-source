@@ -1,5 +1,7 @@
 # 心尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjian_2.md)
+
 <p><span class="chinese">请把我再次留驻在你心尖。</span><span class="english">Keep me in Ur heart again.</span></p>
 
 <p><span class="chinese">淡淡的香气，荡漾在心尖之上。</span><span class="english">Faint aroma, rippling over the apex.</span></p>

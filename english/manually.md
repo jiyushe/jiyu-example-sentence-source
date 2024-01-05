@@ -1,5 +1,7 @@
 # manually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manually.md)
+
 <p><span class="chinese">但您必须人工执行这些输入。</span><span class="english">But you have to type this manually.</span></p>
 
 <p><span class="chinese">玩家现在可以手动修改快捷键。</span><span class="english">Players may now manually rebind keys.</span></p>

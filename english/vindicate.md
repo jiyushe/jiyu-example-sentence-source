@@ -1,5 +1,7 @@
 # vindicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vindicate.md)
+
 <p><span class="chinese">我下定决心，要用我的行动证明他们的判断是正确的。</span><span class="english">I was determined to vindicate their judgment.</span></p>
 
 <p><span class="chinese">你将如何向你家人解释你的失败？</span><span class="english">How would you vindicate your failure to your family?</span></p>

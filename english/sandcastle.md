@@ -1,5 +1,7 @@
 # sandcastle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandcastle.md)
+
 <p><span class="chinese">这样一个沙城堡就建成了。</span><span class="english">A sandcastle will be built.</span></p>
 
 <p><span class="chinese">他们正在画一座沙雕城堡。</span><span class="english">They are painting a sandcastle.</span></p>

@@ -1,5 +1,7 @@
 # foundry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foundry.md)
+
 <p><span class="chinese">这个铸工厂熔铸铁。</span><span class="english">The foundry smelts iron.</span></p>
 
 <p><span class="chinese">这个铸造车间一天出八炉。</span><span class="english">The foundry runs eight heats a day.</span></p>

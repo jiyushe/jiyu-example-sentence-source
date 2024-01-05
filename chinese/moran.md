@@ -1,5 +1,7 @@
 # 蓦然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moran.md)
+
 <p><span class="chinese">我蓦然地想起过去的生活。</span><span class="english">He meditates on his past life.</span></p>
 
 <p><span class="chinese">蓦然回首，那一句“大姐”在哪里？</span><span class="english">Suddenly look back, that a "big sister" where?</span></p>

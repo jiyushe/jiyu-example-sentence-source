@@ -1,5 +1,7 @@
 # oasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oasis.md)
+
 <p><span class="chinese">突然，一片绿洲呈现在我们面前。</span><span class="english">Suddenly, an oasis started up before us.</span></p>
 
 <p><span class="chinese">“诱惑号”和“绿洲号”很多方面是相同的。</span><span class="english">Allure and Oasis are identical in many ways.</span></p>

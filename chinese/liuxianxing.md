@@ -1,5 +1,7 @@
 # 流线型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuxianxing.md)
+
 <p><span class="chinese">计划设计还是流线型的。</span><span class="english">Schema design is also streamlined.</span></p>
 
 <p><span class="chinese">流线型的曲线，可以先粗绘出来。</span><span class="english">Fluid bezier curves start out roughly.</span></p>

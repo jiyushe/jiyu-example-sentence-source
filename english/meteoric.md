@@ -1,5 +1,7 @@
 # meteoric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meteoric.md)
+
 <p><span class="chinese">大气降水淋滤-渗滤模式。</span><span class="english">Meteoric water leaching-percolation REE model.</span></p>
 
 <p><span class="chinese">对流热液主要来源于大气降水。</span><span class="english">The convecting fluid come mainly from meteoric water.</span></p>

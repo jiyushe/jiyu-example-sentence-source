@@ -1,5 +1,7 @@
 # 修建
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiujian_1.md)
+
 <p><span class="chinese">筑巢修建或占有一个巢…</span><span class="english">To build or occupy a nest.</span></p>
 
 <p><span class="chinese">就这样，长城的修建开始了。</span><span class="english">So the Great Wall was begun.</span></p>

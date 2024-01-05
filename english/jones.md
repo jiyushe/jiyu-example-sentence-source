@@ -1,5 +1,7 @@
 # jones
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jones.md)
+
 <p><span class="chinese">克洛琳琼斯。</span><span class="english">Coraline Jones.</span></p>
 
 <p><span class="chinese">喂！我是汤姆·琼斯。</span><span class="english">Yes! Tom Jones.</span></p>

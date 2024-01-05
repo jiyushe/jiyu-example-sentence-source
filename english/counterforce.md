@@ -1,5 +1,7 @@
 # counterforce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterforce.md)
+
 <p><span class="chinese">有限战争并不一定非采用进攻军事力量的战略不可。</span><span class="english">Limited war need not always employ a counterforce strategy.</span></p>
 
 <p><span class="chinese">只有一种反作用力，那就是你，山姆大叔。</span><span class="english">Only one counterforce was available, and that was you, Uncle Sam.</span></p>

@@ -1,5 +1,7 @@
 # 无耻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuchi.md)
+
 <p><span class="chinese">无耻也就是可耻。</span><span class="english">Effrontery is a disgrace.</span></p>
 
 <p><span class="chinese">你这个无耻小友！</span><span class="english">You cheeky little fellow!</span></p>

@@ -1,5 +1,7 @@
 # pickaxe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pickaxe.md)
+
 <p><span class="chinese">他用鹤嘴锄掘坚硬的土地。</span><span class="english">He pecked at the hard ground with a pickaxe.</span></p>
 
 <p><span class="chinese">他用鹤嘴锄掘坚硬的土地。</span><span class="english">Bob pecked at the hard ground with a pickaxe.</span></p>

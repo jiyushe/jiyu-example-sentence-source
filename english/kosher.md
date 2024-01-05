@@ -1,5 +1,7 @@
 # kosher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kosher.md)
+
 <p><span class="chinese">她甚至可以不只吃犹太食品。</span><span class="english">She could even eat food that wasn’t kosher.</span></p>
 
 <p><span class="chinese">这是犹太龙泡芙最喜欢的犹太传统食品。</span><span class="english">It's Puff the Jewish Dragon's favorite kosher dish.</span></p>

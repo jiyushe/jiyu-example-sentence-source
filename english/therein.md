@@ -1,5 +1,7 @@
 # therein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/therein.md)
+
 <p><span class="chinese">他们却说，我们不行在其间。</span><span class="english">But they said, We will not walk therein.</span></p>
 
 <p><span class="chinese">西西弗斯无声的全部快乐就在于此。</span><span class="english">All Sisyphus ' silent joy is contained therein.</span></p>

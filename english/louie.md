@@ -1,5 +1,7 @@
 # louie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/louie.md)
+
 <p><span class="chinese">可怜的辉儿、杜儿和路几。</span><span class="english">Poor Huey, Dewey and Louie.</span></p>
 
 <p><span class="chinese">辉儿、杜儿和路儿是谁？</span><span class="english">Who are Huey, Dewey and Louie?</span></p>

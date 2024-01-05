@@ -1,5 +1,7 @@
 # quiche
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quiche.md)
+
 <p><span class="chinese">想来这块斑斑点点白乎乎的东西是洛林糕?。</span><span class="english">That blobby, white thing is supposedly quiche lorraine?</span></p>
 
 <p><span class="chinese">乳蛋饼盘内刷上黄油，并撒满面包屑。</span><span class="english">Butter quiche dish, then sprinkle all over with bread crumbs.</span></p>

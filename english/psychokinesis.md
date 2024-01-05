@@ -1,5 +1,7 @@
 # psychokinesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychokinesis.md)
+
 <p><span class="chinese">怎样才能提高自己的意志力?。</span><span class="english">How can ability raise his psychokinesis?</span></p>
 
 <p><span class="chinese">人要怎么提高自己的意志力？</span><span class="english">How should the person raise his psychokinesis?</span></p>

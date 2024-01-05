@@ -1,5 +1,7 @@
 # comfortless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comfortless.md)
+
 <p><span class="chinese">她坐在大椅子上感觉很不舒服。</span><span class="english">She felt comfortless in the big chair.</span></p>
 
 <p><span class="chinese">他们给我们带来的消息没有安慰我们。</span><span class="english">They brought comfortless news to all of us.</span></p>

@@ -1,5 +1,7 @@
 # embryonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embryonal.md)
+
 <p><span class="chinese">睾丸胚胎癌，上方是正常的睾丸的边缘。</span><span class="english">Here is an embryonal carcinoma of the testis.</span></p>
 
 <p><span class="chinese">这是混有畸胎瘤的胚胎癌。</span><span class="english">This is embryonal carcinoma mixed with teratoma.</span></p>

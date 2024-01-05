@@ -1,5 +1,7 @@
 # signaling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signaling.md)
+
 <p><span class="chinese">她奋力挥臂发信号。</span><span class="english">She was signaling wildly, waving her arms.</span></p>
 
 <p><span class="chinese">我看到岸边有人在打求救信号。</span><span class="english">I saw a person signaling for help by the shore.</span></p>

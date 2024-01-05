@@ -1,5 +1,7 @@
 # quark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quark.md)
+
 <p><span class="chinese">是夸克和反夸克。</span><span class="english">It's quark and antiquark.</span></p>
 
 <p><span class="chinese">震撼者投放夸克炸弹。</span><span class="english">Shockers drop a single Quark Bomb.</span></p>

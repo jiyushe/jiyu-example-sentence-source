@@ -1,5 +1,7 @@
 # 运输机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunshuji.md)
+
 <p><span class="chinese">一架军用运输机报道了此次撞击。</span><span class="english">A military transport plane reported the crash.</span></p>
 
 <p><span class="chinese">“大力神”运输机中被部署到战区。</span><span class="english">Watchkeeper being loaded on a C-130 transport aircraft.</span></p>

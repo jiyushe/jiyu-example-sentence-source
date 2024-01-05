@@ -1,5 +1,7 @@
 # keloid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keloid.md)
+
 <p><span class="chinese">用ABC法免疫组化检测瘢痕疙瘩中新合成的胶原。</span><span class="english">New formed collagen in keloid was localized with ABC immunohistochemical staining.</span></p>
 
 <p><span class="chinese">结论P53蛋白能够抑制人瘢痕疙瘩成纤维细胞MMP1、MMP3蛋白的表达。</span><span class="english">Conclusion P53 can obviously inhibit MMP1 and MMP3 expression in human keloid fibroblasts.</span></p>

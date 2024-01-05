@@ -1,5 +1,7 @@
 # pang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pang.md)
+
 <p><span class="chinese">我感觉心头一痛，继续往前走。</span><span class="english">I felt a pang and moved on.</span></p>
 
 <p><span class="chinese">一阵恐惧猛地袭上了我的心头。</span><span class="english">A pang of fear shot through my heart.</span></p>

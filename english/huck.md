@@ -1,5 +1,7 @@
 # huck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huck.md)
+
 <p><span class="chinese">而乔和哈克都还睡得正香。</span><span class="english">Joe and Huck still slept.</span></p>
 
 <p><span class="chinese">你一准喜欢这儿，对不对，哈克？</span><span class="english">You like it here, don't you, Huck?</span></p>

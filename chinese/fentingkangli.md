@@ -1,5 +1,7 @@
 # 分庭抗礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fentingkangli.md)
+
 <p><span class="chinese">雅科仕将尝试与奔驰S级和雷克萨斯LS分庭抗礼。</span><span class="english">The Equus will try to go up against the Mercedes S-class and the Lexus LS.</span></p>
 
 <p><span class="chinese">该邦国当时正处于母系社会时代，并可与周天子分庭抗礼。</span><span class="english">The country was in matriarchal society at that time and had the power to oppose Zhou Dynasty.</span></p>

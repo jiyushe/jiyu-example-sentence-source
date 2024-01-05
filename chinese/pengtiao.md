@@ -1,5 +1,7 @@
 # 烹调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengtiao.md)
+
 <p><span class="chinese">我的烹调技术甚差。</span><span class="english">I'm inexpert at cooking.</span></p>
 
 <p><span class="chinese">干燥箱，煮水器，烹调器。</span><span class="english">Dry box, heater and cooker.</span></p>

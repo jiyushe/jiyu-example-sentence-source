@@ -1,5 +1,7 @@
 # cleanout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleanout.md)
+
 <p><span class="chinese">这使其更容易检查，清洗和更换皮带。</span><span class="english">This allows easier inspection, cleanout and belt replacement.</span></p>
 
 <p><span class="chinese">对于500至1000加仑的热水器，人工清洗孔应该是标准配置。</span><span class="english">Man hole cleanout shall be standard on 500 through 1000 gallon models.</span></p>

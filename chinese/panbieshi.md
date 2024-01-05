@@ -1,5 +1,7 @@
 # 判别式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panbieshi.md)
+
 <p><span class="chinese">提出旋转效应判别式。</span><span class="english">The criterion of rotating effect is suggested.</span></p>
 
 <p><span class="chinese">人们可以证明分子的判别式为正。</span><span class="english">One can show that the discriminant of the numerator is positive.</span></p>

@@ -1,5 +1,7 @@
 # bengal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bengal.md)
+
 <p><span class="chinese">我怀着极大的好奇心，想去看孟加拉的乡村。</span><span class="english">I had a great curiosity to see a Bengal village.</span></p>
 
 <p><span class="chinese">印度和太平洋不搭界啊。</span><span class="english">India borders the Bay of Bengal and Indian Ocean.</span></p>

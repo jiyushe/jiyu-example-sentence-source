@@ -1,5 +1,7 @@
 # silent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silent.md)
+
 <p><span class="chinese">但是他沉默无语。</span><span class="english">But He is silent.</span></p>
 
 <p><span class="chinese">安东尼奥一声不吭。</span><span class="english">Antonio was silent.</span></p>

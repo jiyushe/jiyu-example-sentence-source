@@ -1,5 +1,7 @@
 # falconry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falconry.md)
+
 <p><span class="chinese">鹰猎在我国有悠久的历史。</span><span class="english">Falconry has a long history in China.</span></p>
 
 <p><span class="chinese">这是一种名贵的玫瑰。</span><span class="english">A female of this species, used in falconry.</span></p>

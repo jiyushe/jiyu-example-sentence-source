@@ -1,5 +1,7 @@
 # 天渊之别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianyuanzhibie.md)
+
 <p><span class="chinese">同现在相比，真是天渊之别。</span><span class="english">But now how different everything was!</span></p>
 
 <p><span class="chinese">之前所想像的和实际情况有天渊之别。</span><span class="english">What I thought previously is totally different from what reality presents.</span></p>

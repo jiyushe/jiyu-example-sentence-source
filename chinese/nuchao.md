@@ -1,5 +1,7 @@
 # 怒潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuchao.md)
+
 <p><span class="chinese">革命怒潮汹涌澎湃。</span><span class="english">The raging tide of revolution surges forward.</span></p>
 
 <p><span class="chinese">强烈的怒潮席卷美国公众。</span><span class="english">A hot wave of anger swept over the American public.</span></p>

@@ -1,5 +1,7 @@
 # 枯叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuye.md)
+
 <p><span class="chinese">他们用凋萎的枯叶编制它们的船只</span><span class="english">With withered leaves they weave</span></p>
 
 <p><span class="chinese">一片枯叶飘落到苏比的膝头。</span><span class="english">A dead leaf fell in Soapy's lap.</span></p>

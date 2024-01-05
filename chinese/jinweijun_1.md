@@ -1,5 +1,7 @@
 # 近卫军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinweijun_1.md)
+
 <p><span class="chinese">近卫军火枪手能持续射击了。</span><span class="english">Janissary Musketeers now fire consistently.</span></p>
 
 <p><span class="chinese">因此，声讨声接踵而至，让“青年近卫军”和该政党都陷入了窘境。</span><span class="english">Outrage ensued, much to the embarrassment of both the Young Guard and the party.</span></p>

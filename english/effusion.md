@@ -1,5 +1,7 @@
 # effusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effusion.md)
+
 <p><span class="chinese">双边地的最小膝流出物。</span><span class="english">Minimal knee effusion bilaterally.</span></p>
 
 <p><span class="chinese">腹水为渗出液，可见嗜酸细胞。</span><span class="english">The ascites were effusion with eosinophilia.</span></p>

@@ -1,5 +1,7 @@
 # lathing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lathing.md)
+
 <p><span class="chinese">而数控程序的优与劣是直接导致数控车削质量的关键因素。</span><span class="english">But the quality of CNC lathing mainly depends on the CNC program.</span></p>
 
 <p><span class="chinese">五金制品厂是一家民营企业，专业生产五金车件。</span><span class="english">Guanming Hardware Facty is a private company mainly engaged in metal lathing parts.</span></p>

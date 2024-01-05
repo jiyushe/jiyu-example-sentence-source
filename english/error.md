@@ -1,5 +1,7 @@
 # error
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/error.md)
+
 <p><span class="chinese">你会获得一个错误。</span><span class="english">You get an error.</span></p>
 
 <p><span class="chinese">还有另一个错误。</span><span class="english">Yet another error.</span></p>

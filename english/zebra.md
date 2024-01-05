@@ -1,5 +1,7 @@
 # zebra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zebra.md)
+
 <p><span class="chinese">狮子追猎斑马。</span><span class="english">Lions hunt zebra.</span></p>
 
 <p><span class="chinese">斑马疾驰飞奔远离狮子。</span><span class="english">The zebra galloped away from the lion.</span></p>

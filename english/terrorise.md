@@ -1,5 +1,7 @@
 # terrorise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrorise.md)
+
 <p><span class="chinese">在此之前，邪恶轴心继续地吓唬着我们。</span><span class="english">Until then, the axis of evil continues to terrorise us.</span></p>
 
 <p><span class="chinese">市场本该就是自由的，不能凭借块头大就去恐吓小国！</span><span class="english">Market was suppose to be free not a way to terrorise smaller countries by bigger!</span></p>

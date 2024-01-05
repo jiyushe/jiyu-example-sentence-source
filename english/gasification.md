@@ -1,5 +1,7 @@
 # gasification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gasification.md)
+
 <p><span class="chinese">气化是相当复杂的热化学过程。</span><span class="english">Gasification is quite complex thermochemical process.</span></p>
 
 <p><span class="chinese">煤气化是目前煤化工的主要路径。</span><span class="english">Coal gasification is the chemical industry's main path.</span></p>

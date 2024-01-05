@@ -1,5 +1,7 @@
 # gyrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gyrate.md)
+
 <p><span class="chinese">这个动作会让他旋转起来，失去控制。</span><span class="english">The motion would make him gyrate out of control.</span></p>
 
 <p><span class="chinese">你今天可以瞥见一些端倪，如全世界的股市跳水。</span><span class="english">You can see the beginnings of this today as stock markets around the world gyrate.</span></p>

@@ -1,5 +1,7 @@
 # subclinical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subclinical.md)
+
 <p><span class="chinese">亚临床症状也有可能有益处，他补充说。</span><span class="english">Subclinical traits may have benefits as well, he adds.</span></p>
 
 <p><span class="chinese">但是，当你这样做的话，你错过了那些早期或亚临床柯兴。</span><span class="english">But when you do that, you miss those with early or subclinical Cushing.</span></p>

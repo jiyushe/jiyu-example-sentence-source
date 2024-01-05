@@ -1,5 +1,7 @@
 # 鲜味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianwei_4.md)
+
 <p><span class="chinese">加入1茶匙鱼露来提升鲜味的效果。</span><span class="english">Add 1 tsp of fish sauce for umami or fifth-taste effect.</span></p>
 
 <p><span class="chinese">鲜味经常被用来作为风味增强剂，在东方和西方文化。</span><span class="english">Umami has frequently been used as a flavor enhancer, in both Eastern and Western cultures.</span></p>

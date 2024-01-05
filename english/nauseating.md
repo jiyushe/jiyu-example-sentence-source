@@ -1,5 +1,7 @@
 # nauseating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nauseating.md)
+
 <p><span class="chinese">我不由地想起那幅令人作呕的画来。</span><span class="english">I am reminded of that nauseating picture.</span></p>
 
 <p><span class="chinese">有一股令人恶心的腐烂食物的气味。</span><span class="english">There is a nauseating smell of rotten food.</span></p>

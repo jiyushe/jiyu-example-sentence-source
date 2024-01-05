@@ -1,5 +1,7 @@
 # 纵火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonghuo.md)
+
 <p><span class="chinese">他纵火烧了自己的房子。</span><span class="english">Of or involving arson.</span></p>
 
 <p><span class="chinese">他纵火烧了那栋建筑。</span><span class="english">He set the building on fire.</span></p>

@@ -1,5 +1,7 @@
 # 笔录
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bilu_1.md)
+
 <p><span class="chinese">请看一下询问笔录。</span><span class="english">Please read this record of inquiry.</span></p>
 
 <p><span class="chinese">记者看到张某的询问笔录。</span><span class="english">Reporter reads Zhang the inquiry record.</span></p>

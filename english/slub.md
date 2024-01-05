@@ -1,5 +1,7 @@
 # slub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slub.md)
+
 <p><span class="chinese">探讨纯棉赛络纺竹节纱生产工艺。</span><span class="english">Production processing of pure cotton siro slub yarn was discussed.</span></p>
 
 <p><span class="chinese">由于三角波的参数是可调的，所以可以适用纺不同品种的长丝。</span><span class="english">It can slub many types of silk because of having the adjust parameter.</span></p>

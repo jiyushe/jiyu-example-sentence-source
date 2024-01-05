@@ -1,5 +1,7 @@
 # stoppage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoppage.md)
+
 <p><span class="chinese">上一次停摆发生在1998年。</span><span class="english">The last work stoppage occurred in 1998.</span></p>
 
 <p><span class="chinese">然而开火的中断没有持续多长时间。</span><span class="english">The stoppage of firing didn't last long, however.</span></p>

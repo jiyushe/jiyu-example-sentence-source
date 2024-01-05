@@ -1,5 +1,7 @@
 # 发人深思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/farenshensi.md)
+
 <p><span class="chinese">这篇杂文中有不少发人深思的东西。</span><span class="english">There is much food for thought in this essay.</span></p>
 
 <p><span class="chinese">一个引发争议的过去促成发人深思的未来。</span><span class="english">A contentious past argues for a provocative future.</span></p>

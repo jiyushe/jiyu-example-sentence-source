@@ -1,5 +1,7 @@
 # 只好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhihao.md)
+
 <p><span class="chinese">所以我只好改做方便面。</span><span class="english">So I make ramen.</span></p>
 
 <p><span class="chinese">我只好喊他的名字。</span><span class="english">I shouted for him.</span></p>

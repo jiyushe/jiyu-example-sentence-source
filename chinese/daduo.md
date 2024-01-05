@@ -1,5 +1,7 @@
 # 大多
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daduo.md)
+
 <p><span class="chinese">大多侵犯隐私的行为是骚扰。</span><span class="english">Much of it is just annoying.</span></p>
 
 <p><span class="chinese">因此，它们大多时候是相斥的。</span><span class="english">So, most of the time they repel.</span></p>

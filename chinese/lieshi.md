@@ -1,5 +1,7 @@
 # 劣势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lieshi.md)
+
 <p><span class="chinese">她总是支持居劣势的一方。</span><span class="english">She always support the underdog.</span></p>
 
 <p><span class="chinese">她总是支持居劣势的一方。</span><span class="english">She always roots for the underdog.</span></p>

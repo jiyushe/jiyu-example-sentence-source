@@ -1,5 +1,7 @@
 # 措手不及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuoshoubuji.md)
+
 <p><span class="chinese">哇，他真的让你措手不及！</span><span class="english">Wow, he really threw you a curveball!</span></p>
 
 <p><span class="chinese">悄悄走过去给他来个措手不及。</span><span class="english">Gumshoe came to him in the past unaware.</span></p>

@@ -1,5 +1,7 @@
 # 重整旗鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongzhengqigu.md)
+
 <p><span class="chinese">你们需要重整旗鼓。</span><span class="english">You need to be invigorated.</span></p>
 
 <p><span class="chinese">莎拉•佩林在重整旗鼓，她的敌人也是如此。</span><span class="english">Sarah Palin is reloading. So are her enemies.</span></p>

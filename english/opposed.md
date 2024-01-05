@@ -1,5 +1,7 @@
 # opposed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opposed.md)
+
 <p><span class="chinese">我不反对货到付款。</span><span class="english">I'm not opposed to COD.</span></p>
 
 <p><span class="chinese">爱之深，恨之切。</span><span class="english">Love is opposed to hate.</span></p>

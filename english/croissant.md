@@ -1,5 +1,7 @@
 # croissant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croissant.md)
+
 <p><span class="chinese">我差点被羊角面包噎住了。</span><span class="english">I almost choked on my croissant.</span></p>
 
 <p><span class="chinese">羊角面包像汉堡包一样广为流传。</span><span class="english">The croissant is as widely travelled as the burger.</span></p>

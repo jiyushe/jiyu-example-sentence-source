@@ -1,5 +1,7 @@
 # procrastination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procrastination.md)
+
 <p><span class="chinese">完美主义容易引起拖拉。</span><span class="english">Perfectionism stirs procrastination.</span></p>
 
 <p><span class="chinese">除去你拖延的缺陷。</span><span class="english">Eliminate your procrastination pit-stops.</span></p>

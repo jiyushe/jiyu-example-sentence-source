@@ -1,5 +1,7 @@
 # whiles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiles.md)
+
 <p><span class="chinese">顽皮淘气的男宝宝有时成为仁人君子。</span><span class="english">Naughty mans at whiles do bad men.</span></p>
 
 <p><span class="chinese">她靠看电视来打发时间。</span><span class="english">She whiles away her time by watching TV.</span></p>

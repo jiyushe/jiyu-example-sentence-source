@@ -1,5 +1,7 @@
 # sugar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sugar.md)
+
 <p><span class="chinese">不吃糖。</span><span class="english">No sugar.</span></p>
 
 <p><span class="chinese">加两磅糖。</span><span class="english">Add 2lb sugar.</span></p>

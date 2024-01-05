@@ -1,5 +1,7 @@
 # appliance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appliance.md)
+
 <p><span class="chinese">开马口铁罐头的器具。</span><span class="english">An appliance for opening tin cans.</span></p>
 
 <p><span class="chinese">新的设备应该会被列出。</span><span class="english">The new appliance should be listed.</span></p>

@@ -1,5 +1,7 @@
 # 刀柄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daobing_1.md)
+
 <p><span class="chinese">刀柄是我自己做的。</span><span class="english">I made the knife handle by myself.</span></p>
 
 <p><span class="chinese">巴纳比玩这个游戏乔伊斯的刀柄。</span><span class="english">Barnaby Joyce played this game to the hilt.</span></p>

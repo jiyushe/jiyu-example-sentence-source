@@ -1,5 +1,7 @@
 # 势力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shili_2.md)
+
 <p><span class="chinese">这是第一势力。</span><span class="english">This was the first force.</span></p>
 
 <p><span class="chinese">这是第二势力。</span><span class="english">This was the second force.</span></p>

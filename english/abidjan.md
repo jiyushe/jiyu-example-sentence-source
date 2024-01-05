@@ -1,5 +1,7 @@
 # abidjan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abidjan.md)
+
 <p><span class="chinese">阿比让的战斗将是决定性的。</span><span class="english">The battle for Abidjan will be decisive.</span></p>
 
 <p><span class="chinese">时髦奢华的阿比让已成为西非纸醉金迷的迷魂窟。</span><span class="english">Chic flash abidjan has become the siren of west africa.</span></p>

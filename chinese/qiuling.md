@@ -1,5 +1,7 @@
 # 丘陵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuling.md)
+
 <p><span class="chinese">飞过软糖小丘陵。</span><span class="english">And over fondant hills.</span></p>
 
 <p><span class="chinese">你怎会知道荆棘丘陵？</span><span class="english">How did you know about Briar Hills?</span></p>

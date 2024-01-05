@@ -1,5 +1,7 @@
 # laughing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laughing.md)
+
 <p><span class="chinese">我可没笑。</span><span class="english">I ain't laughing.</span></p>
 
 <p><span class="chinese">我为什么要笑？</span><span class="english">Why am I laughing?</span></p>

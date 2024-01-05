@@ -1,5 +1,7 @@
 # 树莓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shumei.md)
+
 <p><span class="chinese">圣诞节的Brach的糖果树莓。</span><span class="english">Gala Christmas in the Brach candy berries.</span></p>
 
 <p><span class="chinese">果味老玫瑰香味与树莓笔记。</span><span class="english">Fruity old rose scent with raspberry notes.</span></p>

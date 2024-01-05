@@ -1,5 +1,7 @@
 # frenetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frenetic.md)
+
 <p><span class="chinese">们生活在一个一夜成名和追逐品牌的时代。</span><span class="english">We live in an age of instant celebrity and frenetic branding.</span></p>
 
 <p><span class="chinese">改变的方法常常是过度不必要的复杂和狂热。</span><span class="english">Methods of changing are often unnecessarily complicated and frenetic.</span></p>

@@ -1,5 +1,7 @@
 # abashed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abashed.md)
+
 <p><span class="chinese">克莱尔显得有些尴尬“不好意思，是我心急了。</span><span class="english">Clare is abashed. “I’m sorry!</span></p>
 
 <p><span class="chinese">他的话让我觉得局促不安。</span><span class="english">His words let me feel abashed.</span></p>

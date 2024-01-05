@@ -1,5 +1,7 @@
 # 目击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muji_1.md)
+
 <p><span class="chinese">目击与猜测。</span><span class="english">Eyewitnesses and guesswork.</span></p>
 
 <p><span class="chinese">目击了这一奇异的景象。</span><span class="english">A curious spectacle was witnessed.</span></p>

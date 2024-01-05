@@ -1,5 +1,7 @@
 # 堕落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoluo.md)
+
 <p><span class="chinese">他品行堕落。</span><span class="english">He falls from virtue.</span></p>
 
 <p><span class="chinese">但是这是堕落吗？</span><span class="english">But is this depravity?</span></p>

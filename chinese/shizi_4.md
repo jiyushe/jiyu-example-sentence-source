@@ -1,5 +1,7 @@
 # 柿子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizi_4.md)
+
 <p><span class="chinese">这柿子涩不涩?。</span><span class="english">Are these persimmons puckery?</span></p>
 
 <p><span class="chinese">这柿子涩。</span><span class="english">The persimmon tastes puckery.</span></p>

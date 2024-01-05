@@ -1,5 +1,7 @@
 # 壮观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangguan.md)
+
 <p><span class="chinese">鸟巢和水立方的景象非常壮观。</span><span class="english">Bird's Nset and Water Cube.</span></p>
 
 <p><span class="chinese">一条壮观的瀑布，落差50米。</span><span class="english">A beautiful 50-meter waterfall.</span></p>

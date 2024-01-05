@@ -1,5 +1,7 @@
 # melton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melton.md)
+
 <p><span class="chinese">梅尔顿说，他可以告诉他之前，甚至会从床上什么样的一天将是。</span><span class="english">Melton says he can tell before he even gets out of bed what kind of day it's going to be.</span></p>
 
 <p><span class="chinese">这是件好事，因为凡是所需的此外两个基因能促发癌症。</span><span class="english">The Melton team used retroviruses to carry the two genes in but suggest they might not be necessary.</span></p>

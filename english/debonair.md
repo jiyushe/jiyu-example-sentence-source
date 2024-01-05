@@ -1,5 +1,7 @@
 # debonair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debonair.md)
+
 <p><span class="chinese">弗雷德·阿斯泰尔经常把真丝领带当腰带用。</span><span class="english">The debonair Fred Astaire often wore a silk tie as a belt.</span></p>
 
 <p><span class="chinese">谁是我们在上面照片中看到的那个温文尔雅的人呢？</span><span class="english">So who is the debonair looking guy in the photograph above?</span></p>

@@ -1,5 +1,7 @@
 # reword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reword.md)
+
 <p><span class="chinese">这是江恩在他的小说前言里自己说的。</span><span class="english">Gann's own words in the fo reword of the novel.</span></p>
 
 <p><span class="chinese">然后他要求改动一个词。</span><span class="english">Then he asked to reword one point — to change one word.</span></p>

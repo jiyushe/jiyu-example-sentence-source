@@ -1,5 +1,7 @@
 # 虾米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiami.md)
+
 <p><span class="chinese">大鱼吃小鱼，小鱼吃虾米。</span><span class="english">Great trees keep down the little ones.</span></p>
 
 <p><span class="chinese">冬菇、虾米浸软切幼粒。</span><span class="english">Soak and dice mushroom and dried shrimp.</span></p>

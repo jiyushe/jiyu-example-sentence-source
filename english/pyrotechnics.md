@@ -1,5 +1,7 @@
 # pyrotechnics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrotechnics.md)
+
 <p><span class="chinese">消费级烟火有一个六秒钟的导火索。</span><span class="english">Consumer-grade pyrotechnics have a six-second fuse.</span></p>
 
 <p><span class="chinese">宇宙烟火和惊奇的烟云。</span><span class="english">See photos of cosmic pyrotechnics and amazing nebulas.</span></p>

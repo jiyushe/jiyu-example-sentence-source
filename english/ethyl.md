@@ -1,5 +1,7 @@
 # ethyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethyl.md)
+
 <p><span class="chinese">苯，甲苯，二甲苯，乙基苯。</span><span class="english">Benzene, Toluene, Xylene, Ethyl Benzene.</span></p>
 
 <p><span class="chinese">不会再乙酸乙酯混合物里增长！</span><span class="english">Not much grows in a ethyl acetate cocktail!</span></p>

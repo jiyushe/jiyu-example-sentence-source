@@ -1,5 +1,7 @@
 # 余晖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhui_1.md)
+
 <p><span class="chinese">落日余晖微染那片云层。</span><span class="english">The setting sun tinged the clouds.</span></p>
 
 <p><span class="chinese">在夕阳余晖下，它看来好象是活的。</span><span class="english">In the light of the sunset it seemed alive.</span></p>

@@ -1,5 +1,7 @@
 # rigid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigid.md)
+
 <p><span class="chinese">公犬有一个刻板的等级制度。</span><span class="english">Male dogs have a rigid hierarchy.</span></p>
 
 <p><span class="chinese">严格节食会使你身材苗条。</span><span class="english">A rigid diet will make you slimmer.</span></p>

@@ -1,5 +1,7 @@
 # boring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boring.md)
+
 <p><span class="chinese">慌张无聊的音乐。</span><span class="english">Sappy boring music.</span></p>
 
 <p><span class="chinese">这电影很闷。</span><span class="english">The film is boring.</span></p>

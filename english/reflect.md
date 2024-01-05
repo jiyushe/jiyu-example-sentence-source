@@ -1,5 +1,7 @@
 # reflect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflect.md)
+
 <p><span class="chinese">可以反省你的行动。</span><span class="english">Reflect on your favorites.</span></p>
 
 <p><span class="chinese">沿途要住在停留和反省。</span><span class="english">Stop and reflect along the way.</span></p>

@@ -1,5 +1,7 @@
 # prunella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prunella.md)
+
 <p><span class="chinese">普瑞娜想交换她的摇滚明星海报。</span><span class="english">Prunella traded her rock star poster.</span></p>
 
 <p><span class="chinese">此方法可作为夏枯草的质量分析。</span><span class="english">This method can be used in the quality analysis of Prunella vulgaris L.</span></p>

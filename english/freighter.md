@@ -1,5 +1,7 @@
 # freighter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freighter.md)
+
 <p><span class="chinese">它不过是一艘现代的货船。</span><span class="english">It is a modern freighter.</span></p>
 
 <p><span class="chinese">货船正装货准备驶往日本。</span><span class="english">The freighter is loading for Japan.</span></p>

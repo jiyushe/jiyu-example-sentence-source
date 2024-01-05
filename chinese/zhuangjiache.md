@@ -1,5 +1,7 @@
 # 装甲车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangjiache.md)
+
 <p><span class="chinese">后来我又发现一辆装甲车在古翠路的路口。</span><span class="english">And I found a armored car on crossing of GuCui Road.</span></p>
 
 <p><span class="chinese">自从2007年底豺狼4驱装甲车便开始在阿富汗服役。</span><span class="english">The 4x4 Jackal has been in Afghanistan since late 2007.</span></p>

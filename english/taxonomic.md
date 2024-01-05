@@ -1,5 +1,7 @@
 # taxonomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxonomic.md)
+
 <p><span class="chinese">新疆贝母属植物分类研究。</span><span class="english">A taxonomic study of Fritillaria from Xinjiang.</span></p>
 
 <p><span class="chinese">东北蕨类植物的分类研究。</span><span class="english">A taxonomic study on pteridophytes in N. E. China.</span></p>

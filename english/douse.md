@@ -1,5 +1,7 @@
 # douse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/douse.md)
+
 <p><span class="chinese">插入水中的叶片要剪掉。</span><span class="english">The lamina of douse wants to cut off.</span></p>
 
 <p><span class="chinese">用冷水淋头真的有用吗？</span><span class="english">Does it help to douse your head with water?</span></p>

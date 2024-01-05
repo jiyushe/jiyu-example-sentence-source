@@ -1,5 +1,7 @@
 # convocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convocation.md)
+
 <p><span class="chinese">四点举行的会议通过了一项规章制度。</span><span class="english">The convocation held at four oclock had passed regulation.</span></p>
 
 <p><span class="chinese">你怎样看待大学评议会的角色和功能？</span><span class="english">How do you view the roles and functions of the Convocation ?</span></p>

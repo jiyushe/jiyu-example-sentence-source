@@ -1,5 +1,7 @@
 # builder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/builder.md)
+
 <p><span class="chinese">建筑者司职营造。</span><span class="english">A builder is one who builds.</span></p>
 
 <p><span class="chinese">他与一建筑工人订了师徒合同。</span><span class="english">He is indenture to a builder.</span></p>

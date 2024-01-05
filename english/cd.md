@@ -1,5 +1,7 @@
 # CD 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cd.md)
+
 <p><span class="chinese">这是谁的光盘随声听？</span><span class="english">Whose CD Walkman is it?</span></p>
 
 <p><span class="chinese">一个CD刻录机和一张空白的CD。</span><span class="english">A CD burner and a blank CD.</span></p>

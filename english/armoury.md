@@ -1,5 +1,7 @@
 # armoury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armoury.md)
+
 <p><span class="chinese">紫电青霜，王将军之武库。</span><span class="english">Purple electric green frost, king of general armoury.</span></p>
 
 <p><span class="chinese">他们闯入兵器库抢走了二十二支步枪。</span><span class="english">They broke into the armoury and carried off 22 rifles.</span></p>

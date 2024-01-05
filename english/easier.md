@@ -1,5 +1,7 @@
 # easier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/easier.md)
+
 <p><span class="chinese">说起来容易做起来难。</span><span class="english">It's easier said than done.</span></p>
 
 <p><span class="chinese">说比做简单得多。</span><span class="english">It’s easier said than done.</span></p>

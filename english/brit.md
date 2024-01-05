@@ -1,5 +1,7 @@
 # brit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brit.md)
+
 <p><span class="chinese">英国人喜欢留长头发的。</span><span class="english">Brit prefers the long hair.</span></p>
 
 <p><span class="chinese">说的好，为英国的自由。</span><span class="english">That's good for Brit freedom.</span></p>

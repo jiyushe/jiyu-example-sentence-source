@@ -1,5 +1,7 @@
 # 泪流满面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiliumanmian.md)
+
 <p><span class="chinese">这个清苦女孩泪流满面。</span><span class="english">The poor girl was in tears.</span></p>
 
 <p><span class="chinese">他泪流满面。</span><span class="english">His cheeks dripped with tears.</span></p>

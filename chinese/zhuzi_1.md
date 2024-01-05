@@ -1,5 +1,7 @@
 # 柱子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzi_1.md)
+
 <p><span class="chinese">他把马系在柱子上。</span><span class="english">He tied the horse to a post.</span></p>
 
 <p><span class="chinese">一根柱子立在柱脚上。</span><span class="english">A columnists on its pedestal.</span></p>

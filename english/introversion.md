@@ -1,5 +1,7 @@
 # introversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introversion.md)
+
 <p><span class="chinese">我们都知道他性格内向的话题。</span><span class="english">We all know the subject of his introversion.</span></p>
 
 <p><span class="chinese">花药内向或外向，纵裂或孔开。</span><span class="english">Antheral introversion or extroversion , slit or aperture leave.</span></p>

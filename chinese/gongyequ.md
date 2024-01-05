@@ -1,5 +1,7 @@
 # 工业区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyequ.md)
+
 <p><span class="chinese">我们开始开发一个新的工业区。</span><span class="english">We began to develop a new industrial site.</span></p>
 
 <p><span class="chinese">工业区集中在北边。</span><span class="english">The industral area is centered in the north.</span></p>

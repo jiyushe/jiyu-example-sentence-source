@@ -1,5 +1,7 @@
 # effectiveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effectiveness.md)
+
 <p><span class="chinese">实施的效力。</span><span class="english">Effectiveness of enablement.</span></p>
 
 <p><span class="chinese">简约、高雅和效率。</span><span class="english">Simplicity, elegance and effectiveness.</span></p>

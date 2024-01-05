@@ -1,5 +1,7 @@
 # 临死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linsi.md)
+
 <p><span class="chinese">他临死还是挺高兴的</span><span class="english">He's happy though.</span></p>
 
 <p><span class="chinese">验尸官宣称汤姆临死前大便失禁在裤子里，而且由于自卫而手部受伤。</span><span class="english">Tom also had defensive wounds on his hands.</span></p>

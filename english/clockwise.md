@@ -1,5 +1,7 @@
 # clockwise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clockwise.md)
+
 <p><span class="chinese">钟表为什么都是顺时针转的？</span><span class="english">Why do clocks run clockwise?</span></p>
 
 <p><span class="chinese">之前，是顺时针方向。</span><span class="english">Before, it was rotating clockwise.</span></p>

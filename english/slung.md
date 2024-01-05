@@ -1,5 +1,7 @@
 # slung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slung.md)
+
 <p><span class="chinese">我们睡在悬在房顶下的吊床上。</span><span class="english">We slept in hammocks slung beneath the roof.</span></p>
 
 <p><span class="chinese">护林员把背包挂在他的肩膀上。</span><span class="english">The ranger slung the knapsack over his shoulder.</span></p>

@@ -1,5 +1,7 @@
 # rumba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rumba.md)
+
 <p><span class="chinese">我喜欢跳伦巴舞。</span><span class="english">I like to rumba.</span></p>
 
 <p><span class="chinese">现在伦巴舞踩点。</span><span class="english">Now solo for Rumba.</span></p>

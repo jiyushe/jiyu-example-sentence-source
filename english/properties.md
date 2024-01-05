@@ -1,5 +1,7 @@
 # properties
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/properties.md)
+
 <p><span class="chinese">我的个人用品。</span><span class="english">My personal properties.</span></p>
 
 <p><span class="chinese">所有这些都是“气”的特性。</span><span class="english">All these are properties of Qi.</span></p>

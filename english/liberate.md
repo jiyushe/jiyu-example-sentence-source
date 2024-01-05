@@ -1,5 +1,7 @@
 # liberate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liberate.md)
+
 <p><span class="chinese">解放自己-接受责任！</span><span class="english">Liberate yourself – Accept responsibility!</span></p>
 
 <p><span class="chinese">我将搬出嘻皮社区。</span><span class="english">I'd liberate myself from the Hippy Commune.</span></p>

@@ -1,5 +1,7 @@
 # 报告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baogao.md)
+
 <p><span class="chinese">报告它。</span><span class="english">Report it.</span></p>
 
 <p><span class="chinese">事件报告。</span><span class="english">Event reporting.</span></p>

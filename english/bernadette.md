@@ -1,5 +1,7 @@
 # bernadette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bernadette.md)
+
 <p><span class="chinese">我喜欢看霍华德和伯纳黛特的感情。</span><span class="english">I love the Howard and Bernadette relationship.</span></p>
 
 <p><span class="chinese">扎克，这是我的朋友们，伯纳黛特和艾米。</span><span class="english">Uh, Zack, these are my friends Bernadette and Amy.</span></p>

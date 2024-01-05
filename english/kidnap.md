@@ -1,5 +1,7 @@
 # kidnap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kidnap.md)
+
 <p><span class="chinese">他们让埃尔加尔试着绑架路易莎。</span><span class="english">They ask El Gallo to try to kidnap Luisa.</span></p>
 
 <p><span class="chinese">深圳打击人贩子，逮捕17名嫌犯。</span><span class="english">Crackdown on kidnap scams nets 17 suspects.</span></p>

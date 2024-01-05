@@ -1,5 +1,7 @@
 # 异读
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidu_1.md)
+
 <p><span class="chinese">异读是古汉语的一个重要语音现象。</span><span class="english">Different reading is an important voice phenomenon of ancient Chinese.</span></p>
 
 <p><span class="chinese">我们对于一些新约的圣经段落有着‘异读’。</span><span class="english">There are some passages in the New Testament in which we have 'variant readings.</span></p>

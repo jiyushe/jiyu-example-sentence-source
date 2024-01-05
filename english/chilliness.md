@@ -1,5 +1,7 @@
 # chilliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chilliness.md)
+
 <p><span class="chinese">热毒内陷脏腑时伴恶寒发热，口干渴，烦闷。</span><span class="english">Heat cellulites viscera when Chilliness with fever, mouth thirst, depressed.</span></p>
 
 <p><span class="chinese">尽管在家里遭受了如此多的责骂和冷遇，他还是一个可爱温柔的小孩子。</span><span class="english">Still, with all the scolding and chilliness at home, he was a sweet and gentle child.</span></p>

@@ -1,5 +1,7 @@
 # homogeneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homogeneous.md)
+
 <p><span class="chinese">关系数据是规则且同构的。</span><span class="english">Relational data is regular and homogeneous.</span></p>
 
 <p><span class="chinese">要知道系统是均匀的还是非均匀的。</span><span class="english">You need toknow it's heterogeneous or homogeneous.</span></p>

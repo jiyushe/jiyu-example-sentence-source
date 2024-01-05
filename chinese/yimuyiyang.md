@@ -1,5 +1,7 @@
 # 一模一样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimuyiyang.md)
+
 <p><span class="chinese">玛丽和她妈妈长得一模一样。</span><span class="english">She likes to rubber-neck.</span></p>
 
 <p><span class="chinese">它们真的一模一样吗？</span><span class="english">Are they really identical?</span></p>

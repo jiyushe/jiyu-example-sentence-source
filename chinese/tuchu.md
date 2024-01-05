@@ -1,5 +1,7 @@
 # 凸出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuchu.md)
+
 <p><span class="chinese">萨利有一个凸出的高鼻子。</span><span class="english">Sully has a prominent nose.</span></p>
 
 <p><span class="chinese">他的下巴凸出很多。</span><span class="english">His chin juts out rather a lot.</span></p>

@@ -1,5 +1,7 @@
 # galvanise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galvanise.md)
+
 <p><span class="chinese">虽然这些机构对于精英们来说不过是一个谈话场所，但它们确实促成了汉族人的反抗行动。</span><span class="english">Though these bodies were nothing more than talking shops for the elite, they did galvanise the Han gentry into action.</span></p>
 
 <p><span class="chinese">事实上，我希望它能有益于激起人们心中对自由人权的向往，让它在我们的国土上开花结果。</span><span class="english">Indeed, I hope that it will help galvanise forces that will usher in a new era of human liberty in our beloved motherland.</span></p>

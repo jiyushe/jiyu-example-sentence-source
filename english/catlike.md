@@ -1,5 +1,7 @@
 # catlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catlike.md)
+
 <p><span class="chinese">美洲狮是一种猫科动物。</span><span class="english">Puma is a kind of catlike animals.</span></p>
 
 <p><span class="chinese">他的脚落地的动作像猫一样。</span><span class="english">His landing on his feet was catlike.</span></p>

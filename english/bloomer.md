@@ -1,5 +1,7 @@
 # bloomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloomer.md)
+
 <p><span class="chinese">但李是大器晚成。</span><span class="english">But Li is a late bloomer.</span></p>
 
 <p><span class="chinese">这是一个可靠的姜子牙。</span><span class="english">This is a reliable bloomer.</span></p>

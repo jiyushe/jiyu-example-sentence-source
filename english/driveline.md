@@ -1,5 +1,7 @@
 # driveline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/driveline.md)
+
 <p><span class="chinese">最大的变化，在传动系统是差异。</span><span class="english">The biggest change in the driveline is the diff.</span></p>
 
 <p><span class="chinese">传动系寿命可通过电子控制得到提高。</span><span class="english">The driveline life is extended by the electronic control.</span></p>

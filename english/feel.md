@@ -1,5 +1,7 @@
 # feel 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feel.md)
+
 <p><span class="chinese">摸摸这儿。</span><span class="english">Feel here.</span></p>
 
 <p><span class="chinese">我感觉很麻木.</span><span class="english">I feel numb.</span></p>

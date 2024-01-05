@@ -1,5 +1,7 @@
 # lucrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucrative.md)
+
 <p><span class="chinese">制售假冒药品有大利可图。</span><span class="english">Counterfeiting medicines can be very lucrative.</span></p>
 
 <p><span class="chinese">雪人的这种形象很快就变得炙手可热了。</span><span class="english">This image of the snowman soon became lucrative.</span></p>

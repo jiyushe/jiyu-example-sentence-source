@@ -1,5 +1,7 @@
 # 湍流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuanliu.md)
+
 <p><span class="chinese">山里的湍流从峭壁上直泻而下。</span><span class="english">Mountain torrents rush down from the cliff.</span></p>
 
 <p><span class="chinese">饶瑞中。光在湍流大气中的传输。</span><span class="english">Propagation and Imaging of Light Wave in the Atmosphere.</span></p>

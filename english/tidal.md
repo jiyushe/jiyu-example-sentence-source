@@ -1,5 +1,7 @@
 # tidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tidal.md)
+
 <p><span class="chinese">潮差昼夜变化在0.67米左右。</span><span class="english">Diurnal tidal range of 0.67 meters.</span></p>
 
 <p><span class="chinese">是一个典型的潮汐汊道系统。</span><span class="english">And is a typical tidal inlet system.</span></p>

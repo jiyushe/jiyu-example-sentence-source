@@ -1,5 +1,7 @@
 # 立身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishen_1.md)
+
 <p><span class="chinese">再次，道德是个体立身行事的依归。</span><span class="english">Lastly, ethics is the stander to supervise oneself.</span></p>
 
 <p><span class="chinese">就是说，你不学“礼”，就没法在社会中立身。</span><span class="english">Say, don't you learn "li", can't scarcely in society.</span></p>

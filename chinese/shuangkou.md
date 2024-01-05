@@ -1,5 +1,7 @@
 # 爽口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangkou.md)
+
 <p><span class="chinese">南瓜花汤很爽口。</span><span class="english">The pumpkin blossom soup is very light.</span></p>
 
 <p><span class="chinese">啤酒爽口，巧克力醇香，不亦美味乎？</span><span class="english">Beer and chocolate, what could be better?</span></p>

@@ -1,5 +1,7 @@
 # tantrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tantrum.md)
+
 <p><span class="chinese">隔壁房子一个小孩在发脾气。</span><span class="english">A child having a tantrum in the next apartment.</span></p>
 
 <p><span class="chinese">如果这意味着发脾气或者失去控制，他们是会那么做的。</span><span class="english">If this means throwing a tantrum or losing control, they'lldo it.</span></p>

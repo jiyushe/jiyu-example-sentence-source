@@ -1,5 +1,7 @@
 # thoughtfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoughtfully.md)
+
 <p><span class="chinese">丹若有所思地摩挲着下巴。</span><span class="english">Dan rubbed his chin thoughtfully.</span></p>
 
 <p><span class="chinese">他沈思地看著那张照片。</span><span class="english">He looked at the picture thoughtfully.</span></p>

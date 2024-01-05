@@ -1,5 +1,7 @@
 # ground 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ground.md)
+
 <p><span class="chinese">地锚?。</span><span class="english">Ground anchor?</span></p>
 
 <p><span class="chinese">滴落在地上。</span><span class="english">to the ground.</span></p>

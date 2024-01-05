@@ -1,5 +1,7 @@
 # absorbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorbing.md)
+
 <p><span class="chinese">这部新小说是一怖引人入胜赌家世孝说。</span><span class="english">This new novel is an absorbing saga.</span></p>
 
 <p><span class="chinese">这部新小说是一部引人入胜的家世小说。</span><span class="english">This new novel is an absorbing family saga.</span></p>

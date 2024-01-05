@@ -1,5 +1,7 @@
 # 硬梆梆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingbangbang.md)
+
 <p><span class="chinese">他们赤着脚在潮湿的硬梆梆的沙滩上走着。</span><span class="english">They walked barefoot on the damp hard sand.</span></p>
 
 <p><span class="chinese">新鞋合脚前都是硬梆梆的。</span><span class="english">New shoes are stiff until you break them in.</span></p>

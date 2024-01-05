@@ -1,5 +1,7 @@
 # 黑痣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heizhi.md)
+
 <p><span class="chinese">她的面颊上有一颗小黑痣。</span><span class="english">She had a tiny mole on her cheek.</span></p>
 
 <p><span class="chinese">那个黑痣是他脸上的缺点。</span><span class="english">That mole is a blemish on his face.</span></p>

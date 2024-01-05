@@ -1,5 +1,7 @@
 # castaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castaway.md)
+
 <p><span class="chinese">经常梦想逃到天涯海角吗？</span><span class="english">Always dreamed of being a castaway?</span></p>
 
 <p><span class="chinese">像我这样一个被遗弃的人，还有谁在乎她的容貌啊！</span><span class="english">Who cares about the looks of a castaway like me!</span></p>

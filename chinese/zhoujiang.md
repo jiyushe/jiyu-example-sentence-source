@@ -1,5 +1,7 @@
 # 骤降
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoujiang.md)
+
 <p><span class="chinese">温度骤降到了零下十度。</span><span class="english">The temperature dived to ten below zero.</span></p>
 
 <p><span class="chinese">同时，储蓄率骤降至几乎归零。</span><span class="english">Similarly, the savings rate plummeted to zero.</span></p>

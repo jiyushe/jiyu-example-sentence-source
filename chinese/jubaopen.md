@@ -1,5 +1,7 @@
 # 聚宝盆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jubaopen.md)
+
 <p><span class="chinese">这是一个真正的聚宝盆！</span><span class="english">It's a veritable cornucopia!</span></p>
 
 <p><span class="chinese">要想在生活聚宝盆中获取真正的财富。</span><span class="english">To get a real cornucopia of life's wealth.</span></p>

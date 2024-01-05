@@ -1,5 +1,7 @@
 # perform 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perform.md)
+
 <p><span class="chinese">然后执行交换。</span><span class="english">I then perform the swap.</span></p>
 
 <p><span class="chinese">仅执行这些步骤。</span><span class="english">Perform only these steps.</span></p>

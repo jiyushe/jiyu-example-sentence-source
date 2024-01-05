@@ -1,5 +1,7 @@
 # truculent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truculent.md)
+
 <p><span class="chinese">这是他惯常的模样，是一种好斗的表情。</span><span class="english">He was in no truculent state of mind now.</span></p>
 
 <p><span class="chinese">但那其中的粗俗普通却真实地揭示了一个既矛盾又有趣的人物。</span><span class="english">But their truculent honesty makes for a paradoxical and amusingly human revelation.</span></p>

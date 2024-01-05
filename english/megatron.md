@@ -1,5 +1,7 @@
 # megatron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megatron.md)
+
 <p><span class="chinese">是，威震天主人。</span><span class="english">Yes. Lord Megatron.</span></p>
 
 <p><span class="chinese">威震天，我们被袭击！</span><span class="english">Megatron we are under attack.</span></p>

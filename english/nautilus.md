@@ -1,5 +1,7 @@
 # nautilus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nautilus.md)
+
 <p><span class="chinese">在鹦鹉螺号上的食物全部是海货。</span><span class="english">The food aboard the Nautilus is all sea food.</span></p>
 
 <p><span class="chinese">打开终端并在根模式下运行nautilus。</span><span class="english">Open your terminal and launch nautilus in root mode.</span></p>

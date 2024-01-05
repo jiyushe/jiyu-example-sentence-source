@@ -1,5 +1,7 @@
 # devildom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devildom.md)
+
 <p><span class="chinese">可是魔界力量危及天下。</span><span class="english">But devildom force endangers the world.</span></p>
 
 <p><span class="chinese">欢迎来到魔界，请进吧。</span><span class="english">Welcome to our devildom. Come in, please.</span></p>

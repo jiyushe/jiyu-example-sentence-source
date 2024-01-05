@@ -1,5 +1,7 @@
 # grub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grub.md)
+
 <p><span class="chinese">你必须连根掘起。</span><span class="english">You have to grub up the roots.</span></p>
 
 <p><span class="chinese">你将迎接由蛴螬的画面。</span><span class="english">You will be greeted by the GRUB screen.</span></p>

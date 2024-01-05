@@ -1,5 +1,7 @@
 # underserved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underserved.md)
+
 <p><span class="chinese">而同时，许多潜在的学生却受不到服务。</span><span class="english">At the same time, many potential students are being underserved.</span></p>
 
 <p><span class="chinese">相当大部分的培训应当在缺医少药的农村环境中进行。</span><span class="english">A considerable portion of training should take place in underserved rural settings.</span></p>

@@ -1,5 +1,7 @@
 # 荒僻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangpi.md)
+
 <p><span class="chinese">他们躲在一座荒僻的房子里。</span><span class="english">Theytook shelter in a lonely house.</span></p>
 
 <p><span class="chinese">就像马儿在荒僻的路上奔跑。</span><span class="english">Like a horse galloping on a lonely road.</span></p>

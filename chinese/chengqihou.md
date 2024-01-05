@@ -1,5 +1,7 @@
 # 成气候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengqihou.md)
+
 <p><span class="chinese">爱一个人，不傻不成气候。</span><span class="english">Love a person, not silly not to climate.</span></p>
 
 <p><span class="chinese">但是如果我们不成气候，我就不会扩张店面。</span><span class="english">But if I was struggling, I wouldn't be expanding.</span></p>

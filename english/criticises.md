@@ -1,5 +1,7 @@
 # criticises
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criticises.md)
+
 <p><span class="chinese">麦肯批评说对“区域”一词的含义缺少解释。</span><span class="english">McKen criticises the lack of explication of what the term "areas" means.</span></p>
 
 <p><span class="chinese">它批评主要承包商在其最初估价中犯了严重的错误。</span><span class="english">It criticises the main contractor for seriously erring in its original estimates.</span></p>

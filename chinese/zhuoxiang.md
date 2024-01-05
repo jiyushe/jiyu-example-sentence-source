@@ -1,5 +1,7 @@
 # 着想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoxiang.md)
+
 <p><span class="chinese">他从不为别人着想。</span><span class="english">He never considers others.</span></p>
 
 <p><span class="chinese">她是为你着想才那样做的。</span><span class="english">She did that for your good.</span></p>

@@ -1,5 +1,7 @@
 # 棒子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangzi_2.md)
+
 <p><span class="chinese">找玉米棒子！</span><span class="english">Look for corn!</span></p>
 
 <p><span class="chinese">喀嚓！棒子断为两截。</span><span class="english">Crack! The stick broke in two.</span></p>

@@ -1,5 +1,7 @@
 # odd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odd.md)
+
 <p><span class="chinese">五和九是奇数。</span><span class="english">Five is an odd number.</span></p>
 
 <p><span class="chinese">七是奇数。</span><span class="english">Seven is an odd number.</span></p>

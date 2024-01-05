@@ -1,5 +1,7 @@
 # 古时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushi_1.md)
+
 <p><span class="chinese">这都是古时所记载的。</span><span class="english">And these are ancient things.</span></p>
 
 <p><span class="chinese">还有运动时穿的，像这种古时的溜冰鞋。</span><span class="english">And for sport, like these ancient skates.</span></p>

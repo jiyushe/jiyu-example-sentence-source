@@ -1,5 +1,7 @@
 # special
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/special.md)
+
 <p><span class="chinese">这道牛肉排骨真是太特别了。</span><span class="english">It’s special.</span></p>
 
 <p><span class="chinese">阿红是条特别的狗。</span><span class="english">Red Dog was special.</span></p>

@@ -1,5 +1,7 @@
 # smallholder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smallholder.md)
+
 <p><span class="chinese">农民需要去适应，特别是小农。</span><span class="english">Farmers need to adapt, especially smallholder farmers.</span></p>
 
 <p><span class="chinese">这是第一次，小农户从CMIA程序加纳利润。</span><span class="english">For the first time, smallholder farmers from Ghana profit from the CmiA program.</span></p>

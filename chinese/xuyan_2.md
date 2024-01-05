@@ -1,5 +1,7 @@
 # 虚掩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuyan_2.md)
+
 <p><span class="chinese">而吉姆-海因斯证明这扇门是“虚掩着的”。</span><span class="english">And Jim Hines proved "the door" half-open.</span></p>
 
 <p><span class="chinese">经人指引，我登上石阶，推开虚掩的门扉。</span><span class="english">Its gate was left unlatched, so I pushed it open.</span></p>

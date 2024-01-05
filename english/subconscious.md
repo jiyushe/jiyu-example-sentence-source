@@ -1,5 +1,7 @@
 # subconscious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subconscious.md)
+
 <p><span class="chinese">早年的经历会在下意识中埋入恐惧感。</span><span class="english">Early experiences can implant fears in the subconscious.</span></p>
 
 <p><span class="chinese">为什么所有潜意识里的防御者都枪法都这么烂？</span><span class="english">Why are all the subconscious mercenaries such bad shots?</span></p>

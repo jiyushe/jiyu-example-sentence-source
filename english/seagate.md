@@ -1,5 +1,7 @@
 # seagate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seagate.md)
+
 <p><span class="chinese">希捷或西数硬盘驱动器?。</span><span class="english">Seagate or Western Digital Hard Drive?</span></p>
 
 <p><span class="chinese">希捷曾经有过向私募基金公司出售的举动。</span><span class="english">Seagate has taken the private equity option before.</span></p>

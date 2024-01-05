@@ -1,5 +1,7 @@
 # phosphor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphor.md)
+
 <p><span class="chinese">部分磷光体容易丢失。</span><span class="english">Fractions of the phosphor are easily lost.</span></p>
 
 <p><span class="chinese">来日方长，太阳只是颗启明星。</span><span class="english">There's still time, the sun just single phosphor.</span></p>

@@ -1,5 +1,7 @@
 # multigrade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multigrade.md)
+
 <p><span class="chinese">这个夏天，奥马哈公立学校那些教授混合班的老师将接受一次特别的培训。</span><span class="english">This summer, OPS teachers who take on multigrade classes will receive special training.</span></p>
 
 <p><span class="chinese">多级油一般可满足美国石油学会发动机润滑油MS、DG和DM使用条件类别的要求。</span><span class="english">Multigrade oils are usually made to meet the requirements of API Services MS, DG and DM.</span></p>

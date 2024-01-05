@@ -1,5 +1,7 @@
 # affix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affix.md)
+
 <p><span class="chinese">词缀使用其中的一个曲柄臂固定螺栓。</span><span class="english">Affix using one of the crank arm fixing bolts.</span></p>
 
 <p><span class="chinese">把珠片粘在纽扣上作为眼睛。</span><span class="english">Make the eyes by using craft glue to affix sequins to buttons.</span></p>

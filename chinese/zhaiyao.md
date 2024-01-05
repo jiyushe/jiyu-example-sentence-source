@@ -1,5 +1,7 @@
 # 摘要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaiyao.md)
+
 <p><span class="chinese">阅读摘要部分。</span><span class="english">Read abstracts.</span></p>
 
 <p><span class="chinese">链接到文章摘要。</span><span class="english">Link to abstract of article.</span></p>

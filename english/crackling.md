@@ -1,5 +1,7 @@
 # crackling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crackling.md)
+
 <p><span class="chinese">神秘的夏夜，群星鼓噪的夏夜！</span><span class="english">Summer nights mysterious with crackling stars!</span></p>
 
 <p><span class="chinese">鞭炮劈里啪啦地响。</span><span class="english">The firecrackers were crackling and spluttering.</span></p>

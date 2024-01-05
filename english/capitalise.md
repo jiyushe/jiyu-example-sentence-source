@@ -1,5 +1,7 @@
 # capitalise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitalise.md)
+
 <p><span class="chinese">张家界希望能利用这棵摇钱树。</span><span class="english">Zhangjiajie hopes to  capitalise on that fame.</span></p>
 
 <p><span class="chinese">一些公司已经准备利用这种新的情绪。</span><span class="english">Some firms are already trying to capitalise on this new mood.</span></p>

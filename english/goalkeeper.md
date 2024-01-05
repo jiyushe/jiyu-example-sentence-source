@@ -1,5 +1,7 @@
 # goalkeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goalkeeper.md)
+
 <p><span class="chinese">我们少一个好的守门员。</span><span class="english">We lack a good goalkeeper.</span></p>
 
 <p><span class="chinese">卢卡斯是一名世界级的门将，我之前就这么说过。</span><span class="english">Lukasz is a world-class goalkeeper.</span></p>

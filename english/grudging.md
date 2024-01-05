@@ -1,5 +1,7 @@
 # grudging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grudging.md)
+
 <p><span class="chinese">我，和我的孤独，是一对善嫉的拍档。</span><span class="english">My loneliness and I are a pair of partners, like grudging.</span></p>
 
 <p><span class="chinese">如果中国不这么做，它可以继续增强自己的实力和勉强获得的尊重。</span><span class="english">If it doesn’t it may continue to gain strength and a grudging respect.</span></p>

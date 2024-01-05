@@ -1,5 +1,7 @@
 # musca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musca.md)
+
 <p><span class="chinese">结果在河北省发现家蝇属昆虫17种。</span><span class="english">Results There were 17 species of genus Musca in Hebei province.</span></p>
 
 <p><span class="chinese">目的确定家蝇幼虫血淋巴的抗病毒作用。</span><span class="english">Objective To study the antiviral activity of Musca domestica larva hemolymph.</span></p>

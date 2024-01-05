@@ -1,5 +1,7 @@
 # host
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/host.md)
+
 <p><span class="chinese">咱俩是谁给谁讲？</span><span class="english">Who is the host here?</span></p>
 
 <p><span class="chinese">谁是世界媒体峰会的承办者？</span><span class="english">Who is the host of WMS?</span></p>

@@ -1,5 +1,7 @@
 # filmy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filmy.md)
+
 <p><span class="chinese">于是我便一直注视着朦胧的白窗帘。</span><span class="english">I stare at filmy white curtain.</span></p>
 
 <p><span class="chinese">他朦胧的眼中闪出骄傲的光芒。</span><span class="english">He flashed pride from filmy eyes.</span></p>

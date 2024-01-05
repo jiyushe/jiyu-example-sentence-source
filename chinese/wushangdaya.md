@@ -1,5 +1,7 @@
 # 无伤大雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushangdaya.md)
+
 <p><span class="chinese">他们是老交情，开些玩笑并无伤大雅。</span><span class="english">They Laojiaoqing, more open and harmless joke.</span></p>
 
 <p><span class="chinese">那仅是一次无伤大雅的恶作剧，仅次而已。</span><span class="english">It was just a harmless prank, that's all it was.</span></p>

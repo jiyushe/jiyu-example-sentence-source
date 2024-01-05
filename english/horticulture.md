@@ -1,5 +1,7 @@
 # horticulture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horticulture.md)
+
 <p><span class="chinese">园艺是这个地区源远流长的传统。</span><span class="english">The area has a long tradition of horticulture.</span></p>
 
 <p><span class="chinese">同时兼营园艺花卉和健康食品等项目。</span><span class="english">While the corner of horticulture and health food items.</span></p>

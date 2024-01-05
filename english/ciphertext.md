@@ -1,5 +1,7 @@
 # ciphertext
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ciphertext.md)
+
 <p><span class="chinese">该程序将然后计算并显示密文。</span><span class="english">The program will then calculate and display the ciphertext.</span></p>
 
 <p><span class="chinese">并在随机谕示模型下，证明了方案具有选择密文安全性。</span><span class="english">The scheme has adaptively chosen ciphertext security in the random oracle model.</span></p>

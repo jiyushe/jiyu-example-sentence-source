@@ -1,5 +1,7 @@
 # 画饼充饥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huabingchongji.md)
+
 <p><span class="chinese">成语“画饼充饥”就来自于皇帝所说的话。</span><span class="english">The idiom came from what the emperor said.</span></p>
 
 <p><span class="chinese">小裁缝对此也是无可奈何，这顿晚饭简直是画饼充饥！</span><span class="english">The little tailor saw that here also nothing was to be done.</span></p>

@@ -1,5 +1,7 @@
 # hayward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hayward.md)
+
 <p><span class="chinese">海沃德作为一名钻探地质学家于1982年加入了BP。</span><span class="english">Hayward started at BP as a rig geologist in 1982.</span></p>
 
 <p><span class="chinese">导演是吉米·哈沃德和史蒂夫·马汀诺。</span><span class="english">And the film is directed by Jimmy Hayward and Steve Martino.</span></p>

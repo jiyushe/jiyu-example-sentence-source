@@ -1,5 +1,7 @@
 # 满载
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manzai.md)
+
 <p><span class="chinese">满载的是木料煤炭和干草儿。</span><span class="english">Filled with lumber, coal, and hay.</span></p>
 
 <p><span class="chinese">满载一船星辉。</span><span class="english">A boat fully loaded with starlight.</span></p>

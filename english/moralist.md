@@ -1,5 +1,7 @@
 # moralist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moralist.md)
+
 <p><span class="chinese">教训乡里的道德家们怎样去死。</span><span class="english">That teach the rustic moralist to die.</span></p>
 
 <p><span class="chinese">政治家无法成为道德家。</span><span class="english">A statesman cannot afford to be a moralist.</span></p>

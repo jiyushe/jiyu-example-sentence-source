@@ -1,5 +1,7 @@
 # intercession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercession.md)
+
 <p><span class="chinese">我相信在居中圣玛利亚。</span><span class="english">I do believe in the intercession of Holy Mary.</span></p>
 
 <p><span class="chinese">他的调解可能会帮上该部落的忙。</span><span class="english">His intercession could be of help to the tribe.</span></p>

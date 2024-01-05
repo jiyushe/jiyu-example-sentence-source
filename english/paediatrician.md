@@ -1,5 +1,7 @@
 # paediatrician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paediatrician.md)
+
 <p><span class="chinese">多哈去上学要走10分钟。她想当儿科医生。</span><span class="english">Douha attends a school, a 10-minute walk away, and wants to be a paediatrician.</span></p>
 
 <p><span class="chinese">然而，这位前儿科医生一点都不具备本拉登的非凡的领导魅力。</span><span class="english">However, the ageing former paediatrician has none of the charisma of Bin Laden.</span></p>

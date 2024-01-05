@@ -1,5 +1,7 @@
 # 受托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoutuo.md)
+
 <p><span class="chinese">我可以在我受托的案子中试一试。</span><span class="english">I can try that in this case that I have.</span></p>
 
 <p><span class="chinese">进口商是银行的代理、委托人和受托者。</span><span class="english">The importer is the agent, trustee and bailee of the bank.</span></p>

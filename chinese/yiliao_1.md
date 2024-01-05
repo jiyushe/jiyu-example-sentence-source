@@ -1,5 +1,7 @@
 # 意料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiliao_1.md)
+
 <p><span class="chinese">这是意料中事。</span><span class="english">No surprise.</span></p>
 
 <p><span class="chinese">我没意料到那个。</span><span class="english">I had't anticipate that.</span></p>

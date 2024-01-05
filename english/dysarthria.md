@@ -1,5 +1,7 @@
 # dysarthria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dysarthria.md)
+
 <p><span class="chinese">构音障碍的类型决定治疗。</span><span class="english">The type of dysarthria determines the treatment.</span></p>
 
 <p><span class="chinese">运动减少性构音障碍是帕金森病的主要言语障碍。</span><span class="english">The most common speech disorder of parkinson's disease is hypokinetic dysarthria.</span></p>

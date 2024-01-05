@@ -1,5 +1,7 @@
 # 织成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhicheng_3.md)
+
 <p><span class="chinese">全是由光织成的花朵！</span><span class="english">Those flowers made of light!</span></p>
 
 <p><span class="chinese">毛衣常由羊毛织成。</span><span class="english">Sweaters are often made of wool.</span></p>

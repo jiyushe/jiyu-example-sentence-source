@@ -1,5 +1,7 @@
 # ulteriorly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ulteriorly.md)
+
 <p><span class="chinese">模型对IVI驱动器进一步封装，提供了新的编程接口。</span><span class="english">IVI-MSS model encapsulates IVI driver ulteriorly and offers the new programming interface.</span></p>
 
 <p><span class="chinese">最后，在分析半实物仿真系统误差的基础上，进一步讨论了仿真系统有效性验证的问题。</span><span class="english">Finally, based on the analysis of HILS system, this paper ulteriorly discuses the problem about model Validation.</span></p>

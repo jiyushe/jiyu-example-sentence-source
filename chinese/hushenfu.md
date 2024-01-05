@@ -1,5 +1,7 @@
 # 护身符
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hushenfu.md)
+
 <p><span class="chinese">这护身符我要了。</span><span class="english">Dibs on the amulet.</span></p>
 
 <p><span class="chinese">伊莎贝尔我是来取招魂护身符的。</span><span class="english">She takes the crystal as her amulet.</span></p>

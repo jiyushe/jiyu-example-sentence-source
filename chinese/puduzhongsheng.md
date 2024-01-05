@@ -1,5 +1,7 @@
 # 普渡众生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puduzhongsheng.md)
+
 <p><span class="chinese">师父，你教我们“要普渡众生”！</span><span class="english">Master, you taught us "The Universal Life"!</span></p>
 
 <p><span class="chinese">那我情愿你自由，做个在家人，快快乐乐的去普渡众生！</span><span class="english">I prefer you that freedom, to be a family, happily to the Universal Life!</span></p>

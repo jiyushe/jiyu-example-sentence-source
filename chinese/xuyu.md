@@ -1,5 +1,7 @@
 # 絮语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuyu.md)
+
 <p><span class="chinese">一丝絮语从椅子的靠背上轻轻飘来。</span><span class="english">A little whispered word back upon the cushion of the chair.</span></p>
 
 <p><span class="chinese">所以，这又回到本文开始时的絮语。</span><span class="english">So, it comes back to what we talk at the beginning of this passage.</span></p>

@@ -1,5 +1,7 @@
 # neutralization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neutralization.md)
+
 <p><span class="chinese">采用小鼠中和试验测定血清效价。</span><span class="english">Serum titers were tested by mouse neutralization test.</span></p>
 
 <p><span class="chinese">酸碱反应常常被称为中和反应。</span><span class="english">An acid-base reaction is often called a neutralization reaction.</span></p>

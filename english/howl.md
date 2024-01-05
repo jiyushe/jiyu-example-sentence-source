@@ -1,5 +1,7 @@
 # howl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/howl.md)
+
 <p><span class="chinese">郊狼嚎叫…</span><span class="english">Coyotes howl.</span></p>
 
 <p><span class="chinese">狼为什么嚎叫？</span><span class="english">Why do wolves howl?</span></p>

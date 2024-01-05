@@ -1,5 +1,7 @@
 # 满怀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manhuai.md)
+
 <p><span class="chinese">他和我撞了个满怀。</span><span class="english">He ran full tilt into me.</span></p>
 
 <p><span class="chinese">相反我会对你满怀敬意。</span><span class="english">Instead, I will honor you.</span></p>

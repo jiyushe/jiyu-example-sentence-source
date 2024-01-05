@@ -1,5 +1,7 @@
 # heres
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heres.md)
+
 <p><span class="chinese">我有一些建议。</span><span class="english">Heres some advice.</span></p>
 
 <p><span class="chinese">这是我的咭片。</span><span class="english">Heres my business card.</span></p>

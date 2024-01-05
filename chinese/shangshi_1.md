@@ -1,5 +1,7 @@
 # 上市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshi_1.md)
+
 <p><span class="chinese">葡萄上市了。</span><span class="english">Grapes are now in.</span></p>
 
 <p><span class="chinese">这种产品一经上市便反响强烈。</span><span class="english">The response has been strong.</span></p>

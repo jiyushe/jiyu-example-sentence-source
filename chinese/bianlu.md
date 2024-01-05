@@ -1,5 +1,7 @@
 # 编录
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianlu.md)
+
 <p><span class="chinese">上图就是他编录的如今已出名的非彗星名录中的第27号。</span><span class="english">This is number 27 on his now famous not-a-comet list.</span></p>
 
 <p><span class="chinese">由这种基因编录的蛋白质再也无法形成。</span><span class="english">The protein encoded by that gene was no longer formed.</span></p>

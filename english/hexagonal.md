@@ -1,5 +1,7 @@
 # hexagonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexagonal.md)
+
 <p><span class="chinese">像一座六角亭。</span><span class="english">It looks like a hexagonal pavilion.</span></p>
 
 <p><span class="chinese">六角一合是一个益智游戏的基础上六角砖。</span><span class="english">Hex-a-hop is a puzzle game based on hexagonal tiles.</span></p>

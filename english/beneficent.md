@@ -1,5 +1,7 @@
 # beneficent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beneficent.md)
+
 <p><span class="chinese">史密斯先生，一个真正的绅士，总是对穷人行善。</span><span class="english">Mr. Smith , a true gentlemen, is always beneficent to poor.</span></p>
 
 <p><span class="chinese">犹如为了解释地质板块的移动，而牵扯上帝仁泽万物来附会。</span><span class="english">It is to fabricate a beneficent God to explain geological movements.</span></p>

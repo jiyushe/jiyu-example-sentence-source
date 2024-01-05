@@ -1,5 +1,7 @@
 # command
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/command.md)
+
 <p><span class="chinese">照我的指示去做。</span><span class="english">Do as I command.</span></p>
 
 <p><span class="chinese">我经常都打嗝。</span><span class="english">I can burp on command.</span></p>

@@ -1,5 +1,7 @@
 # florescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/florescent.md)
+
 <p><span class="chinese">大多数荧光灯不能变灰。</span><span class="english">Most florescent bulbs cannot be dimmed.</span></p>
 
 <p><span class="chinese">他们选择了这种基因，因为它很容易看到与荧光光线。</span><span class="english">They chose this gene because it is easy to see with a florescent light.</span></p>

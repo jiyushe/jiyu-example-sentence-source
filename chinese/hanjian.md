@@ -1,5 +1,7 @@
 # 函件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanjian.md)
+
 <p><span class="chinese">将这函件放入文卷总档中。</span><span class="english">Put this letter in the main file.</span></p>
 
 <p><span class="chinese">函件使用了看上去正式的世行信笺。</span><span class="english">Official-looking Bank letterhead was used.</span></p>

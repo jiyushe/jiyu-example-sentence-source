@@ -1,5 +1,7 @@
 # 增高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zenggao.md)
+
 <p><span class="chinese">胆盐及胆色素增高。</span><span class="english">Urinalysis yielded bile salts and pigments.</span></p>
 
 <p><span class="chinese">血浆前白蛋白明显增高。</span><span class="english">Prealbumin in plasma was improved in TNA group.</span></p>

@@ -1,5 +1,7 @@
 # 士兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibing.md)
+
 <p><span class="chinese">士兵注意到他了。</span><span class="english">The soldier twigged him.</span></p>
 
 <p><span class="chinese">大部分都被充作士兵投入战争。</span><span class="english">Most had been taken in war.</span></p>

@@ -1,5 +1,7 @@
 # 没完
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiwan.md)
+
 <p><span class="chinese">这男孩总是问这问那的没完。</span><span class="english">The boy is for ever asking whys.</span></p>
 
 <p><span class="chinese">没人愿意和说起来没完的人聊天。</span><span class="english">No man likes to talk with one who spouts off.</span></p>

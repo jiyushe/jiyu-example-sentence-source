@@ -1,5 +1,7 @@
 # 半导体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bandaoti.md)
+
 <p><span class="chinese">选择半导体激光管。</span><span class="english">To choose laser diode.</span></p>
 
 <p><span class="chinese">震惊了整个半导体业。</span><span class="english">Shocked the semiconductor industry.</span></p>

@@ -1,5 +1,7 @@
 # unambitious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unambitious.md)
+
 <p><span class="chinese">他本该做一个平平凡凡、胸无大志的人么？</span><span class="english">Should he have been a plain, unambitious man?</span></p>
 
 <p><span class="chinese">我该庸庸碌碌过一生。</span><span class="english">I should finish life mediocre and unambitious.</span></p>

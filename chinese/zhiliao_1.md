@@ -1,5 +1,7 @@
 # 知了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiliao_1.md)
+
 <p><span class="chinese">知了停伏在树林问，跟我捉起迷藏。</span><span class="english">Cicadas in the woods, stop V asked me Zhuoqi dodge.</span></p>
 
 <p><span class="chinese">夏天，魔术师把知了喊出来为我们唱歌。</span><span class="english">Summer, the magician the cicadas cry out for us to sing.</span></p>

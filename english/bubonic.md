@@ -1,5 +1,7 @@
 # bubonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bubonic.md)
+
 <p><span class="chinese">年伦敦爆发了腺鼠疫。</span><span class="english">Bubonic plague struck London in 1665.</span></p>
 
 <p><span class="chinese">他们还排除了图坦卡蒙患有黑死病或肺结核。</span><span class="english">They also ruled out bubonic plague or tuberculosis.</span></p>

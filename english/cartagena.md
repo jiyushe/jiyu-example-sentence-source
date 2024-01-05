@@ -1,5 +1,7 @@
 # cartagena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cartagena.md)
+
 <p><span class="chinese">卡塔赫纳是一个有城墙围绕的美丽古城。</span><span class="english">Cartagena is a beautiful old walled city.</span></p>
 
 <p><span class="chinese">你认识库利亚坎和喀他赫纳的人？</span><span class="english">You know the folks in Culiacan and Cartagena?</span></p>

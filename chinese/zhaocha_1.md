@@ -1,5 +1,7 @@
 # 找碴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaocha_1.md)
+
 <p><span class="chinese">你在找碴吗?。</span><span class="english">Are you baffling me?</span></p>
 
 <p><span class="chinese">你真的很爱找碴耶。</span><span class="english">You really love nitpick.</span></p>

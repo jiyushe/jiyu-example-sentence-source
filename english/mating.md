@@ -1,5 +1,7 @@
 # mating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mating.md)
+
 <p><span class="chinese">求偶的水蟒团成一个球。</span><span class="english">A mating ball of anacondas.</span></p>
 
 <p><span class="chinese">可能是蛇的交配季节到了。</span><span class="english">It's during the snakes mating season.</span></p>

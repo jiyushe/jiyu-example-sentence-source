@@ -1,5 +1,7 @@
 # googol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/googol.md)
+
 <p><span class="chinese">是什么背后的故事命名的一些“天文数字”？</span><span class="english">What was the story behind the naming of the number "googol"?</span></p>
 
 <p><span class="chinese">琳达要当神经外科医生可真是希望渺茫。</span><span class="english">The chances of Linda becoming a neurosurgeon are about one in a googol.</span></p>

@@ -1,5 +1,7 @@
 # realizable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realizable.md)
+
 <p><span class="chinese">这个计画可实现吗？</span><span class="english">Is the plan realizable?</span></p>
 
 <p><span class="chinese">这就是为什么思想的重塑被认为是一个值得和可以实现的目标。</span><span class="english">That is why thought reform is a considered a desirable and realizable goal.</span></p>

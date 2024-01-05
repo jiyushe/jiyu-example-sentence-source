@@ -1,5 +1,7 @@
 # ecclesial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecclesial.md)
+
 <p><span class="chinese">在第6节，保罗建立了在教会生活中起作用的原则。</span><span class="english">In verse 6, Paul has now established the principle and goes on to show how this works out in ecclesial life.</span></p>
 
 <p><span class="chinese">拥有这样的态度我们就可以创造一个神的真理流传的团结向上的教会氛围。</span><span class="english">Having this attitude will create a united and positive ecclesial environment in which the truth of the gospel will flourish.</span></p>

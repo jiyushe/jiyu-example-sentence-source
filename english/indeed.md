@@ -1,5 +1,7 @@
 # indeed 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indeed.md)
+
 <p><span class="chinese">你真的是吗？</span><span class="english">Are you, indeed?</span></p>
 
 <p><span class="chinese">他的确就是“那一个人”。</span><span class="english">He is indeed the One.</span></p>

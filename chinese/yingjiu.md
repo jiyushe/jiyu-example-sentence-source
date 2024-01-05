@@ -1,5 +1,7 @@
 # 营救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingjiu.md)
+
 <p><span class="chinese">营救队待命。</span><span class="english">Stand by rescue team.</span></p>
 
 <p><span class="chinese">它可以半开着来营救你。</span><span class="english">It might open and save you.</span></p>

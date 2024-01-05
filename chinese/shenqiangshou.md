@@ -1,5 +1,7 @@
 # 神枪手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqiangshou.md)
+
 <p><span class="chinese">他是一个神枪手。</span><span class="english">He is a good shot.</span></p>
 
 <p><span class="chinese">西部最快的神枪手。</span><span class="english">Fastest knobs in the west.</span></p>

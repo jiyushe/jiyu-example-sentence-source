@@ -1,5 +1,7 @@
 # cozy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cozy.md)
+
 <p><span class="chinese">好走的路总已被布上地雷。</span><span class="english">The cozy way is always mined.</span></p>
 
 <p><span class="chinese">是那有衬里的舒适棉被吗？</span><span class="english">The cozy bedsheet with lining?</span></p>

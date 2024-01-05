@@ -1,5 +1,7 @@
 # 舒服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shufu_2.md)
+
 <p><span class="chinese">我感觉不舒服，我感冒了。</span><span class="english">I'm not. I have a.</span></p>
 
 <p><span class="chinese">啊，我感觉不舒服。</span><span class="english">Aaaah, I feel sick.</span></p>

@@ -1,5 +1,7 @@
 # possibility 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/possibility.md)
+
 <p><span class="chinese">这是可能的</span><span class="english">That's a possibility.</span></p>
 
 <p><span class="chinese">第一种可能是。</span><span class="english">Possibility number one.</span></p>

@@ -1,5 +1,7 @@
 # insularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insularity.md)
+
 <p><span class="chinese">这是典型的英国沙文主义和偏狭心理的事例。</span><span class="english">It was a typical case of British chauvinism and insularity.</span></p>
 
 <p><span class="chinese">同样对风险的规避演变成了贸易保护主义和岛国劣根性。</span><span class="english">This same risk aversion translates into protectionism and insularity.</span></p>

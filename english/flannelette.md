@@ -1,5 +1,7 @@
 # flannelette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flannelette.md)
+
 <p><span class="chinese">这种布由底布和绒毛组成。</span><span class="english">This flannelette is composed of base cloth and flocks.</span></p>
 
 <p><span class="chinese">软软柔柔的绒布终于可以回来了。</span><span class="english">Soft soft soft soft flannelette can come back eventually.</span></p>

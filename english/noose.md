@@ -1,5 +1,7 @@
 # noose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noose.md)
+
 <p><span class="chinese">缺的只是一条套索。</span><span class="english">The only thing missing is a noose.</span></p>
 
 <p><span class="chinese">你和你的未婚妻将面临刽子手的套索。</span><span class="english">You and your fiancee face the hangman 's noose.</span></p>

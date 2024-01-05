@@ -1,5 +1,7 @@
 # muss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muss.md)
+
 <p><span class="chinese">别摆弄我的头发！</span><span class="english">Don't muss up my hair!</span></p>
 
 <p><span class="chinese">你们会错过所有刺激的活动。</span><span class="english">You're going to muss all the action.</span></p>

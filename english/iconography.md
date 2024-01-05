@@ -1,5 +1,7 @@
 # iconography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iconography.md)
+
 <p><span class="chinese">在这之后其他还有圣经的形象。</span><span class="english">Again there is a biblical iconography behind this.</span></p>
 
 <p><span class="chinese">此外，运用图标也是一种不错的方法。</span><span class="english">Iconography is a common application of this strategy.</span></p>

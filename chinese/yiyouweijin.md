@@ -1,5 +1,7 @@
 # 意犹未尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyouweijin.md)
+
 <p><span class="chinese">最后两人都觉意犹未尽。</span><span class="english">End two people all felt an idea still exert.</span></p>
 
 <p><span class="chinese">校程序设计竞赛意犹未尽吗？</span><span class="english">Are you still attended to the competition of process design?</span></p>

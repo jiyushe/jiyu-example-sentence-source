@@ -1,5 +1,7 @@
 # 情诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshi_2.md)
+
 <p><span class="chinese">为什么我写不出一首献给安吉尔的情诗？</span><span class="english">Why can’t I write Angel a love poem?</span></p>
 
 <p><span class="chinese">而五个人中仅有一个曾经写过情诗。</span><span class="english">A paltry one in five had written a love poem.</span></p>

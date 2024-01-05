@@ -1,5 +1,7 @@
 # 克敌制胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kedizhisheng.md)
+
 <p><span class="chinese">他们奇迹般地克敌制胜。</span><span class="english">They miraculously won the victory over the enemy.</span></p>
 
 <p><span class="chinese">放松，唯冷静足以克敌制胜。</span><span class="english">Relax — victory can only be achieved through calmness.</span></p>

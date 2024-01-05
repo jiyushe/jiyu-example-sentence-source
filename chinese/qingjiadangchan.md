@@ -1,5 +1,7 @@
 # 倾家荡产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjiadangchan.md)
+
 <p><span class="chinese">马克思被那笔银行交易的发财梦搞得倾家荡产。</span><span class="english">Max lost his shirt on that bank deal alchemy.</span></p>
 
 <p><span class="chinese">他在股市投机买卖中倾家荡产。</span><span class="english">He exhausted a fortune in stock-market speculation.</span></p>

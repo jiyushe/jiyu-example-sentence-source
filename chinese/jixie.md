@@ -1,5 +1,7 @@
 # 机械
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixie.md)
+
 <p><span class="chinese">我是一个机械钳工。</span><span class="english">I am a mechanician.</span></p>
 
 <p><span class="chinese">所有车辆机械。</span><span class="english">All vehicle is mech.</span></p>

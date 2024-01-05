@@ -1,5 +1,7 @@
 # 明日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingri.md)
+
 <p><span class="chinese">明日香，丽是我妹妹。</span><span class="english">Asuka, Rei is my sister.</span></p>
 
 <p><span class="chinese">明日之星HTML5的崛起。</span><span class="english">The rising star of HTML5.</span></p>

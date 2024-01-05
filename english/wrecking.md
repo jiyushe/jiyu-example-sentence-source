@@ -1,5 +1,7 @@
 # wrecking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrecking.md)
+
 <p><span class="chinese">我们正在毁灭我们的世界。</span><span class="english">We are wrecking the world.</span></p>
 
 <p><span class="chinese">你在破坏我的植物学实验!</span><span class="english">You' re wrecking my botany experiment!</span></p>

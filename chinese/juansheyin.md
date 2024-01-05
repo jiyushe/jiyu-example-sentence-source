@@ -1,5 +1,7 @@
 # 卷舌音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juansheyin.md)
+
 <p><span class="chinese">我觉得它不值这个价卷舌音舌头位置。</span><span class="english">I don't think it's worth the price.</span></p>
 
 <p><span class="chinese">昨天晚上我听到一个非常有趣俄语卷舌音的笑话。</span><span class="english">I heard a really funny joke last night.</span></p>

@@ -1,5 +1,7 @@
 # congeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congeal.md)
+
 <p><span class="chinese">血液已经开始凝结。</span><span class="english">The blood had started to congeal.</span></p>
 
 <p><span class="chinese">润滑油可能凝结而形成凹槽。</span><span class="english">Gear lubricants may congeal and channel in cold weather.</span></p>

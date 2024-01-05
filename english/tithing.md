@@ -1,5 +1,7 @@
 # tithing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tithing.md)
+
 <p><span class="chinese">十一奉献是尊崇神的行为表现。</span><span class="english">Tithing is an act of worship.</span></p>
 
 <p><span class="chinese">让我们回到什一税的例子。</span><span class="english">Let's return to the tithing example.</span></p>

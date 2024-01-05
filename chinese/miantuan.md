@@ -1,5 +1,7 @@
 # 面团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miantuan.md)
+
 <p><span class="chinese">做生面团玩。</span><span class="english">Make play dough.</span></p>
 
 <p><span class="chinese">把这个面团放在一个托盘上。</span><span class="english">Put the dough in a tray.</span></p>

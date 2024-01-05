@@ -1,5 +1,7 @@
 # 霓虹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nihong.md)
+
 <p><span class="chinese">老两口的脸在短暂的霓虹中微微闪光。</span><span class="english">The two old people shimmered in brief rainbows.</span></p>
 
 <p><span class="chinese">另外，相信我，霓虹蓝不适合墙壁。</span><span class="english">P.S. Neon blue is not meant for walls. Trust me.</span></p>

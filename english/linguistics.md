@@ -1,5 +1,7 @@
 # linguistics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linguistics.md)
+
 <p><span class="chinese">什么是语言学?。</span><span class="english">I. 2 What is linguistics?</span></p>
 
 <p><span class="chinese">什么是认知语言学？</span><span class="english">What is Cognitive Linguistics?</span></p>

@@ -1,5 +1,7 @@
 # 敲诈勒索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaozhalesuo.md)
+
 <p><span class="chinese">他经常向她敲诈勒索。</span><span class="english">He often extorts money from her.</span></p>
 
 <p><span class="chinese">他用敲诈勒索的威胁使她屈服。</span><span class="english">He broke her by the threat of blackmail.</span></p>

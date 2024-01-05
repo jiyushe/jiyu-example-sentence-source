@@ -1,5 +1,7 @@
 # 石版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiban.md)
+
 <p><span class="chinese">耶和华把那两块石版交给我，是神用指头写的。</span><span class="english">The LORD gave me two stone tablets inscribed by the finger of God.</span></p>
 
 <p><span class="chinese">摩西上西乃山从神那里领受刻在石版上的十诫或律法。</span><span class="english">Sinai and got the Ten Commandments or Laws on two tablets of Stone.</span></p>

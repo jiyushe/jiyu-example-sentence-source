@@ -1,5 +1,7 @@
 # harris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harris.md)
+
 <p><span class="chinese">哈利斯在最后一圈跑到了最前面。</span><span class="english">Harris went on top in the last lap.</span></p>
 
 <p><span class="chinese">哈里斯夫人居住在一个小村庄里。</span><span class="english">Mrs Harris lives in a small village.</span></p>

@@ -1,5 +1,7 @@
 # railcar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/railcar.md)
+
 <p><span class="chinese">巴士，穿梭，轨道车乘客内饰。</span><span class="english">Bus, shuttle, railcar passenger interiors.</span></p>
 
 <p><span class="chinese">处理机车为了订单和汽车安插跟踪。</span><span class="english">Handle railcar order orders and car placement tracking.</span></p>

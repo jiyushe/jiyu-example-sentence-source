@@ -1,5 +1,7 @@
 # kodak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kodak.md)
+
 <p><span class="chinese">我要买一卷24张装的柯达胶卷。</span><span class="english">Can I have a 24-exposure roll of Kodak?</span></p>
 
 <p><span class="chinese">柯达公司将推出一种新型的数码相机DC215。</span><span class="english">Kodak will ship a new digital camera DC215.</span></p>

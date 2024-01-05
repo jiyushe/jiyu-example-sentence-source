@@ -1,5 +1,7 @@
 # 重言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyan_2.md)
+
 <p><span class="chinese">应用于重言式和矛盾式。</span><span class="english">Application of this to tautology and contradiction.</span></p>
 
 <p><span class="chinese">每个重言式本身表明它是一个重言式。</span><span class="english">Every tautology itself shows that it is a tautology.</span></p>

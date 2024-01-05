@@ -1,5 +1,7 @@
 # darky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darky.md)
+
 <p><span class="chinese">黑氏为他叹了一口气。</span><span class="english">Darky heaved a sigh for him.</span></p>
 
 <p><span class="chinese">还不如当初象黑人那样学会犁田、摘棉花呢。</span><span class="english">Better that I'd learned to plow or chop cotton like a darky.</span></p>

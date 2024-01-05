@@ -1,5 +1,7 @@
 # 小打小闹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaodaxiaonao.md)
+
 <p><span class="chinese">警察试图追踪他小打小闹作奸犯科的缘由。</span><span class="english">The police tried to trace his lapse into petty crime.</span></p>
 
 <p><span class="chinese">我还觉得他和Ginny的小打小闹，作者处理得很得体。</span><span class="english">I also thought his spat with Ginny was done very appropriately.</span></p>

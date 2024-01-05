@@ -1,5 +1,7 @@
 # vulcanizate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vulcanizate.md)
+
 <p><span class="chinese">轮胎胎面硫化橡胶的耐老化是其重要性能之一。</span><span class="english">Aging resistant is one of the properties for vulcanizate of tire tread.</span></p>
 
 <p><span class="chinese">软，黑，通用热塑性硫化橡胶的热塑性弹性体公司的家庭。</span><span class="english">A soft, black, versatile thermoplastic vulcanizate in the thermoplastic elastomer family.</span></p>

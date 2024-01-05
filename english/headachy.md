@@ -1,5 +1,7 @@
 # headachy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headachy.md)
+
 <p><span class="chinese">有没有对付头痛的好方法？</span><span class="english">Cope with headachy good method?</span></p>
 
 <p><span class="chinese">我最头痛的就是英文！</span><span class="english">I the most headachy is English!</span></p>

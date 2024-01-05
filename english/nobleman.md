@@ -1,5 +1,7 @@
 # nobleman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nobleman.md)
+
 <p><span class="chinese">九个敏捷的贵族啃桃仁。</span><span class="english">Nine nimble nobleman nibbled nuts.</span></p>
 
 <p><span class="chinese">“我要报答您，”贵族说。</span><span class="english">“I want to repay you,” said the nobleman.</span></p>

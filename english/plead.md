@@ -1,5 +1,7 @@
 # plead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plead.md)
+
 <p><span class="chinese">你会千方百计寻求关注吗？</span><span class="english">Do you plead for attention?</span></p>
 
 <p><span class="chinese">Tweener继续恳求。</span><span class="english">Tweener continues to plead.</span></p>

@@ -1,5 +1,7 @@
 # bordeaux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bordeaux.md)
+
 <p><span class="chinese">罗布·哈梅林在波尔多获得短跑冠军。</span><span class="english">Rob Harmeling won the sprint in Bordeaux.</span></p>
 
 <p><span class="chinese">这令人想起，在中国的推动下，波尔多葡萄酒开始了一轮泡沫？</span><span class="english">Shades of a China-driven Bordeaux bubble?</span></p>

@@ -1,5 +1,7 @@
 # expert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expert.md)
+
 <p><span class="chinese">领域专家。</span><span class="english">Domain expert.</span></p>
 
 <p><span class="chinese">你是妙手吗？</span><span class="english">Are you an expert ?</span></p>

@@ -1,5 +1,7 @@
 # 无处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuchu_1.md)
+
 <p><span class="chinese">他无处可去。</span><span class="english">He had nowhere to go.</span></p>
 
 <p><span class="chinese">科学呀，我无处可逃。</span><span class="english">From science I shrink.</span></p>

@@ -1,5 +1,7 @@
 # celsius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/celsius.md)
+
 <p><span class="chinese">是摄氏三十度，对不对?。</span><span class="english">Sind das 30 Grad Celsius?</span></p>
 
 <p><span class="chinese">怎样从华氏温度获得摄氏温度。</span><span class="english">How to get Celsius from Fahrenheit.</span></p>

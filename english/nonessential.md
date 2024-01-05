@@ -1,5 +1,7 @@
 # nonessential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonessential.md)
+
 <p><span class="chinese">对于任何非必要的购买建立一个“等待期”。</span><span class="english">Establish a “waiting period” before any nonessential purchase.</span></p>
 
 <p><span class="chinese">在培养基中不需要额外添加谷氨酰胺和非必需氨基酸。</span><span class="english">Glutamine and nonessential amino acids do no need to add superfluity.</span></p>

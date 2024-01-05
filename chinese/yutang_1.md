@@ -1,5 +1,7 @@
 # 鱼汤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yutang_1.md)
+
 <p><span class="chinese">好的.我喜欢酸菜鱼汤.</span><span class="english">That`s good. I like it.</span></p>
 
 <p><span class="chinese">鱼汤在锅里，煮的时间长。</span><span class="english">Fish soup in the pot, one day old.</span></p>

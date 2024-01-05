@@ -1,5 +1,7 @@
 # 孤注一掷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzhuyizhi.md)
+
 <p><span class="chinese">如同扑克牌中的孤注一掷。</span><span class="english">Kind of like going all-in on a poker hand.</span></p>
 
 <p><span class="chinese">他孤注一掷用自己的积蓄开了一家小商店。</span><span class="english">He gambled his savings to start a small shop.</span></p>

@@ -1,5 +1,7 @@
 # 胃液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiye_1.md)
+
 <p><span class="chinese">胃液能帮助消化。</span><span class="english">Gastric juices help us digest our food.</span></p>
 
 <p><span class="chinese">我已经采到像胃液一样的消化液了。</span><span class="english">I have aspirated juice which looks like gastric juice.</span></p>

@@ -1,5 +1,7 @@
 # pullman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pullman.md)
+
 <p><span class="chinese">他买了两张车票加头等卧铺票。</span><span class="english">He bought two tickets and Pullman berths.</span></p>
 
 <p><span class="chinese">请给我一张往芝加哥的卧铺票。</span><span class="english">Give me one Pullman ticket to Chicago,please.</span></p>

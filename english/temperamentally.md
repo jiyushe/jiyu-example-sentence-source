@@ -1,5 +1,7 @@
 # temperamentally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temperamentally.md)
+
 <p><span class="chinese">我们情趣相投。</span><span class="english">We are temperamentally compatible.</span></p>
 
 <p><span class="chinese">我的性格不适合这种工作。</span><span class="english">I'm temperamentally unsuited to this job.</span></p>

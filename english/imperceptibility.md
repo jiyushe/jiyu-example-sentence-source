@@ -1,5 +1,7 @@
 # imperceptibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperceptibility.md)
+
 <p><span class="chinese">实验结果表明，该隐写算法具有更好的隐蔽性和鲁棒性。</span><span class="english">Experimental result indicates the proposed algorithm has better imperceptibility and robustness.</span></p>
 
 <p><span class="chinese">用于版权保护的数字水印设计的关键是水印信息嵌入的隐蔽性和抵抗攻击的鲁棒性。</span><span class="english">The key of digital watermark to copyright protection is the imperceptibility and robustness for embedded information.</span></p>

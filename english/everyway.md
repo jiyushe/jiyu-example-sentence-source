@@ -1,5 +1,7 @@
 # everyway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/everyway.md)
+
 <p><span class="chinese">他们想尽办法来解决问题。</span><span class="english">They tried everyway to find the solution.</span></p>
 
 <p><span class="chinese">他们用各种方法试图找到资料。</span><span class="english">They tried everyway to find the information.</span></p>

@@ -1,5 +1,7 @@
 # 营建
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingjian.md)
+
 <p><span class="chinese">他们将在公园大旨营建一座庆贺碑。</span><span class="english">They will put up a monument in the middle of the park.</span></p>
 
 <p><span class="chinese">他们找到了适于营建种子园的地区。</span><span class="english">They have found areas suitable for seed orchard purposes.</span></p>

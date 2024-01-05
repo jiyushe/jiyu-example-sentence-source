@@ -1,5 +1,7 @@
 # edentulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edentulous.md)
+
 <p><span class="chinese">人工植牙可以恢复牙齿缺失后的咀嚼功能。</span><span class="english">Dental implants can be used for restoration of partial edentulous case.</span></p>
 
 <p><span class="chinese">方法对12例无牙颌患者进行种植修复。</span><span class="english">Methods 12 edentulous patients were made with the implant-supported overdentures.</span></p>

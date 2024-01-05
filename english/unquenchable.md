@@ -1,5 +1,7 @@
 # unquenchable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unquenchable.md)
+
 <p><span class="chinese">沙尘使你喉咙发干，让你感到干渴难忍。</span><span class="english">Dust dries your throat, leaving an unquenchable thirst.</span></p>
 
 <p><span class="chinese">五岁孩子似乎都有如饥似渴的求知欲。</span><span class="english">Five-year-olds seem to have an unquenchable thirst for knowledge.</span></p>

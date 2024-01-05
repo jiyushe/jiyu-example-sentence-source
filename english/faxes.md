@@ -1,5 +1,7 @@
 # faxes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faxes.md)
+
 <p><span class="chinese">但是要注意，传真通常会无果而终。</span><span class="english">But be aware that faxes usually end up in the garbage.</span></p>
 
 <p><span class="chinese">传真机使用有一面己用过的纸张接收文件</span><span class="english">Paper used only on one side is re-used for receiving faxes</span></p>

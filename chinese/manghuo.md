@@ -1,5 +1,7 @@
 # 忙活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manghuo.md)
+
 <p><span class="chinese">你忙活些什么?</span><span class="english">What are you bustling about?</span></p>
 
 <p><span class="chinese">她将要忙活20年才会得空。</span><span class="english">She’s going to be busy for 20 years.</span></p>

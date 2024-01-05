@@ -1,5 +1,7 @@
 # starvation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starvation.md)
+
 <p><span class="chinese">这些是饥饿线吗？</span><span class="english">Are these Starvation Lines?</span></p>
 
 <p><span class="chinese">他们渴死或饿死。</span><span class="english">They died of thirst or starvation.</span></p>

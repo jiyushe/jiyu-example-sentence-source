@@ -1,5 +1,7 @@
 # veins
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veins.md)
+
 <p><span class="chinese">他的手臂上青筋暴露。</span><span class="english">His arm veins twitched.</span></p>
 
 <p><span class="chinese">我们在叶子上可以看到叶脉。</span><span class="english">We can see veins on a leaf.</span></p>

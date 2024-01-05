@@ -1,5 +1,7 @@
 # 银币
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinbi_1.md)
+
 <p><span class="chinese">可能是一银币。</span><span class="english">An obol perhaps.</span></p>
 
 <p><span class="chinese">你还有银币吗？</span><span class="english">Have you got any more dimes?</span></p>

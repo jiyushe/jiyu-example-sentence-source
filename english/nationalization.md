@@ -1,5 +1,7 @@
 # nationalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nationalization.md)
+
 <p><span class="chinese">欧洲人将转向国有化。</span><span class="english">Europeans will drift toward nationalization.</span></p>
 
 <p><span class="chinese">民族化是一个长期的装了很多人。</span><span class="english">Nationalization is a loaded term for a lot of people.</span></p>

@@ -1,5 +1,7 @@
 # imaginal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imaginal.md)
+
 <p><span class="chinese">文学的本质是形象。</span><span class="english">Literature is, by nature, imaginal.</span></p>
 
 <p><span class="chinese">她用尽一切想得到的办法阻止她们控告。</span><span class="english">She tried all imaginal ways to prevent a prosecution.</span></p>

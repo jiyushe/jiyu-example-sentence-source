@@ -1,5 +1,7 @@
 # 休闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuxian.md)
+
 <p><span class="chinese">问公主休闲音乐聊天室吧。我不介意。</span><span class="english">Go ahead. I don't mind.</span></p>
 
 <p><span class="chinese">他喜欢休闲服装。</span><span class="english">He likes casual attires.</span></p>

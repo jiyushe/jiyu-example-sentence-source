@@ -1,5 +1,7 @@
 # 单眼皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danyanpi.md)
+
 <p><span class="chinese">他是一个单眼皮的男孩。</span><span class="english">He is a single-eyelid boy.</span></p>
 
 <p><span class="chinese">秦海璐为自己特有的单眼皮也投了保险。</span><span class="english">Qin Hailu insured her particular single eyelid.</span></p>

@@ -1,5 +1,7 @@
 # 鞋跟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiegen.md)
+
 <p><span class="chinese">皮革外底用橡胶鞋跟。</span><span class="english">Leather outsole with rubber heel.</span></p>
 
 <p><span class="chinese">在鞋跟拉片，方便上下车。</span><span class="english">Heel pull tab for easy on and off.</span></p>

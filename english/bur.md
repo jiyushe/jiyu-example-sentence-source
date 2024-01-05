@@ -1,5 +1,7 @@
 # bur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bur.md)
+
 <p><span class="chinese">北美的一种鬼针草属植物，花大。</span><span class="english">North American bur marigold with large flowers.</span></p>
 
 <p><span class="chinese">我所想的除了为了你的好，没有别的。</span><span class="english">What I think about is nothing bur your welfare.</span></p>

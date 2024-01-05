@@ -1,5 +1,7 @@
 # backdrop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backdrop.md)
+
 <p><span class="chinese">我看见了高空星光点缀的天幕。</span><span class="english">And in the sky above, her starry backdrop.</span></p>
 
 <p><span class="chinese">仲夏雨过之后彩虹跨越天幕。</span><span class="english">Midsummer rain after rainbow across backdrop.</span></p>

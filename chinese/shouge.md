@@ -1,5 +1,7 @@
 # 收割
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouge.md)
+
 <p><span class="chinese">小麦已经收割。</span><span class="english">The wheat has been cut.</span></p>
 
 <p><span class="chinese">他们正在收割小麦。</span><span class="english">They are cropping wheat.</span></p>

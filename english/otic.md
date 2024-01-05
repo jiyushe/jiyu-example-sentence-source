@@ -1,5 +1,7 @@
 # otic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otic.md)
+
 <p><span class="chinese">在这个时候，兴奋和疲劳同时产生，艺术可能是催眠的。</span><span class="english">At this time, excitement and fatigue run side-by-side, and art becomes hy otic.</span></p>
 
 <p><span class="chinese">同时，研究发现PAPC异位注射并不足以诱导一个新的异源的耳基板的形成。</span><span class="english">However, PAPC alone is not sufficient to induce an ectopic otic placode formation.</span></p>

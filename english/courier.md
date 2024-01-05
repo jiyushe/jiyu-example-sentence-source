@@ -1,5 +1,7 @@
 # courier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courier.md)
+
 <p><span class="chinese">DHL国际快递服务。</span><span class="english">DHL International Courier Service.</span></p>
 
 <p><span class="chinese">这位信差疑惑地摇摇头。</span><span class="english">The courier shook his head dubiously.</span></p>

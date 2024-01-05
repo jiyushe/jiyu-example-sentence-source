@@ -1,5 +1,7 @@
 # selenide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selenide.md)
+
 <p><span class="chinese">另外，聚合物试剂还可以通过简单处理回收利用。</span><span class="english">And also polystyrene-supported benzyl selenide can be regenerated and reused.</span></p>
 
 <p><span class="chinese">研究了一种一次烧成镉硒红釉的新工艺。</span><span class="english">New technology of once sintering sulphide selenide cadmium base red glaze is researched.</span></p>

@@ -1,5 +1,7 @@
 # 酒鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiugui.md)
+
 <p><span class="chinese">他是个酒鬼。</span><span class="english">He is a drunkard.</span></p>
 
 <p><span class="chinese">他是一个酒鬼。</span><span class="english">Crane was an alcoholic.</span></p>

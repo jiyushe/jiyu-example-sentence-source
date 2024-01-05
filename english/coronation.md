@@ -1,5 +1,7 @@
 # coronation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coronation.md)
+
 <p><span class="chinese">因为艰难是冠冕的代价。</span><span class="english">Hardship is the price of coronation.</span></p>
 
 <p><span class="chinese">没想到，却要用在我的册封大典上。</span><span class="english">However, it is now used in my coronation.</span></p>

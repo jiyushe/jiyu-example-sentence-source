@@ -1,5 +1,7 @@
 # indolence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indolence.md)
+
 <p><span class="chinese">这是虚荣心！</span><span class="english">This is indolence.</span></p>
 
 <p><span class="chinese">什么是懒惰的死亡？</span><span class="english">What is death from indolence?</span></p>

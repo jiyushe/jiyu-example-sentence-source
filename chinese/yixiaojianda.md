@@ -1,5 +1,7 @@
 # 以小见大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiaojianda.md)
+
 <p><span class="chinese">艺术的一个基本规律就是以小见大。</span><span class="english">A basic law of art is to appear to be bigger for a short time.</span></p>
 
 <p><span class="chinese">以小见大、言近旨远，是新时期文学中的散文精品。</span><span class="english">It is the exquisite prose in the literature of the new period.</span></p>

@@ -1,5 +1,7 @@
 # odor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odor.md)
+
 <p><span class="chinese">锡器有一股臭气。</span><span class="english">Pewter has an odor.</span></p>
 
 <p><span class="chinese">有没有口臭和狐臭呀？</span><span class="english">Have halitosis and body odor?</span></p>

@@ -1,5 +1,7 @@
 # 树种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhong.md)
+
 <p><span class="chinese">材用树种的一个属。</span><span class="english">The wood of a gum tree.</span></p>
 
 <p><span class="chinese">黑檀树种黑而坚硬树木。</span><span class="english">Ebony is a hard black wood.</span></p>

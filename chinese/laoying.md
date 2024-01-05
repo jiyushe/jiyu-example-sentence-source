@@ -1,5 +1,7 @@
 # 老鹰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoying.md)
+
 <p><span class="chinese">老鹰猛地向它要捕食的动物扑去。</span><span class="english">The hawk chops upon its prey.</span></p>
 
 <p><span class="chinese">鸽子啄伤老鹰。</span><span class="english">The pigeon injured the eagle.</span></p>

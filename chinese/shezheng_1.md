@@ -1,5 +1,7 @@
 # 摄政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shezheng_1.md)
+
 <p><span class="chinese">这所住宅到处陈列着摄政时期的家具。</span><span class="english">The house itself was full of Regency furniture.</span></p>
 
 <p><span class="chinese">这所选定的公寓面对着摄政公园。</span><span class="english">The lodgings selected faced the Regent Gardens.</span></p>

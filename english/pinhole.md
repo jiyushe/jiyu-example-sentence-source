@@ -1,5 +1,7 @@
 # pinhole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinhole.md)
+
 <p><span class="chinese">折出一台纸针孔相机！</span><span class="english">How to Fold a Pinhole Camera?</span></p>
 
 <p><span class="chinese">无针孔的涂膜，没有表面缺陷的表面。</span><span class="english">Pinhole free film. A surface free from any defects.</span></p>

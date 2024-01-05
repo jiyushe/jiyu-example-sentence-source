@@ -1,5 +1,7 @@
 # endogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endogenic.md)
+
 <p><span class="chinese">水土流失是一个复杂的地貌过程，它受多种因素的影响。</span><span class="english">The soil erosion is a complex geomorphological process caused by the endogenic and exogenic force.</span></p>
 
 <p><span class="chinese">方法预防内源性医院感染发生的正确性和实用性。</span><span class="english">OBJECTIVE To explore the correctness and practicability of microecology methods to prevent endogenic hospital infection.</span></p>

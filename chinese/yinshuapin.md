@@ -1,5 +1,7 @@
 # 印刷品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshuapin.md)
+
 <p><span class="chinese">他盲目相信一切印刷品。</span><span class="english">He accepted blindly anything printed.</span></p>
 
 <p><span class="chinese">我能不能把这些书做印刷品邮寄？</span><span class="english">Can I send these books as printed matter?</span></p>

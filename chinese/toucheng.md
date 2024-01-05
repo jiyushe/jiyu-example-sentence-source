@@ -1,5 +1,7 @@
 # 投诚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toucheng.md)
+
 <p><span class="chinese">伊朗科学家阿米里，绑架或间谍投诚？</span><span class="english">Iranian scientist Shahram Amiri, Kidnapped or a defecting Spy?</span></p>
 
 <p><span class="chinese">可是自己却抛却啦，自己向它们投诚啦，被它们打败啦。</span><span class="english">But I actually give up, I asked them to surrender, be they defeated.</span></p>

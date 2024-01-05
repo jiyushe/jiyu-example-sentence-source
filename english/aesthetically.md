@@ -1,5 +1,7 @@
 # aesthetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aesthetically.md)
+
 <p><span class="chinese">它们看起来很引人注意，但从审美和句法角度来讲却是马马虎虎。</span><span class="english">Grammatically and aesthetically it can look sloppy.</span></p>
 
 <p><span class="chinese">陈军的这张“柳下吟荷”很是唯美。</span><span class="english">"Lotus Song Under Willow" by Chen Jun is aesthetically beautiful.</span></p>

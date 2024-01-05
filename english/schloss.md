@@ -1,5 +1,7 @@
 # schloss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schloss.md)
+
 <p><span class="chinese">破坏了的城堡的一部份。</span><span class="english">Part of the destructed Schloss.</span></p>
 
 <p><span class="chinese">这就是著名的海伦基姆宫。</span><span class="english">It is the famous Schloss Herrenchiemsee.</span></p>

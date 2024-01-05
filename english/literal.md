@@ -1,5 +1,7 @@
 # literal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/literal.md)
+
 <p><span class="chinese">逐字翻译不一定最接近原义。</span><span class="english">He made a literal interpretation.</span></p>
 
 <p><span class="chinese">又一次强调了字面意思的一天。</span><span class="english">This re-emphasizes a literal day.</span></p>

@@ -1,5 +1,7 @@
 # kitchenette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kitchenette.md)
+
 <p><span class="chinese">部分客房还配备了小厨房。</span><span class="english">Some rooms include a kitchenette.</span></p>
 
 <p><span class="chinese">我走进了小厨房，希望能找到一杯咖啡。</span><span class="english">I walk into the kitchenette in search ofcoffee.</span></p>

@@ -1,5 +1,7 @@
 # 意匠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijiang.md)
+
 <p><span class="chinese">基于规范分析以及成本收益分析，可知意匠多重保护是不可欲的。</span><span class="english">Based on the normative and cost-benefit analyses, multi-protection to industrial design is not desirable.</span></p>
 
 <p><span class="chinese">通过对特征子阵的铺设并和原始意匠图的匹配，可以实现完全组织循环参数的提取。</span><span class="english">With laying feature submatrix and matching with original diagram, the parameter of weave repeat unit can be extracted successfully.</span></p>

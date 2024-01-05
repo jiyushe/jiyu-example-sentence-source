@@ -1,5 +1,7 @@
 # jarring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jarring.md)
+
 <p><span class="chinese">这让我们这些中国孩子很受震动。</span><span class="english">It was jarring for us Chinese kids.</span></p>
 
 <p><span class="chinese">这无疑是他的报告中最不和谐的部分。</span><span class="english">This was, easily, the most jarring part of his talk.</span></p>

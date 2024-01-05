@@ -1,5 +1,7 @@
 # juan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juan.md)
+
 <p><span class="chinese">问问胡安·马丁内斯吧。</span><span class="english">Ask Juan Martinez.</span></p>
 
 <p><span class="chinese">胡安不在家么？</span><span class="english">Juan no está en casa ?</span></p>

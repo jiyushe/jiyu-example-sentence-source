@@ -1,5 +1,7 @@
 # totality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totality.md)
+
 <p><span class="chinese">什麽是意符的整体性的本体位置？</span><span class="english">What is proper to the totality of signifiers.</span></p>
 
 <p><span class="chinese">你激活了整体的智性。</span><span class="english">You have activated the intelligence of the totality.</span></p>

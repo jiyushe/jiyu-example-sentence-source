@@ -1,5 +1,7 @@
 # 两端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangduan.md)
+
 <p><span class="chinese">将纸的两端取齐。</span><span class="english">Even up the edges of the paper.</span></p>
 
 <p><span class="chinese">带子两端在背后扣起来。</span><span class="english">The two ends buckle at the back.</span></p>

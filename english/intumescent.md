@@ -1,5 +1,7 @@
 # intumescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intumescent.md)
+
 <p><span class="chinese">脾脏肿大怎么治疗？</span><span class="english">Is milt intumescent how to treat?</span></p>
 
 <p><span class="chinese">肝脾偶见肿大。</span><span class="english">Liver is lienal see occasionally intumescent.</span></p>

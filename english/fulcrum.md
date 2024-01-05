@@ -1,5 +1,7 @@
 # fulcrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulcrum.md)
+
 <p><span class="chinese">伊朗是这块动荡区域的槓杆支点。</span><span class="english">Iran is the fulcrum of an unstable region.</span></p>
 
 <p><span class="chinese">那鹰的静悬之处拼死迈进。</span><span class="english">Fulcrum of violence where the hawk hangs still.</span></p>

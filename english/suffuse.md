@@ -1,5 +1,7 @@
 # suffuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suffuse.md)
+
 <p><span class="chinese">漫山遍野间有朵朵的落花。</span><span class="english">Flowers that suffuse and fall.</span></p>
 
 <p><span class="chinese">让这个感觉充满你整个身体。</span><span class="english">Let it suffuse your entire body!</span></p>

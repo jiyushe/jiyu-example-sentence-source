@@ -1,5 +1,7 @@
 # pallium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pallium.md)
+
 <p><span class="chinese">脑电信号是大脑皮层的神经元具有的生物电活动。</span><span class="english">Electroencephalogram signal is bioelectric behavior from nerve cell in pallium.</span></p>
 
 <p><span class="chinese">上网会让大脑皮层非常兴奋，比其他活动更易引起失眠。</span><span class="english">Online meeting makes pallium very excited, cause insomnia more easily than other activity.</span></p>

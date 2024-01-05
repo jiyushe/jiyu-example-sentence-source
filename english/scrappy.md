@@ -1,5 +1,7 @@
 # scrappy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrappy.md)
+
 <p><span class="chinese">但是品牌广告对新生的初创企业来说是一件困难的事情。</span><span class="english">But brand advertising can be a tough thing for scrappy startups.</span></p>
 
 <p><span class="chinese">事实上，那里是个充满活力的商业区，充斥着小商小贩。</span><span class="english">But they're actually vibrant business centers filled with scrappy entrepreneurs.</span></p>

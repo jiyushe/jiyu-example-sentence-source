@@ -1,5 +1,7 @@
 # 情景交融
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjingjiaorong.md)
+
 <p><span class="chinese">其创作为文质兼胜、情景交融的盛唐诗歌艺术风貌的形成，作出了应有的贡献。</span><span class="english">He contributed a lot to the reaction of the poetic literature in Tang Dynasty.</span></p>
 
 <p><span class="chinese">有时候有了情景交融后的幸福，就必须学会舍弃接下来的风景。</span><span class="english">Sometimes the feeling after happiness, you must learn to abandon the next scenic.</span></p>

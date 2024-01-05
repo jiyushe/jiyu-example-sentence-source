@@ -1,5 +1,7 @@
 # adonis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adonis.md)
+
 <p><span class="chinese">你看见汤姆学习小组里那个帅哥了吗?。</span><span class="english">Did you see that Adonis in Tom's study group?</span></p>
 
 <p><span class="chinese">我走了进去，等了两个小时，随后就叫爱多尼斯。</span><span class="english">I went inside, waited 2 hours, then called Adonis.</span></p>

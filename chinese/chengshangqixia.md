@@ -1,5 +1,7 @@
 # 承上启下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengshangqixia.md)
+
 <p><span class="chinese">塞维鲁为罗马帝国历史上承上启下的皇帝。</span><span class="english">Septimius Severus was an emperor at turning point in the Roman imperial history.</span></p>
 
 <p><span class="chinese">初中教师在这一背景下起到了承上启下的作用。</span><span class="english">They form a link between the preceding and the following under such a background.</span></p>

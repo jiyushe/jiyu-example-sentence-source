@@ -1,5 +1,7 @@
 # 轻飘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingpiao.md)
+
 <p><span class="chinese">没有轻飘的粉红色。</span><span class="english">No ethereal pinks.</span></p>
 
 <p><span class="chinese">我浑身无力感觉我的手就象两只轻飘的气球。</span><span class="english">My hands felt just like two balloons.</span></p>

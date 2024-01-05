@@ -1,5 +1,7 @@
 # 大王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daiwang.md)
+
 <p><span class="chinese">他是故事大王，天生的好口才。</span><span class="english">He was born to chat.</span></p>
 
 <p><span class="chinese">约翰是一个饶舌大王。</span><span class="english">John is such a windbag.</span></p>

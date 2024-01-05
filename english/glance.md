@@ -1,5 +1,7 @@
 # glance 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glance.md)
+
 <p><span class="chinese">我瞥了他一眼。</span><span class="english">I glance at him.</span></p>
 
 <p><span class="chinese">我看了她一眼。</span><span class="english">I gave her a glance.</span></p>

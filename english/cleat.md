@@ -1,5 +1,7 @@
 # cleat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleat.md)
+
 <p><span class="chinese">把缆绳系在这系缆墩上。</span><span class="english">Belay on this cleat.</span></p>
 
 <p><span class="chinese">请收拾桌子。</span><span class="english">Please cleat the table.</span></p>

@@ -1,5 +1,7 @@
 # 铁甲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiejia.md)
+
 <p><span class="chinese">可怜的老铁甲拳。</span><span class="english">Poor old mailed fist.</span></p>
 
 <p><span class="chinese">铁甲骑兵的马有多大？</span><span class="english">How big were the cataphract horses?</span></p>

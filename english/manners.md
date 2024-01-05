@@ -1,5 +1,7 @@
 # manners
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manners.md)
+
 <p><span class="chinese">你的礼貌到哪里去了呢？</span><span class="english">Whar's yo' manners?</span></p>
 
 <p><span class="chinese">原谅她的坏态度。</span><span class="english">Excuse her bad manners.</span></p>

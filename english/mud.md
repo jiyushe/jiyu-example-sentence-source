@@ -1,5 +1,7 @@
 # mud 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mud.md)
+
 <p><span class="chinese">泥在盐上。</span><span class="english">Mud on salt.</span></p>
 
 <p><span class="chinese">你弄得身上都是泥。</span><span class="english">You got mud ll over.</span></p>

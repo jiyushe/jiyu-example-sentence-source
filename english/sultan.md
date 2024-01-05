@@ -1,5 +1,7 @@
 # sultan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sultan.md)
+
 <p><span class="chinese">亦非苏丹或法老居高司号令。</span><span class="english">Sultan or Chief in high command.</span></p>
 
 <p><span class="chinese">萨拉丁和麾下精锐卫队。</span><span class="english">The Sultan Saladin and his bodyguard.</span></p>

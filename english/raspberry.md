@@ -1,5 +1,7 @@
 # raspberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raspberry.md)
+
 <p><span class="chinese">这个覆盆子色看起来太艳了。</span><span class="english">This raspberry color looks too rich.</span></p>
 
 <p><span class="chinese">这是一种法国产的杨梅甜酒。</span><span class="english">Framboise is a French raspberry liqueur.</span></p>

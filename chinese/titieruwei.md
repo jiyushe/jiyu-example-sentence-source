@@ -1,5 +1,7 @@
 # 体贴入微
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/titieruwei.md)
+
 <p><span class="chinese">他的妻子体贴入微地照顾他。</span><span class="english">He was carefully nursed by his wife.</span></p>
 
 <p><span class="chinese">他对老人一向体贴入微。</span><span class="english">He is always considerate to old people.</span></p>

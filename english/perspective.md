@@ -1,5 +1,7 @@
 # perspective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perspective.md)
+
 <p><span class="chinese">我同意他的观点。</span><span class="english">I share his perspective.</span></p>
 
 <p><span class="chinese">我明白他的愿景。</span><span class="english">I understand his perspective.</span></p>

@@ -1,5 +1,7 @@
 # demoralization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demoralization.md)
+
 <p><span class="chinese">开始意志消沉，并可能变成永久性的。</span><span class="english">Demoralization sets in and can become permanent.</span></p>
 
 <p><span class="chinese">但是什么将要做的人们关于残破的婚姻，败坏人心？</span><span class="english">But What shall people to do about the broken marriage, the demoralization ?</span></p>

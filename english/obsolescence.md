@@ -1,5 +1,7 @@
 # obsolescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obsolescence.md)
+
 <p><span class="chinese">自然的国度里，从不会有过时的计划。</span><span class="english">Nature does not dwell in the realm of planned obsolescence.</span></p>
 
 <p><span class="chinese">速度的限制和技术的陈旧，这是专利唯一保护的。</span><span class="english">Speed and technological obsolescence are the only protections that matter.</span></p>

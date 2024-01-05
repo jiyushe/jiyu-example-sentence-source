@@ -1,5 +1,7 @@
 # rack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rack.md)
+
 <p><span class="chinese">我把它放在行李架上。</span><span class="english">I left it on a rack.</span></p>
 
 <p><span class="chinese">我在货架上看到过。</span><span class="english">I saw it on the rack.</span></p>

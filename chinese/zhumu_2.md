@@ -1,5 +1,7 @@
 # 瞩目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhumu_2.md)
+
 <p><span class="chinese">但是现在起将会备受瞩目。</span><span class="english">It will now.</span></p>
 
 <p><span class="chinese">九龙壁也是令世人所瞩目的。</span><span class="english">Nine Dragon Wall is the world's attention.</span></p>

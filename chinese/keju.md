@@ -1,5 +1,7 @@
 # 客居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keju.md)
+
 <p><span class="chinese">这是我客居在外时暂住的家。</span><span class="english">This is my home away from home.</span></p>
 
 <p><span class="chinese">客居他乡并不总是一件令人愉快的事。</span><span class="english">Living in a strange land is not always a pleasant thing.</span></p>

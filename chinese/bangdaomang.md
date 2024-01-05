@@ -1,5 +1,7 @@
 # 帮倒忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangdaomang.md)
+
 <p><span class="chinese">他只会帮倒忙。</span><span class="english">His help just causes more trouble.</span></p>
 
 <p><span class="chinese">不要再说了，你只会给他帮倒忙。</span><span class="english">Don't speak, you will do a disservice to him.</span></p>

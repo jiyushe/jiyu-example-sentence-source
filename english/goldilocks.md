@@ -1,5 +1,7 @@
 # goldilocks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goldilocks.md)
+
 <p><span class="chinese">难道传说中的金发女孩是瑞典人？</span><span class="english">Maybe Goldilocks was Swedish?</span></p>
 
 <p><span class="chinese">金凤花和三只熊的故事</span><span class="english">Goldilocks and the Three Bears</span></p>

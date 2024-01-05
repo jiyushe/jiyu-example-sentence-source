@@ -1,5 +1,7 @@
 # 花儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaer.md)
+
 <p><span class="chinese">连花儿都没有。</span><span class="english">It’s not flowered.</span></p>
 
 <p><span class="chinese">花儿也把春来闹。</span><span class="english">Flowers are coming too.</span></p>

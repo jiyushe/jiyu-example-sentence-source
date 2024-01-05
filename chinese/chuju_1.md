@@ -1,5 +1,7 @@
 # 出局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuju_1.md)
+
 <p><span class="chinese">加廷是怎么出局的?。</span><span class="english">How did Gatting get out?</span></p>
 
 <p><span class="chinese">他得到120分之后被判出局。</span><span class="english">He was bowled out for 120.</span></p>

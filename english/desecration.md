@@ -1,5 +1,7 @@
 # desecration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desecration.md)
+
 <p><span class="chinese">詹姆斯·易的报告更进一步地证实了亵渎古兰的控诉。</span><span class="english">Yee's account further corroborates the charges about desecration of the Qur'an.</span></p>
 
 <p><span class="chinese">针威胁着石头的亵渎，威胁着核心的穿透力。</span><span class="english">The needle threatened the desecration of the stone, the penetration to the core.</span></p>

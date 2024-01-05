@@ -1,5 +1,7 @@
 # remnant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remnant.md)
+
 <p><span class="chinese">剩余的时间是可以测量的。</span><span class="english">The remnant time was measurable.</span></p>
 
 <p><span class="chinese">我要使这余剩的民、享受这一切的福。</span><span class="english">You Know, Remnant Of A Different Age.</span></p>

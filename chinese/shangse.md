@@ -1,5 +1,7 @@
 # 上色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangse.md)
+
 <p><span class="chinese">约翰上色。</span><span class="english">Photo by John Vachon.</span></p>
 
 <p><span class="chinese">我们会滑冰，你们会画画上色。</span><span class="english">We can skate and Youcan paint.</span></p>

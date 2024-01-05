@@ -1,5 +1,7 @@
 # industrialization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/industrialization.md)
+
 <p><span class="chinese">第四阶段产业化尚在酝酿阶段。</span><span class="english">Phase IV is still brewing industrialization stage.</span></p>
 
 <p><span class="chinese">第二章，民办教育产业。</span><span class="english">The second chapter is about NGE industrialization.</span></p>

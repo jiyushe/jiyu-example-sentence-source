@@ -1,5 +1,7 @@
 # 内河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neihe_1.md)
+
 <p><span class="chinese">这是内河港。</span><span class="english">This is an inland port.</span></p>
 
 <p><span class="chinese">接下来，我混合了一些内河船倒。</span><span class="english">Next I mixed up some RTV and poured.</span></p>

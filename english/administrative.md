@@ -1,5 +1,7 @@
 # administrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/administrative.md)
+
 <p><span class="chinese">从管理控制台注销。</span><span class="english">Log off the administrative console.</span></p>
 
 <p><span class="chinese">登录到管理控制台。</span><span class="english">Log into the administrative console.</span></p>

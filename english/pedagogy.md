@@ -1,5 +1,7 @@
 # pedagogy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedagogy.md)
+
 <p><span class="chinese">这就是这种教学模式。</span><span class="english">So that's the pedagogy.</span></p>
 
 <p><span class="chinese">我的专业就是英语文学和教育。</span><span class="english">I majored in English Linguistics and Pedagogy.</span></p>

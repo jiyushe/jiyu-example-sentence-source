@@ -1,5 +1,7 @@
 # waxen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waxen.md)
+
 <p><span class="chinese">她的面色变得蜡黄。</span><span class="english">Her face turned waxen.</span></p>
 
 <p><span class="chinese">那老头苍白的脸冰凉。</span><span class="english">The old man's waxen face was cold.</span></p>

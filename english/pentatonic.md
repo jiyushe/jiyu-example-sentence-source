@@ -1,5 +1,7 @@
 # pentatonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentatonic.md)
+
 <p><span class="chinese">因此,它是一个所谓的,五,我们称之为五声的音阶</span><span class="english">So, it's a penta-- what we call a pentatonic scale.</span></p>
 
 <p><span class="chinese">因此，它是一个所谓的，五，我们称之为五声的音阶。</span><span class="english">So, it's a penta-- what we call a pentatonic scale.</span></p>

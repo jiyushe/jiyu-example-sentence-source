@@ -1,5 +1,7 @@
 # 少壮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaozhuang.md)
+
 <p><span class="chinese">正如谚语所说，“少壮不努力，老大徒伤悲。”</span><span class="english">As the proverb says , idle young, needy old.</span></p>
 
 <p><span class="chinese">古人学问无遗力，少壮工夫老始成。</span><span class="english">The learning without effort, the old time before.</span></p>

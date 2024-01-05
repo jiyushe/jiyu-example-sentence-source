@@ -1,5 +1,7 @@
 # coruscant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coruscant.md)
+
 <p><span class="chinese">杰森和维婕尔逃到了科洛桑。</span><span class="english">Jacen and Vergere fled to Coruscant.</span></p>
 
 <p><span class="chinese">妮拉特·阿吉拉是科洛桑夜总会里很典型的一类人。</span><span class="english">Nyrat Agira was typical of the Coruscant club scene.</span></p>

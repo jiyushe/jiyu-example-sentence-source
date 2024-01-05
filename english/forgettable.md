@@ -1,5 +1,7 @@
 # forgettable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forgettable.md)
+
 <p><span class="chinese">别浪费时间纠结那些易被忘记的工作。</span><span class="english">Don’t waste time juggling forgettable tasks.</span></p>
 
 <p><span class="chinese">这是个普通男人，容易被人忘记。</span><span class="english">He's an ordinary man and easily forgettable.</span></p>

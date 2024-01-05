@@ -1,5 +1,7 @@
 # ageless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ageless.md)
+
 <p><span class="chinese">爱这座不老的夜城。</span><span class="english">Love this ageless city.</span></p>
 
 <p><span class="chinese">这是一个永恒的问题。</span><span class="english">It's an ageless question.</span></p>

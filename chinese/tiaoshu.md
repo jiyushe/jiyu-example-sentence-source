@@ -1,5 +1,7 @@
 # 跳鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoshu.md)
+
 <p><span class="chinese">长耳朵的跳鼠长得像老鼠。</span><span class="english">Long-eared jerboas look like mice.</span></p>
 
 <p><span class="chinese">我同时是海马、狮子、跳跳鼠、猴子。</span><span class="english">I am a seahorse, a lion, a darting mouse, a monkey.</span></p>

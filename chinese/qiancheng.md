@@ -1,5 +1,7 @@
 # 前程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiancheng.md)
+
 <p><span class="chinese">练武术有前程吗？</span><span class="english">A Future In Martial Arts?</span></p>
 
 <p><span class="chinese">拼着一切代价，奔你的前程。</span><span class="english">At all costs, run your future.</span></p>

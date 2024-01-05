@@ -1,5 +1,7 @@
 # 邻邦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linbang.md)
+
 <p><span class="chinese">阿富汗是中国的友好邻邦。</span><span class="english">Afghanistan is a friendly neighbor of China.</span></p>
 
 <p><span class="chinese">阿富汗是中国的友情邻邦。</span><span class="english">Afghanistan is a personly neighbor of China.</span></p>

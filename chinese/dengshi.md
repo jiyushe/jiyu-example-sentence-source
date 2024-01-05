@@ -1,5 +1,7 @@
 # 瞪视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dengshi.md)
+
 <p><span class="chinese">托比和我警惕地向对方瞪视着。</span><span class="english">Toby and I stared at each other warily.</span></p>
 
 <p><span class="chinese">罗密欧茫然地瞪视著他脚边的尸体。</span><span class="english">Romeo stared blankly at the dead body at his feet.</span></p>

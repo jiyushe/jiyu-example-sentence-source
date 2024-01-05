@@ -1,5 +1,7 @@
 # 说和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuohe.md)
+
 <p><span class="chinese">上帝说和把你自己和别人攀比是愚蠢的。</span><span class="english">God says it's stupid to compare yourself to others.</span></p>
 
 <p><span class="chinese">一个女生怎么知道怎么说和做让人看起来不那么疯狂呢？</span><span class="english">How does a woman know what to say or do and not seem crazy?</span></p>

@@ -1,5 +1,7 @@
 # 娇小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoxiao.md)
+
 <p><span class="chinese">我个子高，她则身材娇小。</span><span class="english">I was tall ands she was petite.</span></p>
 
 <p><span class="chinese">植物通常娇小，匍匐茎纤细。</span><span class="english">Plants usually small with thin stolons.</span></p>

@@ -1,5 +1,7 @@
 # 斜射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshe.md)
+
 <p><span class="chinese">斜射的太阳光显得如此美妙。</span><span class="english">The slant of sun becomes significant.</span></p>
 
 <p><span class="chinese">他擅长打那样的斜射球。</span><span class="english">He is good at slicing the ball like that.</span></p>

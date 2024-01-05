@@ -1,5 +1,7 @@
 # 天旋地转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianxuandizhuan.md)
+
 <p><span class="chinese">不漪东西，天旋地转，。</span><span class="english">Not ripples thing, dizzy.</span></p>
 
 <p><span class="chinese">我脑袋天旋地转，得躺下来休息休息。</span><span class="english">My head is spinning, so I must lie down.</span></p>

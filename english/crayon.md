@@ -1,5 +1,7 @@
 # crayon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crayon.md)
+
 <p><span class="chinese">谁拿了我的蜡笔盒？</span><span class="english">Who took my crayon box?</span></p>
 
 <p><span class="chinese">给我展示你的黄蜡笔。</span><span class="english">Show me your yellow crayon.</span></p>

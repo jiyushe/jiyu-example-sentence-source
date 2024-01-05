@@ -1,5 +1,7 @@
 # presbycusis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presbycusis.md)
+
 <p><span class="chinese">强烈的噪音会导致老年性耳聋和耳鸣.</span><span class="english">Loud noise contributes to presbycusis and tinnitus.</span></p>
 
 <p><span class="chinese">也许神经性耳聋最常见的原因是青年性耳聋。</span><span class="english">Perhaps the most common cause of nerve deafness is presbycusis.</span></p>

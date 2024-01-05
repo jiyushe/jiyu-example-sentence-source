@@ -1,5 +1,7 @@
 # overprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overprint.md)
+
 <p><span class="chinese">棉花纱多臂机的套印。</span><span class="english">Cotton voile dobby with overprint.</span></p>
 
 <p><span class="chinese">那样复杂的图，也要做叠印吗？</span><span class="english">That plan, we have to do to overprint?</span></p>

@@ -1,5 +1,7 @@
 # 灿烂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canlan.md)
+
 <p><span class="chinese">生活可能辉煌灿烂。</span><span class="english">Life can be good.</span></p>
 
 <p><span class="chinese">哦，她笑的真灿烂。</span><span class="english">Oh, she's smiling bright.</span></p>

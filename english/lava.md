@@ -1,5 +1,7 @@
 # lava
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lava.md)
+
 <p><span class="chinese">火山喷出火焰和岩浆。</span><span class="english">A volcano spouts flame and lava.</span></p>
 
 <p><span class="chinese">火山喷出了熔岩。</span><span class="english">The volcano erupted molten lava.</span></p>

@@ -1,5 +1,7 @@
 # 不起眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buqiyan.md)
+
 <p><span class="chinese">她是个不起眼儿的小东西。</span><span class="english">She was just a scrap of a thing.</span></p>
 
 <p><span class="chinese">他们都是非常小的，不起眼的。</span><span class="english">They are very small, unnoticeable.</span></p>

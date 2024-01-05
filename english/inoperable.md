@@ -1,5 +1,7 @@
 # inoperable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inoperable.md)
+
 <p><span class="chinese">我们都知道这个问题，他的肿瘤不能手术治疗。</span><span class="english">We all know the problem that his tumor is inoperable.</span></p>
 
 <p><span class="chinese">这一阶段的失败将导致应用程序不可操作。</span><span class="english">Failures at this stage will leave the application inoperable.</span></p>

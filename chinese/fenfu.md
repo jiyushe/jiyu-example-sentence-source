@@ -1,5 +1,7 @@
 # 吩咐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfu.md)
+
 <p><span class="chinese">照我的吩咐去做。</span><span class="english">Do as I bid.</span></p>
 
 <p><span class="chinese">照我吩咐你的去做。</span><span class="english">Do as I bid you.</span></p>

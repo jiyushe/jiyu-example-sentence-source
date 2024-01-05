@@ -1,5 +1,7 @@
 # swordsmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swordsmanship.md)
+
 <p><span class="chinese">那时我才感到这是真正的剑术！</span><span class="english">By then I really understand what the swordsmanship is!</span></p>
 
 <p><span class="chinese">几年前，他曾经对自己的剑术自信。</span><span class="english">Years ago, he was once confident about his swordsmanship.</span></p>

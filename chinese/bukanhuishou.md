@@ -1,5 +1,7 @@
 # 不堪回首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukanhuishou.md)
+
 <p><span class="chinese">有多少往事不堪回首？</span><span class="english">How many Forget the past?</span></p>
 
 <p><span class="chinese">我明白了。杜才是我的未来。而黄只是我不堪回首的往事。</span><span class="english">I though D is my my future. HMH a part of my past.</span></p>

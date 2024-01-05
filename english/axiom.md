@@ -1,5 +1,7 @@
 # axiom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axiom.md)
+
 <p><span class="chinese">是一个定义，是一个原理。</span><span class="english">It's a definition. It's an axiom.</span></p>
 
 <p><span class="chinese">这简直就是陈词滥调和滥用公理。</span><span class="english">It's a very cliched and abused axiom.</span></p>

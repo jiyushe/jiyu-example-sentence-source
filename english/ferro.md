@@ -1,5 +1,7 @@
 # ferro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferro.md)
+
 <p><span class="chinese">晃晃兔头，福禄祷禧。</span><span class="english">The rabbit head, sway ferro prayer jubilee.</span></p>
 
 <p><span class="chinese">音乐视频通过执行提香铁停止！</span><span class="english">Music video by Tiziano Ferro performing Stop!</span></p>

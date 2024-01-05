@@ -1,5 +1,7 @@
 # 集散地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jisandi.md)
+
 <p><span class="chinese">它是学术思想集散地的中心。</span><span class="english">Meanwhile, it is the center of academic ideas.</span></p>
 
 <p><span class="chinese">西门町还是台湾流行文化的集散地。</span><span class="english">Ximending or Taiwanese pop culture center in China.</span></p>

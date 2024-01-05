@@ -1,5 +1,7 @@
 # transferor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transferor.md)
+
 <p><span class="chinese">出让方和受让方约定的其他事项。</span><span class="english">Other matters stipulated by the transferor and the transferee.</span></p>
 
 <p><span class="chinese">赠与是指转让人将土地使用权无偿转移给受让人的行为。</span><span class="english">Donation means that the transferor transfers land use right gratis to the transferee.</span></p>

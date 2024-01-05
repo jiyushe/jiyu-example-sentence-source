@@ -1,5 +1,7 @@
 # mealtime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mealtime.md)
+
 <p><span class="chinese">用餐时间是谈话的好时机。</span><span class="english">Mealtime is a time to dialogue.</span></p>
 
 <p><span class="chinese">每天2粒，随餐食用。</span><span class="english">Take 2 caplets per day near mealtime.</span></p>

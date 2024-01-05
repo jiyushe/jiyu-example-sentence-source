@@ -1,5 +1,7 @@
 # wisdom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wisdom.md)
+
 <p><span class="chinese">智慧与年俱增。</span><span class="english">Year brings wisdom.</span></p>
 
 <p><span class="chinese">智慧莫过沉默。</span><span class="english">No wisdom love silence.</span></p>

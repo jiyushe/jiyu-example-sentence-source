@@ -1,5 +1,7 @@
 # swallow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swallow.md)
+
 <p><span class="chinese">一只燕子飞过去了。</span><span class="english">A swallow flew past.</span></p>
 
 <p><span class="chinese">对，嚼嚼咽下去。</span><span class="english">Yes, chew and swallow.</span></p>

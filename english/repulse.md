@@ -1,5 +1,7 @@
 # repulse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repulse.md)
+
 <p><span class="chinese">敌人被击退了。</span><span class="english">The enemy met with a repulse.</span></p>
 
 <p><span class="chinese">你喜欢约翰或玛丽陪你去浅水湾还是你自己一个人去？</span><span class="english">Would you like John or Mary to go with you to Repulse Bay?</span></p>

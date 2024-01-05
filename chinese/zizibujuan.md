@@ -1,5 +1,7 @@
 # 孜孜不倦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizibujuan.md)
+
 <p><span class="chinese">他是位孜孜不倦努力不懈的人。</span><span class="english">He is a man of untiring industry.</span></p>
 
 <p><span class="chinese">她孜孜不倦地学习小提琴。</span><span class="english">She persevered with her violin lessons.</span></p>

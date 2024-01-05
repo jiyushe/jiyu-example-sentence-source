@@ -1,5 +1,7 @@
 # filar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filar.md)
+
 <p><span class="chinese">为何都带有丝丝忧愁。</span><span class="english">Why are with filar silk sorrow.</span></p>
 
 <p><span class="chinese">夜中的雨，丝丝的织就了诗人的情绪。</span><span class="english">Night in the rain, filar silk woven the emotions of the poet.</span></p>

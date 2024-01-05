@@ -1,5 +1,7 @@
 # shoplifting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoplifting.md)
+
 <p><span class="chinese">他们起诉他扒窃商店货物。</span><span class="english">They prosecuted him for shoplifting.</span></p>
 
 <p><span class="chinese">入店盗窃已经是个巨大并且越来越严重的问题。</span><span class="english">Shoplifting is a huge and rising epidemic.</span></p>

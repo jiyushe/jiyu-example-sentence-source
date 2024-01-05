@@ -1,5 +1,7 @@
 # 稀疏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishu_2.md)
+
 <p><span class="chinese">树木稀疏。</span><span class="english">The trees are sparse.</span></p>
 
 <p><span class="chinese">稀疏查找类型。</span><span class="english">The sparse lookup type.</span></p>

@@ -1,5 +1,7 @@
 # misunderstand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misunderstand.md)
+
 <p><span class="chinese">不要误解我的意思。</span><span class="english">Do not misunderstand me.</span></p>
 
 <p><span class="chinese">嘿，您别误会。</span><span class="english">Hey, don't misunderstand me.</span></p>

@@ -1,5 +1,7 @@
 # constitute 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constitute.md)
+
 <p><span class="chinese">四夸脱构成一加仑。</span><span class="english">Four quarts constitute a gallon.</span></p>
 
 <p><span class="chinese">三个班组成一个排。</span><span class="english">Three squads constitute a platoon.</span></p>

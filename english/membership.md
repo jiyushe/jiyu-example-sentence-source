@@ -1,5 +1,7 @@
 # membership 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/membership.md)
+
 <p><span class="chinese">或者你可以成为会员。</span><span class="english">or you can get a membership.</span></p>
 
 <p><span class="chinese">你有会员卡吗？</span><span class="english">Do you have a membership card?</span></p>

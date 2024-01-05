@@ -1,5 +1,7 @@
 # imp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imp.md)
+
 <p><span class="chinese">那孩子真是个小淘气。</span><span class="english">That child is a real imp.</span></p>
 
 <p><span class="chinese">语音质量有了巨大提升。</span><span class="english">The sound quality is vastly imp roved.</span></p>

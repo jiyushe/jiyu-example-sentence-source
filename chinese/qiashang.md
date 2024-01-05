@@ -1,5 +1,7 @@
 # 洽商
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiashang.md)
+
 <p><span class="chinese">我了解-只是短暂停留。您來洽商吗？</span><span class="english">I see—just a short stay. Are you here on business?</span></p>
 
 <p><span class="chinese">望各新老用户来电贺函洽商，共创制笔大业！</span><span class="english">We will found the great undertaking in making pens!.</span></p>

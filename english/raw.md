@@ -1,5 +1,7 @@
 # raw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raw.md)
+
 <p><span class="chinese">它是原始数据。</span><span class="english">It is raw data.</span></p>
 
 <p><span class="chinese">生吞了那家伙。</span><span class="english">And ate the fellow, raw.</span></p>

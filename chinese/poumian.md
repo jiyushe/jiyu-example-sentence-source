@@ -1,5 +1,7 @@
 # 剖面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poumian.md)
+
 <p><span class="chinese">平衡剖面是一个基本的地质规律。</span><span class="english">Balanced cross-section is a base rule in geology.</span></p>
 
 <p><span class="chinese">如使用低-低剖面，半径减少为约370千米。</span><span class="english">If use LO-LO section, the radius is down to 370km.</span></p>

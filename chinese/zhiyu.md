@@ -1,5 +1,7 @@
 # 智育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyu.md)
+
 <p><span class="chinese">音乐对智育有一定的促进作用。</span><span class="english">Music also promotes intellectual education to a certain extent.</span></p>
 
 <p><span class="chinese">我们的教育方针，应该使受教育者在德育、智育、体育几方面都得到发展。</span><span class="english">Our educational policy must enable the educated to develop morally, intellectually and physically.</span></p>

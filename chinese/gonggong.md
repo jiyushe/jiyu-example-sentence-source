@@ -1,5 +1,7 @@
 # 公公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonggong.md)
+
 <p><span class="chinese">我能见到太阳公公吗？</span><span class="english">Can I reach the sun?</span></p>
 
 <p><span class="chinese">太阳公公还朝我们笑呢！</span><span class="english">The sun is smiling at us!</span></p>

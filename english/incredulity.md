@@ -1,5 +1,7 @@
 # incredulity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incredulity.md)
+
 <p><span class="chinese">俄罗斯最初对该提议的反应抱怀疑态度。</span><span class="english">Russia's initial response seems to have been incredulity.</span></p>
 
 <p><span class="chinese">他甚至还假装出一副不相信的神气在微笑。</span><span class="english">He even looked at her with a smile of affected incredulity.</span></p>

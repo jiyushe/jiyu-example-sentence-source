@@ -1,5 +1,7 @@
 # rattled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rattled.md)
+
 <p><span class="chinese">机枪格格地响个不停。</span><span class="english">The machine gun rattled away.</span></p>
 
 <p><span class="chinese">风把窗户刮得颤悠悠地格格作响。</span><span class="english">The wind rattled the windows.</span></p>

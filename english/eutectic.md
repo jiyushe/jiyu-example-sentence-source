@@ -1,5 +1,7 @@
 # eutectic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eutectic.md)
+
 <p><span class="chinese">那是低共熔混合物。</span><span class="english">That's a eutectic mixture.</span></p>
 
 <p><span class="chinese">观察了钛硅共晶系合金的微观组织。</span><span class="english">Microstructure of Ti-Si eutectic alloys is observed.</span></p>

@@ -1,5 +1,7 @@
 # 震波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenbo.md)
+
 <p><span class="chinese">不过，想要利用震波图来量测爆炸当量，那就十分困难了。</span><span class="english">Using seismograms to determine the explosive yield is tougher, however.</span></p>
 
 <p><span class="chinese">当这种情况发生，震波穿过岩石的移动速度要比往常快。</span><span class="english">When this happens, seismic waves travel faster than usual through the rock.</span></p>

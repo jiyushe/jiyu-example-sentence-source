@@ -1,5 +1,7 @@
 # nitride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitride.md)
+
 <p><span class="chinese">氧化物表层上面的氮化物保持原状不动。</span><span class="english">The nitride on oxide layers remains intact.</span></p>
 
 <p><span class="chinese">本文认为这是玻璃内部所含的杂质氮化物所致。</span><span class="english">This is because of the impurity nitride in glass.</span></p>

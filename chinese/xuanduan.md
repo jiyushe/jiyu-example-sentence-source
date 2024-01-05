@@ -1,5 +1,7 @@
 # 选段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanduan.md)
+
 <p><span class="chinese">以上就是来自莫扎特的选段。</span><span class="english">So that's a piece of Mozart.</span></p>
 
 <p><span class="chinese">这里有一个小选段</span><span class="english">This is just one little passage.</span></p>

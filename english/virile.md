@@ -1,5 +1,7 @@
 # virile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virile.md)
+
 <p><span class="chinese">我是一个很有男子气概的人。</span><span class="english">I'm a very virile man.</span></p>
 
 <p><span class="chinese">这类诗中颇多高古、雄浑之作。</span><span class="english">Many of the poems were elegant and virile.</span></p>

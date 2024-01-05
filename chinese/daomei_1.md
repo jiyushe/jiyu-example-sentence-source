@@ -1,5 +1,7 @@
 # 倒霉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daomei_1.md)
+
 <p><span class="chinese">我就是这么倒霉。</span><span class="english">This is my luck.</span></p>
 
 <p><span class="chinese">但事实上，倒霉的就是你。</span><span class="english">But, in fact, it's you.</span></p>

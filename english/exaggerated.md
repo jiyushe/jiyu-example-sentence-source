@@ -1,5 +1,7 @@
 # exaggerated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exaggerated.md)
+
 <p><span class="chinese">这件事被大肆夸张了。</span><span class="english">The matter is much exaggerated.</span></p>
 
 <p><span class="chinese">这事实被夸大得令人难以置信。</span><span class="english">The fact is incredibly exaggerated.</span></p>

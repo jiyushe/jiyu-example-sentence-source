@@ -1,5 +1,7 @@
 # counterargument
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterargument.md)
+
 <p><span class="chinese">尝试去形成一个有原则的，令人信服的反驳观点。</span><span class="english">Try to come up with a principled, compelling counterargument.</span></p>
 
 <p><span class="chinese">这个文化是关于“与反驳观点共鸣”的。</span><span class="english">That culture is about sympathetic engagement with counterargument.</span></p>

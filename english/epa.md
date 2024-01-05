@@ -1,5 +1,7 @@
 # epa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epa.md)
+
 <p><span class="chinese">区环保局法制科的金科长说。</span><span class="english">Zone EPA Legal Section Jinke Zhang said.</span></p>
 
 <p><span class="chinese">IDSA强烈要求EPA取消它的这项决定。</span><span class="english">IDSA is urging EPA to rescind its decision.</span></p>

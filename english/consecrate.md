@@ -1,5 +1,7 @@
 # consecrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consecrate.md)
+
 <p><span class="chinese">新年我愿意，归主祢作圣。</span><span class="english">Consecrate me now, to Thy service Lord.</span></p>
 
 <p><span class="chinese">我甚至帮助他们为教堂祝圣。</span><span class="english">I've even helped them consecrate a church.</span></p>

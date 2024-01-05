@@ -1,5 +1,7 @@
 # dining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dining.md)
+
 <p><span class="chinese">饭堂。</span><span class="english">A dining room.</span></p>
 
 <p><span class="chinese">我经营一个餐车。</span><span class="english">I run a dining car.</span></p>

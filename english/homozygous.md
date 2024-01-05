@@ -1,5 +1,7 @@
 # homozygous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homozygous.md)
+
 <p><span class="chinese">纯合子是致命的。</span><span class="english">The homozygous form is fatal.</span></p>
 
 <p><span class="chinese">自体受精不能分离纯合的生理小种。</span><span class="english">Homozygous races do not segregate on selfing.</span></p>

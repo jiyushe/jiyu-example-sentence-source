@@ -1,5 +1,7 @@
 # uniaxial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uniaxial.md)
+
 <p><span class="chinese">单轴和三轴压缩试验。</span><span class="english">Uniaxial and Triaxial Compress Experiment.</span></p>
 
 <p><span class="chinese">加荷速率不同，单轴抗拉强度值也不同。</span><span class="english">Different loading rate gives different uniaxial tensile strength.</span></p>

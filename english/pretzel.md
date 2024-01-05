@@ -1,5 +1,7 @@
 # pretzel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretzel.md)
+
 <p><span class="chinese">把右侧松开的一端，从后方绕过椒盐卷饼的右侧叶。</span><span class="english">Weave the loose end on the right around and behind the right lobe of the pretzel.</span></p>
 
 <p><span class="chinese">当你觉得被压得喘不过去时，就休息一下，吃块刚出炉的脆饼干什么的。</span><span class="english">When you feel yourself being overwhelmed, take a break. Grab a warm pretzel or something.</span></p>

@@ -1,5 +1,7 @@
 # verifiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verifiable.md)
+
 <p><span class="chinese">科学隐喻应是可检验的。</span><span class="english">Scientific metaphors are verifiable.</span></p>
 
 <p><span class="chinese">这是一个已知的科学事实和核实。</span><span class="english">This is a known scientific fact and is verifiable.</span></p>

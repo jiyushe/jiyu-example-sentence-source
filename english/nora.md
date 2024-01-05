@@ -1,5 +1,7 @@
 # nora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nora.md)
+
 <p><span class="chinese">诺拉做到了。</span><span class="english">Nora did it.</span></p>
 
 <p><span class="chinese">我是诺拉·劳姆，这里是NPR新闻。</span><span class="english">I'm Nora Raum, NPR News.</span></p>

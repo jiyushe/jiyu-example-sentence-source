@@ -1,5 +1,7 @@
 # dryness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dryness.md)
+
 <p><span class="chinese">具有调和脾胃、清热润燥作用。</span><span class="english">Has the harmonic taste, heat dryness role.</span></p>
 
 <p><span class="chinese">这些食物减少暑热和燥。</span><span class="english">These foods reduce the hotness and dryness.</span></p>

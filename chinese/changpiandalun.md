@@ -1,5 +1,7 @@
 # 长篇大论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changpiandalun.md)
+
 <p><span class="chinese">他是个爱长篇大论的演讲者。</span><span class="english">He's a long -winded speaker.</span></p>
 
 <p><span class="chinese">他开始长篇大论地进行抨击。</span><span class="english">He launched into a long diatribe.</span></p>

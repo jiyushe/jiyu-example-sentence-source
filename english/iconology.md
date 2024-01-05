@@ -1,5 +1,7 @@
 # iconology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iconology.md)
+
 <p><span class="chinese">新闻侵害肖像权是目前一个很突出的问题，是新闻侵权行为的主要表现形式之一。</span><span class="english">As a kind of media tort, it is an outstanding issue that iconology right of characters in news reports is infringed on by journalists.</span></p>
 
 <p><span class="chinese">正如拉里·尼尔所述，黑人美学“主张一种不同的象征主义、神话、批评方法和图像学”。</span><span class="english">As formulated by the critic and poet Larry Neal, the black aesthetic "proposes a separate symbolism, mythology, critique, and iconology."</span></p>

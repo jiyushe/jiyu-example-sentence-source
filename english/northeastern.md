@@ -1,5 +1,7 @@
 # northeastern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northeastern.md)
+
 <p><span class="chinese">威斯康辛和东北大学也很不错。</span><span class="english">Wisconsin, Northeastern.</span></p>
 
 <p><span class="chinese">卡鲁阿巴西东北部一城市，位于累西腓西部。</span><span class="english">A city of northeastern Brazil west of Recife.</span></p>

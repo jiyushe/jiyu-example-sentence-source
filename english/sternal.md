@@ -1,5 +1,7 @@
 # sternal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sternal.md)
+
 <p><span class="chinese">腹板肌包括两个肌群。</span><span class="english">Sternal muscles include two muscle groups.</span></p>
 
 <p><span class="chinese">胸骨骨折在澳式足球。</span><span class="english">Sternal fracture in an Australian Rules footballer.</span></p>

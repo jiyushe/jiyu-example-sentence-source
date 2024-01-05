@@ -1,5 +1,7 @@
 # desirably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desirably.md)
+
 <p><span class="chinese">超越他们的预期。</span><span class="english">Exceed their expectations desirably.</span></p>
 
 <p><span class="chinese">我刻意的掩饰感情，控制自己。</span><span class="english">I desirably conceal the sentiment, controls itself.</span></p>

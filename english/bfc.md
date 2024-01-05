@@ -1,5 +1,7 @@
 # bfc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bfc.md)
+
 <p><span class="chinese">在计算中，采用贴体坐标的办法处理整个流动区域。</span><span class="english">BFC is adapted to dispose the computation domain.</span></p>
 
 <p><span class="chinese">BFC型号有悬臂行动车和吊动行动车，不需要叉车。</span><span class="english">BFC Models feature cantilevered hoist and trolley for loading without a forklift.</span></p>

@@ -1,5 +1,7 @@
 # 一动不动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidongbudong.md)
+
 <p><span class="chinese">福特•普里菲克特一动不动地坐着。</span><span class="english">Ford Prefect sat still.</span></p>
 
 <p><span class="chinese">我一动不动的站在那儿站了一会。</span><span class="english">I stood motionless for a long time.</span></p>

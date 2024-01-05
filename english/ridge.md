@@ -1,5 +1,7 @@
 # ridge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ridge.md)
+
 <p><span class="chinese">深沙化石岭。</span><span class="english">Abyssal Sands Fossil Ridge.</span></p>
 
 <p><span class="chinese">这位是来自加拿大的里奇.</span><span class="english">And this is Ridge from Canada.</span></p>

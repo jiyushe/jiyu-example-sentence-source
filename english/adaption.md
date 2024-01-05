@@ -1,5 +1,7 @@
 # adaption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adaption.md)
+
 <p><span class="chinese">偶总是迟钝的适应这个社会。</span><span class="english">I always adaption this society slowly.</span></p>
 
 <p><span class="chinese">适应能力是生物的首要生存技能。</span><span class="english">Adaption is the number one skill of living organisms.</span></p>

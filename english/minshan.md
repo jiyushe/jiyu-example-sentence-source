@@ -1,5 +1,7 @@
 # minshan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minshan.md)
+
 <p><span class="chinese">我怎样才能到岷山饭店？</span><span class="english">How can I get to Minshan Hotel?</span></p>
 
 <p><span class="chinese">更喜岷山千里雪，三军过后尽开颜。</span><span class="english">Minshan thousands more hi snow, after the three services do Kai-yan.</span></p>

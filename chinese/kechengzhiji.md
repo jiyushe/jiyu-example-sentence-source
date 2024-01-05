@@ -1,5 +1,7 @@
 # 可乘之机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kechengzhiji.md)
+
 <p><span class="chinese">他们将在其他地方寻找可乘之机。</span><span class="english">They'll look for easier pickings elsewhere.</span></p>
 
 <p><span class="chinese">新技术的出现使一些坏家伙有了可乘之机。</span><span class="english">New technologies bring new things for bad guys to exploit.</span></p>

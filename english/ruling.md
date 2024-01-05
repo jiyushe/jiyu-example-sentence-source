@@ -1,5 +1,7 @@
 # ruling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruling.md)
+
 <p><span class="chinese">哈马斯击败了执政党法塔赫。</span><span class="english">Hamas defeated the ruling Fateh party.</span></p>
 
 <p><span class="chinese">而最终的裁决将在2016年年中做出。</span><span class="english">A final ruling is expected in mid-2016.</span></p>

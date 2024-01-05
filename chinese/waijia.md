@@ -1,5 +1,7 @@
 # 外加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waijia.md)
+
 <p><span class="chinese">外加“一口价”出售也是免费的。</span><span class="english">Plus add a Buy It Now for free.</span></p>
 
 <p><span class="chinese">外加反向电压至闸极G。</span><span class="english">Apply a reverse voltage to gate G.</span></p>

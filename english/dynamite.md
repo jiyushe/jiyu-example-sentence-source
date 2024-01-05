@@ -1,5 +1,7 @@
 # dynamite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynamite.md)
+
 <p><span class="chinese">这酒劲儿真大。</span><span class="english">This drink is really dynamite.</span></p>
 
 <p><span class="chinese">这无疑是考古学界的爆炸性发现。</span><span class="english">This was archaeological dynamite.</span></p>

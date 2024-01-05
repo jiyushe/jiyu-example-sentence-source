@@ -1,5 +1,7 @@
 # 固步自封
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gubuzifeng.md)
+
 <p><span class="chinese">限制你的博客的成功的唯一原因是你的固步自封。</span><span class="english">The only limits to your blog’s success are self-imposed.</span></p>
 
 <p><span class="chinese">但前进并不意味着固步自封或掉以轻心。</span><span class="english">But moving on should not mean turning inward or dropping its guard.</span></p>

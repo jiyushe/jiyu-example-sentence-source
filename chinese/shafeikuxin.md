@@ -1,5 +1,7 @@
 # 煞费苦心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shafeikuxin.md)
+
 <p><span class="chinese">为了管理好工厂，他可真是煞费苦心。</span><span class="english">He took great pains to manage the factory well.</span></p>
 
 <p><span class="chinese">她煞费苦心教育她的子女。</span><span class="english">She took great pains in educating her children.</span></p>

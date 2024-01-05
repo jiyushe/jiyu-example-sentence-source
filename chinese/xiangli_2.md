@@ -1,5 +1,7 @@
 # 相里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangli_2.md)
+
 <p><span class="chinese">在每一相里每一种物质有多少？</span><span class="english">How much of each component is there in each phase?</span></p>
 
 <p><span class="chinese">这个从本尊来的无上身份，在每个境相里。</span><span class="english">This Supreme Identity of the Exalted Self is in every image.</span></p>

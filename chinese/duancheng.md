@@ -1,5 +1,7 @@
 # 短程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duancheng.md)
+
 <p><span class="chinese">计划和实施直接督导下的短程化疗</span><span class="english">Planning and DOTS implementation</span></p>
 
 <p><span class="chinese">伊尔-86是苏联的首架大型中短程喷气客机。</span><span class="english">Il-86 is the first soviet airbus.</span></p>

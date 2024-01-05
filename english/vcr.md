@@ -1,5 +1,7 @@
 # vcr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vcr.md)
+
 <p><span class="chinese">这种录相机是中国制造的。</span><span class="english">The VCR was made in China.</span></p>
 
 <p><span class="chinese">真的？但你没有录像机。</span><span class="english">Really.But you don't have a VCR.</span></p>

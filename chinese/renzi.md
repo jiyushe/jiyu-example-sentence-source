@@ -1,5 +1,7 @@
 # 认字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzi.md)
+
 <p><span class="chinese">孩子们先说话，后认字。</span><span class="english">Children speak before they read.</span></p>
 
 <p><span class="chinese">首先，她教会了我认字。</span><span class="english">First, she taught me how to read.</span></p>

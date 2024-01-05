@@ -1,5 +1,7 @@
 # 胸墙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongqiang.md)
+
 <p><span class="chinese">在主要的十字路口都匆匆筑起了胸墙。</span><span class="english">Breastworks were thrown up at major intersections.</span></p>
 
 <p><span class="chinese">他站在胸墙边，眯起眼睛盯着地平线。</span><span class="english">He looked out over the parapet, squinting as he peered towards the horizon.</span></p>

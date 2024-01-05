@@ -1,5 +1,7 @@
 # reductor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reductor.md)
+
 <p><span class="chinese">采用进口的SEW减速机作闭环系统。</span><span class="english">The imported SEW reductor can be used in closed circuit.</span></p>
 
 <p><span class="chinese">溢流阀，减压阀，以保证系统的稳定压力。</span><span class="english">B. overfall valve, reductor valve for ensuring stable system pressure.</span></p>

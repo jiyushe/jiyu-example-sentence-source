@@ -1,5 +1,7 @@
 # intima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intima.md)
+
 <p><span class="chinese">曲张组肥大细胞外膜、中膜、内膜少量散在分布。</span><span class="english">Varicose group of intima and media, adventitia few scattered mast cells.</span></p>
 
 <p><span class="chinese">主动脉瓣上方的血管内膜光滑，不伴有动脉粥样硬化。</span><span class="english">The aorta above the valve displays a smooth intima with no atherosclerosis.</span></p>

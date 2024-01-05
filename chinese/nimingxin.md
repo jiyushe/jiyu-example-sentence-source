@@ -1,5 +1,7 @@
 # 匿名信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nimingxin.md)
+
 <p><span class="chinese">我们收到一封匿名信。</span><span class="english">Ous received an anonymous letter.</span></p>
 
 <p><span class="chinese">他们显然憎恶匿名信。</span><span class="english">It was evident that they detested anonymity.</span></p>

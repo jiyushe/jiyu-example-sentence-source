@@ -1,5 +1,7 @@
 # handed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handed.md)
+
 <p><span class="chinese">她递给我一顶帽子。</span><span class="english">She handed me a hat.</span></p>
 
 <p><span class="chinese">每个人都交了吧</span><span class="english">Everyone handed them in?</span></p>

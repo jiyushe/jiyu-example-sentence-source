@@ -1,5 +1,7 @@
 # arnica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arnica.md)
+
 <p><span class="chinese">山金车油。</span><span class="english">Arnica oil.</span></p>
 
 <p><span class="chinese">山金车辅助循环。</span><span class="english">Arnica aids circulation.</span></p>

@@ -1,5 +1,7 @@
 # derivate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derivate.md)
+
 <p><span class="chinese">为减小超调量，采用了微分反馈。</span><span class="english">Derivate feedback is adopted to decrease the overshoot.</span></p>
 
 <p><span class="chinese">归一化一阶微分模型为最优预测模型。</span><span class="english">The normalized first derivate model is the optimal one.</span></p>

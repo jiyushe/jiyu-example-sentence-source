@@ -1,5 +1,7 @@
 # shapeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shapeless.md)
+
 <p><span class="chinese">倾空你的思想，无形无式，如水一般。</span><span class="english">Empty your mind, be formless, shapeless --- like water.</span></p>
 
 <p><span class="chinese">那本书是一堆自相矛盾的草稿的汇编。</span><span class="english">The book is a shapeless mass of contradictory rough drafts.</span></p>

@@ -1,5 +1,7 @@
 # 帝王将相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diwangjiangxiang.md)
+
 <p><span class="chinese">一边是帝王将相般的沉稳大气。</span><span class="english">The other side was like the composed personality of the kings.</span></p>
 
 <p><span class="chinese">又名蟒袍，是帝王将相等高贵人物在正式场合所穿的服装。</span><span class="english">Official robes. It is the general costume for the emperor and nobles.</span></p>

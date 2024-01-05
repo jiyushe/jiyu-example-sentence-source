@@ -1,5 +1,7 @@
 # deservedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deservedly.md)
+
 <p><span class="chinese">伦勃朗是个当之无愧的名画家。</span><span class="english">Rembrandt is a deservedly famous artist.</span></p>
 
 <p><span class="chinese">克林顿夫人走上一条歧路---也是应该如此。</span><span class="english">Mrs Clinton is in a bad way—and deservedly so.</span></p>

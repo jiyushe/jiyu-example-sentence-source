@@ -1,5 +1,7 @@
 # 灌木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanmu.md)
+
 <p><span class="chinese">灌木已结浆果。</span><span class="english">The shrub has berried.</span></p>
 
 <p><span class="chinese">灌木已枯萎。</span><span class="english">The bushes have died back.</span></p>

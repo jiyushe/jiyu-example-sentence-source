@@ -1,5 +1,7 @@
 # meteorology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meteorology.md)
+
 <p><span class="chinese">天桂山四季分明，气象万千。</span><span class="english">Tian Shan four seasons, the Meteorology Series.</span></p>
 
 <p><span class="chinese">大气物理学和气象学是复杂的。</span><span class="english">Atmospheric physics and meteorology are complex.</span></p>

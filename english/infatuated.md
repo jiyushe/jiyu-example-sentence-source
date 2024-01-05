@@ -1,5 +1,7 @@
 # infatuated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infatuated.md)
+
 <p><span class="chinese">我承认自己完全被她迷住了。</span><span class="english">I admit I was totally infatuated.</span></p>
 
 <p><span class="chinese">他疯狂地爱恋着那个漂亮的姑娘。</span><span class="english">He was infatuated with the beautiful girl.</span></p>

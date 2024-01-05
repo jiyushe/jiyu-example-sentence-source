@@ -1,5 +1,7 @@
 # 否决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/foujue.md)
+
 <p><span class="chinese">该项议案通过投票遭到否决。</span><span class="english">The measure was outvoted.</span></p>
 
 <p><span class="chinese">提案被否决了。</span><span class="english">The proposal was rejected.</span></p>

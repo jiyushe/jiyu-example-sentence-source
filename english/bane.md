@@ -1,5 +1,7 @@
 # bane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bane.md)
+
 <p><span class="chinese">贪婪是损毁幸福的祸根。</span><span class="english">Avarice is the bane to happiness.</span></p>
 
 <p><span class="chinese">街坊邻居的孩子们把握的生活搅得不得安宁。</span><span class="english">The neighbor’s kids are the bane of my life.</span></p>

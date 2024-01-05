@@ -1,5 +1,7 @@
 # indecision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indecision.md)
+
 <p><span class="chinese">优柔寡断是行动的天敌。</span><span class="english">Indecision is the enemy of action.</span></p>
 
 <p><span class="chinese">犹豫不决时会在心里自问自答。</span><span class="english">Indecision in heart will ask the answer.</span></p>

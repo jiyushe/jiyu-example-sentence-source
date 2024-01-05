@@ -1,5 +1,7 @@
 # 诊病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenbing.md)
+
 <p><span class="chinese">在门诊病人中观察到这个现象。</span><span class="english">This phenomenon was observed in the outpatients.</span></p>
 
 <p><span class="chinese">貌似在难民营里麻诊病患也是随处可见。</span><span class="english">Measles cases seem to be everywhere in the camps, too.</span></p>

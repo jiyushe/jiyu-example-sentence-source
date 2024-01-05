@@ -1,5 +1,7 @@
 # reassuring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reassuring.md)
+
 <p><span class="chinese">谢谢Dexter，真让人安心。</span><span class="english">Thanks Dexter, that’s reassuring.</span></p>
 
 <p><span class="chinese">茶房可以有充分的乐趣及安慰。</span><span class="english">Having a full pantry can be fun and reassuring.</span></p>

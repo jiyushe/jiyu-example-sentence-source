@@ -1,5 +1,7 @@
 # grueling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grueling.md)
+
 <p><span class="chinese">收拾餐桌这份工作十分累人。</span><span class="english">Busing tables was grueling work.</span></p>
 
 <p><span class="chinese">这是个疲劳轰炸的筛选过程。</span><span class="english">You went through a grueling screening process.</span></p>

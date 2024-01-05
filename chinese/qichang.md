@@ -1,5 +1,7 @@
 # 颀长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichang.md)
+
 <p><span class="chinese">她是一位颀长的金发妇人，长得苗条，美丽、雍容华贵。</span><span class="english">She was a tall, blond woman, slender, and stately, and beautiful.</span></p>
 
 <p><span class="chinese">她体形颀长身姿挺拔会给哪怕是最破败的剧团增添一丝高贵。</span><span class="english">Her rangy physique and erect carriage added nobility to even the shabbiest ensemble.</span></p>

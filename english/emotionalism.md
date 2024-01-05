@@ -1,5 +1,7 @@
 # emotionalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emotionalism.md)
+
 <p><span class="chinese">在他们眼中，这都是出于群众情绪。</span><span class="english">To them it was mass emotionalism.</span></p>
 
 <p><span class="chinese">感情用事使这次讨论混乱不堪。</span><span class="english">Emotionalism muddied the discussion.</span></p>

@@ -1,5 +1,7 @@
 # gravid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravid.md)
+
 <p><span class="chinese">怀才就像怀孕，时间长了才能知道。</span><span class="english">Being talented just like being gravid , must be known with a long time past.</span></p>
 
 <p><span class="chinese">而靠近妊娠子宫的操作往往是不可避免的。</span><span class="english">Avoiding interventions close to the gravid uterus, of course, is always desirable.</span></p>

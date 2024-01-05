@@ -1,5 +1,7 @@
 # vulgarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vulgarity.md)
+
 <p><span class="chinese">请原谅我的粗拙。</span><span class="english">Excuse my vulgarity.</span></p>
 
 <p><span class="chinese">芜俚是我们讲话中最寝陋的字眼。</span><span class="english">It is the opposite of vulgarity.</span></p>

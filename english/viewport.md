@@ -1,5 +1,7 @@
 # viewport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viewport.md)
+
 <p><span class="chinese">其他条目将在视窗中居中显示该链接。</span><span class="english">The other items will center the link in the viewport.</span></p>
 
 <p><span class="chinese">假如为'0'，快速启动将会在每个视点上面显示。</span><span class="english">If '0' the launcher will be displayed on every viewport.</span></p>

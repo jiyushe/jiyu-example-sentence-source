@@ -1,5 +1,7 @@
 # testa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testa.md)
+
 <p><span class="chinese">为银杏外种皮资源的开发利用提供了依据。</span><span class="english">It provided reference for utilization of the testa of Ginkgo biloba L. source.</span></p>
 
 <p><span class="chinese">一组由玛利亚诺·特斯塔拍摄的名为“大自然父亲”的照片。</span><span class="english">Let us show you interesting photoshoot called “Father Nature” by Mariano Testa.</span></p>

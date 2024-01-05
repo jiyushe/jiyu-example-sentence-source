@@ -1,5 +1,7 @@
 # 浮起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuqi_1.md)
+
 <p><span class="chinese">你船预计何时才能重新浮起？</span><span class="english">When do you expect to refloat?</span></p>
 
 <p><span class="chinese">我船预计在涨潮时可重新浮起。</span><span class="english">I expect to refloat when tide rises.</span></p>

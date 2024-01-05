@@ -1,5 +1,7 @@
 # fictionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fictionist.md)
+
 <p><span class="chinese">长时间的阅读为他成为一为小说家做好了准备。</span><span class="english">Long hours of reading set the stage for his being a fictionist.</span></p>
 
 <p><span class="chinese">威拉·凯瑟是二十世纪美国著名的小说家。</span><span class="english">Willa cather is an eminent american fictionist in the twentieth century.</span></p>

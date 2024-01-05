@@ -1,5 +1,7 @@
 # 楷书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaishu.md)
+
 <p><span class="chinese">后来，他又以楷书写了一遍。</span><span class="english">Later, he was written with regular script again.</span></p>
 
 <p><span class="chinese">汉隶是篆字和楷书的过渡。</span><span class="english">Han script is a transitional form from seal to regular script.</span></p>

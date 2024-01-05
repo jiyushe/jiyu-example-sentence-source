@@ -1,5 +1,7 @@
 # psychodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychodynamic.md)
+
 <p><span class="chinese">对自杀有一个心理解释，即180度的谋杀。</span><span class="english">There is a psychodynamic explanation of suicide, that it’s 180-degree murder.</span></p>
 
 <p><span class="chinese">发生了什么事在这一组活动期间从这个角度看心理动力？</span><span class="english">What happened in this group during this activity from a Psychodynamic perspective?</span></p>

@@ -1,5 +1,7 @@
 # orthogonality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthogonality.md)
+
 <p><span class="chinese">正交性是一种慢性感染性的问题。</span><span class="english">Orthogonality is one of those creeping viral problems.</span></p>
 
 <p><span class="chinese">表3为正交设计和油菜数据计算。</span><span class="english">Table 3 showed the orthogonality design and data calculation of rape.</span></p>

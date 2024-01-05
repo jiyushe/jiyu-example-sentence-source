@@ -1,5 +1,7 @@
 # announcement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/announcement.md)
+
 <p><span class="chinese">他们看了我们的公告肯定傻了眼。</span><span class="english">That announcement sure blindsided them.</span></p>
 
 <p><span class="chinese">两个公人正在张贴文榜。</span><span class="english">Two runners are posting an announcement.</span></p>

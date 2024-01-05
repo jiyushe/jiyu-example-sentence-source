@@ -1,5 +1,7 @@
 # sicken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sicken.md)
+
 <p><span class="chinese">它们生病而死亡。</span><span class="english">They sicken and die.</span></p>
 
 <p><span class="chinese">但患病乳区以一个为主。</span><span class="english">Sicken udder number only one.</span></p>

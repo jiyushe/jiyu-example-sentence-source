@@ -1,5 +1,7 @@
 # 从头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congtou.md)
+
 <p><span class="chinese">让我从头说起。</span><span class="english">Let me start at the beginning.</span></p>
 
 <p><span class="chinese">马吕斯感到一阵寒噤，从头颤到脚。</span><span class="english">Marius shivered from head to foot.</span></p>

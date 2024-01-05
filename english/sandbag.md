@@ -1,5 +1,7 @@
 # sandbag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandbag.md)
+
 <p><span class="chinese">小的那只装上两片沙袋。</span><span class="english">That fitted with a small sandbag 2.</span></p>
 
 <p><span class="chinese">在指定的线路上搬运沙袋。</span><span class="english">Carry the sandbag on the designated route.</span></p>

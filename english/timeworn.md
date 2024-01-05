@@ -1,5 +1,7 @@
 # timeworn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timeworn.md)
+
 <p><span class="chinese">改革旧有体制成为当务之急。</span><span class="english">The top priority is to reform the timeworn system.</span></p>
 
 <p><span class="chinese">即便在昏暗的光线下，那台设备也显得陈旧不堪。</span><span class="english">Even in the dim light the equipment looked old and timeworn.</span></p>

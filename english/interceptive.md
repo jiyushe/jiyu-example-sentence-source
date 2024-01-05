@@ -1,5 +1,7 @@
 # interceptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interceptive.md)
+
 <p><span class="chinese">分析截流倍数的影响因素，探讨合理的截流倍数计算方法。</span><span class="english">Analyzing effect factor and study reasonable algorithms of interceptive multiple.</span></p>
 
 <p><span class="chinese">你好？第四拦截司令部？我看到一个不明物体在我的小脑袋周围飞来飞去。</span><span class="english">Hello? Fourth Interceptive Command? I see an unidentified object flying around my little head.</span></p>

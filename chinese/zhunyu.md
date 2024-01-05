@@ -1,5 +1,7 @@
 # 准予
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunyu.md)
+
 <p><span class="chinese">他们准予他退休。</span><span class="english">They vouchsafed his retirement.</span></p>
 
 <p><span class="chinese">她是惟一一个准予保释的嫌疑人。</span><span class="english">She was the only one granted bail.</span></p>

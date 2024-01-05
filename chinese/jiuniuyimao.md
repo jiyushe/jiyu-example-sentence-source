@@ -1,5 +1,7 @@
 # 九牛一毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuniuyimao.md)
+
 <p><span class="chinese">新减税额只是九牛一毛。</span><span class="english">The new tax cuts are a drop in the ocean.</span></p>
 
 <p><span class="chinese">对李经理来说，这点钱只是九牛一毛。</span><span class="english">More than one thousand yuan. Manager Li treated us.</span></p>

@@ -1,5 +1,7 @@
 # 顺延
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunyan.md)
+
 <p><span class="chinese">如果进展顺利的话，你就能轻松的将约会顺延到晚上的用餐时间了。</span><span class="english">If things are going well it is easy to expand on your evening.</span></p>
 
 <p><span class="chinese">在平季，折扣不应该被顺延执行。</span><span class="english">Discounts should not be extended during peak occupancy periods.</span></p>

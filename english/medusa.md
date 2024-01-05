@@ -1,5 +1,7 @@
 # medusa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medusa.md)
+
 <p><span class="chinese">我们知道美杜莎。</span><span class="english">You know Medusa.</span></p>
 
 <p><span class="chinese">避免看到美杜莎。</span><span class="english">Avoid looking at Medusa.</span></p>

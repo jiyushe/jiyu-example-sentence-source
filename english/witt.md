@@ -1,5 +1,7 @@
 # witt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witt.md)
+
 <p><span class="chinese">两个星期后议院就要开会了。</span><span class="english">In a fortnight the House witt BE sitting.</span></p>
 
 <p><span class="chinese">最先恢复说话本能的是德韦特先生。</span><span class="english">Mr. De Witt was the first to recover the power of speech.</span></p>

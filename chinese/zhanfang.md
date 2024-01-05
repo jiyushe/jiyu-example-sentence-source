@@ -1,5 +1,7 @@
 # 毡房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanfang.md)
+
 <p><span class="chinese">他们好像正往我住的那个毡房跑呢。</span><span class="english">They seem to be running toward the yurt where I am staying.</span></p>
 
 <p><span class="chinese">在一个毡房里，主人给我们端上来奶茶、奶油和干酪。</span><span class="english">In one of the yurts, the host served us with tea, cream and cheese.</span></p>

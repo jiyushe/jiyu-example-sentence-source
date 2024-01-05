@@ -1,5 +1,7 @@
 # miyazaki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miyazaki.md)
+
 <p><span class="chinese">1941年宫崎骏出生于日本东京。</span><span class="english">Hayao Miyazaki was born in Tokyo in 1941.</span></p>
 
 <p><span class="chinese">宫崎骏很少描写简单的善与恶。</span><span class="english">Miyazaki rarely traffics in simple good and evil.</span></p>

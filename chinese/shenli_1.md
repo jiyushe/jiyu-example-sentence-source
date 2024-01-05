@@ -1,5 +1,7 @@
 # 神力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenli_1.md)
+
 <p><span class="chinese">只有神力才能打败它。</span><span class="english">It takes might to fight.</span></p>
 
 <p><span class="chinese">不用把自己当成超人或神力女超人。</span><span class="english">Don’t try to be Superman or WonderWoman.</span></p>

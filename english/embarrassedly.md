@@ -1,5 +1,7 @@
 # embarrassedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embarrassedly.md)
+
 <p><span class="chinese">不好意思请稍等。</span><span class="english">Embarrassedly please wait a bit.</span></p>
 
 <p><span class="chinese">那男孩局促不安地盯着地板。</span><span class="english">The boy stared at the floor embarrassedly.</span></p>

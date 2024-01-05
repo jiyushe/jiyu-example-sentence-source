@@ -1,5 +1,7 @@
 # 在在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizai.md)
+
 <p><span class="chinese">你能把名字签在在这里吗？</span><span class="english">Can you sign here, sir?</span></p>
 
 <p><span class="chinese">王在在镐、岂乐饮酒。</span><span class="english">Drinking , happy and at ease.</span></p>

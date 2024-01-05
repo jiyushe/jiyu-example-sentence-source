@@ -1,5 +1,7 @@
 # 猪瘟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuwen_3.md)
+
 <p><span class="chinese">他来自「沙示加猪瘟」的一个城市。</span><span class="english">He came from a city in Saskechewan.</span></p>
 
 <p><span class="chinese">目前，接种疫苗是有效预防猪瘟病毒的方法。</span><span class="english">At present, vaccine is an effective method to prevent CSFV.</span></p>

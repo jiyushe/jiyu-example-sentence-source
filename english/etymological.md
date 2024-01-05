@@ -1,5 +1,7 @@
 # etymological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etymological.md)
+
 <p><span class="chinese">从词源学的角度来看，两个词都有“附加物”的意思。</span><span class="english">The etymological meaning of both words is “something added on.”</span></p>
 
 <p><span class="chinese">协调了初期英语的史前语源学。</span><span class="english">highly attuned to the etymological prehistory of the English word infant.</span></p>

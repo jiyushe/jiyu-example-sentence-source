@@ -1,5 +1,7 @@
 # anticlockwise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticlockwise.md)
+
 <p><span class="chinese">逆时针转动手轮关闭箱门。</span><span class="english">Anticlockwise turn the handwheeltoclose the door.</span></p>
 
 <p><span class="chinese">逆时针转动旋钮可以开启切割机。</span><span class="english">The cutters are opened by turning the knob anticlockwise.</span></p>

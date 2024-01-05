@@ -1,5 +1,7 @@
 # marxian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marxian.md)
+
 <p><span class="chinese">马克思的转形理论也只有在这三大前提下才能存在。</span><span class="english">It also regards only under the three premises can Marxian transformation theory exist.</span></p>
 
 <p><span class="chinese">马克思早期的意识形态思想在马克思思想发展中居有重要地位。</span><span class="english">The early Marxian ideology plays a significant role in the development of his thoughts.</span></p>

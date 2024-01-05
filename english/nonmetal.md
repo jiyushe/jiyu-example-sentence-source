@@ -1,5 +1,7 @@
 # nonmetal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonmetal.md)
+
 <p><span class="chinese">钠是金属，碘是非金属。</span><span class="english">Sodium is a metal, iodine is a nonmetal.</span></p>
 
 <p><span class="chinese">常采用金属与非金属组合的形式。</span><span class="english">Often used in the form of combination of metal and nonmetal.</span></p>

@@ -1,5 +1,7 @@
 # pew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pew.md)
+
 <p><span class="chinese">如今我们有佩由。</span><span class="english">Today we have Pew.</span></p>
 
 <p><span class="chinese">我镇静地坐在教堂的长椅上，没有尖叫，没有哀号。</span><span class="english">I sit poised in my pew. No screaming or wailing.</span></p>

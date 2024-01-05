@@ -1,5 +1,7 @@
 # smallpox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smallpox.md)
+
 <p><span class="chinese">医生治疗这个男孩的天花病。</span><span class="english">The doctor treated the boy for smallpox.</span></p>
 
 <p><span class="chinese">种牛痘防天花是有效的。</span><span class="english">Vaccination for smallpox is efficacious.</span></p>

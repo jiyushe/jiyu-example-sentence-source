@@ -1,5 +1,7 @@
 # aryan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aryan.md)
+
 <p><span class="chinese">但被雅利安人科学家反驳。</span><span class="english">The Aryan scientist debunked the claim.</span></p>
 
 <p><span class="chinese">他不可能进入雅利安人骄傲的腹地！</span><span class="english">He would not dare enter the very heart of Aryan Pride!</span></p>

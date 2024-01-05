@@ -1,5 +1,7 @@
 # watchtower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watchtower.md)
+
 <p><span class="chinese">一座碉楼座落在山顶上。</span><span class="english">On top of the hill stands a watchtower.</span></p>
 
 <p><span class="chinese">箭窗楼也分为三孔楼、四孔楼、五孔楼等。</span><span class="english">A watchtower may have three to five embrasures.</span></p>

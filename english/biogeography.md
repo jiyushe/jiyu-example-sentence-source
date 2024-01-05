@@ -1,5 +1,7 @@
 # biogeography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biogeography.md)
+
 <p><span class="chinese">抓捕本·拉登，生物地理学能帮上忙吗？</span><span class="english">Can the Science of Biogeography Find Osama Bin Laden?</span></p>
 
 <p><span class="chinese">生物地理学研究动植物的地理分布。</span><span class="english">Biogeography is the study of plant and animal distribution.</span></p>

@@ -1,5 +1,7 @@
 # ilp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ilp.md)
+
 <p><span class="chinese">综合学习课程让学生汲取不同的知识。</span><span class="english">Students are in for diverse pursuits under the ILP.</span></p>
 
 <p><span class="chinese">文章介绍了应用于空间关联规则挖掘的ILP方法。</span><span class="english">This paper introduces an ILP Method Applied in Spatial Association Rule Mining.</span></p>

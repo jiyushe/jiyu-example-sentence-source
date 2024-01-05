@@ -1,5 +1,7 @@
 # underhanded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underhanded.md)
+
 <p><span class="chinese">他所做的，是自私狡猾的。</span><span class="english">What he did was selfish and underhanded.</span></p>
 
 <p><span class="chinese">该商店在圣诞节期间缺少人手。</span><span class="english">The store is underhanded in the Christmas season.</span></p>

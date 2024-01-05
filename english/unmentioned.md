@@ -1,5 +1,7 @@
 # unmentioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmentioned.md)
+
 <p><span class="chinese">报告并未提及其他类似事件。</span><span class="english">The report leaves unmentioned other similar incidents.</span></p>
 
 <p><span class="chinese">被忽略的是广大人民怎么想--这是很容易发现的。</span><span class="english">Unmentioned is what the population thinks—easily discovered.</span></p>

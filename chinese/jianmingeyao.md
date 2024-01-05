@@ -1,5 +1,7 @@
 # 简明扼要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianmingeyao.md)
+
 <p><span class="chinese">请简明扼要地说清你的意思。</span><span class="english">Please say it clearly and simply.</span></p>
 
 <p><span class="chinese">一切保持简明扼要。</span><span class="english">Keep all things short and to the point.</span></p>

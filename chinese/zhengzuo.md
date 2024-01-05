@@ -1,5 +1,7 @@
 # 正坐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzuo.md)
+
 <p><span class="chinese">我们正坐加拿大高头大马。</span><span class="english">We were sitting in the tall horse ride.</span></p>
 
 <p><span class="chinese">正坐就是跪着，后面有支撑。</span><span class="english">Seiza is a kneeling position where the backside is supported.</span></p>

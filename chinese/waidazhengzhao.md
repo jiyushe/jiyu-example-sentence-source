@@ -1,5 +1,7 @@
 # 歪打正着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waidazhengzhao.md)
+
 <p><span class="chinese">土豆条的发明纯属歪打正着。</span><span class="english">The potato chips were invented by mistake.</span></p>
 
 <p><span class="chinese">他并未用力击球，却歪打正着击中了三柱门。</span><span class="english">He didn't hit out, but hit the wicket by a fluke.</span></p>

@@ -1,5 +1,7 @@
 # ultramarine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultramarine.md)
+
 <p><span class="chinese">在剪彩的剩余部分青蓝。</span><span class="english">The remainder of the ribbon is Ultramarine Blue.</span></p>
 
 <p><span class="chinese">远处的天边，则是一片最深的群青。</span><span class="english">The horizon beyond is of the deepest ultramarine.</span></p>

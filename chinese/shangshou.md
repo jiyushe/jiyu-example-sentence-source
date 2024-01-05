@@ -1,5 +1,7 @@
 # 上手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshou.md)
+
 <p><span class="chinese">配上手擦和PP洗水效果。</span><span class="english">Hand brush and PP washing effect.</span></p>
 
 <p><span class="chinese">发球球员可以选择下手或上手发球。</span><span class="english">Players may serve underarm or overarm.</span></p>

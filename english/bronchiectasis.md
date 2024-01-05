@@ -1,5 +1,7 @@
 # bronchiectasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronchiectasis.md)
+
 <p><span class="chinese">这是支气管扩张的表现。</span><span class="english">This is the microscopic aearance of bronchiectasis.</span></p>
 
 <p><span class="chinese">这是支气管扩张的表现。</span><span class="english">This is the microscopic appearance of bronchiectasis.</span></p>

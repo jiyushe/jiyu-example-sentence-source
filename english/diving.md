@@ -1,5 +1,7 @@
 # diving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diving.md)
+
 <p><span class="chinese">跳水池有多深？</span><span class="english">How deep is the diving pool?</span></p>
 
 <p><span class="chinese">你尝试过跳台跳水吗？</span><span class="english">Did you ever try platform diving?</span></p>

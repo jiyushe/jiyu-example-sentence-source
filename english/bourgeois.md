@@ -1,5 +1,7 @@
 # bourgeois
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bourgeois.md)
+
 <p><span class="chinese">布尔乔亚"是法语bourgeois的音译</span><span class="english">Bourgeois is a French word.</span></p>
 
 <p><span class="chinese">于是他把小有产者带走了。</span><span class="english">And he led his little bourgeois away.</span></p>

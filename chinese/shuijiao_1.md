@@ -1,5 +1,7 @@
 # 水饺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijiao_1.md)
+
 <p><span class="chinese">好啦，你喜欢吃水饺吗?</span><span class="english">Well, would you like dumplings?</span></p>
 
 <p><span class="chinese">水饺经常被烹煮来吃。</span><span class="english">Dumplings are often eaten boiled.</span></p>

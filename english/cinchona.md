@@ -1,5 +1,7 @@
 # cinchona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinchona.md)
+
 <p><span class="chinese">附近长着一颗树，现在知道是一棵金鸡纳树。</span><span class="english">Nearby grew a tree, nowadays known as Cinchona.</span></p>
 
 <p><span class="chinese">杜松子酒的口味来源于杜松子的浆果，而碳酸奎宁水中的奎宁来自金鸡纳树。</span><span class="english">Gin gets its flavor from juniper tree berries, and the quinine in tonic comes from the cinchona tree.</span></p>

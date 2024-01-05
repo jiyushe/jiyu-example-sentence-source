@@ -1,5 +1,7 @@
 # illegibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illegibility.md)
+
 <p><span class="chinese">将模糊数学应用于水质评价中。</span><span class="english">The illegibility mathematics is used for evaluating water quality.</span></p>
 
 <p><span class="chinese">提出了基于分类树和模糊匹配的工艺知识资源检索方法。</span><span class="english">PK searching method based on classification tree and illegibility matching are developed.</span></p>

@@ -1,5 +1,7 @@
 # 万年历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wannianli.md)
+
 <p><span class="chinese">童锁。游戏。万年历。无信号自动静音。延时关机。</span><span class="english">Child LOck. game. calender, AUto shut off for NO Signal, Delay Switch Off.</span></p>
 
 <p><span class="chinese">这万年历显示比赛日期已可预见的未来日期。</span><span class="english">This calendar shows "the" date matches the date in the foreseeable future.</span></p>

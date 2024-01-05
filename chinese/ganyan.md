@@ -1,5 +1,7 @@
 # 感言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganyan.md)
+
 <p><span class="chinese">第一个在获奖感言中“感谢母亲”的演员——葛丽·嘉逊。</span><span class="english">The first person to thank her mother.</span></p>
 
 <p><span class="chinese">不能用盖尔语发表获奖感言我真是遗憾啊。</span><span class="english">I'm really sad I couldn't give a speech in Gaelic.</span></p>

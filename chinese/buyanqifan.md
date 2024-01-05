@@ -1,5 +1,7 @@
 # 不厌其烦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyanqifan.md)
+
 <p><span class="chinese">当时还是让我们不厌其烦地到达那一步吧。</span><span class="english">But let's take baby steps to get there.</span></p>
 
 <p><span class="chinese">一天又一天，帕蒂和我不厌其烦地朗诵一遍又一遍。</span><span class="english">Day after day, Patty and I plodded through recitals.</span></p>

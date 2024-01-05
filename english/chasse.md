@@ -1,5 +1,7 @@
 # chasse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chasse.md)
+
 <p><span class="chinese">几百人来到最近在贝尔·查斯举办的海鲜节。</span><span class="english">Hundreds came to a recent seafood festival in Belle Chasse.</span></p>
 
 <p><span class="chinese">我们自己又做了一台，大概只花了六个礼拜，就在。</span><span class="english">The cab out there with a celine chasse , and we made it in like six weeks.</span></p>

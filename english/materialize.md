@@ -1,5 +1,7 @@
 # materialize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/materialize.md)
+
 <p><span class="chinese">但成果的实现过程缓慢。</span><span class="english">But results have been slow to materialize.</span></p>
 
 <p><span class="chinese">我认为他的计划永远不会实现。</span><span class="english">I don't think his plans will ever materialize.</span></p>

@@ -1,5 +1,7 @@
 # breakthrough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breakthrough.md)
+
 <p><span class="chinese">这对我来说是一个突破。</span><span class="english">It was a breakthrough for me.</span></p>
 
 <p><span class="chinese">这将是一个突破性的进展。</span><span class="english">This could be a breakthrough.</span></p>

@@ -1,5 +1,7 @@
 # 专程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuancheng.md)
+
 <p><span class="chinese">我专程来看望你的。</span><span class="english">I come here just to see you.</span></p>
 
 <p><span class="chinese">我是专程来办一件差事的。</span><span class="english">I've come on a special errand.</span></p>

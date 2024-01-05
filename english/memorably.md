@@ -1,5 +1,7 @@
 # memorably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memorably.md)
+
 <p><span class="chinese">值得一提的是，极少数大型掠食动物至少暂时打破了这一宿命。</span><span class="english">A few big predators have memorably beaten the odds, at least for a while.</span></p>
 
 <p><span class="chinese">这本书包含了一些难忘下流的角色及有伤风化的描述。</span><span class="english">The book includes some memorably seedy characters and scabrous description.</span></p>

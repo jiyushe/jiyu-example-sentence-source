@@ -1,5 +1,7 @@
 # 受挫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoucuo.md)
+
 <p><span class="chinese">那高围墙使他逃跑的希受挫。</span><span class="english">The high wall mocked his hopes of escaping.</span></p>
 
 <p><span class="chinese">一切受挫的愿望，一切严厉的拒斥</span><span class="english">All the thwarted longings, all the stern denials</span></p>

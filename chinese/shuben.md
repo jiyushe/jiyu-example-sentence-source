@@ -1,5 +1,7 @@
 # 书本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuben.md)
+
 <p><span class="chinese">咱就是不信书本上的东西。</span><span class="english">I don't trust books.</span></p>
 
 <p><span class="chinese">我来摸书本。</span><span class="english">I'll touch the book.</span></p>

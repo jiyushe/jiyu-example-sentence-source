@@ -1,5 +1,7 @@
 # crazy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crazy.md)
+
 <p><span class="chinese">他是疯狂的。</span><span class="english">He's crazy.</span></p>
 
 <p><span class="chinese">痴痴的爱你。</span><span class="english">Crazy loves you.</span></p>

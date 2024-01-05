@@ -1,5 +1,7 @@
 # drearily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drearily.md)
+
 <p><span class="chinese">一只扫帚可怕地扫尽。</span><span class="english">A broom is drearily sweeping.</span></p>
 
 <p><span class="chinese">凄然沉没于每个静寂的夜。</span><span class="english">Drearily sink into every silent night.</span></p>

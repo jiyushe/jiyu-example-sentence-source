@@ -1,5 +1,7 @@
 # inanimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inanimate.md)
+
 <p><span class="chinese">我们基本上都是研究非生命体的</span><span class="english">So, we are basically dealing with inanimate objects.</span></p>
 
 <p><span class="chinese">在这方面只有神能够比得上没有生命的物质。</span><span class="english">Only a god can equal inanimate matter in this respect.</span></p>

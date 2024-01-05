@@ -1,5 +1,7 @@
 # 第一产业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyichanye.md)
+
 <p><span class="chinese">扩张第一产业具有潜力。</span><span class="english">Expanding primary industries has potential.</span></p>
 
 <p><span class="chinese">农业作为第一产业，是中国国民经济的基础。</span><span class="english">Agriculture as the primary industry is the basis of China's national economy.</span></p>

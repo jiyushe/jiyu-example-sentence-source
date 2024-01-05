@@ -1,5 +1,7 @@
 # 善变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanbian.md)
+
 <p><span class="chinese">是女人的善变，还是另有隐情?。</span><span class="english">Is womens fickle, or the story?</span></p>
 
 <p><span class="chinese">别相信她——她是善变的。</span><span class="english">Do not trust her ---she is changeable.</span></p>

@@ -1,5 +1,7 @@
 # guttural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guttural.md)
+
 <p><span class="chinese">他发出了几声喉音。</span><span class="english">He made a few guttural sounds.</span></p>
 
 <p><span class="chinese">我的抚摸惹得它喉咙里长长的一声咆哮。</span><span class="english">My caress provoked a long, guttural gnarl.</span></p>

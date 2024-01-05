@@ -1,5 +1,7 @@
 # univalent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/univalent.md)
+
 <p><span class="chinese">一类单叶解析函数族。</span><span class="english">Univalent analytic functions of a class family.</span></p>
 
 <p><span class="chinese">从苯甲酸衍生而来的一价化学基。</span><span class="english">The univalent radical derived from benzoic acid.</span></p>

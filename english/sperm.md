@@ -1,5 +1,7 @@
 # sperm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sperm.md)
+
 <p><span class="chinese">一个精子？</span><span class="english">A sperm?</span></p>
 
 <p><span class="chinese">睾丸制造精子。</span><span class="english">Testicles produce sperm.</span></p>

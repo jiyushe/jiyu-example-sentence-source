@@ -1,5 +1,7 @@
 # 流言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuyan.md)
+
 <p><span class="chinese">这流言说明有假。</span><span class="english">The rumor proved fwoulsse.</span></p>
 
 <p><span class="chinese">流言蛮语不能把你击倒。</span><span class="english">Words can't bring you down.</span></p>

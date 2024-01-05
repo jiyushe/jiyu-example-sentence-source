@@ -1,5 +1,7 @@
 # 水粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuifen_1.md)
+
 <p><span class="chinese">此设计以水粉为材料。</span><span class="english">This material is designed to Gouache.</span></p>
 
 <p><span class="chinese">水性的用水粉颜料、丙烯颜料均可。</span><span class="english">The water-based paints with gouache, acrylic paint can.</span></p>

@@ -1,5 +1,7 @@
 # 英雄好汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingxionghaohan.md)
+
 <p><span class="chinese">要在奋斗中做个英雄好汉！</span><span class="english">Be a hero in strife!</span></p>
 
 <p><span class="chinese">要在奋斗中做个英雄好汉！</span><span class="english">Be a hero in the strife !</span></p>

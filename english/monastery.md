@@ -1,5 +1,7 @@
 # monastery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monastery.md)
+
 <p><span class="chinese">这个僧院建于1652年。</span><span class="english">The monastery dates from 1652.</span></p>
 
 <p><span class="chinese">像修道院式的避世主义。</span><span class="english">Looks like a monastery retreat.</span></p>

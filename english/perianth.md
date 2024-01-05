@@ -1,5 +1,7 @@
 # perianth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perianth.md)
+
 <p><span class="chinese">雌花具明显的花被。</span><span class="english">Female flowers with evident perianth.</span></p>
 
 <p><span class="chinese">柴团长拿枪指着花花被李冬青阻拦。</span><span class="english">Wood, pointed a gun at the flower perianth dong-qing li.</span></p>

@@ -1,5 +1,7 @@
 # fogged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fogged.md)
+
 <p><span class="chinese">光线使软片上起雾翳。</span><span class="english">Light has fogged this film.</span></p>
 
 <p><span class="chinese">蒸汽使我的眼镜模糊不清。</span><span class="english">The steam fogged my glasses.</span></p>

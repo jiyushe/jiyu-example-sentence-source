@@ -1,5 +1,7 @@
 # 重要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyao.md)
+
 <p><span class="chinese">但是它们很重要。</span><span class="english">But it matters.</span></p>
 
 <p><span class="chinese">在某种意义上说，不重要。</span><span class="english">In one sense, no.</span></p>

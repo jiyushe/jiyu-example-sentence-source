@@ -1,5 +1,7 @@
 # 军统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juntong.md)
+
 <p><span class="chinese">军统方面也正准备清剿上海地下党组织。</span><span class="english">The military also is ready to clear the Shanghai underground organization.</span></p>
 
 <p><span class="chinese">余利带着军统站的人到商铺里去敲诈钱财，很成功。</span><span class="english">A person with juntong station to the shops to extort money, very successful.</span></p>

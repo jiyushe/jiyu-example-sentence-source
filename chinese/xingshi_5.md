@@ -1,5 +1,7 @@
 # 省视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshi_5.md)
+
 <p><span class="chinese">让我们仔细自我省视！</span><span class="english">Let's examine ourselves carefully.</span></p>
 
 <p><span class="chinese">你是否曾省视一下欠债的原因。</span><span class="english">Have you ever scrutinized the reasons behind your debt problems?</span></p>

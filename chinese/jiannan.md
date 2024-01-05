@@ -1,5 +1,7 @@
 # 艰难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiannan.md)
+
 <p><span class="chinese">他艰难地扯着网。</span><span class="english">He pulled it harder.</span></p>
 
 <p><span class="chinese">他备尝艰难。</span><span class="english">He undergoes hardships.</span></p>

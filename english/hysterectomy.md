@@ -1,5 +1,7 @@
 # hysterectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hysterectomy.md)
+
 <p><span class="chinese">这些妇女在做子宫切除术时都没有患上癌症。</span><span class="english">None of the women had cancer at the time of hysterectomy.</span></p>
 
 <p><span class="chinese">自从做了子宫切除术后，这些都不好进行了。</span><span class="english">Since her hysterectomy she's been unable to come properly.</span></p>

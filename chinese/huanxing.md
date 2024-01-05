@@ -1,5 +1,7 @@
 # 唤醒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxing.md)
+
 <p><span class="chinese">当晨光唤醒我时。</span><span class="english">When morning awakes me.</span></p>
 
 <p><span class="chinese">惟侑嗳能唤醒嗳。</span><span class="english">Love alone can waken love.</span></p>

@@ -1,5 +1,7 @@
 # novelty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/novelty.md)
+
 <p><span class="chinese">新颖是首当气冲的。</span><span class="english">Novelty is one.</span></p>
 
 <p><span class="chinese">但很快，这种新鲜感就逐渐淡化。</span><span class="english">But soon, the novelty wore off.</span></p>

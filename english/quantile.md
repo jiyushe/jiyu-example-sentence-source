@@ -1,5 +1,7 @@
 # quantile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantile.md)
+
 <p><span class="chinese">如果将这个参数设置为零或“1”，则不收集任何分位数统计信息。</span><span class="english">If you set this parameter to zero or "1", no quantile statistics are collected.</span></p>
 
 <p><span class="chinese">本文将使用相对于最小二乘法更具有稳健性的分位点回归估计法。</span><span class="english">So we introduced and used quantile regression method, which was robust in this situation.</span></p>

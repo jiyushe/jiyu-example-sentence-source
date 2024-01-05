@@ -1,5 +1,7 @@
 # impracticable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impracticable.md)
+
 <p><span class="chinese">他会坚持说我们的计划行不通。</span><span class="english">He insists that our plan is impracticable.</span></p>
 
 <p><span class="chinese">那些新建筑物的设计图是行不通的。</span><span class="english">Those new building plans are impracticable.</span></p>

@@ -1,5 +1,7 @@
 # attitude 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attitude.md)
+
 <p><span class="chinese">请叫我陈文君。</span><span class="english">Call me Attitude.</span></p>
 
 <p><span class="chinese">这就是我的态度。</span><span class="english">That’s my attitude.</span></p>

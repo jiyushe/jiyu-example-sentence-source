@@ -1,5 +1,7 @@
 # lil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lil.md)
+
 <p><span class="chinese">让小宝宝学习自己喂东西吃。</span><span class="english">For lil ones learning to self-feed.</span></p>
 
 <p><span class="chinese">丽尔成为了梅.韦斯特所演的人物中的典型代表，这是一个在她自己的生活中经常扮演的角色。</span><span class="english">Lil became the most representative example of Mae West's characters.</span></p>

@@ -1,5 +1,7 @@
 # 邮局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youju_3.md)
+
 <p><span class="chinese">我要去邮局了。</span><span class="english">I am going to the postoffice.</span></p>
 
 <p><span class="chinese">我在邮局里遇到他。</span><span class="english">I met him at the post-office.</span></p>

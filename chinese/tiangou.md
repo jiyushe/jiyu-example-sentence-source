@@ -1,5 +1,7 @@
 # 天狗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiangou.md)
+
 <p><span class="chinese">真主紧急呼救天狗。</span><span class="english">Live God SOS dog evil.</span></p>
 
 <p><span class="chinese">在中国的传统中，有着天狗吞日的故事。</span><span class="english">In Chinese tradition, there is a story about a heavenly dog eating the sun.</span></p>

@@ -1,5 +1,7 @@
 # tubing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tubing.md)
+
 <p><span class="chinese">用阻力拉管。</span><span class="english">Use resistance tubing.</span></p>
 
 <p><span class="chinese">完井用油管及附件。</span><span class="english">Tubing and attachments for completions.</span></p>

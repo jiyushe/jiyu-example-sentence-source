@@ -1,5 +1,7 @@
 # 低声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/disheng.md)
+
 <p><span class="chinese">我低声的说。</span><span class="english">I said softly.</span></p>
 
 <p><span class="chinese">“熊，”他低声说到。</span><span class="english">“Bear, ” he whispered.</span></p>

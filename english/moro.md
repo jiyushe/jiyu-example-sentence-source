@@ -1,5 +1,7 @@
 # moro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moro.md)
+
 <p><span class="chinese">菲律宾军方宣称，反叛武装组织摩洛伊斯兰解放阵线主导了这起恶性事件。</span><span class="english">The Philippine military said rebels of the Separatist Moro Islamic Liberation Front were responsible.</span></p>
 
 <p><span class="chinese">可以说，我们整天都在谈话，彼此交谈只不过是一种更为活跃的，能够听得见得思考罢了。</span><span class="english">We talk, I believe, all day long , to talk to each other is but a moro animated and an audible thinking.</span></p>

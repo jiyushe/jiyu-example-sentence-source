@@ -1,5 +1,7 @@
 # angelina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angelina.md)
+
 <p><span class="chinese">是的，我认识。她是安吉丽娜·朱力。</span><span class="english">Yes, I do. She is Angelina Jolie.</span></p>
 
 <p><span class="chinese">我是指，安吉莉娜·朱莉和埃及艳后，难道不令人激动吗？</span><span class="english">I mean, Angelina Jolie and Cleopatra?</span></p>

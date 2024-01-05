@@ -1,5 +1,7 @@
 # tourist 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tourist.md)
+
 <p><span class="chinese">有游览图吗？</span><span class="english">Do you have tourist map?</span></p>
 
 <p><span class="chinese">三亚是个旅游胜地。</span><span class="english">Sanya is a tourist resort.</span></p>

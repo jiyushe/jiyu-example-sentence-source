@@ -1,5 +1,7 @@
 # tension 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tension.md)
+
 <p><span class="chinese">张力消除。</span><span class="english">Tension eliminated.</span></p>
 
 <p><span class="chinese">卷绕张力过大。</span><span class="english">Higher winding tension.</span></p>

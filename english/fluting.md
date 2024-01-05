@@ -1,5 +1,7 @@
 # fluting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluting.md)
+
 <p><span class="chinese">夜莺！我听见你歌唱。</span><span class="english">Nightingale! I hear your fluting.</span></p>
 
 <p><span class="chinese">我听到一只红鹤在我耳边清脆地叫着。</span><span class="english">I hear a flamingo fluting in my ear.</span></p>

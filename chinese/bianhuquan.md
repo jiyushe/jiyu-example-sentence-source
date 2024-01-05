@@ -1,5 +1,7 @@
 # 辩护权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianhuquan.md)
+
 <p><span class="chinese">同时，它又是犯罪嫌疑人、被告人行使辩护权的特殊手段。</span><span class="english">At the same time, it is a special form of right to defence.</span></p>
 
 <p><span class="chinese">其辩护人在事实与法律适用方面行使辩护权，均不应受到限制。</span><span class="english">However, the right of defence of counsels should not be subject to such limitation.</span></p>

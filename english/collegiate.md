@@ -1,5 +1,7 @@
 # collegiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collegiate.md)
+
 <p><span class="chinese">例如在“大学关心网助研中心”就能办到。</span><span class="english">Collegiate Care Research Assistance, for instance, may do the job.</span></p>
 
 <p><span class="chinese">调解可以由审判员一人主持，也可以由合议庭主持。</span><span class="english">Conciliation can be conducted by a single judge or a collegiate panel.</span></p>

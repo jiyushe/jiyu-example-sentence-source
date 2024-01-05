@@ -1,5 +1,7 @@
 # soymilk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soymilk.md)
+
 <p><span class="chinese">但是他喜欢喝豆浆，每天早上一大杯。</span><span class="english">But he likes to drink soymilk , a big cup a day.</span></p>
 
 <p><span class="chinese">做豆浆之前，要先把黄豆碾碎。</span><span class="english">We have to mill the soybeans first to make soymilk.</span></p>

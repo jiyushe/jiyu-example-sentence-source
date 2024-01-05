@@ -1,5 +1,7 @@
 # ko
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ko.md)
+
 <p><span class="chinese">高师母仍在加州休养复原。</span><span class="english">Mrs. Ko is still recovering in California.</span></p>
 
 <p><span class="chinese">柯腾展开了追求，沈佳宜则犹豫不决。</span><span class="english">Ko started pursuing Shen but Shen remained hesitant.</span></p>

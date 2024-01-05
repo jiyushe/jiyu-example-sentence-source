@@ -1,5 +1,7 @@
 # grateful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grateful.md)
+
 <p><span class="chinese">那就感恩你有工作。</span><span class="english">Be grateful you have work.</span></p>
 
 <p><span class="chinese">鸽子非常感激蚂蚁。</span><span class="english">The dove felt very grateful.</span></p>

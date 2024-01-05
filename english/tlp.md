@@ -1,5 +1,7 @@
 # tlp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tlp.md)
+
 <p><span class="chinese">因此，TLP连接技术在石油工业中有着广泛的应用前景。</span><span class="english">Therefore, TLP bonding can be widely applied in oil industry.</span></p>
 
 <p><span class="chinese">平台的总体尺度规划是张力腿平台设计中最基础的工作。</span><span class="english">The general size planning is the fundamental part in a TLP design.</span></p>

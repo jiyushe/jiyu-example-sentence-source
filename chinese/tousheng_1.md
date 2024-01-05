@@ -1,5 +1,7 @@
 # 投生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tousheng_1.md)
+
 <p><span class="chinese">懒散的踏向伯利恒的投生？</span><span class="english">Slouches towards Bethlehem to be born?</span></p>
 
 <p><span class="chinese">可以说，在你投生这个存在层面之前就已经签约。</span><span class="english">They were signed, so to speak, before you were born in this existence.</span></p>

@@ -1,5 +1,7 @@
 # 剪贴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiantie.md)
+
 <p><span class="chinese">文本和剪贴画。</span><span class="english">Text and clipart.</span></p>
 
 <p><span class="chinese">一起做剪贴簿.</span><span class="english">Scrapbook together.</span></p>

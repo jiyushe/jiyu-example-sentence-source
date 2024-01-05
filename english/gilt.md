@@ -1,5 +1,7 @@
 # gilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gilt.md)
+
 <p><span class="chinese">设计颇费心意，花样繁复，还以金粉相饰。</span><span class="english">It's designed, embossed, gilt.</span></p>
 
 <p><span class="chinese">你最喜欢从吉尔特购买的什么东西？</span><span class="english">What are your favorite Gilt purchases?</span></p>

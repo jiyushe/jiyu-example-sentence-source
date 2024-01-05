@@ -1,5 +1,7 @@
 # tectonism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tectonism.md)
+
 <p><span class="chinese">构造作用则为以上作用提供了条件。</span><span class="english">Tectonism provides conditions for the above activities.</span></p>
 
 <p><span class="chinese">含矿岩石为碎屑岩类和构造作用形成的糜棱岩、压碎岩类。</span><span class="english">The ores mainly are clastic rock, the mylonite and cataclasite formed in tectonism.</span></p>

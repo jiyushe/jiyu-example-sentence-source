@@ -1,5 +1,7 @@
 # weightily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weightily.md)
+
 <p><span class="chinese">中期设计是整个工程中用时最长、工程量最大的部分。</span><span class="english">The middle design part is the longest and the weightily part in this project.</span></p>
 
 <p><span class="chinese">叙说屈辱，不只是对人性进行修复，更重要的是对英雄的渴望与寻觅。</span><span class="english">Weightily , it pockets author's desire of looking for hero and stubborn adoration of force.</span></p>

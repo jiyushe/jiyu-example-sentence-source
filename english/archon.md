@@ -1,5 +1,7 @@
 # archon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archon.md)
+
 <p><span class="chinese">它看起来象足了原版执政官。</span><span class="english">It really is like the original archon.</span></p>
 
 <p><span class="chinese">曙光执政官有技能吗？</span><span class="english">Will the Twilight Archon have abilities?</span></p>

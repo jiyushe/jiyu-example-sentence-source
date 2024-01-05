@@ -1,5 +1,7 @@
 # 中班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongban.md)
+
 <p><span class="chinese">中班何时开始何时结束？</span><span class="english">What times does the swing shift begin and end?</span></p>
 
 <p><span class="chinese">在这过程中班饱受惊吓，但他却毫发无损。</span><span class="english">Ben had a big scare but escaped without injury.</span></p>

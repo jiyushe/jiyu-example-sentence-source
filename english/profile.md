@@ -1,5 +1,7 @@
 # profile 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profile.md)
+
 <p><span class="chinese">创建客户档案。</span><span class="english">Create customer profile files.</span></p>
 
 <p><span class="chinese">为每个银行创建一个概要。</span><span class="english">Create a profile for each bank.</span></p>

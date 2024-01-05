@@ -1,5 +1,7 @@
 # executioner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/executioner.md)
+
 <p><span class="chinese">那刽子手向她走过来。</span><span class="english">The executioner came towards her.</span></p>
 
 <p><span class="chinese">刽子手好像离弦的箭似的跑去了。</span><span class="english">And the executioner went off like an arrow.</span></p>

@@ -1,5 +1,7 @@
 # 定例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingli.md)
+
 <p><span class="chinese">你知道天的定例吗。</span><span class="english">Knowest thou the ordinances of heaven?</span></p>
 
 <p><span class="chinese">这是以色列人永远的定例。</span><span class="english">This is a lasting ordinance for Israel.</span></p>

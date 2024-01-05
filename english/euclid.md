@@ -1,5 +1,7 @@
 # euclid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euclid.md)
+
 <p><span class="chinese">读欧几里德不需要先研究数学。</span><span class="english">Euclid requires no prior study of mathematics.</span></p>
 
 <p><span class="chinese">问题是一位瞎子如何能够，即使他能够使用点字法，他如何能够阅读欧几里得的几何学？</span><span class="english">How can a blind man, even if he is able to use Braille, how can he read Euclid?</span></p>

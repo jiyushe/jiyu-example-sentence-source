@@ -1,5 +1,7 @@
 # transmutation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmutation.md)
+
 <p><span class="chinese">蝴蝶和飞蛾保留着生物性转化的记忆。</span><span class="english">Butterfly and Moth hold the remembrance of biological transmutation.</span></p>
 
 <p><span class="chinese">它会首先牵动你们的内在恐惧，引起嬗变。</span><span class="english">It involves the transmutation of fear within you, first and foremost.</span></p>

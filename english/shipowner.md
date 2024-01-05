@@ -1,5 +1,7 @@
 # shipowner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipowner.md)
+
 <p><span class="chinese">在试航过程中，须分配两小时给船东作自作操控。</span><span class="english">Assign 2 hours to shipowner to control the vessel when on trial.</span></p>
 
 <p><span class="chinese">这个船东仍拥有一支7艘货船的商船队。</span><span class="english">The shipowner has still held a merchant fleet of seven cargo-vessels.</span></p>

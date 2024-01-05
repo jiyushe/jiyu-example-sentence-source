@@ -1,5 +1,7 @@
 # torus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torus.md)
+
 <p><span class="chinese">那么它就必须脱离这个圆环面。</span><span class="english">You have to leave the surface of a torus.</span></p>
 
 <p><span class="chinese">显然，它界定了这个圆盘，但是这个圆盘在面包圈的内部。</span><span class="english">And, of course, it bounds this disc, but inside of a torus.</span></p>

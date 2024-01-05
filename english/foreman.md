@@ -1,5 +1,7 @@
 # foreman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreman.md)
+
 <p><span class="chinese">哈罗，工长。你好吗？</span><span class="english">Hello, Foreman. How are you?</span></p>
 
 <p><span class="chinese">喂，领班为什么把你炒了？</span><span class="english">Say, why did the foreman fire you?</span></p>

@@ -1,5 +1,7 @@
 # polythene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polythene.md)
+
 <p><span class="chinese">真丝裙子的包装是一条装一个聚乙烯包装袋。</span><span class="english">We use a polythene wrapper for each silk skirt.</span></p>
 
 <p><span class="chinese">丝绸女衫的包装是每一件装一只聚乙烯口袋。</span><span class="english">We use a polythene wrapper for each silk Blouse.</span></p>

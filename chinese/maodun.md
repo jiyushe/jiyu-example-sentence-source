@@ -1,5 +1,7 @@
 # 矛盾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maodun.md)
+
 <p><span class="chinese">这里没有矛盾。</span><span class="english">No conflict there.</span></p>
 
 <p><span class="chinese">这是矛盾的。</span><span class="english">That is contradictory.</span></p>

@@ -1,5 +1,7 @@
 # 现代舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandaiwu.md)
+
 <p><span class="chinese">你喜欢现代舞吗？</span><span class="english">Do you like modern dance?</span></p>
 
 <p><span class="chinese">我在学校学跳现代舞。</span><span class="english">I am learning modern dance in school.</span></p>

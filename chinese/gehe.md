@@ -1,5 +1,7 @@
 # 隔阂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gehe.md)
+
 <p><span class="chinese">我不想让我们有隔阂。</span><span class="english">I don't want to sunder us.</span></p>
 
 <p><span class="chinese">我们是有条件消除民族隔阂的。</span><span class="english">The conditions are present for eliminating this estrangement.</span></p>

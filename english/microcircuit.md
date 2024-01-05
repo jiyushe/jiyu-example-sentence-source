@@ -1,5 +1,7 @@
 # microcircuit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microcircuit.md)
+
 <p><span class="chinese">所讨论的方法可用于其他微电路工艺设备的表征。</span><span class="english">The method could also be used for other microcircuit processes.</span></p>
 
 <p><span class="chinese">金属迁移能导致混合微电路发生灾难性失效。</span><span class="english">Metal Migration has been the cause of many catastrophic microcircuit failures.</span></p>

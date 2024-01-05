@@ -1,5 +1,7 @@
 # 折衷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shezhong.md)
+
 <p><span class="chinese">这是一种折衷。</span><span class="english">That’s the tradeoff.</span></p>
 
 <p><span class="chinese">这是一个折衷的课程。</span><span class="english">It's an eclectic class.</span></p>

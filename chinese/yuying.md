@@ -1,5 +1,7 @@
 # 鱼鹰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuying.md)
+
 <p><span class="chinese">一个鱼鹰在水面上飞翔。</span><span class="english">An osprey is flying over the water.</span></p>
 
 <p><span class="chinese">鱼鹰热寻求工作令人敬畏游戏观景器。</span><span class="english">Osprey heat seekers work as awesome game finders.</span></p>

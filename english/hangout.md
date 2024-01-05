@@ -1,5 +1,7 @@
 # hangout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hangout.md)
+
 <p><span class="chinese">我想，我要去视频群聊一会。</span><span class="english">I think I’m going to go Hangout for a while.</span></p>
 
 <p><span class="chinese">我跟几个朋友去个地方聚一聚。</span><span class="english">I was down at the local hangout with some friends.</span></p>

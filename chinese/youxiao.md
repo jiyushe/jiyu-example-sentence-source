@@ -1,5 +1,7 @@
 # 幼小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxiao.md)
+
 <p><span class="chinese">大核桃树幼小。</span><span class="english">Pecan tree is young and small.</span></p>
 
 <p><span class="chinese">那些幼小的植物茁壮成长。</span><span class="english">The young plants grew lustily.</span></p>

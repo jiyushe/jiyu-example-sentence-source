@@ -1,5 +1,7 @@
 # permian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permian.md)
+
 <p><span class="chinese">二叠纪被大量火山爆发缩短了时间。</span><span class="english">The Permian was curtailed by massive volcanism.</span></p>
 
 <p><span class="chinese">勘探层位以石炭系和二叠系为主。</span><span class="english">Main stratums of exploration are Permian and Carboniferous.</span></p>

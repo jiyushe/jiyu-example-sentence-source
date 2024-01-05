@@ -1,5 +1,7 @@
 # capitalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitalize.md)
+
 <p><span class="chinese">他们利用恐慌和偏执狂。</span><span class="english">They capitalize on panic and paranoia.</span></p>
 
 <p><span class="chinese">如果是的，这里就有可使用的字母。</span><span class="english">If so, I've got some letters to capitalize.</span></p>

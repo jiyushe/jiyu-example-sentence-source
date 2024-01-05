@@ -1,5 +1,7 @@
 # defecation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defecation.md)
+
 <p><span class="chinese">部分病例有下肢无力、尿便障碍。</span><span class="english">Part of them have lower limb weakness, urinary and defecation.</span></p>
 
 <p><span class="chinese">结果全部病例排便困难症状明显改善。</span><span class="english">Results Irregular defecation of all cases were changed correctly.</span></p>

@@ -1,5 +1,7 @@
 # us 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/us.md)
+
 <p><span class="chinese">我只要我和你。</span><span class="english">I want us.</span></p>
 
 <p><span class="chinese">带我们上去！</span><span class="english">Take us up!</span></p>

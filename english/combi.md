@@ -1,5 +1,7 @@
 # combi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combi.md)
+
 <p><span class="chinese">医生会诊的结果？</span><span class="english">The consultation of Doctor Combi?</span></p>
 
 <p><span class="chinese">综述了组合材料芯片技术在钛合金研究中应用的新进展。</span><span class="english">The progress of COMBI which is widely used in the titanium alloys research is summarized.</span></p>

@@ -1,5 +1,7 @@
 # 查问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chawen.md)
+
 <p><span class="chinese">打查号台查问电话号码。</span><span class="english">Call advice for the number.</span></p>
 
 <p><span class="chinese">他详细地查问了这事。</span><span class="english">He inquired closely about it.</span></p>

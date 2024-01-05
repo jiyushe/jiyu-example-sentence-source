@@ -1,5 +1,7 @@
 # sensual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensual.md)
+
 <p><span class="chinese">她总是懒洋洋的，富于肉感。</span><span class="english">She had a lazy sensual body.</span></p>
 
 <p><span class="chinese">他一直都是很好色的人。</span><span class="english">He has always been a very sensual person.</span></p>

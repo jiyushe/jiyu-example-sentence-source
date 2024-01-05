@@ -1,5 +1,7 @@
 # 时辰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichen_2.md)
+
 <p><span class="chinese">时辰还未到吗？</span><span class="english">Isthe time not come yet?</span></p>
 
 <p><span class="chinese">这议案是在甚么时辰被提出会商的？</span><span class="english">When was the bill called up?</span></p>

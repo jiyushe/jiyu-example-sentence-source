@@ -1,5 +1,7 @@
 # 盛况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengkuang.md)
+
 <p><span class="chinese">这是哈佛大学举办GRE考试的盛况。</span><span class="english">The scene of the GREs held at Harvard.</span></p>
 
 <p><span class="chinese">漪欤盛哉，这是工作室的盛况。</span><span class="english">This is the workroom in all its splendor.</span></p>

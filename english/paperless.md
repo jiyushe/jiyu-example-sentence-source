@@ -1,5 +1,7 @@
 # paperless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paperless.md)
+
 <p><span class="chinese">去年，布瑞列夫决定开始无纸化办公。</span><span class="english">Last year Breedlove decided to go paperless.</span></p>
 
 <p><span class="chinese">我现在已经步入无纸化办公，原因有两个。</span><span class="english">I have been moving toward a paperless office for two reasons.</span></p>

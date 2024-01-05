@@ -1,5 +1,7 @@
 # stingy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stingy.md)
+
 <p><span class="chinese">她的老板是一个一毛不拔的人。</span><span class="english">Her boss is stingy with money.</span></p>
 
 <p><span class="chinese">所以不要吝啬你的赞美。</span><span class="english">So don't stingy your compliments.</span></p>

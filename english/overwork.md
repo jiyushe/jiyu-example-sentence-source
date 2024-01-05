@@ -1,5 +1,7 @@
 # overwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overwork.md)
+
 <p><span class="chinese">他死于过分劳累。</span><span class="english">He died from overwork.</span></p>
 
 <p><span class="chinese">他因过度工作累倒了。</span><span class="english">He dropped with overwork.</span></p>

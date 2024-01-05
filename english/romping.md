@@ -1,5 +1,7 @@
 # romping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romping.md)
+
 <p><span class="chinese">孩子们在草坪上嬉闹。</span><span class="english">The children were romping about on the lawn.</span></p>
 
 <p><span class="chinese">孩子们，还有狗在草地上蹦跳嬉戏。</span><span class="english">The children and their dog were romping about on the grass.</span></p>

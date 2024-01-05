@@ -1,5 +1,7 @@
 # 汗流浃背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanliujiabei.md)
+
 <p><span class="chinese">这么热的天使我汗流浃背。</span><span class="english">The hot day swelters me.</span></p>
 
 <p><span class="chinese">这个人汗流浃背，气喘吁吁地停了下来并点了点头。</span><span class="english">The man paused and nodded.</span></p>

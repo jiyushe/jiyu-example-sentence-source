@@ -1,5 +1,7 @@
 # 人称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rencheng.md)
+
 <p><span class="chinese">因此人称“托塔天王”。</span><span class="english">Thus so-called "Tota kings".</span></p>
 
 <p><span class="chinese">比一比，看谁用第一人称说周末活动又快又好？</span><span class="english">I always play the piano on weekends.</span></p>

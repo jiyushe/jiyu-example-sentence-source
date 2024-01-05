@@ -1,5 +1,7 @@
 # 导管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoguan_1.md)
+
 <p><span class="chinese">何等的导管——“基督耶稣”！</span><span class="english">What a channel--"Christ Jesus!"</span></p>
 
 <p><span class="chinese">将导管盘在合适的位置。</span><span class="english">N. Tape the intravenous tubing in place.</span></p>

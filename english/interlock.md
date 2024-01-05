@@ -1,5 +1,7 @@
 # interlock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlock.md)
+
 <p><span class="chinese">拆下纵向互锁伺服电机。</span><span class="english">Remove longitudinal interlock servo motor.</span></p>
 
 <p><span class="chinese">手放在头顶。手指相扣。</span><span class="english">Hands on your head. Interlock your fingers.</span></p>

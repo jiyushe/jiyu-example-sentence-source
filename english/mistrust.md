@@ -1,5 +1,7 @@
 # mistrust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistrust.md)
+
 <p><span class="chinese">我们之间即没有恐惧，也没有不信任。</span><span class="english">There was no fear nor mistrust between us.</span></p>
 
 <p><span class="chinese">不信任权威，提倡去中心化。</span><span class="english">Mistrust Authority--Promote Decentralization.</span></p>

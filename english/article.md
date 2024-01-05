@@ -1,5 +1,7 @@
 # article 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/article.md)
+
 <p><span class="chinese">没有定冠词。</span><span class="english">No definite article.</span></p>
 
 <p><span class="chinese">我喜欢读你的文章。</span><span class="english">I liked your article.</span></p>

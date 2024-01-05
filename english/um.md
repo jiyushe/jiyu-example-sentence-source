@@ -1,5 +1,7 @@
 # um
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/um.md)
+
 <p><span class="chinese">不，错了。</span><span class="english">Um nope. Wrong.</span></p>
 
 <p><span class="chinese">避免“喜欢”和“嗯”。</span><span class="english">Avoid "like" and "um."</span></p>

@@ -1,5 +1,7 @@
 # 名号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minghao.md)
+
 <p><span class="chinese">得闻阿弥陀佛名号。</span><span class="english">Who hear the Name of Amitabha Buddha.</span></p>
 
 <p><span class="chinese">彼拉多又用牌子写了一个名号，安在十字架上。</span><span class="english">And Pilate wrote a title, and put it on the cross.</span></p>

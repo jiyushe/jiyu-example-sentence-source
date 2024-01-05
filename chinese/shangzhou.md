@@ -1,5 +1,7 @@
 # 商周
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangzhou.md)
+
 <p><span class="chinese">商周和汉时都有彩绘的纺织品。</span><span class="english">Shang and Zhou and Han have painted textiles.</span></p>
 
 <p><span class="chinese">其内容涉及了商周社会的各个方面。</span><span class="english">Its content has involved Shangzhou society's each aspect.</span></p>

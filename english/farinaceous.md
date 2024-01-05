@@ -1,5 +1,7 @@
 # farinaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farinaceous.md)
+
 <p><span class="chinese">为什么药分有粒状。液状和粉状呢?。</span><span class="english">Why medical cent has graininess. Fluid shape and farinaceous ?</span></p>
 
 <p><span class="chinese">细致的霜状质地，擦上后变成粉状。</span><span class="english">Meticulous frost shape quality of a material, become after smear farinaceous.</span></p>

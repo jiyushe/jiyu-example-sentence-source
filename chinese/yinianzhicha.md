@@ -1,5 +1,7 @@
 # 一念之差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinianzhicha.md)
+
 <p><span class="chinese">只是一念之差的事情！</span><span class="english">Just an idea away!</span></p>
 
 <p><span class="chinese">成功与否往往只是一念之差。</span><span class="english">Success is often an idea away.</span></p>

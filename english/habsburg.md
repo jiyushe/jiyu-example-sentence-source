@@ -1,5 +1,7 @@
 # habsburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habsburg.md)
+
 <p><span class="chinese">想想托斯卡纳区，却有着哈布斯堡的过去史。</span><span class="english">Think Tuscany, but with a Habsburg past.</span></p>
 
 <p><span class="chinese">开拓殖民地在哈布斯堡王朝就进行过。</span><span class="english">Colonization took place during the Habsburg dynasty.</span></p>

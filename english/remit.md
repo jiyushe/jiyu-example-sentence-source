@@ -1,5 +1,7 @@
 # remit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remit.md)
+
 <p><span class="chinese">请将款项用支票汇来。</span><span class="english">Please remit by check.</span></p>
 
 <p><span class="chinese">他的步伐开始减慢。</span><span class="english">His pace began to remit.</span></p>

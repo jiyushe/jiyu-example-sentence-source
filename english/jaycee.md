@@ -1,5 +1,7 @@
 # jaycee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jaycee.md)
+
 <p><span class="chinese">房祖名是迈克尔杰克逊的粉丝。</span><span class="english">Jaycee is a fan of Michael Jackson.</span></p>
 
 <p><span class="chinese">29岁的杜加尔德和她11岁和15岁的2个孩子生活在菲利普和楠茜.加里多屋后搭的简易棚子里，几乎一无所有。</span><span class="english">Nancy and Phillip Garrido arrested for kidnap of Jaycee Lee Dugard</span></p>

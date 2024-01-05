@@ -1,5 +1,7 @@
 # 高精尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojingjian.md)
+
 <p><span class="chinese">它是一个高精尖的东西，每一项工作都是巨大的。</span><span class="english">It was very sophisticated, everything was great.</span></p>
 
 <p><span class="chinese">这是高精尖计算机导航系统技术哎。</span><span class="english">It was cutting-edge computer guidance systems technology.</span></p>

@@ -1,5 +1,7 @@
 # 伏特计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/futeji.md)
+
 <p><span class="chinese">选择伏特计的最低量程。</span><span class="english">Select the lowest range of the voltmeter.</span></p>
 
 <p><span class="chinese">闭合通道，利用一个灵敏的伏特计测量电压。</span><span class="english">Close the channel and measure the voltage with a sensitive voltmeter.</span></p>

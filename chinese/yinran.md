@@ -1,5 +1,7 @@
 # 印染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinran.md)
+
 <p><span class="chinese">本文介绍了双面牛仔绒的起绒及印染全过程。</span><span class="english">The raising and dyeing of the denim are presented.</span></p>
 
 <p><span class="chinese">在纺织印染中，获得极好的效果。</span><span class="english">In printing and dyeing of textiles, it obtained excellent.</span></p>

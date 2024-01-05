@@ -1,5 +1,7 @@
 # 流散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liusan.md)
+
 <p><span class="chinese">第二，北美新移民文学是典型的“流散型”文学。</span><span class="english">Secondly, North America New Immigration Literature is a typical diasporic literature.</span></p>
 
 <p><span class="chinese">美国领导的联军出兵伊拉克已经五年，但是伊拉克依然面临人口流散的严重问题。</span><span class="english">Five years after the U.S.-led invasion of Iraq, the country continues to face a displacement crisis.</span></p>

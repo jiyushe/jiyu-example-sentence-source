@@ -1,5 +1,7 @@
 # sialic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sialic.md)
+
 <p><span class="chinese">有些唾液酸位于溶酶体的外表面。</span><span class="english">Some sialic acid is on the external surface of lysosomes.</span></p>
 
 <p><span class="chinese">每一血清样品同时还测定了唾液酸和岩藻糖含量。</span><span class="english">Serum sialic acid and fucose were also determinated in each sample.</span></p>

@@ -1,5 +1,7 @@
 # 劳顿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laodun.md)
+
 <p><span class="chinese">布劳顿先生，对今天的结果你的回应是怎样呢？</span><span class="english">Mr Broughton, your reaction to the outcome today?</span></p>
 
 <p><span class="chinese">工人们正在劳顿着盖新房子。</span><span class="english">The workers were occupied in building new houses.</span></p>

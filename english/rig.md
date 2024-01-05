@@ -1,5 +1,7 @@
 # rig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rig.md)
+
 <p><span class="chinese">把引航梯放到升降梯下。</span><span class="english">Rig pilot ladder alongside hoist.</span></p>
 
 <p><span class="chinese">这种船上有一根桅杆和两面帆。</span><span class="english">The rig is one mast and two sails.</span></p>

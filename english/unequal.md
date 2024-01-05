@@ -1,5 +1,7 @@
 # unequal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unequal.md)
+
 <p><span class="chinese">这一对孪生儿高矮纷歧样。</span><span class="english">The twins are unequal in height.</span></p>
 
 <p><span class="chinese">不过，它也变得更加不平等。</span><span class="english">However, it is also much more unequal.</span></p>

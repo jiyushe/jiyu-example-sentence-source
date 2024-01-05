@@ -1,5 +1,7 @@
 # undercut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undercut.md)
+
 <p><span class="chinese">人们缩减劳动执行要求</span><span class="english">they undercut labor practices,</span></p>
 
 <p><span class="chinese">破坏「古典前千禧年派」的观点。</span><span class="english">Does undercut a classic pre- millennial outlook.</span></p>

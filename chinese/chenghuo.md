@@ -1,5 +1,7 @@
 # 成活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenghuo.md)
+
 <p><span class="chinese">不疯魔，不成活。</span><span class="english">Is not madness, not survival.</span></p>
 
 <p><span class="chinese">全部成活，其中倒塌。</span><span class="english">All of them survived the collapse.</span></p>

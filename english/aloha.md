@@ -1,5 +1,7 @@
 # aloha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aloha.md)
+
 <p><span class="chinese">阿罗哈和欢迎！</span><span class="english">Aloha and welcome!</span></p>
 
 <p><span class="chinese">你好，对你的意外深表抱歉。</span><span class="english">Aloha. Sorry about your brain.</span></p>

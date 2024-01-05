@@ -1,5 +1,7 @@
 # whitish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whitish.md)
+
 <p><span class="chinese">霜的颜色有点泛白。</span><span class="english">Cream is a whitish color.</span></p>
 
 <p><span class="chinese">这褂子已洗得发白了。</span><span class="english">The coat has turned whitish from much washing.</span></p>

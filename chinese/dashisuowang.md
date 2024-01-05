@@ -1,5 +1,7 @@
 # 大失所望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashisuowang.md)
+
 <p><span class="chinese">这个聚会令人大失所望。</span><span class="english">The party was a big let-down.</span></p>
 
 <p><span class="chinese">这里即使最好的旅游指南书也令我们大失所望。</span><span class="english">Here even the best guide-book fails us.</span></p>

@@ -1,5 +1,7 @@
 # inulin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inulin.md)
+
 <p><span class="chinese">展望了菊粉的应用前景。</span><span class="english">It predicts the prospect of inulin.</span></p>
 
 <p><span class="chinese">近几年，中国的菊粉市场逐渐兴起。</span><span class="english">The inulin market is booming in China recently.</span></p>

@@ -1,5 +1,7 @@
 # 卵生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luansheng.md)
+
 <p><span class="chinese">它们也是卵生的。</span><span class="english">They laid eggs too.</span></p>
 
 <p><span class="chinese">鸟是卵生动物。</span><span class="english">Birds come from eggs.</span></p>

@@ -1,5 +1,7 @@
 # 谩骂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manma.md)
+
 <p><span class="chinese">因此，放下谩骂，学习如何去解决吧。</span><span class="english">So stop cussing and learn to cope.</span></p>
 
 <p><span class="chinese">我要在我的谩骂中揭露这一点。</span><span class="english">Here I am exposing them in my diatribe.</span></p>

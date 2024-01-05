@@ -1,5 +1,7 @@
 # 面市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianshi_1.md)
+
 <p><span class="chinese">紧随其后，一款两厢车和SUV车型将面市。</span><span class="english">A hatchback and a SUV will quickly follow.</span></p>
 
 <p><span class="chinese">这款智能手表将于2012年面市。</span><span class="english">The watch will go on general sale in 2012.</span></p>

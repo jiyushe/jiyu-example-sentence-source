@@ -1,5 +1,7 @@
 # vigilante
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vigilante.md)
+
 <p><span class="chinese">纽约天铁治安保持会多少周去遭到了媒体的存眷。</span><span class="english">The subway vigilante in New York was in the media for weeks.</span></p>
 
 <p><span class="chinese">现在的当务之急是务必把“治安维持会”的事情办好。</span><span class="english">Now the urgent task is to make sure you get vigilante thing right.</span></p>

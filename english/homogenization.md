@@ -1,5 +1,7 @@
 # homogenization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homogenization.md)
+
 <p><span class="chinese">他们不再担心文化的同质化。</span><span class="english">They no longer worry about the homogenization of culture.</span></p>
 
 <p><span class="chinese">建模采用渐近均匀化方法。</span><span class="english">Modeling is based on the asymptotic homogenization method.</span></p>

@@ -1,5 +1,7 @@
 # 俯拾皆是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushijieshi.md)
+
 <p><span class="chinese">这在生活中俯拾皆是。</span><span class="english">This is common in our life.</span></p>
 
 <p><span class="chinese">诸如此类的事例俯拾皆是。</span><span class="english">Instances such as these are extremely common.</span></p>

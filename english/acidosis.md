@@ -1,5 +1,7 @@
 # acidosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acidosis.md)
+
 <p><span class="chinese">CRRT也可以纠正不同类型的酸中毒。</span><span class="english">CRRT can also correct various forms of acidosis.</span></p>
 
 <p><span class="chinese">乳酸—主要促进酸中毒和节律障碍。</span><span class="english">Lactic acid – major contributor to acidosis and dysrhythmias.</span></p>

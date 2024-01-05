@@ -1,5 +1,7 @@
 # 杞人忧天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qirenyoutian.md)
+
 <p><span class="chinese">我不愿意承认，但我确实常常杞人忧天。</span><span class="english">I hate to admit it, but I'm a worrier.</span></p>
 
 <p><span class="chinese">我们现在的生活方式毋庸置疑是不具可持续性的，但为什么过往的历史证明这是杞人忧天。</span><span class="english">How we live today is clearly unsustainable.</span></p>

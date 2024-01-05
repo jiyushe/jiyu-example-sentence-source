@@ -1,5 +1,7 @@
 # 恭恭敬敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonggongjingjing.md)
+
 <p><span class="chinese">德纳第恭恭敬敬地回答</span><span class="english">Thenardier replied respectfully</span></p>
 
 <p><span class="chinese">男仆恭恭敬敬地送走了客人。</span><span class="english">The footman bowed the guests out.</span></p>

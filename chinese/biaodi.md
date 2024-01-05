@@ -1,5 +1,7 @@
 # 标底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaodi.md)
+
 <p><span class="chinese">“低价中标”简言之，就是以低于标底的价格中标。</span><span class="english">Low bid" In short, is to bid less than the Base Bid price."</span></p>
 
 <p><span class="chinese">目前，标底编制主要采用定额法和实物量法。</span><span class="english">Now the workout method of pretender is a norm and practical method.</span></p>

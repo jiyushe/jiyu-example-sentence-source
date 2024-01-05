@@ -1,5 +1,7 @@
 # biathlon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biathlon.md)
+
 <p><span class="chinese">第一次浆板&跑步参赛者！</span><span class="english">The first ever SUP & Run Biathlon constestants!</span></p>
 
 <p><span class="chinese">与国外相比我国枪支管理制度也是影响我国冬季两项运动发展的一个因素。</span><span class="english">China's strict gun control system restrict the development of China's Biathlon etc.</span></p>

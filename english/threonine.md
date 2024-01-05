@@ -1,5 +1,7 @@
 # threonine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threonine.md)
+
 <p><span class="chinese">赖氨酸和苏氨酸为小麦籽粒限制性氨基酸。</span><span class="english">Lysine and threonine are limiting amino acids in wheat protein.</span></p>
 
 <p><span class="chinese">接枝苏氨酸化合物可以吸附铜铁钙三种金属离子。</span><span class="english">Threonine grafted compound could adsorb cuprum, iron and calcium.</span></p>

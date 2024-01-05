@@ -1,5 +1,7 @@
 # 重担
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdan.md)
+
 <p><span class="chinese">这副重担把他压垮了。</span><span class="english">The load bowed him down.</span></p>
 
 <p><span class="chinese">无法承受的重担！</span><span class="english">Unbearable responsibility!</span></p>

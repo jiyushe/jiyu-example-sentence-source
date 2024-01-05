@@ -1,5 +1,7 @@
 # behavioural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behavioural.md)
+
 <p><span class="chinese">贝泽尔较偏向于称其为结构化测试和行为测试。</span><span class="english">Beizer prefers the terms structural and behavioural testing.</span></p>
 
 <p><span class="chinese">林伍德表示，暴食的治疗方法包括认知行为治疗。</span><span class="english">Ringwood said treatment includes cognitive behavioural therapy.</span></p>

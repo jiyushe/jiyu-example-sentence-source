@@ -1,5 +1,7 @@
 # 难得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nande.md)
+
 <p><span class="chinese">因此这是一次难得的经历。</span><span class="english">So it's an adventure.</span></p>
 
 <p><span class="chinese">这是一个很难得的隐避地。</span><span class="english">It is very nice retreat.</span></p>

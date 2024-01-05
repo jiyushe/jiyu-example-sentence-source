@@ -1,5 +1,7 @@
 # dat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dat.md)
+
 <p><span class="chinese">我并不想那么做，我受宠若惊，谢谢你。</span><span class="english">I didn no dat. I'm flattered, ty.</span></p>
 
 <p><span class="chinese">老人河，啊，老人河！</span><span class="english">Old man river, Dat old man river!</span></p>

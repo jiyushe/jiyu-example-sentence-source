@@ -1,5 +1,7 @@
 # 日月如梭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riyuerusuo.md)
+
 <p><span class="chinese">光阴似箭，日月如梭。</span><span class="english">How time flies.</span></p>
 
 <p><span class="chinese">日月如梭，一切像是白马过隙，结束得太快了。</span><span class="english">Everything Ends Too Fast.</span></p>

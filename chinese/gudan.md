@@ -1,5 +1,7 @@
 # 固氮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudan.md)
+
 <p><span class="chinese">也经常有关于固氮螺菌接种剂效果不好或没有效果的报道。</span><span class="english">Often there are poor or no responses to Azospirillum inocula.</span></p>
 
 <p><span class="chinese">矿质氮对豆类作物生物固氮和产量的影响是一个复杂的问题。</span><span class="english">Effect of mineral N on legume BNF and yield is a complex issue.</span></p>

@@ -1,5 +1,7 @@
 # camping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camping.md)
+
 <p><span class="chinese">你要去野营吗？</span><span class="english">Are you going camping?</span></p>
 
 <p><span class="chinese">是的，野营就是遭罪。</span><span class="english">Yes, camping is uncomfortable.</span></p>

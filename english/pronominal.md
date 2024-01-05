@@ -1,5 +1,7 @@
 # pronominal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pronominal.md)
+
 <p><span class="chinese">代词回指是回指的一种。</span><span class="english">Pronominal anaphora is one kind of anaphora.</span></p>
 
 <p><span class="chinese">“女拳手”一度成为“酷”的代名词。</span><span class="english">"Female fist hand " become for a time " cruel " pronominal.</span></p>

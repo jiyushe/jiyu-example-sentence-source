@@ -1,5 +1,7 @@
 # ethnics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnics.md)
+
 <p><span class="chinese">汉服，汉民族的传统服装。</span><span class="english">Han Costume, the traditional costume of Han Ethnics.</span></p>
 
 <p><span class="chinese">事实上，种族概念本身就不属于民主范畴。</span><span class="english">In fact, race and ethnics should never be democratic notion.</span></p>

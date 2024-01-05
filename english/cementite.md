@@ -1,5 +1,7 @@
 # cementite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cementite.md)
+
 <p><span class="chinese">颗粒状渗碳体的尺寸呈双峰分布。</span><span class="english">The distribution of cementite particle size displayed bimodal.</span></p>
 
 <p><span class="chinese">随着碳含量的增加，渗碳体相也相应增加。</span><span class="english">The cementite phases still increase with the increase of carbon content.</span></p>

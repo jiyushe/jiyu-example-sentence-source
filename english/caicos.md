@@ -1,5 +1,7 @@
 # caicos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caicos.md)
+
 <p><span class="chinese">每个月他都会离开家去卢森堡、墨西哥或者是特克斯和凯科斯。</span><span class="english">He’s off to Luxembourg, Mexico, or the Turks and Caicos every month.</span></p>
 
 <p><span class="chinese">那就去特克斯和凯科斯群岛的鹦鹉礁吧。</span><span class="english">Then head to the private island of Parrot Cay in the Turks and Caicos.</span></p>

@@ -1,5 +1,7 @@
 # flatly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flatly.md)
+
 <p><span class="chinese">他矢口否认这个指控。</span><span class="english">He flatly denied the charge.</span></p>
 
 <p><span class="chinese">另有50套一口价单位推出。</span><span class="english">Another 50 sets flatly price flats.</span></p>

@@ -1,5 +1,7 @@
 # 适应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiying_1.md)
+
 <p><span class="chinese">或者重新适应。</span><span class="english">Or at least re-adapt.</span></p>
 
 <p><span class="chinese">我们必须适应它。</span><span class="english">We should adapt to it.</span></p>

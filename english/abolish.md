@@ -1,5 +1,7 @@
 # abolish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abolish.md)
+
 <p><span class="chinese">甚至伦敦国际原油交易所也没有打算放弃其交易厅。</span><span class="english">Even the IPE has no plans to abolish its floor.</span></p>
 
 <p><span class="chinese">废除苛捐杂税。</span><span class="english">Abolish exorbitant taxes and miscellaneous levies.</span></p>

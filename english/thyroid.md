@@ -1,5 +1,7 @@
 # thyroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thyroid.md)
+
 <p><span class="chinese">你的甲状腺可能有问题。</span><span class="english">You may have a thyroid problem.</span></p>
 
 <p><span class="chinese">他的甲状腺癌向他的大脑转移了。</span><span class="english">Thyroid cancer metastasized to his brain.</span></p>

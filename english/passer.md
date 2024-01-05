@@ -1,5 +1,7 @@
 # passer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passer.md)
+
 <p><span class="chinese">他是传球手和球权分配者——但也能很好的得分。</span><span class="english">He's a passer and distributor – who can also score very well.</span></p>
 
 <p><span class="chinese">为了让传球者知道你在往哪走，做一个手势。</span><span class="english">So that the passer knows which way you are going, use a hand signal.</span></p>

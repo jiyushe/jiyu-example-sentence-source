@@ -1,5 +1,7 @@
 # 金元
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyuan_1.md)
+
 <p><span class="chinese">金元满及时赶来扶起了母亲。</span><span class="english">Jinyuan arrived in time to pick up the mother.</span></p>
 
 <p><span class="chinese">宋金元时期安阳佛教和道教进一步得到发展。</span><span class="english">In the period of Jing Yuan, Buddhism had a further development.</span></p>

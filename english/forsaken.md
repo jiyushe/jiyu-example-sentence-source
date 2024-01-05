@@ -1,5 +1,7 @@
 # forsaken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forsaken.md)
+
 <p><span class="chinese">所有被遗弃者都是人类。</span><span class="english">All Forsaken are human.</span></p>
 
 <p><span class="chinese">汝为何将我遗弃？</span><span class="english">Why hast thou forsaken me?</span></p>

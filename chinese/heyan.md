@@ -1,5 +1,7 @@
 # 合眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyan.md)
+
 <p><span class="chinese">玛丽躺在那儿，几乎一夜没合眼。</span><span class="english">Mary lay awake almost the whole night.</span></p>
 
 <p><span class="chinese">合眼闭眼睛，出现的全是你。</span><span class="english">You always appear when I close my eyes.</span></p>

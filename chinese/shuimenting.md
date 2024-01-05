@@ -1,5 +1,7 @@
 # 水门汀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimenting.md)
+
 <p><span class="chinese">用小刷或器械立即去除多余的水门汀。</span><span class="english">Remove excess cement immediately with a brush or instrument.</span></p>
 
 <p><span class="chinese">该文对近几年玻璃离子水门汀的发展做一简要综述。</span><span class="english">This paper is to introduce the development of GIC in recent years.</span></p>

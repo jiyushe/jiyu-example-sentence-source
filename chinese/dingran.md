@@ -1,5 +1,7 @@
 # 定然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingran.md)
+
 <p><span class="chinese">定然在天街闲游。</span><span class="english">Must be wandering in the Heaven Street.</span></p>
 
 <p><span class="chinese">我们定然还会听到更多关于她的新闻。</span><span class="english">We'll certainly be hearing more from her.</span></p>

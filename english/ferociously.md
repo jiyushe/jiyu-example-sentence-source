@@ -1,5 +1,7 @@
 # ferociously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferociously.md)
+
 <p><span class="chinese">与惊人的冷面幽默“交合”起来，这使艺术家的画作具有了传统风格。</span><span class="english">This, coupled with a ferociously deadpan humor, makes the artist’s images iconic.</span></p>
 
 <p><span class="chinese">我自己是残疾人，而且还是个处男，我近乎残忍地羡慕这些人。</span><span class="english">Being disabled myself, but also being a virgin, I envied these people ferociously.</span></p>

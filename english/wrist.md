@@ -1,5 +1,7 @@
 # wrist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrist.md)
+
 <p><span class="chinese">我的腕关节弄伤了。</span><span class="english">I've hurt my wrist.</span></p>
 
 <p><span class="chinese">护士抓住她的手腕。</span><span class="english">The nurse caught her wrist.</span></p>

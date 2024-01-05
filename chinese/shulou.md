@@ -1,5 +1,7 @@
 # 疏漏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shulou.md)
+
 <p><span class="chinese">我为自己分分秒秒疏漏万物向时间致歉。</span><span class="english">My apologies to time for all the world I overlook each second.</span></p>
 
 <p><span class="chinese">一名负责人已经表示，故宫的安保措施确实存在疏漏。</span><span class="english">One official has already said that there was a lapse in security.</span></p>

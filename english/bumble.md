@@ -1,5 +1,7 @@
 # bumble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bumble.md)
+
 <p><span class="chinese">哭的弄糟其心。</span><span class="english">The bumble cried its heart out.</span></p>
 
 <p><span class="chinese">老人踉跄地沿途遛跶。</span><span class="english">The old man bumble along the road.</span></p>

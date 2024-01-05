@@ -1,5 +1,7 @@
 # miscreant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miscreant.md)
+
 <p><span class="chinese">逃亡者因某些恶行而被追踪、逮捕并惩处。</span><span class="english">Fugitive is pursued, caught and Punished for some miscreant act.</span></p>
 
 <p><span class="chinese">由法官判一名无赖不去当兵就得坐牢的日子过去了。</span><span class="english">The days of a judge telling a miscreant to join the Army or go to jail are over.</span></p>

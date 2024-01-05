@@ -1,5 +1,7 @@
 # crusade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crusade.md)
+
 <p><span class="chinese">他深深地涉入了反毒品运动。</span><span class="english">He was deeply involved with the anti-drugs crusade.</span></p>
 
 <p><span class="chinese">他率领军队讨伐叛乱。</span><span class="english">He headed the troops to crusade against the rebellion.</span></p>

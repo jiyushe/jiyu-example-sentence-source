@@ -1,5 +1,7 @@
 # 专科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanke.md)
+
 <p><span class="chinese">大学专科或以上学历。</span><span class="english">College degree or above.</span></p>
 
 <p><span class="chinese">这是一所音乐专科学院。</span><span class="english">That is an academy for boys.</span></p>

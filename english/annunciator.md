@@ -1,5 +1,7 @@
 # annunciator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annunciator.md)
+
 <p><span class="chinese">火灾探测和警报系统通知器单位。</span><span class="english">Fire detection and alarm system annunciator unit.</span></p>
 
 <p><span class="chinese">灭蚊器、花园用品、门铃、防盗器。</span><span class="english">Mosqyito trap, garden products, door bell, annunciator.</span></p>

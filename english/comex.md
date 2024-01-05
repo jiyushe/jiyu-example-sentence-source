@@ -1,5 +1,7 @@
 # comex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comex.md)
+
 <p><span class="chinese">但是，为什么美联储要放弃对纽约期货交易所黄金无担保卖空的支持哪？</span><span class="english">But why would the Fed abandon its support for naked COMEX shorts?</span></p>
 
 <p><span class="chinese">周二,COMEX铜库存减少290短吨,至15,634.</span><span class="english">COMEX copper stocks were unchanged at 11,040 short tons on Tuesday.</span></p>

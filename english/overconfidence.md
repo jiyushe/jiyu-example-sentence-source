@@ -1,5 +1,7 @@
 # overconfidence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overconfidence.md)
+
 <p><span class="chinese">这就导致了好比过度自信的现象。</span><span class="english">This leads to phenomena like overconfidence.</span></p>
 
 <p><span class="chinese">医生是目空一切过于自信的人。</span><span class="english">Dr. A is the man with supercilious overconfidence.</span></p>

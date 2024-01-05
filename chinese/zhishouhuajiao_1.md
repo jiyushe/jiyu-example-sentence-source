@@ -1,5 +1,7 @@
 # 指手划脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishouhuajiao_1.md)
+
 <p><span class="chinese">别让他们对你指手划脚的。</span><span class="english">Don't let them jerk you around.</span></p>
 
 <p><span class="chinese">这个小男孩对他妈妈指手划脚。</span><span class="english">The boy had his mother on the string.</span></p>

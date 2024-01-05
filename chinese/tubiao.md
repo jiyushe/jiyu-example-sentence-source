@@ -1,5 +1,7 @@
 # 图表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tubiao.md)
+
 <p><span class="chinese">看看上面的图表吧。</span><span class="english">See that chart up above?</span></p>
 
 <p><span class="chinese">你可以用这张图表。</span><span class="english">You can use this diagram.</span></p>

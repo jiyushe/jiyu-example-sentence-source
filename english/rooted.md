@@ -1,5 +1,7 @@
 # rooted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rooted.md)
+
 <p><span class="chinese">觉得相当植根日本了。</span><span class="english">I feel fairly rooted in Japan.</span></p>
 
 <p><span class="chinese">猪把花园里的土拱翻了起来。</span><span class="english">The pigs rooted up the garden.</span></p>

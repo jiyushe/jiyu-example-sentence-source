@@ -1,5 +1,7 @@
 # 国是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoshi_1.md)
+
 <p><span class="chinese">赵建国是战士。</span><span class="english">The children were playing soldiers.</span></p>
 
 <p><span class="chinese">非常正确。请看这儿。这个大国是哪一个国家？</span><span class="english">Very good. Look here. What is this big country?</span></p>

@@ -1,5 +1,7 @@
 # 扭扭捏捏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuniunienie.md)
+
 <p><span class="chinese">那个男演员扭扭捏捏地迈着小碎步从舞台的一边走到另一边。</span><span class="english">The actor minced his way across the stage.</span></p>
 
 <p><span class="chinese">她穿着很高的高跟鞋，扭扭捏捏地走进房间。</span><span class="english">She minced into the room wearing very high heels.</span></p>

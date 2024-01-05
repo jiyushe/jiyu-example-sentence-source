@@ -1,5 +1,7 @@
 # gls
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gls.md)
+
 <p><span class="chinese">人们食用低于该指导值的食品是安全的。</span><span class="english">Food with radioactivity levels below these GLs is safe for people to eat.</span></p>
 
 <p><span class="chinese">这将让你能够建造小奇迹英雄史诗，英雄史诗能够提高领袖的产生几率。</span><span class="english">This will let you build the Heroic Epic, which in turn will bring more GLs.</span></p>

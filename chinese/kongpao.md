@@ -1,5 +1,7 @@
 # 空炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongpao.md)
+
 <p><span class="chinese">防空炮是首要打击目标。</span><span class="english">Engage accompanying air-defense guns first.</span></p>
 
 <p><span class="chinese">自行防空炮部队就位。</span><span class="english">Self-propelled antiaircraft guns in position.</span></p>

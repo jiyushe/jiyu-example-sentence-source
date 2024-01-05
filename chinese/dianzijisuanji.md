@@ -1,5 +1,7 @@
 # 电子计算机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianzijisuanji.md)
+
 <p><span class="chinese">这个程序能用于这种电子计算机吗?</span><span class="english">Can this program be run on this computer?</span></p>
 
 <p><span class="chinese">电子计算机算得既快又准确。</span><span class="english">Electronic computers work quickly and accurately.</span></p>

@@ -1,5 +1,7 @@
 # wherever 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wherever.md)
+
 <p><span class="chinese">而无论我们奔往哪里。</span><span class="english">While wherever we fly.</span></p>
 
 <p><span class="chinese">不论身处何地我都心怀安乐。</span><span class="english">I am happy wherever I am.</span></p>

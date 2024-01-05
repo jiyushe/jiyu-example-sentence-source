@@ -1,5 +1,7 @@
 # reconstructed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconstructed.md)
+
 <p><span class="chinese">黑‘桶’重建用作取暖炉。</span><span class="english">The black ‘barrels’ are reconstructed heating stoves.</span></p>
 
 <p><span class="chinese">该结构是用户驱动的、开放的和可重构的。</span><span class="english">The structure is user drived, open and reconstructed.</span></p>

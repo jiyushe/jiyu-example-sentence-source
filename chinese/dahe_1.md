@@ -1,5 +1,7 @@
 # 大河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahe_1.md)
+
 <p><span class="chinese">见大河奔流，直到苦海边。</span><span class="english">Over the rivers to the bitter sea.</span></p>
 
 <p><span class="chinese">这房子面向着大河。</span><span class="english">The building faces the big rimmer.</span></p>

@@ -1,5 +1,7 @@
 # serbia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serbia.md)
+
 <p><span class="chinese">因为他们认为科索沃永远是塞尔维亚的一部分。</span><span class="english">For them Kosovo will always be part of Serbia.</span></p>
 
 <p><span class="chinese">在面对塞尔维亚上演帽子戏法之后感觉如何？</span><span class="english">Qué tal el día después de su hat-trick a Serbia?</span></p>

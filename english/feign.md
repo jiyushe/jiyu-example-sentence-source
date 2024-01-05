@@ -1,5 +1,7 @@
 # feign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feign.md)
+
 <p><span class="chinese">我会假装相信你。</span><span class="english">I feign , I shall believe!</span></p>
 
 <p><span class="chinese">有些动物在危险时装死。</span><span class="english">Some animals feign death when in danger.</span></p>

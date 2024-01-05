@@ -1,5 +1,7 @@
 # vassal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vassal.md)
+
 <p><span class="chinese">伯爵已成为公爵的封臣。</span><span class="english">Earl has become a vassal of the Duke.</span></p>
 
 <p><span class="chinese">臣子向帝王呈递的意见书。</span><span class="english">The opinion book from the vassal to a lord.</span></p>

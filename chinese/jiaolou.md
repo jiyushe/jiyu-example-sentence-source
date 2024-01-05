@@ -1,5 +1,7 @@
 # 角楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaolou.md)
+
 <p><span class="chinese">我告诉彼得什么是角楼，它是用来做什么的。</span><span class="english">I told him what the turret was and what it was built for.</span></p>
 
 <p><span class="chinese">我们这座房子有个角楼，从房子里面进不去。</span><span class="english">Our house has this turret you can’t get into from inside.</span></p>

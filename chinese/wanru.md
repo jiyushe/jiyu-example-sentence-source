@@ -1,5 +1,7 @@
 # 宛如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanru.md)
+
 <p><span class="chinese">宛如百合，皓似白雪。</span><span class="english">Lily-like, white as snow.</span></p>
 
 <p><span class="chinese">这时候，真相宛如一股抚慰伤口的暖流沁入心间。</span><span class="english">The healing oxygen is truth.</span></p>

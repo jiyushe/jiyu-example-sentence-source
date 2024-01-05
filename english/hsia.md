@@ -1,5 +1,7 @@
 # hsia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hsia.md)
+
 <p><span class="chinese">林青霞是个银幕表演经验丰富的演员。</span><span class="english">Bridgitte Lin Ching Hsia is a veteran actress.</span></p>
 
 <p><span class="chinese">秦祥林和林青霞在「奔向彩虹」电影中的一个镜头。</span><span class="english">Chin Hsiang-lin and Lin Ching- hsia in a scene from a movie.</span></p>

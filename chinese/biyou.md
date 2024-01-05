@@ -1,5 +1,7 @@
 # 庇佑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyou.md)
+
 <p><span class="chinese">行商庇佑主之门，开启！</span><span class="english">Gate of the Lord of Protection, Open!</span></p>
 
 <p><span class="chinese">我的庇佑天使是我最亲爱的朋友</span><span class="english">My guardian angel is my dearest friend</span></p>

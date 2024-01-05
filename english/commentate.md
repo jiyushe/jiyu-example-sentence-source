@@ -1,5 +1,7 @@
 # commentate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commentate.md)
+
 <p><span class="chinese">呃，我可以叫上你吗？</span><span class="english">You can commentate or something.</span></p>
 
 <p><span class="chinese">这就是今天我要要跟你们评述的。</span><span class="english">This is what I have to commentate for you today.</span></p>

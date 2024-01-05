@@ -1,5 +1,7 @@
 # chipped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chipped.md)
+
 <p><span class="chinese">他用木头削成了一个雕像。</span><span class="english">He chipped a figure out of wood.</span></p>
 
 <p><span class="chinese">黏土佛像碎裂了。</span><span class="english">The clay Buddha has chipped off.</span></p>

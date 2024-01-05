@@ -1,5 +1,7 @@
 # propel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propel.md)
+
 <p><span class="chinese">这些设计鼓动需求并推进品牌忠诚度。</span><span class="english">These designs fuel demand and propel brand loyalty.</span></p>
 
 <p><span class="chinese">我们要推动经济发展再上新台阶。</span><span class="english">We wiIl propel economic development to a new level.</span></p>

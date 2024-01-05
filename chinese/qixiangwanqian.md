@@ -1,5 +1,7 @@
 # 气象万千
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixiangwanqian.md)
+
 <p><span class="chinese">天桂山四季分明，气象万千。</span><span class="english">Tian Shan four seasons, the Meteorology Series.</span></p>
 
 <p><span class="chinese">苏轼与辛弃疾的送别词内容丰富，气象万千。</span><span class="english">The contents of both Su's and Xin's were profound and abundant.</span></p>

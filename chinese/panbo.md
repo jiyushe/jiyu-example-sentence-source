@@ -1,5 +1,7 @@
 # 盘剥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panbo.md)
+
 <p><span class="chinese">为数不多的富豪盘剥穷人，养肥自己。</span><span class="english">The few enormously rich battened on the poor.</span></p>
 
 <p><span class="chinese">斯林克就像一个孩子，你不会盘剥你的孩子。</span><span class="english">Slinky is like a child, and you don't exploit your child.</span></p>

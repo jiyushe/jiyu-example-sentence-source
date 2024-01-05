@@ -1,5 +1,7 @@
 # counterinsurgency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterinsurgency.md)
+
 <p><span class="chinese">镇压叛乱的最大经验教训是什么？</span><span class="english">What is the central lesson of counterinsurgency?</span></p>
 
 <p><span class="chinese">我们被告知，任何反叛乱运动都需要长期的承诺。</span><span class="english">Any counterinsurgency campaign, we’re told, requires a very long commitment.</span></p>

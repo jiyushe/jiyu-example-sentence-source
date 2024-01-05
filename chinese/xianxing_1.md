@@ -1,5 +1,7 @@
 # 现行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxing_1.md)
+
 <p><span class="chinese">现行政策亦有改进余地。</span><span class="english">Policy can also improve today.</span></p>
 
 <p><span class="chinese">在现行制度下未做规定。</span><span class="english">Not addressed in existing regulations.</span></p>

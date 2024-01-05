@@ -1,5 +1,7 @@
 # 男女老少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nannvlaoshao.md)
+
 <p><span class="chinese">男女老少齐上阵。</span><span class="english">Men and women, old and young, all pitched into the work.</span></p>
 
 <p><span class="chinese">男女老少你来种，我来偷，忙得不亦乐乎。</span><span class="english">Kinds of men and women you come, I come to steal is too busy.</span></p>

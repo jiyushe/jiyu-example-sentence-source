@@ -1,5 +1,7 @@
 # fattest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fattest.md)
+
 <p><span class="chinese">最胖的先来，还有比这更糟是事情吗？</span><span class="english">Fattest and first, could anything be worse?</span></p>
 
 <p><span class="chinese">墨西哥曼努埃尔·乌�韦是世界上最重的男人。</span><span class="english">Manuel Uribe, the Fattest Man in the World.</span></p>

@@ -1,5 +1,7 @@
 # 傻气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaqi.md)
+
 <p><span class="chinese">他暗笑自己傻气。</span><span class="english">He laughed himself silly.</span></p>
 
 <p><span class="chinese">就像我说的，我人生的这部分叫做“冒傻气”。</span><span class="english">This part of my life is called"Internship".</span></p>

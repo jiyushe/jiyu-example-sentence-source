@@ -1,5 +1,7 @@
 # industrialized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/industrialized.md)
+
 <p><span class="chinese">西城区是高度工业化的地区。</span><span class="english">The western city was a highly industrialized area.</span></p>
 
 <p><span class="chinese">我们生活在一个高度工业化的世界。</span><span class="english">We are now living in a highly industrialized world.</span></p>

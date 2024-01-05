@@ -1,5 +1,7 @@
 # authority 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authority.md)
+
 <p><span class="chinese">给你这权柄的是谁呢？</span><span class="english">Who gave you this authority?</span></p>
 
 <p><span class="chinese">让我重申一下我的权力’。</span><span class="english">Let me reassert my authority.</span></p>

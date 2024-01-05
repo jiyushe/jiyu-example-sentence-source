@@ -1,5 +1,7 @@
 # fibroin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibroin.md)
+
 <p><span class="chinese">测定丝素纤维的结晶度和取向度。</span><span class="english">To detect the crystallinity and orientation of fibroin fibers.</span></p>
 
 <p><span class="chinese">测定再生丝素纤维的力学性能。</span><span class="english">To detect the mechanic properties of regenerated fibroin fibers.</span></p>

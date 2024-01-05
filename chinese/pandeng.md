@@ -1,5 +1,7 @@
 # 攀登
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pandeng.md)
+
 <p><span class="chinese">攀登上光荣的阶梯。</span><span class="english">Up the mount of glory.</span></p>
 
 <p><span class="chinese">他看起来在不断攀登。</span><span class="english">He seemed to be climbing.</span></p>

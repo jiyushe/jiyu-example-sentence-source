@@ -1,5 +1,7 @@
 # hotpot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotpot.md)
+
 <p><span class="chinese">四川火锅吃起来很辣。</span><span class="english">Sichuan Hotpot tastes very spicy.</span></p>
 
 <p><span class="chinese">我们去吃火锅怎么样？</span><span class="english">How about we go for hotpot dinner ?</span></p>

@@ -1,5 +1,7 @@
 # punic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punic.md)
+
 <p><span class="chinese">他是个背信弃义的家伙！</span><span class="english">He's a guy with Punic faith.</span></p>
 
 <p><span class="chinese">第二次布匿战争中的罗马将军。</span><span class="english">Roman general in the Second Punic War.</span></p>

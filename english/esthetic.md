@@ -1,5 +1,7 @@
 # esthetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esthetic.md)
+
 <p><span class="chinese">另外，法果的本质是一种绝对的美。</span><span class="english">Examining on dharma-dh ta is a esthetic judgment.</span></p>
 
 <p><span class="chinese">从美学的观点来看，那是一个美丽的大陆。</span><span class="english">From the esthetic view, it was a beautiful continent.</span></p>

@@ -1,5 +1,7 @@
 # 卧底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wodi.md)
+
 <p><span class="chinese">我马上把这两个犹太卧底藏在一堆亚麻布里，然后就去开了门。</span><span class="english">I quickly hid the spies, in flax, and I opened the door.</span></p>
 
 <p><span class="chinese">你们这些卧底石真有意思，老在天台见面。</span><span class="english">It's fun that spies like you prefer to meet at the roof.</span></p>

@@ -1,5 +1,7 @@
 # unspoken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unspoken.md)
+
 <p><span class="chinese">最强烈的感情往往是最深藏不露的。</span><span class="english">remain most unspoken.</span></p>
 
 <p><span class="chinese">贵公司的潜规则是什么？</span><span class="english">What are the unspoken rules?</span></p>

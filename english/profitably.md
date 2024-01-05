@@ -1,5 +1,7 @@
 # profitably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profitably.md)
+
 <p><span class="chinese">华盛顿可能在对次进行有益的探究。</span><span class="english">This is a subject that might be profitably explored in Washington.</span></p>
 
 <p><span class="chinese">进行有安全保障和有利可图的长期投资是可能的。</span><span class="english">It is possible to invest securely and profitably for the long term.</span></p>

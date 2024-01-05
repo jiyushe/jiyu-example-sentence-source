@@ -1,5 +1,7 @@
 # 袖管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuguan.md)
+
 <p><span class="chinese">老板得卷起袖管亲历亲为。</span><span class="english">Bosses have to roll up their sleeves and work.</span></p>
 
 <p><span class="chinese">他的肘伸出了撕破的衬衣袖管。</span><span class="english">His elbow was poking through his torn shirt sleeve.</span></p>

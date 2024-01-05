@@ -1,5 +1,7 @@
 # 深情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqing.md)
+
 <p><span class="chinese">影片结尾时乔对凯瑟琳深情地说。</span><span class="english">The film is to end Joe.</span></p>
 
 <p><span class="chinese">她有一双深情款款的大眼睛。</span><span class="english">She has big soulful eyes.</span></p>

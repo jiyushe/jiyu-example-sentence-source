@@ -1,5 +1,7 @@
 # papyrus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papyrus.md)
+
 <p><span class="chinese">埃及人书写用薄草纸。</span><span class="english">The Egyptians wrote on papyrus.</span></p>
 
 <p><span class="chinese">你知道草纸有多贵吗？</span><span class="english">Do you know the price of papyrus?</span></p>

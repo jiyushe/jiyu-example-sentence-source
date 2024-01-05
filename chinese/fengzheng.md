@@ -1,5 +1,7 @@
 # 风筝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengzheng.md)
+
 <p><span class="chinese">可以被风筝杀掉。</span><span class="english">Can be kited and killed.</span></p>
 
 <p><span class="chinese">他试图放飞他的风筝。</span><span class="english">He tried to fly his kite.</span></p>

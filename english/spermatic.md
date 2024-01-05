@@ -1,5 +1,7 @@
 # spermatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spermatic.md)
+
 <p><span class="chinese">这些是精子。</span><span class="english">These are spermatic animalcules.</span></p>
 
 <p><span class="chinese">精巢壶腹中充满各时相的精原细胞、精母细胞和精子。</span><span class="english">There are spermatic gomums, spermatids and sperms in the spermary.</span></p>

@@ -1,5 +1,7 @@
 # providential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/providential.md)
+
 <p><span class="chinese">在月亮出来之前这里可以做短暂的休息和庇护所。</span><span class="english">This was providential rest and shelter until the moon rose.</span></p>
 
 <p><span class="chinese">在月亮上来之前，这是一个幸运的休憩与隐蔽之所。</span><span class="english">This was providential rest and shelter until the moon rose.</span></p>

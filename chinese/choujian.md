@@ -1,5 +1,7 @@
 # 瞅见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choujian.md)
+
 <p><span class="chinese">如果我瞅见就好了。</span><span class="english">If only I had seen it.</span></p>
 
 <p><span class="chinese">告诉我你瞅见啥子？</span><span class="english">Tell me what do you see?</span></p>

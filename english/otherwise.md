@@ -1,5 +1,7 @@
 # otherwise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otherwise.md)
+
 <p><span class="chinese">还能是别的情况吗？</span><span class="english">How can it be otherwise?</span></p>
 
 <p><span class="chinese">否则也可能有效。</span><span class="english">Otherwise it could be valid.</span></p>

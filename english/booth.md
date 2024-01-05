@@ -1,5 +1,7 @@
 # booth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/booth.md)
+
 <p><span class="chinese">售票亭在哪里?</span><span class="english">Where is the ticket booth?</span></p>
 
 <p><span class="chinese">进到大头贴照相亭。</span><span class="english">Go into a sticker photo booth.</span></p>

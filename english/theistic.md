@@ -1,5 +1,7 @@
 # theistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theistic.md)
+
 <p><span class="chinese">我们反对自然主义和进化论。</span><span class="english">We reject both naturalistic and theistic evolution.</span></p>
 
 <p><span class="chinese">以神为根基的社会将涌现一神论的思想。</span><span class="english">God-based societies will spring up theistic thinking.</span></p>

@@ -1,5 +1,7 @@
 # 坐牢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuolao.md)
+
 <p><span class="chinese">他们可以让我去坐牢，反正我付不起。</span><span class="english">They can take me to jail.</span></p>
 
 <p><span class="chinese">为了这些东西而冒坐牢的风险可不太值得。</span><span class="english">Hardly worth risking jail for.</span></p>

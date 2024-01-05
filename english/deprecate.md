@@ -1,5 +1,7 @@
 # deprecate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deprecate.md)
+
 <p><span class="chinese">爱好和平的人民反对战争。</span><span class="english">The peace-loving people deprecate war.</span></p>
 
 <p><span class="chinese">你不应该贬低你自己的价值。</span><span class="english">You should not deprecate your own worth.</span></p>

@@ -1,5 +1,7 @@
 # pretty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pretty.md)
+
 <p><span class="chinese">非常跳跃的音乐</span><span class="english">Pretty skippy.</span></p>
 
 <p><span class="chinese">当然它们也非常赏心悦目。</span><span class="english">Also very pretty.</span></p>

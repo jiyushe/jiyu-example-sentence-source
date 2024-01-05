@@ -1,5 +1,7 @@
 # 撇嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piezui.md)
+
 <p><span class="chinese">她冲着我撇一撇嘴。</span><span class="english">She quirked her mouth at me.</span></p>
 
 <p><span class="chinese">他露出了熟悉的撇嘴露齿的笑容。</span><span class="english">He gave his familiar, twisted grin.</span></p>

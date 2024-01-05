@@ -1,5 +1,7 @@
 # callow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/callow.md)
+
 <p><span class="chinese">一青年，见识短浅亦无知蒙昧，恰得一剑。</span><span class="english">A young man, callow and foolish in innocence, came to own a sword.</span></p>
 
 <p><span class="chinese">巴克莱的Callow称,这一点在当前的金融危机中也显而易见.</span><span class="english">Barclay's Callow said this was visible during the current financial crisis.</span></p>

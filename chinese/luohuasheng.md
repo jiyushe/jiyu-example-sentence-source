@@ -1,5 +1,7 @@
 # 落花生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luohuasheng.md)
+
 <p><span class="chinese">你喜欢吃落花生吗？</span><span class="english">Do you like monkey nuts?</span></p>
 
 <p><span class="chinese">我是个算命的先生，我也卖过酸枣、落花生什么的。</span><span class="english">Once I was a vender of sour dates , ground-nuts and what not.</span></p>

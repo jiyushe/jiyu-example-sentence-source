@@ -1,5 +1,7 @@
 # hydroformylation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroformylation.md)
+
 <p><span class="chinese">本论文研制了一种新型烯烃氢甲酰化催化剂。</span><span class="english">In this paper, a kind of new catalysts for olefins hydroformylation was studied.</span></p>
 
 <p><span class="chinese">模拟了超临界丙烯氢甲酰反应体系的相行为。</span><span class="english">The phase behavior of the hydroformylation of propylene in supercritical CO_2 was simulated.</span></p>

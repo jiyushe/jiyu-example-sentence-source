@@ -1,5 +1,7 @@
 # 亲朋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinpeng.md)
+
 <p><span class="chinese">谢谢多为亲朋戚友的关心于祝福。</span><span class="english">Thanks for all wishes by family and friend.</span></p>
 
 <p><span class="chinese">邻居既亲朋戚友来送岳母最后一程。</span><span class="english">Relatives, neighbours and friends during the final send off procession.</span></p>

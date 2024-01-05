@@ -1,5 +1,7 @@
 # rainstorm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rainstorm.md)
+
 <p><span class="chinese">在暴风雨后跑步。</span><span class="english">Run after a rainstorm.</span></p>
 
 <p><span class="chinese">傍晚时，突然下起滂沱大雨。</span><span class="english">At sunset, a sudden rainstorm.</span></p>

@@ -1,5 +1,7 @@
 # renounce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renounce.md)
+
 <p><span class="chinese">当蝴蝶放弃他们的打兰。</span><span class="english">When butterflies renounce their drams.</span></p>
 
 <p><span class="chinese">宣布与儿子脱离关系对望来说是很痛苦的。</span><span class="english">It was painful for him to renounce his son.</span></p>

@@ -1,5 +1,7 @@
 # sentiment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentiment.md)
+
 <p><span class="chinese">在投资上别感情用事。</span><span class="english">Never invest on sentiment.</span></p>
 
 <p><span class="chinese">欧元人气极度利空**</span><span class="english">EXTREME BEARISH EURO SENTIMENT</span></p>

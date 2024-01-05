@@ -1,5 +1,7 @@
 # navajo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/navajo.md)
+
 <p><span class="chinese">纳瓦霍语远离了孤独。</span><span class="english">Navajo is far from alone.</span></p>
 
 <p><span class="chinese">白色的外皮便于装修。</span><span class="english">Paintable Navajo White jacket.</span></p>

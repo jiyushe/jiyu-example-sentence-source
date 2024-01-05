@@ -1,5 +1,7 @@
 # disbandment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disbandment.md)
+
 <p><span class="chinese">他仍然下令解散骑士团。</span><span class="english">Nonetheless he ordered the disbandment of the order.</span></p>
 
 <p><span class="chinese">随着本集团在2005年解散，诺尔斯在2006年发表的生日排队。</span><span class="english">Following the group's disbandment in 2005, Knowles released B'Day in 2006.</span></p>

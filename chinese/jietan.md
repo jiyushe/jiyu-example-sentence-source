@@ -1,5 +1,7 @@
 # 截瘫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jietan.md)
+
 <p><span class="chinese">褥疮也是截瘫常见的并发症之一。</span><span class="english">The bedsore is also one of paraplegia common complications.</span></p>
 
 <p><span class="chinese">图6-8为同一患者，男，26岁，潜水后四肢截瘫1周入院。</span><span class="english">Fig6-8, the same case, M, 26, quadriplegia 1 week after dive.</span></p>

@@ -1,5 +1,7 @@
 # 央求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangqiu.md)
+
 <p><span class="chinese">别把花剪下，我央求。</span><span class="english">Don't cut them, I pleaded.</span></p>
 
 <p><span class="chinese">常常央求我唱一支歌。</span><span class="english">He often asks me to sing a song.</span></p>

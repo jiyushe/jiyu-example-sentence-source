@@ -1,5 +1,7 @@
 # dismiss 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismiss_1.md)
+
 <p><span class="chinese">把马车打发掉！</span><span class="english">Dismiss the carriage!</span></p>
 
 <p><span class="chinese">他们现在可以走了吗？</span><span class="english">Can they be dismiss now?</span></p>

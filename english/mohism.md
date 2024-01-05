@@ -1,5 +1,7 @@
 # mohism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mohism.md)
+
 <p><span class="chinese">墨子创立了墨子哲学。</span><span class="english">Mozi founded the philosophy called Mohism.</span></p>
 
 <p><span class="chinese">墨家在汉代以后湮没无闻。</span><span class="english">After the Han Dynasty, Mohism fell into oblivion.</span></p>

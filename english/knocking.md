@@ -1,5 +1,7 @@
 # knocking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knocking.md)
+
 <p><span class="chinese">我没有敲门就进去了。</span><span class="english">I entered without knocking.</span></p>
 
 <p><span class="chinese">我听到有人拍门。</span><span class="english">I can hear someone knocking.</span></p>

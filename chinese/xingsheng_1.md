@@ -1,5 +1,7 @@
 # 形声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingsheng_1.md)
+
 <p><span class="chinese">因此又创造了形声法来造字。</span><span class="english">And therefore people created a sound law-shaped characters.</span></p>
 
 <p><span class="chinese">“亦声”就是意兼声，是一种既不同于会意又不同于形声的特殊结构。</span><span class="english">"Yisheng" contains idea and phone, it is a special structure different from idea oriented and pictophone.</span></p>

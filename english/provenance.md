@@ -1,5 +1,7 @@
 # provenance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provenance.md)
+
 <p><span class="chinese">我问她东西的出处。</span><span class="english">I asked her for the provenance.</span></p>
 
 <p><span class="chinese">没有核查那个故事的出处。</span><span class="english">would not have checked the provenance of that story?</span></p>

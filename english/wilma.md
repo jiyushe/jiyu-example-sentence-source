@@ -1,5 +1,7 @@
 # wilma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wilma.md)
+
 <p><span class="chinese">但威尔玛却做到了！</span><span class="english">But Wilma did just that!</span></p>
 
 <p><span class="chinese">现在，威尔玛已经拥有了两块奥运会的金牌。</span><span class="english">Now Wilma had two Olimpic gold medals.</span></p>

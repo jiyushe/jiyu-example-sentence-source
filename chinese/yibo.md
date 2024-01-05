@@ -1,5 +1,7 @@
 # 衣钵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibo.md)
+
 <p><span class="chinese">事实和真理不再是可继承的衣钵。</span><span class="english">Facts and Truth are no longer the mantle.</span></p>
 
 <p><span class="chinese">我会很高兴继承他的衣钵的。</span><span class="english">I'd have been very happy to inherit his shoes.</span></p>

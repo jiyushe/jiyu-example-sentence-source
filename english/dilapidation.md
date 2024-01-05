@@ -1,5 +1,7 @@
 # dilapidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilapidation.md)
+
 <p><span class="chinese">该包装袋具有防潮、耐热、抗老化、高强度和破损率低等特性。</span><span class="english">What's more, the bags are moisture-proof, heat-resistant, of high strength and low dilapidation rate.</span></p>
 
 <p><span class="chinese">在暹粒与泰国边境之间，依然有少数几处村落存留了下来，有的已然荒废，有的被洗劫一空，现状各不相同。</span><span class="english">A few sites endure, in various states of dilapidation and looting, between Siem Reap and the Thai border.</span></p>

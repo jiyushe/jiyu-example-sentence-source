@@ -1,5 +1,7 @@
 # briefs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/briefs.md)
+
 <p><span class="chinese">扼要介绍了该水膨胀防水密封胶的工程应用。</span><span class="english">It also briefs the application of the sealant.</span></p>
 
 <p><span class="chinese">为什么有人喜欢穿彩色内裤？</span><span class="english">Why does somebody like to wear chromatic briefs ?</span></p>

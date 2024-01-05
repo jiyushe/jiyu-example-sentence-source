@@ -1,5 +1,7 @@
 # agonize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agonize.md)
+
 <p><span class="chinese">他们一直在忍受苦痛并且祈祷。</span><span class="english">All the time they agonize and pray.</span></p>
 
 <p><span class="chinese">但是，不要绞尽脑汁来想到底写什么。</span><span class="english">But don't agonize over what to write.</span></p>

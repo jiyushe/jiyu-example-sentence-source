@@ -1,5 +1,7 @@
 # somnolence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somnolence.md)
+
 <p><span class="chinese">一阵沉沉欲睡的懒意降落在人群里面。</span><span class="english">A lazy somnolence descended on the crowd.</span></p>
 
 <p><span class="chinese">周期性嗜睡的发病年龄大多在十几岁。</span><span class="english">Age of onset of periodic somnolence mostly in their teens.</span></p>

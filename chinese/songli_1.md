@@ -1,5 +1,7 @@
 # 送礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songli_1.md)
+
 <p><span class="chinese">你来了我的送礼会吗？</span><span class="english">Did you come to my shower?</span></p>
 
 <p><span class="chinese">新生儿送礼会是女人家的事。</span><span class="english">Baby showers are for women.</span></p>

@@ -1,5 +1,7 @@
 # 亚硝酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaxiaosuan.md)
+
 <p><span class="chinese">亚硝酸水解N-氨甲酰-D-苯丙氨酸制备D-苯丙氨酸。</span><span class="english">Nc-D-Phe is hydrolyzed to D-Phe by nitrous acid.</span></p>
 
 <p><span class="chinese">食品中的黄曲毒素。亚硝酸类物皆具有致癌性。</span><span class="english">The food toxins. Grasped Such things have their area.</span></p>

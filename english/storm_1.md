@@ -1,5 +1,7 @@
 # storm 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storm_1.md)
+
 <p><span class="chinese">紫雨风暴。</span><span class="english">Purple Storm.</span></p>
 
 <p><span class="chinese">没有风雨云层。</span><span class="english">No storm clouds.</span></p>

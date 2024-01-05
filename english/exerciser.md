@@ -1,5 +1,7 @@
 # exerciser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exerciser.md)
+
 <p><span class="chinese">物超所值这一实际踏板锻炼。</span><span class="english">Excellent value for money with this practical pedal exerciser.</span></p>
 
 <p><span class="chinese">它还具有一个可调干由一个丢弃的锻炼。</span><span class="english">It also has an adjustable stem made from a discarded exerciser.</span></p>

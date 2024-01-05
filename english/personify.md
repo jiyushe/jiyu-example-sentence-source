@@ -1,5 +1,7 @@
 # personify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/personify.md)
+
 <p><span class="chinese">对于这个能作为过去100年的表率的人，我们还能期望什么呢？</span><span class="english">What more could we ask of a man to personify the past 100 years?</span></p>
 
 <p><span class="chinese">它们把人们崇拜的神力和魔力都人格化了。</span><span class="english">The personify the divine and magic powers worshipped by the people.</span></p>

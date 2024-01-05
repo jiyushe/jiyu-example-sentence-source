@@ -1,5 +1,7 @@
 # came
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/came.md)
+
 <p><span class="chinese">丁太太来了。</span><span class="english">Mrs Dean came.</span></p>
 
 <p><span class="chinese">一只猫沿路走来。</span><span class="english">Along came a cat.</span></p>

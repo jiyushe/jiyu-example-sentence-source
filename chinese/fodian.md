@@ -1,5 +1,7 @@
 # 佛殿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fodian.md)
+
 <p><span class="chinese">假如佛陀已成就庄严的佛殿，那他坐在那里？</span><span class="english">If the Buddha has completed his adornments, where does he sit?</span></p>
 
 <p><span class="chinese">佛殿与罗汉殿设穿廊，成工字殿的形式。</span><span class="english">There is corridor in the Buddha hall and Arhat hall, in the form of "I".</span></p>

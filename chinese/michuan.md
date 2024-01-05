@@ -1,5 +1,7 @@
 # 秘传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/michuan.md)
+
 <p><span class="chinese">不过画作隐藏一秘传的、炼金的意义。</span><span class="english">The painting hides however an esoteric, alchemical meaning.</span></p>
 
 <p><span class="chinese">如上所述，秘传的圆顶代表子宫生命的给予者。</span><span class="english">As stated above, the dome esoterically represents the womb giver of life.</span></p>

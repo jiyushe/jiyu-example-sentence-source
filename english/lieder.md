@@ -1,5 +1,7 @@
 # lieder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lieder.md)
+
 <p><span class="chinese">田野波尔卡玛祖卡舞曲，作品239，“歌声响起的地方”</span><span class="english">Polka mazurka champetre, Op. 239, Wo klingen die Lieder.</span></p>
 
 <p><span class="chinese">第二章对李斯特的艺术歌曲作了概括性的描述。</span><span class="english">The second chapter gives a brief description of List's lieder.</span></p>

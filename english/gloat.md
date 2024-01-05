@@ -1,5 +1,7 @@
 # gloat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gloat.md)
+
 <p><span class="chinese">你在这里幸灾乐祸？</span><span class="english">You here to gloat?</span></p>
 
 <p><span class="chinese">你是幸灾乐祸、狂笑还是去死呢？</span><span class="english">Will you gloat and scream and die?</span></p>

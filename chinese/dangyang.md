@@ -1,5 +1,7 @@
 # 荡漾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangyang.md)
+
 <p><span class="chinese">通透的玻璃杯荡漾着美酒流芳。</span><span class="english">Red wine popple sweet in glass.</span></p>
 
 <p><span class="chinese">湖水荡漾。</span><span class="english">There were ripples on the lake.</span></p>

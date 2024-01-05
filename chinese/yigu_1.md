@@ -1,5 +1,7 @@
 # 遗骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yigu_1.md)
+
 <p><span class="chinese">很快，埃弗特一家找到了他们父亲的遗骨。</span><span class="english">Soon, the Everts found their father.</span></p>
 
 <p><span class="chinese">据鉴定，这些遗骨多数属于蒙古人种。</span><span class="english">It identified the remains of most of these are Mongolian.</span></p>

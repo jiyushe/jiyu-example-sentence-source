@@ -1,5 +1,7 @@
 # 皇军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangjun.md)
+
 <p><span class="chinese">他们说，很对不起，日本皇军侵略了中国。</span><span class="english">They said, 'We are sorry, the Imperial Japanese army invaded China.</span></p>
 
 <p><span class="chinese">小野用金戈的性命威胁金母参加皇军的入城式。</span><span class="english">Ono with Mr Mother attend imperial RuChengShi threat the life of gold.</span></p>

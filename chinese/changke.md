@@ -1,5 +1,7 @@
 # 常客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changke.md)
+
 <p><span class="chinese">而他们都是常客。</span><span class="english">They are all regular guests.</span></p>
 
 <p><span class="chinese">好多次了。我是这里的常客。</span><span class="english">Dozens of times. I'm a regular.</span></p>

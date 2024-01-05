@@ -1,5 +1,7 @@
 # conk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conk.md)
+
 <p><span class="chinese">准备第一次整成直发式？</span><span class="english">Going to lay on that first conk?</span></p>
 
 <p><span class="chinese">假如你再烦我，我就要打你的头。</span><span class="english">I'll conk you if you annoy me again.</span></p>

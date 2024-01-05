@@ -1,5 +1,7 @@
 # 遛弯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuwan.md)
+
 <p><span class="chinese">我会给它喂食，给它洗澡，每天带它出去遛弯。</span><span class="english">I'll feed it, bathe it and walk it every day!</span></p>
 
 <p><span class="chinese">事实上，她甚至连遛弯的机会都没有。</span><span class="english">In fact, she is not even allowed to walk down the road.</span></p>

@@ -1,5 +1,7 @@
 # seminar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seminar.md)
+
 <p><span class="chinese">今天是一次沟通讨论会。</span><span class="english">This is a communications seminar.</span></p>
 
 <p><span class="chinese">刘建高在研讨会上作了讲话。</span><span class="english">Liu made a speech at the seminar high.</span></p>

@@ -1,5 +1,7 @@
 # exacting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exacting.md)
+
 <p><span class="chinese">爱情，是一个极其苛刻的高利贷者。</span><span class="english">Love is an extremely exacting usurer.</span></p>
 
 <p><span class="chinese">这是很严格的工作，而且又是在急诊室，生命攸关。</span><span class="english">It is exacting work, and, since this is an emergency room, lives can be at stake.</span></p>

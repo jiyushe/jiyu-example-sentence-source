@@ -1,5 +1,7 @@
 # 遮羞布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhexiubu.md)
+
 <p><span class="chinese">但是那片遮羞布被吹走了。</span><span class="english">But that fig leaf has since blown away.</span></p>
 
 <p><span class="chinese">制裁只是无能政客的遮羞布。</span><span class="english">Sanctions were a mere fig-leaf for weak politicians.</span></p>

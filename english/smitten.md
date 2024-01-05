@@ -1,5 +1,7 @@
 # smitten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smitten.md)
+
 <p><span class="chinese">她的太奶奶女王非常爱她。</span><span class="english">Her great-grandmother the Queen is smitten.</span></p>
 
 <p><span class="chinese">所有男生都彻底被她迷倒了。</span><span class="english">All the boys were completely smitten with her.</span></p>

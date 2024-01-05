@@ -1,5 +1,7 @@
 # aggregative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggregative.md)
+
 <p><span class="chinese">提出了集团序的概念和方法。</span><span class="english">The concept and approach of aggregative rank is given.</span></p>
 
 <p><span class="chinese">定义了方案的集团序指标和方案的集团优先关系。</span><span class="english">The aggregative rank index and the aggregative precedence relation between the alternatives are pro.</span></p>

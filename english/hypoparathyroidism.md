@@ -1,5 +1,7 @@
 # hypoparathyroidism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypoparathyroidism.md)
+
 <p><span class="chinese">目的探讨甲状旁腺机能减退症患者的颅脑CT表现。</span><span class="english">Objective To discuss the brain-CT manifestation of hypoparathyroidism.</span></p>
 
 <p><span class="chinese">术后无永久性甲状旁腺功能减退和喉返神经麻痹。</span><span class="english">There was no hypoparathyroidism and recurrent nerve paralysis in this group.</span></p>

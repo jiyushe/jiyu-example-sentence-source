@@ -1,5 +1,7 @@
 # 昨夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoye_1.md)
+
 <p><span class="chinese">昨夜梦魂中。</span><span class="english">In my dream last night!</span></p>
 
 <p><span class="chinese">昨夜里下了一阵风雪。</span><span class="english">It showered last night.</span></p>

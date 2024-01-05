@@ -1,5 +1,7 @@
 # secularization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secularization.md)
+
 <p><span class="chinese">为什么伊斯兰教抵抗世俗化？</span><span class="english">Why is it resistant to secularization?</span></p>
 
 <p><span class="chinese">略论中国佛教的世俗化与“人间佛教”</span><span class="english">Secularization of Chinese Buddhism and "Mundane Buddhism""</span></p>

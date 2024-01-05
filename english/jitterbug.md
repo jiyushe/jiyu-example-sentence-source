@@ -1,5 +1,7 @@
 # jitterbug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jitterbug.md)
+
 <p><span class="chinese">我很喜好伦巴舞和吉特巴舞。</span><span class="english">I like rumba and jitterbug very much.</span></p>
 
 <p><span class="chinese">我很喜欢伦巴舞和吉物巴舞。</span><span class="english">I like rumba and jitterbug very much.</span></p>

@@ -1,5 +1,7 @@
 # 试销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiao_5.md)
+
 <p><span class="chinese">试销说明了什么？</span><span class="english">What does the test marketing show?</span></p>
 
 <p><span class="chinese">我将定购以20英尺集装箱包装的数量试销。</span><span class="english">I give as a trial order Quantity in 20Ft Cont.</span></p>

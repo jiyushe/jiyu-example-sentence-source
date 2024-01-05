@@ -1,5 +1,7 @@
 # velvet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/velvet.md)
+
 <p><span class="chinese">丝绒窗帘。</span><span class="english">Velvet curtains.</span></p>
 
 <p><span class="chinese">苔藓软如丝绒。</span><span class="english">Moss is soft like velvet.</span></p>

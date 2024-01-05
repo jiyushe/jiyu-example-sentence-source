@@ -1,5 +1,7 @@
 # quirk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quirk.md)
+
 <p><span class="chinese">信息商业都在利用大脑这一古怪行为。</span><span class="english">Infomercials are designed to take advantage of this brain quirk.</span></p>
 
 <p><span class="chinese">但迈阿密戴德县有个奇怪的法律规定——禁止他搬家。</span><span class="english">But a quirk in the Miami-Dade County laws prohibits him from moving.</span></p>

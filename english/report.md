@@ -1,5 +1,7 @@
 # report
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/report.md)
+
 <p><span class="chinese">报告它。</span><span class="english">Report it.</span></p>
 
 <p><span class="chinese">以下是她的报道。</span><span class="english">This is her report.</span></p>

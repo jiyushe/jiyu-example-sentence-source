@@ -1,5 +1,7 @@
 # hairy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairy.md)
+
 <p><span class="chinese">幼虫黑褐色，多毛。</span><span class="english">Larvae dark brown, hairy.</span></p>
 
 <p><span class="chinese">阿尔文穿得像一头毛茸茸的熊。</span><span class="english">Alwin dressed as a hairy bear.</span></p>

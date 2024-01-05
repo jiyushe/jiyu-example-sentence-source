@@ -1,5 +1,7 @@
 # 式子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizi_3.md)
+
 <p><span class="chinese">我把这个式子圈起来</span><span class="english">So let me draw a box.</span></p>
 
 <p><span class="chinese">这个式子告诉了我们什么？</span><span class="english">So what does that tell me?</span></p>

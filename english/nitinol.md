@@ -1,5 +1,7 @@
 # nitinol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitinol.md)
+
 <p><span class="chinese">支架材料为国产形状记忆镍钛合金。</span><span class="english">The stent was made of shape memory nitinol.</span></p>
 
 <p><span class="chinese">作为镍和钛的简单的一种合金，镍钛诺具有一些令人惊叹的特征。</span><span class="english">A simple alloy of nickel and titanium nitinol has some perplexing properties.</span></p>

@@ -1,5 +1,7 @@
 # weight 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weight.md)
+
 <p><span class="chinese">什么是重量？</span><span class="english">What is weight?</span></p>
 
 <p><span class="chinese">觉得洗衣袋重量不够吗？</span><span class="english">Need more weight?</span></p>

@@ -1,5 +1,7 @@
 # 踏踏实实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tatashishi.md)
+
 <p><span class="chinese">其实我多么想摆脱这种生活，去过一星期踏踏实实的日子啊。</span><span class="english">How willingly would I part with it for a week of real life.</span></p>
 
 <p><span class="chinese">但是我知道，人活着要安安稳稳、踏踏实实。</span><span class="english">But I do know that we should live a practical and solid life.</span></p>

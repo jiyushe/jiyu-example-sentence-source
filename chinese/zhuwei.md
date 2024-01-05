@@ -1,5 +1,7 @@
 # 助威
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuwei.md)
+
 <p><span class="chinese">我会为你擂鼓助威。</span><span class="english">I'll bang the drum for you.</span></p>
 
 <p><span class="chinese">姚明在接受记者采访时称，“感觉很棒，各国旗帜飘扬，观众们在场边欢呼助威。”</span><span class="english">It felt great, all the flags and cheering.</span></p>

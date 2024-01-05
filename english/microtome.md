@@ -1,5 +1,7 @@
 # microtome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microtome.md)
+
 <p><span class="chinese">推出病理切片机用一次性刀片。</span><span class="english">Disposable microtome blades for pathology introduced.</span></p>
 
 <p><span class="chinese">依据切片理论建立了不同浪向下船舶纵向运动的水动力模型。</span><span class="english">On the basis of microtome section theory, we get the hydrodynamic model.</span></p>

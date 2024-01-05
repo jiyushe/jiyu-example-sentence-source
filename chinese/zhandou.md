@@ -1,5 +1,7 @@
 # 战斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhandou.md)
+
 <p><span class="chinese">我继续战斗！</span><span class="english">I fight on!</span></p>
 
 <p><span class="chinese">我久盼战斗！</span><span class="english">I long for combat!</span></p>

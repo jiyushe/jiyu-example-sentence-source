@@ -1,5 +1,7 @@
 # 自拔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziba.md)
+
 <p><span class="chinese">不要沉迷于过去不可自拔。</span><span class="english">Don't hang on to the past.</span></p>
 
 <p><span class="chinese">这一点一滴的小事让我无法自拔</span><span class="english">The littlest things that take me there</span></p>

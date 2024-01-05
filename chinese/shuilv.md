@@ -1,5 +1,7 @@
 # 税率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuilv.md)
+
 <p><span class="chinese">税率应该定多高？</span><span class="english">How high shall the tax rate be?</span></p>
 
 <p><span class="chinese">但税率大体上还是保持在较低水平。</span><span class="english">Fundamentally, he left them low.</span></p>

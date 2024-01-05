@@ -1,5 +1,7 @@
 # 无坚不摧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujianbucui.md)
+
 <p><span class="chinese">他是中国版施瓦辛格，无坚不摧。</span><span class="english">He is Chinese edition applies Waxinge, all-conquering.</span></p>
 
 <p><span class="chinese">我们只知道他用的是一枝无坚不摧的金枪。</span><span class="english">We just know that he is using an invincible golden gun.</span></p>

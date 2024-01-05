@@ -1,5 +1,7 @@
 # 比如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biru.md)
+
 <p><span class="chinese">比如魔鬼</span><span class="english">How about demons?</span></p>
 
 <p><span class="chinese">比如,我有一个立体声音响</span><span class="english">I've got a stereo.</span></p>

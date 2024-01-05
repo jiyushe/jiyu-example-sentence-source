@@ -1,5 +1,7 @@
 # seminole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seminole.md)
+
 <p><span class="chinese">鹰击长空，水獭戏水，那是米诺尔人的家乡。</span><span class="english">The eagles fly and the otters play, In the land of the Seminole.</span></p>
 
 <p><span class="chinese">现今约有2，000名塞米诺尔人居住在佛罗里达州，5，000人居住在奥克拉荷马州。</span><span class="english">Today about 2, 000 Seminole live in Florida and 5, 000 in Oklahoma.</span></p>

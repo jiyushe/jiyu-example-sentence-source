@@ -1,5 +1,7 @@
 # 地震仪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhenyi.md)
+
 <p><span class="chinese">地震仪是由张衡发明的。</span><span class="english">The seismometer was invented by Zhang Heng.</span></p>
 
 <p><span class="chinese">地震仪是由张衡发明的。</span><span class="english">Heng invented the seismograph during the Han Dynasty.</span></p>

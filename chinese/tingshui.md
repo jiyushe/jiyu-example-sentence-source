@@ -1,5 +1,7 @@
 # 停水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingshui.md)
+
 <p><span class="chinese">明天上午8点至下午3点停水。</span><span class="english">There will be no water tomorrow from 8 a.m. to 3 p.m.</span></p>
 
 <p><span class="chinese">手机信号时续时断，白天停水晚上停电。</span><span class="english">When the phone signal when water cut, daytime renewal at blackout.</span></p>

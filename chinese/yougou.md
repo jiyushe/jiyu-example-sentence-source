@@ -1,5 +1,7 @@
 # 油垢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yougou.md)
+
 <p><span class="chinese">地板上满是油垢和污物。</span><span class="english">The floor was covered in grease and filth.</span></p>
 
 <p><span class="chinese">可分解最顽固的油垢。</span><span class="english">It will break down the toughest grease and grime.</span></p>

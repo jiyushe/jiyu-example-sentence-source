@@ -1,5 +1,7 @@
 # reassurance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reassurance.md)
+
 <p><span class="chinese">没有保障永远都不够。</span><span class="english">No reassurance will ever be enough.</span></p>
 
 <p><span class="chinese">这场胜利让全队吃了一颗定心丸。</span><span class="english">The victory let the team take a reassurance.</span></p>

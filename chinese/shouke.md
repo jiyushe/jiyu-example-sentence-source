@@ -1,5 +1,7 @@
 # 授课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouke.md)
+
 <p><span class="chinese">填鸭式授课还是互动式教学？</span><span class="english">Lecture or Interactive Teaching?</span></p>
 
 <p><span class="chinese">但是瑜伽袜子还不完善，上图中的凯拉.瑞德拥有加利福尼亚，奥哈伊的一家出色的收束瑜伽工作室，她在那里授课。</span><span class="english">Yoga socks are far from perfect.</span></p>

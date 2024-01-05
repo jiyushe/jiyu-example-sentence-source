@@ -1,5 +1,7 @@
 # nonperformance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonperformance.md)
+
 <p><span class="chinese">不履行合同的罚款很重。</span><span class="english">The penalty for nonperformance of contract is heavy.</span></p>
 
 <p><span class="chinese">对不履行债务的人要采取交易限制措施。</span><span class="english">Should adopt to the person of nonperformance debt trade limitative measure.</span></p>

@@ -1,5 +1,7 @@
 # 恰切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaqie.md)
+
 <p><span class="chinese">很难找到恰切的模型来解释这类城市的增长问题。</span><span class="english">We have no adequate models for addressing this kind of urban growth.</span></p>
 
 <p><span class="chinese">选择模式恰切以至有助于研究成果之组织和表达。</span><span class="english">Selected an appropriate format to structure and communicate research findings.</span></p>

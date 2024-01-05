@@ -1,5 +1,7 @@
 # 量力而为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianglierwei.md)
+
 <p><span class="chinese">在家庭遭受巨变时，创业要讲究量力而为。</span><span class="english">Don's overstretch your start-up in times of family upheaval.</span></p>
 
 <p><span class="chinese">至少你得到了一个有价值的教训，就是做事情要量力而为。</span><span class="english">At least you learned a valuable lesson about not getting in over your head.</span></p>

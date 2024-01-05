@@ -1,5 +1,7 @@
 # 新妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfu_2.md)
+
 <p><span class="chinese">就是那新妇的爱。</span><span class="english">That's the bridal love to You.</span></p>
 
 <p><span class="chinese">那灵和新妇说，来！</span><span class="english">And the Spirit and the bride say, Come!</span></p>

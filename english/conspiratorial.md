@@ -1,5 +1,7 @@
 # conspiratorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conspiratorial.md)
+
 <p><span class="chinese">这赢得对方咧嘴一笑。</span><span class="english">It was enough to win a gap-toothed, conspiratorial grin.</span></p>
 
 <p><span class="chinese">同时，她也将重心从对阴谋幻想转入到现实中的不仁道。</span><span class="english">And she has shifted her focus from conspiratorial fantasy to real-life inhumanity.</span></p>

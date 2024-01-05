@@ -1,5 +1,7 @@
 # incompetent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incompetent.md)
+
 <p><span class="chinese">或者我像平常一样无能。</span><span class="english">Or I'm incompetent as usual.</span></p>
 
 <p><span class="chinese">我是个不称职的，不近人情的母亲。</span><span class="english">An incompetent monster of a mother.</span></p>

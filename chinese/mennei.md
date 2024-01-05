@@ -1,5 +1,7 @@
 # 门内
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mennei.md)
+
 <p><span class="chinese">你在门外，她在门内。</span><span class="english">You are outside, and she inside.</span></p>
 
 <p><span class="chinese">我独自坐着，在生命关闭的门内等待着。</span><span class="english">I sit alone, and wait at life ' s shut-door.</span></p>

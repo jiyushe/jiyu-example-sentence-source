@@ -1,5 +1,7 @@
 # infrastructure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infrastructure.md)
+
 <p><span class="chinese">安全的基础设施。</span><span class="english">A security-rich infrastructure.</span></p>
 
 <p><span class="chinese">安新基础设施完善。</span><span class="english">An improved new infrastructure.</span></p>

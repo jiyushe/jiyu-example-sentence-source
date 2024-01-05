@@ -1,5 +1,7 @@
 # tartar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tartar.md)
+
 <p><span class="chinese">不教胡马渡阴山。</span><span class="english">Crossing this mountain no Tartar would dare.</span></p>
 
 <p><span class="chinese">从头开始俄罗斯，你会发现一个鞑。</span><span class="english">Scratch a Russian and you will find a Tartar.</span></p>

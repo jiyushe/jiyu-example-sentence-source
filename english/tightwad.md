@@ -1,5 +1,7 @@
 # tightwad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tightwad.md)
+
 <p><span class="chinese">他是个吝啬鬼。</span><span class="english">He is such a tightwad.</span></p>
 
 <p><span class="chinese">但是极其抠门的人不喜欢成为吝啬鬼。</span><span class="english">But a tightwad doesn't like being a tightwad.</span></p>

@@ -1,5 +1,7 @@
 # cryonics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryonics.md)
+
 <p><span class="chinese">人体冷冻学还处于初始阶段。</span><span class="english">Cryonics is still in its youth.</span></p>
 
 <p><span class="chinese">所以，一个冷冻复苏合同对生存保障来说仍然远远不够。</span><span class="english">So, a cryonics contract is far short of a survival guarantee.</span></p>

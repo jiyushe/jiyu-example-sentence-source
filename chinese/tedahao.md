@@ -1,5 +1,7 @@
 # 特大号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tedahao.md)
+
 <p><span class="chinese">我盘算购件特大号的绿裙子。</span><span class="english">I like to have an extra large green skirt.</span></p>
 
 <p><span class="chinese">给我来一份特大号的快餐，我很饿。</span><span class="english">Please super-size my meal, I am ver hungry.</span></p>

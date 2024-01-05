@@ -1,5 +1,7 @@
 # vindicator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vindicator.md)
+
 <p><span class="chinese">复仇铁卫是正义的帝国皇帝的利斧！</span><span class="english">The Emperor is just, and the Vindicator his axe!</span></p>
 
 <p><span class="chinese">有没有人可以在神面前作为我的中保和辩护人？</span><span class="english">Is there someone who can be my mediator, my vindicator before God?</span></p>

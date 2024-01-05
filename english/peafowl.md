@@ -1,5 +1,7 @@
 # peafowl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peafowl.md)
+
 <p><span class="chinese">孔雀不管大小，都善于飞行，晚上在树上栖息。</span><span class="english">Peafowl fly well despite their size, and roost in trees at night.</span></p>
 
 <p><span class="chinese">新城疫病毒可引起小鸡、孔雀、野鸡、鹌鹑、鸽子强烈的临床症状。</span><span class="english">Clinical NDV is most severe in chickens , peafowl , pheasant, quail and pigeons.</span></p>

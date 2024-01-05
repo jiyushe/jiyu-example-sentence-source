@@ -1,5 +1,7 @@
 # stealth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stealth.md)
+
 <p><span class="chinese">隐形战机？看起来就像是F-15飞机的复制品。</span><span class="english">Stealth? It looks like an F-15 copy.</span></p>
 
 <p><span class="chinese">跟踪野竖动物必鸯悄然无声。</span><span class="english">Tracking wild animals requires stealth.</span></p>

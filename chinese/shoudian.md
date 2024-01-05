@@ -1,5 +1,7 @@
 # 手电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoudian.md)
+
 <p><span class="chinese">谁有手电？</span><span class="english">Does anyone have a flashlight?</span></p>
 
 <p><span class="chinese">手电借我用用好吗？</span><span class="english">Lend me your flashlight, will you?</span></p>

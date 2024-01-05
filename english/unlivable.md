@@ -1,5 +1,7 @@
 # unlivable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlivable.md)
+
 <p><span class="chinese">地球上一些最美丽的零海拔城市将会变得不宜居住。</span><span class="english">Some of the world's greatest sea-level cities would become unlivable.</span></p>
 
 <p><span class="chinese">如果我们把地球当作城市垃圾堆一样对待，地球会变得肮脏不堪，无法生存。</span><span class="english">If we treat the earth like the city dump it becomes dirty and unlivable.</span></p>

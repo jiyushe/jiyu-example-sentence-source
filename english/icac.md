@@ -1,5 +1,7 @@
 # icac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icac.md)
+
 <p><span class="chinese">诚然，廉署在七十年代成立之初，并没有采纳开放策略。</span><span class="english">Admittedly , transparency was not a policy pursued by the icac in its early years.</span></p>
 
 <p><span class="chinese">廉政公署一直给人公正，将贪污罪案绳之于法的正义印象。</span><span class="english">The ICAC has been giving justice, the corruption crime to justice justice impression.</span></p>

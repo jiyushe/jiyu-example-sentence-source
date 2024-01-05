@@ -1,5 +1,7 @@
 # fractionator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fractionator.md)
+
 <p><span class="chinese">气体分馏装置的脱乙烷塔底设有隔板，将塔釜分为两个空间。</span><span class="english">The bottom of LPG fractionator is separated into two spaces by baffle.</span></p>
 
 <p><span class="chinese">提出一种新的催化裂化主分馏塔建模方法。</span><span class="english">A new method establishing models of FCC main fractionator was proposed.</span></p>

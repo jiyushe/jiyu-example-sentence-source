@@ -1,5 +1,7 @@
 # divestiture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divestiture.md)
+
 <p><span class="chinese">您面临着合并、收购或资产剥离。</span><span class="english">You are confronted with a merger, acquisition, or divestiture.</span></p>
 
 <p><span class="chinese">最后还对层次分析法在资产剥离中的应用研究。</span><span class="english">Finally it made research that AHP applied in the course of divestiture.</span></p>

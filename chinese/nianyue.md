@@ -1,5 +1,7 @@
 # 年月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianyue.md)
+
 <p><span class="chinese">一奉寝宫年月多。</span><span class="english">A palace in many years.</span></p>
 
 <p><span class="chinese">作者生卒年月不详。</span><span class="english">The author's dates are unknown.</span></p>

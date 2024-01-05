@@ -1,5 +1,7 @@
 # 打手势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashoushi.md)
+
 <p><span class="chinese">他打手势示意我离开。</span><span class="english">He motioned me away.</span></p>
 
 <p><span class="chinese">他打手势叫我别出声。</span><span class="english">He motioned to me to be silent.</span></p>

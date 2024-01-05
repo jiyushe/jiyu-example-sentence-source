@@ -1,5 +1,7 @@
 # 一败涂地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibaitudi.md)
+
 <p><span class="chinese">你曾经觉得自己一败涂地吗？</span><span class="english">Do you ver feel like breaking down?</span></p>
 
 <p><span class="chinese">我们队星期六一败涂地。</span><span class="english">Our team got clobbered on Saturday.</span></p>

@@ -1,5 +1,7 @@
 # shear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shear.md)
+
 <p><span class="chinese">剪剪风，情思绕。</span><span class="english">Shear Wind, Love in around.</span></p>
 
 <p><span class="chinese">回响现在也作用于风之剪切。</span><span class="english">Reverberation now affects Wind Shear.</span></p>

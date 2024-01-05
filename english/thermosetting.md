@@ -1,5 +1,7 @@
 # thermosetting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermosetting.md)
+
 <p><span class="chinese">热固性粉末涂料固化剂。</span><span class="english">Curing agent for thermosetting powder coatings.</span></p>
 
 <p><span class="chinese">适用于全部热塑性塑料和部分热固性塑料。</span><span class="english">Apply to all parts of thermoplastic and thermosetting plastics.</span></p>

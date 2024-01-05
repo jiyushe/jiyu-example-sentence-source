@@ -1,5 +1,7 @@
 # 假使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashi.md)
+
 <p><span class="chinese">假使非去不可的话，她就得去。</span><span class="english">She shall go, if needs must.</span></p>
 
 <p><span class="chinese">假使事情还能更糟的话，它会的。</span><span class="english">If from can go wrong! it will.</span></p>

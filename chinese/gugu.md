@@ -1,5 +1,7 @@
 # 姑姑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gugu.md)
+
 <p><span class="chinese">他有两个姑姑。</span><span class="english">He has two aunts.</span></p>
 
 <p><span class="chinese">我的姑姑是一个兽医。</span><span class="english">My aunt is a vet.</span></p>

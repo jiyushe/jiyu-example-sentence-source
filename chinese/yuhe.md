@@ -1,5 +1,7 @@
 # 愈合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhe.md)
+
 <p><span class="chinese">伤口愈合得很快。</span><span class="english">The wound healed quickly.</span></p>
 
 <p><span class="chinese">无感染、死亡及骨不愈合病例。</span><span class="english">No infection, death and disunion.</span></p>

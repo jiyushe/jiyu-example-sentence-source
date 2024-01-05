@@ -1,5 +1,7 @@
 # boots
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boots.md)
+
 <p><span class="chinese">这是我的雨鞋。</span><span class="english">These are my boots.</span></p>
 
 <p><span class="chinese">穿上新棉靴。</span><span class="english">Get my new boots on.</span></p>

@@ -1,5 +1,7 @@
 # 糖霜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangshuang.md)
+
 <p><span class="chinese">额外添加浸渍叉的糖霜</span><span class="english">Extra icing sugar for dipping fork</span></p>
 
 <p><span class="chinese">在蛋糕顶上均匀地铺一层糖霜。</span><span class="english">I need a top to go with these slacks.</span></p>

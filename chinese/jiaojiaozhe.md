@@ -1,5 +1,7 @@
 # 佼佼者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojiaozhe.md)
+
 <p><span class="chinese">在所有的姊妹中她是佼佼者。</span><span class="english">She outshines all her sisters.</span></p>
 
 <p><span class="chinese">我认为，他将会成为出色球员中的佼佼者。</span><span class="english">I think he will be the best of the best.</span></p>

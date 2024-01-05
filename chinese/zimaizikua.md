@@ -1,5 +1,7 @@
 # 自卖自夸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimaizikua.md)
+
 <p><span class="chinese">但是到2009年，默克尔拿什么来自卖自夸呢？</span><span class="english">What will Ms Merkel boast in 2009?</span></p>
 
 <p><span class="chinese">她认为，在一些圆滑的营销活动推助下，商学院过分自卖自夸。</span><span class="english">It is oversold by business schools with slick marketing campaigns.</span></p>

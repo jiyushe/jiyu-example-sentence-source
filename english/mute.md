@@ -1,5 +1,7 @@
 # mute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mute.md)
+
 <p><span class="chinese">求求你，为什么这样子？</span><span class="english">Prithee, why so mute?</span></p>
 
 <p><span class="chinese">美是无言的欺骗。</span><span class="english">Beaty is a mute deception.</span></p>

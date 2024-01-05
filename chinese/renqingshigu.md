@@ -1,5 +1,7 @@
 # 人情世故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renqingshigu.md)
+
 <p><span class="chinese">我想你当律师总阅过不少人情世故吧！</span><span class="english">I suppose you saw a lot of human nature as a solicitor.</span></p>
 
 <p><span class="chinese">他觉得人们看不起他不懂人情世故。</span><span class="english">He felt people were contemptuous of his lack of sophistication.</span></p>

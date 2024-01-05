@@ -1,5 +1,7 @@
 # autocorrect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autocorrect.md)
+
 <p><span class="chinese">此自动更正词条不存在。</span><span class="english">This autocorrect entry does not exist.</span></p>
 
 <p><span class="chinese">在“工具”菜单上，单击“自动更正”选项。</span><span class="english">On the Tools menu, click AutoCorrect Options.</span></p>

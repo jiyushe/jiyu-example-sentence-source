@@ -1,5 +1,7 @@
 # completeness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/completeness.md)
+
 <p><span class="chinese">全船房舱完整性提交。</span><span class="english">Completeness of all cabins to be inspection.</span></p>
 
 <p><span class="chinese">难以确定信息的完整性</span><span class="english">Difficult to determine information completeness</span></p>

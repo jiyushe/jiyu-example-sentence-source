@@ -1,5 +1,7 @@
 # 开外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiwai.md)
+
 <p><span class="chinese">他有60开外了。</span><span class="english">He is over sixty.</span></p>
 
 <p><span class="chinese">二十码开外，他回望了。</span><span class="english">Twenty yards away, he glanced back.</span></p>

@@ -1,5 +1,7 @@
 # 特邀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teyao.md)
+
 <p><span class="chinese">她作为特邀客人参加电视讨论会。</span><span class="english">She is guesting on a television panel show.</span></p>
 
 <p><span class="chinese">特邀外籍运动员必须凭护照在特邀运动员检录区进行检录。</span><span class="english">Elite athletes shall go to the call room with passports.</span></p>

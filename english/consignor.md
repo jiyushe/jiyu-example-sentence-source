@@ -1,5 +1,7 @@
 # consignor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consignor.md)
+
 <p><span class="chinese">一具男人的尸体，一位死去的委托者，一个目标。</span><span class="english">A dead body of a male adult a dead consignor a target.</span></p>
 
 <p><span class="chinese">请在合同中注明发货方及收货方。</span><span class="english">Please indicate the consignor and consignee in the contract.</span></p>

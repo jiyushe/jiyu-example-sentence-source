@@ -1,5 +1,7 @@
 # diva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diva.md)
+
 <p><span class="chinese">他是否喜欢天后歌手？</span><span class="english">Does he like diva singers?</span></p>
 
 <p><span class="chinese">让我们用热烈的掌声欢迎流行天后李玟！</span><span class="english">Let's give it up for pop diva Coco Lee!</span></p>

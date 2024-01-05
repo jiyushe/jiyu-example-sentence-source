@@ -1,5 +1,7 @@
 # controversial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/controversial.md)
+
 <p><span class="chinese">他是一个有争议的人物。</span><span class="english">He is a controversial figure.</span></p>
 
 <p><span class="chinese">当然也是非常有争议的话题。</span><span class="english">Of course, it's controversial.</span></p>

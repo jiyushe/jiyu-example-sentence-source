@@ -1,5 +1,7 @@
 # 私了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siliao.md)
+
 <p><span class="chinese">事情终于以私了结束。</span><span class="english">The matter was finally settled under the table.</span></p>
 
 <p><span class="chinese">出于对法律的无知，我们把这件事私了了。</span><span class="english">Being ignorant of laws, they settled the matter out of court.</span></p>

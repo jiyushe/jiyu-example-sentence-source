@@ -1,5 +1,7 @@
 # 塔座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tazuo.md)
+
 <p><span class="chinese">鸡足莲花山金刚塔座受持梵网经菩萨心地法门品。</span><span class="english">Receiving the heart of brahma net sutra in jizulutos mountain.</span></p>
 
 <p><span class="chinese">塔座周围有砖雕歌舞伎，是辽代砖雕艺术的珍品。</span><span class="english">Tazuo surrounded by brick Kabuki is a Liao Dynasty brick art treasures.</span></p>

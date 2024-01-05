@@ -1,5 +1,7 @@
 # bionics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bionics.md)
+
 <p><span class="chinese">仿生学是一门新的科学。</span><span class="english">Bionics is a new science.</span></p>
 
 <p><span class="chinese">你就会对仿生学的重要性恍然大悟。</span><span class="english">The importance of bionics suddenly hits you.</span></p>

@@ -1,5 +1,7 @@
 # stone 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stone.md)
+
 <p><span class="chinese">岩石峡谷。</span><span class="english">Stone Canyon.</span></p>
 
 <p><span class="chinese">石冷死了。</span><span class="english">Stone cold dead.</span></p>

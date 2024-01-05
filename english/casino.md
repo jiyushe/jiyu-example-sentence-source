@@ -1,5 +1,7 @@
 # casino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casino.md)
+
 <p><span class="chinese">马德里几乎不下雪。</span><span class="english">En Madrid casino nieva.</span></p>
 
 <p><span class="chinese">关于赌场中扑克牌桌的示例</span><span class="english">The Casino Poker Table example</span></p>

@@ -1,5 +1,7 @@
 # 活宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huobao.md)
+
 <p><span class="chinese">老格林真是个活宝。</span><span class="english">Old Green is areal card.</span></p>
 
 <p><span class="chinese">他被选为班里的活宝。</span><span class="english">He was voted class clown.</span></p>

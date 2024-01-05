@@ -1,5 +1,7 @@
 # 灵柩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingjiu.md)
+
 <p><span class="chinese">我们把旗帜覆盖在灵柩上。</span><span class="english">We draped the flag round the coffin.</span></p>
 
 <p><span class="chinese">我用玫瑰盖满他的灵柩。</span><span class="english">I covered his coffin with the largest.</span></p>

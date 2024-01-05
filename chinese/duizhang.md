@@ -1,5 +1,7 @@
 # 对仗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duizhang.md)
+
 <p><span class="chinese">他解释说，“当你评判完整的表达时，还需考虑语句对仗的问题。</span><span class="english">When you look at the whole expression there's a symmetry about this.</span></p>
 
 <p><span class="chinese">这首诗的第一节和第二节的音节对仗工整。</span><span class="english">The first and second stanzas of this poem parallel with each other neatly.</span></p>

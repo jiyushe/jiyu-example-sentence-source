@@ -1,5 +1,7 @@
 # sewage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sewage.md)
+
 <p><span class="chinese">WQD工程用泵。排污泵。</span><span class="english">WQD project pump. sewage pump.</span></p>
 
 <p><span class="chinese">供试污泥呈酸性。</span><span class="english">The tested sewage sludge is acid.</span></p>

@@ -1,5 +1,7 @@
 # 浴巾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yujin_1.md)
+
 <p><span class="chinese">我们应带上浴巾和防晒剂。</span><span class="english">We should pack beach towels and sunscreen.</span></p>
 
 <p><span class="chinese">毛巾，浴巾，枕巾，胚布。</span><span class="english">Towel, Bath Towel, Towel Blanket, Grey Fabric.</span></p>

@@ -1,5 +1,7 @@
 # voucher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voucher.md)
+
 <p><span class="chinese">我必须认识他的保证人。</span><span class="english">I must know his voucher.</span></p>
 
 <p><span class="chinese">这是给您的赠券，因为您打了个幸运分。</span><span class="english">Here is a voucher for your lucky score.</span></p>

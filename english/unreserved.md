@@ -1,5 +1,7 @@
 # unreserved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unreserved.md)
+
 <p><span class="chinese">还有没有一等舱的船票？</span><span class="english">Are there any unreserved first class cabin?</span></p>
 
 <p><span class="chinese">拍卖将于10月16日举行，采用无底价方式，竞拍成功者可携6人与老马共进午餐。</span><span class="english">The unreserved auction will be held on October 16.</span></p>

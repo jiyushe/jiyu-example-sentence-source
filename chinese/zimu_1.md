@@ -1,5 +1,7 @@
 # 子目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimu_1.md)
+
 <p><span class="chinese">这些字母相应的子目分别代表的是红色，黄色，绿色以及蓝色。</span><span class="english">These letters correspond to the colors red, yellow, green, and blue, respectively.</span></p>
 
 <p><span class="chinese">然后采用最大最小原则，逐步搜索子目标点，最终到达目标。</span><span class="english">Then the max-min principle is used to search sub-goal points till it reaches the goal.</span></p>

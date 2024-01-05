@@ -1,5 +1,7 @@
 # luck 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luck.md)
+
 <p><span class="chinese">运气不好。</span><span class="english">No luck.</span></p>
 
 <p><span class="chinese">好运齐来！</span><span class="english">Luck Come!</span></p>

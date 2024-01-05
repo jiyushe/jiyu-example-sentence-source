@@ -1,5 +1,7 @@
 # paladin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paladin.md)
+
 <p><span class="chinese">关于帕拉丁级的变化。</span><span class="english">Concerning Paladin class changes.</span></p>
 
 <p><span class="chinese">他只是个徒有虚名的游侠罢了。</span><span class="english">He is poor apology for a paladin.</span></p>

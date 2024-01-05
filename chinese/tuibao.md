@@ -1,5 +1,7 @@
 # 退保
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuibao.md)
+
 <p><span class="chinese">只适用于退保时已遗失保单。</span><span class="english">Only applicable to surrender with the policy lost.</span></p>
 
 <p><span class="chinese">在投保初期的几年里，可能也会收取一定的退保费用。</span><span class="english">There may also be surrender charges in the early years.</span></p>

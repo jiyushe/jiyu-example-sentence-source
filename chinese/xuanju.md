@@ -1,5 +1,7 @@
 # 选举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanju.md)
+
 <p><span class="chinese">这次选举是一场骗局。</span><span class="english">The election is a fraud.</span></p>
 
 <p><span class="chinese">我们再一次选举他为班长。</span><span class="english">We re-elected him monitor.</span></p>

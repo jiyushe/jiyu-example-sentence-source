@@ -1,5 +1,7 @@
 # 占星术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanxingshu.md)
+
 <p><span class="chinese">弗兰克不相信占星术。</span><span class="english">Frank disbelieved in astrology.</span></p>
 
 <p><span class="chinese">天文学的前身是占星术。</span><span class="english">Astronomy inherits from astrology.</span></p>

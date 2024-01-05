@@ -1,5 +1,7 @@
 # 燕尾服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanweifu.md)
+
 <p><span class="chinese">我要为婚礼去定作一件燕尾服。</span><span class="english">I need to get a custom-made Tuxedo for my wedding.</span></p>
 
 <p><span class="chinese">于是我身着盛装，他穿着帅气的燕尾服——手拉着手一起去麦当劳吃了顿晚餐。</span><span class="english">I dressed up, he had a tux on. We went to McDonalds.</span></p>

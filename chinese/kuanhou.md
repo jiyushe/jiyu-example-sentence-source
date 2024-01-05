@@ -1,5 +1,7 @@
 # 宽厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanhou.md)
+
 <p><span class="chinese">在这笔债务上他对我很宽厚。</span><span class="english">He was very easy with me on that debt.</span></p>
 
 <p><span class="chinese">这样一种比较也许是过于宽厚了。</span><span class="english">Even that may be too kind a comparison.</span></p>

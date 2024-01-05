@@ -1,5 +1,7 @@
 # distributor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distributor.md)
+
 <p><span class="chinese">我不知道配电盘在什么部位。</span><span class="english">I'm not sure where the distributor is.</span></p>
 
 <p><span class="chinese">拆下分电盘盖和电线。</span><span class="english">Remove the distributor cap and wiring.</span></p>

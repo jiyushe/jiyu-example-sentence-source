@@ -1,5 +1,7 @@
 # 充电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongdian.md)
+
 <p><span class="chinese">我们必须重新充充电了。</span><span class="english">We need to be re-wired.</span></p>
 
 <p><span class="chinese">检查并为雷达充电。</span><span class="english">Check and charge the GPR.</span></p>

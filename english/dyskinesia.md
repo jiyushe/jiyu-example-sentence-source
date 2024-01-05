@@ -1,5 +1,7 @@
 # dyskinesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyskinesia.md)
+
 <p><span class="chinese">患有运动障碍的人可能无法交到朋友。</span><span class="english">People with dyskinesia can have trouble making friends.</span></p>
 
 <p><span class="chinese">迟发性运动障碍也作为可能的并发症被写入其中。</span><span class="english">Tardive dyskinesia also is mentioned as a possible complication.</span></p>

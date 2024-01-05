@@ -1,5 +1,7 @@
 # 水肿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhong.md)
+
 <p><span class="chinese">且试验组肺组织水肿明显轻微。</span><span class="english">Morever, histologic tissue edema was mild.</span></p>
 
 <p><span class="chinese">STIR成像能更敏感地发现骨髓水肿。</span><span class="english">STIR is more sensitive in discovering BME.</span></p>

@@ -1,5 +1,7 @@
 # 位置
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizhi_2.md)
+
 <p><span class="chinese">位置服务。</span><span class="english">Location services.</span></p>
 
 <p><span class="chinese">山是不会变换位置的。</span><span class="english">It does not change.</span></p>

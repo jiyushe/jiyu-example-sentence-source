@@ -1,5 +1,7 @@
 # 机缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiyuan.md)
+
 <p><span class="chinese">这绝不可能是机缘巧合。</span><span class="english">This is no chance coincidence.</span></p>
 
 <p><span class="chinese">命运，到底是讲机缘、「整定」，还是计选择？</span><span class="english">Is destiny a matter of chance or choice?</span></p>

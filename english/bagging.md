@@ -1,5 +1,7 @@
 # bagging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bagging.md)
+
 <p><span class="chinese">于是请店员整理、装袋。</span><span class="english">So please clerk sorting, bagging.</span></p>
 
 <p><span class="chinese">就连装杂货的男孩好像都感觉到了。</span><span class="english">Even the boy bagging groceries seemed to sense it.</span></p>

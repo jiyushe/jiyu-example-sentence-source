@@ -1,5 +1,7 @@
 # burp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burp.md)
+
 <p><span class="chinese">我经常都打嗝。</span><span class="english">I can burp on command.</span></p>
 
 <p><span class="chinese">不要这么大声打嗝，那样不礼貌。</span><span class="english">Don’t burp so loud. It’s not polite.</span></p>

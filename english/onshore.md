@@ -1,5 +1,7 @@
 # onshore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onshore.md)
+
 <p><span class="chinese">风力农场分向岸和向海两种形式。</span><span class="english">Wind farms come in onshore and offshore forms.</span></p>
 
 <p><span class="chinese">水手们把船停靠在码头上，上岸去了。</span><span class="english">Sailors moored their boat to a dock and went onshore.</span></p>

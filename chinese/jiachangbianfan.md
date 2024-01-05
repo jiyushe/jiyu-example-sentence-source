@@ -1,5 +1,7 @@
 # 家常便饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiachangbianfan.md)
+
 <p><span class="chinese">请来吃顿家常便饭。</span><span class="english">Come along and take potluck.</span></p>
 
 <p><span class="chinese">在我的国家里政变也是家常便饭。</span><span class="english">We've had a lot of coups in my country too.</span></p>

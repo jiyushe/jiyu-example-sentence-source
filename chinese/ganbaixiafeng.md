@@ -1,5 +1,7 @@
 # 甘拜下风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganbaixiafeng.md)
+
 <p><span class="chinese">我对你真是甘拜下风。</span><span class="english">I've really got to hand it to you.</span></p>
 
 <p><span class="chinese">对雅虎来说，它这是在搜索业务上甘拜下风了。</span><span class="english">As for Yahoo, it's throwing in the towel on search.</span></p>

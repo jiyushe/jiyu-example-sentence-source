@@ -1,5 +1,7 @@
 # thymol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thymol.md)
+
 <p><span class="chinese">本法结果与用甲基麝香草酚蓝为试剂的比色法一致。</span><span class="english">The result of this method is consistent with the colorimetry which uses methyl thymol blue as reagent.</span></p>
 
 <p><span class="chinese">另一种成分麝香草酚，也具有杀灭细菌的效果，其显著的特点为渗透性良好。</span><span class="english">Another ingredient thymol which also can kill bacteria has a obvious character that is good penetration.</span></p>

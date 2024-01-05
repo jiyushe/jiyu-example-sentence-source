@@ -1,5 +1,7 @@
 # 过客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoke.md)
+
 <p><span class="chinese">在TSR上你对我来说只是一个过客。</span><span class="english">You're just a random person on TSR to me.</span></p>
 
 <p><span class="chinese">或许那些人只是我生命中的过客。</span><span class="english">May those who just a sojourner in my life.</span></p>

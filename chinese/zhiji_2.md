@@ -1,5 +1,7 @@
 # 知己
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiji_2.md)
+
 <p><span class="chinese">他便是，你的蓝颜知己。</span><span class="english">He is, your male confidant.</span></p>
 
 <p><span class="chinese">如路人一样错过了我们的知己。</span><span class="english">Missed our kind as a pass-by.</span></p>

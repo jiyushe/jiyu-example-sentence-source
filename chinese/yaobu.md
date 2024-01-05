@@ -1,5 +1,7 @@
 # 要不
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaobu.md)
+
 <p><span class="chinese">要不就连朋友都当不成了。</span><span class="english">It cannot even be friends.</span></p>
 
 <p><span class="chinese">要不我是水也行啊。</span><span class="english">Or lets me is Shui Yexing.</span></p>

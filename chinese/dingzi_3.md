@@ -1,5 +1,7 @@
 # 锭子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzi_3.md)
+
 <p><span class="chinese">锭子速度高。</span><span class="english">Higher spindle speed.</span></p>
 
 <p><span class="chinese">锭子和锭胆弯曲或破损。</span><span class="english">Bent or worn spindles and bolsters.</span></p>

@@ -1,5 +1,7 @@
 # 认知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzhi_2.md)
+
 <p><span class="chinese">认知代表思想。</span><span class="english">Cognition-- thoughts.</span></p>
 
 <p><span class="chinese">它有关认知价值。</span><span class="english">It’s about perceived value.</span></p>

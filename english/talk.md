@@ -1,5 +1,7 @@
 # talk 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talk.md)
+
 <p><span class="chinese">是谁生事？</span><span class="english">Who is talk?</span></p>
 
 <p><span class="chinese">他光说不练。</span><span class="english">He' all talk.</span></p>

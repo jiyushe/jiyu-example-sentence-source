@@ -1,5 +1,7 @@
 # motorola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorola.md)
+
 <p><span class="chinese">摩托罗拉随后进行了反诉。</span><span class="english">Motorola subsequently countersued.</span></p>
 
 <p><span class="chinese">摩托罗拉对罗宾声明的回应</span><span class="english">Motorola vouches for Rubin's statement.</span></p>

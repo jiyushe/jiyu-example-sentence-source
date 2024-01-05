@@ -1,5 +1,7 @@
 # 师弟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidi_2.md)
+
 <p><span class="chinese">原来他是流云的师弟皓月。</span><span class="english">He is the brother bright clouds.</span></p>
 
 <p><span class="chinese">师弟死了，被他杀了！</span><span class="english">Younger sibling Shi died, is killed by him!</span></p>

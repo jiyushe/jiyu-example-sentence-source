@@ -1,5 +1,7 @@
 # 天文学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianwenxue.md)
+
 <p><span class="chinese">第一个拿到天文学学位的人。</span><span class="english">First PhD in astronomy.</span></p>
 
 <p><span class="chinese">他对天文学稍有涉猎。</span><span class="english">He dipped into astronomy.</span></p>

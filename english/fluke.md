@@ -1,5 +1,7 @@
 # fluke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluke.md)
+
 <p><span class="chinese">但她绝非侥幸。</span><span class="english">But it was no fluke.</span></p>
 
 <p><span class="chinese">坏打破，福禄克的目标。</span><span class="english">Bad break, fluke goal.</span></p>

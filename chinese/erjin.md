@@ -1,5 +1,7 @@
 # 而今
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erjin.md)
+
 <p><span class="chinese">而今天，我们破土动工。</span><span class="english">Today, we break ground.</span></p>
 
 <p><span class="chinese">而今他就长眠于此。</span><span class="english">Now he is sleeping here.</span></p>

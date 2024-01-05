@@ -1,5 +1,7 @@
 # 悲天悯人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beitianminren.md)
+
 <p><span class="chinese">她的精神和悲天悯人至今仍留存于世。</span><span class="english">Her spirit and compassion live on today.</span></p>
 
 <p><span class="chinese">寒山是唐朝僧人，也是一个悲天悯人的诗人。</span><span class="english">Han Shan was a kind-hearted monk and also a poet.</span></p>

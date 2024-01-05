@@ -1,5 +1,7 @@
 # handcraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handcraft.md)
+
 <p><span class="chinese">您的手艺实在棒极了。</span><span class="english">Your handcraft is really awesome.</span></p>
 
 <p><span class="chinese">景泰蓝是北京的一种传统手工艺品。</span><span class="english">Cloisonne is a traditional handcraft in Beijing.</span></p>

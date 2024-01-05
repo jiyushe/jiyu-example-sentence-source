@@ -1,5 +1,7 @@
 # royally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/royally.md)
+
 <p><span class="chinese">我要重重地赏赐你。</span><span class="english">I will pay thee royally.</span></p>
 
 <p><span class="chinese">另一个好去处就是葡萄酒庄园。</span><span class="english">For another royally good experience, head to the wine gardens.</span></p>

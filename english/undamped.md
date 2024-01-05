@@ -1,5 +1,7 @@
 # undamped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undamped.md)
+
 <p><span class="chinese">它可以是阻尼强迫运动或非阻尼强迫运动。</span><span class="english">This may be damped or undamped forced notion.</span></p>
 
 <p><span class="chinese">无阻尼输入滤波器可能使变换器系统不稳定或者振荡。</span><span class="english">Undamped input filter may cause converter system unstable or oscillation.</span></p>

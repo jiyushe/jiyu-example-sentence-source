@@ -1,5 +1,7 @@
 # sop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sop.md)
+
 <p><span class="chinese">把面包浸在汤中。</span><span class="english">Sop bread in soup.</span></p>
 
 <p><span class="chinese">这对学者而言就像是面包皮。</span><span class="english">This is like the sop to scholars.</span></p>

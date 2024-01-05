@@ -1,5 +1,7 @@
 # trivialize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trivialize.md)
+
 <p><span class="chinese">不要无视我的痛苦。</span><span class="english">Yael, don't trivialize my pain.</span></p>
 
 <p><span class="chinese">太多的影片把暴力描述成是平凡的事。</span><span class="english">Too many films trivialize violence.</span></p>

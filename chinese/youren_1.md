@@ -1,5 +1,7 @@
 # 有人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youren_1.md)
+
 <p><span class="chinese">有人回答吗</span><span class="english">Any takers?</span></p>
 
 <p><span class="chinese">有人在设法贿赂他。</span><span class="english">He's being got at.</span></p>

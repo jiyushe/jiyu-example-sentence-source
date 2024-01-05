@@ -1,5 +1,7 @@
 # nascar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nascar.md)
+
 <p><span class="chinese">如果说高尔夫是体育运动，那么毫无疑问，纳斯卡也是。</span><span class="english">If you accept golf as a sport, NASCAR certainly is a sport.</span></p>
 
 <p><span class="chinese">希望，现在他已经长了足够多的肉以成为一名碰碰车车手。</span><span class="english">Hopefully, by now he has put on enough weight to become a NASCAR driver.</span></p>

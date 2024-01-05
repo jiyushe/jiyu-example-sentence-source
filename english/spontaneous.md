@@ -1,5 +1,7 @@
 # spontaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spontaneous.md)
+
 <p><span class="chinese">成功者是自在的。</span><span class="english">F. A winner can be spontaneous.</span></p>
 
 <p><span class="chinese">这种现象叫做自发恢复。</span><span class="english">This is known as spontaneous recovery.</span></p>

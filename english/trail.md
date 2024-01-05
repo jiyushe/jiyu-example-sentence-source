@@ -1,5 +1,7 @@
 # trail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trail.md)
+
 <p><span class="chinese">参赛者追踪雀鸟踪迹。</span><span class="english">On the trail of a bird.</span></p>
 
 <p><span class="chinese">帝国尔布拉夫斯径。</span><span class="english">The Empire Bluffs Trail.</span></p>

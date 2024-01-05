@@ -1,5 +1,7 @@
 # 迎送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingsong.md)
+
 <p><span class="chinese">小丽在一家宾馆专门负责迎送客人。</span><span class="english">Xiaoli is responsible for receiving customers at a hotel.</span></p>
 
 <p><span class="chinese">当然，老人们只迎送自己家祖先的鬼魂。</span><span class="english">Of course, the old people only welcome and send off the ghost of his family ancestors.</span></p>

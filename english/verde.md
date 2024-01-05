@@ -1,5 +1,7 @@
 # verde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verde.md)
+
 <p><span class="chinese">梅沙而第被公认为是一个特别的地方。</span><span class="english">Mesa Verde is recognized as a special place.</span></p>
 
 <p><span class="chinese">西班牙探险者已经给这一片地区取名为梅萨维德。</span><span class="english">They were up on Mesa Verde. Spanish explorers had named the area.</span></p>

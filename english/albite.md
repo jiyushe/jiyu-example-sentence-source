@@ -1,5 +1,7 @@
 # albite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albite.md)
+
 <p><span class="chinese">经研究，水沫子为钠长石玉。</span><span class="english">Study prove that Shuimozi is albite.</span></p>
 
 <p><span class="chinese">测得岩石中的钠长石主要为低钠长石，属后期交代矿物。</span><span class="english">The albite in this rock is a low-albite, formed by later replacement.</span></p>

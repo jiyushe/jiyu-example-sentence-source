@@ -1,5 +1,7 @@
 # 十年磨一剑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shinianmoyijian.md)
+
 <p><span class="chinese">“十年磨一剑，今日把示君”。</span><span class="english">Grinding sword decades, the show- jun today.</span></p>
 
 <p><span class="chinese">十年磨一剑，创业迄今，让我们品味辉煌，坚定执着。</span><span class="english">Sword 10 years, the venture so far, let us taste glory, a firm commitment.</span></p>

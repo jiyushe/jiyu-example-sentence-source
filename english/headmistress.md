@@ -1,5 +1,7 @@
 # headmistress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headmistress.md)
+
 <p><span class="chinese">我在大厅里碰到了女校长。</span><span class="english">I met the headmistress in the hall.</span></p>
 
 <p><span class="chinese">校长呵，你还算不上是一个女人。</span><span class="english">Headmistress Huh, you are not a woman.</span></p>

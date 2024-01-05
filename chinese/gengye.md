@@ -1,5 +1,7 @@
 # 哽咽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengye.md)
+
 <p><span class="chinese">所有的哽咽汇成一句“没事”</span><span class="english">All choked Huicheng a right.</span></p>
 
 <p><span class="chinese">我答道，哽咽欲泣。</span><span class="english">I answered, a lump in my throat.</span></p>

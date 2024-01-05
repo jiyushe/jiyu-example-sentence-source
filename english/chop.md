@@ -1,5 +1,7 @@
 # chop 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chop.md)
+
 <p><span class="chinese">慧剑一斩。</span><span class="english">Huijian a chop.</span></p>
 
 <p><span class="chinese">我睇到件猪扒啊！</span><span class="english">I saw a pork chop.</span></p>

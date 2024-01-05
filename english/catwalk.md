@@ -1,5 +1,7 @@
 # catwalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catwalk.md)
+
 <p><span class="chinese">潮女街头走秀。</span><span class="english">Tide girls catwalk street charming.</span></p>
 
 <p><span class="chinese">她已经习惯了在走猫步。</span><span class="english">She's quite used to treading the catwalk.</span></p>

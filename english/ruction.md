@@ -1,5 +1,7 @@
 # ruction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruction.md)
+
 <p><span class="chinese">通过硬件软件测试后，基本完成了系统所要求的部分功能。</span><span class="english">After the test of hardware and software, Router completes primarily partial ruction.</span></p>
 
 <p><span class="chinese">该数据库具有操作简便，界面友好、功能强大等特点。</span><span class="english">This database system have merits of easy operation, friendly interface and powerful ruction.</span></p>

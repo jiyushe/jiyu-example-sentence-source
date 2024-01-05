@@ -1,5 +1,7 @@
 # 事实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_2.md)
+
 <p><span class="chinese">我来说明事实。</span><span class="english">I state facts.</span></p>
 
 <p><span class="chinese">接受这个事实。</span><span class="english">Accept this fact.</span></p>

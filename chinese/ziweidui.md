@@ -1,5 +1,7 @@
 # 自卫队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziweidui.md)
+
 <p><span class="chinese">目前日本自卫队的数量是24万人左右。</span><span class="english">Now , the SDF consists of about 240,000 people.</span></p>
 
 <p><span class="chinese">PLA的海军航母并不意味着对抗美帝海军和日本海上自卫队。</span><span class="english">PLAN carriers are not meant for US Navy or JMSDF fleet.</span></p>

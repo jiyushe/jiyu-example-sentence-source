@@ -1,5 +1,7 @@
 # quarterfinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quarterfinal.md)
+
 <p><span class="chinese">在四分之一决赛中客队以7比12输给了主队。</span><span class="english">The visiting team has lost to the local team 7-12 in the quarterfinal.</span></p>
 
 <p><span class="chinese">周六在伊拉克赢得了四分之一决赛胜利之后已发生过街头暴力事件。</span><span class="english">There had been street violence Saturday after Iraq won its quarterfinal game.</span></p>

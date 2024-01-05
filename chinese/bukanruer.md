@@ -1,5 +1,7 @@
 # 不堪入耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukanruer.md)
+
 <p><span class="chinese">这些语言不堪入耳。</span><span class="english">These remarks are intolerable to the ear.</span></p>
 
 <p><span class="chinese">他进来了，叫喊着不堪入耳的咒骂的话。</span><span class="english">He entered vociferating oaths dreadful to her.</span></p>

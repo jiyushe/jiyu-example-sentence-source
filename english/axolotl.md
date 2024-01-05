@@ -1,5 +1,7 @@
 # axolotl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axolotl.md)
+
 <p><span class="chinese">很多年来，美西蝾螈一直令人感到困惑。</span><span class="english">For years people were baffled by the axolotl.</span></p>
 
 <p><span class="chinese">德国诺维汉医学研究中心也已采取措施保护美西螈，把它们做为一种珍贵的物种。</span><span class="english">The Hanover research centre also acts to save the axolotl as a species.</span></p>

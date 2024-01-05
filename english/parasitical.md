@@ -1,5 +1,7 @@
 # parasitical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parasitical.md)
+
 <p><span class="chinese">寄生虫感染，如弓形虫病。</span><span class="english">Parasitical infections , such as toxoplasmosis.</span></p>
 
 <p><span class="chinese">关键在于，要「结果」而不要「寄生」。</span><span class="english">The key is to be fruitful rather than parasitical.</span></p>

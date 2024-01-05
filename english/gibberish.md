@@ -1,5 +1,7 @@
 # gibberish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gibberish.md)
+
 <p><span class="chinese">都是些胡言乱语。</span><span class="english">It's gibberish.</span></p>
 
 <p><span class="chinese">你在睡梦里讲着呓语。</span><span class="english">You were talking gibberish in your sleep.</span></p>

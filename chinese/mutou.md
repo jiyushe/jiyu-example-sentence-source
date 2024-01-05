@@ -1,5 +1,7 @@
 # 木头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mutou.md)
+
 <p><span class="chinese">木头是光滑的。</span><span class="english">The wood is smooth.</span></p>
 
 <p><span class="chinese">它是近的木头海湾吗？</span><span class="english">Is it near Wood Bay?</span></p>

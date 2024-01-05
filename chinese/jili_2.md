@@ -1,5 +1,7 @@
 # 蒺藜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jili_2.md)
+
 <p><span class="chinese">橡树、白蜡树和蒺藜原产于英国。</span><span class="english">Oak, ash and thorn are native English trees.</span></p>
 
 <p><span class="chinese">新生的光梗蒺藜草幼苗其基部叶鞘呈紫红色。</span><span class="english">The basal part of the renascent seedling is mauve.</span></p>

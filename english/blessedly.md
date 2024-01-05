@@ -1,5 +1,7 @@
 # blessedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blessedly.md)
+
 <p><span class="chinese">又有哪些能幸运地发芽。</span><span class="english">And who could sprout up so blessedly.</span></p>
 
 <p><span class="chinese">水深得要命，我和树熊象石头一样沉到底。</span><span class="english">The water was blessedly deep and we went down like stones.</span></p>

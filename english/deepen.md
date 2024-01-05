@@ -1,5 +1,7 @@
 # deepen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deepen.md)
+
 <p><span class="chinese">她的皱纹随年龄增长而变深。</span><span class="english">Her wrinkles deepen with age.</span></p>
 
 <p><span class="chinese">她的皱纹随着年龄增长而加深。</span><span class="english">Her wrinkles deepen with age.</span></p>

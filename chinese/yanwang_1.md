@@ -1,5 +1,7 @@
 # 阎王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanwang_1.md)
+
 <p><span class="chinese">阎王将我拒门外。</span><span class="english">Yet Yama keeps me outside the gate.</span></p>
 
 <p><span class="chinese">阎王说，我的寿命有七十八岁。</span><span class="english">Yama said, I have seventy-year-old life.</span></p>

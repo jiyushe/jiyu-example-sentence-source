@@ -1,5 +1,7 @@
 # crackle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crackle.md)
+
 <p><span class="chinese">信封拿在他手里发出很响的沙沙声。</span><span class="english">The crackle of the envelope in his hands was loud.</span></p>
 
 <p><span class="chinese">清漆涂在未干的油漆上可能会产生裂纹。</span><span class="english">Varnish applied over wet paint is likely to crackle.</span></p>

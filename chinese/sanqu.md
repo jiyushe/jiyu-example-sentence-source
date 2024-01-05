@@ -1,5 +1,7 @@
 # 散曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanqu.md)
+
 <p><span class="chinese">花开花落花无常，曲终曲散曲双亡。</span><span class="english">Whispering flowers bloom impermanence, Qu finale Sanqu sometimes both.</span></p>
 
 <p><span class="chinese">隐逸思想是元散曲的重要主题之一。</span><span class="english">Reclusive idea was one of important themes in lyric verses of Yuan Dynasty.</span></p>

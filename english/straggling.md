@@ -1,5 +1,7 @@
 # straggling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straggling.md)
+
 <p><span class="chinese">粒子射程的涨落称为歧离。</span><span class="english">The fluctuation in range is called straggling.</span></p>
 
 <p><span class="chinese">只见那树林中绿荫丰姿。</span><span class="english">Except the straggling green which hides the wood.</span></p>

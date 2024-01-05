@@ -1,5 +1,7 @@
 # 盈亏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingkui.md)
+
 <p><span class="chinese">月有盈亏圆缺。</span><span class="english">The moon waxes and wanes.</span></p>
 
 <p><span class="chinese">他们同意合伙干，共负盈亏。</span><span class="english">They agreed to work on shares.</span></p>

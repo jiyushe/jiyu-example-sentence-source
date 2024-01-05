@@ -1,5 +1,7 @@
 # monozygotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monozygotic.md)
+
 <p><span class="chinese">同卵双胞胎，他们拥有相同的基因谱。</span><span class="english">You look at identical twins, monozygotic twins who share the same genetic profile.</span></p>
 
 <p><span class="chinese">不过，一旦卵子分裂变化，产生同卵双胞胎，那么在这一过程中，细胞里的性别染色体就会发生缺失现象。</span><span class="english">But if the egg divides to produce monozygotic twins, a chromosome may be lost in the process.</span></p>

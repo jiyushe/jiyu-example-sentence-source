@@ -1,5 +1,7 @@
 # umbrage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/umbrage.md)
+
 <p><span class="chinese">所有事情都使专制君主生气。</span><span class="english">Everything gives umbrage to a tyranny.</span></p>
 
 <p><span class="chinese">一种用作庇护所的小建筑。</span><span class="english">Sheltered in the umBrage of a rain forest.</span></p>

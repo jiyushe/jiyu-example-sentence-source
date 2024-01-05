@@ -1,5 +1,7 @@
 # cheerleading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheerleading.md)
+
 <p><span class="chinese">好吧，我是拉拉队长…</span><span class="english">Okay, I was the cheerleading captain.</span></p>
 
 <p><span class="chinese">场上啦啦队的呐喊声一浪高过一浪。</span><span class="english">Wave upon wave of field cheerleading chants.</span></p>

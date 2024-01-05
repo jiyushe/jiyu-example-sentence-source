@@ -1,5 +1,7 @@
 # whomever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whomever.md)
+
 <p><span class="chinese">我送返这些能量到它所属的地方。</span><span class="english">I return such energy to whomever it belongs to.</span></p>
 
 <p><span class="chinese">谁赢得网络桌面，谁就将赢得整个整个财富。</span><span class="english">Whomever wins the Webtop will win the whole stack.</span></p>

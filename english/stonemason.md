@@ -1,5 +1,7 @@
 # stonemason
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stonemason.md)
+
 <p><span class="chinese">她的丈夫是石匠。</span><span class="english">Her husband is a stonemason.</span></p>
 
 <p><span class="chinese">修造猎物然后石匠。</span><span class="english">Build a quarry and then a stonemason.</span></p>

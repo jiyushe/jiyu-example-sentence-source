@@ -1,5 +1,7 @@
 # harrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harrow.md)
+
 <p><span class="chinese">这里是杜恩·哈罗的家吗？</span><span class="english">Is this the home of Doon Harrow?</span></p>
 
 <p><span class="chinese">就会直穿你灵府，冻结你热血。</span><span class="english">Would harrow up thy soul, freeze thy young blood.</span></p>

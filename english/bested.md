@@ -1,5 +1,7 @@
 # bested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bested.md)
+
 <p><span class="chinese">他在辩论中驳倒了她。</span><span class="english">He bested her in the argument.</span></p>
 
 <p><span class="chinese">奥拉狂暴地出手攻击，但艾拉将她击败。</span><span class="english">Aurra attacked ferociously, but Aayla bested her.</span></p>

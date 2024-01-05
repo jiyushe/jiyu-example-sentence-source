@@ -1,5 +1,7 @@
 # supplant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supplant.md)
+
 <p><span class="chinese">没有人能够代替他的工作。</span><span class="english">No man could supplant him.</span></p>
 
 <p><span class="chinese">用一个积极的想法换掉它吧。</span><span class="english">Supplant it with a constructive thought.</span></p>

@@ -1,5 +1,7 @@
 # deliveryman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deliveryman.md)
+
 <p><span class="chinese">但是对于一个送货员来说事情又不同了。</span><span class="english">But to a deliveryman things are different.</span></p>
 
 <p><span class="chinese">刚才在这儿的那个送货人到哪儿去了？</span><span class="english">Where's the deliveryman who was just here?</span></p>

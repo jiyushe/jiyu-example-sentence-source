@@ -1,5 +1,7 @@
 # captaincy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/captaincy.md)
+
 <p><span class="chinese">罗宾范佩西准备好接任阿森纳队长一职。</span><span class="english">Robin van Persie is ready for the Arsenal captaincy.</span></p>
 
 <p><span class="chinese">马克一心想当那支篮球队的队长。</span><span class="english">Mark has his eye on the captaincy of the basketball team.</span></p>

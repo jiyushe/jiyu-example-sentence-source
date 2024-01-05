@@ -1,5 +1,7 @@
 # blip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blip.md)
+
 <p><span class="chinese">你只是大雷达上波动着的一个小红点。</span><span class="english">You are but a tiny blip on a giant radar.</span></p>
 
 <p><span class="chinese">我不要说这一切只是谈论一丁点儿在我的生命中。</span><span class="english">I don’t say all this just to talk about a blip in my life.</span></p>

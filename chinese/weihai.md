@@ -1,5 +1,7 @@
 # 为害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weihai.md)
+
 <p><span class="chinese">常为害万寿菊和向日葵。</span><span class="english">Often affects marigolds and sunflowers.</span></p>
 
 <p><span class="chinese">梨瘿蚊是为害梨树芽、叶的重要害虫。</span><span class="english">Dasyneura pyri was an important pest of pear.</span></p>

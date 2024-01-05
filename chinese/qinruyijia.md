@@ -1,5 +1,7 @@
 # 亲如一家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinruyijia.md)
+
 <p><span class="chinese">就像兄弟姐妹亲如一家。</span><span class="english">Just like brothers and sisters.</span></p>
 
 <p><span class="chinese">我们亲如一家永不改变。</span><span class="english">We the fam and loyalty never change up.</span></p>

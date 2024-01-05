@@ -1,5 +1,7 @@
 # jeopardise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeopardise.md)
+
 <p><span class="chinese">“我个人强烈抗议那么多明显的违法行为，我不会屈服于这个危险的把戏，”前总理穆萨维说，“这一结果会危害伊斯兰共和国的支柱，并且建立暴政。”</span><span class="english">The result will jeopardise the pillars of the Islamic republic and establish tyranny.</span></p>
 
 <p><span class="chinese">乔维尔与旅游部次官萧恩．伍德瓦德担心，床铺税如付诸实施，会危及国内旅游业。</span><span class="english">Jowell and Shaun Woodward , the Tourism Minister, fear that the tax will jeopardise domestic tourism.</span></p>

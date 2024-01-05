@@ -1,5 +1,7 @@
 # copperhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copperhead.md)
+
 <p><span class="chinese">当我可以使用索梅罗铜斑蛇激光整平机？</span><span class="english">When Can I Use A Somero CopperHead Laser Screed?</span></p>
 
 <p><span class="chinese">其实正确的铜斑蛇，通过具体的驱动器。</span><span class="english">The CopperHead actually drives right through the concrete.</span></p>

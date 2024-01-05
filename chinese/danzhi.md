@@ -1,5 +1,7 @@
 # 胆汁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danzhi.md)
+
 <p><span class="chinese">分泌胆汁，以助消化食物中的脂肪。</span><span class="english">Making bile to help digest fats from food.</span></p>
 
 <p><span class="chinese">在两餐之间，胆汁被储存在胆囊。</span><span class="english">Between meals, bile is stored in the gall bladder.</span></p>

@@ -1,5 +1,7 @@
 # and 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/and.md)
+
 <p><span class="chinese">山姆和谁？</span><span class="english">Sam and?</span></p>
 
 <p><span class="chinese">那不明飞行物呢？</span><span class="english">And UFOs?</span></p>

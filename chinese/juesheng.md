@@ -1,5 +1,7 @@
 # 决胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juesheng.md)
+
 <p><span class="chinese">要跟我打篮球一决胜负吗？</span><span class="english">Want to play me in basketball?</span></p>
 
 <p><span class="chinese">栗田还惦记着一个重大的决胜因素。</span><span class="english">Kurita had one more major factor to bear in mind.</span></p>

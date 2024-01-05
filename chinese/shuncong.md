@@ -1,5 +1,7 @@
 # 顺从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuncong.md)
+
 <p><span class="chinese">他们强制顺从。</span><span class="english">They enforce conformity.</span></p>
 
 <p><span class="chinese">乔纳森顺从地点点头。</span><span class="english">Jonathan nodded obediently.</span></p>

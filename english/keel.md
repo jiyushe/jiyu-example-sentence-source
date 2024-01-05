@@ -1,5 +1,7 @@
 # keel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keel.md)
+
 <p><span class="chinese">我船将在30分钟内平吃水。</span><span class="english">I will be on even keel within 30 minutes.</span></p>
 
 <p><span class="chinese">她做起事来几乎都是四平八稳的。</span><span class="english">She does almost everything on an even keel.</span></p>

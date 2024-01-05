@@ -1,5 +1,7 @@
 # 兼而有之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianeryouzhi.md)
+
 <p><span class="chinese">但猫眼石，却可能兼而有之。</span><span class="english">Opals, though, might be both.</span></p>
 
 <p><span class="chinese">但猫眼石，却可能兼而有之。</span><span class="english">Opals , though, might be both.</span></p>

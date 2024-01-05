@@ -1,5 +1,7 @@
 # guideline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guideline.md)
+
 <p><span class="chinese">这个标准是不错的。</span><span class="english">That's pretty much the guideline.</span></p>
 
 <p><span class="chinese">这是一条简单的设计指导原则。</span><span class="english">This is a simple design guideline.</span></p>

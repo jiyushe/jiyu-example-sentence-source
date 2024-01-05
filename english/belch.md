@@ -1,5 +1,7 @@
 # belch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belch.md)
+
 <p><span class="chinese">烟囱里冒出烟。</span><span class="english">Chimneys belch out smoke.</span></p>
 
 <p><span class="chinese">饱嗝，说，“嘿，你不</span><span class="english">belch and say, "HEY, YOU DON'T</span></p>

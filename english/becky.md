@@ -1,5 +1,7 @@
 # becky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/becky.md)
+
 <p><span class="chinese">李璧琦和我在台上。</span><span class="english">Becky and I on stage.</span></p>
 
 <p><span class="chinese">跟我说话的人是贝基·布朗吗？</span><span class="english">Am I talking to Becky Brown?</span></p>

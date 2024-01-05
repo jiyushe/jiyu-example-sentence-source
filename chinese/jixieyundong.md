@@ -1,5 +1,7 @@
 # 机械运动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixieyundong.md)
+
 <p><span class="chinese">它存在于一切机械运动中。</span><span class="english">It exists in every machine.</span></p>
 
 <p><span class="chinese">拜，是最简单不过，最枯燥不过的机械运动。</span><span class="english">Bowing is the simplest and most boring mechanical movement.</span></p>

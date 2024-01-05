@@ -1,5 +1,7 @@
 # 顺境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunjing.md)
+
 <p><span class="chinese">无论在顺境逆境，他一直对我忠诚。</span><span class="english">He was faithful to me in weal and woe.</span></p>
 
 <p><span class="chinese">译〕顺境显邪恶，逆境见善德。</span><span class="english">Prosperity discovers vices and adversity virtues.</span></p>

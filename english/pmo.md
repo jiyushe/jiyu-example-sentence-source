@@ -1,5 +1,7 @@
 # pmo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pmo.md)
+
 <p><span class="chinese">PMO可以在大型项目内重新调度资源。</span><span class="english">A. PMO can re-allocate resources in the program.</span></p>
 
 <p><span class="chinese">PMO应该在这个团队的博弈过程里面扮演辅助的角色。</span><span class="english">PMO should act as a supporting body to this team game approach.</span></p>

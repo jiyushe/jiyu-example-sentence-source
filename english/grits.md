@@ -1,5 +1,7 @@
 # grits
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grits.md)
+
 <p><span class="chinese">一碗玉米糊。</span><span class="english">One bowl of grits.</span></p>
 
 <p><span class="chinese">他咬牙切齿。</span><span class="english">He grits his teeth.</span></p>

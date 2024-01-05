@@ -1,5 +1,7 @@
 # 下策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiace.md)
+
 <p><span class="chinese">那将是招致失败的下策。</span><span class="english">That would be a losing game.</span></p>
 
 <p><span class="chinese">希望你不要出此下策。</span><span class="english">I hope you will not take such an unwise decision.</span></p>

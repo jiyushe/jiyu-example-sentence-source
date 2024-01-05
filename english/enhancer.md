@@ -1,5 +1,7 @@
 # enhancer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enhancer.md)
+
 <p><span class="chinese">造纸用增强剂及其它助剂。</span><span class="english">Enhancer and other additives for paper making.</span></p>
 
 <p><span class="chinese">就这样，直到我发现了莱威公司的能量增强贴片。</span><span class="english">That is, until she found LifeWave Energy Enhancer patches.</span></p>

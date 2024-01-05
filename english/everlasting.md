@@ -1,5 +1,7 @@
 # everlasting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/everlasting.md)
+
 <p><span class="chinese">永恒战争般的爱情。</span><span class="english">Love as everlasting war.</span></p>
 
 <p><span class="chinese">也可以到天荒地老。</span><span class="english">Also can arrive everlasting.</span></p>

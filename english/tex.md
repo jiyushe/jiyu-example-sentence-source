@@ -1,5 +1,7 @@
 # tex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tex.md)
+
 <p><span class="chinese">相信那句话？</span><span class="english">Believe that tex?</span></p>
 
 <p><span class="chinese">“没有！”特克斯说。</span><span class="english">"It is not! " said Tex.</span></p>

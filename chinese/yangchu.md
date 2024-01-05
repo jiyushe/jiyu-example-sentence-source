@@ -1,5 +1,7 @@
 # 养畜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangchu.md)
+
 <p><span class="chinese">第二个是伯特是一个胖的养畜者。</span><span class="english">The second one Bert was a fat stock breeder.</span></p>
 
 <p><span class="chinese">这就要看胖的范围了，伯特胖,伯特又是个养畜者。</span><span class="english">So is the scope of fat, just that Bert was fat and Bert was a stock breeder.</span></p>

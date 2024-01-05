@@ -1,5 +1,7 @@
 # 不对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budui.md)
+
 <p><span class="chinese">不对，是你呆。</span><span class="english">No, you’re a boob.</span></p>
 
 <p><span class="chinese">不对不对，同志！</span><span class="english">Nyet nyet comrade!</span></p>

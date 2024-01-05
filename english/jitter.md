@@ -1,5 +1,7 @@
 # jitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jitter.md)
+
 <p><span class="chinese">我在设计中采用软件的方式来消除抖动。</span><span class="english">I use the software in the design approach to the elimination of jitter.</span></p>
 
 <p><span class="chinese">静态抖动缓冲器是基于硬件的，它是由厂家来配置的。</span><span class="english">A static jitter buffer is hardware-based and is configured by the manufactures.</span></p>

@@ -1,5 +1,7 @@
 # wander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wander.md)
+
 <p><span class="chinese">我信步走进厨房。</span><span class="english">I wander into the kitchen.</span></p>
 
 <p><span class="chinese">那些游走不定的伤痛。</span><span class="english">Those who wander errant pain.</span></p>

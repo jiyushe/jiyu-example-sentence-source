@@ -1,5 +1,7 @@
 # 自治区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhiqu.md)
+
 <p><span class="chinese">2004年，自治区政府购进20只银狐幼崽并繁殖到284只。</span><span class="english">Local government bought 20 foxes in 2004.</span></p>
 
 <p><span class="chinese">我来自广西壮族自治区。</span><span class="english">I come from Guangxi Zhuang Autonomous Region.</span></p>

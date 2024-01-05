@@ -1,5 +1,7 @@
 # mortise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortise.md)
+
 <p><span class="chinese">通过榫和榫眼而连接在一起。</span><span class="english">Join by a tenon and mortise.</span></p>
 
 <p><span class="chinese">榫眼而连接在一起。</span><span class="english">To fit into a socket or mortise.</span></p>

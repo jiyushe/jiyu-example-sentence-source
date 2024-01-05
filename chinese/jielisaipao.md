@@ -1,5 +1,7 @@
 # 接力赛跑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jielisaipao.md)
+
 <p><span class="chinese">是的，还有200米，400米，800米和接力赛跑。</span><span class="english">Yes, and the 200 metres, the 400</span></p>
 
 <p><span class="chinese">男同学们赢得了接力赛跑，我非常高兴。</span><span class="english">I was very glad when the boys won the relay race.</span></p>

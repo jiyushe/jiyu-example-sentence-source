@@ -1,5 +1,7 @@
 # blackie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackie.md)
+
 <p><span class="chinese">“给布兰奇来杯酒，”我吩咐弗兰克。</span><span class="english">Give Blackie a drink, " I said to Frank."</span></p>
 
 <p><span class="chinese">我多年来一直只用「黑人牙膏」。</span><span class="english">I have just been using " Blackie " for years.</span></p>

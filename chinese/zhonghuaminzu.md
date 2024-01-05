@@ -1,5 +1,7 @@
 # 中华民族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonghuaminzu.md)
+
 <p><span class="chinese">什么才是中华民族的魂？</span><span class="english">What is the soul of a nation?</span></p>
 
 <p><span class="chinese">中华民族历来爱好和平，自古就有和为贵、亲仁善邻的传统。</span><span class="english">The Chinese people love peace.</span></p>

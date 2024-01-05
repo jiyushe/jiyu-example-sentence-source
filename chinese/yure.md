@@ -1,5 +1,7 @@
 # 余热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yure.md)
+
 <p><span class="chinese">的确，她还可以找个地方发挥余热。</span><span class="english">Surely, she was still needed somewhere.</span></p>
 
 <p><span class="chinese">快速跟踪探险之旅将会测量出日本地震后的余热量。</span><span class="english">Fast-tracked expedition will measure fault's residual heat.</span></p>

@@ -1,5 +1,7 @@
 # conflictive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conflictive.md)
+
 <p><span class="chinese">而“孝亲观”便是这一过程的矛盾集中点。</span><span class="english">And the idea of filial duty is the conflictive focus of the process.</span></p>
 
 <p><span class="chinese">在过去的40年中，关于基因材料的话题颇具争议。</span><span class="english">The topic of gene materials has been very conflictive in the last 40 years.</span></p>

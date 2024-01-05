@@ -1,5 +1,7 @@
 # ratification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ratification.md)
+
 <p><span class="chinese">本条约须经批准方可生效。</span><span class="english">The treaty is subject to ratification.</span></p>
 
 <p><span class="chinese">如何办理“外国人入藏旅游批准函”？</span><span class="english">How to handle “the ratification of foreigners' travel to Tibet”?</span></p>

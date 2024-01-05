@@ -1,5 +1,7 @@
 # suicidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suicidal.md)
+
 <p><span class="chinese">这只会自取灭亡。</span><span class="english">This is suicidal.</span></p>
 
 <p><span class="chinese">有自杀或者行凶的冲动。</span><span class="english">Suicidal or homicidal urges.</span></p>

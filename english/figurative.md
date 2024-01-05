@@ -1,5 +1,7 @@
 # figurative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/figurative.md)
+
 <p><span class="chinese">此词在这儿取的是它的比方意义。</span><span class="english">The word here is used in its figurative sense.</span></p>
 
 <p><span class="chinese">直到大概18英里里程碑的时候我才到达第一个身体障碍。</span><span class="english">I didn’t hit the first figurative wall until about the 18 mile mark.</span></p>

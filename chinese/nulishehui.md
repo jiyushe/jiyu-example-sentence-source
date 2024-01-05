@@ -1,5 +1,7 @@
 # 奴隶社会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nulishehui.md)
+
 <p><span class="chinese">这些奴隶社会初期都是一本万利的</span><span class="english">All were highly profitable in their primes.</span></p>
 
 <p><span class="chinese">但五大奴隶社会还是我刚才提的那些</span><span class="english">But the five great slave societies were those five.</span></p>

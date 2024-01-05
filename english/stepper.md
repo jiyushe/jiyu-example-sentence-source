@@ -1,5 +1,7 @@
 # stepper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stepper.md)
+
 <p><span class="chinese">每个线程都可以有一个以上分档器。</span><span class="english">There can be more than one stepper per thread.</span></p>
 
 <p><span class="chinese">步进马达驱动器在输出设备中排在首位。</span><span class="english">Stepper motor driver head the list of output devices.</span></p>

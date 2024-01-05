@@ -1,5 +1,7 @@
 # 家什
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashi_9.md)
+
 <p><span class="chinese">把那家什拿稳了。</span><span class="english">Hold that thing steady.</span></p>
 
 <p><span class="chinese">遗体等著下葬，还有一屋子家什待人清理。</span><span class="english">There's a body to be buried, a house full of stuff to get rid of.</span></p>

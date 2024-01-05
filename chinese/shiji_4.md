@@ -1,5 +1,7 @@
 # 实绩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiji_4.md)
+
 <p><span class="chinese">经济改革和石油开发取得了实绩。</span><span class="english">Reforms and oil have paid off.</span></p>
 
 <p><span class="chinese">下面是收集片段实绩的步骤</span><span class="english">Here are the steps to collect section actuals</span></p>

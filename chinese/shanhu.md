@@ -1,5 +1,7 @@
 # 珊瑚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanhu.md)
+
 <p><span class="chinese">濑鱼在锚珊瑚里。</span><span class="english">Wrasse in anchor coral.</span></p>
 
 <p><span class="chinese">人们称它为树珊瑚。</span><span class="english">So people call them tree corals.</span></p>

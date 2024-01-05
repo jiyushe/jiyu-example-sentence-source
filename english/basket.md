@@ -1,5 +1,7 @@
 # basket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basket.md)
+
 <p><span class="chinese">按一下这个篮子。</span><span class="english">Click on the basket.</span></p>
 
 <p><span class="chinese">什么在这个篮子里面？</span><span class="english">What is in the basket?</span></p>

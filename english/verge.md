@@ -1,5 +1,7 @@
 # verge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verge.md)
+
 <p><span class="chinese">该和平协议目前正在崩溃的边缘。</span><span class="english">That deal is now on the verge of collapse.</span></p>
 
 <p><span class="chinese">该公司快要破产了。</span><span class="english">The company is on the verge of insolvency.</span></p>

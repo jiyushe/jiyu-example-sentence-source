@@ -1,5 +1,7 @@
 # 石炭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitan_1.md)
+
 <p><span class="chinese">侵位于早—中石炭世。</span><span class="english">The emplacement age is the Early-Middle Carboniferous.</span></p>
 
 <p><span class="chinese">为主，确定其地质时代为早石炭世杜内期。</span><span class="english">The geological age is assumed to be Early Carboniferous Tournaisian.</span></p>

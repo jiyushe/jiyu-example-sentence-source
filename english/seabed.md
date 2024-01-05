@@ -1,5 +1,7 @@
 # seabed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seabed.md)
+
 <p><span class="chinese">我们把那条船从海底捞了起来。</span><span class="english">We raised the ship from the seabed.</span></p>
 
 <p><span class="chinese">譬如高高山顶立，深深海底行。</span><span class="english">For example, the high Peak-lap, deep seabed line.</span></p>

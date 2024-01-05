@@ -1,5 +1,7 @@
 # 腐蚀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushi_3.md)
+
 <p><span class="chinese">酸腐蚀金属。</span><span class="english">Acid eats into metal.</span></p>
 
 <p><span class="chinese">酸腐蚀金属物。</span><span class="english">Acid bites into metals.</span></p>

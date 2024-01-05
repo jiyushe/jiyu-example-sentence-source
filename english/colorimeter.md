@@ -1,5 +1,7 @@
 # colorimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorimeter.md)
+
 <p><span class="chinese">该色度计的其中一项读数是红色。</span><span class="english">This colorimeter reading is red.</span></p>
 
 <p><span class="chinese">该色度计的其中一项读数是蓝色。</span><span class="english">This colorimeter reading is blue.</span></p>

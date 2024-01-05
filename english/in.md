@@ -1,5 +1,7 @@
 # in
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/in.md)
+
 <p><span class="chinese">在二战。</span><span class="english">In WWII.</span></p>
 
 <p><span class="chinese">我走了进去。</span><span class="english">I went in.</span></p>

@@ -1,5 +1,7 @@
 # 异味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwei_3.md)
+
 <p><span class="chinese">他们到底有多少异味需要处理？</span><span class="english">How many odors do they have exactly?</span></p>
 
 <p><span class="chinese">没有震动、没有异味、没有噪音。</span><span class="english">There's no vibration, no smell, no noise.</span></p>

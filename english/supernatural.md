@@ -1,5 +1,7 @@
 # supernatural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supernatural.md)
+
 <p><span class="chinese">但是超人并不意味着超自然。</span><span class="english">But superhuman does not mean supernatural.</span></p>
 
 <p><span class="chinese">罪恶没有什么内在的超能力。</span><span class="english">There's nothing inherently supernatural about sin.</span></p>

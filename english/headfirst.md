@@ -1,5 +1,7 @@
 # headfirst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headfirst.md)
+
 <p><span class="chinese">当我来到监狱的时候，我不顾前后地埋首于佛学。</span><span class="english">When I came to prison, I dove into Buddhism headfirst.</span></p>
 
 <p><span class="chinese">一头栽倒在水中后，他感觉到脉搏加快。</span><span class="english">Landing headfirst in the water, he felt his pulse quicken.</span></p>

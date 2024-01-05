@@ -1,5 +1,7 @@
 # 寒光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanguang.md)
+
 <p><span class="chinese">扎达克笑了，可他的蓝眼睛里透着寒光。</span><span class="english">Zadak smiled, but his blue eyes were cold.</span></p>
 
 <p><span class="chinese">扎达克笑了，可他的蓝眼睛里透着寒光。</span><span class="english">Zadak smiled, but his blue eyes were cold.‘No</span></p>

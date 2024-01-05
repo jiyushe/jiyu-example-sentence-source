@@ -1,5 +1,7 @@
 # oceanfront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oceanfront.md)
+
 <p><span class="chinese">堡内还有滨海网球场和海边花园。</span><span class="english">There is also an oceanfront tennis court and coastal gardens.</span></p>
 
 <p><span class="chinese">令人兴奋的事上的海滨高尔夫球场埃尔斯完成。</span><span class="english">Thrill to the oceanfront finish on the Ernie Els golf course.</span></p>

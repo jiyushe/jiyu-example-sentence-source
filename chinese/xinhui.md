@@ -1,5 +1,7 @@
 # 信汇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhui.md)
+
 <p><span class="chinese">我还是将钱通过信汇寄过去吧。</span><span class="english">I could remit it by mail transfer.</span></p>
 
 <p><span class="chinese">我们通过寄航空信件来办理信汇。</span><span class="english">We send the mail transfer by airmail.</span></p>

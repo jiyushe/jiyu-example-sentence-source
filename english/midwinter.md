@@ -1,5 +1,7 @@
 # midwinter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midwinter.md)
+
 <p><span class="chinese">今天是冬至。</span><span class="english">Today is Midwinter Day.</span></p>
 
 <p><span class="chinese">不过这会是一个非常奇怪的仲冬。</span><span class="english">It's just that it will be a very strange midwinter.</span></p>

@@ -1,5 +1,7 @@
 # fot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fot.md)
+
 <p><span class="chinese">这些盒子有什么用？</span><span class="english">What are these boxes fot?</span></p>
 
 <p><span class="chinese">这个假日每个人都享受其中。</span><span class="english">A holiday fot everyone to enjoy.</span></p>

@@ -1,5 +1,7 @@
 # 只字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizi_1.md)
+
 <p><span class="chinese">有关此事对任何人都只字别提。</span><span class="english">Don't breathe a word of this to anyone.</span></p>
 
 <p><span class="chinese">但是仅有一家全国媒体，对此报道了只字片语，轻描淡写而过。</span><span class="english">Barely a word about it has appeared in the national press.</span></p>

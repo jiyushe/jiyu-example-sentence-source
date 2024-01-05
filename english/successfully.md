@@ -1,5 +1,7 @@
 # successfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/successfully.md)
+
 <p><span class="chinese">文件成功恢复了。</span><span class="english">File successfully undeleted.</span></p>
 
 <p><span class="chinese">他们成功地抓到了那个贼。</span><span class="english">The caught the thief successfully.</span></p>

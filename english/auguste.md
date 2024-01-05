@@ -1,5 +1,7 @@
 # auguste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auguste.md)
+
 <p><span class="chinese">你知道怎么杀老虎吗，欧格斯特神父？</span><span class="english">Do you know how you kill a tiger, Father Auguste?</span></p>
 
 <p><span class="chinese">最吸引人注意的是皮埃尔·奥古斯特·雷诺阿的油画。</span><span class="english">The centre of attraction was Pierre Auguste Renoir's oil painting.</span></p>

@@ -1,5 +1,7 @@
 # gamut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gamut.md)
+
 <p><span class="chinese">所以各种不同档次的饮食俱乐部都有。</span><span class="english">So it runs the gamut.</span></p>
 
 <p><span class="chinese">表现色域宽。</span><span class="english">Performance wide color gamut.</span></p>

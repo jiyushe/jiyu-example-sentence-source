@@ -1,5 +1,7 @@
 # ono
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ono.md)
+
 <p><span class="chinese">小野女士问。</span><span class="english">Ms. Ono asked.</span></p>
 
 <p><span class="chinese">你很喜欢大野智。</span><span class="english">You like wisdom of Ono very much.</span></p>

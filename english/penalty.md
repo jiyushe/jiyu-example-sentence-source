@@ -1,5 +1,7 @@
 # penalty 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penalty.md)
+
 <p><span class="chinese">罚点球时千万不可匆忙！</span><span class="english">Don't rush penalty kicks!</span></p>
 
 <p><span class="chinese">不存在罚点球情况。</span><span class="english">There are no penalty kicks.</span></p>

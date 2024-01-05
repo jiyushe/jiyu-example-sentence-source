@@ -1,5 +1,7 @@
 # moroccan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moroccan.md)
+
 <p><span class="chinese">摩洛哥炖菜馆会给你带来最美好的摩洛哥体验。</span><span class="english">Tagine offers the best Moroccan experience in Dubai.</span></p>
 
 <p><span class="chinese">吴邦国邀请奥卡沙参议长和更多的摩洛哥参议员访问中国。</span><span class="english">Wu invited Okacha and more Moroccan senators to visit China.</span></p>

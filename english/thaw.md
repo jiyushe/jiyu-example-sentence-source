@@ -1,5 +1,7 @@
 # thaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thaw.md)
+
 <p><span class="chinese">阳光已开始使地面解冻。</span><span class="english">The sun began to thaw the ground out.</span></p>
 
 <p><span class="chinese">春天解冻引起了洪水泛滥。</span><span class="english">The spring thaw caused heavy flooding.</span></p>

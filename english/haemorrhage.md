@@ -1,5 +1,7 @@
 # haemorrhage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemorrhage.md)
+
 <p><span class="chinese">我这是排卵期出血吗?。</span><span class="english">I is this oviposit period haemorrhage?</span></p>
 
 <p><span class="chinese">女性下部出血是因为什么?。</span><span class="english">Is because, female bottom haemorrhage what?</span></p>

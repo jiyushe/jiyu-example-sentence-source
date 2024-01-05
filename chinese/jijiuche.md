@@ -1,5 +1,7 @@
 # 急救车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijiuche.md)
+
 <p><span class="chinese">在急救车来之前，我们需对他进行CPR急救。</span><span class="english">Before the ambulance comes, he should be given CPR.</span></p>
 
 <p><span class="chinese">其他的尸体，有的仅仅抓着行李，被送上急救车。</span><span class="english">Other, some clutching luggage, were helped into ambulances.</span></p>

@@ -1,5 +1,7 @@
 # eurydice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eurydice.md)
+
 <p><span class="chinese">旁边的姐妹'坐在护士和皇后欧律狄刻。</span><span class="english">Next to the sisters' sits the Nurse and Queen Eurydice.</span></p>
 
 <p><span class="chinese">其中最广为流传的便是奥菲斯与尤丽黛丝的故事。</span><span class="english">One of the most popular is a story about Orpheus and Eurydice.</span></p>

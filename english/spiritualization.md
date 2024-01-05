@@ -1,5 +1,7 @@
 # spiritualization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiritualization.md)
+
 <p><span class="chinese">因此，在经文中连续开展精神文明的构思赎罪。</span><span class="english">Thus there is in Scripture a successive spiritualization of the idea of Atonement.</span></p>
 
 <p><span class="chinese">如此的趋向能被高级文明和精神净化逐渐修正。</span><span class="english">Such tendencies can be modified only by advancing civilization and by gradual spiritualization.</span></p>

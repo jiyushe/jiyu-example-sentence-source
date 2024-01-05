@@ -1,5 +1,7 @@
 # 热带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/redai.md)
+
 <p><span class="chinese">番石榴是一种热带水果，营养异常丰富，和任何其他健康果蔬相比都毫不逊色。</span><span class="english">Guava is a tropical super fruit.</span></p>
 
 <p><span class="chinese">产树胶的树生长在热带地区。</span><span class="english">Gum trees grow in tropical areas.</span></p>

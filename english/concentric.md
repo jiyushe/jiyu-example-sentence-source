@@ -1,5 +1,7 @@
 # concentric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concentric.md)
+
 <p><span class="chinese">同心圆的圆心是一个。</span><span class="english">The centres of concentric circles coincide.</span></p>
 
 <p><span class="chinese">同心加工和镜面抛光球。</span><span class="english">Concentric machined and mirror-polished ball.</span></p>

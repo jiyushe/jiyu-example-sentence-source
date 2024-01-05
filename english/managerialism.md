@@ -1,5 +1,7 @@
 # managerialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/managerialism.md)
+
 <p><span class="chinese">管理主义和宪政主义是贯穿于公共行政发展中的两条线索。</span><span class="english">Managerialism and constitutionalism are two clues during the public administration development.</span></p>
 
 <p><span class="chinese">随着管理主义取代凭直觉和经验去承担风险，动力会逐渐减弱。</span><span class="english">Motivation is gradually diluted as managerialism takes over from seat-of-the-pants risk-taking.</span></p>

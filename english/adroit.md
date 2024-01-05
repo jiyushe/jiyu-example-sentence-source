@@ -1,5 +1,7 @@
 # adroit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adroit.md)
+
 <p><span class="chinese">他是一个圆滑的朝臣。</span><span class="english">He was an adroit courtier.</span></p>
 
 <p><span class="chinese">这样的一本线装书就是在几位姑娘的巧手之下装订好的。</span><span class="english">A thread-sewn book has thus been bound by these adroit girls.</span></p>

@@ -1,5 +1,7 @@
 # striven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/striven.md)
+
 <p><span class="chinese">这正是卡梅伦先生想要看到的，他也曾为此而努力。</span><span class="english">Mr Cameron has striven to make it so.</span></p>
 
 <p><span class="chinese">这正是中国哲学要努力做到的。</span><span class="english">This is what Chinese philosophy has striven for.</span></p>

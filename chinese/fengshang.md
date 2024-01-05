@@ -1,5 +1,7 @@
 # 风尚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengshang.md)
+
 <p><span class="chinese">你对这儿的风尚习性相熟吗？</span><span class="english">Are you familiar with the customs here?</span></p>
 
 <p><span class="chinese">说明风尚蓝湾属于酒店式公寓。</span><span class="english">Fashion Island are hotel-style apartments.</span></p>

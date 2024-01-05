@@ -1,5 +1,7 @@
 # supertanker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supertanker.md)
+
 <p><span class="chinese">一个边长为60英尺的正方形金库房或是一艘大型油轮就可以存放所有的黄金。</span><span class="english">All of it could be stored in a vault 60 feet square ,or a supertanker</span></p>
 
 <p><span class="chinese">这就像是一艘搁浅在北京的美国式消费油轮。</span><span class="english">It looks like a supertanker of American consumerism has run aground in the city.</span></p>

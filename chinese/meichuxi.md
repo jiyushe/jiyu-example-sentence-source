@@ -1,5 +1,7 @@
 # 没出息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meichuxi.md)
+
 <p><span class="chinese">你这没出息的男孩。</span><span class="english">You no-account boy.</span></p>
 
 <p><span class="chinese">而服务业则是留给那些没出息的家伙们做的。</span><span class="english">Services are for sissies.</span></p>

@@ -1,5 +1,7 @@
 # 映红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinghong.md)
+
 <p><span class="chinese">夕阳映红了天空。</span><span class="english">The sunset dyed the sky red.</span></p>
 
 <p><span class="chinese">夕阳映红了天空。</span><span class="english">The sunset dyes the sky red.</span></p>

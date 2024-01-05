@@ -1,5 +1,7 @@
 # 闸口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhakou.md)
+
 <p><span class="chinese">来回神山公园总部至登山闸口之接送。</span><span class="english">Roundtrip transfer between Kinabalu Park HQ & Gate.</span></p>
 
 <p><span class="chinese">三个人死后，当他们到了浅蓝色的闸口。</span><span class="english">Three guys died. When they got to the pearly gates.</span></p>

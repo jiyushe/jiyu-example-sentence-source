@@ -1,5 +1,7 @@
 # 泰然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tairan.md)
+
 <p><span class="chinese">往后，唯有学着自安，泰然。</span><span class="english">Later, only to learn from Ann, calm.</span></p>
 
 <p><span class="chinese">使我在它安静的力量下泰然休憩。</span><span class="english">And rest serene beneath its tranquil power.</span></p>

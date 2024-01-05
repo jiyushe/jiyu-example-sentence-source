@@ -1,5 +1,7 @@
 # 隐退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yintui_1.md)
+
 <p><span class="chinese">“灵隐”这个词的中文意思是“灵魂的隐退”。</span><span class="english">The word "Lingyin" means the "retreat of souls" in Chinese.</span></p>
 
 <p><span class="chinese">如果说，人们期待已久的卡斯特罗的隐退，意味着古巴政策的稳定延续。</span><span class="english">The retirement of Castro, long anticipated, means continuity.</span></p>

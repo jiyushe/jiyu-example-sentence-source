@@ -1,5 +1,7 @@
 # 体魄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tipo.md)
+
 <p><span class="chinese">他曾经拥有健壮的让别人妒忌的体魄。</span><span class="english">He once had a beefy body that others begrudged.</span></p>
 
 <p><span class="chinese">看他棱角分明的下巴和男子汉的体魄！</span><span class="english">Look at his sculpted chin and masculine physique!</span></p>

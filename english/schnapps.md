@@ -1,5 +1,7 @@
 # schnapps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schnapps.md)
+
 <p><span class="chinese">房屋主人端喝一杯酒敬酒。</span><span class="english">The client drinks a toast of schnapps.</span></p>
 
 <p><span class="chinese">这是一种从巴伐利亚黑森林进口的薄荷甜酒。</span><span class="english">Rumple Minze is a peppermint schnapps imported from the Black Forest in Bavaria.</span></p>

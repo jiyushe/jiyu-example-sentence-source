@@ -1,5 +1,7 @@
 # 疫区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqu_1.md)
+
 <p><span class="chinese">所用原料来自于非禽流感疫区。</span><span class="english">The used materials were from non-avian flu epidemic area.</span></p>
 
 <p><span class="chinese">从沙士疫区前来的旅客将被隔离十天。</span><span class="english">Travelers from SARS hot ots are being isolated for 10 days.</span></p>

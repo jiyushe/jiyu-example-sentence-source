@@ -1,5 +1,7 @@
 # intertexture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intertexture.md)
+
 <p><span class="chinese">你和时光交织着。</span><span class="english">You write with time intertexture.</span></p>
 
 <p><span class="chinese">我们将转变为爱恨交织的泪水。</span><span class="english">We will change into a love to hate the tears of the intertexture.</span></p>

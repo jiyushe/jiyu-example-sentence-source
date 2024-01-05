@@ -1,5 +1,7 @@
 # 暖和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuanhuo.md)
+
 <p><span class="chinese">靠着炉火暖和一下。</span><span class="english">Warm up by the fire.</span></p>
 
 <p><span class="chinese">风也暖和起来了。</span><span class="english">The breeze is warmer.</span></p>

@@ -1,5 +1,7 @@
 # lawyer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawyer.md)
+
 <p><span class="chinese">我也是个律师。</span><span class="english">I'm a lawyer too.</span></p>
 
 <p><span class="chinese">他开始了律师的生涯。</span><span class="english">He began as a lawyer.</span></p>

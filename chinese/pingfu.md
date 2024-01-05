@@ -1,5 +1,7 @@
 # 平复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingfu.md)
+
 <p><span class="chinese">事态平复。</span><span class="english">The situation has quieted.</span></p>
 
 <p><span class="chinese">他的声音发颤，于是停顿几秒来平复一下。</span><span class="english">His voice quivered and he paused to steady it.</span></p>

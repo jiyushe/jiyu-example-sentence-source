@@ -1,5 +1,7 @@
 # IQ
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iq.md)
+
 <p><span class="chinese">撒母耳还高智商。</span><span class="english">Samuel had a high IQ.</span></p>
 
 <p><span class="chinese">沙朗斯通的智商为154。</span><span class="english">Sharon Stone's IQ is 154.</span></p>

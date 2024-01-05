@@ -1,5 +1,7 @@
 # representative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/representative.md)
+
 <p><span class="chinese">所以没那么有代表性。</span><span class="english">So I'm not representative.</span></p>
 
 <p><span class="chinese">榕，闽中亦有之。</span><span class="english">Banyan, also have representative.</span></p>

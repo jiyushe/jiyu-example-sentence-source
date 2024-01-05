@@ -1,5 +1,7 @@
 # sizable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sizable.md)
+
 <p><span class="chinese">你很难称这个订货量相当大，对吧？</span><span class="english">You can hardly call it a sizable order, can you?</span></p>
 
 <p><span class="chinese">这对一个大到令人不安的选民群体很有吸引力。</span><span class="english">This appeals to an unsettlingly sizable group of voters.</span></p>

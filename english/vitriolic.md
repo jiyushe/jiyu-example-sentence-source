@@ -1,5 +1,7 @@
 # vitriolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitriolic.md)
+
 <p><span class="chinese">这是一场刻薄的长篇大论，并且变得异常丑陋。</span><span class="english">This is a vitriolic tirade, and it gets ugly.</span></p>
 
 <p><span class="chinese">可以预见，两党的狂热信徒们第一反应都是报之以刻薄之词。</span><span class="english">The initial response from zealots on both sides was predictably vitriolic.</span></p>

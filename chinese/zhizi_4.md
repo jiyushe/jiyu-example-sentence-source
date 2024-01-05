@@ -1,5 +1,7 @@
 # 质子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizi_4.md)
+
 <p><span class="chinese">它必须有6个质子。</span><span class="english">It has to have 6 protons.</span></p>
 
 <p><span class="chinese">我们从质子数开始。</span><span class="english">And we began with the proton number.</span></p>

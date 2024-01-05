@@ -1,5 +1,7 @@
 # velour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/velour.md)
+
 <p><span class="chinese">有红色和黑色丝绒两种颜色。</span><span class="english">It comes in red or black velour.</span></p>
 
 <p><span class="chinese">丝绒质地更加柔软，尺寸也更大。</span><span class="english">Velour provides extra softness and size.</span></p>

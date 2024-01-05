@@ -1,5 +1,7 @@
 # 富足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzu.md)
+
 <p><span class="chinese">商业使一国富足。</span><span class="english">Commerce enriches a nation.</span></p>
 
 <p><span class="chinese">他幻想过一种富足的生活。</span><span class="english">He stargazed about a rich life.</span></p>

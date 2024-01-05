@@ -1,5 +1,7 @@
 # dingy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dingy.md)
+
 <p><span class="chinese">他住在一个恶浊的房子里。</span><span class="english">He lives in a dingy room.</span></p>
 
 <p><span class="chinese">他留给他小间昏暗的房间。</span><span class="english">He left for his small dingy room.</span></p>

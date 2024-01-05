@@ -1,5 +1,7 @@
 # blowpipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blowpipe.md)
+
 <p><span class="chinese">最常见的向风袋输送空气的方法便是用导管。</span><span class="english">The most common method of supplying air to the bag is by a blowpipe.</span></p>
 
 <p><span class="chinese">首先我希望有一个能瞄准的喷射筒。</span><span class="english">First of all I wish for a blowpipe that will hit everything I aim at.</span></p>

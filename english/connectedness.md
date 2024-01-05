@@ -1,5 +1,7 @@
 # connectedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connectedness.md)
+
 <p><span class="chinese">我们都需要一种相互关联的感觉。</span><span class="english">We want a sense of connectedness.</span></p>
 
 <p><span class="chinese">他十分清楚地认识到生活的关联性。</span><span class="english">He is very much aware of the connectedness of life.</span></p>

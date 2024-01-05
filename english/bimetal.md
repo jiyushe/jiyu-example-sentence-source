@@ -1,5 +1,7 @@
 # bimetal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bimetal.md)
+
 <p><span class="chinese">在预设的温度水平，双金属元件进行切换。</span><span class="english">At the preset temperature level the bimetal element is switching.</span></p>
 
 <p><span class="chinese">双金属元件是一种最简单和最常见的传感器。</span><span class="english">The bimetal element is the simplest and most often encountered sensor.</span></p>

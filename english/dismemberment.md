@@ -1,5 +1,7 @@
 # dismemberment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismemberment.md)
+
 <p><span class="chinese">好处是根据您的年龄的死亡时间或支解。</span><span class="english">The Benefit is based on your age at time of Death or Dismemberment.</span></p>
 
 <p><span class="chinese">感觉身体是丑陋的，这种思维已经不仅是分裂的了。</span><span class="english">Well, the sense of the body as grotesque goes beyond just dismemberment.</span></p>

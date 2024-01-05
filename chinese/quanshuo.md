@@ -1,5 +1,7 @@
 # 劝说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanshuo.md)
+
 <p><span class="chinese">我不知道他能否听从您的劝说。</span><span class="english">I wonder if he can take your advice.</span></p>
 
 <p><span class="chinese">我们劝说夏青公开身份。</span><span class="english">Xia Qing persuade our public identity.</span></p>

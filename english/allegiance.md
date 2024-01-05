@@ -1,5 +1,7 @@
 # allegiance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allegiance.md)
+
 <p><span class="chinese">我曾宣誓效忠。</span><span class="english">I pledged allegiance.</span></p>
 
 <p><span class="chinese">我应该值当你们的尽忠。</span><span class="english">I shall be worthy of your allegiance.</span></p>

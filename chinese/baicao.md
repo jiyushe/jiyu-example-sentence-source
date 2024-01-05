@@ -1,5 +1,7 @@
 # 百草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baicao.md)
+
 <p><span class="chinese">成为百草中的至尊。</span><span class="english">Become the King of Herbs.</span></p>
 
 <p><span class="chinese">是我国的传统名贵药材，在民间有“百草之王”的美誉。</span><span class="english">Meyer is a kind of traditional medicines in China.</span></p>

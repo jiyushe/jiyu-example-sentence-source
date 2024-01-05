@@ -1,5 +1,7 @@
 # 同甘共苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonggangongku.md)
+
 <p><span class="chinese">我们必须同甘共苦。</span><span class="english">We must share weal and woe.</span></p>
 
 <p><span class="chinese">在这里，你能找到同甘共苦旳家人。</span><span class="english">Here, you can find the family share.</span></p>

@@ -1,5 +1,7 @@
 # lash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lash.md)
+
 <p><span class="chinese">时间是一根铁鞭。</span><span class="english">Time is an iron lash.</span></p>
 
 <p><span class="chinese">人们可以开始四处针砭时弊</span><span class="english">But they could lash out.</span></p>

@@ -1,5 +1,7 @@
 # plantlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plantlet.md)
+
 <p><span class="chinese">移栽采用蛭石作为苗床基质。</span><span class="english">Vermiculite is the best plantlet substrate.</span></p>
 
 <p><span class="chinese">试管苗移植田间有较高成活率。</span><span class="english">The Survival rate of plantlet is high in field.</span></p>

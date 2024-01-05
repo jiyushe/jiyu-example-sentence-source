@@ -1,5 +1,7 @@
 # briny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/briny.md)
+
 <p><span class="chinese">她咽下自己的咸咸的眼泪。</span><span class="english">She swallowed her briny tears.</span></p>
 
 <p><span class="chinese">谁永远航行在苦咸的深海上？</span><span class="english">Who ever sailed the briny blue?</span></p>

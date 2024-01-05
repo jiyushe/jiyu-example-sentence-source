@@ -1,5 +1,7 @@
 # earthwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthwork.md)
+
 <p><span class="chinese">士兵们赶造起一座土垒。</span><span class="english">The soldiers threw up an earthwork.</span></p>
 
 <p><span class="chinese">土方工程在几小时内就完成了。</span><span class="english">The earthwork was cast up in a few hours.</span></p>

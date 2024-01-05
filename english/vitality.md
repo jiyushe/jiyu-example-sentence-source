@@ -1,5 +1,7 @@
 # vitality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitality.md)
+
 <p><span class="chinese">眉山是一块充满生机与活力的地方。</span><span class="english">Meishan is a place full of vitality.</span></p>
 
 <p><span class="chinese">最具有活力潜力的城市。</span><span class="english">A place of vitality and potentiality.</span></p>

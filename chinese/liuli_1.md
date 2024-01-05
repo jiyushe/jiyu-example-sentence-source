@@ -1,5 +1,7 @@
 # 琉璃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuli_1.md)
+
 <p><span class="chinese">安顺哪里有卖琉璃？</span><span class="english">Where has An Shun to sell coloured glaze?</span></p>
 
 <p><span class="chinese">它有美妙的琉璃双层屋顶。</span><span class="english">It has a fabulous double roof of yellow tiles.</span></p>

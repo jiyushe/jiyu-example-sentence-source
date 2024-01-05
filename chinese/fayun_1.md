@@ -1,5 +1,7 @@
 # 发运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fayun_1.md)
+
 <p><span class="chinese">详细检查首次发运鉴定的计量型数据。</span><span class="english">Review in detail the FPSC variable data.</span></p>
 
 <p><span class="chinese">请按货到付款条件发运下列商品。</span><span class="english">Please send us the following items C. O. D.</span></p>

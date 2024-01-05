@@ -1,5 +1,7 @@
 # vdc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vdc.md)
+
 <p><span class="chinese">该二三○○克是动力由24伏直流电。</span><span class="english">The 2300G is powered from 24 Vdc.</span></p>
 
 <p><span class="chinese">这个VDC里有许多支持毛主义者的人。</span><span class="english">This VDC is one where there is a lot of support for the Maoists.</span></p>

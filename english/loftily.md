@@ -1,5 +1,7 @@
 # loftily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loftily.md)
+
 <p><span class="chinese">当我请求帮助时，他只是高傲地笑了一笑，便转身离开。</span><span class="english">When I asked for help, he just smiled loftily and turned away.</span></p>
 
 <p><span class="chinese">直是奇迹。他从没有像这样把一个崇高的思想崇高地表达出来过。</span><span class="english">It was a miracle. Never had he so loftily framed a lofty thought.</span></p>

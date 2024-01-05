@@ -1,5 +1,7 @@
 # irresponsibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irresponsibility.md)
+
 <p><span class="chinese">它在各个层面上都存在制度的不负责任。</span><span class="english">It contains institutional irresponsibility at every level.</span></p>
 
 <p><span class="chinese">没错，希腊正在为过去不负责任的财政政策付出代价。</span><span class="english">Yes, Greece is paying the price for past fiscal irresponsibility.</span></p>

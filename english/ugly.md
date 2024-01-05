@@ -1,5 +1,7 @@
 # ugly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ugly.md)
+
 <p><span class="chinese">它很丑的啊。</span><span class="english">It’s ugly.</span></p>
 
 <p><span class="chinese">他丑丑的。</span><span class="english">He is ugly.</span></p>

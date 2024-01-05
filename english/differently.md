@@ -1,5 +1,7 @@
 # differently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/differently.md)
+
 <p><span class="chinese">她却有不同的看法。</span><span class="english">She sees it differently.</span></p>
 
 <p><span class="chinese">有些人却有不同的观点。</span><span class="english">Others see it differently.</span></p>

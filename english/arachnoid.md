@@ -1,5 +1,7 @@
 # arachnoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arachnoid.md)
+
 <p><span class="chinese">图中显示的是蛛网膜囊肿。</span><span class="english">This sonogram shows an arachnoid cyst.</span></p>
 
 <p><span class="chinese">目的探讨骶管内蛛网膜囊肿的诊断和治疗。</span><span class="english">Objective To explore the diagnosis and treatment of sacral arachnoid cysts.</span></p>

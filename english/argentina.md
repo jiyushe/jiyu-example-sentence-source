@@ -1,5 +1,7 @@
 # argentina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argentina.md)
+
 <p><span class="chinese">我喜欢阿根廷。</span><span class="english">Me gusta Argentina.</span></p>
 
 <p><span class="chinese">麦当那唱的，阿根廷别为我哭泣。</span><span class="english">Don't cry for me Argentina.</span></p>

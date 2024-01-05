@@ -1,5 +1,7 @@
 # 疏解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujie_1.md)
+
 <p><span class="chinese">你能疏解这些外文词的意思吗？</span><span class="english">Can you explain the meaning of these foreign words?</span></p>
 
 <p><span class="chinese">她是这用正面思考来疏解自己焦虑的情绪。</span><span class="english">She tried to temper her angst by thinking positively.</span></p>

@@ -1,5 +1,7 @@
 # trafficker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trafficker.md)
+
 <p><span class="chinese">伊朗公开绞死毒贩。</span><span class="english">Iran hangs drug trafficker in public.</span></p>
 
 <p><span class="chinese">塞尔玛是来自奥斯陆的武器贩运商。</span><span class="english">Thelma is an arms trafficker from Oslo.</span></p>

@@ -1,5 +1,7 @@
 # gigantism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gigantism.md)
+
 <p><span class="chinese">常伴发脑下垂体巨人症。</span><span class="english">It is often associated with pituitary gigantism.</span></p>
 
 <p><span class="chinese">有一种现象被称为深海巨型化。</span><span class="english">There is a phenomenon known as deep-sea gigantism.</span></p>

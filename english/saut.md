@@ -1,5 +1,7 @@
 # saut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saut.md)
+
 <p><span class="chinese">所有的厨师都需要知道如何爆炒。</span><span class="english">All cooks need to know how to saut é.</span></p>
 
 <p><span class="chinese">一些煮牛蒡，而其他工人或油炸它。</span><span class="english">Some boil Burdock while others saut or deep fry it.</span></p>

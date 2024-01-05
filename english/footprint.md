@@ -1,5 +1,7 @@
 # footprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footprint.md)
+
 <p><span class="chinese">来，让我们看看，你的足印有多大！</span><span class="english">And let us know how big YOUR footprint is!</span></p>
 
 <p><span class="chinese">加载时速度和内存占用会受到影响。</span><span class="english">Load-time speed, memory footprint affected.</span></p>

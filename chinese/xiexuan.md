@@ -1,5 +1,7 @@
 # 鞋楦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiexuan.md)
+
 <p><span class="chinese">第二种是纤细的鞋楦。</span><span class="english">The second kind is the slip last.</span></p>
 
 <p><span class="chinese">这些鞋是用一只鞋楦做出来的</span><span class="english">These shoes were made on  a last.</span></p>

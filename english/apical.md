@@ -1,5 +1,7 @@
 # apical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apical.md)
+
 <p><span class="chinese">解释要从顶芽开始。</span><span class="english">The explanation begins with the apical bud.</span></p>
 
 <p><span class="chinese">花两性，呈顶生或侧生的圆锥花序。</span><span class="english">Flowers bisexual, was apical or lateral panicles.</span></p>

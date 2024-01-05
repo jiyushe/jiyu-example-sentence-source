@@ -1,5 +1,7 @@
 # 门面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menmian.md)
+
 <p><span class="chinese">这是装有玻璃门面的门。</span><span class="english">This is a glass-fronted door.</span></p>
 
 <p><span class="chinese">是基础还是门面？</span><span class="english">A foundation or just a facade?</span></p>

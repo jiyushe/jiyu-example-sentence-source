@@ -1,5 +1,7 @@
 # mpeg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mpeg.md)
+
 <p><span class="chinese">嘿，大家都上巨雕，MPEG的派对车吧！</span><span class="english">Hey, everybody go to the Horsedick. MPEG party bus!</span></p>
 
 <p><span class="chinese">本文概要介绍了MPEG和它所制定的MPEG-2标准。</span><span class="english">This paper briefly introduces the MPEG and its MPEG2 standard.</span></p>

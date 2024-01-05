@@ -1,5 +1,7 @@
 # unprecedented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unprecedented.md)
+
 <p><span class="chinese">这是空前的吗？</span><span class="english">Is this unprecedented?</span></p>
 
 <p><span class="chinese">他的这一行动史无空前。</span><span class="english">His actions were unprecedented.</span></p>

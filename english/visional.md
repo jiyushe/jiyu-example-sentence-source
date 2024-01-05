@@ -1,5 +1,7 @@
 # visional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visional.md)
+
 <p><span class="chinese">爱情那么虚幻的东西太不可靠，还是钱最让他放心。</span><span class="english">The thing with so visional love is too fluky, still be money most let him be at ease.</span></p>
 
 <p><span class="chinese">共同体是否具有虚幻性是以现实的人们的利益是否实现为基本价值尺度。</span><span class="english">Whether the community is visional is based on whether the peoples' interests are realized.</span></p>

@@ -1,5 +1,7 @@
 # stop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stop.md)
+
 <p><span class="chinese">——不，停下。</span><span class="english">No, stop.</span></p>
 
 <p><span class="chinese">不再分泌唾液。</span><span class="english">You stop.</span></p>

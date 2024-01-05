@@ -1,5 +1,7 @@
 # acclimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acclimate.md)
+
 <p><span class="chinese">我帮助他们适应在美国的生活。</span><span class="english">I help them acclimate to living in the U. S.</span></p>
 
 <p><span class="chinese">可以通过几件事帮助这些蛇去适应新环境。</span><span class="english">Several things can be done to help the snake acclimate.</span></p>

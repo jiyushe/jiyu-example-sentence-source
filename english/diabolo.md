@@ -1,5 +1,7 @@
 # diabolo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diabolo.md)
+
 <p><span class="chinese">沙威国中在全柔扯铃交流营中的演出。</span><span class="english">SMK Kelapa Sawit performed diabolo on the Johor diabolo camp 2008.</span></p>
 
 <p><span class="chinese">据说空竹是由陀螺演变而来的一种儿童玩具，过去抖空竹是孩子们常玩的游戏。</span><span class="english">It is said that the diabolo was originally a kind of toy which children liked very much.</span></p>

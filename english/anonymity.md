@@ -1,5 +1,7 @@
 # anonymity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anonymity.md)
+
 <p><span class="chinese">这样在别人面前，他们就是匿名的。</span><span class="english">Well, there's anonymity from others.</span></p>
 
 <p><span class="chinese">他的伟大之处是藏而不露。</span><span class="english">His greatness was clothed in anonymity.</span></p>

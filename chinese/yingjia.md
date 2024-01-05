@@ -1,5 +1,7 @@
 # 赢家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingjia.md)
+
 <p><span class="chinese">RJ才是做赢家的料。</span><span class="english">RJ is a winner.</span></p>
 
 <p><span class="chinese">谁是最大的赢家？</span><span class="english">Who wins the most?</span></p>

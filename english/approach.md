@@ -1,5 +1,7 @@
 # approach 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approach.md)
+
 <p><span class="chinese">您和谁比较接近？</span><span class="english">Who did you approach?</span></p>
 
 <p><span class="chinese">请求再试做一个穿云。</span><span class="english">Make a short approach.</span></p>

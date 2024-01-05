@@ -1,5 +1,7 @@
 # wwf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wwf.md)
+
 <p><span class="chinese">今天WWF估计那里只有350只了。</span><span class="english">Today, WWF estimates there areonly about 350 there.</span></p>
 
 <p><span class="chinese">请将详情向渔护署及自然基金会报告，以便跟进。谢！</span><span class="english">Please send the details to AFCD or WWF for follow-up.</span></p>

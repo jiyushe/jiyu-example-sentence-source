@@ -1,5 +1,7 @@
 # 妖冶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoye.md)
+
 <p><span class="chinese">哦，是的！她是多么妖冶迷人的生物！</span><span class="english">Oh, yes! She was a coquettish.</span></p>
 
 <p><span class="chinese">她是多么妖冶迷人的生物！</span><span class="english">She was a coquettish creature!</span></p>

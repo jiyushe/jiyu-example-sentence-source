@@ -1,5 +1,7 @@
 # 海獭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haita.md)
+
 <p><span class="chinese">麝鼠皮在质量上几乎和海獭皮不相上下。</span><span class="english">Muskrat fur almost equals beaver fur in quality.</span></p>
 
 <p><span class="chinese">海獭是海胆的主要捕食者。</span><span class="english">Sea otters are the major predators of sea urchins.</span></p>

@@ -1,5 +1,7 @@
 # 凶多吉少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongduojishao.md)
+
 <p><span class="chinese">在我面前展现出一条新的十年的凶多吉少、咄咄逼人的道路。</span><span class="english">Before me stretched the portentous , menacing road of a new decade.</span></p>
 
 <p><span class="chinese">鲍勃打坏了他妻子最珍贵的一个盘子，现在他可真是凶多吉少了。</span><span class="english">Bob broke one of his wife's most precious dishes and is really behind the eight ball.</span></p>

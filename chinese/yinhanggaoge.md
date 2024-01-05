@@ -1,5 +1,7 @@
 # 引吭高歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhanggaoge.md)
+
 <p><span class="chinese">歌手引吭高歌。</span><span class="english">The singer belted out a song.</span></p>
 
 <p><span class="chinese">它们引吭高歌宣告这场雪舞正式开始。</span><span class="english">Trumpeting heralds the start of the snow dance.</span></p>

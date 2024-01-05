@@ -1,5 +1,7 @@
 # 小看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaokan.md)
+
 <p><span class="chinese">但是不要小看它。</span><span class="english">Don't look down on it.</span></p>
 
 <p><span class="chinese">他不能小看了爱情。</span><span class="english">He could not belittle love.</span></p>

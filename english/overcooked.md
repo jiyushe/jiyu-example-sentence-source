@@ -1,5 +1,7 @@
 # overcooked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcooked.md)
+
 <p><span class="chinese">我将玉米煮太烂了。</span><span class="english">I overcooked the corn.</span></p>
 
 <p><span class="chinese">白菜早就咕嘟烂了。</span><span class="english">The cabbage is overcooked.</span></p>

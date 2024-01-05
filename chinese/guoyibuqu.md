@@ -1,5 +1,7 @@
 # 过意不去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoyibuqu.md)
+
 <p><span class="chinese">这使得韩再一次感觉到他的良心过意不去。</span><span class="english">But again he felt the tug of his conscience.</span></p>
 
 <p><span class="chinese">打扰了你我感到非常过意不去。</span><span class="english">I'm very much indebted for having troubled you.</span></p>

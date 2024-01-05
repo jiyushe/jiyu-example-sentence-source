@@ -1,5 +1,7 @@
 # cypriot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cypriot.md)
+
 <p><span class="chinese">细雨梦回鸡塞远，小楼吹彻玉笙寒。</span><span class="english">After night chicken Cypriot far outside his small Yusheng cold.</span></p>
 
 <p><span class="chinese">土耳其裔塞浦路斯领导人塔拉特的助手纳米也表示欢欣鼓舞。</span><span class="english">Ozdil Nami the aide to Turkish Cypriot leader Mehmet Ali Talat was also upbeat.</span></p>

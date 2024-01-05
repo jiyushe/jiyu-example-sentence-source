@@ -1,5 +1,7 @@
 # hodograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hodograph.md)
+
 <p><span class="chinese">山顶上升气流强度随速矢端迹曲率加大而稍有加强。</span><span class="english">Peak updraft strength is slightly enhanced with hodograph curvature.</span></p>
 
 <p><span class="chinese">该两个翼型处在不同的黎曼面内。</span><span class="english">These two airfoils lie on different Riemann sheets in the hodograph plane.</span></p>

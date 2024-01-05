@@ -1,5 +1,7 @@
 # 蛊惑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guhuo.md)
+
 <p><span class="chinese">我能感受到你在蛊惑我的心智。</span><span class="english">I can feel that you mesmerize my heart.</span></p>
 
 <p><span class="chinese">据说蛇能蛊惑小动物。</span><span class="english">Snakes are said to fascinate small animals.</span></p>

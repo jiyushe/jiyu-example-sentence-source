@@ -1,5 +1,7 @@
 # tulip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tulip.md)
+
 <p><span class="chinese">利瑟镇的红色郁金香园地。</span><span class="english">Red Tulip field in Lisse.</span></p>
 
 <p><span class="chinese">郁金香型的高脚杯。</span><span class="english">A tulip shaped glass on a stem.</span></p>

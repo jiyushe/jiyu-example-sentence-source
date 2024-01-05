@@ -1,5 +1,7 @@
 # 冲突
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongtu.md)
+
 <p><span class="chinese">和苹果冲突？</span><span class="english">Conflict with Apple?</span></p>
 
 <p><span class="chinese">她也讨厌冲突。</span><span class="english">She also hates conflict.</span></p>

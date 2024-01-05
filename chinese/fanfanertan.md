@@ -1,5 +1,7 @@
 # 泛泛而谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanfanertan.md)
+
 <p><span class="chinese">我现在只是在泛泛而谈。</span><span class="english">I'm just talking the abstract now.</span></p>
 
 <p><span class="chinese">该发言人只是泛泛而谈。</span><span class="english">The spokesman dealt in generalities.</span></p>

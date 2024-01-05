@@ -1,5 +1,7 @@
 # 干事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshi.md)
+
 <p><span class="chinese">他干事很有用率。</span><span class="english">He gets things done efficiently.</span></p>
 
 <p><span class="chinese">他干事有他的一套。</span><span class="english">He has his own set way of doing things.</span></p>

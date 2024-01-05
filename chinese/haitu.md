@@ -1,5 +1,7 @@
 # 海图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haitu.md)
+
 <p><span class="chinese">这里是海图室。</span><span class="english">Here’s a chart house.</span></p>
 
 <p><span class="chinese">本船配有电子海图显示与信息系统。</span><span class="english">The ship is equipped with an ECDIS.</span></p>

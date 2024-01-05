@@ -1,5 +1,7 @@
 # fluorination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorination.md)
+
 <p><span class="chinese">本文简要综述选择性氟化作用的优点。</span><span class="english">This paper briefly described the advantages in selective fluorination.</span></p>
 
 <p><span class="chinese">对氟化催化剂在不同气氛下焙烧进行了研究。</span><span class="english">The fluorination catalysts were investigated to be dried in different atmospheres.</span></p>

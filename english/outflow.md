@@ -1,5 +1,7 @@
 # outflow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outflow.md)
+
 <p><span class="chinese">有资金流走迹象。</span><span class="english">There were signs of capital outflow.</span></p>
 
 <p><span class="chinese">我们观看了汹涌奔出的潮水。</span><span class="english">We watched the heavy outflow of the tide.</span></p>

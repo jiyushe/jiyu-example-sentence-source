@@ -1,5 +1,7 @@
 # 还击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanji.md)
+
 <p><span class="chinese">这小子还击了。</span><span class="english">The kid fought back.</span></p>
 
 <p><span class="chinese">他对我的强击进行还击。</span><span class="english">He countered my blow.</span></p>

@@ -1,5 +1,7 @@
 # effervescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effervescence.md)
+
 <p><span class="chinese">气泡因它的起泡而迷人。</span><span class="english">Bubbles are engaging because of their effervescence.</span></p>
 
 <p><span class="chinese">它是在一种的味道和清新的大量干式沸腾。</span><span class="english">It is made in a medium-dry style with lots of flavor and refreshing effervescence.</span></p>

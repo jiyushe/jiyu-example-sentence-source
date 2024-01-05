@@ -1,5 +1,7 @@
 # honeysuckle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honeysuckle.md)
+
 <p><span class="chinese">哦，我的金银花，欢迎回家！</span><span class="english">Oh, my honeysuckle , welcome home!</span></p>
 
 <p><span class="chinese">他又一次看到了盛开的忍冬花。</span><span class="english">Once more he saw open honeysuckle.</span></p>

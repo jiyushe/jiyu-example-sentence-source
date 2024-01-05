@@ -1,5 +1,7 @@
 # 向来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianglai.md)
+
 <p><span class="chinese">向来如此。</span><span class="english">It has always been so.</span></p>
 
 <p><span class="chinese">作为一名译者，我向来都是译心译意…</span><span class="english">I am the first one here.</span></p>

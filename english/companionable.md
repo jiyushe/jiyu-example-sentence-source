@@ -1,5 +1,7 @@
 # companionable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/companionable.md)
+
 <p><span class="chinese">你有一只很和善的狗。</span><span class="english">This is a companionable dog that you have.</span></p>
 
 <p><span class="chinese">他是那种友善易处的人。</span><span class="english">He's a nice companionable sort of a person.</span></p>

@@ -1,5 +1,7 @@
 # peripatetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peripatetic.md)
+
 <p><span class="chinese">兼职音乐教师定期到校授课。</span><span class="english">Peripatetic music teachers visit the school regularly.</span></p>
 
 <p><span class="chinese">她父亲是军人，所以全家人随军过着一种流动的生活。</span><span class="english">Her father was in the army and the family led a peripatetic existence.</span></p>

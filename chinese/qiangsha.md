@@ -1,5 +1,7 @@
 # 枪杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangsha.md)
+
 <p><span class="chinese">一更贝里琉枪杀。</span><span class="english">One more Peleliu shot.</span></p>
 
 <p><span class="chinese">那谁开枪杀开了他呢？</span><span class="english">So who fired the shot?</span></p>

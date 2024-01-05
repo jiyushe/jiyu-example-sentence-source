@@ -1,5 +1,7 @@
 # 反诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fansu_1.md)
+
 <p><span class="chinese">摩托罗拉随后进行了反诉。</span><span class="english">Motorola subsequently countersued.</span></p>
 
 <p><span class="chinese">怀特先生反诉史密斯先生诽谤。</span><span class="english">Mr White countercharged Mr Smith with slander.</span></p>

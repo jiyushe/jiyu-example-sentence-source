@@ -1,5 +1,7 @@
 # nicer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicer.md)
+
 <p><span class="chinese">那将是更好的来日诰日。</span><span class="english">It will be nicer tomorrow.</span></p>
 
 <p><span class="chinese">我认为渤恩慕城好一些。</span><span class="english">I think Bourn mouth 's nicer.</span></p>

@@ -1,5 +1,7 @@
 # pontifical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pontifical.md)
+
 <p><span class="chinese">他总是很自以为是。</span><span class="english">He is always pontifical.</span></p>
 
 <p><span class="chinese">世界家庭大会教皇委员会负责人。</span><span class="english">President of the Pontifical Council for the Family.</span></p>

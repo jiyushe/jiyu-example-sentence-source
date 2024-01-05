@@ -1,5 +1,7 @@
 # 文本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenben.md)
+
 <p><span class="chinese">文本和剪贴画。</span><span class="english">Text and clipart.</span></p>
 
 <p><span class="chinese">内核文本和数据。</span><span class="english">Kernal text and data.</span></p>

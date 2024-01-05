@@ -1,5 +1,7 @@
 # 享年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangnian.md)
+
 <p><span class="chinese">他于1997年去世，享年92岁。</span><span class="english">He died in 1997, at 92.</span></p>
 
 <p><span class="chinese">乔安娜·范多娃于1981年去世，享年80岁。</span><span class="english">She died in 1981 at age 80.</span></p>

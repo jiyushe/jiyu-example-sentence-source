@@ -1,5 +1,7 @@
 # contusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contusion.md)
+
 <p><span class="chinese">第二个病人的腿被严重打伤。</span><span class="english">The second patient has a big contusion on his leg.</span></p>
 
 <p><span class="chinese">一般性皮肤挫伤能不能用紫药水？</span><span class="english">Can run- of -mill skin contusion use gentian violet?</span></p>

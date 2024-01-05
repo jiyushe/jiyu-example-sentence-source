@@ -1,5 +1,7 @@
 # labelled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labelled.md)
+
 <p><span class="chinese">弌个声明言吾句不能被标记。</span><span class="english">A declaration cannot be labelled.</span></p>
 
 <p><span class="chinese">他被贴上“瘾君子”的卷标了。</span><span class="english">He has been labelled a " druggie".</span></p>

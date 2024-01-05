@@ -1,5 +1,7 @@
 # 盛誉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyu_5.md)
+
 <p><span class="chinese">这一拍卖为埃克斯福特先生带来盛誉。</span><span class="english">The sale brought Mr Axford considerable publicity.</span></p>
 
 <p><span class="chinese">莫恩山脉如画的景色在国际上享受盛誉。</span><span class="english">The Mournes are internationally renowned for their picturesque scenery.</span></p>

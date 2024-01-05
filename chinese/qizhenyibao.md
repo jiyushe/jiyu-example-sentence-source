@@ -1,5 +1,7 @@
 # 奇珍异宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizhenyibao.md)
+
 <p><span class="chinese">是大自然馈赠给人类的奇珍异宝。</span><span class="english">Nature's gifts to human treasures.</span></p>
 
 <p><span class="chinese">博物馆里陈列着许多奇珍异宝。</span><span class="english">There are many rare treasures exhibited in the museum.</span></p>

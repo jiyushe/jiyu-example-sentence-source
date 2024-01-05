@@ -1,5 +1,7 @@
 # anthropogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropogenic.md)
+
 <p><span class="chinese">大多数城市都是人为的热和污染的源。</span><span class="english">Most cities are anthropogenic sources of heat and pollution.</span></p>
 
 <p><span class="chinese">但所有重大的风险都属于后一个范畴，是人为的。</span><span class="english">All the important risks fall into the latter category, they are anthropogenic.</span></p>

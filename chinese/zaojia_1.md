@@ -1,5 +1,7 @@
 # 造价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaojia_1.md)
+
 <p><span class="chinese">工程造价管理。</span><span class="english">Project cost management.</span></p>
 
 <p><span class="chinese">目标函数为连续梁的总造价。</span><span class="english">The objective function is the cost of beam.</span></p>

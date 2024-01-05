@@ -1,5 +1,7 @@
 # retrorse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrorse.md)
+
 <p><span class="chinese">红本女采用的是正向炒作，兰董采用的是反向炒作。</span><span class="english">Red this female those who use is to hype, what Lan Dong uses is retrorse hype.</span></p>
 
 <p><span class="chinese">步行、慢跑、反序运动是简单易行且较有实效的有氧运动。</span><span class="english">Foot, jogging, retrorse movement are the simple, effective movements with oxygen.</span></p>

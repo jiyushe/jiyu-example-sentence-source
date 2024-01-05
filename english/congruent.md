@@ -1,5 +1,7 @@
 # congruent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congruent.md)
+
 <p><span class="chinese">而结果是一致的“</span><span class="english">That's "congruent."</span></p>
 
 <p><span class="chinese">假如你想要成功，那你一定要始终如一。</span><span class="english">If you want to succeed, you must be congruent.</span></p>

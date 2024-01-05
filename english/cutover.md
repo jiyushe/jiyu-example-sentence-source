@@ -1,5 +1,7 @@
 # cutover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutover.md)
+
 <p><span class="chinese">组合了热转换和冷转换。</span><span class="english">Hot Cutover and Cold Cutover are combined.</span></p>
 
 <p><span class="chinese">如果切换成功，旧的节点将退役。</span><span class="english">If the cutover is successful, the old node is decommissioned.</span></p>

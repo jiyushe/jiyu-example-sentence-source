@@ -1,5 +1,7 @@
 # sidekick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidekick.md)
+
 <p><span class="chinese">他的伙伴是一个叫作皮雷的能说话的足球。</span><span class="english">His sidekick is a talking football called Pille.</span></p>
 
 <p><span class="chinese">打从初中开始，马克和路克一直就是哥儿俩。</span><span class="english">Mark has been Luke's sidekick since junior high school.</span></p>

@@ -1,5 +1,7 @@
 # dunno
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dunno.md)
+
 <p><span class="chinese">我不晓得。</span><span class="english">I dunno.</span></p>
 
 <p><span class="chinese">哈，我也不知道。</span><span class="english">Hah, I dunno.</span></p>

@@ -1,5 +1,7 @@
 # sakya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sakya.md)
+
 <p><span class="chinese">他说是因为特别喜欢萨迦班智达的著作。</span><span class="english">He said it was because he really enjoys reading Sakya Pandita's writings.</span></p>
 
 <p><span class="chinese">释提桓因与诸天女。昼夜三时来下供养。</span><span class="english">Sakya King and all Heavenly girls come down to do offering three times day and night.</span></p>

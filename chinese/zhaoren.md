@@ -1,5 +1,7 @@
 # 招认
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoren.md)
+
 <p><span class="chinese">他招认全部犯罪行为。</span><span class="english">He confessed all his crimes.</span></p>
 
 <p><span class="chinese">劝诫她招认真情吧！</span><span class="english">Exhort her to confess the truth!</span></p>

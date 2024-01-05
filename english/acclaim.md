@@ -1,5 +1,7 @@
 # acclaim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acclaim.md)
+
 <p><span class="chinese">人们倾城而出为获胜的队欢呼喝彩。</span><span class="english">The whole city turned out to acclaim the winning team.</span></p>
 
 <p><span class="chinese">公租房能让“夹心层”欢呼吗?。</span><span class="english">Would PublicRental Make the "SandwichedCLass" Acclaim?</span></p>

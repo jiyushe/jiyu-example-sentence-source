@@ -1,5 +1,7 @@
 # 里脊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liji_1.md)
+
 <p><span class="chinese">里脊面小半径。</span><span class="english">Filet surfaces with small radius.</span></p>
 
 <p><span class="chinese">一张生面皮包一个肉里脊，要全部裹好，封实。</span><span class="english">Wrap each piece of pork fillet in pastry to enclose.</span></p>

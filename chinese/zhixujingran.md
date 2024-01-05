@@ -1,5 +1,7 @@
 # 秩序井然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixujingran.md)
+
 <p><span class="chinese">阿斯塔纳干净整洁，秩序井然，超凡脱俗。</span><span class="english">Astana is clean, orderly and seemingly sedated.</span></p>
 
 <p><span class="chinese">上帝在天国之中，世上的一切秩序井然。</span><span class="english">God is in his heaven, all's right with the world.</span></p>

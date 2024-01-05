@@ -1,5 +1,7 @@
 # northwestern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northwestern.md)
+
 <p><span class="chinese">均来自西北大学。</span><span class="english">Bergmann, both from Northwestern.</span></p>
 
 <p><span class="chinese">西北大学位于伊利诺伊州埃文斯敦。</span><span class="english">Northwestern University, in Evanston, Ill.</span></p>

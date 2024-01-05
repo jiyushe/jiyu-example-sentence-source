@@ -1,5 +1,7 @@
 # lex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lex.md)
+
 <p><span class="chinese">禁止买卖儿童的恶法，就是这样的法律。</span><span class="english">The law prohibits people from trading children is lex injusta.</span></p>
 
 <p><span class="chinese">他是来自美国的莱克斯，这是我在巴基斯坦遇见的唯一的美国人。</span><span class="english">Lex was American – the only one I met during my time in Pakistan.</span></p>

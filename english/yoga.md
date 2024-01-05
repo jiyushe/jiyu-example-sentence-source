@@ -1,5 +1,7 @@
 # yoga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yoga.md)
+
 <p><span class="chinese">你在练瑜伽啊！</span><span class="english">You are doing yoga.</span></p>
 
 <p><span class="chinese">瑜伽在洛杉矶流行吗？</span><span class="english">Is yoga popular in LA?</span></p>

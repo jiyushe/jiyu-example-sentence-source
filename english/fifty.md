@@ -1,5 +1,7 @@
 # fifty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fifty.md)
+
 <p><span class="chinese">五十英里。</span><span class="english">Fifty miles.</span></p>
 
 <p><span class="chinese">他大大超过了五十岁。</span><span class="english">He is far past fifty.</span></p>

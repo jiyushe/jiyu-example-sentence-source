@@ -1,5 +1,7 @@
 # paraboloid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paraboloid.md)
+
 <p><span class="chinese">这种方法也适用于抛物面和双曲面。</span><span class="english">This method can also be used for paraboloid and hyperboloid.</span></p>
 
 <p><span class="chinese">在当抛物面与xy平面相交的地方就停止积分。</span><span class="english">I should stop integrating where my paraboloid hits the xy plane.</span></p>

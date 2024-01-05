@@ -1,5 +1,7 @@
 # lighting 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lighting.md)
+
 <p><span class="chinese">就象荧光棒?。</span><span class="english">Like a lighting rod?</span></p>
 
 <p><span class="chinese">灯光就是一切。</span><span class="english">Lighting is everything.</span></p>

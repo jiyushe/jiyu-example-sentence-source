@@ -1,5 +1,7 @@
 # horrified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horrified.md)
+
 <p><span class="chinese">他是惊悸的。</span><span class="english">He was horrified.</span></p>
 
 <p><span class="chinese">因此我很惊恐。</span><span class="english">So I was horrified.</span></p>

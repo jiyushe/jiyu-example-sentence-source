@@ -1,5 +1,7 @@
 # 痴呆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chidai.md)
+
 <p><span class="chinese">痴呆能否增加血栓溶解风险？</span><span class="english">Does dementia increase risk of thrombolysis?</span></p>
 
 <p><span class="chinese">我在他痴呆著看，像一个白痴看，我确定。</span><span class="english">I gawked at him, looking like an idiot, I'm sure.</span></p>

@@ -1,5 +1,7 @@
 # 经年累月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingnianleiyue.md)
+
 <p><span class="chinese">双边会谈恐将经年累月。</span><span class="english">Bilateral talks can be dragged out.</span></p>
 
 <p><span class="chinese">由于经年累月的负重，他那皱巴巴的身子被压得弯弯的。</span><span class="english">His crumpling body was bent low from years of carrying heavy loads.</span></p>

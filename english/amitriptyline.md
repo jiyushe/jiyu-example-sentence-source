@@ -1,5 +1,7 @@
 # amitriptyline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amitriptyline.md)
+
 <p><span class="chinese">对照组予阿米替林口服。</span><span class="english">The ones in control group were treated with amitriptyline.</span></p>
 
 <p><span class="chinese">这位妇女可能曾用过量的阿米替林治疗。</span><span class="english">The woman was treated for a possible amitriptyline overdose.</span></p>

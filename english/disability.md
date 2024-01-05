@@ -1,5 +1,7 @@
 # disability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disability.md)
+
 <p><span class="chinese">失明是非常严峻的惭疾。</span><span class="english">Blindness is a very serious disability.</span></p>
 
 <p><span class="chinese">骡子是母马和公驴的杂交后代。</span><span class="english">You must bear the cross of your disability.</span></p>

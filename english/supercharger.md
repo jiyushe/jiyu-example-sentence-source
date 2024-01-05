@@ -1,5 +1,7 @@
 # supercharger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supercharger.md)
+
 <p><span class="chinese">这不被称为最有效率的增压器的类型。</span><span class="english">It is not known as the most efficient type of supercharger.</span></p>
 
 <p><span class="chinese">根是确定的最老的类型替代增压器。</span><span class="english">The roots is the oldest type of positive displacement supercharger.</span></p>

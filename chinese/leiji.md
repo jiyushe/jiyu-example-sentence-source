@@ -1,5 +1,7 @@
 # 累及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiji.md)
+
 <p><span class="chinese">这在累及蝶鞍的其他肿瘤中是看不到的。</span><span class="english">This is not seen in other masses involving the sella.</span></p>
 
 <p><span class="chinese">腰骶部的硬膜下腔是最常见的累及部位。</span><span class="english">The lumbosacral subdural space is most commonly affected.</span></p>

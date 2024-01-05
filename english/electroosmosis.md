@@ -1,5 +1,7 @@
 # electroosmosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electroosmosis.md)
+
 <p><span class="chinese">使用喷冲和电渗也可以减小下沉阻力。</span><span class="english">Other methods such as jetting and electroosmosis are also available.</span></p>
 
 <p><span class="chinese">电渗性能测试结果表明，该芯片电渗性能稳定、良好。</span><span class="english">The result of electroosmosis study shows that the performance of this chip was steady and great.</span></p>

@@ -1,5 +1,7 @@
 # cubby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cubby.md)
+
 <p><span class="chinese">我们也有自己的书桌和存放物品的地方。</span><span class="english">We were also given a personal desk and storage space, or cubby.</span></p>
 
 <p><span class="chinese">在封阳台盛行之后，阳台又成了一个小房间。</span><span class="english">After sealing balcony be current, the balcony became a cubby again.</span></p>

@@ -1,5 +1,7 @@
 # steppe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steppe.md)
+
 <p><span class="chinese">给你尝尝草原上的酥油茶。</span><span class="english">Please try the milk tea of steppe.</span></p>
 
 <p><span class="chinese">直到最近，奥奇古一家才搬离了大草原。</span><span class="english">Until recently, the family lived on the steppe.</span></p>

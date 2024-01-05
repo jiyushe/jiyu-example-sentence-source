@@ -1,5 +1,7 @@
 # wroth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wroth.md)
+
 <p><span class="chinese">和该隐是非常愤怒，他的面容下跌。</span><span class="english">And Cain was very wroth , and his countenance fell.</span></p>
 
 <p><span class="chinese">大卫王听见这事，就甚发怒。</span><span class="english">But when king David heard of all these things, he was very wroth.</span></p>

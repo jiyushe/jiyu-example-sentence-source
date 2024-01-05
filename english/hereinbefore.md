@@ -1,5 +1,7 @@
 # hereinbefore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hereinbefore.md)
+
 <p><span class="chinese">而我的这个设计正是针对上述的看法。</span><span class="english">And this design is such a view based on hereinbefore.</span></p>
 
 <p><span class="chinese">以上是本论文的创新思想和新见解。</span><span class="english">These opinions discussed hereinbefore are innovatory views of this thesis.</span></p>

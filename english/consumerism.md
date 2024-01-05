@@ -1,5 +1,7 @@
 # consumerism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consumerism.md)
+
 <p><span class="chinese">消费刺激更多的消费，对吧？</span><span class="english">Consumerism begets more consumerism, right?</span></p>
 
 <p><span class="chinese">我们如何从他的身上找到大众消费主义的新偶像？</span><span class="english">And how did we get the new icon of mass consumerism in his place?</span></p>

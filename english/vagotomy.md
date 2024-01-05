@@ -1,5 +1,7 @@
 # vagotomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vagotomy.md)
+
 <p><span class="chinese">迷走神经干切断术后的腹泻发生率高。</span><span class="english">The high incidence of diarrhea was encountered following truncal vagotomy.</span></p>
 
 <p><span class="chinese">所有类型的迷走神经切断术，均产生空腹和餐后血清促胃液素水准的升高。</span><span class="english">All types of vagotomy cause an increase of basal and postprandial serum gastrin levels.</span></p>

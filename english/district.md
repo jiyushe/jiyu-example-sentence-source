@@ -1,5 +1,7 @@
 # district
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/district.md)
+
 <p><span class="chinese">我住在徐汇区。</span><span class="english">I live on Xuhui district.</span></p>
 
 <p><span class="chinese">乌干达古卢地区***</span><span class="english">Uganda, Gulu district ***</span></p>

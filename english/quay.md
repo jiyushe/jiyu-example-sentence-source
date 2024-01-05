@@ -1,5 +1,7 @@
 # quay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quay.md)
+
 <p><span class="chinese">环形码头西边就是岩石区。</span><span class="english">West of Circular Quay is The Rocks.</span></p>
 
 <p><span class="chinese">这个码头大得足以停靠100艘船。</span><span class="english">The quay is big enough for 100 ships.</span></p>

@@ -1,5 +1,7 @@
 # 拖累
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuolei.md)
+
 <p><span class="chinese">或者，你现在应该明白我指的那“拖累”是谁？</span><span class="english">And the deal with you-know-who?</span></p>
 
 <p><span class="chinese">子女过多是个拖累。</span><span class="english">Too many children are a burden.</span></p>

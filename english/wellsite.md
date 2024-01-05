@@ -1,5 +1,7 @@
 # wellsite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wellsite.md)
+
 <p><span class="chinese">这两点因素都可以减少在井场的等待时间。</span><span class="english">Both factors reduce wait times at the wellsite.</span></p>
 
 <p><span class="chinese">油田井场中的火灾监控是油井安全生产的一个重要方面。</span><span class="english">The wellsite fire monitoring is very important for the produce safety.</span></p>

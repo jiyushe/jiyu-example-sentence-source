@@ -1,5 +1,7 @@
 # bull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bull.md)
+
 <p><span class="chinese">是我，牛说。</span><span class="english">I, said the Bull.</span></p>
 
 <p><span class="chinese">那头公牛向我冲过来。</span><span class="english">The bull rushed at me.</span></p>

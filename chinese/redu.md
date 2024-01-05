@@ -1,5 +1,7 @@
 # 热度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/redu.md)
+
 <p><span class="chinese">我的热度没有吓坏你吗？</span><span class="english">Does not my heat astound you.</span></p>
 
 <p><span class="chinese">电动机有时候热度过高。</span><span class="english">The motor overheats sometimes.</span></p>

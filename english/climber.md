@@ -1,5 +1,7 @@
 # climber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/climber.md)
+
 <p><span class="chinese">不，她是职业登山运动员。</span><span class="english">Yes, she's a professional climber.</span></p>
 
 <p><span class="chinese">攀爬者从极高的中央坠落上去。</span><span class="english">The climber fell from a great height.</span></p>

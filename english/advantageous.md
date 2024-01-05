@@ -1,5 +1,7 @@
 # advantageous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advantageous.md)
+
 <p><span class="chinese">有电脑操作技术者尤佳。</span><span class="english">Computer operating skill is advantageous.</span></p>
 
 <p><span class="chinese">懂电脑操作技术者尤佳。</span><span class="english">The computer operating skill is advantageous.</span></p>

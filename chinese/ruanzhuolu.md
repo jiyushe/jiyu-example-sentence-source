@@ -1,5 +1,7 @@
 # 软着陆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanzhuolu.md)
+
 <p><span class="chinese">软着陆的降落点在哪里?</span><span class="english">WHERE'S THE SOFT LANDING?</span></p>
 
 <p><span class="chinese">而软着陆会让整个过程顺畅许多.</span><span class="english">A soft-landing would make the path to that a much smoother one.</span></p>

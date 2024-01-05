@@ -1,5 +1,7 @@
 # paradoxical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paradoxical.md)
+
 <p><span class="chinese">这是一件吊诡之事。</span><span class="english">It's a paradoxical thing.</span></p>
 
 <p><span class="chinese">一切事情都变得似是而非了。</span><span class="english">Everything is paradoxical.</span></p>

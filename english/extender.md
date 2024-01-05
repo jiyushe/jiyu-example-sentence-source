@@ -1,5 +1,7 @@
 # extender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extender.md)
+
 <p><span class="chinese">注销以前注册的扩展程序提供程序。</span><span class="english">Unregister a previously registered Extender Provider.</span></p>
 
 <p><span class="chinese">硫酸钡作为体质颜料广泛应用于涂料中。</span><span class="english">Barium sulfate as an extender pigment is widely used in paint.</span></p>

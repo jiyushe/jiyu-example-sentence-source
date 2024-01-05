@@ -1,5 +1,7 @@
 # 还原剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanyuanji.md)
+
 <p><span class="chinese">半胱氨酸也是一种还原剂。</span><span class="english">L-cysteine is also a reducing agent.</span></p>
 
 <p><span class="chinese">外来的还原剂被引进来。</span><span class="english">Reductant from an extraneous source is introduced.</span></p>

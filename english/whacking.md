@@ -1,5 +1,7 @@
 # whacking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whacking.md)
+
 <p><span class="chinese">他们住在好莱坞一所巨宅里。</span><span class="english">They live in a whacking great house in Hollywood.</span></p>
 
 <p><span class="chinese">换句话说，他从此与自己的兄弟姐妹们不再是一路人了。</span><span class="english">In other words, he can't go around whacking his brother and sisters.</span></p>

@@ -1,5 +1,7 @@
 # 延期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanqi_2.md)
+
 <p><span class="chinese">讨论延期了。</span><span class="english">This discussion was prorogued.</span></p>
 
 <p><span class="chinese">延期付款的标准.</span><span class="english">A Standard of Deferred Payment.</span></p>

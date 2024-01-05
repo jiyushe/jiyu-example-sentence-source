@@ -1,5 +1,7 @@
 # savings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savings.md)
+
 <p><span class="chinese">但是节约的成本增加了。</span><span class="english">Butthe savings add up.</span></p>
 
 <p><span class="chinese">也许靠他们的积蓄？</span><span class="english">Perhaps on their savings?</span></p>

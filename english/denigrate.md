@@ -1,5 +1,7 @@
 # denigrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denigrate.md)
+
 <p><span class="chinese">我并没有打算贬低他们的工作。</span><span class="english">I don’t mean to denigrate the work they’ve done.</span></p>
 
 <p><span class="chinese">不要作贱自己，也不要放弃自己。</span><span class="english">We should not denigrate or give up on ourselves.</span></p>

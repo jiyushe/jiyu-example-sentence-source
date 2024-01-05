@@ -1,5 +1,7 @@
 # 哭诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kusu.md)
+
 <p><span class="chinese">抱怨它，哭诉它，叫骂它。</span><span class="english">Cry about it. Complain about it.</span></p>
 
 <p><span class="chinese">她哭诉了她所受的苦难。</span><span class="english">She snuffled about her sufferings.</span></p>

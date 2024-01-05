@@ -1,5 +1,7 @@
 # 认输
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshu_1.md)
+
 <p><span class="chinese">查克认输了。</span><span class="english">Chuck was defeated.</span></p>
 
 <p><span class="chinese">我们从不认输。</span><span class="english">We never surrender.</span></p>

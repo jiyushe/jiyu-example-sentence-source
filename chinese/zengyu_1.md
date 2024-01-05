@@ -1,5 +1,7 @@
 # 赠予
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengyu_1.md)
+
 <p><span class="chinese">我愿做赠予者，不愿做乞讨者。</span><span class="english">I want to be a giver not a beggar.</span></p>
 
 <p><span class="chinese">他们叫做“政府赠予土地的学校”。</span><span class="english">These are known as land-grant schools.</span></p>

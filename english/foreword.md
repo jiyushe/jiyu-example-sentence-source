@@ -1,5 +1,7 @@
 # foreword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreword.md)
+
 <p><span class="chinese">由史蒂夫前言“沃兹”沃兹涅克。</span><span class="english">Foreword by Steve "Woz" Wozniak.</span></p>
 
 <p><span class="chinese">这本书有一篇总统作的序言。</span><span class="english">This book has a foreword by the President.</span></p>

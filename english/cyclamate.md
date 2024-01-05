@@ -1,5 +1,7 @@
 # cyclamate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclamate.md)
+
 <p><span class="chinese">据悉，甜蜜素食用过多会伤肝。</span><span class="english">Consuming too much sodium cyclamate can harm the liver.</span></p>
 
 <p><span class="chinese">介绍了气相色谱法测定饮料中甜蜜素的过程与方法。</span><span class="english">The procedures of determining sodium cyclamate in beverages by gas chromatography are described.</span></p>

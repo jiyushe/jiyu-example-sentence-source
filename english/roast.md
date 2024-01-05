@@ -1,5 +1,7 @@
 # roast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roast.md)
+
 <p><span class="chinese">大东烤鸭。</span><span class="english">Da Dong Roast Duck.</span></p>
 
 <p><span class="chinese">烤鱼和面包。</span><span class="english">Roast fish and bread.</span></p>

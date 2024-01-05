@@ -1,5 +1,7 @@
 # daiquiri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daiquiri.md)
+
 <p><span class="chinese">信贷市场就像一杯冻结的台克利鸡尾酒。</span><span class="english">The credit markets are as liquid as a frozen daiquiri.</span></p>
 
 <p><span class="chinese">制作酒代喀涉及新鲜柠檬汁和糖。</span><span class="english">Making a rum daiquiri involves fresh lime juice and sugar.</span></p>

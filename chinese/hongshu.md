@@ -1,5 +1,7 @@
 # 红树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongshu.md)
+
 <p><span class="chinese">鱼儿们在红树根周围游来游去。</span><span class="english">Fish swim around the mangrove roots.</span></p>
 
 <p><span class="chinese">红树叶，黄树叶，橙树叶和棕树叶。</span><span class="english">Red leaves, yellow leaves, orange and brown.</span></p>

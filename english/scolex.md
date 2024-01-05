@@ -1,5 +1,7 @@
 # scolex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scolex.md)
+
 <p><span class="chinese">组织学检查显示了早期发育的头节。</span><span class="english">Histological examination revealed that early development of the scolex became obvious.</span></p>
 
 <p><span class="chinese">每一个囊尾蚴是由一个囊壁和陷入囊腔中的单独一个头节所组成的。</span><span class="english">Each cysticercus consists of a cyst wall and a single scolex invaginated into the lumen.</span></p>

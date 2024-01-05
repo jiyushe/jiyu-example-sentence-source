@@ -1,5 +1,7 @@
 # horace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horace.md)
+
 <p><span class="chinese">书上的铅字总使小霍勒斯着迷。</span><span class="english">The printed word always fascinated horace.</span></p>
 
 <p><span class="chinese">欲知更多详情，请点击阅读贺拉斯德迪欧的分析结果。</span><span class="english">Want more? Read Horace Dediu's analysis at.</span></p>

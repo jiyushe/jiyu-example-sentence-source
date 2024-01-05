@@ -1,5 +1,7 @@
 # 禁卒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzu.md)
+
 <p><span class="chinese">同时他们也和禁卒一样，内心充满喜乐。</span><span class="english">Also like the jailer, they are filled with joy.</span></p>
 
 <p><span class="chinese">在禁卒睡著的时候，有两个囚犯在唱圣诗。</span><span class="english">The jailer had fallen asleep while a couple of prisoners were singing hymns.</span></p>

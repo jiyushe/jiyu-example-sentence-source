@@ -1,5 +1,7 @@
 # 螺丝刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luosidao.md)
+
 <p><span class="chinese">你所需要的只是一把螺丝刀。</span><span class="english">And all you need is a screwdriver.</span></p>
 
 <p><span class="chinese">他用螺丝刀戳她的脸颊。</span><span class="english">He gouged her cheek with a screwdriver.</span></p>

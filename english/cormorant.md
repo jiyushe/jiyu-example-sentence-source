@@ -1,5 +1,7 @@
 # cormorant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cormorant.md)
+
 <p><span class="chinese">那边有令人刺激的鱼鹰捕鱼表演。</span><span class="english">The exciting cormorant fishing performance is over there.</span></p>
 
 <p><span class="chinese">在50年后，也许世界上再没有用鸬鹚捕鱼的渔夫了。</span><span class="english">In 50 years, perhaps there will be no more cormorant fishermen in the world.</span></p>

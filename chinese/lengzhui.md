@@ -1,5 +1,7 @@
 # 棱锥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengzhui.md)
+
 <p><span class="chinese">这是棱锥体吗?。</span><span class="english">Is this a pyramid?</span></p>
 
 <p><span class="chinese">他认为它会去和棱锥蛋糕。</span><span class="english">He thought it would go well with the pyramid cake.</span></p>

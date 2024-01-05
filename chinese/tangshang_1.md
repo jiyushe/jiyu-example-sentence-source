@@ -1,5 +1,7 @@
 # 烫伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangshang_1.md)
+
 <p><span class="chinese">脸被烟头烫伤了该怎么办?。</span><span class="english">Face by butt scald how should do?</span></p>
 
 <p><span class="chinese">烧伤和烫伤该怎么办？</span><span class="english">What do I do with burns and scalds?</span></p>

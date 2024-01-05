@@ -1,5 +1,7 @@
 # dictatorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dictatorial.md)
+
 <p><span class="chinese">我痛恨他的独断作风。</span><span class="english">I resent his dictatorial manner.</span></p>
 
 <p><span class="chinese">我不喜欢他那幅专横的态度。</span><span class="english">I dislike his dictatorial manner.</span></p>

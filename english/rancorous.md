@@ -1,5 +1,7 @@
 # rancorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rancorous.md)
+
 <p><span class="chinese">经过一连串充满敌意的争吵，交易泡汤了。</span><span class="english">The deal ended after a series of rancorous disputes.</span></p>
 
 <p><span class="chinese">他的讲话是对年轻人满怀敌意的狂暴攻击。</span><span class="english">His speech was a bilious, rancorous attack on young people.</span></p>

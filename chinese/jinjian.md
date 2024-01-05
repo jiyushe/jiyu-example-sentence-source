@@ -1,5 +1,7 @@
 # 仅见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjian.md)
+
 <p><span class="chinese">器形仅见筒形罐。</span><span class="english">Tube-shaped pot is only type of pottery.</span></p>
 
 <p><span class="chinese">对照组各时间段仅见少量萎缩的腺泡细胞。</span><span class="english">Few atrophic acinar cells was observed in control group.</span></p>

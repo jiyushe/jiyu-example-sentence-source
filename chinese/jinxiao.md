@@ -1,5 +1,7 @@
 # 今宵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxiao.md)
+
 <p><span class="chinese">“今宵，庆祝我们的爱”。</span><span class="english">Tonight I Celebrate My Love.</span></p>
 
 <p><span class="chinese">他活不过今宵。</span><span class="english">He will not outlive this night.</span></p>

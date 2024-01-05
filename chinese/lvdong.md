@@ -1,5 +1,7 @@
 # 律动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvdong.md)
+
 <p><span class="chinese">上面写着"律动你的房间"</span><span class="english">It said "Pump Up Your Room."</span></p>
 
 <p><span class="chinese">发电机的节奏是恶梦的律动。</span><span class="english">The rhythm of the dynamos is the pulse of nightmare.</span></p>

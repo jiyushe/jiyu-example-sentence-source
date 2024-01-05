@@ -1,5 +1,7 @@
 # contract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contract.md)
+
 <p><span class="chinese">草拟合同。</span><span class="english">Draw up the contract.</span></p>
 
 <p><span class="chinese">这契约无效。</span><span class="english">The contract is void.</span></p>

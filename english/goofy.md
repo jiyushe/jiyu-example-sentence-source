@@ -1,5 +1,7 @@
 # goofy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goofy.md)
+
 <p><span class="chinese">如果你觉得很傻，那就笑出来吧。</span><span class="english">If you feel goofy , Let it out.</span></p>
 
 <p><span class="chinese">高飞向山下滑去。</span><span class="english">Goofy is skiing down the mountain.</span></p>

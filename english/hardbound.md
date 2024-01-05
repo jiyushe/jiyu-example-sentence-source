@@ -1,5 +1,7 @@
 # hardbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardbound.md)
+
 <p><span class="chinese">缴交毕业论文精装乙册与电子档已审核通过之检查。</span><span class="english">Submit one hardbound copy and the E-file of your thesis.</span></p>
 
 <p><span class="chinese">是的，中国推行精装房，逐步逐步地会取消毛坯房。</span><span class="english">Yes, China carries out the hardbound room, will cancel the semifinished materials room gradually.</span></p>

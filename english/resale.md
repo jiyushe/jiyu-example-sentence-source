@@ -1,5 +1,7 @@
 # resale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resale.md)
+
 <p><span class="chinese">产品转售权利踌躇你的头脑。</span><span class="english">Of products with resale rights will boggle your mind.</span></p>
 
 <p><span class="chinese">不允许倒卖进口料件。</span><span class="english">Resale of imported materials and parts is not permitted.</span></p>

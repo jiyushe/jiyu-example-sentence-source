@@ -1,5 +1,7 @@
 # track 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/track.md)
+
 <p><span class="chinese">打开空气轨。</span><span class="english">Air track one.</span></p>
 
 <p><span class="chinese">并作了记录。</span><span class="english">and he kept track.</span></p>

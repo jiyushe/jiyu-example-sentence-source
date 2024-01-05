@@ -1,5 +1,7 @@
 # 大兴土木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxingtumu.md)
+
 <p><span class="chinese">全佐治亚的好松木都在亚特兰大周围，而城里面又大兴土木。</span><span class="english">With all the good Georgia pine</span></p>
 
 <p><span class="chinese">于是，清凉世界五台山就大兴土木，筑寺造像。</span><span class="english">So people in Wutai Mountain constructed temples and built Buddha statue.</span></p>

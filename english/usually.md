@@ -1,5 +1,7 @@
 # usually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usually.md)
+
 <p><span class="chinese">通常不会。</span><span class="english">Not usually.</span></p>
 
 <p><span class="chinese">通常都是些废话。</span><span class="english">Usually hogwash.</span></p>

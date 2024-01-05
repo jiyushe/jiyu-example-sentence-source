@@ -1,5 +1,7 @@
 # forensic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forensic.md)
+
 <p><span class="chinese">法医学是一个发展中的产业。</span><span class="english">Forensic science is a growth industry.</span></p>
 
 <p><span class="chinese">在法庭的神经学上有一最后的新章。</span><span class="english">There is a final new chapter on forensic neurology.</span></p>

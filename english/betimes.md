@@ -1,5 +1,7 @@
 # betimes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betimes.md)
+
 <p><span class="chinese">火车及时到达了。</span><span class="english">The train arrived betimes.</span></p>
 
 <p><span class="chinese">罗德利哥我一早就来看你。</span><span class="english">Roderigo. I'll be with thee betimes.</span></p>

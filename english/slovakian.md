@@ -1,5 +1,7 @@
 # slovakian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slovakian.md)
+
 <p><span class="chinese">北京外国语大学斯洛伐克语专业大四学生</span><span class="english">a senior in Slovakian at Beijing Foreign Studies University</span></p>
 
 <p><span class="chinese">“我们的合作非常棒，他是个出色的球员”，斯洛伐克人说。</span><span class="english">"It's going really well, he's a great player, " said the Slovakian.</span></p>

@@ -1,5 +1,7 @@
 # 飘散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaosan.md)
+
 <p><span class="chinese">他看着云儿飘散。</span><span class="english">He saw the clouds rolling away.</span></p>
 
 <p><span class="chinese">那飘散在苍空中的名字！</span><span class="english">The name flies over the welkin!</span></p>

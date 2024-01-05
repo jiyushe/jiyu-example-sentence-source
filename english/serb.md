@@ -1,5 +1,7 @@
 # serb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serb.md)
+
 <p><span class="chinese">也不完全这样，你能区分谁是穆斯林，谁是塞族吗？</span><span class="english">Not always. How can you tell whether someone is Muslim or Serb?</span></p>
 
 <p><span class="chinese">两人自高中起就坠入情网，他是塞尔维亚人，她是穆斯林。</span><span class="english">Sweethearts since high school, he was a Serb and she was a Moslem.</span></p>

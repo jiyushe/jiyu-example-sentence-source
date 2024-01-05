@@ -1,5 +1,7 @@
 # lexicographer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lexicographer.md)
+
 <p><span class="chinese">他们说的英语正是字典编纂者喜欢的。</span><span class="english">And they spoke the English that the lexicographer loved.</span></p>
 
 <p><span class="chinese">知识具有超凡的力量---萨缪尔。约翰逊，英国字典编纂家。</span><span class="english">Knowledge is more than equivalent to force---Samuel Johnson, English lexicographer.</span></p>

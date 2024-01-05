@@ -1,5 +1,7 @@
 # 还乡团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxiangtuan.md)
+
 <p><span class="chinese">还乡团果然害怕，连夜逃跑了。</span><span class="english">As hoped, the Home Returning Corps took fright and fled in the night.</span></p>
 
 <p><span class="chinese">等他们冲进里院时，发现潘带着还乡团早己跑掉了。</span><span class="english">Bursting into the inner courtyards, they found that the Pan Corps had already gone.</span></p>

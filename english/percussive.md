@@ -1,5 +1,7 @@
 # percussive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/percussive.md)
+
 <p><span class="chinese">在刺刀与盾牌的撞击声中。</span><span class="english">In bayonets and the percussive sound of shield.</span></p>
 
 <p><span class="chinese">很多部落音乐都非常有冲击性，并带有很重的节奏。</span><span class="english">Much tribal music is very percussive and has a heavy beat.</span></p>

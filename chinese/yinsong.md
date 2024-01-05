@@ -1,5 +1,7 @@
 # 吟诵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinsong.md)
+
 <p><span class="chinese">她吟诵我的诗。</span><span class="english">She recited my poems.</span></p>
 
 <p><span class="chinese">能听到你吟诵会是我们的荣幸。</span><span class="english">We will be very lucky to have it here.</span></p>

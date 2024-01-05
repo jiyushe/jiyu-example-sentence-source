@@ -1,5 +1,7 @@
 # 昆曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunqu.md)
+
 <p><span class="chinese">这是复兴昆曲的唯一途径。</span><span class="english">That’s the only way to revive Kunqu.</span></p>
 
 <p><span class="chinese">中国昆曲是中国戏曲艺术中的一朵奇葩。</span><span class="english">Kun opera is one of the wonderful arts in China.</span></p>

@@ -1,5 +1,7 @@
 # discernible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discernible.md)
+
 <p><span class="chinese">这对脊椎炎无明显影响。</span><span class="english">It has no discernible effect on spondylitis.</span></p>
 
 <p><span class="chinese">在黑暗中很难看得清他的脸。</span><span class="english">His face was barely discernible in the gloom.</span></p>

@@ -1,5 +1,7 @@
 # flash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flash.md)
+
 <p><span class="chinese">很好的闪光弹！</span><span class="english">Good flash bang!</span></p>
 
 <p><span class="chinese">像鱼一样地一闪。</span><span class="english">A flash like a fish.</span></p>

@@ -1,5 +1,7 @@
 # pull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pull.md)
+
 <p><span class="chinese">把我拉上去！</span><span class="english">Pull me up!</span></p>
 
 <p><span class="chinese">去把垃圾拖出去。</span><span class="english">Pull it out.</span></p>

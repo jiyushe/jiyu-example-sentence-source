@@ -1,5 +1,7 @@
 # 火腿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huotui.md)
+
 <p><span class="chinese">做火腿蛋吧，可别。</span><span class="english">Ham and eggs, no.</span></p>
 
 <p><span class="chinese">西红柿和火腿。</span><span class="english">Tomatoes and ham.</span></p>

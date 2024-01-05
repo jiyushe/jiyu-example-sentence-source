@@ -1,5 +1,7 @@
 # bally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bally.md)
+
 <p><span class="chinese">我太疲倦了。</span><span class="english">I'm too bally tired.</span></p>
 
 <p><span class="chinese">是谁制造了这种可恶的东西？</span><span class="english">Who created the bally thing?</span></p>

@@ -1,5 +1,7 @@
 # causeway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/causeway.md)
+
 <p><span class="chinese">蓝夜色，铜锣湾。</span><span class="english">Blue night, Causeway.</span></p>
 
 <p><span class="chinese">讲信用的人走遍天下。</span><span class="english">Credit keeps the crown of the causeway.</span></p>

@@ -1,5 +1,7 @@
 # 票友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoyou.md)
+
 <p><span class="chinese">票友之家，但残破的家园。</span><span class="english">Fancier houses, but broken homes.</span></p>
 
 <p><span class="chinese">票友卡和数字定义的RPG发展的第二阶段。</span><span class="english">Fancier cards and figures defined second stage of rpg development.</span></p>

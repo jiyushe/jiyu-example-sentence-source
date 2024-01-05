@@ -1,5 +1,7 @@
 # belted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belted.md)
+
 <p><span class="chinese">我突然猛地击了他一拳。</span><span class="english">I belted him one.</span></p>
 
 <p><span class="chinese">他被授予骑士绶带。</span><span class="english">He was belted a knight.</span></p>

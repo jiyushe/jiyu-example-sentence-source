@@ -1,5 +1,7 @@
 # morton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morton.md)
+
 <p><span class="chinese">第二天我离开沼泽居去莫尔顿。</span><span class="english">The next day I left Marsh End for Morton.</span></p>
 
 <p><span class="chinese">我看到老莫顿终于被提升了。</span><span class="english">I see old Morton has got himself promoted at last.</span></p>

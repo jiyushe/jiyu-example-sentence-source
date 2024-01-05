@@ -1,5 +1,7 @@
 # interlining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlining.md)
+
 <p><span class="chinese">你到底愿不愿意把卖你的夹层？</span><span class="english">Do you want to sell your Interlining or Not ?</span></p>
 
 <p><span class="chinese">本论文主要对粘合衬的配伍和压烫工艺这两个问题进行了阐述。</span><span class="english">The thesis mostly expounds the compatibility of fusible interlining and pressing process.</span></p>

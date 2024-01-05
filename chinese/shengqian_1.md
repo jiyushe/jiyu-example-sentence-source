@@ -1,5 +1,7 @@
 # 生前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqian_1.md)
+
 <p><span class="chinese">他生前做的好事将永留人世。</span><span class="english">The good he did will live after him.</span></p>
 
 <p><span class="chinese">他生前为他的歌迷做了太多的事。</span><span class="english">He did so much for his fans," Powell said.</span></p>

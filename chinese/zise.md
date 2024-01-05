@@ -1,5 +1,7 @@
 # 姿色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zise.md)
+
 <p><span class="chinese">你喜欢用姿色影响别人。</span><span class="english">You're fond of turning on your charm.</span></p>
 
 <p><span class="chinese">同样，美丽可爱的青年啊，当你姿色不存</span><span class="english">And so of you, beauteous and lovely youth</span></p>

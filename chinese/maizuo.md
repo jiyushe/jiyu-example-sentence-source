@@ -1,5 +1,7 @@
 # 卖座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maizuo.md)
+
 <p><span class="chinese">那出戏在这个城市不卖座。</span><span class="english">The play did not take in this city.</span></p>
 
 <p><span class="chinese">管乐队卖座率仍然很高。</span><span class="english">The brass band still plays to packed houses.</span></p>

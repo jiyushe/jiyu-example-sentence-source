@@ -1,5 +1,7 @@
 # nil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nil.md)
+
 <p><span class="chinese">效果为零，效果全无。</span><span class="english">The effect was nil.</span></p>
 
 <p><span class="chinese">在半场的时候，得分是两个零。</span><span class="english">At half-time the score was two nil.</span></p>

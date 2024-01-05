@@ -1,5 +1,7 @@
 # 角斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juedou_1.md)
+
 <p><span class="chinese">你要和我角斗吗？</span><span class="english">Would you fight me?</span></p>
 
 <p><span class="chinese">摔跤手在角斗前称了体重，是160磅。</span><span class="english">The wrestler was weighed in at 160 pounds.</span></p>

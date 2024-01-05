@@ -1,5 +1,7 @@
 # myocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myocyte.md)
+
 <p><span class="chinese">快速心房起搏可导致细胞内钙离子超载。</span><span class="english">RAP can induce calcium overload in atrial myocyte.</span></p>
 
 <p><span class="chinese">尼莫地平能阻止缺血心肌细胞钙超载的发展和加重。</span><span class="english">Nimodipine could prevent the calcium overload in ischemic myocyte.</span></p>

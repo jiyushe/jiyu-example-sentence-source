@@ -1,5 +1,7 @@
 # 破门而入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pomenerru.md)
+
 <p><span class="chinese">开门，要不然我就要破门而入了。</span><span class="english">Open up, or I break in.</span></p>
 
 <p><span class="chinese">匪贼常常在半夜破门而入。</span><span class="english">Robbers often break in at midnight.</span></p>

@@ -1,5 +1,7 @@
 # 销赃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozang.md)
+
 <p><span class="chinese">盗贼偷了车，然后在赃物买卖处销赃。</span><span class="english">The gang stole cars and fenced them themselves.</span></p>
 
 <p><span class="chinese">贩运的野生动物产品往往流入多功能的犯罪销赃网络，同时可导致"派生犯罪"，例如官员腐败、伪造证件、恐吓乃至谋杀。</span><span class="english">This includes corruption of officials, falsification of documents, intimidation and murder.</span></p>

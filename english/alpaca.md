@@ -1,5 +1,7 @@
 # alpaca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alpaca.md)
+
 <p><span class="chinese">它们的毛几乎不透水而且比羊驼毛更柔软。</span><span class="english">Its fur is almost waterproof and softer than alpaca.</span></p>
 
 <p><span class="chinese">今天，我来介绍一种非常神奇的动物。他的名字叫羊驼。</span><span class="english">Today, I introduce a very magical animal. His name is alpaca.</span></p>

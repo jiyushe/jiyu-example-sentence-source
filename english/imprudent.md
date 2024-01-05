@@ -1,5 +1,7 @@
 # imprudent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imprudent.md)
+
 <p><span class="chinese">这个鲁莽的墨西哥老人。</span><span class="english">That imprudent Old Person of Chili.</span></p>
 
 <p><span class="chinese">一味否认这一点是轻率和不切实际的。</span><span class="english">Insisting otherwise is imprudent and impractical.</span></p>

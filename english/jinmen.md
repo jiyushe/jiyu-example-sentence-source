@@ -1,5 +1,7 @@
 # jinmen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jinmen.md)
+
 <p><span class="chinese">“津门”建筑群由一个“门”字形酒店和6栋错落有致的公寓楼组成。</span><span class="english">The architectural complex of Jinmen consists of a hotel and 6 apartment blocks.</span></p>
 
 <p><span class="chinese">报载，全国唯一的环境“除臭”实验室落户津门。</span><span class="english">Appears in the newspapers, the national only environment deodorizes the laboratory to settle down Jinmen.</span></p>

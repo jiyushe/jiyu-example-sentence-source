@@ -1,5 +1,7 @@
 # swap 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swap.md)
+
 <p><span class="chinese">Z31发动机互换。</span><span class="english">Z31 engine swap.</span></p>
 
 <p><span class="chinese">我愿意和你做交易。</span><span class="english">I like to swap with you.</span></p>

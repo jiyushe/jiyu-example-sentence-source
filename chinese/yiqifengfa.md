@@ -1,5 +1,7 @@
 # 意气风发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqifengfa.md)
+
 <p><span class="chinese">雄心壮志使他意气风发。</span><span class="english">His ambition goaded him on.</span></p>
 
 <p><span class="chinese">刚开始工作的时候，你才华横溢，意气风发，相信“天生我才必有用”。</span><span class="english">At the beginning of the work, you talented, high-spirited.</span></p>

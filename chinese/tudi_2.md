@@ -1,5 +1,7 @@
 # 突地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tudi_2.md)
+
 <p><span class="chinese">汽船突突地前进。</span><span class="english">The boat chugged along.</span></p>
 
 <p><span class="chinese">她的心突突地直跳。</span><span class="english">Her heart went pit-a-pat.</span></p>

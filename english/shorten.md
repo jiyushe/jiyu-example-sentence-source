@@ -1,5 +1,7 @@
 # shorten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shorten.md)
+
 <p><span class="chinese">缩短你的跨步。</span><span class="english">Shorten your stride.</span></p>
 
 <p><span class="chinese">缩短你的任务列表。</span><span class="english">Shorten your task list.</span></p>

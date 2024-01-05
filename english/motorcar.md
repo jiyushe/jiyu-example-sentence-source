@@ -1,5 +1,7 @@
 # motorcar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorcar.md)
+
 <p><span class="chinese">你给汽车办执照了吗?。</span><span class="english">Have you licensed your motorcar?</span></p>
 
 <p><span class="chinese">汽车排汽系统用管。</span><span class="english">Pipes for Motorcar Exhaust System.</span></p>

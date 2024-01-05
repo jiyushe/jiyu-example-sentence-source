@@ -1,5 +1,7 @@
 # 频段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinduan.md)
+
 <p><span class="chinese">内置3与低切滤波器频段均衡器。</span><span class="english">Built-in 3-band EQ with low-cut filter.</span></p>
 
 <p><span class="chinese">在不同频段一个电台只能通联一次。</span><span class="english">A station may only be worked once per band.</span></p>

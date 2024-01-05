@@ -1,5 +1,7 @@
 # redly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redly.md)
+
 <p><span class="chinese">黑暗中呼号散发着诡秘的红光，然后又暗了下来。</span><span class="english">It glowed redly in the gloom, just for a moment, and then faded.</span></p>
 
 <p><span class="chinese">埃伦的纯洁像草地上狂风吹起的花瓣，带着一抹红色飞舞着飘失在远方。</span><span class="english">Ellen\'s innocence like petals blowing on grass, dancing redly away.</span></p>

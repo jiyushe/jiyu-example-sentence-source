@@ -1,5 +1,7 @@
 # 中卫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongwei.md)
+
 <p><span class="chinese">我们中卫中有一个人一直都必须要留在后面。</span><span class="english">One of us centre-backs always has to stay behind.</span></p>
 
 <p><span class="chinese">在下半场，他派了出色的左中卫上场。</span><span class="english">He started his ace left halfback on the second half.</span></p>

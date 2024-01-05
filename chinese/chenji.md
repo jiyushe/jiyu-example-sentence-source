@@ -1,5 +1,7 @@
 # 沉寂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenji.md)
+
 <p><span class="chinese">喜欢这种沉寂无扰。</span><span class="english">I love this quiet.</span></p>
 
 <p><span class="chinese">炮声沉寂。</span><span class="english">The guns are quiet.</span></p>

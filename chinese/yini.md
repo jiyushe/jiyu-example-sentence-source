@@ -1,5 +1,7 @@
 # 旖旎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yini.md)
+
 <p><span class="chinese">如同椴树枝叶般旖旎。</span><span class="english">As leaf of linden-tree.</span></p>
 
 <p><span class="chinese">旖旎人生路，歌舞升平心。</span><span class="english">Beautiful life, dance or fair.</span></p>

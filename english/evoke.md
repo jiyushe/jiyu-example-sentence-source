@@ -1,5 +1,7 @@
 # evoke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evoke.md)
+
 <p><span class="chinese">用黄色唤起愉快、高兴的感情。</span><span class="english">Use yellow to evoke pleasant, cheerful feelings.</span></p>
 
 <p><span class="chinese">成熟的姜京俊能否博得吉多兰芳心。</span><span class="english">Mature ginger jing jun can evoke auspicious doran heart.</span></p>

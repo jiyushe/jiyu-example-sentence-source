@@ -1,5 +1,7 @@
 # cough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cough.md)
+
 <p><span class="chinese">你咳嗽吗？</span><span class="english">Do you cough?</span></p>
 
 <p><span class="chinese">我咳得很厉害。</span><span class="english">I have a bad cough.</span></p>

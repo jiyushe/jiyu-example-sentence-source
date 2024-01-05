@@ -1,5 +1,7 @@
 # phenomenon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenomenon.md)
+
 <p><span class="chinese">它是一种个人现象。</span><span class="english">It is a personal phenomenon.</span></p>
 
 <p><span class="chinese">卢卡库是一个真正的现象级球员。</span><span class="english">Lukaku is a true phenomenon.</span></p>

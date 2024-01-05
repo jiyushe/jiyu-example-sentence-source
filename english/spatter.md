@@ -1,5 +1,7 @@
 # spatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spatter.md)
+
 <p><span class="chinese">她的后脚不断溅起泥浆。</span><span class="english">Her feet sent back a continual spatter of mud.</span></p>
 
 <p><span class="chinese">焊接过程稳定，焊接飞溅小。</span><span class="english">Stability welding process, welding spatter small.</span></p>

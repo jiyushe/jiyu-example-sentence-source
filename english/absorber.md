@@ -1,5 +1,7 @@
 # absorber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorber.md)
+
 <p><span class="chinese">金融减震器就是资本。</span><span class="english">The shock absorber is capital.</span></p>
 
 <p><span class="chinese">废弃墨水吸收器已满…</span><span class="english">The waste ink absorber is full.</span></p>

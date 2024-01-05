@@ -1,5 +1,7 @@
 # simplicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simplicity.md)
+
 <p><span class="chinese">如今简约当道。</span><span class="english">Simplicity now rules.</span></p>
 
 <p><span class="chinese">简单的头信息。</span><span class="english">Simplicity of headers.</span></p>

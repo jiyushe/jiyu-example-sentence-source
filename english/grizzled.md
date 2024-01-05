@@ -1,5 +1,7 @@
 # grizzled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grizzled.md)
+
 <p><span class="chinese">花白头发的期货专家吉姆·罗杰斯确实是这样做的。</span><span class="english">Grizzled commodity guru Jim Rogers certainly is.</span></p>
 
 <p><span class="chinese">被称为登加的灰衣人类猎人也应约了。</span><span class="english">Answering the call was the grizzled human hunter known as Dengar.</span></p>

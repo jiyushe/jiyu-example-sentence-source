@@ -1,5 +1,7 @@
 # 娘子军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangzijun.md)
+
 <p><span class="chinese">参与娘子军团队，有助于该研究的发展。</span><span class="english">By joining the Army of Women, you can help make this research happen.</span></p>
 
 <p><span class="chinese">让娘子军在夜晚站立不动时隐形。</span><span class="english">Allows female units to become invisible at night, but only while standing still.</span></p>

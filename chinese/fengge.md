@@ -1,5 +1,7 @@
 # 风格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengge.md)
+
 <p><span class="chinese">我的美胸风格是啥？</span><span class="english">What is my style?</span></p>
 
 <p><span class="chinese">易滑的风格。</span><span class="english">Easy slip-on style.</span></p>

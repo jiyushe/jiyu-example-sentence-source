@@ -1,5 +1,7 @@
 # 舒舒服服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushufufu.md)
+
 <p><span class="chinese">她舒舒服服地做她自己就可以了。</span><span class="english">She can be herself and be comfortable.</span></p>
 
 <p><span class="chinese">他把自己弄得舒舒服服的，烤着他的两只脚。</span><span class="english">He made himself wholly comfortable and toasted his feet.</span></p>

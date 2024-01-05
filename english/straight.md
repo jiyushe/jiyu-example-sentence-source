@@ -1,5 +1,7 @@
 # straight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straight.md)
+
 <p><span class="chinese">向前直走。</span><span class="english">Go straight.</span></p>
 
 <p><span class="chinese">地平线是否平直？</span><span class="english">Is it straight?</span></p>

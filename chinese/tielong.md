@@ -1,5 +1,7 @@
 # 铁笼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tielong.md)
+
 <p><span class="chinese">想象一下它们一旦逃出铁笼后会出现的残杀景象！</span><span class="english">Imagine the carnage if they ever escaped their cages.</span></p>
 
 <p><span class="chinese">LJ和Lincoln在探访室的铁笼面对面坐着。</span><span class="english">LJ faces Lincoln through the cage in the visitation room.</span></p>

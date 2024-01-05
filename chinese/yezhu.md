@@ -1,5 +1,7 @@
 # 野猪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yezhu.md)
+
 <p><span class="chinese">一群猎狗把野猪围困住。</span><span class="english">The hounds bayed the boar.</span></p>
 
 <p><span class="chinese">野猪拱倒了一棵树。</span><span class="english">The boar snouted a tree down.</span></p>

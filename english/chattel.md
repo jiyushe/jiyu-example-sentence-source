@@ -1,5 +1,7 @@
 # chattel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chattel.md)
+
 <p><span class="chinese">为什么奴役制度在美洲能大行其道？</span><span class="english">Why did chattel slavery take hold in the Americas?</span></p>
 
 <p><span class="chinese">佩恩海滩，坐在一活动小木屋的台阶上的男人。</span><span class="english">Man sitting on steps of Chattel House, Payne's Bay.</span></p>

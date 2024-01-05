@@ -1,5 +1,7 @@
 # ocr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ocr.md)
+
 <p><span class="chinese">而如果文件是打印的，你可以对文件进行光学字符识别。</span><span class="english">And if the documents is typed, you can just apply OCR to the document.</span></p>
 
 <p><span class="chinese">从上世纪70年代以来，光学字符识别技术逐渐走向成熟。</span><span class="english">Since last century 70's, the OCR technology has gradually moved to maturely.</span></p>

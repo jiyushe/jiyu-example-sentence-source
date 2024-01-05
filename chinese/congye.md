@@ -1,5 +1,7 @@
 # 从业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congye.md)
+
 <p><span class="chinese">档案从业人员出现职业倦怠。</span><span class="english">The archival jobholders appears to be tired.</span></p>
 
 <p><span class="chinese">这是一篇关于教师从业动力的论文。</span><span class="english">This paper is about teachers employment dynamic.</span></p>

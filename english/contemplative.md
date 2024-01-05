@@ -1,5 +1,7 @@
 # contemplative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contemplative.md)
+
 <p><span class="chinese">马丁是个不爱讲话、喜欢沉思默想的小伙子。</span><span class="english">Martin is a quiet, contemplative sort of chap.</span></p>
 
 <p><span class="chinese">电影的节奏缓慢，而气氛令人沉思。</span><span class="english">The film’s pacing is slow and its mood is contemplative.</span></p>

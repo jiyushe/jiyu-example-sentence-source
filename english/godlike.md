@@ -1,5 +1,7 @@
 # godlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godlike.md)
+
 <p><span class="chinese">我，身在夏日的天堂，像是神仙。</span><span class="english">Me myself in the summer heaven, godlike.</span></p>
 
 <p><span class="chinese">所有人都惊叹于她天仙般的美貌。</span><span class="english">People were all shocked at her godlike beauty.</span></p>

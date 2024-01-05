@@ -1,5 +1,7 @@
 # 迁回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianhui.md)
+
 <p><span class="chinese">童年在北京、天津度过，1929年迁回上海。</span><span class="english">Childhood in Beijing, Tianjin spent, move back to Shanghai in 1929.</span></p>
 
 <p><span class="chinese">不久法利是非常的好以至于可以迁回自己的在托儿所的家中。</span><span class="english">The strategy right now is just to try to get him to be a better climber.</span></p>

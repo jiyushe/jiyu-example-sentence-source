@@ -1,5 +1,7 @@
 # innocent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innocent.md)
+
 <p><span class="chinese">孩子是无辜的。</span><span class="english">Kids are innocent.</span></p>
 
 <p><span class="chinese">他们是无辜的。</span><span class="english">They are innocent.</span></p>

@@ -1,5 +1,7 @@
 # symplectic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symplectic.md)
+
 <p><span class="chinese">本文研究了辛群胚上的拉格朗日双截面。</span><span class="english">In this paper, we study the Lagrange bisection at the symplectic groupoids.</span></p>
 
 <p><span class="chinese">研究的是辛三代数的幂零性。</span><span class="english">The nilpotency about the symplectic ternary algebra is discussed in this paper.</span></p>

@@ -1,5 +1,7 @@
 # eater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eater.md)
+
 <p><span class="chinese">棘背龙是肉食动物。</span><span class="english">Spinosaurus was a meat eater.</span></p>
 
 <p><span class="chinese">剑龙是草食动物。</span><span class="english">Stegosaurus was a plant eater.</span></p>

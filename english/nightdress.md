@@ -1,5 +1,7 @@
 # nightdress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightdress.md)
+
 <p><span class="chinese">我想买件棉睡衣。</span><span class="english">I wish to get a cotton nightdress.</span></p>
 
 <p><span class="chinese">我刚才看到你穿着睡衣。</span><span class="english">I saw you just now in your nightdress.</span></p>

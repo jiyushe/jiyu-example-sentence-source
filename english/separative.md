@@ -1,5 +1,7 @@
 # separative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/separative.md)
+
 <p><span class="chinese">由于思想本身的特性，思想是分裂的。</span><span class="english">By its very nature, thought is separative.</span></p>
 
 <p><span class="chinese">由，还证明了分离的阿贝尔正则环是APT环。</span><span class="english">By, we prove that a separative abelian regular ring is an APT ring.</span></p>

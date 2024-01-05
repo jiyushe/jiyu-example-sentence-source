@@ -1,5 +1,7 @@
 # imploring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imploring.md)
+
 <p><span class="chinese">一个母亲在恳求你！</span><span class="english">A mother is imploring you.</span></p>
 
 <p><span class="chinese">她以哀求的眼神看着他。</span><span class="english">She gave him an imploring look.</span></p>

@@ -1,5 +1,7 @@
 # opium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opium.md)
+
 <p><span class="chinese">鸦片战争。</span><span class="english">Duringthe Opium wars.</span></p>
 
 <p><span class="chinese">鸦片酊是鸦片的衍生物。</span><span class="english">Laudanum is a derivative of opium.</span></p>

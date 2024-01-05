@@ -1,5 +1,7 @@
 # koranic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/koranic.md)
+
 <p><span class="chinese">当然，在这个画廊内还有用雅致的书法撰写的可兰经文本。</span><span class="english">And there are, of course, Koranic manuscripts with refined calligraphy.</span></p>
 
 <p><span class="chinese">塞内加尔首都达喀尔一所可兰经学校发生火灾，造成9名儿童死亡。</span><span class="english">A fire has killed nine children at a Koranic school in the Senegalese capital Dakar.</span></p>

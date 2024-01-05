@@ -1,5 +1,7 @@
 # groom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groom.md)
+
 <p><span class="chinese">新娘和新郎。</span><span class="english">Bride and groom.</span></p>
 
 <p><span class="chinese">但这位新娘没有新郎。</span><span class="english">But there is no groom.</span></p>

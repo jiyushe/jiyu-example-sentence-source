@@ -1,5 +1,7 @@
 # diarist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diarist.md)
+
 <p><span class="chinese">日记作家是一个审视自己的作家。</span><span class="english">A diarist is a writer who watches himself.</span></p>
 
 <p><span class="chinese">我们的记者平静下来，将这段时间用在笔记本电脑上。</span><span class="english">Your diarist settles down for a long session on the laptop.</span></p>

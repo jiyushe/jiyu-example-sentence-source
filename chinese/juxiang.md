@@ -1,5 +1,7 @@
 # 巨响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juxiang.md)
+
 <p><span class="chinese">听劈雷发出的巨响。</span><span class="english">Listen to the thunder crash.</span></p>
 
 <p><span class="chinese">那声巨响把我吓呆了。</span><span class="english">The loud noise scared me stiff.</span></p>

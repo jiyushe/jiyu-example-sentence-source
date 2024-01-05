@@ -1,5 +1,7 @@
 # misapplication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misapplication.md)
+
 <p><span class="chinese">这是一种误用。</span><span class="english">This is a misapplication.</span></p>
 
 <p><span class="chinese">这是资本的错误运用和浪费。</span><span class="english">This involves a misapplication and waste of capital.</span></p>

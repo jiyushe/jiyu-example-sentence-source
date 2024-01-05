@@ -1,5 +1,7 @@
 # moral 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moral.md)
+
 <p><span class="chinese">这个故事的寓意？</span><span class="english">Moral of the story?</span></p>
 
 <p><span class="chinese">人是能辨是非的动物。</span><span class="english">Man is a moral being.</span></p>

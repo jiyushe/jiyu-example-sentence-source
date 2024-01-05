@@ -1,5 +1,7 @@
 # other
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/other.md)
+
 <p><span class="chinese">别的颜色呢？</span><span class="english">Any other color?</span></p>
 
 <p><span class="chinese">你们相亲相爱吧。</span><span class="english">Love each other.</span></p>

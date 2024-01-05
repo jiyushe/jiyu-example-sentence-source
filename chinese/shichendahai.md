@@ -1,5 +1,7 @@
 # 石沉大海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichendahai.md)
+
 <p><span class="chinese">家里用尽各种方式寄去的信也石沉大海。</span><span class="english">Home use various methods to send letter also no echo.</span></p>
 
 <p><span class="chinese">但是最大的心病,奴隶制将石沉大海"</span><span class="english">But the great heart wound, slavery, will not be reached."</span></p>

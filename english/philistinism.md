@@ -1,5 +1,7 @@
 # philistinism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philistinism.md)
+
 <p><span class="chinese">可能有人会说，把艺术家比来比去真是庸俗！</span><span class="english">Some might say it's philistinism to put artists in competition with each other.</span></p>
 
 <p><span class="chinese">英国人的粗陋无文还在蓬勃发展，至少在他们说出“法国哲学家”一语时是这样的。</span><span class="english">English philistinism continues to flourish, not least when the words "French philosopher" are uttered.</span></p>

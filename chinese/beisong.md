@@ -1,5 +1,7 @@
 # 北宋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beisong.md)
+
 <p><span class="chinese">你看那块北宋的石碑。</span><span class="english">Look at this stele from the Northern Song Dynasty.</span></p>
 
 <p><span class="chinese">王安石是北宋著名的改革家。</span><span class="english">Wang Anshi is a famous reformer in the Song Dynasty.</span></p>

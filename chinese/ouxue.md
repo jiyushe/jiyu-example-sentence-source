@@ -1,5 +1,7 @@
 # 呕血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ouxue.md)
+
 <p><span class="chinese">较大血管受损时，出现黑便、呕血。</span><span class="english">When older blood vessel is damaged, appear black, haematemesis.</span></p>
 
 <p><span class="chinese">月经来了呕血。流鼻血正常吗？</span><span class="english">Menstruation came haematemesis . It is normal to shed nosebleed?</span></p>

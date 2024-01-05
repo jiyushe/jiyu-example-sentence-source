@@ -1,5 +1,7 @@
 # 赛璐珞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sailuluo.md)
+
 <p><span class="chinese">赛璐珞是极易着火的。</span><span class="english">Celluloid is highly combustible.</span></p>
 
 <p><span class="chinese">他身穿赛璐珞硬领，足登系带长靴。</span><span class="english">He wore a celluloid collar and lace up boots.</span></p>

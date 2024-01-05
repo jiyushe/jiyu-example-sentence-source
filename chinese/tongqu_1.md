@@ -1,5 +1,7 @@
 # 通衢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongqu_1.md)
+
 <p><span class="chinese">只能兜售叫卖在通衢。</span><span class="english">Peddled in the thoroughfares.</span></p>
 
 <p><span class="chinese">走向任何通衢，都有歌声悦耳。</span><span class="english">In every street theses tunes our ears do greet.</span></p>

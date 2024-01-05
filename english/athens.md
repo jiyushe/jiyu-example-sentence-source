@@ -1,5 +1,7 @@
 # athens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/athens.md)
+
 <p><span class="chinese">它是雅典的港口城。</span><span class="english">It is the harbor of Athens.</span></p>
 
 <p><span class="chinese">我们乘飞机经巴黎去雅典。</span><span class="english">We flew to Athens via Paris.</span></p>

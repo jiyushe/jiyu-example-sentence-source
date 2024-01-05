@@ -1,5 +1,7 @@
 # bulldozer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulldozer.md)
+
 <p><span class="chinese">他们需要一台推土机来挖出岩石。</span><span class="english">They needed a bulldozer to dislodge the rock.</span></p>
 
 <p><span class="chinese">他亦因种种善行得到了“推土机”的美名。</span><span class="english">He won the nickname "Bulldozer" for good reason.</span></p>

@@ -1,5 +1,7 @@
 # superlattice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superlattice.md)
+
 <p><span class="chinese">超晶格外延生长的条件依赖于表面能和晶格参数的匹配。</span><span class="english">Thecondition of superlattice layer growth depends on the surface free energy and thelattice misfit.</span></p>
 
 <p><span class="chinese">对双层亚铁磁超晶格的能谱进行理论研究。</span><span class="english">Theoretical studies for the energy spectra of double-layer ferrimagnetic superlattice were carried out.</span></p>

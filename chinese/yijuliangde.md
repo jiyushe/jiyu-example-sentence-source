@@ -1,5 +1,7 @@
 # 一举两得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijuliangde.md)
+
 <p><span class="chinese">这样既节约钱又节约水，一举两得．</span><span class="english">It saves you money and helps the water sources.</span></p>
 
 <p><span class="chinese">难道你不认为这对我们来说是一件一举两得的事吗？</span><span class="english">V Don't you think it a double advantage for us?</span></p>

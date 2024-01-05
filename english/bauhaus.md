@@ -1,5 +1,7 @@
 # bauhaus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bauhaus.md)
+
 <p><span class="chinese">这种学派后来被称为包豪斯学派。</span><span class="english">That is the genre what later called Bauhaus.</span></p>
 
 <p><span class="chinese">包豪斯风格的建筑本身就是艺术品。</span><span class="english">The architecture in Bauhaus style is a piece of art in itself.</span></p>

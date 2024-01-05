@@ -1,5 +1,7 @@
 # 脱臼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuojiu.md)
+
 <p><span class="chinese">一个关节脱臼了。</span><span class="english">A joint has started.</span></p>
 
 <p><span class="chinese">她的肩膀脱臼了。</span><span class="english">Her shoulder was dislocated.</span></p>

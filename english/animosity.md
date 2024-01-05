@@ -1,5 +1,7 @@
 # animosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animosity.md)
+
 <p><span class="chinese">而武贾西奇面临着主客双方的敌意。</span><span class="english">Sasha faces animosity from all sides.</span></p>
 
 <p><span class="chinese">这种敌意不应被夸大。</span><span class="english">That animosity should not be overstated.</span></p>

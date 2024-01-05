@@ -1,5 +1,7 @@
 # adenoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adenoid.md)
+
 <p><span class="chinese">TCA术式中，有20例患者存在腺样体残留，其他两种术式无腺样体残留。</span><span class="english">Residual adenoid was found in 20 cases in TCA group and none in the other two groups.</span></p>
 
 <p><span class="chinese">结论在炮震性听力损伤中腺样体肥大可能是个体差异的明显因素。</span><span class="english">Conclusions The explosive hearing injury easily occurs in the men with adenoid hypertrophy.</span></p>

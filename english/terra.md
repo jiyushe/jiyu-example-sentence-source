@@ -1,5 +1,7 @@
 # terra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terra.md)
+
 <p><span class="chinese">朝圣者在地球上。</span><span class="english">In terra pellegrino.</span></p>
 
 <p><span class="chinese">秦兵马俑是非常写实的。</span><span class="english">These terra cotta warriors are very life-like.</span></p>

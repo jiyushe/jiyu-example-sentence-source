@@ -1,5 +1,7 @@
 # reductase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reductase.md)
+
 <p><span class="chinese">硝酸还原酶是短寿酶。</span><span class="english">Nitrate reductase is a short-lived enzyme.</span></p>
 
 <p><span class="chinese">萘酚对小球藻谷胱甘肽及其还原酶的影响。</span><span class="english">Effects of a-naphthol on the glutathione and its reductase in Chlorella.</span></p>

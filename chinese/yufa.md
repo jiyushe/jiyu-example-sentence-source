@@ -1,5 +1,7 @@
 # 愈发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yufa.md)
+
 <p><span class="chinese">我愈发难以集中精神。</span><span class="english">It's growing harder and harder to concentrate.</span></p>
 
 <p><span class="chinese">随着时间的推移，金融危机的走向变得愈发神秘叵测。</span><span class="english">The financial crisis grows weirder by the day.</span></p>

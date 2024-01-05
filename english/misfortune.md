@@ -1,5 +1,7 @@
 # misfortune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misfortune.md)
+
 <p><span class="chinese">连都了，她不幸。</span><span class="english">Only she has is misfortune.</span></p>
 
 <p><span class="chinese">她哀叹自己的厄运。</span><span class="english">She bewailed her misfortune.</span></p>

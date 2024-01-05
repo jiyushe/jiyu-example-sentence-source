@@ -1,5 +1,7 @@
 # hesitant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hesitant.md)
+
 <p><span class="chinese">我以前见过你。你似乎犹豫不决。</span><span class="english">I saw you before. You seemed hesitant.</span></p>
 
 <p><span class="chinese">她迟疑不决的手指几乎碰到了他的裤子。</span><span class="english">Her hesitant fingers almost touched the cloth.</span></p>

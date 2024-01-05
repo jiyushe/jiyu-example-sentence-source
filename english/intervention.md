@@ -1,5 +1,7 @@
 # intervention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intervention.md)
+
 <p><span class="chinese">及早干预是关键。</span><span class="english">Early intervention is key.</span></p>
 
 <p><span class="chinese">这是严谨的干预。</span><span class="english">This was serious intervention.</span></p>

@@ -1,5 +1,7 @@
 # 上边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangbian.md)
+
 <p><span class="chinese">那些叶子跳往梳子上边！</span><span class="english">The leaves jumped to the comb!</span></p>
 
 <p><span class="chinese">我的真牙还在上边呢！</span><span class="english">My false teeth are stuck to it.</span></p>

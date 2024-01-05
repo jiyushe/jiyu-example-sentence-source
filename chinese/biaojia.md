@@ -1,5 +1,7 @@
 # 标价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaojia.md)
+
 <p><span class="chinese">你怎么能给宝贵的生命明码标价啊？！</span><span class="english">How can you put a price on life?</span></p>
 
 <p><span class="chinese">恐怕不能讲价，本店是明码标价。</span><span class="english">I'm afraid the prices are fixed in this store.</span></p>

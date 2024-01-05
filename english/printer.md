@@ -1,5 +1,7 @@
 # printer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/printer.md)
+
 <p><span class="chinese">谁是印刷工？</span><span class="english">Who's the printer?</span></p>
 
 <p><span class="chinese">这台打印机出故障了。</span><span class="english">This printer is out of order.</span></p>

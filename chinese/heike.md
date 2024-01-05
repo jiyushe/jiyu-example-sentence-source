@@ -1,5 +1,7 @@
 # 黑客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heike.md)
+
 <p><span class="chinese">乔斯·温登是黑客！</span><span class="english">Joss Whedon is a hack!</span></p>
 
 <p><span class="chinese">像电影“黑客帝国”里“</span><span class="english">See also "The Matrix."</span></p>

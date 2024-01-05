@@ -1,5 +1,7 @@
 # 谢顶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieding_1.md)
+
 <p><span class="chinese">不论偶们是谢顶地老人。</span><span class="english">Whether we be old and bald.</span></p>
 
 <p><span class="chinese">如果你是十六岁或以下，尽量别谢顶。</span><span class="english">If you are sixteen or under, try not to go bald.</span></p>

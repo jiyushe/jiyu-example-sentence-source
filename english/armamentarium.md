@@ -1,5 +1,7 @@
 # armamentarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armamentarium.md)
+
 <p><span class="chinese">他形容碳酸镧对于整体是有帮助的。</span><span class="english">He called lanthanum carbonate "a helpful addition to our armamentarium."</span></p>
 
 <p><span class="chinese">分析了国外开展医疗设备融资业务的成功案例。</span><span class="english">Analyzes a foreign case of successful developing armamentarium financial lease.</span></p>

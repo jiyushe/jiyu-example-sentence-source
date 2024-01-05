@@ -1,5 +1,7 @@
 # amic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amic.md)
+
 <p><span class="chinese">由动态探测系统和恒定的测量力决定了极好的重复性。</span><span class="english">Excellent repeatability thanks to its dyn AMIc probing system with constant measuring force.</span></p>
 
 <p><span class="chinese">研究了反应温度、反应时间对产物酸值、胺值和阳离子度的影响。</span><span class="english">The influence of reaction temperature, reaction time on the acid number, amic number and catio.</span></p>

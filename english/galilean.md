@@ -1,5 +1,7 @@
 # galilean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galilean.md)
+
 <p><span class="chinese">伽利略的毒蛇④弓行盘道。</span><span class="english">The Galilean serpent④ forth did creep.</span></p>
 
 <p><span class="chinese">彼拉多一听见，就问这人是加利利人吗？</span><span class="english">On hearing this, Pilate asked if the man was a Galilean.</span></p>

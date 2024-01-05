@@ -1,5 +1,7 @@
 # sora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sora.md)
+
 <p><span class="chinese">所以莫非空是在撒谎？</span><span class="english">So was Sora completely lying?</span></p>
 
 <p><span class="chinese">中国的朋友们你们好，我是苍井空。</span><span class="english">Hello to all Chinese friends, I'm Sora Aoi.</span></p>

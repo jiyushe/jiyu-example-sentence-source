@@ -1,5 +1,7 @@
 # 保守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoshou.md)
+
 <p><span class="chinese">我是泥坑中的棍子。意指”我是保守的人”。</span><span class="english">I am a stick in the mud.</span></p>
 
 <p><span class="chinese">我在郊区长大，非常保守。</span><span class="english">I grew up in the suburbs.</span></p>

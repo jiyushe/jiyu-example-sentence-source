@@ -1,5 +1,7 @@
 # 盲目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangmu.md)
+
 <p><span class="chinese">不要盲目担心。</span><span class="english">Do not worry.</span></p>
 
 <p><span class="chinese">蔚爱情是盲目的。</span><span class="english">Love is blind.</span></p>

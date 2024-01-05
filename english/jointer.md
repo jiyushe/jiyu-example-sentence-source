@@ -1,5 +1,7 @@
 # jointer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jointer.md)
+
 <p><span class="chinese">用柔性联接器代替旋转系统各转子之间的刚性联接。</span><span class="english">The rigid jointer is replaced by the flexible jointer in a revolving system.</span></p>
 
 <p><span class="chinese">该通用短接可与其它工程测井仪器组合，并提供方位信息。</span><span class="english">The jointer provides azimuth information when working with other engineering well logging tools.</span></p>

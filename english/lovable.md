@@ -1,5 +1,7 @@
 # lovable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lovable.md)
+
 <p><span class="chinese">不要说他们可爱。</span><span class="english">Don't say they're lovable.</span></p>
 
 <p><span class="chinese">在他看来，她的脸非常可爱。</span><span class="english">How very lovable her face was to him.</span></p>

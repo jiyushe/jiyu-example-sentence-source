@@ -1,5 +1,7 @@
 # swordsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swordsman.md)
+
 <p><span class="chinese">一个剑客。</span><span class="english">A swordsman.</span></p>
 
 <p><span class="chinese">那是一个出色的剑手。</span><span class="english">He is a fine swordsman.</span></p>

@@ -1,5 +1,7 @@
 # peru
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peru.md)
+
 <p><span class="chinese">1943年，聂鲁达前往秘鲁。</span><span class="english">In 1943 Neruda went to Peru.</span></p>
 
 <p><span class="chinese">我的目的地是秘鲁利马。</span><span class="english">My destination is Limas, Peru.</span></p>

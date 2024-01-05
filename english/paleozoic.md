@@ -1,5 +1,7 @@
 # paleozoic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleozoic.md)
+
 <p><span class="chinese">它们主要生活在古生代。</span><span class="english">They are mainly living in the Paleozoic.</span></p>
 
 <p><span class="chinese">其时代主要为震旦纪—早古生代至泥盆纪。</span><span class="english">Its age is Sinian early Paleozoic to Devonian.</span></p>

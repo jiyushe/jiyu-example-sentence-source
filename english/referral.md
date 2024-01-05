@@ -1,5 +1,7 @@
 # referral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/referral.md)
+
 <p><span class="chinese">有太多的推荐表了吗？</span><span class="english">Are there too many referral forms?</span></p>
 
 <p><span class="chinese">团体不引荐吃木瓜汁。</span><span class="english">Referral groups do not eat papaya.</span></p>

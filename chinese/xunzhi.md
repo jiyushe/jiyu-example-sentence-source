@@ -1,5 +1,7 @@
 # 殉职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunzhi.md)
+
 <p><span class="chinese">他去年在执行公务时殉职。</span><span class="english">He was killed in the line of duty last year.</span></p>
 
 <p><span class="chinese">他在修路灯时因公殉职。</span><span class="english">He died on the job while repairing a streetlamp.</span></p>

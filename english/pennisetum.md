@@ -1,5 +1,7 @@
 # pennisetum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pennisetum.md)
+
 <p><span class="chinese">四川狗尾草属与狼尾草属的研究。</span><span class="english">A study of Setaria P. Beauv. and Pennisetum Rich. in Sichuan.</span></p>
 
 <p><span class="chinese">对6个狼尾草属牧草在珠海市斗门区进行引种试验。</span><span class="english">Test of introduced 6 varities of Pennisetum was conducted in Doumen area of Zhuhai city.</span></p>

@@ -1,5 +1,7 @@
 # 言道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandao.md)
+
 <p><span class="chinese">他妻子插言道。</span><span class="english">his wife interposed.</span></p>
 
 <p><span class="chinese">儿子插言道，他突然变得很爱争论。</span><span class="english">broke in her son, growing suddenly argumentative.</span></p>

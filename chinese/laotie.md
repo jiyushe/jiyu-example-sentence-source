@@ -1,5 +1,7 @@
 # 烙铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laotie.md)
+
 <p><span class="chinese">采用24V低压烙铁芯安全供电。</span><span class="english">Used safety and low voltage 24V heater.</span></p>
 
 <p><span class="chinese">烙铁不可重摔或敲打，以避免损坏烙铁。</span><span class="english">Don't knock soldering iron to avoid damage.</span></p>

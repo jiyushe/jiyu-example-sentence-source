@@ -1,5 +1,7 @@
 # soya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soya.md)
+
 <p><span class="chinese">辣椒酱，酱油，醋。</span><span class="english">Chili paste, Soya sauce, Vinegar.</span></p>
 
 <p><span class="chinese">他把驴拴在一棵树上就卖黄豆去了。</span><span class="english">He sells soya bean asinine tie on a tree.</span></p>

@@ -1,5 +1,7 @@
 # bert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bert.md)
+
 <p><span class="chinese">我的朋友柏特怎么了？</span><span class="english">What happened to my friend Bert?</span></p>
 
 <p><span class="chinese">伯特·拉尔的演出服重90磅。</span><span class="english">Bert Lahr's costume weighed 90 pounds</span></p>

@@ -1,5 +1,7 @@
 # auld
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auld.md)
+
 <p><span class="chinese">为了昔日美好的时光，亲爱的。</span><span class="english">For auld lang syne, my dear.</span></p>
 
 <p><span class="chinese">为了美好的昔日，我的朋友。</span><span class="english">For auld lang syne, my friend.</span></p>

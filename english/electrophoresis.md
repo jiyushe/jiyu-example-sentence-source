@@ -1,5 +1,7 @@
 # electrophoresis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrophoresis.md)
+
 <p><span class="chinese">毛细管电泳是基于电泳的原理。</span><span class="english">CE is based on the principles of electrophoresis.</span></p>
 
 <p><span class="chinese">方法生物测定和淀粉电泳技术。</span><span class="english">Methods Bioassays and starch gel electrophoresis.</span></p>

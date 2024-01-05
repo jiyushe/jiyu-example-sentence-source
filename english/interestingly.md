@@ -1,5 +1,7 @@
 # interestingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interestingly.md)
+
 <p><span class="chinese">最近看了一本书，觉得蛮有意思的。</span><span class="english">Recently read a book, thinks interestingly.</span></p>
 
 <p><span class="chinese">不，真有意思，是落叶机清扫机。</span><span class="english">No, interestingly enough her leaf blower picked up.</span></p>

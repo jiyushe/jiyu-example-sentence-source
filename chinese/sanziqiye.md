@@ -1,5 +1,7 @@
 # 三资企业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanziqiye.md)
+
 <p><span class="chinese">产品主要销往国内和在国内的三资企业。</span><span class="english">Products are mainly sold to domestic and domestic-funded enterprises.</span></p>
 
 <p><span class="chinese">国内将近一半以上被外国和三资企业占领。</span><span class="english">Domestic nearly half by foreign and joint venture enterprise above occupation.</span></p>

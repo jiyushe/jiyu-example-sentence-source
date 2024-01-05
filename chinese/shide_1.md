@@ -1,5 +1,7 @@
 # 使得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shide_1.md)
+
 <p><span class="chinese">他死后使得妻子穷愁不堪。</span><span class="english">He left his wife poor.</span></p>
 
 <p><span class="chinese">那使得我们目瞪口呆。</span><span class="english">Thatleaves us dumbfounded.</span></p>

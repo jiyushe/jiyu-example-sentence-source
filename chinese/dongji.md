@@ -1,5 +1,7 @@
 # 冬季
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongji.md)
+
 <p><span class="chinese">冬季是冷酷。</span><span class="english">Winter is cold-hearted.</span></p>
 
 <p><span class="chinese">我喜欢夏季和冬季。</span><span class="english">I like summer and winter.</span></p>

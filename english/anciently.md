@@ -1,5 +1,7 @@
 # anciently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anciently.md)
+
 <p><span class="chinese">在圣经里，我们读到关于古代的先知。</span><span class="english">In the Bible, we read about prophets who lived anciently.</span></p>
 
 <p><span class="chinese">与以往同类产品不同的是，这个系统是做在一个单芯片中。</span><span class="english">This system is in a chip and different from anciently system.</span></p>

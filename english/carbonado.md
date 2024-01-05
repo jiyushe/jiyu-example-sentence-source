@@ -1,5 +1,7 @@
 # carbonado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbonado.md)
+
 <p><span class="chinese">这种烘衬是对奇石主题的提醒和强化。</span><span class="english">The carbonado line is reminded of stone theme and reinforcement.</span></p>
 
 <p><span class="chinese">最佳配食烧鸡、烧鹅、干烧鱼或烟熏肉类。</span><span class="english">Best with carbonado , fried chicken, roast geese, baked fish, or bacon dishes.</span></p>

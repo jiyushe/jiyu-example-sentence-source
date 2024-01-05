@@ -1,5 +1,7 @@
 # disqualification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disqualification.md)
+
 <p><span class="chinese">明显过长的被毛属于失格。</span><span class="english">A distinctly long coat is a disqualification.</span></p>
 
 <p><span class="chinese">上颚或下颚突出为失格。</span><span class="english">Undershot or overshot bite is a disqualification.</span></p>

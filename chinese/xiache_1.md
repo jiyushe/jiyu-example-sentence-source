@@ -1,5 +1,7 @@
 # 瞎扯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiache_1.md)
+
 <p><span class="chinese">常识是瞎扯。</span><span class="english">Common sense is baloney.</span></p>
 
 <p><span class="chinese">不，那是瞎扯！</span><span class="english">No, man, that's bullshit.</span></p>

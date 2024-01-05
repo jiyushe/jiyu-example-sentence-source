@@ -1,5 +1,7 @@
 # caregiver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caregiver.md)
+
 <p><span class="chinese">描绘出案主与健康工作者之间。</span><span class="english">Constructed between the caregiver and health work.</span></p>
 
 <p><span class="chinese">阿兹海默症对病患的看护者有何影响?。</span><span class="english">Q. What effect can Alzheimer's disease have on a caregiver?</span></p>

@@ -1,5 +1,7 @@
 # 品类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinlei.md)
+
 <p><span class="chinese">红牛拥有了能量饮料品类，星巴克占据了高端咖啡品类，而Google则完全掌控了搜索领域。</span><span class="english">Red Bull dominates the energy-drink category.</span></p>
 
 <p><span class="chinese">什么是热贡艺术？热贡艺术的艺术品类主要有哪些？</span><span class="english">What is Regong Art?What are the major sorts of the Regong Art works?</span></p>

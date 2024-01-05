@@ -1,5 +1,7 @@
 # maverick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maverick.md)
+
 <p><span class="chinese">我会唱你喜欢鹅和小牛的壮志凌云。</span><span class="english">So! I guess I'll be Maverick and you can be Goose.</span></p>
 
 <p><span class="chinese">马弗里克也无法解释他是如何想出了这个词。</span><span class="english">Maverick could not explain how he made up the word.</span></p>

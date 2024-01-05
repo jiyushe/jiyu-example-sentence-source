@@ -1,5 +1,7 @@
 # specializing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specializing.md)
+
 <p><span class="chinese">这是一家专门出版食谱的出版公司。</span><span class="english">This is a house specializing in cookbooks.</span></p>
 
 <p><span class="chinese">时间是一位精于修改的裁缝。</span><span class="english">Time is a dressmaker, specializing in alterations.</span></p>

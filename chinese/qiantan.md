@@ -1,5 +1,7 @@
 # 浅滩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiantan.md)
+
 <p><span class="chinese">自备高跷渉浅滩。</span><span class="english">Wading on their own stilts.</span></p>
 
 <p><span class="chinese">免费浅滩婴儿阿富汗模式。</span><span class="english">Free riffle baby afghan pattern.</span></p>

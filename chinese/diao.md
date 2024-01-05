@@ -1,5 +1,7 @@
 # 低凹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diao.md)
+
 <p><span class="chinese">大雨淹没了低凹地。</span><span class="english">Heavy rainfalls flooded the lowlands.</span></p>
 
 <p><span class="chinese">小溪与江河流到宽阔的低凹地，便出现了湖泊。</span><span class="english">When streams and rivers run to widelowland, lakes appear.</span></p>

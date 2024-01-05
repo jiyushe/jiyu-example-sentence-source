@@ -1,5 +1,7 @@
 # guage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guage.md)
+
 <p><span class="chinese">用交替槽去创造一些很有创造力的连段。</span><span class="english">Use the cross guage to create a creative combo.</span></p>
 
 <p><span class="chinese">为业余人类学家在测量领域寻求轨迹而准备的物品。</span><span class="english">A must for the amateur anthropologist who seeks to guage the feromonic field.</span></p>

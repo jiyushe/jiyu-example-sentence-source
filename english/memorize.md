@@ -1,5 +1,7 @@
 # memorize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memorize.md)
+
 <p><span class="chinese">记忆一首歌。</span><span class="english">Memorize a song.</span></p>
 
 <p><span class="chinese">背诵演讲稿。</span><span class="english">Memorize your speech.</span></p>

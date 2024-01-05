@@ -1,5 +1,7 @@
 # 句式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jushi.md)
+
 <p><span class="chinese">这是一种肯定的句式。</span><span class="english">It's an affirmative.</span></p>
 
 <p><span class="chinese">这是一个命令句式。</span><span class="english">And it's a directive.</span></p>

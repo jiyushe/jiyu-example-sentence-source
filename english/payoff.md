@@ -1,5 +1,7 @@
 # payoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/payoff.md)
+
 <p><span class="chinese">它最大化了我的预期收益</span><span class="english">It maximizes my expected payoff.</span></p>
 
 <p><span class="chinese">它最大化了对手选S-i时我的收益</span><span class="english">It maximizes my payoff against S-i.</span></p>

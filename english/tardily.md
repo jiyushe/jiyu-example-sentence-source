@@ -1,5 +1,7 @@
 # tardily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tardily.md)
+
 <p><span class="chinese">他对我的信总是迟迟不作答复。</span><span class="english">He always replied rather tardily to my letters.</span></p>
 
 <p><span class="chinese">它们看起来很可爱，性格温顺，合作，乐于分享食物。</span><span class="english">They are good-natured, co-operative creatures, and they share their food tardily.</span></p>

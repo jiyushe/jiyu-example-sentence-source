@@ -1,5 +1,7 @@
 # 社会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehui.md)
+
 <p><span class="chinese">社会议程。</span><span class="english">Social Agenda.</span></p>
 
 <p><span class="chinese">如何管理社会媒体？</span><span class="english">How do we manage it?</span></p>

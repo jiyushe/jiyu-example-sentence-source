@@ -1,5 +1,7 @@
 # rheostat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheostat.md)
+
 <p><span class="chinese">可以调节的电阻器叫做变阻器。</span><span class="english">A variable resister is called a rheostat.</span></p>
 
 <p><span class="chinese">可以调节的电阻器叫做变阻器。</span><span class="english">A variable resister is called a rheostat.</span></p>

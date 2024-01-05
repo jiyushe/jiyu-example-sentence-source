@@ -1,5 +1,7 @@
 # 何乐而不为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heleerbuwei.md)
+
 <p><span class="chinese">既然如此，谷歌何乐而不为呢？</span><span class="english">So why shouldn't Google have access too?</span></p>
 
 <p><span class="chinese">这样不仅锻炼了身体而且节约了钱财，何乐而不为！</span><span class="english">You will not only get some exercise, but save some money too!</span></p>

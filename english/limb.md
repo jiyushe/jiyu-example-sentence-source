@@ -1,5 +1,7 @@
 # limb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limb.md)
+
 <p><span class="chinese">剪掉过长的树枝。</span><span class="english">Cut a limb from a tree.</span></p>
 
 <p><span class="chinese">没有四肢的骨骼。</span><span class="english">There were no limb bones.</span></p>

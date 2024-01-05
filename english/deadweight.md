@@ -1,5 +1,7 @@
 # deadweight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deadweight.md)
+
 <p><span class="chinese">就影响面来说，这样的税消除拥挤带来的净成本。</span><span class="english">To the extent effective, the tax would eliminate the deadweight cost of congestion.</span></p>
 
 <p><span class="chinese">这就表明消费者将面临更高的价格，从而会导致净福利损失。</span><span class="english">This suggests that consumers will face a higher price, leading to a deadweight welfare loss.</span></p>

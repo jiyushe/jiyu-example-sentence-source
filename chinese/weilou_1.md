@@ -1,5 +1,7 @@
 # 微露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilou_1.md)
+
 <p><span class="chinese">灰暗的海上天空已经微露红光。</span><span class="english">Over the gloomy sea the sky grew red.</span></p>
 
 <p><span class="chinese">我迎着晨曦微露，跑步在公园在林荫小道上。</span><span class="english">I greet the morning, running in the park in the tree-lined track.</span></p>

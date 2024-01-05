@@ -1,5 +1,7 @@
 # oaken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oaken.md)
+
 <p><span class="chinese">提利昂数出了六个橡木铁搭扣的箱子。</span><span class="english">Tyrion counted six, oaken chests with iron hasps.</span></p>
 
 <p><span class="chinese">他们一个个都紧盯着布满铁钉的橡木牢门。</span><span class="english">All with their eyes intently fastened on the iron-clamped oaken door.</span></p>

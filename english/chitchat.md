@@ -1,5 +1,7 @@
 # chitchat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chitchat.md)
+
 <p><span class="chinese">然后我们一边闲聊一边游戏。</span><span class="english">We then chitchat and played games.</span></p>
 
 <p><span class="chinese">我喜欢用电话与我的朋友们聊聊天。</span><span class="english">I like to chitchat with my friends on phone.</span></p>

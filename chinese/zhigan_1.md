@@ -1,5 +1,7 @@
 # 直感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigan_1.md)
+
 <p><span class="chinese">他的正直感和公平竞争意识使他拒绝了这一提议。</span><span class="english">His sense of decency and fair play made him refuse the offer.</span></p>
 
 <p><span class="chinese">直感休息室服务休闲耀斑和轻松的气氛一整天。</span><span class="english">Xenia Lounge serves casual flare and a relaxed atmosphere all day long.</span></p>

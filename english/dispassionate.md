@@ -1,5 +1,7 @@
 # dispassionate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispassionate.md)
+
 <p><span class="chinese">是的，科学确实是以经验为根据，是理性的。</span><span class="english">Yes, it is true that science is empirical and dispassionate.</span></p>
 
 <p><span class="chinese">简简单单地问问他们世界上发生了什么，为什么之类的问题。</span><span class="english">Be dispassionate. Simply ask them what in the world happened and why.</span></p>

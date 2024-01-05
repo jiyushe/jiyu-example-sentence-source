@@ -1,5 +1,7 @@
 # 地租
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizu.md)
+
 <p><span class="chinese">每年的地租是多少?。</span><span class="english">How much is the annual ground rent?</span></p>
 
 <p><span class="chinese">地主就会收回租地或抬高地租。</span><span class="english">The landlord will evict him or raise his rent.</span></p>

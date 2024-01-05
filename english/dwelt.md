@@ -1,5 +1,7 @@
 # dwelt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dwelt.md)
+
 <p><span class="chinese">他们仍生活贫困。</span><span class="english">They still dwelt in poverty.</span></p>
 
 <p><span class="chinese">我梦见居住在大理石宫殿</span><span class="english">I dreamt that I dwelt in marble halls</span></p>

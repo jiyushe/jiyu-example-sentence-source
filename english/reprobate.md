@@ -1,5 +1,7 @@
 # reprobate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprobate.md)
+
 <p><span class="chinese">他的儿子是他的重担。</span><span class="english">He disowned his reprobate son.</span></p>
 
 <p><span class="chinese">他很大胆地摈弃了一般常用的那种方式。</span><span class="english">He has always been a bit of a reprobate.</span></p>

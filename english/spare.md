@@ -1,5 +1,7 @@
 # spare 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spare.md)
+
 <p><span class="chinese">我没有备用轮胎。</span><span class="english">I have no spare tire.</span></p>
 
 <p><span class="chinese">我没有余钱。</span><span class="english">I have no spare money.</span></p>

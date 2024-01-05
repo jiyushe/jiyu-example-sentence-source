@@ -1,5 +1,7 @@
 # 学徒工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuetugong.md)
+
 <p><span class="chinese">他签订合同当了一名印刷学徒工。</span><span class="english">He engaged himself as an apprentice to a printer.</span></p>
 
 <p><span class="chinese">我的儿子在一家家具厂里当学徒工。</span><span class="english">My son is an apprentice in a furniture maker's workshop.</span></p>

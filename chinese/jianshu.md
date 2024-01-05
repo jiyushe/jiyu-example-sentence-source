@@ -1,5 +1,7 @@
 # 件数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshu.md)
+
 <p><span class="chinese">这些套件数据然后被输入到NDIS。</span><span class="english">The data from the kits are then put into the NDIS.</span></p>
 
 <p><span class="chinese">这是您的房间钥匙，行李的件数对了的吧？</span><span class="english">Here is your room key, Is this the correct number of bags?</span></p>

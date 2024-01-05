@@ -1,5 +1,7 @@
 # overemphasize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overemphasize.md)
+
 <p><span class="chinese">这一点不宜过分强调。</span><span class="english">It's inadvisable to overemphasize this point.</span></p>
 
 <p><span class="chinese">这实在是太强大了。</span><span class="english">I really can't overemphasize how powerful this is.</span></p>

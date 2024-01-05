@@ -1,5 +1,7 @@
 # 礼貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/limao.md)
+
 <p><span class="chinese">你的礼貌到哪里去了呢？</span><span class="english">Whar's yo' manners?</span></p>
 
 <p><span class="chinese">攫夺是不礼貌的。</span><span class="english">It is rude to snatch.</span></p>

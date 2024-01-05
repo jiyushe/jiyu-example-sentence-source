@@ -1,5 +1,7 @@
 # overcharge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcharge.md)
+
 <p><span class="chinese">一些小商贩太宰人了。</span><span class="english">Some peddlers overcharge too much.</span></p>
 
 <p><span class="chinese">出租汽车司机想多收她的车钱。</span><span class="english">The taxi-driver tried to overcharge her.</span></p>

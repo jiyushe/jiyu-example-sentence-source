@@ -1,5 +1,7 @@
 # 粗野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuye.md)
+
 <p><span class="chinese">他会非常粗野。</span><span class="english">He can be very rade in private.</span></p>
 
 <p><span class="chinese">他的举止近乎粗野。</span><span class="english">His manner touched on rudeness.</span></p>

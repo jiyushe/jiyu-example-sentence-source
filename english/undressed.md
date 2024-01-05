@@ -1,5 +1,7 @@
 # undressed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undressed.md)
+
 <p><span class="chinese">两个天使伺候他脱衣入浴。</span><span class="english">Two angels undressed and bathed him.</span></p>
 
 <p><span class="chinese">他脱去衣服，上床睡觉。</span><span class="english">He undressed himself and went to bed.</span></p>

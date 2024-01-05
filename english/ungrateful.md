@@ -1,5 +1,7 @@
 # ungrateful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ungrateful.md)
+
 <p><span class="chinese">她有一个忘恩负义、怀恨于心的家庭。</span><span class="english">Her family are ungrateful and spiteful.</span></p>
 
 <p><span class="chinese">有没有错亏心事，不怕！</span><span class="english">Have wrong ungrateful perform, not afraid!</span></p>

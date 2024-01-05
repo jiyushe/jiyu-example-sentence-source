@@ -1,5 +1,7 @@
 # 余额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yue.md)
+
 <p><span class="chinese">我现在的余额是多少？</span><span class="english">What’s my current balance?</span></p>
 
 <p><span class="chinese">我的银行存款余额不多了。</span><span class="english">My bank balance isn't very large.</span></p>

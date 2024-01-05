@@ -1,5 +1,7 @@
 # uw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uw.md)
+
 <p><span class="chinese">我们当中任何一个都可以到皇宫-游。</span><span class="english">Any one of uw may paya visit to the palace.</span></p>
 
 <p><span class="chinese">当威斯康辛大学官员知道这个之后，他们派了迪克森参加。</span><span class="english">When UW officials learned about it, they dispatched Dickson.</span></p>

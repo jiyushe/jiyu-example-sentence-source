@@ -1,5 +1,7 @@
 # 无声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusheng_2.md)
+
 <p><span class="chinese">团队寂静无声。</span><span class="english">The Team was silent.</span></p>
 
 <p><span class="chinese">屋子里寂静无声。</span><span class="english">The house was silent.</span></p>

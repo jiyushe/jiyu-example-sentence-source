@@ -1,5 +1,7 @@
 # predicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predicable.md)
+
 <p><span class="chinese">长度是线的属性。</span><span class="english">Length is predicable of a line.</span></p>
 
 <p><span class="chinese">可以期待，与之类似的业态也将在中国市场出现。</span><span class="english">It is predicable that the similar format will appear in China.</span></p>

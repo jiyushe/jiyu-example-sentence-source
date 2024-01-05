@@ -1,5 +1,7 @@
 # 密谋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mimou.md)
+
 <p><span class="chinese">流氓无赖的密谋。</span><span class="english">The conspiracy of knaves.</span></p>
 
 <p><span class="chinese">他们正密谋杀害他。</span><span class="english">They are plotting his murder.</span></p>

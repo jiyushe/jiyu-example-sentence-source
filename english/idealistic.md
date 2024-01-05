@@ -1,5 +1,7 @@
 # idealistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idealistic.md)
+
 <p><span class="chinese">充满热情，理想化。</span><span class="english">Passionate. Idealistic.</span></p>
 
 <p><span class="chinese">当然，那是一个理想境界。</span><span class="english">Of course, that's the idealistic view.</span></p>

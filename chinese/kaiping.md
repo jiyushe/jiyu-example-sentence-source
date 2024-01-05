@@ -1,5 +1,7 @@
 # 开屏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiping.md)
+
 <p><span class="chinese">而且孔雀还会开屏呢！</span><span class="english">Peacock can also spread its wings!</span></p>
 
 <p><span class="chinese">我总是等待着它开屏。</span><span class="english">I always wait for it to open its tail.</span></p>

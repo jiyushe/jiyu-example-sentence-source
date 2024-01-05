@@ -1,5 +1,7 @@
 # 手印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyin.md)
+
 <p><span class="chinese">她的手印也印在了儿子的身上。</span><span class="english">Her son bears her handprints, too.</span></p>
 
 <p><span class="chinese">我把手印印在卡片上。</span><span class="english">I sign the card with my handprint.</span></p>

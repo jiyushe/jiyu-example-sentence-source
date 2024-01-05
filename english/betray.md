@@ -1,5 +1,7 @@
 # betray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/betray.md)
+
 <p><span class="chinese">后来，我开始背叛她了。</span><span class="english">Then I began to betray her.</span></p>
 
 <p><span class="chinese">不要再让我们出卖灵魂。</span><span class="english">Don't let us betray our souls.</span></p>

@@ -1,5 +1,7 @@
 # 公证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzheng_1.md)
+
 <p><span class="chinese">只需公证结婚。</span><span class="english">Only court marriage.</span></p>
 
 <p><span class="chinese">阁下的签名必须被公证。</span><span class="english">Your signature must be notarized.</span></p>

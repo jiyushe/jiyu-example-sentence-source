@@ -1,5 +1,7 @@
 # 明察秋毫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingchaqiuhao.md)
+
 <p><span class="chinese">这位法官真是明察秋毫。</span><span class="english">Everything is seen as clear as crystal to the judge.</span></p>
 
 <p><span class="chinese">然而，他的目光很快就变得犀利而明察秋毫了。</span><span class="english">Very soon, however, his look became keen and penetrative.</span></p>

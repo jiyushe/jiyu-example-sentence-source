@@ -1,5 +1,7 @@
 # hypabyssal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypabyssal.md)
+
 <p><span class="chinese">东安金矿床是黑龙江省近几年来发现的浅成低温热液金矿床。</span><span class="english">Dongan gold deposit is a new discovered hypabyssal hydrothermal deposit in Heilongjiang province.</span></p>
 
 <p><span class="chinese">伴随着火山活动，始新世英云闪长岩侵入白垩系火山岩地层。</span><span class="english">Combining with volcanic activities, Eocene hypabyssal rocks, tonalite, intruded in Cretaceous volcanic strata.</span></p>

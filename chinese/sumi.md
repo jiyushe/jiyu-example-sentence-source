@@ -1,5 +1,7 @@
 # 粟米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sumi.md)
+
 <p><span class="chinese">超甜粟米生长十分快。</span><span class="english">The sweet corn is growing very fast.</span></p>
 
 <p><span class="chinese">今天只收成了几个茄子及两支粟米荀。</span><span class="english">Only five eggplants and two baby corns cropped today.</span></p>

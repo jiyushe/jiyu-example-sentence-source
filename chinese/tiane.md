@@ -1,5 +1,7 @@
 # 天蛾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiane.md)
+
 <p><span class="chinese">这是蜂鸟科的天蛾。</span><span class="english">This is a humming-bird moth.</span></p>
 
 <p><span class="chinese">天蛾人在缅因州的一家精神病院里面。</span><span class="english">Mothman's in a asylum up in a Maine.</span></p>

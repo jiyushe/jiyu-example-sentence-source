@@ -1,5 +1,7 @@
 # align
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/align.md)
+
 <p><span class="chinese">对准你的目标预算。</span><span class="english">Align budgeting with your goals.</span></p>
 
 <p><span class="chinese">你能把这张桌子同那些桌子排成一行吗？</span><span class="english">Could you align this table with those?</span></p>

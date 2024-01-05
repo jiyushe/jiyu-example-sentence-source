@@ -1,5 +1,7 @@
 # novelistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/novelistic.md)
+
 <p><span class="chinese">印度电影不像小说，它并不来源于生活。</span><span class="english">Indian cinema isn't novelistic.</span></p>
 
 <p><span class="chinese">超越是戏剧悲剧和小说悲剧的共同特质。</span><span class="english">Transcendency is the common features of dramatic tragedy and novelistic tragedy.</span></p>

@@ -1,5 +1,7 @@
 # phytosanitary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phytosanitary.md)
+
 <p><span class="chinese">我们需要一份植物检疫证书。</span><span class="english">We need a phytosanitary Certificate.</span></p>
 
 <p><span class="chinese">我们需要一份植物检疫证书。</span><span class="english">Wee need a phytosanitary Certificate.</span></p>

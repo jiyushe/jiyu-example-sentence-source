@@ -1,5 +1,7 @@
 # 引证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzheng_1.md)
+
 <p><span class="chinese">以一个引证结束，或者号召大家去行动。</span><span class="english">Conclude with a quote or call to action.</span></p>
 
 <p><span class="chinese">我是从ISI科学论文引证系统知道您。</span><span class="english">I know of you from the ISI paper citation system.</span></p>

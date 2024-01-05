@@ -1,5 +1,7 @@
 # kendo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kendo.md)
+
 <p><span class="chinese">他是剑道部的重要成员。</span><span class="english">He's an important member of Kendo Society.</span></p>
 
 <p><span class="chinese">剑道是一门包含很多层面的“艺术”。</span><span class="english">Kendo is an art that involves a lot of action.</span></p>

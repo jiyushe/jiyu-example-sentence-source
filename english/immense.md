@@ -1,5 +1,7 @@
 # immense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immense.md)
+
 <p><span class="chinese">他们赢得了世大的胜利。</span><span class="english">They scored an immense victory.</span></p>
 
 <p><span class="chinese">他们在浩淼的海洋上航行。</span><span class="english">They sailed on the immense ocean.</span></p>

@@ -1,5 +1,7 @@
 # 好好先生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haohaoxiansheng.md)
+
 <p><span class="chinese">制作人是一名好好先生。</span><span class="english">The producer is a nice man.</span></p>
 
 <p><span class="chinese">我还是那边的好好先生?。</span><span class="english">Me or Mr. Goody-Goody over there?</span></p>

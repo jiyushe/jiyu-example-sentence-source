@@ -1,5 +1,7 @@
 # fraudulence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fraudulence.md)
+
 <p><span class="chinese">这可以帮助您，以避免任何形式的欺诈。</span><span class="english">This helps you to avoid any sort of fraudulence.</span></p>
 
 <p><span class="chinese">几十年过去了，他才了解谨小甚微的背后是自我欺骗。</span><span class="english">Decades later, he sees the fraudulence in that discretion.</span></p>

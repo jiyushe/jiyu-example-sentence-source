@@ -1,5 +1,7 @@
 # 小桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqiao_2.md)
+
 <p><span class="chinese">是的，我知道——那座小桥。</span><span class="english">Yes, I do – the little bridge.</span></p>
 
 <p><span class="chinese">独立小桥风满袖。</span><span class="english">Alone on the bridge, wind in sleeve.</span></p>

@@ -1,5 +1,7 @@
 # aeroelasticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeroelasticity.md)
+
 <p><span class="chinese">在气动弹性力学中，机翼振颤是一个非常典型的问题。</span><span class="english">Airfoil flutter is one of the important problems in aeroelasticity.</span></p>
 
 <p><span class="chinese">耦合结构动力学方程，建立了基于状态空间的跨声速气动弹性分析模型。</span><span class="english">Coupled with the structural equations, the models for transonic aeroelasticity in state-space are got.</span></p>

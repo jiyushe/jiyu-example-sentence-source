@@ -1,5 +1,7 @@
 # 伪证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizheng_1.md)
+
 <p><span class="chinese">你让我作了伪证…</span><span class="english">You made me perjure myself.</span></p>
 
 <p><span class="chinese">看看这位声名狼藉的伪证犯！</span><span class="english">Look upon the Infamous Perjurer!</span></p>

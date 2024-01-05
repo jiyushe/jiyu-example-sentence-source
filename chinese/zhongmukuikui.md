@@ -1,5 +1,7 @@
 # 众目睽睽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongmukuikui.md)
+
 <p><span class="chinese">一个狡猾的凶手在众目睽睽下隐藏。</span><span class="english">A cunning killer hides in plain sight.</span></p>
 
 <p><span class="chinese">参议员的活动使他常处于众目睽睽之下。</span><span class="english">The senator's activity kept him in the public eye.</span></p>

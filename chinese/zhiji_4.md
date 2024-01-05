@@ -1,5 +1,7 @@
 # 至极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiji_4.md)
+
 <p><span class="chinese">干戈是至极可怕的。</span><span class="english">War is very terrible.</span></p>
 
 <p><span class="chinese">我觉得它简直难看至极。</span><span class="english">I think it is an eyesore.</span></p>

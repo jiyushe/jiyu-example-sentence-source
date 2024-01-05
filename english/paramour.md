@@ -1,5 +1,7 @@
 # paramour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paramour.md)
+
 <p><span class="chinese">他的妻子怀疑他有情妇。</span><span class="english">His wife suspected that he had a paramour.</span></p>
 
 <p><span class="chinese">你始终不肖泄露你的奸夫。</span><span class="english">Thou hast kept the secret of thy paramour.</span></p>

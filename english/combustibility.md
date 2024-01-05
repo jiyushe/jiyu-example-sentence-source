@@ -1,5 +1,7 @@
 # combustibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combustibility.md)
+
 <p><span class="chinese">商业生活方式的易激动性。</span><span class="english">The combustibility of our commercial life style.</span></p>
 
 <p><span class="chinese">R290的可燃性在实际中是完全可以控制其安全性。</span><span class="english">The combustibility of R290 can completely control its safety.</span></p>

@@ -1,5 +1,7 @@
 # 多灾多难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duozaiduonan.md)
+
 <p><span class="chinese">这可怜的东西，他这一辈子也够多灾多难的了。</span><span class="english">He's had enough trouble in his life, poor thing.</span></p>
 
 <p><span class="chinese">我是你的妻子，这是你的儿子‘多灾多难’。</span><span class="english">I am a son's' that you of wife, this is you are ill-starred'.</span></p>

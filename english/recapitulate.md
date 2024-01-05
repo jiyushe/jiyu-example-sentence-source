@@ -1,5 +1,7 @@
 # recapitulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recapitulate.md)
+
 <p><span class="chinese">让我们来概括一下要点。</span><span class="english">Let's recapitulate the main ideas.</span></p>
 
 <p><span class="chinese">在这里将其简要重述一下也是有帮助的。</span><span class="english">It will be helpful to recapitulate them.</span></p>

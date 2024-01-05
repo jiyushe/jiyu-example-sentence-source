@@ -1,5 +1,7 @@
 # 商场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangchang_1.md)
+
 <p><span class="chinese">那就是百货商场给他的回答。</span><span class="english">That's what they told him.</span></p>
 
 <p><span class="chinese">我从这家商场里买了个小戒指。</span><span class="english">I got a circlet from the mall.</span></p>

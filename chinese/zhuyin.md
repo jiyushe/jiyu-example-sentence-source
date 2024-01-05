@@ -1,5 +1,7 @@
 # 主因
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyin.md)
+
 <p><span class="chinese">主因未详。</span><span class="english">The details of the principal cause are not known.</span></p>
 
 <p><span class="chinese">缺乏自信是失败的主因。</span><span class="english">Self-distrust is the cause of most of our failure.</span></p>

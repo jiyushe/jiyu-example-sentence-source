@@ -1,5 +1,7 @@
 # 养尊处优
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangzunchuyou.md)
+
 <p><span class="chinese">快乐的时候痛苦也会被放大，养尊处优惯了，哪怕是轻声的喝斥也难以接受。</span><span class="english">When in a happy mood, pain will also be magnified.</span></p>
 
 <p><span class="chinese">总有一天我们会发财,那时候我们就可以养尊处优了.</span><span class="english">One day we'll be rich, and you and I will live like kings.</span></p>

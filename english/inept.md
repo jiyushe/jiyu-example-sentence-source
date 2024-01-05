@@ -1,5 +1,7 @@
 # inept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inept.md)
+
 <p><span class="chinese">他想要握手，可我少不更事，笨拙，惊慌。</span><span class="english">He wanted to hold hands. I was young, inept and scared.</span></p>
 
 <p><span class="chinese">在如此正式的场合，怎么说这样不恰当的话。</span><span class="english">Whan an inept remark to make on such a formal occasion.</span></p>

@@ -1,5 +1,7 @@
 # underclothes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underclothes.md)
+
 <p><span class="chinese">脱掉你的内衣。</span><span class="english">Take off your underclothes.</span></p>
 
 <p><span class="chinese">女人的内衣裤是常见的能引起性快感的恋物。</span><span class="english">Women's underclothes are a common fetish.</span></p>

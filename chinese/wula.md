@@ -1,5 +1,7 @@
 # 乌拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wula.md)
+
 <p><span class="chinese">年轻女人很害怕丑丑的乌拉。</span><span class="english">The young woman was afraid of poor, ugly Woola.</span></p>
 
 <p><span class="chinese">乌拉，和他们一起走，用你的生命守卫她们。</span><span class="english">Woola! Go with them and guard them with your life.</span></p>

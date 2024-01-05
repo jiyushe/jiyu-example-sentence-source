@@ -1,5 +1,7 @@
 # dispersedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispersedly.md)
+
 <p><span class="chinese">鲻鱼甲状腺滤泡分散分布于前鳃区腹主动脉周围的结缔组织中。</span><span class="english">The thyroid gland of grey mullet is dispersedly distributed in the region of anterior branchial arch.</span></p>
 
 <p><span class="chinese">复古的荡领营造出飘逸的美丽，浪漫也在褶皱间弥散开来。</span><span class="english">Those who restore ancient ways swing get build an elegant soft beauty, romance also comes dispersedly in the cover between drape.</span></p>

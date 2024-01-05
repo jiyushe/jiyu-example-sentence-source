@@ -1,5 +1,7 @@
 # sneering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sneering.md)
+
 <p><span class="chinese">这諟嘲讽悳笑。</span><span class="english">This is laughing at sneering at.</span></p>
 
 <p><span class="chinese">“恭喜你！”盖斯勒冷笑着说。</span><span class="english">Congratulations! said Gessler, sneering.</span></p>

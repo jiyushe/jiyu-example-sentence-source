@@ -1,5 +1,7 @@
 # fixer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fixer.md)
+
 <p><span class="chinese">霍斯战役前夕，卡米和男友举行了他们的婚礼。</span><span class="english">Camie and Fixer married before the Battle of Hoth.</span></p>
 
 <p><span class="chinese">补路工离开酒店，德代日转向其他人。</span><span class="english">The road fixer left the shop, and Defarge turned to the others.</span></p>

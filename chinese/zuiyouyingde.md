@@ -1,5 +1,7 @@
 # 罪有应得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuiyouyingde.md)
+
 <p><span class="chinese">罪有应得。</span><span class="english">You deserved it.</span></p>
 
 <p><span class="chinese">他是罪有应得的吗？</span><span class="english">Did he deserve it?</span></p>

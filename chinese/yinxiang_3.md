@@ -1,5 +1,7 @@
 # 音箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxiang_3.md)
+
 <p><span class="chinese">这种音箱的箱体是手工制作的。</span><span class="english">This kind of speaker box was handcrafted.</span></p>
 
 <p><span class="chinese">你现在的音箱能这么玩么？</span><span class="english">Try that with the speakers you use today.</span></p>

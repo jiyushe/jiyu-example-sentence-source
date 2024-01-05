@@ -1,5 +1,7 @@
 # blotter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blotter.md)
+
 <p><span class="chinese">墨水被吸墨纸吸干了。</span><span class="english">The ink was absorbed by the blotter.</span></p>
 
 <p><span class="chinese">用一张吸墨纸把溅出来墨水吸掉。</span><span class="english">Use a blotter to take up the spilt ink.</span></p>

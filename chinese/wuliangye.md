@@ -1,5 +1,7 @@
 # 五粮液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuliangye.md)
+
 <p><span class="chinese">五粮液是中国最著名的白酒之一。</span><span class="english">Know, "Wuliangye" is not a lot of people.</span></p>
 
 <p><span class="chinese">五粮液是中国最著名的白酒之一。</span><span class="english">Wuliangye is one of the most famous white wine.</span></p>

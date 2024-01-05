@@ -1,5 +1,7 @@
 # 肉排
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roupai.md)
+
 <p><span class="chinese">现在请你煎肉排吧！</span><span class="english">And now suppose you put the chops on.</span></p>
 
 <p><span class="chinese">这就是送往全俄罗斯的肉排！</span><span class="english">And here are the cutlets for all Russia!</span></p>

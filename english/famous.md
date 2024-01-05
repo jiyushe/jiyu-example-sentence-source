@@ -1,5 +1,7 @@
 # famous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/famous.md)
+
 <p><span class="chinese">最著名的景点是中山陵。</span><span class="english">Famous is Sun Yat-sen.</span></p>
 
 <p><span class="chinese">他好像是一位著名演员。</span><span class="english">He seemed a famous actor.</span></p>

@@ -1,5 +1,7 @@
 # 擦屁股
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/capigu.md)
+
 <p><span class="chinese">擦擦屁股。</span><span class="english">Wipe your bottom.</span></p>
 
 <p><span class="chinese">熊一把抓住老鼠擦擦屁股走了！</span><span class="english">Xiong seize a mouse butt wipe away!</span></p>

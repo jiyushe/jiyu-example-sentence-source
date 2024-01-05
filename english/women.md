@@ -1,5 +1,7 @@
 # women
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/women.md)
+
 <p><span class="chinese">啊，女人们。</span><span class="english">Ah, women.</span></p>
 
 <p><span class="chinese">某些女人喜欢它。</span><span class="english">Some women like it.</span></p>

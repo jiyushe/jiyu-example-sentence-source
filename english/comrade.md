@@ -1,5 +1,7 @@
 # comrade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comrade.md)
+
 <p><span class="chinese">点解管理员同志。</span><span class="english">A comrade administrator.</span></p>
 
 <p><span class="chinese">还有李立三同志选不选?。</span><span class="english">And Comrade Li Li-san too?</span></p>

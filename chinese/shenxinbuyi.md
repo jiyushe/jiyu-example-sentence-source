@@ -1,5 +1,7 @@
 # 深信不疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxinbuyi.md)
+
 <p><span class="chinese">并深信不疑。</span><span class="english">mythologize it.</span></p>
 
 <p><span class="chinese">他对她深信不疑。</span><span class="english">He believed in her.</span></p>

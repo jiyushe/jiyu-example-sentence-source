@@ -1,5 +1,7 @@
 # 干掉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gandiao.md)
+
 <p><span class="chinese">徒儿们，把他们全干掉。</span><span class="english">Disciples, kill them all!</span></p>
 
 <p><span class="chinese">把他们干掉！全部杀光！</span><span class="english">Wipe them off! kill them all!</span></p>

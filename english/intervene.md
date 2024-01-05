@@ -1,5 +1,7 @@
 # intervene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intervene.md)
+
 <p><span class="chinese">或者，他信任上帝的干涉吗？</span><span class="english">Or does he trust in God to intervene?</span></p>
 
 <p><span class="chinese">我找一个中间人来干涉。</span><span class="english">Let me find an intermediary to intervene.</span></p>

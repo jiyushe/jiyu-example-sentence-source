@@ -1,5 +1,7 @@
 # seaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seaway.md)
+
 <p><span class="chinese">为何圣罗伦斯海路对加拿大那么重要？</span><span class="english">Why is the St. Lawrence Seaway important to Canada?</span></p>
 
 <p><span class="chinese">新马德里断层带实际沿着海道向上而行。</span><span class="english">The New Madrid Fault line in fact runs up along the Seaway.</span></p>

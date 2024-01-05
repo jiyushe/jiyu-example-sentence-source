@@ -1,5 +1,7 @@
 # 笔帽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bimao.md)
+
 <p><span class="chinese">你的笔帽松了，很快就要掉了。</span><span class="english">The top of your pen is going _and will soon fall.</span></p>
 
 <p><span class="chinese">你的笔帽松了，很快就要掉了。</span><span class="english">The top of your pen is going adrift and will soon fall.</span></p>

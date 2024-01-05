@@ -1,5 +1,7 @@
 # 异国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiguo.md)
+
 <p><span class="chinese">想要一些异国风情吗？</span><span class="english">Want something a bit more exotic?</span></p>
 
 <p><span class="chinese">我喜欢去一些异国风情的地方。</span><span class="english">I like to travle to exotic places.</span></p>

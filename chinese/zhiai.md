@@ -1,5 +1,7 @@
 # 志哀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiai.md)
+
 <p><span class="chinese">国王驾崩，全国都下半旗志哀。</span><span class="english">All the flags were at half-mast when the king died.</span></p>
 
 <p><span class="chinese">马德里的旗帜降半旗志哀，并安排在中午进行一次默哀。</span><span class="english">Flags in Madrid flew at half-staff and a silent vigil was planned for noon.</span></p>

@@ -1,5 +1,7 @@
 # relatively 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relatively.md)
+
 <p><span class="chinese">相对来说它很慢。</span><span class="english">It's relatively slow.</span></p>
 
 <p><span class="chinese">有些唐人街的历史相对不长。</span><span class="english">Some Chinatowns are relatively new.</span></p>

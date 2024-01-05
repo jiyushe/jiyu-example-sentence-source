@@ -1,5 +1,7 @@
 # woefully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woefully.md)
+
 <p><span class="chinese">典型的北美饮食可悲地远远失去平衡。</span><span class="english">The typical North American diet is woefully out of balance.</span></p>
 
 <p><span class="chinese">对安全功能进行翻新改造通常都是达不到目的的。</span><span class="english">Security that is retrofitted is usually woefully inadequate.</span></p>

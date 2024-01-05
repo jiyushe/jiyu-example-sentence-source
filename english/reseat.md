@@ -1,5 +1,7 @@
 # reseat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reseat.md)
+
 <p><span class="chinese">我们也都希望能让他重新归位。</span><span class="english">We all want to make a reseat.</span></p>
 
 <p><span class="chinese">如果我看到了这样的话,我会过去将你进行座位调整。</span><span class="english">If I see that, I will just go up and reseat you.</span></p>

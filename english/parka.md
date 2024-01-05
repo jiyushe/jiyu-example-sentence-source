@@ -1,5 +1,7 @@
 # parka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parka.md)
+
 <p><span class="chinese">为了您的棉衣今天！</span><span class="english">Order your Parka today!</span></p>
 
 <p><span class="chinese">我还携带了一件派克式的外套。</span><span class="english">My carry-on item was a parka.</span></p>

@@ -1,5 +1,7 @@
 # 草帽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caomao.md)
+
 <p><span class="chinese">我的草帽被风吹掉了。</span><span class="english">My straw hat blew off.</span></p>
 
 <p><span class="chinese">妈妈，我的草帽北风吹掉了。</span><span class="english">My straw hat blew off, mama!</span></p>

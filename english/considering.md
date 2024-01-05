@@ -1,5 +1,7 @@
 # considering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/considering.md)
+
 <p><span class="chinese">打算丰胸了？</span><span class="english">Considering breast implants?</span></p>
 
 <p><span class="chinese">也可以考虑购买伺服电动机。</span><span class="english">Also considering buying servos.</span></p>

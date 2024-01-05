@@ -1,5 +1,7 @@
 # cos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cos.md)
+
 <p><span class="chinese">因为你说不出口。</span><span class="english">Cos you don't say it.</span></p>
 
 <p><span class="chinese">因为我有实足的耐心。</span><span class="english">Cos my patience is strong.</span></p>

@@ -1,5 +1,7 @@
 # mistiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistiness.md)
+
 <p><span class="chinese">他非常调皮。</span><span class="english">He is very mistiness.</span></p>
 
 <p><span class="chinese">苔丝就在这样光线暗淡的暮霭里，往前从从容容地走。</span><span class="english">Through this low-lit mistiness Tess walked leisurely along.</span></p>

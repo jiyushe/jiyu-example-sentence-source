@@ -1,5 +1,7 @@
 # sellable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sellable.md)
+
 <p><span class="chinese">这些产品在我们的市场中有售。</span><span class="english">These items are most sellable in our market.</span></p>
 
 <p><span class="chinese">这些产品在我们这的市场上最畅销。</span><span class="english">These items are most sellable in our market.</span></p>

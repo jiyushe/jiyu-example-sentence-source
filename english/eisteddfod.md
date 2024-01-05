@@ -1,5 +1,7 @@
 # eisteddfod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eisteddfod.md)
+
 <p><span class="chinese">一年中最重要的节日是全国诗歌音乐比赛会。</span><span class="english">The great eent of the year is the National Eisteddfod.</span></p>
 
 <p><span class="chinese">一年中最严重的节是全国诗歌音乐竞争会。</span><span class="english">The great event of the year is the National Eisteddfod.</span></p>

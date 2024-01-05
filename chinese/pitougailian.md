@@ -1,5 +1,7 @@
 # 劈头盖脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pitougailian.md)
+
 <p><span class="chinese">倾盆大雨劈头盖脸地浇了下来。</span><span class="english">The rain came pelting down.</span></p>
 
 <p><span class="chinese">记者们的问题劈头盖脸地问了一大堆。</span><span class="english">Questions showered on him by the reporters.</span></p>

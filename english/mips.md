@@ -1,5 +1,7 @@
 # mips
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mips.md)
+
 <p><span class="chinese">测试程序同上篇日志。</span><span class="english">Same MIPs program with last blog.</span></p>
 
 <p><span class="chinese">MIPS绕过使用伪指令，是什么地方出错了?。</span><span class="english">MIPS getting around using pseudo-instructions, What is going wrong?</span></p>

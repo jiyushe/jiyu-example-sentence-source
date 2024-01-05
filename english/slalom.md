@@ -1,5 +1,7 @@
 # slalom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slalom.md)
+
 <p><span class="chinese">比赛的第二阶段是回转赛。</span><span class="english">The second part of this competition is slalom.</span></p>
 
 <p><span class="chinese">在小回转和大回转中都要用到两板平行的转弯。</span><span class="english">Turns on parallel skis are used in both Slalom and GS.</span></p>

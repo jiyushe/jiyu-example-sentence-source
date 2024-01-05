@@ -1,5 +1,7 @@
 # 列队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liedui.md)
+
 <p><span class="chinese">士兵们列队通过。</span><span class="english">The soldiers paraded by.</span></p>
 
 <p><span class="chinese">士兵列队站好。</span><span class="english">The soldiers were lined up.</span></p>

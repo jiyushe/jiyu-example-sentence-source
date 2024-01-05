@@ -1,5 +1,7 @@
 # claustrophobia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/claustrophobia.md)
+
 <p><span class="chinese">我讨厌电梯——电梯使我有幽闭恐惧感。</span><span class="english">I hate lifts — they give me claustrophobia.</span></p>
 
 <p><span class="chinese">素妍从少年时，刺激了幽闭恐惧症。</span><span class="english">So-yeon from juvenile when a stimulus had claustrophobia.</span></p>

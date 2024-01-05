@@ -1,5 +1,7 @@
 # 哀痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aitong.md)
+
 <p><span class="chinese">那则消息使他哀痛。</span><span class="english">The news made him sad.</span></p>
 
 <p><span class="chinese">时间缓解一切哀痛。</span><span class="english">Time soften all griefs.</span></p>

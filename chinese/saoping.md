@@ -1,5 +1,7 @@
 # 扫平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saoping.md)
+
 <p><span class="chinese">共和国至此扫平了当时他们最强的对手。</span><span class="english">The NCR had defeated their strongest opponent yet.</span></p>
 
 <p><span class="chinese">但短暂的公开很快就被扫平。</span><span class="english">But a brief period of openness was quickly quashed.</span></p>

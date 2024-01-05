@@ -1,5 +1,7 @@
 # henchman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/henchman.md)
+
 <p><span class="chinese">哦，你是个不自觉的仆从。</span><span class="english">Oh, you are an unconscious henchman.</span></p>
 
 <p><span class="chinese">他靠下属的奉承而发迹。</span><span class="english">He thrived on the adulation of his henchman.</span></p>

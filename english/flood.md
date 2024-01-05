@@ -1,5 +1,7 @@
 # flood 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flood.md)
+
 <p><span class="chinese">因为洪水地上全湿了。</span><span class="english">The ground is the flood.</span></p>
 
 <p><span class="chinese">接着，一场持续40天的洪水爆发。</span><span class="english">Then a 40-day flood hits.</span></p>

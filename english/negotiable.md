@@ -1,5 +1,7 @@
 # negotiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negotiable.md)
+
 <p><span class="chinese">一切几乎都是可以协商的。</span><span class="english">Nearly everything is negotiable.</span></p>
 
 <p><span class="chinese">公司的政策市没得商量的。</span><span class="english">Company policy is not negotiable.</span></p>

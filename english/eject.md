@@ -1,5 +1,7 @@
 # eject
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eject.md)
+
 <p><span class="chinese">我只有告诉自己，不能，还不能弹射。</span><span class="english">I said to myself, I can't eject yet.</span></p>
 
 <p><span class="chinese">这些蜥蜴能从眼睛里喷血。</span><span class="english">The lizards can eject blood from its eyes.</span></p>

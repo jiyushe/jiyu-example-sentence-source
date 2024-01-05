@@ -1,5 +1,7 @@
 # victimless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/victimless.md)
+
 <p><span class="chinese">第四点，不存在无被害人犯罪。</span><span class="english">Fourth, there is no victimless crime.</span></p>
 
 <p><span class="chinese">也有些人认为这是无害过错。</span><span class="english">Others assume it's a victimless offense.</span></p>

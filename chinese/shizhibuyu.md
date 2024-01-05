@@ -1,5 +1,7 @@
 # 矢志不渝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhibuyu.md)
+
 <p><span class="chinese">成功的秘诀在于矢志不渝的坚持。</span><span class="english">The secret of success is consstancy of purpose.</span></p>
 
 <p><span class="chinese">他是一个执着的人，对于自己的追求矢志不渝。</span><span class="english">He is a determined person, persistent in pursuit.</span></p>

@@ -1,5 +1,7 @@
 # straightforward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/straightforward.md)
+
 <p><span class="chinese">这似乎简单易懂。</span><span class="english">It seems straightforward.</span></p>
 
 <p><span class="chinese">此过程比较简单。</span><span class="english">This process is straightforward.</span></p>

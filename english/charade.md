@@ -1,5 +1,7 @@
 # charade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charade.md)
+
 <p><span class="chinese">我想你的哑谜游戏已经被大家看穿了。</span><span class="english">I think your charade is all played out.</span></p>
 
 <p><span class="chinese">整个场面就像手势字谜游戏那样矫饰做作。</span><span class="english">the whole scene was as unreal as a charade.</span></p>

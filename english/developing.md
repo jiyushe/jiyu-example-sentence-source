@@ -1,5 +1,7 @@
 # developing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/developing.md)
+
 <p><span class="chinese">语言总是在不断地发展着。</span><span class="english">Languages are always developing.</span></p>
 
 <p><span class="chinese">开发开放源码的派生物</span><span class="english">Developing derivatives of open source</span></p>

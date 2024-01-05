@@ -1,5 +1,7 @@
 # refurbish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refurbish.md)
+
 <p><span class="chinese">房协的义工为长者粉饰家居。</span><span class="english">Housing Society volunteers refurbish the homes for the elderly.</span></p>
 
 <p><span class="chinese">这笔钱的大部分将被用来整修一个为印度所用的港口。</span><span class="english">Most of that money will be used to refurbish a port that will be for India's use.</span></p>

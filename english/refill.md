@@ -1,5 +1,7 @@
 # refill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refill.md)
+
 <p><span class="chinese">他被赋予了新的笔芯。</span><span class="english">He was given a fresh refill.</span></p>
 
 <p><span class="chinese">喝完吧，接着我再给你斟满。</span><span class="english">Drink up then I'll refill your glass.</span></p>

@@ -1,5 +1,7 @@
 # gunning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunning.md)
+
 <p><span class="chinese">他们打兔子去了。</span><span class="english">They went gunning for rabbits.</span></p>
 
 <p><span class="chinese">莎拉裴琳准备2012年选总统?。</span><span class="english">Is Sarah Palin gunning for 2012?</span></p>

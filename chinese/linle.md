@@ -1,5 +1,7 @@
 # 临了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linle.md)
+
 <p><span class="chinese">临了，他放下桅杆，站起身来。</span><span class="english">Finally he put the mast down and stood up.</span></p>
 
 <p><span class="chinese">一年一度的田径赛又将来临了。</span><span class="english">The annual athletic competition is round the corner again.</span></p>

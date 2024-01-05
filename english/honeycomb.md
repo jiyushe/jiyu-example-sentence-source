@@ -1,5 +1,7 @@
 # honeycomb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honeycomb.md)
+
 <p><span class="chinese">踩碎蜂巢中的蜜。</span><span class="english">Tread down honey in the honeycomb.</span></p>
 
 <p><span class="chinese">将机器压成蜂窝煤，能烧得着吗？</span><span class="english">Honeycomb briquette made of this machine?</span></p>

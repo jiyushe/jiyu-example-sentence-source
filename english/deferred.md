@@ -1,5 +1,7 @@
 # deferred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deferred.md)
+
 <p><span class="chinese">她拖延得太久了。</span><span class="english">She has deferred too long.</span></p>
 
 <p><span class="chinese">延期付款的标准.</span><span class="english">A Standard of Deferred Payment.</span></p>

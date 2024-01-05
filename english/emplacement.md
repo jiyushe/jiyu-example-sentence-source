@@ -1,5 +1,7 @@
 # emplacement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emplacement.md)
+
 <p><span class="chinese">其侵位时代为早白垩世。</span><span class="english">Its emplacement age was Early Cretaceous.</span></p>
 
 <p><span class="chinese">为一架或更多架大炮而设的炮兵阵地。</span><span class="english">An emplacement for one or more pieces of artillery.</span></p>

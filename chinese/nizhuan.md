@@ -1,5 +1,7 @@
 # 逆转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nizhuan.md)
+
 <p><span class="chinese">除了预防，糖尿病也能逆转。</span><span class="english">And we can go beyond prevention.</span></p>
 
 <p><span class="chinese">家庭价值是否发生了“U”型逆转？</span><span class="english">Did “family values” take a U-turn?</span></p>

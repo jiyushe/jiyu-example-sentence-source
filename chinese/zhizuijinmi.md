@@ -1,5 +1,7 @@
 # 纸醉金迷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizuijinmi.md)
+
 <p><span class="chinese">时髦奢华的阿比让已成为西非纸醉金迷的迷魂窟。</span><span class="english">Chic flash abidjan has become the siren of west africa.</span></p>
 
 <p><span class="chinese">人们常常说说好莱坞就是“纸醉金迷的高中”。</span><span class="english">It is often said that Hollywood is  high school with money.</span></p>

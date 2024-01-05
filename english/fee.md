@@ -1,5 +1,7 @@
 # fee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fee.md)
+
 <p><span class="chinese">免费或收费？</span><span class="english">Free or fee?</span></p>
 
 <p><span class="chinese">您的手续费呢？</span><span class="english">And your fee?</span></p>

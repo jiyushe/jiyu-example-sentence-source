@@ -1,5 +1,7 @@
 # day 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/day.md)
+
 <p><span class="chinese">好天？</span><span class="english">Good day?</span></p>
 
 <p><span class="chinese">是顺天？</span><span class="english">The day is?</span></p>

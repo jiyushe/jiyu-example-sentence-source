@@ -1,5 +1,7 @@
 # compute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compute.md)
+
 <p><span class="chinese">我们怎么计算呢？</span><span class="english">So, how do we compute it?</span></p>
 
 <p><span class="chinese">计算时间差。</span><span class="english">Compute the time difference.</span></p>

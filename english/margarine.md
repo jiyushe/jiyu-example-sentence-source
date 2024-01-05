@@ -1,5 +1,7 @@
 # margarine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/margarine.md)
+
 <p><span class="chinese">使用无反式脂肪的人造黄油。</span><span class="english">Use trans-fat-free margarine.</span></p>
 
 <p><span class="chinese">人造奶油一度是违法的。</span><span class="english">At one time, margarine was illegal.</span></p>

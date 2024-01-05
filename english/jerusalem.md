@@ -1,5 +1,7 @@
 # jerusalem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jerusalem.md)
+
 <p><span class="chinese">如何分享耶路撒冷？</span><span class="english">How to share Jerusalem?</span></p>
 
 <p><span class="chinese">◎南望耶路撒冷…</span><span class="english">Jerusalem from the South.</span></p>

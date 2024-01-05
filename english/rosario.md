@@ -1,5 +1,7 @@
 # rosario
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosario.md)
+
 <p><span class="chinese">罗萨里奥说，菲律宾开始失去耐心。</span><span class="english">The Philippines is getting impatient, Mr. del Rosario said.</span></p>
 
 <p><span class="chinese">现在这名来自罗萨里奥的17岁小伙子已经长到了170cm。</span><span class="english">Now Rosario from the 17-year-old young man has to 170cm long.</span></p>

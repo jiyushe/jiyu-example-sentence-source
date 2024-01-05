@@ -1,5 +1,7 @@
 # marigold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marigold.md)
+
 <p><span class="chinese">不过像太阳眷顾下的金盏花。</span><span class="english">But as the marigold at the sun's eye.</span></p>
 
 <p><span class="chinese">你会把金盏菊和玫瑰花进行比较吗？</span><span class="english">Do you compare a marigold with a rose flower?</span></p>

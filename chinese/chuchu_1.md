@@ -1,5 +1,7 @@
 # 出处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchu_1.md)
+
 <p><span class="chinese">上面这段声明的出处是？</span><span class="english">The source of this statement?</span></p>
 
 <p><span class="chinese">我问她东西的出处。</span><span class="english">I asked her for the provenance.</span></p>

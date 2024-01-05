@@ -1,5 +1,7 @@
 # contented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contented.md)
+
 <p><span class="chinese">快乐是身在福中知道福。</span><span class="english">Happiness is being contented.</span></p>
 
 <p><span class="chinese">他是个容易满足的残疾人。</span><span class="english">He is an easily contented perso.</span></p>

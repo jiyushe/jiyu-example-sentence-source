@@ -1,5 +1,7 @@
 # oppositional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oppositional.md)
+
 <p><span class="chinese">所以，哲思逻辑又可以称为对当关系逻辑。</span><span class="english">Therefore, metaphysical logic can be also termed oppositional logic.</span></p>
 
 <p><span class="chinese">反对派公开的“反谢利格尔”论坛在希姆基森林完成了自己的工作。</span><span class="english">"The Antiseliger", an open oppositional forum has finished in Himkinsky forest.</span></p>

@@ -1,5 +1,7 @@
 # 签名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianming.md)
+
 <p><span class="chinese">我应在哪里签名？</span><span class="english">Where can I sign?</span></p>
 
 <p><span class="chinese">我想要一张亲笔签名。</span><span class="english">I want an autograph.</span></p>

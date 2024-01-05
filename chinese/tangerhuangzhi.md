@@ -1,5 +1,7 @@
 # 堂而皇之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangerhuangzhi.md)
+
 <p><span class="chinese">这一切却堂而皇之都是以国家的名义。</span><span class="english">This is all nobly in the name of the country.</span></p>
 
 <p><span class="chinese">这句话的意思是要给罗伯特•奥德利先生一个堂而皇之的谴责。</span><span class="english">This was intended as a stately reproof to Mr. Robert Audley.</span></p>

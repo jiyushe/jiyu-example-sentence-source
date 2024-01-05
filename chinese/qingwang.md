@@ -1,5 +1,7 @@
 # 情网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingwang.md)
+
 <p><span class="chinese">我想我坠入情网了.</span><span class="english">I think I`m in love.</span></p>
 
 <p><span class="chinese">他们不会陷入情网？</span><span class="english">Don't they fall in love?</span></p>

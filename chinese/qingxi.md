@@ -1,5 +1,7 @@
 # 清晰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxi.md)
+
 <p><span class="chinese">写作清晰，务必精简，避免赘言。</span><span class="english">Write clearly.</span></p>
 
 <p><span class="chinese">制定一个清晰的日程安排表。</span><span class="english">Have a clear schedule.</span></p>

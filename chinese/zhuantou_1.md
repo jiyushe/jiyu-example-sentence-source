@@ -1,5 +1,7 @@
 # 赚头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuantou_1.md)
+
 <p><span class="chinese">他说养羊没有赚头。</span><span class="english">He says that sheep farming doesn't pay.</span></p>
 
 <p><span class="chinese">我所做的投资都很有赚头。</span><span class="english">The investments I made were all profitable.</span></p>

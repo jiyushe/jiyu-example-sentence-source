@@ -1,5 +1,7 @@
 # 冲天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongtian_1.md)
+
 <p><span class="chinese">他的上司怒火冲天。</span><span class="english">His boss was purple with rage.</span></p>
 
 <p><span class="chinese">不一会儿火光冲天，这是我最喜欢看见的情景。</span><span class="english">Flaming in a short time, this is I most like to see.</span></p>

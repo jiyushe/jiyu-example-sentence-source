@@ -1,5 +1,7 @@
 # sharper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharper.md)
+
 <p><span class="chinese">吸毒人数甚至下降得更为明显。</span><span class="english">The decline in drug-taking is even sharper.</span></p>
 
 <p><span class="chinese">我希望我有长点的头发。我希望我有更雪亮的眼镜。</span><span class="english">I wish I had longer hair. I wish I had sharper eyes.</span></p>

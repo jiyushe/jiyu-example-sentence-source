@@ -1,5 +1,7 @@
 # 效绩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoji_1.md)
+
 <p><span class="chinese">认证能够促进部门效绩的提高。</span><span class="english">Certification can increase the credibility of the department.</span></p>
 
 <p><span class="chinese">效绩衡量是现代政府的一个必不可少的组成部分。</span><span class="english">Performance measurement is an integral part of modern government.</span></p>

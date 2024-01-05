@@ -1,5 +1,7 @@
 # 竞争
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzheng_1.md)
+
 <p><span class="chinese">不要竞争。</span><span class="english">Do not compete.</span></p>
 
 <p><span class="chinese">但芬尼有竞争对手。</span><span class="english">But Feeny has competition.</span></p>

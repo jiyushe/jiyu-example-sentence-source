@@ -1,5 +1,7 @@
 # 米制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mizhi_1.md)
+
 <p><span class="chinese">大多数国家采取米制，他的国家也是这样。</span><span class="english">Most countries adopt metric system and so his country did.</span></p>
 
 <p><span class="chinese">公里是米制中最大的长度单位。</span><span class="english">The kilometer is the biggest unit length in the metric system.</span></p>

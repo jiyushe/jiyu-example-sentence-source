@@ -1,5 +1,7 @@
 # assizes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assizes.md)
+
 <p><span class="chinese">在下一次鸟类审判中。</span><span class="english">At next bird assizes.</span></p>
 
 <p><span class="chinese">下回小鸟审判，受审者为麻雀。</span><span class="english">The Sparrow's for trial, At next bird assizes.</span></p>

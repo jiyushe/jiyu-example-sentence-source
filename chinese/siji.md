@@ -1,5 +1,7 @@
 # 伺机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siji.md)
+
 <p><span class="chinese">我认为比尔是想伺机捞一把。</span><span class="english">I thought Bill intended to be on the grab.</span></p>
 
 <p><span class="chinese">从某种意义上说，他是在伺机报复。</span><span class="english">In a certain sense he is taking his revenge.</span></p>

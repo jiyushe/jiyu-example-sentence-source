@@ -1,5 +1,7 @@
 # inflexion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflexion.md)
+
 <p><span class="chinese">英语动词具有屈折式形态变化的特征。</span><span class="english">Inflexion is a characteristic for the verbs of English.</span></p>
 
 <p><span class="chinese">新车型不断涌现中高级车迎来发展新拐点？</span><span class="english">New cars come forth continuously mid and high-class cars meet a new inflexion?</span></p>

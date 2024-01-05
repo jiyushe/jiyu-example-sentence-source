@@ -1,5 +1,7 @@
 # signatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signatory.md)
+
 <p><span class="chinese">什么是“帐户签字人”？</span><span class="english">What is an "account signatory"?</span></p>
 
 <p><span class="chinese">伊朗是这一公约的签署国。</span><span class="english">Iran is a signatory to this convention.</span></p>

@@ -1,5 +1,7 @@
 # grinding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grinding.md)
+
 <p><span class="chinese">怎么还没有磨成铁粉哪。</span><span class="english">I've been grinding so hard.</span></p>
 
 <p><span class="chinese">磨粉磨不细，就去学唱戏。</span><span class="english">Grinding mill, not just to use.</span></p>

@@ -1,5 +1,7 @@
 # 前妻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianqi.md)
+
 <p><span class="chinese">你是怎么遇到你的前妻的？</span><span class="english">How you met your ex-wife?</span></p>
 
 <p><span class="chinese">那么，也别对你前妻/夫这么做。</span><span class="english">Don't do it to your ex, either.</span></p>

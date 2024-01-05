@@ -1,5 +1,7 @@
 # 双生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangsheng.md)
+
 <p><span class="chinese">双生子常极相似。</span><span class="english">Twins often show great resemblance.</span></p>
 
 <p><span class="chinese">子宫中形成同卵双生。</span><span class="english">Identical twins are formed in the womb.</span></p>

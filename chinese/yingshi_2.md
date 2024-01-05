@@ -1,5 +1,7 @@
 # 硬是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingshi_2.md)
+
 <p><span class="chinese">他们硬是在政策问题上没有达成一致。</span><span class="english">They simply couldn't get together on matters of policy.</span></p>
 
 <p><span class="chinese">我本想留下来，可她硬是把我拉走帮她买东西。</span><span class="english">I wanted to stay, but she dragged me off to help her shop.</span></p>

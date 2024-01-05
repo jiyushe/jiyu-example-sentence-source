@@ -1,5 +1,7 @@
 # wildly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wildly.md)
+
 <p><span class="chinese">他的心开始怦怦狂跳。</span><span class="english">His heart began to thump wildly.</span></p>
 
 <p><span class="chinese">他在街上大声唱，老婆娘也在</span><span class="english">And in the streets he wildly sang</span></p>

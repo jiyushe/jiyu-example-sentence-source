@@ -1,5 +1,7 @@
 # superconductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superconductive.md)
+
 <p><span class="chinese">经真空退火，得到本发明的硼化镁超导线材。</span><span class="english">Rotary swaging, rolling, vacuum annealing the wire obtain the MgB2 superconductive line.</span></p>
 
 <p><span class="chinese">在薄膜方面，硬膜、超导膜和亚稳态薄膜的研究将仍然是真空科学方面的热点。</span><span class="english">For the thin films, hard coatings, superconductive and metastable films will be the hot-spots.</span></p>

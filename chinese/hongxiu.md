@@ -1,5 +1,7 @@
 # 红袖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongxiu.md)
+
 <p><span class="chinese">不须红袖来扶我。</span><span class="english">Red armbands do not have to help me.</span></p>
 
 <p><span class="chinese">红袖也站起身来，说，我也想去。</span><span class="english">Tea has stood up and said, I also wanted to go.</span></p>

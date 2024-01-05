@@ -1,5 +1,7 @@
 # 病家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingjia_2.md)
+
 <p><span class="chinese">医生，你的病家是有地位的人。</span><span class="english">Doctor, your clients are, people of condition.</span></p>
 
 <p><span class="chinese">病家侵权有其特殊性，应当确立病家侵权的救济规则。</span><span class="english">Torts of patients and their families are different from the others.</span></p>

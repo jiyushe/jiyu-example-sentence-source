@@ -1,5 +1,7 @@
 # canopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canopy.md)
+
 <p><span class="chinese">我的头上可有一片天篷为我准备著？</span><span class="english">Is there a canopy in store for me?</span></p>
 
 <p><span class="chinese">入口处有一顶天篷。</span><span class="english">There is a canopy over the entrance.</span></p>

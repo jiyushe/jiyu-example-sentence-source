@@ -1,5 +1,7 @@
 # 天棚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianpeng.md)
+
 <p><span class="chinese">一块吃饭用的麻栗树木材甲板和荫凉的一个天棚。</span><span class="english">A teak deck for al fresco dining and a canopy for shade.</span></p>
 
 <p><span class="chinese">再次进入梦中，我发现一个房间的天棚断裂了。</span><span class="english">Got into dream again, I found the ceiling of a room having rifted.</span></p>

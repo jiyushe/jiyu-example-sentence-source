@@ -1,5 +1,7 @@
 # geosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geosphere.md)
+
 <p><span class="chinese">大气圈、水圈、生物圈和地圈的整体及其相互作用。</span><span class="english">The totality of the atmosphere, hydrosphere, biosphere and geosphere.</span></p>
 
 <p><span class="chinese">生物圈佔领生活大气、地球水面和岩石圈的那些部分。</span><span class="english">The biosphere occupies those parts of the atmosphere, hydrosphere, and geosphere where life is found.</span></p>

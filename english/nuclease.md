@@ -1,5 +1,7 @@
 # nuclease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuclease.md)
+
 <p><span class="chinese">用荧光淬火双链探针研究核酸酶的活性。</span><span class="english">Study on nuclease activity with fluorescence quenching probe.</span></p>
 
 <p><span class="chinese">母体卵子中的少数基因游离于核酸酶外。</span><span class="english">A small number of genes in the mother's egg set outside the nuclease.</span></p>

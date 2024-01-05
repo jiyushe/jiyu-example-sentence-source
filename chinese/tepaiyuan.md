@@ -1,5 +1,7 @@
 # 特派员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tepaiyuan.md)
+
 <p><span class="chinese">司法特派员不受政治压力的影响。</span><span class="english">The Ombudsman is not subject to political pressure.</span></p>
 
 <p><span class="chinese">作为回报，他只要一枚联邦特派员的徽章。</span><span class="english">All he wanted in return was a federal agent's badge.</span></p>

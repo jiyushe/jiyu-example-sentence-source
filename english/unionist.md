@@ -1,5 +1,7 @@
 # unionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unionist.md)
+
 <p><span class="chinese">看似此时正是行业工会主义者的有利时机。</span><span class="english">It looks like an opportunity for a trade unionist.</span></p>
 
 <p><span class="chinese">统一党马上拒绝了此方案，并称其为背叛。</span><span class="english">Unionist immediately rejected the idea, calling it a betrayal.</span></p>

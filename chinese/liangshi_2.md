@@ -1,5 +1,7 @@
 # 良师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangshi_2.md)
+
 <p><span class="chinese">他们甚至可能会把我当作良师。</span><span class="english">They might even see me as a mentor.</span></p>
 
 <p><span class="chinese">良师作为一个例子，可以助你更轻松地走向成功。</span><span class="english">Mentors can help you achieve success more easily by acting as an example.</span></p>

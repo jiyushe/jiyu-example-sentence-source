@@ -1,5 +1,7 @@
 # humpty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humpty.md)
+
 <p><span class="chinese">胖蛋坐在墙上。</span><span class="english">Humpty Dumpty sat on the wall.</span></p>
 
 <p><span class="chinese">矮胖的人有大的下降。</span><span class="english">Humpty Dumpty had a great fall.</span></p>

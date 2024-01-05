@@ -1,5 +1,7 @@
 # everest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/everest.md)
+
 <p><span class="chinese">他们在一九七六年攀登埃佛勒斯峰。</span><span class="english">They ascended Mt. Everest in 1976.</span></p>
 
 <p><span class="chinese">他说，珠穆朗玛峰本身正在变化。</span><span class="english">Everest itself is changing, he says.</span></p>

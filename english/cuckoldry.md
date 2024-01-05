@@ -1,5 +1,7 @@
 # cuckoldry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuckoldry.md)
+
 <p><span class="chinese">“所以，我不欠你妻子的吗？”她。</span><span class="english">"So, don't I owe your cuckoldry?"She.</span></p>
 
 <p><span class="chinese">但是大家都没有看出来他妻子的变化。</span><span class="english">But everyone didn't see out his cuckoldry variety.</span></p>

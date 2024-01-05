@@ -1,5 +1,7 @@
 # 出来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chulai.md)
+
 <p><span class="chinese">唱出来。</span><span class="english">Sing it.</span></p>
 
 <p><span class="chinese">我看得出来的“</span><span class="english">I can tell."</span></p>

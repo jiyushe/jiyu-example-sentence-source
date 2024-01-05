@@ -1,5 +1,7 @@
 # workaholic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workaholic.md)
+
 <p><span class="chinese">爸爸是一个工作狂。</span><span class="english">My father is a workaholic.</span></p>
 
 <p><span class="chinese">摩羯座是天生的工作狂。</span><span class="english">This sign is the original workaholic.</span></p>

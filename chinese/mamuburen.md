@@ -1,5 +1,7 @@
 # 麻木不仁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mamuburen.md)
+
 <p><span class="chinese">是的，监狱让你麻木不仁。</span><span class="english">Yes, prison desensitizes you.</span></p>
 
 <p><span class="chinese">他似乎比以前更显得麻木不仁。</span><span class="english">Hurstwood seemed more apathetic than ever.</span></p>

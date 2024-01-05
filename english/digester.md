@@ -1,5 +1,7 @@
 # digester
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digester.md)
+
 <p><span class="chinese">他从消化池中将料浆抽取到附近的土地上，而不用拖拉机来铺料浆。</span><span class="english">Instead of using his tractor to spread slurry, he pumps it from the digester on to nearby fields.</span></p>
 
 <p><span class="chinese">所有的小颗粒和液体都将流入消化池内停留四十天。</span><span class="english">And all the small particles and the liquids flow into the digester where they stay for forty days.</span></p>

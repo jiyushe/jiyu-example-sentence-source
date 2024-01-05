@@ -1,5 +1,7 @@
 # ethnicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnicity.md)
+
 <p><span class="chinese">中国纯种汉人已经绝迹。</span><span class="english">Pure-blood Chinese Han ethnicity vanishes.</span></p>
 
 <p><span class="chinese">政治属性是民族的基本属性。</span><span class="english">Political attributes are basic to ethnicity.</span></p>

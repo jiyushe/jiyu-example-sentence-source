@@ -1,5 +1,7 @@
 # tamper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tamper.md)
+
 <p><span class="chinese">别干预我的事。</span><span class="english">Don't tamper with my business.</span></p>
 
 <p><span class="chinese">激光全息防伪字模材料。</span><span class="english">Laser hologram tamper evident printing material.</span></p>

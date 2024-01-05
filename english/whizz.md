@@ -1,5 +1,7 @@
 # whizz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whizz.md)
+
 <p><span class="chinese">把无花果和砂糖加进番泻浸液中并开启搅拌器搅拌至光滑细致。</span><span class="english">Add the figs and sugar to the senna infusion and whizz until smooth.</span></p>
 
 <p><span class="chinese">开往伦敦的火车每天飞快地驶过村边小站。</span><span class="english">Trains whizz through the station by the village on their way to London every day.</span></p>

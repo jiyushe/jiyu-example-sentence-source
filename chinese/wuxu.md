@@ -1,5 +1,7 @@
 # 务须
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxu.md)
+
 <p><span class="chinese">务须注意下列各项。</span><span class="english">Attention must be paid to the following.</span></p>
 
 <p><span class="chinese">你务须听从父母的话。</span><span class="english">You must give ear to what the parents tell you.</span></p>

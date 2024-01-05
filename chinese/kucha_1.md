@@ -1,5 +1,7 @@
 # 裤衩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kucha_1.md)
+
 <p><span class="chinese">你丫拉屎穿裤衩呀！</span><span class="english">You shit to wear underpants!</span></p>
 
 <p><span class="chinese">设想你没有输掉裤衩会怎样？</span><span class="english">What if you don’t lose your ass?</span></p>

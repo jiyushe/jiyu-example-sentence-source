@@ -1,5 +1,7 @@
 # 胃炎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyan_1.md)
+
 <p><span class="chinese">调节胃脏，治愈胃炎。</span><span class="english">Tones the stomach and cures gastritis.</span></p>
 
 <p><span class="chinese">什么叫红斑渗出性胃炎？</span><span class="english">What calls erythema oozy sex gastritis ?</span></p>

@@ -1,5 +1,7 @@
 # bobbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bobbed.md)
+
 <p><span class="chinese">一条鱼迅速浮了上来。</span><span class="english">A fish bobbed up.</span></p>
 
 <p><span class="chinese">我想把头发剪短。</span><span class="english">I'd like my hair bobbed.</span></p>

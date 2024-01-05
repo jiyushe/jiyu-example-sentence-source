@@ -1,5 +1,7 @@
 # biotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biotype.md)
+
 <p><span class="chinese">综合上述结果，说明福建省8个烟粉虱种群均属于生物型“B”。</span><span class="english">The results indicated that all 8 populations were of the biotype B.</span></p>
 
 <p><span class="chinese">结论该菌株毒力较强，其生化型为青藏高原生物型。</span><span class="english">Conclusions The tested strain has a strong virulence and belongs to Qinghai-Tibet plateau in biotype.</span></p>

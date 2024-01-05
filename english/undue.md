@@ -1,5 +1,7 @@
 # undue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undue.md)
+
 <p><span class="chinese">不要过急地处理那个问题。</span><span class="english">Don't treat the matter with undue haste.</span></p>
 
 <p><span class="chinese">我奉劝你不要过于乐观。</span><span class="english">I would caution you against undue optimism.</span></p>

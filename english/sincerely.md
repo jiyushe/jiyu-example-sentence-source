@@ -1,5 +1,7 @@
 # sincerely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sincerely.md)
+
 <p><span class="chinese">我真心这样想。</span><span class="english">I mean this sincerely.</span></p>
 
 <p><span class="chinese">我朴拙地相信。</span><span class="english">I sincerely believe that.</span></p>

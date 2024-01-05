@@ -1,5 +1,7 @@
 # 尸骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigu_1.md)
+
 <p><span class="chinese">一些干枯的动物尸骨在沙漠上变白了。</span><span class="english">A few dry bones of animals bleached on the desert sand.</span></p>
 
 <p><span class="chinese">再紧靠着这堵新墙，重新堆好尸骨。</span><span class="english">Against the new masonry I re-erected the old rampart of bones.</span></p>

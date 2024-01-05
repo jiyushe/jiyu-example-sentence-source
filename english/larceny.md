@@ -1,5 +1,7 @@
 # larceny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/larceny.md)
+
 <p><span class="chinese">那人因重大盗窃案而被监禁。</span><span class="english">The man was put in jail for grand larceny.</span></p>
 
 <p><span class="chinese">盗窃罪是一种典型的财产性犯罪。</span><span class="english">The larceny is one kind of typical property crime.</span></p>

@@ -1,5 +1,7 @@
 # 落地生根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luodishenggen.md)
+
 <p><span class="chinese">新来的移民是否会落地生根？</span><span class="english">Will the new arrivals strike roots here?</span></p>
 
 <p><span class="chinese">爱，是一见而生，在心中落地生根。</span><span class="english">Love is a see born, take root in the heart.</span></p>

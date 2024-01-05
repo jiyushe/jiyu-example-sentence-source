@@ -1,5 +1,7 @@
 # curving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curving.md)
+
 <p><span class="chinese">不要试图自己减或者把弯曲的指甲挖出来。</span><span class="english">Do not try to cut or dig out the curving toenail.</span></p>
 
 <p><span class="chinese">上弯曲角度可在0-35度之间随意调节。</span><span class="english">On the curving angle may adjust at will between 0-35 degree.</span></p>

@@ -1,5 +1,7 @@
 # 宗派主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongpaizhuyi.md)
+
 <p><span class="chinese">你和所有宗派主义者同样狭隘。</span><span class="english">You are as bad as the other sectarians.</span></p>
 
 <p><span class="chinese">现在我来进二进宗派主义的间题。</span><span class="english">Let me now speak about the question of sectarianism.</span></p>

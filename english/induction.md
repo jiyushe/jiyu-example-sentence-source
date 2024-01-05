@@ -1,5 +1,7 @@
 # induction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/induction.md)
+
 <p><span class="chinese">三相感应马达“，”</span><span class="english">Three Phase Induction Motor.</span></p>
 
 <p><span class="chinese">在每一个硒诱导燃烧器。</span><span class="english">An induction burner at Per Se.</span></p>

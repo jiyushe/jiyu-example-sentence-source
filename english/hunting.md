@@ -1,5 +1,7 @@
 # hunting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hunting.md)
+
 <p><span class="chinese">它是一只真正狩猎用的猎犬。</span><span class="english">He was a hunting hound.</span></p>
 
 <p><span class="chinese">我准备去打猎。</span><span class="english">I'm fixing to go hunting.</span></p>

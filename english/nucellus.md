@@ -1,5 +1,7 @@
 # nucellus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucellus.md)
+
 <p><span class="chinese">珠被生长较快，并逐渐包围珠心。</span><span class="english">The integument grew fast and overgrew the nucellus.</span></p>
 
 <p><span class="chinese">另外的粉管核会在花粉管穿过珠心时发生分裂。</span><span class="english">The tube nucleus disintegrates as the pollen tube penetrates the nucellus.</span></p>

@@ -1,5 +1,7 @@
 # 降职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangzhi_1.md)
+
 <p><span class="chinese">你被降职了。</span><span class="english">You have been demoted.</span></p>
 
 <p><span class="chinese">总经理将那名雇员降职。</span><span class="english">The general manager downgraded the employee.</span></p>

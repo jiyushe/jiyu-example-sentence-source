@@ -1,5 +1,7 @@
 # nectary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nectary.md)
+
 <p><span class="chinese">花盘所有细胞构成蜜腺。</span><span class="english">All cells of the disc composed the nectary.</span></p>
 
 <p><span class="chinese">鹅掌柴花蜜腺为淀粉型蜜腺，淀粉粒为许多微小颗粒聚集成的复粒。</span><span class="english">The nectary belongs to starch nectary and the starch is complex grain.</span></p>

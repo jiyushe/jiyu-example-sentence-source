@@ -1,5 +1,7 @@
 # sealing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sealing.md)
+
 <p><span class="chinese">密封性好。</span><span class="english">Good sealing.</span></p>
 
 <p><span class="chinese">包密封。</span><span class="english">Package sealing.</span></p>

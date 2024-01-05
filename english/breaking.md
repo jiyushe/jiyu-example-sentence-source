@@ -1,5 +1,7 @@
 # breaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breaking.md)
+
 <p><span class="chinese">天正在发亮。</span><span class="english">The day is breaking upon.</span></p>
 
 <p><span class="chinese">这里是CNN即时新闻。</span><span class="english">This is CNN breaking news.</span></p>

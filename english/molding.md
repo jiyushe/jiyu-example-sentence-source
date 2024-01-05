@@ -1,5 +1,7 @@
 # molding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molding.md)
+
 <p><span class="chinese">压塑成型是什么?。</span><span class="english">What is compression molding?</span></p>
 
 <p><span class="chinese">造锁是另一种选择。</span><span class="english">Molding the lock is another option.</span></p>

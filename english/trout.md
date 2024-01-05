@@ -1,5 +1,7 @@
 # trout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trout.md)
+
 <p><span class="chinese">鲑鳟鱼斜向地顺流而下。</span><span class="english">The trout angled downstream.</span></p>
 
 <p><span class="chinese">他在这河里捕鳟鱼。</span><span class="english">He fished the stream for trout.</span></p>

@@ -1,5 +1,7 @@
 # 自娱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyu_2.md)
+
 <p><span class="chinese">朦脓中做了很多自娱自乐的傻事。</span><span class="english">Dim pus did a lot of enjoyment.</span></p>
 
 <p><span class="chinese">她以骗人而自娱。</span><span class="english">She enjoys doing other people down.</span></p>

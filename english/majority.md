@@ -1,5 +1,7 @@
 # majority 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/majority.md)
+
 <p><span class="chinese">绝大多数认为有罪。</span><span class="english">A pretty sizeable majority.</span></p>
 
 <p><span class="chinese">大多数人都站在本的一边。</span><span class="english">The majority were on Bens side.</span></p>

@@ -1,5 +1,7 @@
 # implode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implode.md)
+
 <p><span class="chinese">6个月内，中国就会自爆。</span><span class="english">The place would implode within 6 months.</span></p>
 
 <p><span class="chinese">为什么他们好像总是闹分手呢？</span><span class="english">Why do these couples seem to always implode?</span></p>

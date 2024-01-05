@@ -1,5 +1,7 @@
 # 戏院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyuan_1.md)
+
 <p><span class="chinese">我得到了戏院的赠票。</span><span class="english">I've got a nice store.</span></p>
 
 <p><span class="chinese">她匆匆离开戏院。</span><span class="english">She bopped off the theatre.</span></p>

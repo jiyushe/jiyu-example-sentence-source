@@ -1,5 +1,7 @@
 # 速冻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sudong.md)
+
 <p><span class="chinese">青食速冻最佳品种。</span><span class="english">Green food quick-frozen the best breed.</span></p>
 
 <p><span class="chinese">把它涂抹在牛柳的外面，把牛柳卷起后速冻。</span><span class="english">Rub it outside the beef, roll it and freeze.</span></p>

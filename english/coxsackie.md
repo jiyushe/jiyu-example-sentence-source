@@ -1,5 +1,7 @@
 # coxsackie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coxsackie.md)
+
 <p><span class="chinese">最常用的病毒是柯萨奇病毒B。</span><span class="english">The most common viral agent is Coxsackie B.</span></p>
 
 <p><span class="chinese">柯萨奇B病毒也是一种常见的病毒，最显著地感染儿童。</span><span class="english">Coxsackie B virus is also a common virus, most prominently affecting children.</span></p>

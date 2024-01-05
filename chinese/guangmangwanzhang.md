@@ -1,5 +1,7 @@
 # 光芒万丈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangmangwanzhang.md)
+
 <p><span class="chinese">并在荣耀中光芒万丈！</span><span class="english">Shining in glory for all men to see.</span></p>
 
 <p><span class="chinese">我时时刻刻都无法忘怀你眼中光芒万丈的闪耀。</span><span class="english">All the time, all the shine of your eyes I would never forget.</span></p>

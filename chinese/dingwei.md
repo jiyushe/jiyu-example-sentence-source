@@ -1,5 +1,7 @@
 # 定位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingwei.md)
+
 <p><span class="chinese">他是，怎么定位呢？</span><span class="english">He is, how to put it?</span></p>
 
 <p><span class="chinese">获得地址，定位到那个地方。</span><span class="english">Get the address, go there.</span></p>

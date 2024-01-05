@@ -1,5 +1,7 @@
 # 抗洪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanghong.md)
+
 <p><span class="chinese">一场紧张的抗洪抢险应急战再次打开。</span><span class="english">One emergency war against floods was kicked off again.</span></p>
 
 <p><span class="chinese">九八抗洪以后，中国慈善事业获得了进一步发展。</span><span class="english">After 1998 flood, China's charity cause made further progress.</span></p>

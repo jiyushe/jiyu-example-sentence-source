@@ -1,5 +1,7 @@
 # loudspeaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loudspeaker.md)
+
 <p><span class="chinese">每个扬声器有一个面朝后的低音炮。</span><span class="english">Each loudspeaker has a rear facing subwoofer.</span></p>
 
 <p><span class="chinese">她通过扬声器说话的声音失真了。</span><span class="english">Her voice over the loudspeaker was distorted.</span></p>

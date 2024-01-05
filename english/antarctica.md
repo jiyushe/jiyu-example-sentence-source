@@ -1,5 +1,7 @@
 # antarctica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antarctica.md)
+
 <p><span class="chinese">南极大陆并非总是冰封的不毛之地。</span><span class="english">Antarctica wasn't always a frozen wasteland.</span></p>
 
 <p><span class="chinese">南极上空的紫色部分即是所谓的「破洞」。</span><span class="english">The purple part over Antarctica is the "hole."</span></p>

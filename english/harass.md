@@ -1,5 +1,7 @@
 # harass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harass.md)
+
 <p><span class="chinese">申斥、惩罚或骚扰某人。</span><span class="english">Scold, punish or harass sb.</span></p>
 
 <p><span class="chinese">千万不要在你的信中表示威胁或抱怨。</span><span class="english">Never, ever threaten or harass in your letter.</span></p>

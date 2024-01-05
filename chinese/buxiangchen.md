@@ -1,5 +1,7 @@
 # 不相称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxiangchen.md)
+
 <p><span class="chinese">偷东西与他的身份不相称。</span><span class="english">It misbecomes him to steal.</span></p>
 
 <p><span class="chinese">这男孩身材小得同年龄不相称。</span><span class="english">The boy is small for his age.</span></p>

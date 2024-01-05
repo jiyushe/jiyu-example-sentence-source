@@ -1,5 +1,7 @@
 # balkanization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balkanization.md)
+
 <p><span class="chinese">我们不能接受使国家分裂或巴尔干化的行为。</span><span class="english">We can't accept the fragmentation or balkanization of the country.</span></p>
 
 <p><span class="chinese">就这样，从苏丹脱离埃及的那一刻开始，苏丹的割据进程开始了。</span><span class="english">Thus, the balkanization process started with the division of Sudan from Egypt.</span></p>

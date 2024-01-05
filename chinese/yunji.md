@@ -1,5 +1,7 @@
 # 云集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunji.md)
+
 <p><span class="chinese">在北部空中云集成小星虚度。</span><span class="english">I im the star in the northern sky.</span></p>
 
 <p><span class="chinese">这座城市游客云集。</span><span class="english">The city is swarmed with tourists.</span></p>

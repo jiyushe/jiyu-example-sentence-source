@@ -1,5 +1,7 @@
 # nlrb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nlrb.md)
+
 <p><span class="chinese">NLRB正在推动卡片检查的过程中扮演着同样大胆的角色。</span><span class="english">NLRB is playing an equally audacious role in pushing card-check.</span></p>
 
 <p><span class="chinese">以把这一议题带上法庭的方式，NLRB希望它从公众的讨论中消失。</span><span class="english">By taking the issue to the courts, the NLRB hopes to remove it from the public discourse.</span></p>

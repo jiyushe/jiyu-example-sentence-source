@@ -1,5 +1,7 @@
 # neonatal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neonatal.md)
+
 <p><span class="chinese">新生儿脐炎为常见病。</span><span class="english">Neonatal omphalitis is a disease of common occurence.</span></p>
 
 <p><span class="chinese">我的儿子亚伦在新生儿病房度完他十八天的生命。</span><span class="english">My son Aaron spent his 18 days of life in a neonatal unit.</span></p>

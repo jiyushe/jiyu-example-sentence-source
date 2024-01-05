@@ -1,5 +1,7 @@
 # deciduous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deciduous.md)
+
 <p><span class="chinese">什么是落叶树？</span><span class="english">What are deciduous trees?</span></p>
 
 <p><span class="chinese">落叶轻盈地舞蹈。</span><span class="english">Deciduous lightweight and dance.</span></p>

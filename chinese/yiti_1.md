@@ -1,5 +1,7 @@
 # 议题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiti_1.md)
+
 <p><span class="chinese">中加间将有何议题？</span><span class="english">What agenda items will there be?</span></p>
 
 <p><span class="chinese">可否请您为我澄清一个议题？</span><span class="english">Could you clarify a point for me?</span></p>

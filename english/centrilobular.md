@@ -1,5 +1,7 @@
 # centrilobular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centrilobular.md)
+
 <p><span class="chinese">可见肝中央静脉的肝小叶中央区。</span><span class="english">Here is the centrilobular portion of liver next to a central vein.</span></p>
 
 <p><span class="chinese">暗红色淤血区表示肝小叶中心区的红细胞积聚。</span><span class="english">Note the dark red congested regions that represent accumulation of RBC's in centrilobular regions.</span></p>

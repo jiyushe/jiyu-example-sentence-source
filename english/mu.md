@@ -1,5 +1,7 @@
 # mu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mu.md)
+
 <p><span class="chinese">1公顷合15市亩。</span><span class="english">A hectare is equal to 15 mu.</span></p>
 
 <p><span class="chinese">他们平整土地5000亩。</span><span class="english">They levelled 5000 mu of land.</span></p>

@@ -1,5 +1,7 @@
 # 摆渡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baidu_2.md)
+
 <p><span class="chinese">渡船又回到镇口摆渡去了。</span><span class="english">The ferryboat will take you over.</span></p>
 
 <p><span class="chinese">那老人将我摆渡过河。</span><span class="english">The old man boated me across the river.</span></p>

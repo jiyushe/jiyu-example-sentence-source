@@ -1,5 +1,7 @@
 # ascertainable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascertainable.md)
+
 <p><span class="chinese">那些不知去向之珠宝的确切“价值”弄得清楚吗?。</span><span class="english">Is the exact value of the missing jewels ascertainable?</span></p>
 
 <p><span class="chinese">即使一个小男生的戏言也可能有一些真义。</span><span class="english">Even a schoolboy's jape is supposed to have some ascertainable point.</span></p>

@@ -1,5 +1,7 @@
 # 些微
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiewei.md)
+
 <p><span class="chinese">出现些微希望。</span><span class="english">A few glimmerings of hope appeared.</span></p>
 
 <p><span class="chinese">他看着那张照片，那些微笑的脸。</span><span class="english">He looks at the photo. The smiling faces.</span></p>

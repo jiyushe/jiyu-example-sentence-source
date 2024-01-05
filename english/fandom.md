@@ -1,5 +1,7 @@
 # fandom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fandom.md)
+
 <p><span class="chinese">但迷恋足球不仅仅是不分距离和地理位置的。</span><span class="english">But fandom does more than defeat distance and geography.</span></p>
 
 <p><span class="chinese">盖特纳之后对其讲话作出澄清，强调他仍支持美元的储备货币地位。</span><span class="english">Mr. Geithner later clarified his remarks, emphasizing his continued fandom of the greenback.</span></p>

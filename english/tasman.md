@@ -1,5 +1,7 @@
 # tasman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tasman.md)
+
 <p><span class="chinese">而南部和西部是塔斯曼海。</span><span class="english">And the Tasman Sea to the south and west.</span></p>
 
 <p><span class="chinese">阿贝尔塔斯曼的皮划艇是如此的有趣。</span><span class="english">Kayaking in Abel Tasman is such a great fun!</span></p>

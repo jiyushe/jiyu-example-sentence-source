@@ -1,5 +1,7 @@
 # fervour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fervour.md)
+
 <p><span class="chinese">然而正直者是火焰和燃料！</span><span class="english">The just, however, are fervour and fuel!</span></p>
 
 <p><span class="chinese">他自己的眼睛闪烁着狂乱的激情。</span><span class="english">His own eyes shone with a maniacal fervour.</span></p>

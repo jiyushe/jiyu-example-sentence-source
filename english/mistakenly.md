@@ -1,5 +1,7 @@
 # mistakenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistakenly.md)
+
 <p><span class="chinese">我们误以为如果配偶爱我们。</span><span class="english">We mistakenly assume that if our partners love us.</span></p>
 
 <p><span class="chinese">当然,我们错误地相信自己有自由意志</span><span class="english">Of course, we mistakenly believe we've got free will.</span></p>

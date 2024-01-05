@@ -1,5 +1,7 @@
 # 撕开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sikai.md)
+
 <p><span class="chinese">撕开他们的假面具吧！</span><span class="english">Tear away their veil of shams!</span></p>
 
 <p><span class="chinese">他外套的线缝被撕开了。</span><span class="english">The seam of his coat is pulled.</span></p>

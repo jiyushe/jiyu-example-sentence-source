@@ -1,5 +1,7 @@
 # 指甲花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiahua.md)
+
 <p><span class="chinese">这一系列设计的灵感源于指甲花。</span><span class="english">This collection was inspired by henna body art.</span></p>
 
 <p><span class="chinese">另一个例子是指甲花刺青。</span><span class="english">Another example is the dangers from henna tattoos.</span></p>

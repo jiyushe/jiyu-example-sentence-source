@@ -1,5 +1,7 @@
 # 停电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingdian.md)
+
 <p><span class="chinese">停电，水源枯竭，油价上窜。</span><span class="english">Power, water depletion, gas channeling.</span></p>
 
 <p><span class="chinese">由于停电，所有的商店都关门了。</span><span class="english">All stores closed because of short-circuit.</span></p>

@@ -1,5 +1,7 @@
 # 幼龄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youling.md)
+
 <p><span class="chinese">这种嫁接植株一般在幼龄期便能盛产种子。</span><span class="english">The grafted trees generally bear good crops at young ages.</span></p>
 
 <p><span class="chinese">对切除卵巢的幼龄大鼠作本冲剂的雌激素活性实验。</span><span class="english">Also, an estrogen activity experiment was adopted in some young oophorectomized rats.</span></p>

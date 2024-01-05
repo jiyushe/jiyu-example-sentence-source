@@ -1,5 +1,7 @@
 # crime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crime.md)
+
 <p><span class="chinese">赵连海犯了什么罪？</span><span class="english">Zhao's crime?</span></p>
 
 <p><span class="chinese">而他的罪行呢？</span><span class="english">And his crime?</span></p>

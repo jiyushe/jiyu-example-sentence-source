@@ -1,5 +1,7 @@
 # underpinning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underpinning.md)
+
 <p><span class="chinese">我将金融视为诸多事物的基础</span><span class="english">I see finance as the underpinning of so much that happens.</span></p>
 
 <p><span class="chinese">采用预压桩托换法后，恢复正常使用功能。</span><span class="english">It was rectified by method of preloaded pile underpinning.</span></p>

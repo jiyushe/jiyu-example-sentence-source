@@ -1,5 +1,7 @@
 # persian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persian.md)
+
 <p><span class="chinese">波斯猫之脚。</span><span class="english">Foot of the Persian cat.</span></p>
 
 <p><span class="chinese">他们将有一只波斯猫。</span><span class="english">They will have a Persian cat.</span></p>

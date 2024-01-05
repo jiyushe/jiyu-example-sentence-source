@@ -1,5 +1,7 @@
 # assemblage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assemblage.md)
+
 <p><span class="chinese">浅水安装工艺法。</span><span class="english">Assemblage craft in deep water.</span></p>
 
 <p><span class="chinese">晨会在学校礼堂举行。</span><span class="english">Morning assemblage is held in the school hall.</span></p>

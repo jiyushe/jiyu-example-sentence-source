@@ -1,5 +1,7 @@
 # 手稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shougao.md)
+
 <p><span class="chinese">哪篇手稿做这？</span><span class="english">Which script is doing this?</span></p>
 
 <p><span class="chinese">请按体例修改这份手稿。</span><span class="english">Please style this manuscript.</span></p>

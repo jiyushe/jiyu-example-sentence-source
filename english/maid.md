@@ -1,5 +1,7 @@
 # maid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maid.md)
+
 <p><span class="chinese">你们就叫我贞女贞德吧。</span><span class="english">Call me Joan the Maid.</span></p>
 
 <p><span class="chinese">那是个阿比西尼亚姑娘。</span><span class="english">It was an Abyssinian maid.</span></p>

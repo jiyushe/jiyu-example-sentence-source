@@ -1,5 +1,7 @@
 # homespun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homespun.md)
+
 <p><span class="chinese">土布是一种织得粗糙的布。</span><span class="english">Homespun is a cloth of coarse weave.</span></p>
 
 <p><span class="chinese">又一次地，我们见到了质朴和高科技的组合。</span><span class="english">Once again, we have the same mix of homespun and high tech.</span></p>

@@ -1,5 +1,7 @@
 # cloggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloggy.md)
+
 <p><span class="chinese">虽说在地上不妨碍，它并没有走动，也没有逃跑的意思。</span><span class="english">Although not cloggy on the ground, it did not walk, also not flee meaning.</span></p>
 
 <p><span class="chinese">作为画家的追求并不妨碍将与其追求风马牛不相及的艺术家作为其策展对象。</span><span class="english">As a painter pursue not cloggy will pursue irrelevant artist as its curatorial object.</span></p>

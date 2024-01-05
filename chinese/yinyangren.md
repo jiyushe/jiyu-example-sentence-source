@@ -1,5 +1,7 @@
 # 阴阳人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyangren.md)
+
 <p><span class="chinese">茱迪是个阴阳人。</span><span class="english">One that is epicene.</span></p>
 
 <p><span class="chinese">茱迪是个阴阳人。</span><span class="english">Judy is an epicene person.</span></p>

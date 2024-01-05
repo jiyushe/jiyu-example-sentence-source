@@ -1,5 +1,7 @@
 # mars
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mars.md)
+
 <p><span class="chinese">不行，汤姆少爷。</span><span class="english">Can't, Mars Tom.</span></p>
 
 <p><span class="chinese">这是老子的火星时间。</span><span class="english">That's my Mars time.</span></p>

@@ -1,5 +1,7 @@
 # nastiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nastiness.md)
+
 <p><span class="chinese">她的恶劣行径使我惊讶。</span><span class="english">Her nastiness really threw me.</span></p>
 
 <p><span class="chinese">年深日久，他恶毒的文字开始让读者生厌。</span><span class="english">As the years went by his nastiness began to annoy his readers.</span></p>

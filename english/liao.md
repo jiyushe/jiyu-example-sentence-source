@@ -1,5 +1,7 @@
 # liao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liao.md)
+
 <p><span class="chinese">她曾建立了辽王朝。</span><span class="english">She has created Liao Dynasty.</span></p>
 
 <p><span class="chinese">我想要和廖先生说话。</span><span class="english">I would like to talk to Mr. Liao.</span></p>

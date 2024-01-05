@@ -1,5 +1,7 @@
 # 立交桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijiaoqiao.md)
+
 <p><span class="chinese">立交桥改变了城市的面貌。</span><span class="english">Flyovers have changed the face of the city.</span></p>
 
 <p><span class="chinese">立交桥变宽阔了，车驶上了NLEx高速公路。</span><span class="english">The flyover broadens into the NLEx Expressway.</span></p>

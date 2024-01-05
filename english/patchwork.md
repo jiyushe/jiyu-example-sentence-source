@@ -1,5 +1,7 @@
 # patchwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patchwork.md)
+
 <p><span class="chinese">我有一床百衲被。</span><span class="english">I have a patchwork quilt.</span></p>
 
 <p><span class="chinese">一个幻想的无缝错落有致。</span><span class="english">A Seamless Patchwork Of Fantasy.</span></p>

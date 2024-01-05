@@ -1,5 +1,7 @@
 # sabrina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sabrina.md)
+
 <p><span class="chinese">我只是和萨布丽娜保持联系。</span><span class="english">I'm just keeping up with Sabrina.</span></p>
 
 <p><span class="chinese">“宾克，还是有办法的。”萨布莱娜说。</span><span class="english">"Bink, there is a way, " Sabrina said.</span></p>

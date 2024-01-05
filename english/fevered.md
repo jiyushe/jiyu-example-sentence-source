@@ -1,5 +1,7 @@
 # fevered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fevered.md)
+
 <p><span class="chinese">激动使得他狂热。</span><span class="english">The excitement fevered him.</span></p>
 
 <p><span class="chinese">护士擦拭了他发烫的前额。</span><span class="english">The nurse mopped his fevered brow.</span></p>

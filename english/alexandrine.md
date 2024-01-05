@@ -1,5 +1,7 @@
 # alexandrine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alexandrine.md)
+
 <p><span class="chinese">剂量、时间同上。</span><span class="english">Dosage, time is Alexandrine.</span></p>
 
 <p><span class="chinese">最后一次重新一统亚历山大帝国的机会与历史失之交臂。</span><span class="english">The last chance to reunite the Alexandrine Empire had now passed.</span></p>

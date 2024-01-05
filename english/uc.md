@@ -1,5 +1,7 @@
 # uc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uc.md)
+
 <p><span class="chinese">“租书潮”风靡伯克利</span><span class="english">Rent-a-book concept arrives at UC Berkeley</span></p>
 
 <p><span class="chinese">瑞星，我们忽悠您的数字世界。</span><span class="english">Rising, we are f uc king your digital world.</span></p>

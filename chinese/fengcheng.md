@@ -1,5 +1,7 @@
 # 奉承
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengcheng.md)
+
 <p><span class="chinese">你是奉承我的人。</span><span class="english">You are smarmy.</span></p>
 
 <p><span class="chinese">不要相信奉承者。</span><span class="english">Do not trust flatters.</span></p>

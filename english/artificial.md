@@ -1,5 +1,7 @@
 # artificial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artificial.md)
+
 <p><span class="chinese">嗯。那些是人造花。</span><span class="english">Um. Those are artificial.</span></p>
 
 <p><span class="chinese">不，它是人造皮。</span><span class="english">No, it's artificial leather.</span></p>

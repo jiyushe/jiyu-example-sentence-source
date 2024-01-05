@@ -1,5 +1,7 @@
 # tagus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tagus.md)
+
 <p><span class="chinese">这是塔古斯河上有名的吊桥。</span><span class="english">This is the famous suspension bridge on the Tagus.</span></p>
 
 <p><span class="chinese">创造一个有吸引力的建筑景观，加强入河塔霍下来。</span><span class="english">The building creates an attractive landscape, stepping down into the river Tagus.</span></p>

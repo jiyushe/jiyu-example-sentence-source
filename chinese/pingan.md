@@ -1,5 +1,7 @@
 # 平安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingan.md)
+
 <p><span class="chinese">这里天气渐凉，家人平安无恙。</span><span class="english">The weather's cool.</span></p>
 
 <p><span class="chinese">我送她平安回家。</span><span class="english">I saw her safe home.</span></p>

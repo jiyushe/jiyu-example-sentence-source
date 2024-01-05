@@ -1,5 +1,7 @@
 # sight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sight.md)
+
 <p><span class="chinese">一只鸟儿被他看见了。</span><span class="english">A bird was in sight.</span></p>
 
 <p><span class="chinese">一见倾心。</span><span class="english">Love at first sight.</span></p>

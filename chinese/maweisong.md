@@ -1,5 +1,7 @@
 # 马尾松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maweisong.md)
+
 <p><span class="chinese">这哪儿是马尾松啊。</span><span class="english">They are not Chinese red pines.</span></p>
 
 <p><span class="chinese">有关马尾松花粉研究初报。</span><span class="english">Primary report on studying Pinus massoniana pollen.</span></p>

@@ -1,5 +1,7 @@
 # 松懈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songxie.md)
+
 <p><span class="chinese">他的团队非常松懈。</span><span class="english">His team was very relaxed.</span></p>
 
 <p><span class="chinese">不要松懈下来。</span><span class="english">Don't relax in your efforts.</span></p>

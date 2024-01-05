@@ -1,5 +1,7 @@
 # lacey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacey.md)
+
 <p><span class="chinese">我知道莱西夫人以前开导过你很多关于这方面的事。</span><span class="english">I know you’ve done a lot of work on this with Mrs. Lacey.</span></p>
 
 <p><span class="chinese">这真是难以令人接受，尤其是在莱西夫人给了我那么多指导之后。</span><span class="english">Which was a hard pill to swallow, after my work with Mrs. Lacey.</span></p>

@@ -1,5 +1,7 @@
 # viking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viking.md)
+
 <p><span class="chinese">他划起船来就像北欧海盗一般。</span><span class="english">He could row like a Viking.</span></p>
 
 <p><span class="chinese">维京双重能力是便利的。</span><span class="english">The Viking dual ability is handy.</span></p>

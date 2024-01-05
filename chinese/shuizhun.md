@@ -1,5 +1,7 @@
 # 水准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhun.md)
+
 <p><span class="chinese">五星级的水准。</span><span class="english">Five star awesomeness.</span></p>
 
 <p><span class="chinese">泰妈作为导演水准如何？</span><span class="english">How was Tyra as a director?</span></p>

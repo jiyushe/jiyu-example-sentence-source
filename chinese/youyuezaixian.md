@@ -1,5 +1,7 @@
 # 有约在先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyuezaixian.md)
+
 <p><span class="chinese">对不起，我有约在先了。</span><span class="english">Sorry, I'm engaged.</span></p>
 
 <p><span class="chinese">我已经有约在先。</span><span class="english">I have a pervious engagement.</span></p>

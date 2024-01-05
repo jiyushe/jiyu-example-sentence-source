@@ -1,5 +1,7 @@
 # ethan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethan.md)
+
 <p><span class="chinese">你太多愁善感了，伊坦。</span><span class="english">You're too sensitive, Ethan.</span></p>
 
 <p><span class="chinese">恐龙伊桑帮他的朋友们盯梢。</span><span class="english">Dinosaur Ethan on a lookout for friends.</span></p>

@@ -1,5 +1,7 @@
 # 宴请
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanqing.md)
+
 <p><span class="chinese">在我生日时，我宴请朋友们。</span><span class="english">I feasted my friends on my birthday.</span></p>
 
 <p><span class="chinese">常被宴请表示还有身价！</span><span class="english">Is often fete means that there are worth!</span></p>

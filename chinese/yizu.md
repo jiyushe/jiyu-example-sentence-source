@@ -1,5 +1,7 @@
 # 异族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizu.md)
+
 <p><span class="chinese">你对异族通婚是怎么看的？</span><span class="english">What do you think about mixed marriages?</span></p>
 
 <p><span class="chinese">异族的通婚已越来越被接受.</span><span class="english">Interracial marriages are becoming more accepted.</span></p>

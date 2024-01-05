@@ -1,5 +1,7 @@
 # shikoku
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shikoku.md)
+
 <p><span class="chinese">无论是在青森、四国或九州，都曾见到我故乡那样的峡谷。</span><span class="english">In Aomori, Shikoku and Kyushu, I once see that kind of valley.</span></p>
 
 <p><span class="chinese">高松是四国与日本其它地区之间的主要枢纽。</span><span class="english">Takamatsu is the main hub between Shikoku area and the rest of Japan.</span></p>

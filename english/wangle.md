@@ -1,5 +1,7 @@
 # wangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wangle.md)
+
 <p><span class="chinese">我的名字是伪造。</span><span class="english">My name is WangLe han.</span></p>
 
 <p><span class="chinese">王乐新买了一辆自行车。</span><span class="english">Wangle bought a new bike.</span></p>

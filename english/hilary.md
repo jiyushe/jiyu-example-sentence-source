@@ -1,5 +1,7 @@
 # hilary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hilary.md)
+
 <p><span class="chinese">希拉里也是一个雄心勃勃的女孩。</span><span class="english">Hilary is also an ambitious50 girl.</span></p>
 
 <p><span class="chinese">希拉里?斯万克获得奥斯卡最佳女主角奖项。</span><span class="english">Hilary Swank won the Oscar Award for best actress.</span></p>

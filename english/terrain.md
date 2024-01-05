@@ -1,5 +1,7 @@
 # terrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrain.md)
+
 <p><span class="chinese">数值地形模型?。</span><span class="english">Digital terrain model?</span></p>
 
 <p><span class="chinese">地势平缓。</span><span class="english">The terrain slopes gently.</span></p>

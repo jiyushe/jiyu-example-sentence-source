@@ -1,5 +1,7 @@
 # 盛宴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyan_2.md)
+
 <p><span class="chinese">蝙蝠鹞鱼开始了盛宴。</span><span class="english">Bat rays awaken to the feast.</span></p>
 
 <p><span class="chinese">国王盛宴款待他朋友。</span><span class="english">The king feasted his friends.</span></p>

@@ -1,5 +1,7 @@
 # photoionization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoionization.md)
+
 <p><span class="chinese">气体是由光致电离加热的。</span><span class="english">The gas is heated by photoionization.</span></p>
 
 <p><span class="chinese">本文介绍了基于单片机AT89C52的光离子化检测仪构建。</span><span class="english">In this paper, the construction of photoionization detect instrument based on AT89C52 chip is presented.</span></p>

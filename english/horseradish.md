@@ -1,5 +1,7 @@
 # horseradish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horseradish.md)
+
 <p><span class="chinese">比如辣根，我就特别讨厌。</span><span class="english">Horseradish , in particular.</span></p>
 
 <p><span class="chinese">辣根使喉咙辣得难受。</span><span class="english">The horseradish burns the throat.</span></p>

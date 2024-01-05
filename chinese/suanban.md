@@ -1,5 +1,7 @@
 # 蒜瓣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanban.md)
+
 <p><span class="chinese">将剥皮的蒜瓣放入装有醋的容器存放。</span><span class="english">Put peeled garlic cloves in a container with vinegar.</span></p>
 
 <p><span class="chinese">果瓣跟剥开的蒜瓣相似，果肉可食，味道酸甜。</span><span class="english">The pulp of fruit is edible and tastes sweet and acidic.</span></p>

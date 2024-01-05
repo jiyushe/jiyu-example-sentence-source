@@ -1,5 +1,7 @@
 # 亏待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuidai.md)
+
 <p><span class="chinese">放心吧，我不会亏待你的。</span><span class="english">I've never treated you unfairly.</span></p>
 
 <p><span class="chinese">三一学院从未亏待过我。</span><span class="english">Trinity had never been unkind to me.</span></p>

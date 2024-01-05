@@ -1,5 +1,7 @@
 # 蜿蜒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanyan_1.md)
+
 <p><span class="chinese">一辆火车蜿蜒曲折驶进视野。</span><span class="english">A train snaked into sight.</span></p>
 
 <p><span class="chinese">河流蜿蜒曲折地流过山谷。</span><span class="english">The river winds to the bay.</span></p>

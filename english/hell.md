@@ -1,5 +1,7 @@
 # hell 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hell.md)
+
 <p><span class="chinese">在这里，和地狱。</span><span class="english">Here and in hell.</span></p>
 
 <p><span class="chinese">屋子里都翻了天。</span><span class="english">The room is a hell".</span></p>

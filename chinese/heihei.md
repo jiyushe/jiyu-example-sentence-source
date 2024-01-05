@@ -1,5 +1,7 @@
 # 嘿嘿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heihei.md)
+
 <p><span class="chinese">这个我知道嘿嘿。</span><span class="english">I know that hehe.</span></p>
 
 <p><span class="chinese">我还没有小情人呢，嘿嘿，吼吼…</span><span class="english">I got your back, baby!</span></p>

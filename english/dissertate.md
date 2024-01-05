@@ -1,5 +1,7 @@
 # dissertate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissertate.md)
+
 <p><span class="chinese">文章分为四个部分，第一部分探讨了新时期诗歌“史诗”追求的背景和原因。</span><span class="english">In this article , we will dissertate the epical scene with four parts.</span></p>
 
 <p><span class="chinese">本设计论文是论述一个BREW平台开发运行的手机地址簿程序。</span><span class="english">This paper dissertate the cellphone contacts program that platformed in BREW.</span></p>

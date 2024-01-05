@@ -1,5 +1,7 @@
 # inscrutable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inscrutable.md)
+
 <p><span class="chinese">汉生回到家里，脸上仍是一副莫测高深的表情。</span><span class="english">When Hanson came home he wore the same inscrutable demeanour.</span></p>
 
 <p><span class="chinese">她还目光炯炯地注视了他一下，这也使他不能理解。</span><span class="english">She gave him, straight in the eyes, a look which was also inscrutable.</span></p>

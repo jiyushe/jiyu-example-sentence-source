@@ -1,5 +1,7 @@
 # 驾驭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiayu_1.md)
+
 <p><span class="chinese">那是一匹易于驾驭的马。</span><span class="english">It is a horse that reins well.</span></p>
 
 <p><span class="chinese">健忘已往，驾驭如今，才无将来。</span><span class="english">Forget the past and look to now.</span></p>

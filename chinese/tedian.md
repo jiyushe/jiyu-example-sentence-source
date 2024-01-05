@@ -1,5 +1,7 @@
 # 特点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tedian.md)
+
 <p><span class="chinese">那是她的特点。</span><span class="english">That was her trait.</span></p>
 
 <p><span class="chinese">这是个非常突出的特点。</span><span class="english">It's very prominent.</span></p>

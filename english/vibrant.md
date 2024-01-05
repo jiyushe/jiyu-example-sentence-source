@@ -1,5 +1,7 @@
 # vibrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibrant.md)
+
 <p><span class="chinese">她拥有富于青春活力的声音。</span><span class="english">She got a youthful vibrant voice.</span></p>
 
 <p><span class="chinese">她的画色彩明快。</span><span class="english">Her paintings have vibrant colours.</span></p>

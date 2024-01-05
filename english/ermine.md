@@ -1,5 +1,7 @@
 # ermine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ermine.md)
+
 <p><span class="chinese">她身上穿着“貂皮”衣服。</span><span class="english">She furred herself with ermine.</span></p>
 
 <p><span class="chinese">人们捕猎白鼬，以获取它那美丽的毛皮。</span><span class="english">People hunt the ermine for its beautiful fur.</span></p>

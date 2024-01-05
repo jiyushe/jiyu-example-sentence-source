@@ -1,5 +1,7 @@
 # singlechip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singlechip.md)
+
 <p><span class="chinese">这是一个AM12864的C语言单片机驱动程序。</span><span class="english">This is a C-Language AM12864 Singlechip driver.</span></p>
 
 <p><span class="chinese">汽车电脑的主要部分是单片机、存储器等。</span><span class="english">Auto computer mostly includes singlechip and memorizer.</span></p>

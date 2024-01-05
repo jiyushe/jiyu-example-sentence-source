@@ -1,5 +1,7 @@
 # benefic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benefic.md)
+
 <p><span class="chinese">就是吉星的星体会带给你一些东西，但是随后会带走它们。</span><span class="english">A benefic gives you something and then takes it away.</span></p>
 
 <p><span class="chinese">我希望，会议能使各位从中获益。</span><span class="english">Therefore I hope that you can benefic from this meeting.</span></p>

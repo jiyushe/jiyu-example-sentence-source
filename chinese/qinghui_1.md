@@ -1,5 +1,7 @@
 # 青灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinghui_1.md)
+
 <p><span class="chinese">石板路，马头墙，青灰瓦，朱漆梁。</span><span class="english">Stone Road, Ma Tau wallwatts, red lacquer beam.</span></p>
 
 <p><span class="chinese">眶满以后，那眼泪便沿着他青灰的面颊流了下来。</span><span class="english">When the eyelid was full, the tear trickled down his livid cheek.</span></p>

@@ -1,5 +1,7 @@
 # copycat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copycat.md)
+
 <p><span class="chinese">只是个抄袭者。</span><span class="english">Tommy is just a copycat.</span></p>
 
 <p><span class="chinese">2011年会是山寨横行掂旎年吗？</span><span class="english">Will 2011 be the year of the copycat?</span></p>

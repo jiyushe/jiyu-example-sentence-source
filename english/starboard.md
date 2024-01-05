@@ -1,5 +1,7 @@
 # starboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starboard.md)
+
 <p><span class="chinese">使用右舷船头导缆孔。</span><span class="english">Use fairlead on starboard bow.</span></p>
 
 <p><span class="chinese">把船操纵使风对右舷船尾。</span><span class="english">Keep wind on starboard quarter.</span></p>

@@ -1,5 +1,7 @@
 # coexist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coexist.md)
+
 <p><span class="chinese">事实上，两者是共存的。</span><span class="english">In fact, both do coexist.</span></p>
 
 <p><span class="chinese">但是我认为两者可以共存。</span><span class="english">But I think both can coexist.</span></p>

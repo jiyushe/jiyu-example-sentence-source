@@ -1,5 +1,7 @@
 # impudence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impudence.md)
+
 <p><span class="chinese">她的厚颜使我大为吃惊。</span><span class="english">Her impudence bowled me over.</span></p>
 
 <p><span class="chinese">他的冒失举动令我们惊愕。</span><span class="english">His impudence bowled us over.</span></p>

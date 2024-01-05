@@ -1,5 +1,7 @@
 # 交媾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaogou.md)
+
 <p><span class="chinese">那她可以跟别人交媾?。</span><span class="english">So she's available for coitus?</span></p>
 
 <p><span class="chinese">然后我们回到我这里交媾。</span><span class="english">And then we came back here to ML.</span></p>

@@ -1,5 +1,7 @@
 # 天理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianli.md)
+
 <p><span class="chinese">天理因果是最高的法律。</span><span class="english">Causality is the ultimate law.</span></p>
 
 <p><span class="chinese">戴天理把金柜绑了起来。</span><span class="english">Dai Tianli tied up the gold cabinet.</span></p>

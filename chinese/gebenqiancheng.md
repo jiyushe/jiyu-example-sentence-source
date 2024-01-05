@@ -1,5 +1,7 @@
 # 各奔前程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gebenqiancheng.md)
+
 <p><span class="chinese">当初我明白我们未经各奔前程。</span><span class="english">Now I can see that we've fallen apart.</span></p>
 
 <p><span class="chinese">但是我们已经与那些课程所传授的技能各奔前程。</span><span class="english">But we've become divorced from the skills those classes imparted.</span></p>

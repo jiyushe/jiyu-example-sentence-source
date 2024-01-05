@@ -1,5 +1,7 @@
 # 比率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bilv.md)
+
 <p><span class="chinese">受害比率。</span><span class="english">Victimization ratio.</span></p>
 
 <p><span class="chinese">我是否能够以一定的比率运行测试？</span><span class="english">Can I run a test at a set rate?</span></p>

@@ -1,5 +1,7 @@
 # contortions
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contortions.md)
+
 <p><span class="chinese">他试图推断地层在扭曲形成时是如何变化的。</span><span class="english">He tried to guess how the strata behaved at the time the contortions formed.</span></p>
 
 <p><span class="chinese">他抽筋和跌倒出糗似来自某种原始的冲动与潜在的病变。</span><span class="english">His contortions and pratfalls seem to spring from some primal impulse or underlying pathology.</span></p>

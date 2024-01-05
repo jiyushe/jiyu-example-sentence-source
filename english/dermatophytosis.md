@@ -1,5 +1,7 @@
 # dermatophytosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dermatophytosis.md)
+
 <p><span class="chinese">它可能用于治疗皮肤丝状菌感染。</span><span class="english">It may be used in treatment of dermatophytosis.</span></p>
 
 <p><span class="chinese">如足底癣好转后要更新袜子，效果更佳。</span><span class="english">It is more effective to thoroughly change socks after cured dermatophytosis.</span></p>

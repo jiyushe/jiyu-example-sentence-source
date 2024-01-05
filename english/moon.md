@@ -1,5 +1,7 @@
 # moon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moon.md)
+
 <p><span class="chinese">月球上真有生命吗？</span><span class="english">Life on the Moon?</span></p>
 
 <p><span class="chinese">还有月亮河和我。</span><span class="english">Moon rive and me.</span></p>

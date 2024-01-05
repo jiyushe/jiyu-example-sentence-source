@@ -1,5 +1,7 @@
 # 百思不得其解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baisibudeqijie.md)
+
 <p><span class="chinese">所有这一切可能会让你百思不得其解。</span><span class="english">All this might have you scratching your head.</span></p>
 
 <p><span class="chinese">这种断食法让许多营养专家百思不得其解。</span><span class="english">It leaves many nutrition experts scratching their heads. Dr.</span></p>

@@ -1,5 +1,7 @@
 # thieves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thieves.md)
+
 <p><span class="chinese">朋油虑时分的匪贼。</span><span class="english">Friends are thieves of time.</span></p>
 
 <p><span class="chinese">朋友是时间的浪费者。</span><span class="english">Friends are thieves of times.</span></p>

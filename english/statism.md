@@ -1,5 +1,7 @@
 # statism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statism.md)
+
 <p><span class="chinese">国家主义得到了一些人的拥护，但更多的人认为，市场路线才是中国应该采纳的正确路线。</span><span class="english">Statism is embraced by some, but many more think the market path is the right one to follow.</span></p>
 
 <p><span class="chinese">中国媒体也要避免对欧洲报道中的民族主义和国家主义。</span><span class="english">While Chinese media should avoid nationalism and statism in their reports of European countries.</span></p>

@@ -1,5 +1,7 @@
 # 影集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingji_1.md)
+
 <p><span class="chinese">我收藏了他所有的影集。</span><span class="english">I had all his albums.</span></p>
 
 <p><span class="chinese">你最喜欢的电视喜剧影集是什么?。</span><span class="english">What is your favorite sit-com on TV?</span></p>

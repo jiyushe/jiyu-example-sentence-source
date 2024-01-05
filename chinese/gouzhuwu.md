@@ -1,5 +1,7 @@
 # 构筑物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouzhuwu.md)
+
 <p><span class="chinese">更多和更多的既有地下构筑物开始老化了。</span><span class="english">More and more existing underground structures are starting to age.</span></p>
 
 <p><span class="chinese">土的这些运动可能导致邻近构筑物和管线的损坏。</span><span class="english">These movements can lead to damages of nearby structures and utilities.</span></p>

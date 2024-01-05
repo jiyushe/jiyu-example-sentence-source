@@ -1,5 +1,7 @@
 # 推举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiju.md)
+
 <p><span class="chinese">我们推举他为我班班长。</span><span class="english">We elected him monitor of our class.</span></p>
 
 <p><span class="chinese">好的相貌就是一封推举的介绍信。</span><span class="english">Agood face is a letter of recommendation.</span></p>

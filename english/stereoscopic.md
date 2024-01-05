@@ -1,5 +1,7 @@
 # stereoscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stereoscopic.md)
+
 <p><span class="chinese">立体电影被认为是有趣的。</span><span class="english">This stereoscopic film is thought of as interesting.</span></p>
 
 <p><span class="chinese">但是生成立体图却需要花费较长的绘制时间。</span><span class="english">But it would take a long time to render stereoscopic images.</span></p>

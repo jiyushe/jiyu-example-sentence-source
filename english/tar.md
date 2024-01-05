@@ -1,5 +1,7 @@
 # tar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tar.md)
+
 <p><span class="chinese">他把柏油涂在她身上。</span><span class="english">He besmeared her with tar.</span></p>
 
 <p><span class="chinese">烟斗里渍了很多油子。</span><span class="english">The pipe is caked with tar.</span></p>

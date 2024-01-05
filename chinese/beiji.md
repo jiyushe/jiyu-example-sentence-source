@@ -1,5 +1,7 @@
 # 背脊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiji.md)
+
 <p><span class="chinese">一个寒颤不禁窜过我的背脊。</span><span class="english">A shiver traveled down my spine.</span></p>
 
 <p><span class="chinese">我的背脊不断地撞击着圆柱壁。</span><span class="english">My back is hitting the round post jamb unceasingly.</span></p>

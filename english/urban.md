@@ -1,5 +1,7 @@
 # urban
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urban.md)
+
 <p><span class="chinese">什么是城市形态？</span><span class="english">What is Urban Form?</span></p>
 
 <p><span class="chinese">这是个非常城市化的校园。</span><span class="english">It's a very urban campus.</span></p>

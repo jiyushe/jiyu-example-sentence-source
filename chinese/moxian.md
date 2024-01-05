@@ -1,5 +1,7 @@
 # 墨线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moxian.md)
+
 <p><span class="chinese">榫锯是一种特殊的墨线戽。</span><span class="english">A mortice gauge is a special type of marking gauge.</span></p>
 
 <p><span class="chinese">从那里，我们将完善我们的更有信心墨线线工作。</span><span class="english">From there we will refine our line work with more confident inked lines.</span></p>

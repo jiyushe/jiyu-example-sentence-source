@@ -1,5 +1,7 @@
 # deface
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deface.md)
+
 <p><span class="chinese">不要污损图书馆的书籍。</span><span class="english">Don't deface library books.</span></p>
 
 <p><span class="chinese">在钞票上乱涂乱画是违法的。</span><span class="english">It's illegal to deface banknotes.</span></p>

@@ -1,5 +1,7 @@
 # 其余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyu.md)
+
 <p><span class="chinese">而其余的都是无用的东西。</span><span class="english">The rest is dross.</span></p>
 
 <p><span class="chinese">其余的都是废话。</span><span class="english">All the rest are hogwash.</span></p>

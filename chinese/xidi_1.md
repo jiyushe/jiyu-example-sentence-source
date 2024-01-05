@@ -1,5 +1,7 @@
 # 洗涤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xidi_1.md)
+
 <p><span class="chinese">沐浴和洗涤区。</span><span class="english">Bathing and washing areas.</span></p>
 
 <p><span class="chinese">它洗涤一切。</span><span class="english">It washes everything clean.</span></p>

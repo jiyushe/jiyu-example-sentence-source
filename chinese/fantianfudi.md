@@ -1,5 +1,7 @@
 # 翻天覆地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fantianfudi.md)
+
 <p><span class="chinese">然而，莱恩斯先生此后的生活却发生了翻天覆地的变化。</span><span class="english">But Mr Rines’s life was upside down.</span></p>
 
 <p><span class="chinese">你发生了翻天覆地的变化。</span><span class="english">Your earth-shaking changes have taken place.</span></p>

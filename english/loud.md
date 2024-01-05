@@ -1,5 +1,7 @@
 # loud 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loud.md)
+
 <p><span class="chinese">我们都纵声大笑。</span><span class="english">I laugh out loud.</span></p>
 
 <p><span class="chinese">嘘！别那么大声。</span><span class="english">Shh! Not so loud.</span></p>

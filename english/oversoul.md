@@ -1,5 +1,7 @@
 # oversoul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oversoul.md)
+
 <p><span class="chinese">现在让我们召唤我们的灵魂、超灵和源头。</span><span class="english">Let us call now upon our soul, oversoul and source.</span></p>
 
 <p><span class="chinese">灵魂和超灵，管理着DNA的改变和能量场的重铸。</span><span class="english">Soul and oversoul manage the changing DNA and recasting of one's field.</span></p>

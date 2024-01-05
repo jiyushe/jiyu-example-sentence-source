@@ -1,5 +1,7 @@
 # 土屋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuwu.md)
+
 <p><span class="chinese">他们住在泥坯造的土屋里。</span><span class="english">They live in mud huts.</span></p>
 
 <p><span class="chinese">你住在土屋还是宾馆？</span><span class="english">Do you stay in a hogan or in a hotel?</span></p>

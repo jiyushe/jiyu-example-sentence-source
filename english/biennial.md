@@ -1,5 +1,7 @@
 # biennial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biennial.md)
+
 <p><span class="chinese">这是两年一次的会议。</span><span class="english">This is a biennial meeting.</span></p>
 
 <p><span class="chinese">你知道二年生的植物吗？</span><span class="english">Do you know the biennial plants?</span></p>

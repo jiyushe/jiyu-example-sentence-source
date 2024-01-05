@@ -1,5 +1,7 @@
 # 中游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyou_1.md)
+
 <p><span class="chinese">拟凭仙枕梦中游。</span><span class="english">By fairy pillow dream to the middle.</span></p>
 
 <p><span class="chinese">孩子们在池中游来游去。</span><span class="english">The children were swimming about in the pool.</span></p>

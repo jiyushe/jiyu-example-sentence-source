@@ -1,5 +1,7 @@
 # educationally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/educationally.md)
+
 <p><span class="chinese">这些偶然的时刻是无价的。</span><span class="english">These encounters are educationally priceless.</span></p>
 
 <p><span class="chinese">从教育角度看，全国统考是不合理的。</span><span class="english">The national tests were educationally unsound.</span></p>

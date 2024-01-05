@@ -1,5 +1,7 @@
 # 凡响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanxiang.md)
+
 <p><span class="chinese">会有一非同凡响的节奏悦人之耳。</span><span class="english">An unusual rhythm will soothe the ear.</span></p>
 
 <p><span class="chinese">今天，我们发布了一条非同凡响的通告。</span><span class="english">Today, we make another significant announcement.</span></p>

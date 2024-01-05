@@ -1,5 +1,7 @@
 # apparition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apparition.md)
+
 <p><span class="chinese">这像纸一样薄的东西是条鱼。</span><span class="english">And this paper-thin apparition is a fish.</span></p>
 
 <p><span class="chinese">一天傍晚，他遇到一件怪事。</span><span class="english">One evening he had a singular apparition.</span></p>

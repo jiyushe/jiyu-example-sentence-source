@@ -1,5 +1,7 @@
 # recompense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recompense.md)
+
 <p><span class="chinese">你品格高尚，该得到相应的报偿。</span><span class="english">You have acted nobly, and deserve a recompense.</span></p>
 
 <p><span class="chinese">他没有对自己遭遇的麻烦要求经济赔偿。</span><span class="english">He demands no financial recompense for his troubles.</span></p>

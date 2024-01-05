@@ -1,5 +1,7 @@
 # 策划
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cehua.md)
+
 <p><span class="chinese">你们在策划什么阴谋?</span><span class="english">What plot are you brewing?</span></p>
 
 <p><span class="chinese">他们正在策划一场抢劫。</span><span class="english">They are contriving a robbery.</span></p>

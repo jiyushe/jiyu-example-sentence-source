@@ -1,5 +1,7 @@
 # thoroughfare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thoroughfare.md)
+
 <p><span class="chinese">金光大道在脚下。</span><span class="english">Golden thoroughfare in the feet.</span></p>
 
 <p><span class="chinese">百老汇大街美国纽约的一条大街，世界上最长的街道。</span><span class="english">A thoroughfare of New York, the longest street in the world.</span></p>

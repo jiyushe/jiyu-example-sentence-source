@@ -1,5 +1,7 @@
 # turtle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turtle.md)
+
 <p><span class="chinese">我最喜欢的是乌龟。</span><span class="english">I like turtle the most.</span></p>
 
 <p><span class="chinese">这个乌龟好大！</span><span class="english">The turtle is very big!</span></p>

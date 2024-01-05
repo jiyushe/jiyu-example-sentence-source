@@ -1,5 +1,7 @@
 # trike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trike.md)
+
 <p><span class="chinese">那张我儿子的照片是在他自己做的三轮车上照的。</span><span class="english">And the one of my son is a trike that he built.</span></p>
 
 <p><span class="chinese">三轮车坐在一个地方对轴承的轴向负荷。</span><span class="english">Sitting on a trike places an axial load on the bearings.</span></p>

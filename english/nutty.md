@@ -1,5 +1,7 @@
 # nutty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutty.md)
+
 <p><span class="chinese">那些西班牙人简直都快为之疯狂了。</span><span class="english">The Spaniards are nutty about it.</span></p>
 
 <p><span class="chinese">你收到了很疯狂的构想吗？</span><span class="english">Do you get any really nutty ideas?</span></p>

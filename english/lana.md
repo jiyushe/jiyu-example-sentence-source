@@ -1,5 +1,7 @@
 # lana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lana.md)
+
 <p><span class="chinese">然后拉娜告诉本她生马西娅的气。</span><span class="english">Then Lana told Ben she was mad at Marcia.</span></p>
 
 <p><span class="chinese">拉娜说她会带一些饮料和小吃去马西娅的家。</span><span class="english">Lana said she would and to Marica's house.</span></p>

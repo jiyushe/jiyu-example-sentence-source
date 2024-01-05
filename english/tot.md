@@ -1,5 +1,7 @@
 # tot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tot.md)
+
 <p><span class="chinese">这个小朋友喜欢吃火锅。</span><span class="english">The tot likes to eat hot pot.</span></p>
 
 <p><span class="chinese">彩金–您一个注码赢得的彩金总数。</span><span class="english">Return – Your tot al winnings on a bet.</span></p>

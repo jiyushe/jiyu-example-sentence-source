@@ -1,5 +1,7 @@
 # shelves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shelves.md)
+
 <p><span class="chinese">把我的箱子放在架子上。</span><span class="english">Set my case over the shelves.</span></p>
 
 <p><span class="chinese">河底从这里呈缓坡倾斜。</span><span class="english">The river bottom shelves here.</span></p>

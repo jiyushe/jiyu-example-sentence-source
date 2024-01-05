@@ -1,5 +1,7 @@
 # 调停
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoting.md)
+
 <p><span class="chinese">这场争端通过调停而得到解决。</span><span class="english">The dispute was settled by mediation.</span></p>
 
 <p><span class="chinese">这位老人喜欢调停争论。</span><span class="english">The old man likes to interpose in the disputes.</span></p>

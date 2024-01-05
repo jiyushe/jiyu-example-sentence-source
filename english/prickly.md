@@ -1,5 +1,7 @@
 # prickly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prickly.md)
+
 <p><span class="chinese">这儿我们围绕着仙人球</span><span class="english">Here we go round the prickly pear</span></p>
 
 <p><span class="chinese">和多刺的荆棘也差不多。</span><span class="english">Are the same with prickly brambles.</span></p>

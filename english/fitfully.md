@@ -1,5 +1,7 @@
 # fitfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fitfully.md)
+
 <p><span class="chinese">玛丽依偎著母亲，断断续续地打瞌睡。</span><span class="english">Mary nestled up against her mother and dozed fitfully.</span></p>
 
 <p><span class="chinese">时间过得断断续续，那晚我时醒时睡，当我醒着时就思考和祈祷。</span><span class="english">The hours passed fitfully , as I lay awake thinking and praying.</span></p>

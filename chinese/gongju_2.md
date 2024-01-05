@@ -1,5 +1,7 @@
 # 工具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongju_2.md)
+
 <p><span class="chinese">移植工具。</span><span class="english">Porting tools.</span></p>
 
 <p><span class="chinese">有随车工具吗？</span><span class="english">What about tools?</span></p>

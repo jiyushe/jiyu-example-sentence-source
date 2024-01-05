@@ -1,5 +1,7 @@
 # hefty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hefty.md)
+
 <p><span class="chinese">6毫米菱形盘钢。</span><span class="english">HEFTY FRONT COWL, 6mm diamond plate steel.</span></p>
 
 <p><span class="chinese">他纳闷是否是那对魁伟的情人又回来了。</span><span class="english">He wondered if the hefty lovers had returned.</span></p>

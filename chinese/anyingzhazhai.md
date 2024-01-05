@@ -1,5 +1,7 @@
 # 安营扎寨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anyingzhazhai.md)
+
 <p><span class="chinese">短袖，按钮安营扎寨恤。</span><span class="english">Short sleeve, button-up camp shirt.</span></p>
 
 <p><span class="chinese">他们在树林中安营扎寨。</span><span class="english">They camped in the woods among the trees.</span></p>

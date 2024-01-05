@@ -1,5 +1,7 @@
 # isotopes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isotopes.md)
+
 <p><span class="chinese">铼的同位素被运用于肝癌的治疗。</span><span class="english">Rhenium isotopes are used to treat liver cancer.</span></p>
 
 <p><span class="chinese">相同元素之同位素的电子组态是一样的。</span><span class="english">Isotopes of the same element have the same electronic configuration.</span></p>

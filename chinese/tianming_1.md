@@ -1,5 +1,7 @@
 # 天明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianming_1.md)
+
 <p><span class="chinese">我们可以一直跳舞直到天明。</span><span class="english">We can dance 'til the break of dawn.</span></p>
 
 <p><span class="chinese">今天早上，张天明找到一个新朋友。</span><span class="english">Zhang Tianming made a new friend this morning.</span></p>

@@ -1,5 +1,7 @@
 # 名胜古迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingshengguji.md)
+
 <p><span class="chinese">我可以观访很多名胜古迹。</span><span class="english">I can see many places of great intrests.</span></p>
 
 <p><span class="chinese">景泰有许多名胜古迹。</span><span class="english">There are many places of interesting in Jing tai.</span></p>

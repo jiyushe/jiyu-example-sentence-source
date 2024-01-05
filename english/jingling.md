@@ -1,5 +1,7 @@
 # jingling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jingling.md)
+
 <p><span class="chinese">叫那个孩子不要把钥匙弄得丁当响。</span><span class="english">Ask the child to stop jingling the keys.</span></p>
 
 <p><span class="chinese">它们的叮当声会淹没你的低语。</span><span class="english">their jingling would drown thy whispers.</span></p>

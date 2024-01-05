@@ -1,5 +1,7 @@
 # valise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valise.md)
+
 <p><span class="chinese">一只么有带子的手提包。</span><span class="english">A valise lacking straps.</span></p>
 
 <p><span class="chinese">何况那又是我特别心爱的一只手提箱。</span><span class="english">Valise I have a particular fancy for.</span></p>

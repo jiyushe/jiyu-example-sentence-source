@@ -1,5 +1,7 @@
 # hopping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hopping.md)
+
 <p><span class="chinese">不可以在床上单脚跳。</span><span class="english">No more hopping on the bed.</span></p>
 
 <p><span class="chinese">海外华人迎新春，悉尼同胞庆兔年。</span><span class="english">Year of the Rabbit gets Sydney hopping.</span></p>

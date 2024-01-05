@@ -1,5 +1,7 @@
 # 深远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyuan_2.md)
+
 <p><span class="chinese">爱是个意义深远的字。</span><span class="english">Love is very loaded word.</span></p>
 
 <p><span class="chinese">爱是个意义深远的字。</span><span class="english">LOVE is a very loaded word.</span></p>

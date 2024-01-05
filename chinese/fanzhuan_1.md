@@ -1,5 +1,7 @@
 # 翻转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanzhuan_1.md)
+
 <p><span class="chinese">翻转开始了！</span><span class="english">A Reversal Begins!</span></p>
 
 <p><span class="chinese">我在手掌里翻转着那块石头。</span><span class="english">I rolled the stone in my palm.</span></p>

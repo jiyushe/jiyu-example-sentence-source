@@ -1,5 +1,7 @@
 # monosyllabic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monosyllabic.md)
+
 <p><span class="chinese">句子要短，短小的词比长词好，单音节的词是最佳选择。</span><span class="english">Monosyllabic words are best.</span></p>
 
 <p><span class="chinese">张了张嘴连单音节也没法利落地说出。</span><span class="english">Opened mouth wouldn't even monosyllabic name cleanly.</span></p>

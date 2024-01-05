@@ -1,5 +1,7 @@
 # tawdry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tawdry.md)
+
 <p><span class="chinese">全身装扮透射出一种相当俗艳的性感。</span><span class="english">The outfit projected a rather tawdry sexuality.</span></p>
 
 <p><span class="chinese">这一媒体产物曾花哨俗气，现在却时髦风行。</span><span class="english">A once tawdry media product has become fashionable.</span></p>

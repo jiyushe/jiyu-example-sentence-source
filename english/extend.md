@@ -1,5 +1,7 @@
 # extend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extend.md)
+
 <p><span class="chinese">我现在可以建立线段了。</span><span class="english">And I could now extend that.</span></p>
 
 <p><span class="chinese">我伸腿的时候会痛。</span><span class="english">It hurts when I extend my leg.</span></p>

@@ -1,5 +1,7 @@
 # mollusk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mollusk.md)
+
 <p><span class="chinese">而且，porcelaine曾经就是这种软体动物的名称。</span><span class="english">The name of the mollusk was porcelaine.</span></p>
 
 <p><span class="chinese">珍珠的颜色由于母体及其环境的不同而异。</span><span class="english">The colour varies with the mollusk and its environment.</span></p>

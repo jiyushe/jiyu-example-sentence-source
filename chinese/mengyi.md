@@ -1,5 +1,7 @@
 # 梦遗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengyi.md)
+
 <p><span class="chinese">将梦遗痕迹不经过多余的制作直接呈现才是最彻底的艺术。</span><span class="english">To present the sheet without any modification is the most thorough art.</span></p>
 
 <p><span class="chinese">贫僧乃少林寺方丈，法号梦遗。</span><span class="english">Monk of deficient is Shaolin Temple abbot, law order nocturnal emission.</span></p>

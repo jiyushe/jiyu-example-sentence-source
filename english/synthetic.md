@@ -1,5 +1,7 @@
 # synthetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synthetic.md)
+
 <p><span class="chinese">合成革外底。</span><span class="english">Synthetic leather outsole.</span></p>
 
 <p><span class="chinese">合成鞋面是快干。</span><span class="english">Synthetic upper is quick-drying.</span></p>

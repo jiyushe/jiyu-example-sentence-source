@@ -1,5 +1,7 @@
 # 春风得意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunfengdeyi.md)
+
 <p><span class="chinese">就在高山春风得意之时，大伯毛清源过世的消息传来。</span><span class="english">At a time when mountain too proud, uncle Mao Qingyuan the late news.</span></p>
 
 <p><span class="chinese">春风得意马蹄疾，一日看尽长安花。</span><span class="english">Riding on the crest of success , seeing all the flowers in Chang'aN.</span></p>

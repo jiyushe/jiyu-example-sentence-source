@@ -1,5 +1,7 @@
 # 女皇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvhuang.md)
+
 <p><span class="chinese">在伦敦，人们可以去朝拜女皇。</span><span class="english">In London pilgert man zur Queen.</span></p>
 
 <p><span class="chinese">当然了。她是撑杆跳的女皇了。</span><span class="english">She is the queen of the pole vault.</span></p>

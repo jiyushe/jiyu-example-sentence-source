@@ -1,5 +1,7 @@
 # 内奸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neijian.md)
+
 <p><span class="chinese">我出卖朋友，我是内奸，是叛徒。</span><span class="english">I'm a Judas, a turncoat, a quisling!</span></p>
 
 <p><span class="chinese">李士武怀疑金深水就是内奸。</span><span class="english">Li Shiwu doubt gold deep water is the dirty agent.</span></p>

@@ -1,5 +1,7 @@
 # glasshouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glasshouse.md)
+
 <p><span class="chinese">你必须把这些热带花卉种在温室里。</span><span class="english">You must grow these tropical flowers in a glasshouse.</span></p>
 
 <p><span class="chinese">立方体结构一直延伸到外墙处，由悬挂的支架搭建起来，像是一个温室。</span><span class="english">The cube breaks through the exterior wall, overhanging the stand like a glasshouse.</span></p>

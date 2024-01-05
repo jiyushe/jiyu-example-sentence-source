@@ -1,5 +1,7 @@
 # 下马威
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiamawei.md)
+
 <p><span class="chinese">你想给我来个下马威？</span><span class="english">Are you trying to psych me out ?</span></p>
 
 <p><span class="chinese">这是中国对美国的一个下马威。</span><span class="english">China challenging the US to a duel.</span></p>

@@ -1,5 +1,7 @@
 # 盛大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengda.md)
+
 <p><span class="chinese">羯磨在一盛大等级。</span><span class="english">Karma on a grand scale.</span></p>
 
 <p><span class="chinese">盛大的午夜传奇幕布开启！</span><span class="english">Biggest. Midnight opening.</span></p>

@@ -1,5 +1,7 @@
 # iblis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iblis.md)
+
 <p><span class="chinese">她的部队被加姆·贝尔·伊布利斯将军击退。</span><span class="english">Her forces were repulsed by General Garm Bel Iblis.</span></p>
 
 <p><span class="chinese">贝尔·伊布利斯对蒙·莫思玛的权力和影响力很警觉。</span><span class="english">Bel Iblis was wary of Mon Mothma's power and influence.</span></p>

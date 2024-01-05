@@ -1,5 +1,7 @@
 # 民用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minyong.md)
+
 <p><span class="chinese">这些气球有民用也。</span><span class="english">These aerostats have civilian uses, too.</span></p>
 
 <p><span class="chinese">这是一个混合民用军用机场。</span><span class="english">This is a mixed civilian-military airport.</span></p>

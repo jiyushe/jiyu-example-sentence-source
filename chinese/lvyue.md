@@ -1,5 +1,7 @@
 # 履约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvyue.md)
+
 <p><span class="chinese">信用证，履约保函和保证金。</span><span class="english">Letters of credit, performance guarantees and bonds.</span></p>
 
 <p><span class="chinese">如果买方的备用信用证暂未生效，该备用信用证将由卖方履约保证激活生效。</span><span class="english">If buyer's SBLC is non- operative, it shall be activated by seller's PB.</span></p>

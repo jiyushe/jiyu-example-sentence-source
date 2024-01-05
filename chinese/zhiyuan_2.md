@@ -1,5 +1,7 @@
 # 职员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyuan_2.md)
+
 <p><span class="chinese">我是译名公司职员。</span><span class="english">I am an office clerk.</span></p>
 
 <p><span class="chinese">这职员是计时算工资的。</span><span class="english">The clerk works for wages.</span></p>

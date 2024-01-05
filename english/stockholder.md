@@ -1,5 +1,7 @@
 # stockholder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stockholder.md)
+
 <p><span class="chinese">谁是平均股东在这方面的坚定？</span><span class="english">Who is the average stockholder in this firm?</span></p>
 
 <p><span class="chinese">贵公司的主要股东是ABC公司。</span><span class="english">Yes, the main stockholder is ABC Corporation.</span></p>

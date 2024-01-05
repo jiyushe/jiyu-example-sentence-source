@@ -1,5 +1,7 @@
 # fluctuant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluctuant.md)
+
 <p><span class="chinese">他们的情绪处于一种波动的焦虑状态。</span><span class="english">Their mood is in a kind of fluctuant angst condition.</span></p>
 
 <p><span class="chinese">不外，这一模式也正在发生奥妙变更。</span><span class="english">Nevertheless, this one mode is occurrent also delicate and fluctuant.</span></p>

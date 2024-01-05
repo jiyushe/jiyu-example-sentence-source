@@ -1,5 +1,7 @@
 # 伤情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangqing.md)
+
 <p><span class="chinese">评分表评定伤情的验证。</span><span class="english">Verification of wound in scoring scale.</span></p>
 
 <p><span class="chinese">对于切赫的伤情，他们的工作做的太好了。</span><span class="english">With Petr Cech it is amazing work they are doing.</span></p>

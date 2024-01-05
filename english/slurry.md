@@ -1,5 +1,7 @@
 # slurry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slurry.md)
+
 <p><span class="chinese">什么是石浆？</span><span class="english">What is a stone slurry?</span></p>
 
 <p><span class="chinese">动态冰浆是一种固-液两相流体。</span><span class="english">Ice slurry is a solid-liquid binary fluid.</span></p>

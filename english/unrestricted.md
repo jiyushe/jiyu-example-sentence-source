@@ -1,5 +1,7 @@
 # unrestricted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrestricted.md)
+
 <p><span class="chinese">它可以让你通过图表来无限制的创建计划。</span><span class="english">It allows you to create schemes unrestricted by your worksheet.</span></p>
 
 <p><span class="chinese">您的账号可以发表包含任何HTML的内容。</span><span class="english">Your account has the ability to post unrestricted HTML content.</span></p>

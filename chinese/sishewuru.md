@@ -1,5 +1,7 @@
 # 四舍五入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishewuru.md)
+
 <p><span class="chinese">然后再看哪一个十位数最接近你要四舍五入的数字。</span><span class="english">Then see which ten a number is closer to.</span></p>
 
 <p><span class="chinese">由于四舍五入关系，个别项目的数字加起来可能与总数略有出入。</span><span class="english">Figures may not add up to total due to rounding.</span></p>

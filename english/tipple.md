@@ -1,5 +1,7 @@
 # tipple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tipple.md)
+
 <p><span class="chinese">他爱喝的烈酒是威士忌。</span><span class="english">His favourite tipple is whisky.</span></p>
 
 <p><span class="chinese">你度假是最喜欢喝哪种酒？</span><span class="english">What's your favourite holiday tipple ?</span></p>

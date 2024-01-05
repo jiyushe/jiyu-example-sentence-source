@@ -1,5 +1,7 @@
 # 面神经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianshenjing.md)
+
 <p><span class="chinese">压迫部位在面神经根入脑桥处前方，位置隐蔽。</span><span class="english">The compressing site is in front of REZ and is very convert.</span></p>
 
 <p><span class="chinese">所有病例术后咬合关系良好，无面神经损伤。</span><span class="english">The occlusions of all case were good without injury to the facial nerve.</span></p>

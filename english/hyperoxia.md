@@ -1,5 +1,7 @@
 # hyperoxia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperoxia.md)
+
 <p><span class="chinese">高氧的存在不利于其稳定性。</span><span class="english">Hyperoxia is unfavorable to its stability.</span></p>
 
 <p><span class="chinese">结论高氧液对神经元缺血损伤具有保护作用。</span><span class="english">CONCLUSION Hyperoxia solution can mitigate the cerebral ischemia and reperfusion injury.</span></p>

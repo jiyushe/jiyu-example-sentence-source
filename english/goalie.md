@@ -1,5 +1,7 @@
 # goalie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goalie.md)
+
 <p><span class="chinese">你是我最喜欢的守门员！</span><span class="english">You're my favorite goalie !</span></p>
 
 <p><span class="chinese">那是守门员应该说的话。</span><span class="english">That's what the goalie said.</span></p>

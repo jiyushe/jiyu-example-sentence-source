@@ -1,5 +1,7 @@
 # 昙花一现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanhuayixian.md)
+
 <p><span class="chinese">低通货膨胀率不会只是昙花一现。</span><span class="english">The low inflation rate will be no flash in the pan.</span></p>
 
 <p><span class="chinese">他们不过是历史舞台上昙花一现的人物。</span><span class="english">They are merely passers-by on the stage of history.</span></p>

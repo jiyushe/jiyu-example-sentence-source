@@ -1,5 +1,7 @@
 # hematoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematoma.md)
+
 <p><span class="chinese">里根脑血肿的部位处于硬脑膜与脑实质之间。</span><span class="english">The hematoma lay between the dural and the brain.</span></p>
 
 <p><span class="chinese">TTC染色血肿呈黑褐色，血肿周围未见白色梗死区。</span><span class="english">TTC stain did not show infarction around the hematoma.</span></p>

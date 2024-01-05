@@ -1,5 +1,7 @@
 # 古物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guwu.md)
+
 <p><span class="chinese">这是一篇关于人们挖掘古物的报道。</span><span class="english">This is a story about the people who dig.</span></p>
 
 <p><span class="chinese">作为一个作家，他的兴趣显然是研究古物。</span><span class="english">His interest as a writer was distinctly antiquarian.</span></p>

@@ -1,5 +1,7 @@
 # valiant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valiant.md)
+
 <p><span class="chinese">又像英勇的火炬。</span><span class="english">And a valiant torch.</span></p>
 
 <p><span class="chinese">向勇敢的胜利者致敬。</span><span class="english">Hail to the victors valiant.</span></p>

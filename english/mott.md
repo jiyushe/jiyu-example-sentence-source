@@ -1,5 +1,7 @@
 # mott
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mott.md)
+
 <p><span class="chinese">不认识。你能告诉我莫特街在哪里吗？</span><span class="english">No. Can you tell me where Mott Street is?</span></p>
 
 <p><span class="chinese">劳驾，您能告诉我们去莫特街的路吗？</span><span class="english">Excuse me. Can you tell us the way to Mott Street?</span></p>

@@ -1,5 +1,7 @@
 # 梳妆台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuzhuangtai.md)
+
 <p><span class="chinese">拂去梳妆台的灰尘。</span><span class="english">Dust the dressing table.</span></p>
 
 <p><span class="chinese">把梳妆台涂成银色也是她主动要求的。</span><span class="english">She also asked that her dresser be silver.</span></p>

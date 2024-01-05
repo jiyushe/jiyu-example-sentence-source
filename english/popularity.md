@@ -1,5 +1,7 @@
 # popularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popularity.md)
+
 <p><span class="chinese">发牢骚的人没人缘。</span><span class="english">In 2, the grumbler 's popularity.</span></p>
 
 <p><span class="chinese">月的考试中取得优异成绩！</span><span class="english">CPIM exams gain popularity in China!</span></p>

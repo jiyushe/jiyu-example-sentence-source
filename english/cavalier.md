@@ -1,5 +1,7 @@
 # cavalier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavalier.md)
+
 <p><span class="chinese">保加利亚骑士的费厄泼赖奖现在给出了。</span><span class="english">Bulgarian Cavalier of Fairplay award is now given out.</span></p>
 
 <p><span class="chinese">他在花费支出上的大手大脚令全国选民为之愤慨。</span><span class="english">A cavalier attitude to expenses incensed voters at home.</span></p>

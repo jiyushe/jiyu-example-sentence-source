@@ -1,5 +1,7 @@
 # 整顿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdun.md)
+
 <p><span class="chinese">整顿铜币。</span><span class="english">Thirdly, redding copper coins.</span></p>
 
 <p><span class="chinese">我们必须整顿社会秩序。</span><span class="english">We should put the society in order.</span></p>

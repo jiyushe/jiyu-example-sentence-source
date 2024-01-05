@@ -1,5 +1,7 @@
 # 巷战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzhan.md)
+
 <p><span class="chinese">他们目击了几起巷战。</span><span class="english">They witnessed several street battles.</span></p>
 
 <p><span class="chinese">你为什么非得参加我们碰巧路过的每条街上的巷战不可?</span><span class="english">Why do you have to pile in every street fight that we happen to pass?</span></p>

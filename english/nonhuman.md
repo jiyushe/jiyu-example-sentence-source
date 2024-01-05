@@ -1,5 +1,7 @@
 # nonhuman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonhuman.md)
+
 <p><span class="chinese">灵长类动物也可以微笑。</span><span class="english">Nonhuman primates smile as well.</span></p>
 
 <p><span class="chinese">它们是非人类的创造出来就是为了赚钱的。</span><span class="english">They are nonhuman entities created to make money.</span></p>

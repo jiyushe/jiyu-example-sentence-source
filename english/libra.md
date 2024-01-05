@@ -1,5 +1,7 @@
 # libra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libra.md)
+
 <p><span class="chinese">天秤座是风相星座。</span><span class="english">Libra is an airy sign.</span></p>
 
 <p><span class="chinese">天平座上，今天是你的生日。</span><span class="english">Go Libra its your birthday.</span></p>

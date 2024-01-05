@@ -1,5 +1,7 @@
 # 起床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichuang_1.md)
+
 <p><span class="chinese">快面女起床！</span><span class="english">Get up soon.</span></p>
 
 <p><span class="chinese">他起床了没有?</span><span class="english">Is he up yet?</span></p>

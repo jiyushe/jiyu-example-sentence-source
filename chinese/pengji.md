@@ -1,5 +1,7 @@
 # 抨击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengji.md)
+
 <p><span class="chinese">法官猛烈抨击他的批评者。</span><span class="english">The judge blasted his critics.</span></p>
 
 <p><span class="chinese">新的税收政策受到了猛烈抨击。</span><span class="english">The new tax policy was slated.</span></p>

@@ -1,5 +1,7 @@
 # extracorporeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extracorporeal.md)
+
 <p><span class="chinese">因而它是一种体外疗法。</span><span class="english">It is thus an extracorporeal therapy.</span></p>
 
 <p><span class="chinese">结论HIFU体外治疗恶性实体肿瘤是安全的。</span><span class="english">Conclusions Extracorporeal treatment of malignant solid tumors with HIFU is safe.</span></p>

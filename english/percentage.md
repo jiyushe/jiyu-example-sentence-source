@@ -1,5 +1,7 @@
 # percentage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/percentage.md)
+
 <p><span class="chinese">那么，比例是什么？</span><span class="english">Well, what’s the percentage?</span></p>
 
 <p><span class="chinese">英国这个比例更高。</span><span class="english">And Britain has higher percentage.</span></p>

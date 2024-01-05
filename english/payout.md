@@ -1,5 +1,7 @@
 # payout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/payout.md)
+
 <p><span class="chinese">彩金–一个注码的回报或可赢金额。</span><span class="english">Dividend – The payout or return on any bet.</span></p>
 
 <p><span class="chinese">首先，派息率是无保证的。</span><span class="english">Firstly, the payout ratio is not guaranteed.</span></p>

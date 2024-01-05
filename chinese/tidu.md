@@ -1,5 +1,7 @@
 # 剃度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tidu.md)
+
 <p><span class="chinese">接受这样剃度典礼的男孩正常是在五至九岁，而规定是必须在12岁以下。</span><span class="english">The rule is that they should be under twelve years of age.</span></p>
 
 <p><span class="chinese">戒尺用于皈依、剃度、传戒、说法等场合。</span><span class="english">The ferule is used for conversion, tonsure, ordination and parlance.</span></p>

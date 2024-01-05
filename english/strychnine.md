@@ -1,5 +1,7 @@
 # strychnine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strychnine.md)
+
 <p><span class="chinese">他中过番木鳖碱的毒。</span><span class="english">He had been poisoned with strychnine.</span></p>
 
 <p><span class="chinese">吃了一堆和士的宁混在一起的迷幻药？</span><span class="english">Then add half a teaspoonful of strychnine.</span></p>

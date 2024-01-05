@@ -1,5 +1,7 @@
 # morose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morose.md)
+
 <p><span class="chinese">他看上去有点闷闷不乐的样子。</span><span class="english">He looked a little morose.</span></p>
 
 <p><span class="chinese">菲的死让明变得孤僻，他心灰意冷，郁郁寡欢。</span><span class="english">He became insular, emotionally dead, passionless and morose.</span></p>

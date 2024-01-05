@@ -1,5 +1,7 @@
 # bsd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bsd.md)
+
 <p><span class="chinese">我们也特别喜欢它的BSD许可。</span><span class="english">We particular like the BSD license.</span></p>
 
 <p><span class="chinese">BSD可以作为一个很棒的服务器，同样可以做为很优秀的桌面。</span><span class="english">BSD makes a great server. It also makes a great desktop.</span></p>

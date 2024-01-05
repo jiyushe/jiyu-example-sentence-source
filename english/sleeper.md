@@ -1,5 +1,7 @@
 # sleeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleeper.md)
+
 <p><span class="chinese">坐票还是卧铺？</span><span class="english">Seats or sleeper?</span></p>
 
 <p><span class="chinese">我能预订卧铺票吗？</span><span class="english">Can I book a sleeper?</span></p>

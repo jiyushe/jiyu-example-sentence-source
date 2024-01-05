@@ -1,5 +1,7 @@
 # phototaxis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phototaxis.md)
+
 <p><span class="chinese">趋光性较强，要经常转盆。</span><span class="english">Phototaxis is stronger, often should turn basin.</span></p>
 
 <p><span class="chinese">也就揭示了眼睛进化的第一个阶段。</span><span class="english">Understanding phototaxis thus unravels the first steps of eye evolution.</span></p>

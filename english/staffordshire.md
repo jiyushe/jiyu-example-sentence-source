@@ -1,5 +1,7 @@
 # staffordshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staffordshire.md)
+
 <p><span class="chinese">斯塔福郡斗牛梗是一种短毛狗。</span><span class="english">The Staffordshire Bull Terrier is a smooth-coated dog.</span></p>
 
 <p><span class="chinese">这对情侣最初1940年在史丹福郡的一所学校里认识。</span><span class="english">The couple first met in 1940 at school in Staffordshire.</span></p>

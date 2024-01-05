@@ -1,5 +1,7 @@
 # proclaimed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proclaimed.md)
+
 <p><span class="chinese">这男孩被拥立为王。</span><span class="english">The boy was proclaimed king.</span></p>
 
 <p><span class="chinese">她自封为专家。</span><span class="english">She proclaimed herself an expert.</span></p>

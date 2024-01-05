@@ -1,5 +1,7 @@
 # mercuric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercuric.md)
+
 <p><span class="chinese">一种黄色的硫化物，主要用作色素。</span><span class="english">A red mercuric sulfide used as a pigment.</span></p>
 
 <p><span class="chinese">一种黄色的硫化物，主要用作色素。</span><span class="english">A bright red mercuric sulfide used as a pigment.</span></p>

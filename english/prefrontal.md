@@ -1,5 +1,7 @@
 # prefrontal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prefrontal.md)
+
 <p><span class="chinese">前额皮质是心理理论的重要部分。</span><span class="english">The prefrontal cortex is key to theory of mind.</span></p>
 
 <p><span class="chinese">该科的第一个手术方法为前额叶脑叶切开术。</span><span class="english">The first such technique was the prefrontal lobotomy.</span></p>

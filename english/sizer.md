@@ -1,5 +1,7 @@
 # sizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sizer.md)
+
 <p><span class="chinese">激光粒度仪自动化程度高，操作简单。</span><span class="english">The laser particle sizer is highly automated, so its operation is very simple.</span></p>
 
 <p><span class="chinese">利用激光粒度仪验证激光干涉成像测量技术的粒径测量精度。</span><span class="english">The precision of size measurement by the method was checked by a diffraction particle sizer.</span></p>

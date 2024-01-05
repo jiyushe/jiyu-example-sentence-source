@@ -1,5 +1,7 @@
 # 敲锣打鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoluodagu.md)
+
 <p><span class="chinese">也会敲锣打鼓的舞龙灯。</span><span class="english">There are dragon dances with drums.</span></p>
 
 <p><span class="chinese">靠敲锣打鼓抓不到兔子。</span><span class="english">Drumming is not the way to catch a hare.</span></p>

@@ -1,5 +1,7 @@
 # outright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outright.md)
+
 <p><span class="chinese">我可以痛快的买个地方住。</span><span class="english">I could buy a place outright.</span></p>
 
 <p><span class="chinese">直接交易可能是抵补保值。</span><span class="english">Outright deal can be a hedge.</span></p>

@@ -1,5 +1,7 @@
 # post
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/post.md)
+
 <p><span class="chinese">发布一个徽标。</span><span class="english">Post a logo.</span></p>
 
 <p><span class="chinese">发图片。</span><span class="english">Post pictures.</span></p>

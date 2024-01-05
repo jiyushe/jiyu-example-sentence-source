@@ -1,5 +1,7 @@
 # probation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/probation.md)
+
 <p><span class="chinese">你孒解公司啲试用期情况吗？</span><span class="english">Do you understand probation?</span></p>
 
 <p><span class="chinese">试用表明效果甚佳。</span><span class="english">The probation effect is very good.</span></p>

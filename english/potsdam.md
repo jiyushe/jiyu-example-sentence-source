@@ -1,5 +1,7 @@
 # potsdam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potsdam.md)
+
 <p><span class="chinese">有许多诸如波茨坦宫殿这样的宫廷建筑</span><span class="english">It's got Potsdam Palace and all of this.</span></p>
 
 <p><span class="chinese">长途客车早上从波茨坦开出。</span><span class="english">The coach departs Potsdam in the morning.</span></p>

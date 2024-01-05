@@ -1,5 +1,7 @@
 # cem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cem.md)
+
 <p><span class="chinese">他的儿子们巴耶济德与杰姆为了继承问题闹的不可开交。</span><span class="english">His succession was disputed between his sons Bayezid and Cem.</span></p>
 
 <p><span class="chinese">然而，并非所有的偏序结构在紧缩调节中都能完美的调节。</span><span class="english">However, "perfect" modulation in CEM may not be possible for some partial orders.</span></p>

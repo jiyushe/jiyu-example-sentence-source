@@ -1,5 +1,7 @@
 # 极目远眺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jimuyuantiao.md)
+
 <p><span class="chinese">你可以极目远眺，看见海岸。</span><span class="english">You can see as far as the coast.</span></p>
 
 <p><span class="chinese">极目远眺，是云雾笼罩下的巴黎。</span><span class="english">And, far off, Paris shrouded in smoke!</span></p>

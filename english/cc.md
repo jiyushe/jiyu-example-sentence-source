@@ -1,5 +1,7 @@
 # cc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cc.md)
+
 <p><span class="chinese">我没有把你设置到抄送。</span><span class="english">I didn't set you on CC.</span></p>
 
 <p><span class="chinese">哪个女孩是富美子？</span><span class="english">Cc Which girl is Fumiko?</span></p>

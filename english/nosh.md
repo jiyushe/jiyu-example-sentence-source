@@ -1,5 +1,7 @@
 # nosh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nosh.md)
+
 <p><span class="chinese">那么，会有需要更多的原因想要吃点心吗？</span><span class="english">Need more reasons to nosh?</span></p>
 
 <p><span class="chinese">思念学校的小吃。</span><span class="english">Missing the scholastic nosh.</span></p>

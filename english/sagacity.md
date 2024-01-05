@@ -1,5 +1,7 @@
 # sagacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sagacity.md)
+
 <p><span class="chinese">他是一个多么有情有义的男子汉呵！</span><span class="english">He is a man of sagacity how uh!</span></p>
 
 <p><span class="chinese">丰满，优雅，阳光，睿智。</span><span class="english">Plim , grace, bright, sunlight, sagacity.</span></p>

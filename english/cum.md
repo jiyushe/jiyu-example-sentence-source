@@ -1,5 +1,7 @@
 # cum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cum.md)
+
 <p><span class="chinese">他以最优等成绩从哈佛大学毕业。</span><span class="english">He graduated summa cum laude from Harvard.</span></p>
 
 <p><span class="chinese">当你让其他人爽到极点的时候，每个人都会爱死你的。</span><span class="english">Everybody loves you when they are about to cum.</span></p>

@@ -1,5 +1,7 @@
 # pursuer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pursuer.md)
+
 <p><span class="chinese">他听得出追他的人正向他靠近。</span><span class="english">He could hear his pursuer closing up on him.</span></p>
 
 <p><span class="chinese">他用肘戳了我一下。</span><span class="english">The criminal jabbed at the pursuer with a knife.</span></p>

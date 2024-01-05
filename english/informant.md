@@ -1,5 +1,7 @@
 # informant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/informant.md)
+
 <p><span class="chinese">科斯特洛是我的线人。</span><span class="english">Costello was 'my' informant.</span></p>
 
 <p><span class="chinese">警方说是一名告密者把缉毒警察引领到此的。</span><span class="english">Police said an informant led narcotics officers to the house.</span></p>

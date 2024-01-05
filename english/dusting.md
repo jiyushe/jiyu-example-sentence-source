@@ -1,5 +1,7 @@
 # dusting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dusting.md)
+
 <p><span class="chinese">他在给化妆台掸去灰尘吗?。</span><span class="english">Is he dusting the dressing table?</span></p>
 
 <p><span class="chinese">她正在掸去家具上的灰尘。</span><span class="english">She was dusting off the furniture.</span></p>

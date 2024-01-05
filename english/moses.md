@@ -1,5 +1,7 @@
 # moses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moses.md)
+
 <p><span class="chinese">上主训示梅瑟说。</span><span class="english">The Lord said to Moses.</span></p>
 
 <p><span class="chinese">摩西将圣坛洗净</span><span class="english">Moses purified the altar.</span></p>

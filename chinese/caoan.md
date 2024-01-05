@@ -1,5 +1,7 @@
 # 草案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoan.md)
+
 <p><span class="chinese">前期草案的内容是什么？</span><span class="english">What is in the early draft?</span></p>
 
 <p><span class="chinese">拟出草案静态模型。</span><span class="english">Rough out a draft static model.</span></p>

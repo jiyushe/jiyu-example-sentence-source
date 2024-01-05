@@ -1,5 +1,7 @@
 # globalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/globalism.md)
+
 <p><span class="chinese">全球主义与全球一体化？</span><span class="english">Globalism versus globalization?</span></p>
 
 <p><span class="chinese">平民主义对全球主义意味着什么</span><span class="english">What Populism Means for Globalism</span></p>

@@ -1,5 +1,7 @@
 # emilia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emilia.md)
+
 <p><span class="chinese">爱米利娅跟我一样清白！呸！不要脸！</span><span class="english">Emilia. As I! foh! fie upon thee!</span></p>
 
 <p><span class="chinese">爱米莉亚有她自己的宗教信仰。</span><span class="english">Emilia had her own religious convictions.</span></p>

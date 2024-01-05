@@ -1,5 +1,7 @@
 # 百货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baihuo.md)
+
 <p><span class="chinese">那就是百货商场给他的回答。</span><span class="english">That's what they told him.</span></p>
 
 <p><span class="chinese">我那时会在崇光百货随便逛。</span><span class="english">I'll be at Sogo window shopping.</span></p>

@@ -1,5 +1,7 @@
 # reduplication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reduplication.md)
+
 <p><span class="chinese">这个评论不应该只是被认为是内容的复述。</span><span class="english">This commentary is not to be considered as a reduplication.</span></p>
 
 <p><span class="chinese">同义叠加是朝鲜语特有的一种语言现象。</span><span class="english">The synonymous reduplication is a unique linguistic phenomenon in Korean.</span></p>

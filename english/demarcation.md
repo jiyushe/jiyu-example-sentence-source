@@ -1,5 +1,7 @@
 # demarcation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demarcation.md)
+
 <p><span class="chinese">红线就是国界线。</span><span class="english">The red line is the demarcation line.</span></p>
 
 <p><span class="chinese">泰国将呼吁重新就划界问题进行谈判。</span><span class="english">Thailand will call for re-negotiations on demarcation.</span></p>

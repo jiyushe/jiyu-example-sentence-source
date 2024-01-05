@@ -1,5 +1,7 @@
 # bark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bark.md)
+
 <p><span class="chinese">他还啃树皮。</span><span class="english">He chews bark.</span></p>
 
 <p><span class="chinese">犬吠为何？</span><span class="english">Why Dogs Bark?</span></p>

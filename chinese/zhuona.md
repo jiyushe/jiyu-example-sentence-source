@@ -1,5 +1,7 @@
 # 捉拿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuona.md)
+
 <p><span class="chinese">感谢捉拿狼群和小狼的赏金。</span><span class="english">Thanks for bounties on wolves and coyotes.</span></p>
 
 <p><span class="chinese">不要让报应女神娜美西斯用快捷的船舰捉拿我。</span><span class="english">Let not nemesis catch me by the swift ships.</span></p>

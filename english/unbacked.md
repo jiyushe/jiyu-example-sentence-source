@@ -1,5 +1,7 @@
 # unbacked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbacked.md)
+
 <p><span class="chinese">真实储蓄的转移是通过空白凭证实现的，也就是没有黄金支撑的纸币。</span><span class="english">The diversion of real savings is done by means of unbacked certificates, i.e. , unbacked money.</span></p>
 
 <p><span class="chinese">于是很显然，如果没有未被支撑的纸币将真正的储蓄转移到他们时，他们就会处于麻烦之中。</span><span class="english">Obviously then, without the unbacked money, which diverts real savings to them, they are in trouble.</span></p>

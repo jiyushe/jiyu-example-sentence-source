@@ -1,5 +1,7 @@
 # ohio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ohio.md)
+
 <p><span class="chinese">在俄亥俄的布里奇波特。</span><span class="english">In Bridgeport, Ohio.</span></p>
 
 <p><span class="chinese">在俄亥俄州，不可以把鱼灌醉。</span><span class="english">Get a fish drunk in Ohio.</span></p>

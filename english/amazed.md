@@ -1,5 +1,7 @@
 # amazed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amazed.md)
+
 <p><span class="chinese">他说的话真令我感到惊讶。</span><span class="english">What he said amazed me.</span></p>
 
 <p><span class="chinese">他既惊讶又激动，兴奋难以言表。</span><span class="english">He was amazed and excited.</span></p>

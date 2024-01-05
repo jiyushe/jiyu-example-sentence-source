@@ -1,5 +1,7 @@
 # 拉线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laxian.md)
+
 <p><span class="chinese">是别人在背后拉线操纵。</span><span class="english">Someone else is pulling the strings.</span></p>
 
 <p><span class="chinese">为什么我不能设置同一名球员的前拉线和后拉线?。</span><span class="english">Why can't Ihave farrow anda barrow onthe same player?</span></p>

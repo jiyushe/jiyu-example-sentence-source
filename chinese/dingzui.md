@@ -1,5 +1,7 @@
 # 定罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzui.md)
+
 <p><span class="chinese">我们不需要给他定罪。</span><span class="english">We need not judge him.</span></p>
 
 <p><span class="chinese">不过，定罪来自上帝。</span><span class="english">But conviction comes from God.</span></p>

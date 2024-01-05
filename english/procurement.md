@@ -1,5 +1,7 @@
 # procurement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procurement.md)
+
 <p><span class="chinese">政府采购法?。</span><span class="english">Government Procurement Law?</span></p>
 
 <p><span class="chinese">成功的采购计划或征求书</span><span class="english">successful procurement plans and RFPs</span></p>

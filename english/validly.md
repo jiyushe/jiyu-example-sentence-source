@@ -1,5 +1,7 @@
 # validly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/validly.md)
+
 <p><span class="chinese">未成年子女保有该住所直至合法废止之。</span><span class="english">The child retains the residence until it validly abandons it.</span></p>
 
 <p><span class="chinese">它们确切的点醒我，休闲的时刻开始了。</span><span class="english">They validly reminded me of the starting of my leisure hours.</span></p>

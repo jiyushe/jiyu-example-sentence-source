@@ -1,5 +1,7 @@
 # tab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tab.md)
+
 <p><span class="chinese">点击这个页签。</span><span class="english">Click this tab.</span></p>
 
 <p><span class="chinese">点“默认安全机制”标签。</span><span class="english">Click the Default Security tab.</span></p>

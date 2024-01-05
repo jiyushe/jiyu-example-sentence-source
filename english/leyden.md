@@ -1,5 +1,7 @@
 # leyden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leyden.md)
+
 <p><span class="chinese">这个设备后来著名的莱顿瓶。</span><span class="english">This device became known as the Leyden jar.</span></p>
 
 <p><span class="chinese">一位教授在莱顿已经明显加尔文的上帝“一个暴君和刽子手”。</span><span class="english">A professor at Leyden had already pronounced Calvin's God "a tyrant and an executioner".</span></p>

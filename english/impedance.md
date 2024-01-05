@@ -1,5 +1,7 @@
 # impedance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impedance.md)
+
 <p><span class="chinese">运行时阻抗随转差率减少。</span><span class="english">The impedance decreases with slip ratio.</span></p>
 
 <p><span class="chinese">与长周期的数据库管理的匹配阻抗</span><span class="english">Match impedance to long-cycle database administration</span></p>

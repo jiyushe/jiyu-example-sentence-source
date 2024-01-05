@@ -1,5 +1,7 @@
 # 当家做主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangjiazuozhu_1.md)
+
 <p><span class="chinese">1949年中国人民终于当家做主了。</span><span class="english">Chinese finally wear the pants in 1949.</span></p>
 
 <p><span class="chinese">当她丈夫不在时，她当家做主。</span><span class="english">When her husband was out she wore the trousers.</span></p>

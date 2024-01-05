@@ -1,5 +1,7 @@
 # 暗码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anma.md)
+
 <p><span class="chinese">他用暗码发送了一份讯息。</span><span class="english">He sent a message in code.</span></p>
 
 <p><span class="chinese">他如何会知道你的暗码的？</span><span class="english">How could he know your passwords?</span></p>

@@ -1,5 +1,7 @@
 # 吻合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhe.md)
+
 <p><span class="chinese">证词与报告吻合。</span><span class="english">The testimony tallies with the report.</span></p>
 
 <p><span class="chinese">这些血管的皮支吻合丰富。</span><span class="english">These vessels have rich cutaneous anastomosis.</span></p>

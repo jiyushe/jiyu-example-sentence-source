@@ -1,5 +1,7 @@
 # 开张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaizhang.md)
+
 <p><span class="chinese">囍掌柜的店铺开张了。</span><span class="english">Open the shop. Sell the thing.</span></p>
 
 <p><span class="chinese">这家新商店将在下个月开张。</span><span class="english">The mew store opens up next month.</span></p>

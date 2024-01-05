@@ -1,5 +1,7 @@
 # 刻苦耐劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kekunailao.md)
+
 <p><span class="chinese">有较强的自学能力和刻苦耐劳的精神。</span><span class="english">Have a strong self-learning ability and being hard working.</span></p>
 
 <p><span class="chinese">一定要毁掉他们强调过的刻苦耐劳精神。</span><span class="english">They stressed that we must destroy the spirit of hard work.</span></p>

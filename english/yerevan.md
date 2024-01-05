@@ -1,5 +1,7 @@
 # yerevan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yerevan.md)
+
 <p><span class="chinese">亚美尼亚人去年在首都耶烈万下著西洋棋。</span><span class="english">Armenians play chess in the capital Yerevan last year.</span></p>
 
 <p><span class="chinese">该班机由伊朗首都德黑兰飞往亚美尼亚首都埃里温。</span><span class="english">The aircraft was traveling from Tehran to the Armenian capital of Yerevan.</span></p>

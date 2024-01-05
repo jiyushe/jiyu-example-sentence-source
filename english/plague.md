@@ -1,5 +1,7 @@
 # plague
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plague.md)
+
 <p><span class="chinese">您别气宝宝好吗？</span><span class="english">You don't plague a baby good?</span></p>
 
 <p><span class="chinese">1665年一场瘟疫降临伦敦。</span><span class="english">A plague visited London in 1665.</span></p>

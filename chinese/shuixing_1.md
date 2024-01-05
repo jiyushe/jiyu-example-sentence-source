@@ -1,5 +1,7 @@
 # 水星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixing_1.md)
+
 <p><span class="chinese">根据美国加州水星新闻报发布的内部数据，这支工作大军依照保持年轻。</span><span class="english">And the work force remains young.</span></p>
 
 <p><span class="chinese">水星在射手座，土星衰落。</span><span class="english">Mercury in Sagittarius, Saturn fading.</span></p>

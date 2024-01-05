@@ -1,5 +1,7 @@
 # clown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clown.md)
+
 <p><span class="chinese">一个在墓园里的小丑。</span><span class="english">A clown in a cemetery.</span></p>
 
 <p><span class="chinese">他被选为班里的活宝。</span><span class="english">He was voted class clown.</span></p>

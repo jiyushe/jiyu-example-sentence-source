@@ -1,5 +1,7 @@
 # necropolis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necropolis.md)
+
 <p><span class="chinese">我也在建造墓地。</span><span class="english">I constructed Necropolis.</span></p>
 
 <p><span class="chinese">纳克萨玛斯墓地是漂浮在斯坦索姆城市上空的。</span><span class="english">The Necropolis floats above the city of Stratholme.</span></p>

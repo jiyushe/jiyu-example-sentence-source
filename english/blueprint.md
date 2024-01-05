@@ -1,5 +1,7 @@
 # blueprint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blueprint.md)
+
 <p><span class="chinese">因此之故，也才有基因组等同于生命蓝图的说法。</span><span class="english">Hence the notion of the genome as a blueprint.</span></p>
 
 <p><span class="chinese">这张蓝图有点不准。</span><span class="english">There is a slight inaccuracy in this blueprint.</span></p>

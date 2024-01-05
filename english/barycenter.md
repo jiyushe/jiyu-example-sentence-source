@@ -1,5 +1,7 @@
 # barycenter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barycenter.md)
+
 <p><span class="chinese">还想了解一下重心在护手前多远。</span><span class="english">I also want to know how far the barycenter is to the armguard.</span></p>
 
 <p><span class="chinese">采用权重定位法对VIL中心区进行定位。</span><span class="english">The location of VIL heartland is orientated by its barycenter.</span></p>

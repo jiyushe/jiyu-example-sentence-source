@@ -1,5 +1,7 @@
 # reorganization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reorganization.md)
+
 <p><span class="chinese">他创作改编二胡乐曲达30余首。</span><span class="english">He creates the reorganization urheen music to reach 30 heads.</span></p>
 
 <p><span class="chinese">仅对用户表进行自动表重组。</span><span class="english">Only consider user tables for automatic table reorganization.</span></p>

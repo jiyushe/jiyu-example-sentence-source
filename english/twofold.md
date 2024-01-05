@@ -1,5 +1,7 @@
 # twofold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twofold.md)
+
 <p><span class="chinese">最基本的问题是双重的。</span><span class="english">The basic problem is twofold.</span></p>
 
 <p><span class="chinese">大坝的作用的双重的。</span><span class="english">The purpose of a dam is twofold.</span></p>

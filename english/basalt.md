@@ -1,5 +1,7 @@
 # basalt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basalt.md)
+
 <p><span class="chinese">它们就是南碇岛上的玄武岩柱状节理。</span><span class="english">They are columnar basalt boulders on nanding island.</span></p>
 
 <p><span class="chinese">玄武岩已经碎裂了，形成了所谓的“宪兵”</span><span class="english">Basalt has crumbled out and formed so-called “gendarme”</span></p>

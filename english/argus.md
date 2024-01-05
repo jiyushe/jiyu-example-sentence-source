@@ -1,5 +1,7 @@
 # argus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argus.md)
+
 <p><span class="chinese">这时阿格斯突然出现，瞧见了他们。</span><span class="english">Then Argus appeared and saw them.</span></p>
 
 <p><span class="chinese">但是希拉想要为阿格斯的死处罚爱娥。</span><span class="english">But Hera wanted to punish her for Argus 'death.</span></p>

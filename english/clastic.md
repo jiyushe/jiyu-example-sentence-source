@@ -1,5 +1,7 @@
 # clastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clastic.md)
+
 <p><span class="chinese">这个教授建立了一种可以分解的人类脑部模型。</span><span class="english">The professor had a clastic model of the human brain.</span></p>
 
 <p><span class="chinese">碎屑岩相模式的识别是带有一定系统性的。</span><span class="english">Clastic facies pattern recognition is somewhat systematic.</span></p>

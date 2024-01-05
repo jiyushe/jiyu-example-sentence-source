@@ -1,5 +1,7 @@
 # alai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alai.md)
+
 <p><span class="chinese">阿莱是伯纳德的朋友。</span><span class="english">Alai was Bernard's friend.</span></p>
 
 <p><span class="chinese">“谁后到得放一个屁到牛奶瓶里。”阿莱说。</span><span class="english">Last one there saves farts in a milk bottle, " Alai said."</span></p>

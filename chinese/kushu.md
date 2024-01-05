@@ -1,5 +1,7 @@
 # 酷暑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kushu.md)
+
 <p><span class="chinese">一阵酷暑突然过去了。</span><span class="english">The hot spell broke.</span></p>
 
 <p><span class="chinese">今年夏天酷暑难耐。</span><span class="english">The heat is intolerable this summer.</span></p>

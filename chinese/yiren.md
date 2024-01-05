@@ -1,5 +1,7 @@
 # 艺人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiren.md)
+
 <p><span class="chinese">艺人都很麻烦。</span><span class="english">Artistes are very troublesome.</span></p>
 
 <p><span class="chinese">压轴巡游演出中的最后艺人。</span><span class="english">The end man in a minstrel show.</span></p>

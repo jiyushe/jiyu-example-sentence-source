@@ -1,5 +1,7 @@
 # 上工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanggong_1.md)
+
 <p><span class="chinese">夜班10点钟上工。</span><span class="english">The night shift starts at 10.</span></p>
 
 <p><span class="chinese">五点钟，上工的汽笛声响了。</span><span class="english">At five the first hooter sounds.</span></p>

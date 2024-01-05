@@ -1,5 +1,7 @@
 # uppercase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uppercase.md)
+
 <p><span class="chinese">STRING1应当只由大写字母组成。</span><span class="english">STRING1 shall consist of uppercase LETTERS only.</span></p>
 
 <p><span class="chinese">使用大写转换来转换所有值。</span><span class="english">Convert all values using the uppercase conversion.</span></p>

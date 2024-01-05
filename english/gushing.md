@@ -1,5 +1,7 @@
 # gushing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gushing.md)
+
 <p><span class="chinese">我再也控制不住，泪水喷薄而出。</span><span class="english">I couldn't hold back, tears gushing out.</span></p>
 
 <p><span class="chinese">我真受不了他们的这份热情。</span><span class="english">I just couldn't stomach all this gushing.</span></p>

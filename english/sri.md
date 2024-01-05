@@ -1,5 +1,7 @@
 # sri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sri.md)
+
 <p><span class="chinese">室利阿罗频多则是非常遥远。</span><span class="english">Sri Aurobindo was very remote.</span></p>
 
 <p><span class="chinese">非常感谢您，巴关。</span><span class="english">Thank you so much Sri Bhagavan.</span></p>

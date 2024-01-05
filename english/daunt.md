@@ -1,5 +1,7 @@
 # daunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daunt.md)
+
 <p><span class="chinese">危险并没有吓住那英雄。</span><span class="english">Danger didn't daunt the hero.</span></p>
 
 <p><span class="chinese">危险并没有吓住那位英雄。</span><span class="english">Danger didn't daunt the hero.</span></p>

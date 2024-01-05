@@ -1,5 +1,7 @@
 # 少林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaolin.md)
+
 <p><span class="chinese">关于少林内劲一指禅的起源。</span><span class="english">Shaolinon one of the origin of Zen.</span></p>
 
 <p><span class="chinese">直到明代少林僧兵的的兴起。</span><span class="english">Ming Shaolin monk soldiers until the rise.</span></p>

@@ -1,5 +1,7 @@
 # toweling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toweling.md)
+
 <p><span class="chinese">当毛巾料干不擦的时候。</span><span class="english">When toweling dry don't rub.</span></p>
 
 <p><span class="chinese">当毛巾料干，不擦皮肤的时候。</span><span class="english">When toweling dry, do not rub the skin.</span></p>

@@ -1,5 +1,7 @@
 # 总司令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongsiling.md)
+
 <p><span class="chinese">我竞选是要当美国军队总司令！</span><span class="english">I'm running to be commander in chief!</span></p>
 
 <p><span class="chinese">他向总司令作了汇报。</span><span class="english">He rendered a report to the commander-in-chief.</span></p>

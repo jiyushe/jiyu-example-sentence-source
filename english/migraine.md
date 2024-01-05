@@ -1,5 +1,7 @@
 # migraine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/migraine.md)
+
 <p><span class="chinese">在1966年，我开始研究偏头痛患者。</span><span class="english">In 1966, I started working with migraine patients.</span></p>
 
 <p><span class="chinese">他有哪些偏头痛方面的确切症状？</span><span class="english">What exact symptoms did he have regarding a migraine?</span></p>

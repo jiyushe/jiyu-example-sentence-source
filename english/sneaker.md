@@ -1,5 +1,7 @@
 # sneaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sneaker.md)
+
 <p><span class="chinese">我必须把我的网球鞋刷白。</span><span class="english">Gym shoe , sneaker , tennis shoe.</span></p>
 
 <p><span class="chinese">运动鞋现在是可利用的在大气。</span><span class="english">The sneaker is now available at Atmos.</span></p>

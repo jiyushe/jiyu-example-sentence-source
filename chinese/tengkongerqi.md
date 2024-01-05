@@ -1,5 +1,7 @@
 # 腾空而起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tengkongerqi.md)
+
 <p><span class="chinese">那支火箭从发射台腾空而起。</span><span class="english">The rocket lifted off from the launching pad.</span></p>
 
 <p><span class="chinese">飞机从跑道上腾空而起，向北飞去。</span><span class="english">The plane cleared the runway and headed north.</span></p>

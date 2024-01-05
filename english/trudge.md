@@ -1,5 +1,7 @@
 # trudge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trudge.md)
+
 <p><span class="chinese">所谓历史，就是从原始人到原子弹的短途游。</span><span class="english">History is the short trudge from Adam to atom.</span></p>
 
 <p><span class="chinese">你们就这样坚忍无怨地蹒跚而行。</span><span class="english">Thus you trudge along, stoical, uncomplaining.</span></p>

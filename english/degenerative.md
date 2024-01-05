@@ -1,5 +1,7 @@
 # degenerative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degenerative.md)
+
 <p><span class="chinese">它起着负反馈的作用。</span><span class="english">It produces a degenerative effect.</span></p>
 
 <p><span class="chinese">间盘退变也是很重要的病因。</span><span class="english">Disc degenerative disease is a cause of concern.</span></p>

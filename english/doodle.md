@@ -1,5 +1,7 @@
 # doodle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doodle.md)
+
 <p><span class="chinese">有时我对嘟嘟很刻毒。</span><span class="english">And at times I was mean to Doodle.</span></p>
 
 <p><span class="chinese">兔丫，会说话的涂鸦文化社交。</span><span class="english">Cony, Talking doodle cultural social.</span></p>

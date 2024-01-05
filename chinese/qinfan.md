@@ -1,5 +1,7 @@
 # 侵犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinfan.md)
+
 <p><span class="chinese">他觉得自己被侵犯。</span><span class="english">He felt really violated.</span></p>
 
 <p><span class="chinese">侵犯了他的权利。</span><span class="english">That violates his rights.</span></p>

@@ -1,5 +1,7 @@
 # 火箭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huojian_1.md)
+
 <p><span class="chinese">但是，火箭燃料？</span><span class="english">But rocket fuel?</span></p>
 
 <p><span class="chinese">我将依然支持火箭。</span><span class="english">We will still support ROX.</span></p>

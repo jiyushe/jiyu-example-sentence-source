@@ -1,5 +1,7 @@
 # chevrolet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chevrolet.md)
+
 <p><span class="chinese">在我的老式雪佛莱汽车里演绎着银幕上的奇迹。</span><span class="english">Making magic in the movie in my old Chevrolet.</span></p>
 
 <p><span class="chinese">阿铁查尔斯顿别克，雪佛兰，GMC。</span><span class="english">Buick Charleston railroad, and Chevrolet and GMC.</span></p>

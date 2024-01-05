@@ -1,5 +1,7 @@
 # 牢牢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laolao.md)
+
 <p><span class="chinese">门关得牢牢的。</span><span class="english">The door's shut tight.</span></p>
 
 <p><span class="chinese">他想做的就是想把他们牢牢地钳制住</span><span class="english">But he can control them there.</span></p>

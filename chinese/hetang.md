@@ -1,5 +1,7 @@
 # 河塘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hetang.md)
+
 <p><span class="chinese">河塘竟然成了垃圾的海洋。</span><span class="english">The pool had already been a sea of rubbish.</span></p>
 
 <p><span class="chinese">她们所倾注的爱就像河塘的涟漪，一圈圈扩散，泽及后人。</span><span class="english">Like ripples in a pond, their investment spreads across the generations.</span></p>

@@ -1,5 +1,7 @@
 # 所在地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suozaidi.md)
+
 <p><span class="chinese">太空平台。新威尼斯城所在地。</span><span class="english">Hosts the New Venice space station.</span></p>
 
 <p><span class="chinese">和最刺激的滑降坡的所在地。</span><span class="english">And exciting downhill slops in the world.</span></p>

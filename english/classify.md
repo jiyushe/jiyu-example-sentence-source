@@ -1,5 +1,7 @@
 # classify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classify.md)
+
 <p><span class="chinese">我们很难把乳酪分门别类。</span><span class="english">Cheese is hard to classify.</span></p>
 
 <p><span class="chinese">对它的词义构合关系进行归类探源。</span><span class="english">Classify them and explore the source.</span></p>

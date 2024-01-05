@@ -1,5 +1,7 @@
 # tabloid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabloid.md)
+
 <p><span class="chinese">可我讨厌八卦新闻。</span><span class="english">But I hate to tabloid news.</span></p>
 
 <p><span class="chinese">它变成了一份通俗小报</span><span class="english">They turned it into a tabloid.</span></p>

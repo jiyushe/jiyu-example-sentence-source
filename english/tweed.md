@@ -1,5 +1,7 @@
 # tweed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tweed.md)
+
 <p><span class="chinese">种什么花呢？</span><span class="english">What kinds of tweed?</span></p>
 
 <p><span class="chinese">粗花呢的外套和裙子。</span><span class="english">He wore a tweed jacket.</span></p>

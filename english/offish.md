@@ -1,5 +1,7 @@
 # offish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offish.md)
+
 <p><span class="chinese">里面有许多鱼和螃蟹。</span><span class="english">There are a lot offish and crabs in it.</span></p>
 
 <p><span class="chinese">该场景包含了许多不同种类的鱼。</span><span class="english">The scene includes many different species offish.</span></p>

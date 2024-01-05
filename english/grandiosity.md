@@ -1,5 +1,7 @@
 # grandiosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandiosity.md)
+
 <p><span class="chinese">浮华虚夸一向是为了掩饰内在的绝望。</span><span class="english">Grandiosity is always a cover for despair.</span></p>
 
 <p><span class="chinese">小我欲以它的浮华虚夸来取代上主的庄严伟大。</span><span class="english">The grandiosity of the ego is its alternative to the grandeur of God.</span></p>

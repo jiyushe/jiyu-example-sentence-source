@@ -1,5 +1,7 @@
 # 第一线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyixian.md)
+
 <p><span class="chinese">去年我们是冲锋在第一线！</span><span class="english">Last year, we were on the front lines!</span></p>
 
 <p><span class="chinese">陈锡文说，“官员们不能藏在警察身后或者把警察推到第一线。</span><span class="english">They cannot hide and push police to the front lines.</span></p>

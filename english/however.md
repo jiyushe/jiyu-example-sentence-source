@@ -1,5 +1,7 @@
 # however 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/however.md)
+
 <p><span class="chinese">但我很自豪。</span><span class="english">I was proud, however.</span></p>
 
 <p><span class="chinese">但是一定要小心。</span><span class="english">Do be careful, however.</span></p>

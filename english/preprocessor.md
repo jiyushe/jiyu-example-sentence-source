@@ -1,5 +1,7 @@
 # preprocessor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preprocessor.md)
+
 <p><span class="chinese">从某种意义上讲，编译器就是一个非常奇妙的预处理器。</span><span class="english">and a compiler is, in some sense, just a very fancy preprocessor.</span></p>
 
 <p><span class="chinese">未定义的符号与预处理器指令一起使用。</span><span class="english">A symbol that was not defined was used with a preprocessor directive.</span></p>

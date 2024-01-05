@@ -1,5 +1,7 @@
 # 明珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhu_1.md)
+
 <p><span class="chinese">地中海的明珠。</span><span class="english">The Mediterranean jewel.</span></p>
 
 <p><span class="chinese">明珠莫投暗。</span><span class="english">Cast not your pearls before ne.</span></p>

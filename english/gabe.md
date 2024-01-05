@@ -1,5 +1,7 @@
 # gabe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gabe.md)
+
 <p><span class="chinese">盖伯是个一流的厨师。</span><span class="english">Gabe is a top-notch chef.</span></p>
 
 <p><span class="chinese">我不知道，嘉博。我真希望我知道。</span><span class="english">I don't know, Gabe. I kinda wish I had.</span></p>

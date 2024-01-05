@@ -1,5 +1,7 @@
 # filo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filo.md)
+
 <p><span class="chinese">杨致远和费罗是旧识。</span><span class="english">Filo and Jerry Yang of the old knowledge.</span></p>
 
 <p><span class="chinese">费罗和杨，仍青年男子，成了富翁。</span><span class="english">Filo and Yang, still young men, became rich.</span></p>

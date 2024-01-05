@@ -1,5 +1,7 @@
 # 空地导弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongdidaodan.md)
+
 <p><span class="chinese">空地导弹有一个突出的特点。</span><span class="english">The air-to-ground missile has a prominent characteristic.</span></p>
 
 <p><span class="chinese">空地导弹武器系统命中精度是空地导弹主要的战术技术指标之一。</span><span class="english">Hit accuracy is one of the most important tactical indexes of air-to-ground missiles.</span></p>

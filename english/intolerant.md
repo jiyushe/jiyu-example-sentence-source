@@ -1,5 +1,7 @@
 # intolerant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intolerant.md)
+
 <p><span class="chinese">别如此没有雅量。</span><span class="english">Don't be so intolerant.</span></p>
 
 <p><span class="chinese">他往往不能容人。</span><span class="english">He is intolerant towards others.</span></p>

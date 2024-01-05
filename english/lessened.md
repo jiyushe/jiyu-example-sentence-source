@@ -1,5 +1,7 @@
 # lessened
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lessened.md)
+
 <p><span class="chinese">在帮助大家的过程中，我的痛苦也减轻了。</span><span class="english">My grief was lessened as I helped the people.</span></p>
 
 <p><span class="chinese">但是这并没有削弱姚明效应的影响。</span><span class="english">Yet that has not lessened the Yao Ming Effect.</span></p>

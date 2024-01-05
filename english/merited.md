@@ -1,5 +1,7 @@
 # merited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merited.md)
+
 <p><span class="chinese">一些人说许多人不应得那些勋章。</span><span class="english">Some say that many were not merited.</span></p>
 
 <p><span class="chinese">他们给他的所有表扬他都受之无愧。</span><span class="english">He merited all the praises they give him.</span></p>

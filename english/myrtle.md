@@ -1,5 +1,7 @@
 # myrtle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myrtle.md)
+
 <p><span class="chinese">默特尔冷笑了一声。</span><span class="english">Myrtle gave a brittle laugh.</span></p>
 
 <p><span class="chinese">桃金娘上的白花闻起来很香。</span><span class="english">The white flowers in the myrtle smell sweet.</span></p>

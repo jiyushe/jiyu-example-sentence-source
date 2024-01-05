@@ -1,5 +1,7 @@
 # 宿命论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suminglun.md)
+
 <p><span class="chinese">我是一名宿命论者。</span><span class="english">I'm a fatalist.</span></p>
 
 <p><span class="chinese">我猜我是个宿命论者。</span><span class="english">I guess I am a fatalist.</span></p>

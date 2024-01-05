@@ -1,5 +1,7 @@
 # cultivar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cultivar.md)
+
 <p><span class="chinese">金冠是一个非常丰产的品种。</span><span class="english">Golden delicious is a very fruitful cultivar.</span></p>
 
 <p><span class="chinese">树冠分枝形，树姿直立。</span><span class="english">The cultivar has ramose crown and upright tree appearance.</span></p>

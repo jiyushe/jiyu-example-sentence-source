@@ -1,5 +1,7 @@
 # 彼时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bishi.md)
+
 <p><span class="chinese">彼时彼刻，我中有你，你中有我。</span><span class="english">Now, you're in my heart, and I'm in your heart.</span></p>
 
 <p><span class="chinese">彼时仍叫做Getyourgroupon.com，就此诞生了。</span><span class="english">Groupon--then called Getyourgroupon.com--was born.</span></p>

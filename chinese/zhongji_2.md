@@ -1,5 +1,7 @@
 # 终极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongji_2.md)
+
 <p><span class="chinese">终极版？</span><span class="english">Ultimate?</span></p>
 
 <p><span class="chinese">终极格斗第1季全。</span><span class="english">The Ultimate Fighter Season 1.</span></p>

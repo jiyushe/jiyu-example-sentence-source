@@ -1,5 +1,7 @@
 # 撤销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chexiao_1.md)
+
 <p><span class="chinese">我们知道可以“撤销”这个命令。</span><span class="english">We know it can be undone.</span></p>
 
 <p><span class="chinese">修复操作是不可撤销的！</span><span class="english">Repair operation is undoable!</span></p>

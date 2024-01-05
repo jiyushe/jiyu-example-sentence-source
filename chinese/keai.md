@@ -1,5 +1,7 @@
 # 可爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keai.md)
+
 <p><span class="chinese">我看上去很可爱。</span><span class="english">I look very cute.</span></p>
 
 <p><span class="chinese">可爱水稻电子贺卡。</span><span class="english">Cute Rice E-cards.</span></p>

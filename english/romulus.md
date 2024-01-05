@@ -1,5 +1,7 @@
 # romulus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romulus.md)
+
 <p><span class="chinese">这对双胞胎长大后创建了罗马帝国。</span><span class="english">These twins, Romulus and Remus, went on to found Rome.</span></p>
 
 <p><span class="chinese">最后罗莫路打赢了战争，城市也由此更名为罗马。</span><span class="english">Romulus won the battle and the city became known as Rome.</span></p>

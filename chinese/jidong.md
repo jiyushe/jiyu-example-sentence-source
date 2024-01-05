@@ -1,5 +1,7 @@
 # 机动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidong.md)
+
 <p><span class="chinese">大回环是一个很酷的机动动作。</span><span class="english">The power loop is a cool maneuver.</span></p>
 
 <p><span class="chinese">机动策略是TCAS的关键技术。</span><span class="english">Maneuvering strategy is a key to TCAS.</span></p>

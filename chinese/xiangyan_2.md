@@ -1,5 +1,7 @@
 # 香烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyan_2.md)
+
 <p><span class="chinese">有没有香烟？烘炉？</span><span class="english">Any cigarettes? Baker?</span></p>
 
 <p><span class="chinese">你还想要那些香烟吗？</span><span class="english">Do you want the cigars?</span></p>

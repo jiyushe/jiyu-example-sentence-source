@@ -1,5 +1,7 @@
 # improbability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improbability.md)
+
 <p><span class="chinese">他们的鲁莽和不讲道德令我们恶心。</span><span class="english">Their abruptness and improbability made us sick.</span></p>
 
 <p><span class="chinese">以及这是没有突破性事件是不大可能发生的。</span><span class="english">And improbability without breaking out of realm of possibilities.</span></p>

@@ -1,5 +1,7 @@
 # palace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palace.md)
+
 <p><span class="chinese">杨素来到皇宫。</span><span class="english">Came to the palace.</span></p>
 
 <p><span class="chinese">这座宫殿很宏大。</span><span class="english">This palace is grand.</span></p>

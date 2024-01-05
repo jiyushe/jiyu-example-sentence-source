@@ -1,5 +1,7 @@
 # 政界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengjie.md)
+
 <p><span class="chinese">他在27岁时步入了政界。</span><span class="english">He entered politics when he was 27.</span></p>
 
 <p><span class="chinese">史密斯先生是位政界老手。</span><span class="english">Mr. Smith is a warhorse in politics.</span></p>

@@ -1,5 +1,7 @@
 # 故事片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushipian.md)
+
 <p><span class="chinese">福斯导演了五部故事片。</span><span class="english">Fosse directed five feature films.</span></p>
 
 <p><span class="chinese">影片是什么风格,是神秘片,喜剧片还是故事片?</span><span class="english">What is the movie's genre--mystery, comedy, drama?</span></p>

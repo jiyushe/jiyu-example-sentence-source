@@ -1,5 +1,7 @@
 # impersonator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impersonator.md)
+
 <p><span class="chinese">总统的冒名顶替者尚未被找到。</span><span class="english">The presidential impersonator has not been found.</span></p>
 
 <p><span class="chinese">还有扮演萨拉·佩林的人四处走动。</span><span class="english">So is that Sarah Palin impersonator walking around.</span></p>

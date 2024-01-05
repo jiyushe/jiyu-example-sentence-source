@@ -1,5 +1,7 @@
 # daoism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daoism.md)
+
 <p><span class="chinese">道学是门思索万物运行规律的科学。</span><span class="english">Daoism is the science of how the universe works.</span></p>
 
 <p><span class="chinese">然而道教同时也是一种信仰众多神灵的宗教。</span><span class="english">At the same time, Daoism is a polytheistic religion.</span></p>

@@ -1,5 +1,7 @@
 # 甘蓝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganlan.md)
+
 <p><span class="chinese">花茎甘蓝是花吗？</span><span class="english">Is broccoli a flower?</span></p>
 
 <p><span class="chinese">点解个天甘蓝？</span><span class="english">Why is the sky so blue?</span></p>

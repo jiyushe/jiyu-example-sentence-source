@@ -1,5 +1,7 @@
 # pursuant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pursuant.md)
+
 <p><span class="chinese">反担保适用本法和其他法律的规定。</span><span class="english">Pursuant to the present Law and other related laws.</span></p>
 
 <p><span class="chinese">一依第十二条或第十五条规定终止劳动契约者。</span><span class="english">A labor contract is terminated pursuant to Article 12 or 15.</span></p>

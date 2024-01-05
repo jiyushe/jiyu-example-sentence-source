@@ -1,5 +1,7 @@
 # savory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savory.md)
+
 <p><span class="chinese">我点了咸猪肉和凉拌生菜丝。</span><span class="english">I've ordered savory pork and cole slaw.</span></p>
 
 <p><span class="chinese">生煎馒头底酥，肉香，皮薄。</span><span class="english">The bread was flaky and savory with thin skin.</span></p>

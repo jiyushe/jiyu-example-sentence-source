@@ -1,5 +1,7 @@
 # 成全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengquan.md)
+
 <p><span class="chinese">我可能成全你，也可能毁掉你。</span><span class="english">I may make or break you.</span></p>
 
 <p><span class="chinese">就不能成全我吗？</span><span class="english">Can't you just let me be?</span></p>

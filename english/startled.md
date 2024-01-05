@@ -1,5 +1,7 @@
 # startled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/startled.md)
+
 <p><span class="chinese">这个声音吓倒了她。</span><span class="english">The sound startled her.</span></p>
 
 <p><span class="chinese">爱德的话让他很震惊。</span><span class="english">He was startled by Ed's words.</span></p>

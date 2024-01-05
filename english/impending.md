@@ -1,5 +1,7 @@
 # impending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impending.md)
+
 <p><span class="chinese">是婴儿肥，还是即将发生的肥胖？</span><span class="english">Baby Fat Or Impending Obesity?</span></p>
 
 <p><span class="chinese">即将采取制裁的谣言能使士气低落。</span><span class="english">Rumors of impending sanctions can demoralize.</span></p>

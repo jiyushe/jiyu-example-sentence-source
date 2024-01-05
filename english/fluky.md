@@ -1,5 +1,7 @@
 # fluky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluky.md)
+
 <p><span class="chinese">杰克凭运气击中了靶子。</span><span class="english">Jack hit the target by a fluky shot.</span></p>
 
 <p><span class="chinese">此外，被告人多存侥幸心理。</span><span class="english">In addition, the defendant put fluky psychology.</span></p>

@@ -1,5 +1,7 @@
 # 织造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizao_1.md)
+
 <p><span class="chinese">第三种织造形式是缎纹组织。</span><span class="english">A third form of weave is the satin weave.</span></p>
 
 <p><span class="chinese">巨型蜘蛛网可能是由群居的蜘蛛共同织造成。</span><span class="english">The web may be a combined effort of social cobweb spiders.</span></p>

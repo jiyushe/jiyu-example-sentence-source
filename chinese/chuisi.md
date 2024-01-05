@@ -1,5 +1,7 @@
 # 垂死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuisi.md)
+
 <p><span class="chinese">害怕垂死。</span><span class="english">Of dying.</span></p>
 
 <p><span class="chinese">但我尚未进入垂死阶段。</span><span class="english">I’m not into dying just yet.</span></p>

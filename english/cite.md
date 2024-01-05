@@ -1,5 +1,7 @@
 # cite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cite.md)
+
 <p><span class="chinese">例子太多，举不胜举。</span><span class="english">Examples are too many to cite.</span></p>
 
 <p><span class="chinese">不要引用个人的问题。</span><span class="english">Don't cite personality problems.</span></p>

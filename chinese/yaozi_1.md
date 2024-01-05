@@ -1,5 +1,7 @@
 # 腰子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaozi_1.md)
+
 <p><span class="chinese">他最喜欢吃那盘腰子。</span><span class="english">He liked the dish of kidneys best.</span></p>
 
 <p><span class="chinese">在英国的印度人喜欢牛排、腰子饼和薯片。</span><span class="english">Indians in the UK love steak and kidney pie and chips.</span></p>

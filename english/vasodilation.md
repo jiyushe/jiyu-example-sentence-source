@@ -1,5 +1,7 @@
 # vasodilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasodilation.md)
+
 <p><span class="chinese">广告通常会导致头痛，由于脑血管舒张血管。</span><span class="english">AD usually causes a headache due to vasodilation of brain blood vessels.</span></p>
 
 <p><span class="chinese">提高剂量时，内分泌效应及非特异性反应皆可导致精氨酸诱发之血管扩张。</span><span class="english">Endocrine effects and unspecific reactions may contribute to L-arginine-induced vasodilation after higher doses.</span></p>

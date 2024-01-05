@@ -1,5 +1,7 @@
 # persevering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persevering.md)
+
 <p><span class="chinese">成功属于不屈不挠的人。</span><span class="english">Success belongs to the persevering.</span></p>
 
 <p><span class="chinese">我们都很钦佩他们坚持不懈的努力。</span><span class="english">We all admired on their persevering hard work.</span></p>

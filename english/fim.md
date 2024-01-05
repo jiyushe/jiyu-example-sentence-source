@@ -1,5 +1,7 @@
 # fim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fim.md)
+
 <p><span class="chinese">FIM拒绝进一步评论，Cingular的管理层也不置评论。</span><span class="english">FIM declined further comment on the talks.</span></p>
 
 <p><span class="chinese">但Barrett指出FIM的盈利率也在上升。</span><span class="english">But Barrett says that margins at FIM are on the rise.</span></p>

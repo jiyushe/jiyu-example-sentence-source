@@ -1,5 +1,7 @@
 # 吃苦耐劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chikunailao.md)
+
 <p><span class="chinese">煤矿工人都是能吃苦耐劳的。</span><span class="english">Coal-miners are a tough breed.</span></p>
 
 <p><span class="chinese">他们能吃苦耐劳。</span><span class="english">They are patient of hardships.</span></p>

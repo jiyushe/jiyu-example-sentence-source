@@ -1,5 +1,7 @@
 # doubly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doubly.md)
+
 <p><span class="chinese">简单的双循环链表的实现。</span><span class="english">Simple doubly linked list implementation.</span></p>
 
 <p><span class="chinese">刚开始时甚至大小便失禁，但是现在已经不会了。</span><span class="english">At first she was doubly incontinent, not now.</span></p>

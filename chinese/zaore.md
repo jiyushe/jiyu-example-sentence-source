@@ -1,5 +1,7 @@
 # 燥热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaore.md)
+
 <p><span class="chinese">预约安宁，为燥热的心态降温。</span><span class="english">Let peace tranquilize your restless heart.</span></p>
 
 <p><span class="chinese">我们在燥热的便道上又走了几步。</span><span class="english">We move a few steps down the hot sidewalk.</span></p>

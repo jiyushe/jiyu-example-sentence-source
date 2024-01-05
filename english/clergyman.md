@@ -1,5 +1,7 @@
 # clergyman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clergyman.md)
+
 <p><span class="chinese">象你这样的一个牧师，必须结婚。</span><span class="english">A clergyman like you must marry.</span></p>
 
 <p><span class="chinese">“我的确十分相信这一点，”牧师回答说。</span><span class="english">"I do verily believe it," answered the clergyman.</span></p>

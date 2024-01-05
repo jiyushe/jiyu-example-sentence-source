@@ -1,5 +1,7 @@
 # elephant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elephant.md)
+
 <p><span class="chinese">这是那头大象</span><span class="english">Here's an elephant.</span></p>
 
 <p><span class="chinese">这头象很大。</span><span class="english">The elephant is huge.</span></p>

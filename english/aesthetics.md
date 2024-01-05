@@ -1,5 +1,7 @@
 # aesthetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aesthetics.md)
+
 <p><span class="chinese">美学只能带你走那么远。</span><span class="english">Aesthetics only gets you so far.</span></p>
 
 <p><span class="chinese">李则拒绝躲在唯美的笔调后面不去刺痛真正的社会脓包。</span><span class="english">Lee refuses to hide behind aesthetics.</span></p>

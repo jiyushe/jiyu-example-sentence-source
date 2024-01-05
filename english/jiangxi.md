@@ -1,5 +1,7 @@
 # jiangxi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jiangxi.md)
+
 <p><span class="chinese">江西省吉安市。</span><span class="english">Ji'an City in Jiangxi Province.</span></p>
 
 <p><span class="chinese">他住在上海江西路。</span><span class="english">He lives in Jiangxi Road, Shanghai.</span></p>

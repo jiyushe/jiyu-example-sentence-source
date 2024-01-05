@@ -1,5 +1,7 @@
 # 货值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huozhi.md)
+
 <p><span class="chinese">出口清单中货值最大的是高技术计算机和电子元器件等产品。</span><span class="english">Top of the list of exports are hi-tech computer and electronic components.</span></p>
 
 <p><span class="chinese">然而，事实证明无论是何种货币用于结算，都与我们的出口货值无关。</span><span class="english">However, it turns out that whatever currency is used for settlement is simply irrelevant to our export value.</span></p>

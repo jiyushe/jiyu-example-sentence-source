@@ -1,5 +1,7 @@
 # louis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/louis.md)
+
 <p><span class="chinese">我比较喜欢路易十七。</span><span class="english">I prefer Louis XVIII.</span></p>
 
 <p><span class="chinese">路易十四做了些什么事情呢</span><span class="english">What does Louis XIV do?</span></p>

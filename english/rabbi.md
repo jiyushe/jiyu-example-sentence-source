@@ -1,5 +1,7 @@
 # rabbi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rabbi.md)
+
 <p><span class="chinese">我有一个叔叔，他是犹太教教士。</span><span class="english">One of my uncles is a rabbi.</span></p>
 
 <p><span class="chinese">他是拉比霍尔茨伯格的朋友。</span><span class="english">Rabbi Holtzberg was his friend.</span></p>

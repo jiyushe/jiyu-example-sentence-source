@@ -1,5 +1,7 @@
 # 庆祝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzhu.md)
+
 <p><span class="chinese">欢天喜地庆祝大会！</span><span class="english">Celebrate!</span></p>
 
 <p><span class="chinese">你将怎么庆祝呢？</span><span class="english">How will you celebrate?</span></p>

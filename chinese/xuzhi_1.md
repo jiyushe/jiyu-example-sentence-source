@@ -1,5 +1,7 @@
 # 须知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuzhi_1.md)
+
 <p><span class="chinese">史密斯先生，这是一则观众须知。</span><span class="english">Mr. Smith, it is a notic to th audinc.</span></p>
 
 <p><span class="chinese">须知改革向来就没有一帆风顺的。</span><span class="english">The reform have been not problem-free notes.</span></p>

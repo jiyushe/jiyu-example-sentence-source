@@ -1,5 +1,7 @@
 # 起头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qitou.md)
+
 <p><span class="chinese">全般世界起头复苏了。</span><span class="english">The entire world is reviving.</span></p>
 
 <p><span class="chinese">我们要到鲍勃来的时辰才起头。</span><span class="english">We won't start until Bob comes.</span></p>

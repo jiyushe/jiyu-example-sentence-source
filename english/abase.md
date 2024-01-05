@@ -1,5 +1,7 @@
 # abase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abase.md)
+
 <p><span class="chinese">不要降低你的地位。</span><span class="english">Don't abase your apartment.</span></p>
 
 <p><span class="chinese">我们应该在上帝面前表示谦卑。</span><span class="english">We should abase ourselves before God.</span></p>

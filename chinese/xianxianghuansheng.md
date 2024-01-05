@@ -1,5 +1,7 @@
 # 险象环生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxianghuansheng.md)
+
 <p><span class="chinese">但是，2009年将是险象环生的一年。</span><span class="english">But 2009 will be a dangerous year.</span></p>
 
 <p><span class="chinese">公司那时正“险象环生”，斯威瑟写道。</span><span class="english">The company was "in constant danger, " Swisher writes.</span></p>

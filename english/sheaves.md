@@ -1,5 +1,7 @@
 # sheaves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheaves.md)
+
 <p><span class="chinese">槽轮都是木制。</span><span class="english">The sheaves are made of wood.</span></p>
 
 <p><span class="chinese">他们把稻草扎成把。</span><span class="english">They bunched straw into sheaves.</span></p>

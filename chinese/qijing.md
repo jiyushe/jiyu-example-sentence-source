@@ -1,5 +1,7 @@
 # 起敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijing.md)
+
 <p><span class="chinese">他可能是一个令人起敬的社会成员。</span><span class="english">He was probably a worthy member of society.</span></p>
 
 <p><span class="chinese">虽然刚开始很好笑，但结果却令人起敬。</span><span class="english">It was great fun, but the outcome was nothing to laugh at.</span></p>

@@ -1,5 +1,7 @@
 # bright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bright.md)
+
 <p><span class="chinese">前途不明朗？</span><span class="english">No bright future?</span></p>
 
 <p><span class="chinese">明亮的橙黄色叶片！</span><span class="english">Bright orange foliage!</span></p>

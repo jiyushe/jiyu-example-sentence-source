@@ -1,5 +1,7 @@
 # 志趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqu.md)
+
 <p><span class="chinese">与志趣相投的人建立联系</span><span class="english">Network with like-minded people</span></p>
 
 <p><span class="chinese">人们通常喜欢与志趣相投的人呆在一起。</span><span class="english">Like people like to spend time with like people.</span></p>

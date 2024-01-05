@@ -1,5 +1,7 @@
 # 匣子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazi.md)
+
 <p><span class="chinese">他取出一个鲛皮小匣子。</span><span class="english">He takes out a little shagreen case.</span></p>
 
 <p><span class="chinese">我偷偷地走进去，打开了他的宝贝匣子。</span><span class="english">I sneaked in and opened his treasure box.</span></p>

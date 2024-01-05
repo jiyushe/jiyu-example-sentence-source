@@ -1,5 +1,7 @@
 # semitransparent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semitransparent.md)
+
 <p><span class="chinese">捡起一看，是一块圆形的半透明的石头。</span><span class="english">I picked it up and found it a round semitransparent stone.</span></p>
 
 <p><span class="chinese">显示包含透明或半透明像素的位图。</span><span class="english">Displays bitmaps that have transparent or semitransparent pixels.</span></p>

@@ -1,5 +1,7 @@
 # joss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joss.md)
+
 <p><span class="chinese">乔斯·温登是黑客！</span><span class="english">Joss Whedon is a hack!</span></p>
 
 <p><span class="chinese">这尊佛像简直是太大了！</span><span class="english">So large a joss it is!</span></p>

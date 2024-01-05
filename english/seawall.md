@@ -1,5 +1,7 @@
 # seawall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seawall.md)
+
 <p><span class="chinese">海浪轻轻拍打着海堤。</span><span class="english">The waves were licking the seawall.</span></p>
 
 <p><span class="chinese">我被安排在一个可以俯瞰防波堤的房间。</span><span class="english">I was put in a suite overlooking the seawall.</span></p>

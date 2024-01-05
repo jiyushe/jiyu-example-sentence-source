@@ -1,5 +1,7 @@
 # reefer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reefer.md)
+
 <p><span class="chinese">把货物堆在冷冻舱内。</span><span class="english">Stow cargo in reefer hold.</span></p>
 
 <p><span class="chinese">船上有多少个冷藏箱电源插头？</span><span class="english">How many reefer plugs has vessel?</span></p>

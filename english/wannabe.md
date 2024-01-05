@@ -1,5 +1,7 @@
 # wannabe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wannabe.md)
+
 <p><span class="chinese">艾拉只是想要成为企业家的一代人中的一份子。</span><span class="english">Ella is part of a new generation of wannabe entrepreneurs.</span></p>
 
 <p><span class="chinese">谷物、汽车和商业---这就是印地安那州或是“山地人”所给你的。</span><span class="english">Corn, cars, and commerce-that's Indiana for you, Hoosier wannabe.</span></p>

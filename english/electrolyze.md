@@ -1,5 +1,7 @@
 # electrolyze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrolyze.md)
+
 <p><span class="chinese">碳素是电解铝过程中用的电极。</span><span class="english">Carbon element is the electrode used for electrolyze aluminum.</span></p>
 
 <p><span class="chinese">为了对金属结合剂砂轮电解修整，研究并配制了电解磨削液。</span><span class="english">In order to electrolyze dressing grinding wheel of metal binding agent, the electrolytic grinding fluid is developed.</span></p>

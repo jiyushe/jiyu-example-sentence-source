@@ -1,5 +1,7 @@
 # 裂解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liejie.md)
+
 <p><span class="chinese">负的裂解键能,所以在这我们会得到正数。</span><span class="english">So we're going to have a positive number there.</span></p>
 
 <p><span class="chinese">潜在的热裂解可能性是否降低了？</span><span class="english">Will the potential for thermal cracking be reduced?</span></p>

@@ -1,5 +1,7 @@
 # evenings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evenings.md)
+
 <p><span class="chinese">直到落下夜的紫帐。</span><span class="english">Till purple evenings fall.</span></p>
 
 <p><span class="chinese">那么晚上和临睡前又怎么样呢？</span><span class="english">What about evenings and bedtime?</span></p>

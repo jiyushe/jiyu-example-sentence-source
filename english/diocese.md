@@ -1,5 +1,7 @@
 # diocese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diocese.md)
+
 <p><span class="chinese">君不见高堂明镜悲白发。</span><span class="english">Opening Diocese mirror tragedy hair.</span></p>
 
 <p><span class="chinese">另外两人隶属海门教区，他们是张越峰和丁耀祖。</span><span class="english">The other two belong to Haimen diocese.</span></p>

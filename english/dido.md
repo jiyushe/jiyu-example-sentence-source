@@ -1,5 +1,7 @@
 # dido
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dido.md)
+
 <p><span class="chinese">整个周末，我除了睡觉，我啥都没做。</span><span class="english">I dido nothing but sleep all weekend.</span></p>
 
 <p><span class="chinese">那个美妙歌喉属于英国艺人蒂朵。</span><span class="english">That beautiful voice belongs to UK artist Dido.</span></p>

@@ -1,5 +1,7 @@
 # ovulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovulation.md)
+
 <p><span class="chinese">LH则涉及对排卵的控制。</span><span class="english">LH is involved in triggering ovulation.</span></p>
 
 <p><span class="chinese">排卵迹象和征候通常很微妙。</span><span class="english">Ovulation signs and symptoms are often subtle.</span></p>

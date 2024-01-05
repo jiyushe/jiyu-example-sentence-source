@@ -1,5 +1,7 @@
 # fetid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fetid.md)
+
 <p><span class="chinese">房间里的空气有陈烟的臭味。</span><span class="english">The air of the room was fetid with stale tobacco smoke.</span></p>
 
 <p><span class="chinese">在恶臭熏天的货舱中日复一日的生活是什么样的？</span><span class="english">What was it like day after day in their fetid cargo bay?</span></p>

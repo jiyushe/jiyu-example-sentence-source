@@ -1,5 +1,7 @@
 # concerted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concerted.md)
+
 <p><span class="chinese">我们必须齐心合力，斩断他的魔爪。</span><span class="english">We must take concerted action and cut his claws.</span></p>
 
 <p><span class="chinese">大埔区内各团体群策群力推广职业安全信息。</span><span class="english">Organizations gave concerted effort in promoting OSH message.</span></p>

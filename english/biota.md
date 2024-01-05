@@ -1,5 +1,7 @@
 # biota
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biota.md)
+
 <p><span class="chinese">历史生物地理学重建生物区系历史。</span><span class="english">Historical biogeography attempts to reconstruct the biota history of the earth.</span></p>
 
 <p><span class="chinese">云南罗平生物群是继贵州关岭动物群之后的又一新发现。</span><span class="english">The Luoping biota in Yunnan is another discovery following the Guanling biota in Guizhou.</span></p>

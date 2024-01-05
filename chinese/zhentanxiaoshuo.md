@@ -1,5 +1,7 @@
 # 侦探小说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhentanxiaoshuo.md)
+
 <p><span class="chinese">我喜欢读侦探小说。</span><span class="english">I like to read detective stories.</span></p>
 
 <p><span class="chinese">写侦探小说的多产作家。</span><span class="english">Writers now use computers to write.</span></p>

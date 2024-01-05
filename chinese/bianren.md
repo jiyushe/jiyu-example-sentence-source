@@ -1,5 +1,7 @@
 # 辨认
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianren.md)
+
 <p><span class="chinese">他的字迹很难辨认</span><span class="english">His handwriting was awful.</span></p>
 
 <p><span class="chinese">辨认所弹奏的音程。</span><span class="english">Identify the interval played.</span></p>

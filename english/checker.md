@@ -1,5 +1,7 @@
 # checker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checker.md)
+
 <p><span class="chinese">执行拼写和语法检查程序</span><span class="english">Run the Spell and Grammar Checker</span></p>
 
 <p><span class="chinese">如果需要，可以使用拼写检查器。</span><span class="english">Use a spell checker if you need to.</span></p>

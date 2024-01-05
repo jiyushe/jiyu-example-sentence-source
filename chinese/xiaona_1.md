@@ -1,5 +1,7 @@
 # 笑纳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaona_1.md)
+
 <p><span class="chinese">给了网队一个机会，而他们也不客气的“笑纳”了。</span><span class="english">Gave NJ a chance and they took it.</span></p>
 
 <p><span class="chinese">布朗先生，这是给您的一点小礼物，请笑纳。</span><span class="english">This is a little something for you, Mr. Brown.</span></p>

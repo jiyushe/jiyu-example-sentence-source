@@ -1,5 +1,7 @@
 # afterwards 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterwards.md)
+
 <p><span class="chinese">这我知道，后来呢？</span><span class="english">I know. But afterwards?</span></p>
 
 <p><span class="chinese">之后他到国外去了。</span><span class="english">Afterwards he went abroad.</span></p>

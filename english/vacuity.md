@@ -1,5 +1,7 @@
 # vacuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacuity.md)
+
 <p><span class="chinese">到底是空虚可怕还是毒品可怕?。</span><span class="english">Which one is more terrifying, vacuity or drugs?</span></p>
 
 <p><span class="chinese">闲暇是享受的，但是空虚却是煎熬的！</span><span class="english">Leisure is enjoyable, while vacuity is suffering.</span></p>

@@ -1,5 +1,7 @@
 # 日后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rihou.md)
+
 <p><span class="chinese">可不可以日后再填。</span><span class="english">May I fill in the information later?</span></p>
 
 <p><span class="chinese">那女仆打入玛丽家为同伙日后行窃踩点。</span><span class="english">The maidservant drummed Mary's house.</span></p>

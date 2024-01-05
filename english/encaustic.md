@@ -1,5 +1,7 @@
 # encaustic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encaustic.md)
+
 <p><span class="chinese">什么是出出气，它是怎么用蜡画蜡画？</span><span class="english">What is out gassing and how is it used in encaustic wax painting?</span></p>
 
 <p><span class="chinese">彻底改变了现彩瓦相互搭接的形式。</span><span class="english">Thoroughly has changed present encaustic tile mutual lap joint form.</span></p>

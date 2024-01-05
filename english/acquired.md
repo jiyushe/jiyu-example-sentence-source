@@ -1,5 +1,7 @@
 # acquired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquired.md)
+
 <p><span class="chinese">那人偷了我的录音机。</span><span class="english">The man acquired my tape recorder.</span></p>
 
 <p><span class="chinese">他们用雷达捕获了目标。</span><span class="english">They acquired the target by radar.</span></p>

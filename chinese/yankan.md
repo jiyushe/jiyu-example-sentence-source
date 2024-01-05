@@ -1,5 +1,7 @@
 # 眼看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yankan.md)
+
 <p><span class="chinese">他坐起身来，睁大眼看。</span><span class="english">He sits up, eyes wide.</span></p>
 
 <p><span class="chinese">她总是不拿正眼看我。</span><span class="english">She always skews at me.</span></p>

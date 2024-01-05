@@ -1,5 +1,7 @@
 # miserable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miserable.md)
+
 <p><span class="chinese">我没把你弄得惨兮兮的。</span><span class="english">I did not make you miserable.</span></p>
 
 <p><span class="chinese">你是一个可怜的弱者。</span><span class="english">You are a miserable weakling.</span></p>

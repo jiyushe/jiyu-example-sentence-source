@@ -1,5 +1,7 @@
 # 恶性肿瘤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/exingzhongliu.md)
+
 <p><span class="chinese">脊索瘤是极少见的恶性肿瘤。</span><span class="english">Chordomas are rare malignant neoplasms.</span></p>
 
 <p><span class="chinese">膀胱癌为泌尿系统最常见的恶性肿瘤。</span><span class="english">BTCC is the most common urinary system carcinoma.</span></p>

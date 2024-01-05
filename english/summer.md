@@ -1,5 +1,7 @@
 # summer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summer.md)
+
 <p><span class="chinese">酷夏。</span><span class="english">Hot summer.</span></p>
 
 <p><span class="chinese">夏令营？</span><span class="english">Summer camp?</span></p>

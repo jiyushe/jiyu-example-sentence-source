@@ -1,5 +1,7 @@
 # 山峡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanxia.md)
+
 <p><span class="chinese">泉水潺潺地流下山峡。</span><span class="english">A spring rills down by the gorge.</span></p>
 
 <p><span class="chinese">岬角成了沙洲和浅滩，溪谷和山峡成了深水与湖峡。</span><span class="english">A deep mountainside gorge or gully, especially in the Swiss Alps.</span></p>

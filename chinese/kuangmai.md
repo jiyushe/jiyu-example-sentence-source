@@ -1,5 +1,7 @@
 # 矿脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangmai.md)
+
 <p><span class="chinese">我们发现丰富的矿脉突然增大了。</span><span class="english">We discovered the rich lode bellied out.</span></p>
 
 <p><span class="chinese">极薄矿脉赋存条件复杂。</span><span class="english">Store conditions of extra narrow veins are complex.</span></p>

@@ -1,5 +1,7 @@
 # 锯床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juchuang.md)
+
 <p><span class="chinese">为您带来环保、美观的锯床。</span><span class="english">To offer you a pro-environment, attractive sawing machine.</span></p>
 
 <p><span class="chinese">是台湾最大的带锯床生产工厂。</span><span class="english">Are Taiwan's largest manufacturing plant with sawing machine.</span></p>

@@ -1,5 +1,7 @@
 # 午休
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxiu.md)
+
 <p><span class="chinese">他们现在在午休。</span><span class="english">They are on lunch-break.</span></p>
 
 <p><span class="chinese">我的午休时间是从12点到1点。</span><span class="english">My lunch break is from 12-1pm.</span></p>

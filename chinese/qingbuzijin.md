@@ -1,5 +1,7 @@
 # 情不自禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingbuzijin.md)
+
 <p><span class="chinese">我还是情不自禁地爱着你。</span><span class="english">I can't help but love you.</span></p>
 
 <p><span class="chinese">她情不自禁地发出了一声高兴的叫喊声。</span><span class="english">An exclamation of joy escaped from her lips.</span></p>

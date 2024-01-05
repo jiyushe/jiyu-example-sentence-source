@@ -1,5 +1,7 @@
 # robe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robe.md)
+
 <p><span class="chinese">把红袍扔到一边去。</span><span class="english">Put your red robe here.</span></p>
 
 <p><span class="chinese">把我的衲衣和饭钵拿去吧。</span><span class="english">Take the robe and bowl.</span></p>

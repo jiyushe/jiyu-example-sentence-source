@@ -1,5 +1,7 @@
 # attain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attain.md)
+
 <p><span class="chinese">我们将实现卫生方面的成果。</span><span class="english">We will attain results for health.</span></p>
 
 <p><span class="chinese">人类丹青妙笔难以企及。</span><span class="english">Human indeed hard to attain clever pen.</span></p>

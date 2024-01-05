@@ -1,5 +1,7 @@
 # cio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cio.md)
+
 <p><span class="chinese">沃尔玛首席信息官罗林·福特如是说。</span><span class="english">says Rollin Ford, the CIO of Wal-Mart.</span></p>
 
 <p><span class="chinese">在一些公司，首席技术官就像一个首席信息官。</span><span class="english">In some companies, the CTO is just like a CIO.</span></p>

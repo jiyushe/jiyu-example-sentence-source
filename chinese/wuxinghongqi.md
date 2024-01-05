@@ -1,5 +1,7 @@
 # 五星红旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxinghongqi.md)
+
 <p><span class="chinese">我爱五星红旗。</span><span class="english">I love five-star red flag.</span></p>
 
 <p><span class="chinese">妈妈，看五星红旗。</span><span class="english">Mom, look at the red flag.</span></p>

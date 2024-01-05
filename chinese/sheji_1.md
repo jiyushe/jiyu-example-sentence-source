@@ -1,5 +1,7 @@
 # 社稷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheji_1.md)
+
 <p><span class="chinese">李氏一生未实现济苍海，安社稷的宏大理想。</span><span class="english">Lee Ji-life unrealized Sea, the state-an ambitious goals.</span></p>
 
 <p><span class="chinese">你说，为了国家社稷，祖国河山，我需要作出牺牲。</span><span class="english">You say, for the nation, the motherland, I need to make a sacrifice.</span></p>

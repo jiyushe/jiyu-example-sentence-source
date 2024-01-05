@@ -1,5 +1,7 @@
 # forcibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forcibly.md)
+
 <p><span class="chinese">他们的房子被强拆过吗？</span><span class="english">Have they ever had their homes forcibly demolished?</span></p>
 
 <p><span class="chinese">老公愣了一下，还是强行抱住了我。</span><span class="english">Husband was stupefied , still held me in arms forcibly.</span></p>

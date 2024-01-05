@@ -1,5 +1,7 @@
 # excalibur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excalibur.md)
+
 <p><span class="chinese">想想亚瑟王、梅林和王者之剑吧！</span><span class="english">Think of Arthur, Merlin, and Excalibur.</span></p>
 
 <p><span class="chinese">贝德维尔爵士去了湖边，他将神剑Excalibur远远地扔在水里。</span><span class="english">Sir Bedivere went to the lake. He threw Excalibur far into the water.</span></p>

@@ -1,5 +1,7 @@
 # percolator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/percolator.md)
+
 <p><span class="chinese">我们在家用咖啡渗滤壶制作咖啡。</span><span class="english">We make coffee in a percolator at home.</span></p>
 
 <p><span class="chinese">我们在家都用有过虑器的咖啡壶煮咖啡。</span><span class="english">We make coffee in a percolator at home.</span></p>

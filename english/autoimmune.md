@@ -1,5 +1,7 @@
 # autoimmune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autoimmune.md)
+
 <p><span class="chinese">剩下的问题就是哪种自体免疫病?。</span><span class="english">Only question is what kind of autoimmune?</span></p>
 
 <p><span class="chinese">1型糖尿病是一种自体免疫疾病。</span><span class="english">Type 1 diabetes is an autoimmune disease.</span></p>

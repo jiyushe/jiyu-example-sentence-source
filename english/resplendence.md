@@ -1,5 +1,7 @@
 # resplendence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resplendence.md)
+
 <p><span class="chinese">燕河的明天更加辉煌。</span><span class="english">Tomorrow of Yanhe must be more resplendence.</span></p>
 
 <p><span class="chinese">你能感觉到雪花的漫天飞舞吗？</span><span class="english">Can you feel this the starlit sky resplendence?</span></p>

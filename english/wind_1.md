@@ -1,5 +1,7 @@
 # wind 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wind_1.md)
+
 <p><span class="chinese">没有风。</span><span class="english">No wind.</span></p>
 
 <p><span class="chinese">象风一般。</span><span class="english">Like the wind.</span></p>

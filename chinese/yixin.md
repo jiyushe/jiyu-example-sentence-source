@@ -1,5 +1,7 @@
 # 一心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixin.md)
+
 <p><span class="chinese">我可以一心二用。</span><span class="english">I can multitask.</span></p>
 
 <p><span class="chinese">西蒙斯一心求死。</span><span class="english">Simmons wanted to die.</span></p>

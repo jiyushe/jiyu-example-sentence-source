@@ -1,5 +1,7 @@
 # crawl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crawl.md)
+
 <p><span class="chinese">我爬了过去。</span><span class="english">I crawl closer.</span></p>
 
 <p><span class="chinese">虫类和蛇善爬行。</span><span class="english">Worms and snakes crawl.</span></p>

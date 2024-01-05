@@ -1,5 +1,7 @@
 # hep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hep.md)
+
 <p><span class="chinese">大家熟知的红眼病就是其中之一。</span><span class="english">Everybody's hep red-eyed disease is among them one of.</span></p>
 
 <p><span class="chinese">本会为各义工举办了参观益力多厂。</span><span class="english">HEP arranged a Yakult manufactory visiting for volunteers.</span></p>

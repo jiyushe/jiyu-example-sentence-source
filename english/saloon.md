@@ -1,5 +1,7 @@
 # saloon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saloon.md)
+
 <p><span class="chinese">每部家庭式双排座小轿车都存在隐患。</span><span class="english">Hidden dangers lurk in every family saloon car.</span></p>
 
 <p><span class="chinese">我必须把船员召集在大台让你检查吗？</span><span class="english">Must I call crew in saloon for your inspection?</span></p>

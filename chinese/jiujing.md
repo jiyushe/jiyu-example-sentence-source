@@ -1,5 +1,7 @@
 # 酒精
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiujing.md)
+
 <p><span class="chinese">还有酒精</span><span class="english">There's alcohol.</span></p>
 
 <p><span class="chinese">水和酒精。</span><span class="english">Water and ethanol.</span></p>

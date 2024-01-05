@@ -1,5 +1,7 @@
 # peaked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peaked.md)
+
 <p><span class="chinese">你太早达到了巅峰。</span><span class="english">You peaked too soon.</span></p>
 
 <p><span class="chinese">我的体重最高到达了100公斤。</span><span class="english">My weight peaked at almost 100 kg.</span></p>

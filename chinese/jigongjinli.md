@@ -1,5 +1,7 @@
 # 急功近利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jigongjinli.md)
+
 <p><span class="chinese">又何必追求那些急功近利的评价？</span><span class="english">Why to pursue those eager evaluation?</span></p>
 
 <p><span class="chinese">反而变得急功近利，好高骛远。</span><span class="english">But has become profit-oriented, ambitious.</span></p>

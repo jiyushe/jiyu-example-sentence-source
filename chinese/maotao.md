@@ -1,5 +1,7 @@
 # 毛桃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maotao.md)
+
 <p><span class="chinese">小毛桃也加入了，你最喜欢吃什么呀？</span><span class="english">What foods do you like best?</span></p>
 
 <p><span class="chinese">确定五指毛桃不同采收部位的质量。</span><span class="english">To investigate the quality of different parts of Radix Fici Hirtae.</span></p>

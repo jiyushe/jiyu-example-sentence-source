@@ -1,5 +1,7 @@
 # unresponsive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unresponsive.md)
+
 <p><span class="chinese">应用程序无响应或无限期悬挂。</span><span class="english">An application is unresponsive or hangs indefinitely.</span></p>
 
 <p><span class="chinese">世卫组织明白，我们的管理系统已变得十分僵化，反应迟钝。</span><span class="english">At WHO, we learned how rigid and unresponsive our management systems have become.</span></p>

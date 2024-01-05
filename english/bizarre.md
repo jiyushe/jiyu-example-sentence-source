@@ -1,5 +1,7 @@
 # bizarre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bizarre.md)
+
 <p><span class="chinese">看看他多奇怪啊。</span><span class="english">Look how bizarre he is.</span></p>
 
 <p><span class="chinese">我发现这真是件很奇怪的态度。</span><span class="english">I find the whole thing bizarre.</span></p>

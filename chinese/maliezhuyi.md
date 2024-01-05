@@ -1,5 +1,7 @@
 # 马列主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maliezhuyi.md)
+
 <p><span class="chinese">高举马列主义的大旗。</span><span class="english">Raise high the banner Marxism-Leninism.</span></p>
 
 <p><span class="chinese">十月革命给中国带来了马列主义。</span><span class="english">The October Revolution brought Marxism-Leninism to China.</span></p>

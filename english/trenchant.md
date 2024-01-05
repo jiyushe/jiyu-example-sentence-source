@@ -1,5 +1,7 @@
 # trenchant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trenchant.md)
+
 <p><span class="chinese">但如今他曾经被牵扯其中，纵然三头六臂也无法辨说分明。</span><span class="english">But now he had been involved SanTouLiuBei cannot cause, even said trenchant.</span></p>
 
 <p><span class="chinese">2010年欧元区经济危机就是该现象最好的见证。</span><span class="english">The eurozone crisis of 2010 provides a trenchant example of this phenomenon.</span></p>

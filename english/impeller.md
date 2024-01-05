@@ -1,5 +1,7 @@
 # impeller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impeller.md)
+
 <p><span class="chinese">高压叶轮就开始运转。</span><span class="english">High pressure impeller begins to run.</span></p>
 
 <p><span class="chinese">叶轮带有后倾式的上下叶片。</span><span class="english">Impeller with backward-style upper and lower leaf.</span></p>

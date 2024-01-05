@@ -1,5 +1,7 @@
 # loafer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loafer.md)
+
 <p><span class="chinese">因为他是一个闲逛者。</span><span class="english">Because he was a loafer.</span></p>
 
 <p><span class="chinese">我不会是一个精神上的游手好闲者。</span><span class="english">He is a bit of a loafer.</span></p>

@@ -1,5 +1,7 @@
 # burgher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burgher.md)
+
 <p><span class="chinese">比如说"市民"或称之为"布尔乔亚"</span><span class="english">Even take the word burgher or bourgeois.</span></p>
 
 <p><span class="chinese">这是美国公民所能获得的最高荣誉。</span><span class="english">It's the tiptop honor that USA burgher can gain.</span></p>

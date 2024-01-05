@@ -1,5 +1,7 @@
 # 修道院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiudaoyuan.md)
+
 <p><span class="chinese">像修道院式的避世主义。</span><span class="english">Looks like a monastery retreat.</span></p>
 
 <p><span class="chinese">欧瓦修道院始建于1070年。</span><span class="english">Orval Abbey was founded in 1070.</span></p>

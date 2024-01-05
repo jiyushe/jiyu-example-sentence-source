@@ -1,5 +1,7 @@
 # philological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philological.md)
+
 <p><span class="chinese">这是一个语文学调查有关的原始文字。</span><span class="english">It is a philological inquiry concerning the original text.</span></p>
 
 <p><span class="chinese">这是反对的语言学和神话的学校。</span><span class="english">It is opposed by the Philological and Mythological schools.</span></p>

@@ -1,5 +1,7 @@
 # 榴莲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liulian.md)
+
 <p><span class="chinese">榴莲，我们都爱你。</span><span class="english">Durian, we all love you.</span></p>
 
 <p><span class="chinese">榴莲可以生吃。</span><span class="english">Durians can be eaten fresh.</span></p>

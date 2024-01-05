@@ -1,5 +1,7 @@
 # pyrometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrometer.md)
+
 <p><span class="chinese">这是高温计。</span><span class="english">This is a pyrometer.</span></p>
 
 <p><span class="chinese">本文提出一种表面温度计的新设计原理。</span><span class="english">A new type of surface pyrometer is put up.</span></p>

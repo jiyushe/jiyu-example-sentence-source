@@ -1,5 +1,7 @@
 # 中农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongnong.md)
+
 <p><span class="chinese">有些中农只占有一部分土地，另租入一部分土地。</span><span class="english">Some own only part of their land and rent the rest.</span></p>
 
 <p><span class="chinese">农民这个名称所包括的内容，主要地是指贫农和中农。</span><span class="english">The term " peasantry" refers mainly to the poor and middle peasants.</span></p>

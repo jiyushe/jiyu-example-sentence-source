@@ -1,5 +1,7 @@
 # wistfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wistfulness.md)
+
 <p><span class="chinese">他们察觉出布什的说话声中带有一丝伤感。</span><span class="english">They detect a bit of wistfulness in his voice.</span></p>
 
 <p><span class="chinese">不过，他的助手们说，他们察觉到布什的语气中有一丝。</span><span class="english">But aides say they detect a bit of wistfulness in his voice.</span></p>

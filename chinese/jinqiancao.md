@@ -1,5 +1,7 @@
 # 金钱草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinqiancao.md)
+
 <p><span class="chinese">目的对金钱草全草进行了较系统的化学成分研究。</span><span class="english">OBJECTIVE To study the chemical constituents of Lysimachia christinae.</span></p>
 
 <p><span class="chinese">金钱草对小鼠的细胞免疫和体液免疫均有抑制作用。</span><span class="english">In this paper, the immunosuppressive effects of Lysimachia christinae Hance were reported.</span></p>

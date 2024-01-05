@@ -1,5 +1,7 @@
 # 纤尘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianchen.md)
+
 <p><span class="chinese">纯净无瑕、不染纤尘。</span><span class="english">Perfect purity, non-staining.</span></p>
 
 <p><span class="chinese">她的眼神依旧清纯，仿佛水晶般纤尘不染。</span><span class="english">The look from her eye is still so pure, like a dustless crystal.</span></p>

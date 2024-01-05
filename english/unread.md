@@ -1,5 +1,7 @@
 # unread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unread.md)
+
 <p><span class="chinese">连加恩的文章没有被忽视。</span><span class="english">Luc's articles did not go unread.</span></p>
 
 <p><span class="chinese">你的书架上放满了没有碰过的书吗？</span><span class="english">Do you have shelves full of unread books?</span></p>

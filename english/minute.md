@@ -1,5 +1,7 @@
 # minute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minute.md)
+
 <p><span class="chinese">一分钟。</span><span class="english">One minute.</span></p>
 
 <p><span class="chinese">让我再享受一会儿。</span><span class="english">Gimme a minute.</span></p>

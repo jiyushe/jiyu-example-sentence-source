@@ -1,5 +1,7 @@
 # anorectal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anorectal.md)
+
 <p><span class="chinese">肛管直肠损伤的诊断和治疗。</span><span class="english">Diagnosis and treatment of anorectal injuries.</span></p>
 
 <p><span class="chinese">请问徐州哪所医院治疗肛肠疾病比较专业？</span><span class="english">Which hospital does Xuzhou anorectal diseases more professional?</span></p>

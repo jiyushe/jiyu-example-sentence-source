@@ -1,5 +1,7 @@
 # recalculate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recalculate.md)
+
 <p><span class="chinese">我重新再计算一次，请稍等。</span><span class="english">Please wait while I recalculate.</span></p>
 
 <p><span class="chinese">重新计算所有工作工作表中每个单元格的值。</span><span class="english">Recalculate the value of every cell in all worksheets.</span></p>

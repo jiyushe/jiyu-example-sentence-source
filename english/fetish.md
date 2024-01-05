@@ -1,5 +1,7 @@
 # fetish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fetish.md)
+
 <p><span class="chinese">我十分喜好花女。</span><span class="english">I have a fetish for flowers.</span></p>
 
 <p><span class="chinese">我们已经形成了一种对狂热行为的迷恋。</span><span class="english">We have made a fetish of fevered action.</span></p>

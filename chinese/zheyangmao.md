@@ -1,5 +1,7 @@
 # 遮阳帽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheyangmao.md)
+
 <p><span class="chinese">我讨厌这顶遮阳帽。</span><span class="english">I hate this hat.</span></p>
 
 <p><span class="chinese">有遮阳帽吗？</span><span class="english">Do you have sun hats?</span></p>

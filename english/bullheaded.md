@@ -1,5 +1,7 @@
 # bullheaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullheaded.md)
+
 <p><span class="chinese">他是个顽固的老家伙。</span><span class="english">He's one Bullheaded old bastard.</span></p>
 
 <p><span class="chinese">顽固的人听不进劝告。</span><span class="english">A bullheaded person listens to no persuasion.</span></p>

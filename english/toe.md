@@ -1,5 +1,7 @@
 # toe 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toe.md)
+
 <p><span class="chinese">你的脚趾被卡住了？</span><span class="english">Get your toe stuck?</span></p>
 
 <p><span class="chinese">直尖帽脚趾。</span><span class="english">Straight tip cap toe.</span></p>

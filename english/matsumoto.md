@@ -1,5 +1,7 @@
 # matsumoto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matsumoto.md)
+
 <p><span class="chinese">它的开发者是松本行弘。</span><span class="english">It's developer is Yukihiro Matsumoto.</span></p>
 
 <p><span class="chinese">松元刚明是银行家出身。</span><span class="english">Matsumoto is a former banker just out.</span></p>

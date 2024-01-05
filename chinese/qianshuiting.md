@@ -1,5 +1,7 @@
 # 潜水艇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshuiting.md)
+
 <p><span class="chinese">是肉丸潜水艇吗？</span><span class="english">Is it a meatball sub?</span></p>
 
 <p><span class="chinese">潜水艇潜入水中以躲避敌船。</span><span class="english">The submarine submerged to avoid enemy ships.</span></p>

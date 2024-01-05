@@ -1,5 +1,7 @@
 # prince
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prince.md)
+
 <p><span class="chinese">变青蛙为王子。</span><span class="english">Into a handsome prince.</span></p>
 
 <p><span class="chinese">王子将舞鞋拾起。</span><span class="english">The prince picked it up.</span></p>

@@ -1,5 +1,7 @@
 # 叽叽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiji.md)
+
 <p><span class="chinese">别叽叽咕咕的！我听不见。</span><span class="english">Don't mutter! I can't hear you.</span></p>
 
 <p><span class="chinese">我真不明白是什么鬼把你迷了心窍――他叽叽咕咕地说。</span><span class="english">I don't know what gets into you, he mutters.</span></p>

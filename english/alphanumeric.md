@@ -1,5 +1,7 @@
 # alphanumeric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alphanumeric.md)
+
 <p><span class="chinese">密码中字母数字字符的最小数目。</span><span class="english">The minimum number of alphanumeric characters in a password.</span></p>
 
 <p><span class="chinese">节点名结构中只包含字母数字字符。</span><span class="english">The node name structure consists of alphanumeric characters only.</span></p>

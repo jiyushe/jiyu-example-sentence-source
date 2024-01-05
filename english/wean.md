@@ -1,5 +1,7 @@
 # wean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wean.md)
+
 <p><span class="chinese">泰丝那时正努力使自己摆脱过去的生活。</span><span class="english">Tess was trying to wean herself from the old life.</span></p>
 
 <p><span class="chinese">送他上学，以便与坏的伙伴断绝来往。</span><span class="english">He was sent away to school to wean him from bad companions.</span></p>

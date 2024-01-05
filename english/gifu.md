@@ -1,5 +1,7 @@
 # gifu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gifu.md)
+
 <p><span class="chinese">泽田家在岐阜县经营养鸡场，家里有三个姐妹花。</span><span class="english">Three sisters grow up on a chicken farm in a small town of Gifu.</span></p>
 
 <p><span class="chinese">日本最大的航空展之一每年都在歧阜空军基地举行。</span><span class="english">One of the largest air displays in Japan is held annually at Gifu airbase.</span></p>

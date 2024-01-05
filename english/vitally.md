@@ -1,5 +1,7 @@
 # vitally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitally.md)
+
 <p><span class="chinese">隐私和信任极其重要。</span><span class="english">Privacy and trust are vitally important.</span></p>
 
 <p><span class="chinese">这些言与行都极其的重要。</span><span class="english">These words and deeds are vitally important.</span></p>

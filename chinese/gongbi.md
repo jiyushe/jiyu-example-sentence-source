@@ -1,5 +1,7 @@
 # 工笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongbi.md)
+
 <p><span class="chinese">请让我在等待中帮你们描绘一幅工笔的伦敦。</span><span class="english">Allow me to paint you a London in detail.</span></p>
 
 <p><span class="chinese">这里是工笔动物画基地。</span><span class="english">This is the base of Fine-Brush Animal Painting.</span></p>

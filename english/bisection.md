@@ -1,5 +1,7 @@
 # bisection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bisection.md)
+
 <p><span class="chinese">好，让我们从二分法开始。</span><span class="english">Alright. So let's start with the bisection.</span></p>
 
 <p><span class="chinese">好，还有没有关于二分搜索的问题？</span><span class="english">All right. Any questions about bisection search?</span></p>

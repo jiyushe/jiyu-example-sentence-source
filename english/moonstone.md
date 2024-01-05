@@ -1,5 +1,7 @@
 # moonstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moonstone.md)
+
 <p><span class="chinese">现在让我们来讨论一下那块月光石吧？</span><span class="english">Can we talk about the moonstone?</span></p>
 
 <p><span class="chinese">你以前见过月亮石没?。</span><span class="english">Well, have you actually seen the moonstone before?</span></p>

@@ -1,5 +1,7 @@
 # 在先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaixian_1.md)
+
 <p><span class="chinese">比喻吃苦在先，享受在后。</span><span class="english">Analogy bear hardships prevenient, enjoy after.</span></p>
 
 <p><span class="chinese">这些在先权与相应的在后权可能会发生冲突。</span><span class="english">Such priority rights may be in conflicts with inferiority rights.</span></p>

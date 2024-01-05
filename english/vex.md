@@ -1,5 +1,7 @@
 # vex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vex.md)
+
 <p><span class="chinese">别再反复讨论这个问题了。</span><span class="english">Don't vex this problem again.</span></p>
 
 <p><span class="chinese">邪，你们招惹了什么人？</span><span class="english">Is evil, what person did you vex?</span></p>

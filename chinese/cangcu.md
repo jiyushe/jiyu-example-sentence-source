@@ -1,5 +1,7 @@
 # 仓促
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cangcu.md)
+
 <p><span class="chinese">仓促造成浪费。</span><span class="english">Haste makes Waste.</span></p>
 
 <p><span class="chinese">青春是一场仓促的梦。</span><span class="english">Youth is a very transient dream.</span></p>

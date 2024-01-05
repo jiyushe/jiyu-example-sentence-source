@@ -1,5 +1,7 @@
 # 盲肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangchang.md)
+
 <p><span class="chinese">我感到盲肠附近疼痛。</span><span class="english">I feel pain around the caecum.</span></p>
 
 <p><span class="chinese">由盲肠，结肠和直肠组成。</span><span class="english">Composed of caecum, colon and rectum.</span></p>

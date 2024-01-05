@@ -1,5 +1,7 @@
 # 专员公署
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyuangongshu.md)
+
 <p><span class="chinese">他给德里的英国高级专员公署发了份电传。</span><span class="english">He sent a telex to the British High Commission in Delhi.</span></p>
 
 <p><span class="chinese">加拿大高级专员公署设在伦敦的特拉法尔加广场。</span><span class="english">The canadian high commission is in trafalgar square in london.</span></p>

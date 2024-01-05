@@ -1,5 +1,7 @@
 # 俯瞰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fukan.md)
+
 <p><span class="chinese">俯瞰全相思湾海景。</span><span class="english">Overlooking Sheung Sze Wan sea.</span></p>
 
 <p><span class="chinese">这客厅可俯瞰街道。</span><span class="english">The parlor overlooks the street.</span></p>

@@ -1,5 +1,7 @@
 # falsify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falsify.md)
+
 <p><span class="chinese">你伪造受术者的一种感觉。</span><span class="english">False Sensory Input. You falsify one of the subject's senses.</span></p>
 
 <p><span class="chinese">事实上，科学需要重复测试，验证和伪造。</span><span class="english">In fact, Science needs to be repeating test, verify and falsify.</span></p>

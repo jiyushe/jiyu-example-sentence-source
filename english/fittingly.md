@@ -1,5 +1,7 @@
 # fittingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fittingly.md)
+
 <p><span class="chinese">把阿伽门农称为“人类之王”是再合适不过了。</span><span class="english">Agamemnon was fittingly called the "king of men".</span></p>
 
 <p><span class="chinese">以他令人敬畏的声名，他也被称为亚瑟潘德拉贡。</span><span class="english">Fittingly for his formidable reputation, he was also known as Arthur Pendragon.</span></p>

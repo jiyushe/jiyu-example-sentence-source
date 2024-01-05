@@ -1,5 +1,7 @@
 # unorthodox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unorthodox.md)
+
 <p><span class="chinese">这样说太过了，太异端，太不正统了。</span><span class="english">That went too far. It was too pagan, way too unorthodox.</span></p>
 
 <p><span class="chinese">封建社会贫民是被禁止进入皇庄的。</span><span class="english">In feudal society, unorthodox theories were always ignored.</span></p>

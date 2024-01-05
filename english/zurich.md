@@ -1,5 +1,7 @@
 # zurich
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zurich.md)
+
 <p><span class="chinese">苏黎士在哪一个州?。</span><span class="english">Which canton is Zurich in?</span></p>
 
 <p><span class="chinese">柯林斯先生今天早上还在苏黎士。</span><span class="english">Mr. Collins was in Zurich this morning.</span></p>

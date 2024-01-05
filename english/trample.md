@@ -1,5 +1,7 @@
 # trample
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trample.md)
+
 <p><span class="chinese">请勿践踏草坪！</span><span class="english">Please do not trample on the lawn.</span></p>
 
 <p><span class="chinese">请快快远去！让它成为你脚下的印记1。</span><span class="english">Go further! let it serve to trample on1.</span></p>

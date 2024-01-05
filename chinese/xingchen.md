@@ -1,5 +1,7 @@
 # 星辰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingchen.md)
+
 <p><span class="chinese">寒冷刺骨，星辰明亮。</span><span class="english">Bitter cold and bright stars.</span></p>
 
 <p><span class="chinese">星辰殒落，火光四起。</span><span class="english">Falling, the star, flaming, the fire.</span></p>

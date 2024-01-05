@@ -1,5 +1,7 @@
 # muslin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muslin.md)
+
 <p><span class="chinese">加缝头，剪去多余的白胚布。</span><span class="english">Add seam allowance and trim away excess muslin.</span></p>
 
 <p><span class="chinese">你身上穿的这件细纱衣裳，就是从波浪里飞出来的浪花。</span><span class="english">And all this fluff of muslin about you is the froth.</span></p>

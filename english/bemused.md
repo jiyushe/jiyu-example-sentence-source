@@ -1,5 +1,7 @@
 # bemused
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bemused.md)
+
 <p><span class="chinese">她被所有这些问题难住了。</span><span class="english">She was bemused by all the questions.</span></p>
 
 <p><span class="chinese">他们是些茫然移动着的削瘦的、生病的年轻美国士兵。</span><span class="english">They were thin, young, sick American soldiers moving bemused.</span></p>

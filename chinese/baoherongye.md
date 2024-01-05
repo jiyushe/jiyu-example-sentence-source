@@ -1,5 +1,7 @@
 # 饱和溶液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoherongye.md)
+
 <p><span class="chinese">我们必须稀释饱和溶液来降低其腐蚀性。</span><span class="english">We must dilute the saturated solution to reduce its corrosion.</span></p>
 
 <p><span class="chinese">物质的溶解度是指其饱和溶液的浓度。</span><span class="english">The solubility of a substance describes the concentration of its saturated solution.</span></p>

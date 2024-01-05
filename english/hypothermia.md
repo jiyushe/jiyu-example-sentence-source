@@ -1,5 +1,7 @@
 # hypothermia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothermia.md)
+
 <p><span class="chinese">若不进行治疗，低体温症能致死。</span><span class="english">If not treated, hypothermia can be deadly.</span></p>
 
 <p><span class="chinese">设计了一亚低温治疗器并作了详细的分析。</span><span class="english">A hypothermia unit is designed and analyzed in detail.</span></p>

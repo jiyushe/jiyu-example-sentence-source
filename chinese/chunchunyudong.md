@@ -1,5 +1,7 @@
 # 蠢蠢欲动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunchunyudong.md)
+
 <p><span class="chinese">其实一个人的时候，心在隐隐作痛，泪在蠢蠢欲动。</span><span class="english">In fact, when a person, the heart is aching and tears ready for it.</span></p>
 
 <p><span class="chinese">而这一切，却给了蠢蠢欲动的林午阳一个绝好的机会。</span><span class="english">And all this, but it gave the budding Lin Wu thing a great opportunity.</span></p>

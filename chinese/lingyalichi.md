@@ -1,5 +1,7 @@
 # 伶牙俐齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingyalichi.md)
+
 <p><span class="chinese">那个小姑娘真是伶牙俐齿。</span><span class="english">That girl was fluent in talking.</span></p>
 
 <p><span class="chinese">她本不需要这套书，但是这个挨家挨户卖书的推销员很是伶牙俐齿，硬把这套书卖给了她。种竹成林。</span><span class="english">A glib door to door salesman sold her a set of books that she did not want.</span></p>

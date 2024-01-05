@@ -1,5 +1,7 @@
 # 主词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuci_1.md)
+
 <p><span class="chinese">完整的句子包含有主词和动词。</span><span class="english">Complete sentences have a subject and a verb.</span></p>
 
 <p><span class="chinese">句子通常包括主词和动词。</span><span class="english">A sentence usually contains a subject and a verb.</span></p>

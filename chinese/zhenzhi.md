@@ -1,5 +1,7 @@
 # 真挚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhi.md)
+
 <p><span class="chinese">我的阳光一照那样的真挚。</span><span class="english">My sunny one shines so sincere.</span></p>
 
 <p><span class="chinese">父母之爱深而真挚。</span><span class="english">Parental love is deep and true.</span></p>

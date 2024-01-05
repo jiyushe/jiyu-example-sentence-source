@@ -1,5 +1,7 @@
 # varistor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varistor.md)
+
 <p><span class="chinese">变阻器和电阻器安装在外面。</span><span class="english">The varistor and the resistor are mounted externally.</span></p>
 
 <p><span class="chinese">目前在判断氧化锌压敏电阻的老化程度方面还没有标准的方法可循。</span><span class="english">But now, there is not a standard method to estimate the aging degree of ZnO varistor.</span></p>

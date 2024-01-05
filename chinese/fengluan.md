@@ -1,5 +1,7 @@
 # 峰峦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengluan.md)
+
 <p><span class="chinese">层层迷雾遮蔽了重重峰峦。</span><span class="english">Fogs hide the mountain peaks.</span></p>
 
 <p><span class="chinese">峰峦起伏的群山中蕴藏着丰富的矿产资源。</span><span class="english">The undulating hills are rich in mineral resources.</span></p>

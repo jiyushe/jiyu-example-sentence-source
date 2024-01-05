@@ -1,5 +1,7 @@
 # 葵花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuihua.md)
+
 <p><span class="chinese">她喜欢吃葵花瓜子。</span><span class="english">She likes sunflower seeds.</span></p>
 
 <p><span class="chinese">朵朵葵花向太阳。</span><span class="english">Sunflowers turn towards the sun.</span></p>

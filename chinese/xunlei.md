@@ -1,5 +1,7 @@
 # 迅雷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunlei.md)
+
 <p><span class="chinese">迅雷资源搜索引擎检索器和用户接口的实现。</span><span class="english">The implement of XunLei searcher and user-interface.</span></p>
 
 <p><span class="chinese">迅雷IGBT代高电压功率IGBT。</span><span class="english">Thunderbolt IGBT generation high voltage power IGBTs.</span></p>

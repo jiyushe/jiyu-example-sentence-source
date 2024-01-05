@@ -1,5 +1,7 @@
 # sextant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sextant.md)
+
 <p><span class="chinese">我想买个六分仪。</span><span class="english">I want to buy a sextant.</span></p>
 
 <p><span class="chinese">这个六分仪很难用。</span><span class="english">The sextant is hard to use.</span></p>

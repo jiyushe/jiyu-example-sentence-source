@@ -1,5 +1,7 @@
 # 长子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangzi_2.md)
+
 <p><span class="chinese">他失去了他长子的继承权。</span><span class="english">He lost his birthright.</span></p>
 
 <p><span class="chinese">我是您的长子，以扫。</span><span class="english">I am Esau, your firstborn.</span></p>

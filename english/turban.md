@@ -1,5 +1,7 @@
 # turban
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turban.md)
+
 <p><span class="chinese">你今天为什麽戴头巾呢？</span><span class="english">Why do you wear a turban today?</span></p>
 
 <p><span class="chinese">包头地区诺基亚E66多少钱？</span><span class="english">Be how much turban area Nokia E66?</span></p>

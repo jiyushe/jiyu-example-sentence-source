@@ -1,5 +1,7 @@
 # finch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finch.md)
+
 <p><span class="chinese">山沟沟里飞出花雀雀。</span><span class="english">The ravine flew out of sparrow finch.</span></p>
 
 <p><span class="chinese">斑胸草雀是一种来自澳洲的小型鸣禽。</span><span class="english">The zebra finch is a tiny Australian songbird.</span></p>

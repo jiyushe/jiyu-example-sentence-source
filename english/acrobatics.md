@@ -1,5 +1,7 @@
 # acrobatics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acrobatics.md)
+
 <p><span class="chinese">在哪儿可以学到杂技呢？</span><span class="english">Whre can we learn acrobatics ?</span></p>
 
 <p><span class="chinese">中国杂技是世界一流的。</span><span class="english">Chinese acrobatics is out of this world.</span></p>

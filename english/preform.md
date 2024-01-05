@@ -1,5 +1,7 @@
 # preform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preform.md)
+
 <p><span class="chinese">否则，他不会是能的再预先形成。</span><span class="english">Otherwise, he will never be able to preform again.</span></p>
 
 <p><span class="chinese">露水会遗留痕迹在瓶坯的表面上。</span><span class="english">Condensate will leave marks on the preform surface.</span></p>

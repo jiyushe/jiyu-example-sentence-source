@@ -1,5 +1,7 @@
 # 勇士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongshi.md)
+
 <p><span class="chinese">荆轲是一名勇士。</span><span class="english">Jingke is a warrior.</span></p>
 
 <p><span class="chinese">那些勇士站在他们身后。</span><span class="english">The warriors stand behind them.</span></p>

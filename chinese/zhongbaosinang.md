@@ -1,5 +1,7 @@
 # 中饱私囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongbaosinang.md)
+
 <p><span class="chinese">他们都将每个50美分中饱私囊，当作意外之财。</span><span class="english">They all pocket each 50 cents as windfall.</span></p>
 
 <p><span class="chinese">这警察接受贿赂中饱私囊。</span><span class="english">The policeman lined his pockets with bribes.</span></p>

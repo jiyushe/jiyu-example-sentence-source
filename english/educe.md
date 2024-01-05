@@ -1,5 +1,7 @@
 # educe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/educe.md)
+
 <p><span class="chinese">老师无法从学生口中得到任何答案。</span><span class="english">The teacher was unable to educe an answer from her pupils.</span></p>
 
 <p><span class="chinese">老师无法从学生口中得到任何谜底。</span><span class="english">The teacher was unable to educe an answer from her pupils.</span></p>

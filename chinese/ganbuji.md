@@ -1,5 +1,7 @@
 # 赶不及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganbuji.md)
+
 <p><span class="chinese">快！我们已经赶不及这场电影。</span><span class="english">Quick! We're already late for the movie.</span></p>
 
 <p><span class="chinese">我们赶不及印刷商的最后期限了吗？</span><span class="english">Are we too late for the printer' s deadline?</span></p>

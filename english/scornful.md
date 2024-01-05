@@ -1,5 +1,7 @@
 # scornful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scornful.md)
+
 <p><span class="chinese">但每个人都不屑一顾。</span><span class="english">But everyone was scornful to it.</span></p>
 
 <p><span class="chinese">她轻蔑的一瞥使他感到羞惭。</span><span class="english">She withered him with a scornful look.</span></p>

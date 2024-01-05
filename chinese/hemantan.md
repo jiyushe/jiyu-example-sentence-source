@@ -1,5 +1,7 @@
 # 河漫滩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hemantan.md)
+
 <p><span class="chinese">草本群落是汾河河漫滩的主要植被类型。</span><span class="english">The results showed that the biomass of these 3 types of herb community were 785.</span></p>
 
 <p><span class="chinese">现在河槽内沉积物的稳定性比河漫滩上沉积物差的多。</span><span class="english">Those within existing stream channels are much less stable than overbank deposits.</span></p>

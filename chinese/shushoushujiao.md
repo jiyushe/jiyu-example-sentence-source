@@ -1,5 +1,7 @@
 # 束手束脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushoushujiao.md)
+
 <p><span class="chinese">2011年财政预算，束手束脚。</span><span class="english">Budget 2011, No wriggle room.</span></p>
 
 <p><span class="chinese">那位先生在工作中束手束脚。</span><span class="english">The gentleman is overcautious in his work.</span></p>

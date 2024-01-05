@@ -1,5 +1,7 @@
 # naevus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naevus.md)
+
 <p><span class="chinese">激光点痔会不会留下疤？</span><span class="english">Can laser dot naevus leave scar?</span></p>
 
 <p><span class="chinese">鼻子上的痦子，能去掉吗？</span><span class="english">The naevus on nose, can take out?</span></p>

@@ -1,5 +1,7 @@
 # 走兽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoushou.md)
+
 <p><span class="chinese">狮子，熊，牛，和马都是走兽。</span><span class="english">Lions, bears, cows, and horses are beasts.</span></p>
 
 <p><span class="chinese">他赐食给走兽，和啼叫的小乌鸦。</span><span class="english">He giveth to the beast his food, and to the young ravens which cry.</span></p>

@@ -1,5 +1,7 @@
 # speckle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speckle.md)
+
 <p><span class="chinese">什么样的去斑产品比拟好用呢？</span><span class="english">What kind of speckle compare products easy to use it?</span></p>
 
 <p><span class="chinese">去痘去斑怎样去痘去斑？用什么产品去痘去斑？</span><span class="english">How Acne Acne speckle Speckle? What products Acne speckle?</span></p>

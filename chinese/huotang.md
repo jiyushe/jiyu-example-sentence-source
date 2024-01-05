@@ -1,5 +1,7 @@
 # 火塘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huotang.md)
+
 <p><span class="chinese">在火塘的日子，每刻都是开心的。</span><span class="english">The life is happy in Huo Tang Bar.</span></p>
 
 <p><span class="chinese">中景是成熟的橄榄树和火塘。</span><span class="english">Mature olive trees and fire pit in mid ground.</span></p>

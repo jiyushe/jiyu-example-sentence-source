@@ -1,5 +1,7 @@
 # demarcate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demarcate.md)
+
 <p><span class="chinese">计量器具与生产仪表等得标定。</span><span class="english">Equipment and rulers and gage demarcate.</span></p>
 
 <p><span class="chinese">我们开始看到石刻艺术的爆发也就发生在那期间，“诺维尔说，“有一个可能的原因是当时的人类在使用符号来划分所在区域。”</span><span class="english">One possibility is that they were using the signs to demarcate their territories.</span></p>

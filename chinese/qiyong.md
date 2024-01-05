@@ -1,5 +1,7 @@
 # 启用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyong.md)
+
 <p><span class="chinese">它在默认情况下不启用。</span><span class="english">It is not enabled by default.</span></p>
 
 <p><span class="chinese">已经启用电子邮件通知。</span><span class="english">E-mail notification is enabled.</span></p>

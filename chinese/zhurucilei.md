@@ -1,5 +1,7 @@
 # 诸如此类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhurucilei.md)
+
 <p><span class="chinese">诸如此类。</span><span class="english">And on and on.</span></p>
 
 <p><span class="chinese">他说了诸如此类的很多话</span><span class="english">et cetera, et cetera.</span></p>

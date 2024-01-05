@@ -1,5 +1,7 @@
 # routing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/routing.md)
+
 <p><span class="chinese">虚拟网络路由选择?。</span><span class="english">VNR? Virtual Network Routing?</span></p>
 
 <p><span class="chinese">基于上下文或内容的路由。</span><span class="english">Context- or content-based routing.</span></p>

@@ -1,5 +1,7 @@
 # mightiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mightiness.md)
+
 <p><span class="chinese">具有强烈的艺术感染力。</span><span class="english">Have the art atmosphere of the mightiness.</span></p>
 
 <p><span class="chinese">不如国标舞中所展示的那么强烈。</span><span class="english">Not equal to country mark dance in demonstration of so mightiness.</span></p>

@@ -1,5 +1,7 @@
 # width
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/width.md)
+
 <p><span class="chinese">面阔三间。</span><span class="english">Face width three.</span></p>
 
 <p><span class="chinese">惆怅无人试宽窄。</span><span class="english">No trial melancholy width.</span></p>

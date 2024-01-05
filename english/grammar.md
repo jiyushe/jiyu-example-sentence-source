@@ -1,5 +1,7 @@
 # grammar 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grammar.md)
+
 <p><span class="chinese">他们会用语法吗？</span><span class="english">Do they use grammar?</span></p>
 
 <p><span class="chinese">还是语法错误？</span><span class="english">Is it the grammar mistakes?</span></p>

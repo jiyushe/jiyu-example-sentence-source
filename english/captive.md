@@ -1,5 +1,7 @@
 # captive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/captive.md)
+
 <p><span class="chinese">圈养鲸鱼亚卡。</span><span class="english">Yaka, captive whale.</span></p>
 
 <p><span class="chinese">无路可走的受众都死光了。</span><span class="english">The captive audience is dead.</span></p>

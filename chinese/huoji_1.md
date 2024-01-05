@@ -1,5 +1,7 @@
 # 活计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoji_1.md)
+
 <p><span class="chinese">你帮助我们做重新装饰房间的所有活计好吗？</span><span class="english">Will you help us with all this re-decorating?</span></p>
 
 <p><span class="chinese">活计未完不给傻瓜和孩子看。</span><span class="english">Fools and bairns should not see half-done work.</span></p>

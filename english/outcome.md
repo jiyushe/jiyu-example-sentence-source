@@ -1,5 +1,7 @@
 # outcome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outcome.md)
+
 <p><span class="chinese">于是有了这种结果。</span><span class="english">So here's the outcome.</span></p>
 
 <p><span class="chinese">这个是个能让人满意的结局吗</span><span class="english">Is that a satisfactory outcome?</span></p>

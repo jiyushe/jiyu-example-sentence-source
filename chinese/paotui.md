@@ -1,5 +1,7 @@
 # 跑腿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paotui.md)
+
 <p><span class="chinese">为他们做家务或者跑腿。</span><span class="english">Do errands or chores for them.</span></p>
 
 <p><span class="chinese">我干的是跑腿儿的活。</span><span class="english">What I do is a kind of legwork.</span></p>

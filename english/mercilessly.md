@@ -1,5 +1,7 @@
 # mercilessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercilessly.md)
+
 <p><span class="chinese">冰雹无情地打下来。</span><span class="english">Haill lashed down mercilessly.</span></p>
 
 <p><span class="chinese">人非草木、岂能无情。</span><span class="english">People can not trees, mercilessly.</span></p>

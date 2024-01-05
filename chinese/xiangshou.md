@@ -1,5 +1,7 @@
 # 享受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshou.md)
+
 <p><span class="chinese">享受它吧。</span><span class="english">Enjoy it.</span></p>
 
 <p><span class="chinese">享受乐趣。</span><span class="english">Have fun.</span></p>

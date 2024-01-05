@@ -1,5 +1,7 @@
 # lawnmower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawnmower.md)
+
 <p><span class="chinese">约翰不可以没有得到许可借用剪草机。</span><span class="english">John may not use the lawnmower without permission.</span></p>
 
 <p><span class="chinese">约翰到邻居家借剪草机。</span><span class="english">John went to his neighbor's home to borrow his lawnmower.</span></p>

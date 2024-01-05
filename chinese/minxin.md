@@ -1,5 +1,7 @@
 # 民心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minxin.md)
+
 <p><span class="chinese">他能得民心。</span><span class="english">He wins people's hearts.</span></p>
 
 <p><span class="chinese">他用苛捐杂税剥夺百姓，失尽民心。</span><span class="english">He pilled with grievous taxes and quite lost their hearts.</span></p>

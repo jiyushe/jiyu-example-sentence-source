@@ -1,5 +1,7 @@
 # 见多识广
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianduoshiguang.md)
+
 <p><span class="chinese">远游者见多识广。</span><span class="english">He travels far knows much.</span></p>
 
 <p><span class="chinese">巴黎的鹅卵石可谓见多识广。</span><span class="english">The cobblestones of Paris have seen some things.</span></p>

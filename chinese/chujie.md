@@ -1,5 +1,7 @@
 # 出借
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chujie.md)
+
 <p><span class="chinese">他们没有阅读用书可以出借。</span><span class="english">They had no reading books to lend.</span></p>
 
 <p><span class="chinese">不要出借或是求借钱或财物。</span><span class="english">Don't lend or borrow money or belongings.</span></p>

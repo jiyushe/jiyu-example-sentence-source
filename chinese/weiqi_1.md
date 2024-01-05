@@ -1,5 +1,7 @@
 # 围棋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiqi_1.md)
+
 <p><span class="chinese">围棋是一种战略竞争。</span><span class="english">Go is a strategic contest.</span></p>
 
 <p><span class="chinese">现在围棋在日本很流行。</span><span class="english">Weiqi is popular in Japn now.</span></p>

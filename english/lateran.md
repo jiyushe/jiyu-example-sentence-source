@@ -1,5 +1,7 @@
 # lateran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lateran.md)
+
 <p><span class="chinese">第四次拉特兰会，在1215年，是至关重要的。</span><span class="english">The fourth Lateran Council, in 1215, was of crucial importance.</span></p>
 
 <p><span class="chinese">英国是第一个付诸实践的法令拉特兰理事会。</span><span class="english">The English were the first to put into practice the decrees of the Lateran Council.</span></p>

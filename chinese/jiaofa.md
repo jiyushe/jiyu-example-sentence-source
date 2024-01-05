@@ -1,5 +1,7 @@
 # 教法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaofa.md)
+
 <p><span class="chinese">她在伦敦南部的奇姆综合中学教法语。</span><span class="english">She taught French at Cheam Comprehensive in South London.</span></p>
 
 <p><span class="chinese">我总觉得这种教法有点奇怪。</span><span class="english">This always struck me as a strange approach to argumentation.</span></p>

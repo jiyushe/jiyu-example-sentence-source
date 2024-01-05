@@ -1,5 +1,7 @@
 # 火上浇油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshangjiaoyou.md)
+
 <p><span class="chinese">中国警告美日韩三方不要火上浇油。</span><span class="english">China urges not to 'pour oil on flames'.</span></p>
 
 <p><span class="chinese">所犯的这些错误给ISC“缺乏肌肉”的批评火上浇油。</span><span class="english">The mistakes fuelled criticism that the ISC lacked muscle.</span></p>

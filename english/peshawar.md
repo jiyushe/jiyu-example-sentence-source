@@ -1,5 +1,7 @@
 # peshawar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peshawar.md)
+
 <p><span class="chinese">这是Jogan沙阿，锡克教的白沙瓦附近。</span><span class="english">This is Jogan Shah, the Sikh neighborhood of Peshawar.</span></p>
 
 <p><span class="chinese">一些人前往马尔丹，一些人去白沙瓦。</span><span class="english">Some people going to Mardan, some are going to Peshawar.</span></p>

@@ -1,5 +1,7 @@
 # nearby 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nearby.md)
+
 <p><span class="chinese">就近没有洗手池？</span><span class="english">No sink nearby?</span></p>
 
 <p><span class="chinese">一只猫头鹰在附近啼叫。</span><span class="english">An owl hooted nearby.</span></p>

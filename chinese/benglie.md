@@ -1,5 +1,7 @@
 # 崩裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benglie.md)
+
 <p><span class="chinese">我的左脑里的一根脑血管崩裂了。</span><span class="english">A blood vessel exploded in the left half of my brain.</span></p>
 
 <p><span class="chinese">千叶县浦安市崩裂的路。</span><span class="english">A collapsed road in Urayasu city, in Chiba prefecture.</span></p>

@@ -1,5 +1,7 @@
 # 字里行间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zilihangjian.md)
+
 <p><span class="chinese">但阅读字里行间。</span><span class="english">But read between the lines.</span></p>
 
 <p><span class="chinese">想着，不觉轻轻叹息，清愁溢满字里行间。</span><span class="english">Think of, never sigh Qingchou, between the lines.</span></p>

@@ -1,5 +1,7 @@
 # 危亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwang.md)
+
 <p><span class="chinese">回头望，笑看往昔危亡。</span><span class="english">Look back, and smile at perils past.</span></p>
 
 <p><span class="chinese">楚国的危亡和百姓的痛苦，屈原痛不欲生。</span><span class="english">Chu people of peril and suffering, pain Yuan.</span></p>

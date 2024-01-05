@@ -1,5 +1,7 @@
 # 亲手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinshou.md)
+
 <p><span class="chinese">低卡美食亲手做！</span><span class="english">Cook up a low-cal storm!</span></p>
 
 <p><span class="chinese">是我亲手划开的。</span><span class="english">I personally plan to open.</span></p>

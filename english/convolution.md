@@ -1,5 +1,7 @@
 # convolution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convolution.md)
+
 <p><span class="chinese">我以为那仅仅是个卷积上的问题。</span><span class="english">It's just a matter of convolution.</span></p>
 
 <p><span class="chinese">让我们用卷积法来画一幅图。</span><span class="english">Let's paint a picture using convolution.</span></p>

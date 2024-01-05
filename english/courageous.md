@@ -1,5 +1,7 @@
 # courageous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courageous.md)
+
 <p><span class="chinese">你当刚强壮胆!</span><span class="english">Be strong and courageous.</span></p>
 
 <p><span class="chinese">他是个勇敢的般长。</span><span class="english">He is courageous captain.</span></p>

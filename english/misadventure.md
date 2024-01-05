@@ -1,5 +1,7 @@
 # misadventure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misadventure.md)
+
 <p><span class="chinese">也就是说，他的死亡是个不幸的事故。</span><span class="english">The verdict was death due to misadventure.</span></p>
 
 <p><span class="chinese">幸运的是，迈克.杜卡基斯并没有因我的过失而受到不利影响。</span><span class="english">Fortunately, Mike Dukakis wasn’t hurt by my misadventure.</span></p>

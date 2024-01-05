@@ -1,5 +1,7 @@
 # brass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brass.md)
+
 <p><span class="chinese">我毫不在乎。</span><span class="english">Not a brass farthing.</span></p>
 
 <p><span class="chinese">该团由一支铜管乐队引导。</span><span class="english">A brass band led the regiment.</span></p>

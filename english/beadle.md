@@ -1,5 +1,7 @@
 # beadle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beadle.md)
+
 <p><span class="chinese">你还在吗，毕多，毕多？</span><span class="english">Are you in there still, Beadle , Beadle ?</span></p>
 
 <p><span class="chinese">狱吏此时用权杖做了个姿势。</span><span class="english">The grim beadle now made a gesture with his staff.</span></p>

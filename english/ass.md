@@ -1,5 +1,7 @@
 # ass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ass.md)
+
 <p><span class="chinese">是的，我就是了不起！</span><span class="english">Yep. I just kick ass.</span></p>
 
 <p><span class="chinese">他也打了我的屁股。</span><span class="english">He slapped my ass too.</span></p>

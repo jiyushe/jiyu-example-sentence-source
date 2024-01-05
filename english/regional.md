@@ -1,5 +1,7 @@
 # regional 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regional.md)
+
 <p><span class="chinese">那就到地区经纪公司看看。</span><span class="english">Go to a regional broker.</span></p>
 
 <p><span class="chinese">扶持新的区域增长极。</span><span class="english">Promotion of new regional poles.</span></p>

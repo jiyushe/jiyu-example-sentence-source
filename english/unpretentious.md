@@ -1,5 +1,7 @@
 # unpretentious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpretentious.md)
+
 <p><span class="chinese">他们是谦逊和**的。</span><span class="english">They are unpretentious and democratic.</span></p>
 
 <p><span class="chinese">一切显得漂亮、雅观、简洁、和谐！</span><span class="english">All is beautiful, tasteful, unpretentious and harmonious!</span></p>

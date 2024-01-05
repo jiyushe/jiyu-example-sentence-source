@@ -1,5 +1,7 @@
 # view 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/view.md)
+
 <p><span class="chinese">家庭观。</span><span class="english">Fifth, family view.</span></p>
 
 <p><span class="chinese">和铁塔来张远景合照吧。</span><span class="english">Far view with tower.</span></p>

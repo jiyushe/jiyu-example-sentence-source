@@ -1,5 +1,7 @@
 # fidgety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fidgety.md)
+
 <p><span class="chinese">大贝贝在车上扭来扭去。</span><span class="english">Justin gets very fidgety in the car.</span></p>
 
 <p><span class="chinese">当你心情烦躁时，可以用它来发泄。</span><span class="english">It helps out when you’re in a fidgety mood.</span></p>

@@ -1,5 +1,7 @@
 # hideout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hideout.md)
+
 <p><span class="chinese">他们又回到了藏身之处。</span><span class="english">They can return to the warehouse hideout.</span></p>
 
 <p><span class="chinese">警方追踪这名罪犯到他的躲藏处。</span><span class="english">The police tracked the criminal to his hideout.</span></p>

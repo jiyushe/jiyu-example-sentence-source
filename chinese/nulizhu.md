@@ -1,5 +1,7 @@
 # 奴隶主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nulizhu.md)
+
 <p><span class="chinese">他真是个奴隶主。</span><span class="english">He was a real slave-driver.</span></p>
 
 <p><span class="chinese">事实是达赖喇嘛本身就是一个奴隶主。</span><span class="english">The fact is Dalai Lama is a slaveholder.</span></p>

@@ -1,5 +1,7 @@
 # 一元
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyuan.md)
+
 <p><span class="chinese">甚至一元也可以起存。</span><span class="english">Even one yuan is ok.</span></p>
 
 <p><span class="chinese">一元钱一本，小伙子。</span><span class="english">One dollar each, young man.</span></p>

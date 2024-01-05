@@ -1,5 +1,7 @@
 # 真话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenhua.md)
+
 <p><span class="chinese">没人敢说真话。</span><span class="english">Nobody dares speak the truth.</span></p>
 
 <p><span class="chinese">有疑问时，就说真话吧。</span><span class="english">When in doubt, tell the truth.</span></p>

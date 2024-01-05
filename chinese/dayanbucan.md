@@ -1,5 +1,7 @@
 # 大言不惭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayanbucan.md)
+
 <p><span class="chinese">杜鲁门大言不惭地说，原子弹是“历史上最伟大的东西”。</span><span class="english">The bomb "is the greatest thing in history, " Truman boated.</span></p>
 
 <p><span class="chinese">他举起战斧，在马镫上站起来，把那大言不惭的对手砍倒了。</span><span class="english">He raised his battle axe, and rising in his stirrups cut down the vaunting foe.</span></p>

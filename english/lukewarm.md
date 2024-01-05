@@ -1,5 +1,7 @@
 # lukewarm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lukewarm.md)
+
 <p><span class="chinese">将牛奶微热。</span><span class="english">Heat milk to lukewarm.</span></p>
 
 <p><span class="chinese">什么水果是温性的？</span><span class="english">What fruit is lukewarm sex?</span></p>

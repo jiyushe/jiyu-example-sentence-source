@@ -1,5 +1,7 @@
 # lambaste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lambaste.md)
+
 <p><span class="chinese">你常常公开抨击某些行业或做法，但很少针对具体企业或个人。</span><span class="english">You often publicly lambaste certain industries or practices, but rarely specific companies or people.</span></p>
 
 <p><span class="chinese">村长大骂了老冯一顿，要他背着玉珠上县医院，这时叶虹哭着过来说玉珠不行了。</span><span class="english">Village head to lambaste laofeng, want he county hospital carrying jade beads, then Ye Hong jade bead cried. Said.</span></p>

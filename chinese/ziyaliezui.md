@@ -1,5 +1,7 @@
 # 龇牙咧嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyaliezui.md)
+
 <p><span class="chinese">狗咬了他的脚腕子，疼得他龇牙咧嘴。</span><span class="english">He winced as the dog nipped his ankle.</span></p>
 
 <p><span class="chinese">不会咬人，切莫龇牙咧嘴。</span><span class="english">If you cannot bite never shou your teeth.</span></p>

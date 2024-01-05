@@ -1,5 +1,7 @@
 # 所得税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suodeshui.md)
+
 <p><span class="chinese">所得税回单。</span><span class="english">Income tax returns.</span></p>
 
 <p><span class="chinese">而且，该市不征收州所得税。</span><span class="english">There is no state income tax.</span></p>

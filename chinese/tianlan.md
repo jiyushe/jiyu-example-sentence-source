@@ -1,5 +1,7 @@
 # 天蓝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianlan.md)
+
 <p><span class="chinese">冲绳是天天天蓝…</span><span class="english">Everyday is shiney day !</span></p>
 
 <p><span class="chinese">天蓝依旧，岁月悠悠。</span><span class="english">Blue still, years leisurely.</span></p>

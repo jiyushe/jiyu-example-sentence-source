@@ -1,5 +1,7 @@
 # 上述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshu_1.md)
+
 <p><span class="chinese">它包括上述所有方面。</span><span class="english">It is about all of them.</span></p>
 
 <p><span class="chinese">上述有些事情是合理的。</span><span class="english">Some of that is legitimate.</span></p>

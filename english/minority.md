@@ -1,5 +1,7 @@
 # minority 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minority.md)
+
 <p><span class="chinese">我属于同意这一点的少数派。</span><span class="english">I'm in the minority in this.</span></p>
 
 <p><span class="chinese">但看起来我只是少数人中的一个。</span><span class="english">I seem to be in the minority.</span></p>

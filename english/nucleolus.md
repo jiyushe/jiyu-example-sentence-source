@@ -1,5 +1,7 @@
 # nucleolus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleolus.md)
+
 <p><span class="chinese">红细胞有没有细胞核？</span><span class="english">Does red blood cell have nucleolus?</span></p>
 
 <p><span class="chinese">还观察到极少的颗粒细胞具有典型的核仁。</span><span class="english">A few of granular cells have typical nucleolus.</span></p>

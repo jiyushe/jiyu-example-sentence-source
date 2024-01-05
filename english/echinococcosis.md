@@ -1,5 +1,7 @@
 # echinococcosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/echinococcosis.md)
+
 <p><span class="chinese">囊虫病与包虫病患者血清有一定的交叉反应。</span><span class="english">There is cross reaction between cysticercus and echinococcosis.</span></p>
 
 <p><span class="chinese">本文综述了棘球蚴病疫苗的研究进展。</span><span class="english">Research developments about echinococcosis vaccine are summarized.</span></p>

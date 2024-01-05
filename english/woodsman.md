@@ -1,5 +1,7 @@
 # woodsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodsman.md)
+
 <p><span class="chinese">这个故事与一个贫穷的伐木工人有关。</span><span class="english">The story is about a poor woodsman.</span></p>
 
 <p><span class="chinese">当地的樵夫来警告你一下。</span><span class="english">Just a local woodsman here to warn you.</span></p>

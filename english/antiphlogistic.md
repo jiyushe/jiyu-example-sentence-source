@@ -1,5 +1,7 @@
 # antiphlogistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antiphlogistic.md)
+
 <p><span class="chinese">嗓子发炎了，吃消炎药又过敏，怎么办？</span><span class="english">Voice agnail, take antiphlogistic drug allergic, how to do?</span></p>
 
 <p><span class="chinese">胆管结石一定要先消炎再手术吗?。</span><span class="english">Is bile duct calculous must first antiphlogistic again operation?</span></p>

@@ -1,5 +1,7 @@
 # hexagram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexagram.md)
+
 <p><span class="chinese">一卦是由两个三线形组成。</span><span class="english">A hexagram is made up of two trigrams.</span></p>
 
 <p><span class="chinese">印章顶上的生命之花类型的象征物包含一个六芒星。</span><span class="english">The flower of life type symbol on top contains a hexagram.</span></p>

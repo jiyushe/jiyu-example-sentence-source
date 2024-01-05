@@ -1,5 +1,7 @@
 # sharable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharable.md)
+
 <p><span class="chinese">但是，它是一个可共享的名声。</span><span class="english">But, it's a sharable fame.</span></p>
 
 <p><span class="chinese">文化者，人类心能所开释出来之有价值的共业也。</span><span class="english">The culture, is the sharable and valuable property released from human brains.</span></p>

@@ -1,5 +1,7 @@
 # functionalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/functionalism.md)
+
 <p><span class="chinese">我们将这种模式称为功能主义。</span><span class="english">We can call this mode "functionalism".</span></p>
 
 <p><span class="chinese">有没有人考虑更多的职能的缺点？</span><span class="english">Can anyone think of any more shortcoming of functionalism?</span></p>

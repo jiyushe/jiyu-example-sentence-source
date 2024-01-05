@@ -1,5 +1,7 @@
 # inquisitively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inquisitively.md)
+
 <p><span class="chinese">我好奇地细看着这武器。</span><span class="english">I surveyed the weapon inquisitively.</span></p>
 
 <p><span class="chinese">她好奇地皱起了眉头。</span><span class="english">She wrinkled her brow inquisitively.</span></p>

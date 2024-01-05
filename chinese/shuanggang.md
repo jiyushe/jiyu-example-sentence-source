@@ -1,5 +1,7 @@
 # 双杠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuanggang.md)
+
 <p><span class="chinese">体操运动员在双杠上摆动身子。</span><span class="english">The gymnast swung on the parallel bars.</span></p>
 
 <p><span class="chinese">兰格先生将我送上双杠。</span><span class="english">Mr. Lange lifted me up to the parallel bars.</span></p>

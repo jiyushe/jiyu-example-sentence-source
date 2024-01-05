@@ -1,5 +1,7 @@
 # luckily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luckily.md)
+
 <p><span class="chinese">亏得是你。</span><span class="english">Luckily it is you.</span></p>
 
 <p><span class="chinese">我有幸找到灵魂侣伴。</span><span class="english">Luckily I find a soul mate.</span></p>

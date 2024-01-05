@@ -1,5 +1,7 @@
 # filamentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filamentary.md)
+
 <p><span class="chinese">灯丝结构本身所产生的HUM。</span><span class="english">Hum produced from within the filamentary structure.</span></p>
 
 <p><span class="chinese">而本文所讨论的原理可以应用到各种类型的灯丝结构。</span><span class="english">The principles discussed in this report are applicable to all filamentary cathode structures.</span></p>

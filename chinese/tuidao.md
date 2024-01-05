@@ -1,5 +1,7 @@
 # 推倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuidao.md)
+
 <p><span class="chinese">我性推倒你小晴你就不理我吧…</span><span class="english">Maybe I fall in love with you.</span></p>
 
 <p><span class="chinese">所以历史提醒我们那些墙是可以被推倒的。</span><span class="english">So history reminds us that walls can be torn down.</span></p>

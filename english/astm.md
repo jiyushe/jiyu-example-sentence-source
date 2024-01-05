@@ -1,5 +1,7 @@
 # astm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astm.md)
+
 <p><span class="chinese">颜色被依照美国材料试验学会D1686-61决定。</span><span class="english">The color is determined according to ASTM D1686-61.</span></p>
 
 <p><span class="chinese">所有现场拼接都用美国材料试验协会的A325六角形头螺栓。</span><span class="english">All field splices were bolted using ASTM A325 hex head bolts.</span></p>

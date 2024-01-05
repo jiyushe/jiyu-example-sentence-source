@@ -1,5 +1,7 @@
 # intensifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intensifier.md)
+
 <p><span class="chinese">安全交换机防火墙也是该体系结构的安全增强点。</span><span class="english">The firewall of the security switch is the intensifier of PCSS.</span></p>
 
 <p><span class="chinese">对二代象增强器的可靠性问题进行了讨论。</span><span class="english">Reliability of second generation image intensifier is discussed.</span></p>

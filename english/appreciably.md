@@ -1,5 +1,7 @@
 # appreciably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appreciably.md)
+
 <p><span class="chinese">一些年，人口增长明显。</span><span class="english">Some years there population rose appreciably.</span></p>
 
 <p><span class="chinese">白海豚亦于过去24小时明显地减速。</span><span class="english">It has also decelerated appreciably in the past 24 hours.</span></p>

@@ -1,5 +1,7 @@
 # petrol 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrol.md)
+
 <p><span class="chinese">我们的汽油用完了。</span><span class="english">We ran out of petrol.</span></p>
 
 <p><span class="chinese">汽油极易点燃。</span><span class="english">Petrol ignites ery easily.</span></p>

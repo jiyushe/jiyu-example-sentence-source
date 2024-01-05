@@ -1,5 +1,7 @@
 # 颠倒是非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diandaoshifei.md)
+
 <p><span class="chinese">颠倒黑白，颠倒是非。</span><span class="english">Talk black into white.</span></p>
 
 <p><span class="chinese">不管有多么不公平或是颠倒是非。</span><span class="english">No matter how unfair or wrong.</span></p>

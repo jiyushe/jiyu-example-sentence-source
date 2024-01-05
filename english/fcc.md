@@ -1,5 +1,7 @@
 # fcc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fcc.md)
+
 <p><span class="chinese">也许它们会给FCC一个直接的答案。</span><span class="english">Maybe they’ll give the FCC a straight answer.</span></p>
 
 <p><span class="chinese">杰伊·费伊说，联邦通信委员会可能会拒绝更新那些执照。</span><span class="english">Jay Fahy says the FCC could refuse to renew those licenses.</span></p>

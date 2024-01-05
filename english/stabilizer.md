@@ -1,5 +1,7 @@
 # stabilizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stabilizer.md)
+
 <p><span class="chinese">它包含非脱色剂。</span><span class="english">It contains non-discoling stabilizer.</span></p>
 
 <p><span class="chinese">它包含非脱色剂。</span><span class="english">It contains non-discoloring stabilizer.</span></p>

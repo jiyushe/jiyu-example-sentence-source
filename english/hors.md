@@ -1,5 +1,7 @@
 # hors
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hors.md)
+
 <p><span class="chinese">他签发给我文档写的是1975年的日期。</span><span class="english">The pater he hors me get a 1975 date.</span></p>
 
 <p><span class="chinese">开胃菜是应时的蔬菜、鲜鱼。</span><span class="english">The hors d'oeuvre is seasonal vegetables and fish.</span></p>

@@ -1,5 +1,7 @@
 # 镁砂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meisha.md)
+
 <p><span class="chinese">镁砂行业的污染主要以烟尘、烟气为主。</span><span class="english">Dust and smoke is the key pollutants in magnesia industry.</span></p>
 
 <p><span class="chinese">详述了海水与卤水镁砂的特点。</span><span class="english">The characteristics of sea water and brine magnesia are described.</span></p>

@@ -1,5 +1,7 @@
 # metacarpus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metacarpus.md)
+
 <p><span class="chinese">方法采用微型解剖钢板内固定治疗掌指骨骨折20例。</span><span class="english">Methods Mini-anatomized armor plate treatment of metacarpus and phalange fracture 20 cases.</span></p>
 
 <p><span class="chinese">目的评估掌指骨骨折治疗方法的临床效果。</span><span class="english">Objectives To evaluate clinical results of the fracture of the metacarpus and phalanges treated by two methods.</span></p>

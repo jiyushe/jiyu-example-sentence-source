@@ -1,5 +1,7 @@
 # 毛利率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maolilv.md)
+
 <p><span class="chinese">这导致增长很快，但毛利率为负。</span><span class="english">This results in fast growth but negative gross margins.</span></p>
 
 <p><span class="chinese">该公司预计第二季度毛利率将维持在中下水平。</span><span class="english">It expects Q2 gross margins to be in the mid-to-low teens.</span></p>

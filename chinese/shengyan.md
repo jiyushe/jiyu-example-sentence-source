@@ -1,5 +1,7 @@
 # 声言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyan.md)
+
 <p><span class="chinese">他声言忠于自己的国家。</span><span class="english">He affirmed his loyalty to his country.</span></p>
 
 <p><span class="chinese">朱丽叶轻蔑地把头一仰，声言她绝不会嫁给他。</span><span class="english">Juliet tossed her head, and said she would never marry him.</span></p>

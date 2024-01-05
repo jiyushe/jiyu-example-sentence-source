@@ -1,5 +1,7 @@
 # pasture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pasture.md)
+
 <p><span class="chinese">他们放牛去吃草。</span><span class="english">They turned out cows to pasture.</span></p>
 
 <p><span class="chinese">马被拉出去吃草。</span><span class="english">The horse was put out to pasture.</span></p>

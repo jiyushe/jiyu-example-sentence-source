@@ -1,5 +1,7 @@
 # 香火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianghuo.md)
+
 <p><span class="chinese">香火相当旺盛的街边小庙。</span><span class="english">A very prosperous small temple on the side road.</span></p>
 
 <p><span class="chinese">在最古老的毛氏香火堂，也只看到一条梁有雕花。</span><span class="english">In the ancient incense hall also saw Mao, a carved beam.</span></p>

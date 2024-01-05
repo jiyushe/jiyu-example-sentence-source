@@ -1,5 +1,7 @@
 # anoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anoint.md)
+
 <p><span class="chinese">祖马好像在为他的副手担任总统的职务进行铺垫。</span><span class="english">Zuma appeared to anoint his deputy for the job.</span></p>
 
 <p><span class="chinese">把油倒在他们头上，这样才能任命国王。</span><span class="english">You put oil on their heads. That's how you anoint a king.</span></p>

@@ -1,5 +1,7 @@
 # rheumatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheumatic.md)
+
 <p><span class="chinese">什么是风湿性心脏病？</span><span class="english">What is rheumatic heart disease?</span></p>
 
 <p><span class="chinese">风湿热能熏染心脏。</span><span class="english">Rheumatic fever can affect the heart.</span></p>

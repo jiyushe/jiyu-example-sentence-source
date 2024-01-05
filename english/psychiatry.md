@@ -1,5 +1,7 @@
 # psychiatry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychiatry.md)
+
 <p><span class="chinese">这在精神病学上被称作是阴性症状。</span><span class="english">This is called negative symptom in psychiatry.</span></p>
 
 <p><span class="chinese">女性也在练习精神病学，这就是我们常说的移情别恋。</span><span class="english">Women also practise psychiatry. It's called empathy.</span></p>

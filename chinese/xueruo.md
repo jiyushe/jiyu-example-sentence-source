@@ -1,5 +1,7 @@
 # 削弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueruo.md)
+
 <p><span class="chinese">被削弱的斗牛的用处是什么？</span><span class="english">What else does the pitbull do?</span></p>
 
 <p><span class="chinese">它们也许会被进一步削弱。</span><span class="english">They can be whittled down further.</span></p>

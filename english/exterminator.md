@@ -1,5 +1,7 @@
 # exterminator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exterminator.md)
+
 <p><span class="chinese">用杀虫剂时一定要小心。</span><span class="english">Be careful when you use the exterminator.</span></p>
 
 <p><span class="chinese">保存与灭虫专家帮助您在这个免费视频盆栽。</span><span class="english">Save your potted plants with help from an expert exterminator in this free video.</span></p>

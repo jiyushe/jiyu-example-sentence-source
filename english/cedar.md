@@ -1,5 +1,7 @@
 # cedar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cedar.md)
+
 <p><span class="chinese">我砍倒了一棵大柏树。</span><span class="english">I fell'd a cedar tree.</span></p>
 
 <p><span class="chinese">我的雪松木杆上涂了六层漆。</span><span class="english">My cedar receives six coats of lacquer.</span></p>

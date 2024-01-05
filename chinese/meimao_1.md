@@ -1,5 +1,7 @@
 # 美貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meimao_1.md)
+
 <p><span class="chinese">她的美貌迷住了他。</span><span class="english">Her beauty captured him.</span></p>
 
 <p><span class="chinese">她失去了美貌。</span><span class="english">She has lost her beauty.</span></p>

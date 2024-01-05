@@ -1,5 +1,7 @@
 # polarography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polarography.md)
+
 <p><span class="chinese">单扫描示波极谱法。</span><span class="english">Single- sweep polarography was used.</span></p>
 
 <p><span class="chinese">对白钨矿中微量铍的极谱测定进行了探讨。</span><span class="english">Determination of micro beryllium in scheelite by polarography was studied.</span></p>

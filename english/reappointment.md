@@ -1,5 +1,7 @@
 # reappointment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reappointment.md)
+
 <p><span class="chinese">不过,很多因素也可能阻碍贝南克的连任.</span><span class="english">However, Bernanke's reappointment could be derailed by a number of factors.</span></p>
 
 <p><span class="chinese">但一些人认为，经济复苏可能令贝南克再次获得任命之路更为崎岖。</span><span class="english">But some said a recovery could make Mr. Bernanke's road to reappointment more rocky.</span></p>

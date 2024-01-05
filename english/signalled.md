@@ -1,5 +1,7 @@
 # signalled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signalled.md)
+
 <p><span class="chinese">他发信号叫我们停下。</span><span class="english">He signalled to us to stop.</span></p>
 
 <p><span class="chinese">我们招呼他把车开过来。</span><span class="english">We signalled him to pull over.</span></p>

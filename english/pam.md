@@ -1,5 +1,7 @@
 # pam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pam.md)
+
 <p><span class="chinese">我在为潘计划安排一个派对。</span><span class="english">I am planning a party for Pam.</span></p>
 
 <p><span class="chinese">潘和汤姆在看一张广告。</span><span class="english">Pam and Tom are reading an ad.</span></p>

@@ -1,5 +1,7 @@
 # 追偿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuichang.md)
+
 <p><span class="chinese">追偿是一项涉及面广，具有一定法律性的涉外工作。</span><span class="english">Recovery covers a wide range with foreign-related legal work.</span></p>
 
 <p><span class="chinese">本法不削弱任何基于现行法的追偿权。</span><span class="english">This Act does not impair any right of indemnity under existing law.</span></p>

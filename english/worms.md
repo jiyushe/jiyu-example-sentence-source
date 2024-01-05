@@ -1,5 +1,7 @@
 # worms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worms.md)
+
 <p><span class="chinese">虫类和蛇善爬行。</span><span class="english">Worms and snakes crawl.</span></p>
 
 <p><span class="chinese">他们掘蚯蚓做钓饵。</span><span class="english">They dug worms for bait.</span></p>

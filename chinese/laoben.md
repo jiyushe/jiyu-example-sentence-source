@@ -1,5 +1,7 @@
 # 老本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoben.md)
+
 <p><span class="chinese">这是我的老本行。</span><span class="english">It's my line.</span></p>
 
 <p><span class="chinese">吃一首歌老本的家伙。</span><span class="english">The guy with just this one song.</span></p>

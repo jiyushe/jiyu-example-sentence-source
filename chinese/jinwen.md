@@ -1,5 +1,7 @@
 # 今文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinwen.md)
+
 <p><span class="chinese">常州今文经学的兴起，与之有一定的渊源关系。</span><span class="english">It is undeniable that he affected the rise of the Changzhou School.</span></p>
 
 <p><span class="chinese">由是刘歆抛弃了其今文旧说，转而宗主古文经学。</span><span class="english">Was abandoned by its Imafumi old Liu Xin said, instead the sovereign classical classics.</span></p>

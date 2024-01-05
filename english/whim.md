@@ -1,5 +1,7 @@
 # whim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whim.md)
+
 <p><span class="chinese">相反，你可以一时的心血来潮，买花给她一个惊喜。</span><span class="english">Instead, give on a whim.</span></p>
 
 <p><span class="chinese">他屈意迎合她的要求。</span><span class="english">He caters to her every whim.</span></p>

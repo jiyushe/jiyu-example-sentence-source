@@ -1,5 +1,7 @@
 # 有数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshu.md)
+
 <p><span class="chinese">牠的头骨有数根尖状物与瘤状突起。</span><span class="english">Its skull had several spine- and wart-like protrusions.</span></p>
 
 <p><span class="chinese">小心外子委曲被有数的包裹吓了一下。</span><span class="english">The careful ma fantastic is scarcely scared by the scarce parcel.</span></p>

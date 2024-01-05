@@ -1,5 +1,7 @@
 # 细辛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixin_2.md)
+
 <p><span class="chinese">湖北是我国细辛属植物的分布中心之一。</span><span class="english">Hubei is one of the distribution centres of Asarum in China.</span></p>
 
 <p><span class="chinese">目的研究灯盏细辛视神经保护的活性成分。</span><span class="english">OBJECTIVE To investigate the optic neuroprotection components of Erigeron breviscapus.</span></p>

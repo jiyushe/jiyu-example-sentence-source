@@ -1,5 +1,7 @@
 # 共有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyou_1.md)
+
 <p><span class="chinese">她共有五个孩子。</span><span class="english">She had five children.</span></p>
 
 <p><span class="chinese">共有342名儿童死亡。</span><span class="english">There were 342 deaths.</span></p>

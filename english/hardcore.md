@@ -1,5 +1,7 @@
 # hardcore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardcore.md)
+
 <p><span class="chinese">我们就是一个硬核乐队。</span><span class="english">We are just a hardcore band.</span></p>
 
 <p><span class="chinese">更硬的内容现在。</span><span class="english">Now with more hardcore content.</span></p>

@@ -1,5 +1,7 @@
 # hermit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hermit.md)
+
 <p><span class="chinese">我养了只寄居蟹。</span><span class="english">I have a hermit crab.</span></p>
 
 <p><span class="chinese">我命名为避世山！</span><span class="english">I name it hermit mountain!</span></p>

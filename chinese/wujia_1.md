@@ -1,5 +1,7 @@
 # 屋架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujia_1.md)
+
 <p><span class="chinese">早期的定居者用云杉木、枫木和松木建造屋架。</span><span class="english">Early settlers built frames of spruce, maple and pine.</span></p>
 
 <p><span class="chinese">原来屋架全靠墙外回廊上的木柱支撑。</span><span class="english">The original roof trusses on the wall outside the cloister support.</span></p>

@@ -1,5 +1,7 @@
 # klondike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/klondike.md)
+
 <p><span class="chinese">你知道，他是一只克朗代克狗。</span><span class="english">He's a Klondike dog, you know.</span></p>
 
 <p><span class="chinese">你不会是他在克朗代克的哥哥吧！</span><span class="english">You're not her Klondike brother!</span></p>

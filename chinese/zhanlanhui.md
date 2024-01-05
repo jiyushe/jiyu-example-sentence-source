@@ -1,5 +1,7 @@
 # 展览会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanlanhui.md)
+
 <p><span class="chinese">一个给O庆祝生日的有趣展览会啊。</span><span class="english">A fun fair for O's birthday.</span></p>
 
 <p><span class="chinese">展览会明天开幕。</span><span class="english">The exhibition will open tomorrow.</span></p>

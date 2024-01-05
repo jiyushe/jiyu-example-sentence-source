@@ -1,5 +1,7 @@
 # kunlun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kunlun.md)
+
 <p><span class="chinese">你好！请问是昆仑饭店吗？</span><span class="english">Hello, is this Kunlun Hotel?</span></p>
 
 <p><span class="chinese">去昆仑饭店，请走B出口。</span><span class="english">Take Exit B for the Kunlun Hotel.</span></p>

@@ -1,5 +1,7 @@
 # 大动脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadongmai.md)
+
 <p><span class="chinese">这些血管是两个大动脉。</span><span class="english">These vessels are the two main arteries.</span></p>
 
 <p><span class="chinese">瓜达尔正好位于中国重要的石油大动脉上。</span><span class="english">Gwadar lies right on China’s vital oil artery.</span></p>

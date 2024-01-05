@@ -1,5 +1,7 @@
 # 街巷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiexiang.md)
+
 <p><span class="chinese">漫水街巷形单踱步。</span><span class="english">Of walking where the streets are water.</span></p>
 
 <p><span class="chinese">真有更多的法鲁比街巷。</span><span class="english">There really is more to Faro than winding streets.</span></p>

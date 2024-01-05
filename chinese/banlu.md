@@ -1,5 +1,7 @@
 # 半路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banlu.md)
+
 <p><span class="chinese">不过，克劳斯却“半路杀出”。</span><span class="english">But not if Klaus gets his way.</span></p>
 
 <p><span class="chinese">跑到半路我确实感觉不错。</span><span class="english">Halfway thro my run I realized I actually felt good.</span></p>

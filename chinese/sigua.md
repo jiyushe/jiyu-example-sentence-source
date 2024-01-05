@@ -1,5 +1,7 @@
 # 丝瓜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sigua.md)
+
 <p><span class="chinese">不只是丝瓜，人也是一样。</span><span class="english">Luffa is not just people as well.</span></p>
 
 <p><span class="chinese">女性，丝瓜可以帮您调理月经！</span><span class="english">Female, loofah can help you menstruation!</span></p>

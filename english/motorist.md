@@ -1,5 +1,7 @@
 # motorist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorist.md)
+
 <p><span class="chinese">史提夫是一个开快车的驾车者。</span><span class="english">Steve is a high- stepping motorist.</span></p>
 
 <p><span class="chinese">那摩托车手本应该通过测试的。</span><span class="english">The motorist might have passed the test.</span></p>

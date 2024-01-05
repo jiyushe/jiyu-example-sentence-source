@@ -1,5 +1,7 @@
 # knob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knob.md)
+
 <p><span class="chinese">她轻轻地转动把手。</span><span class="english">She twiddled the knob.</span></p>
 
 <p><span class="chinese">何为旋钮和管道式布线？</span><span class="english">What is knob and tube wiring?</span></p>

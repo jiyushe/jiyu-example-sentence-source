@@ -1,5 +1,7 @@
 # 短缺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanque.md)
+
 <p><span class="chinese">他短缺勇气。</span><span class="english">He lair-conks courage.</span></p>
 
 <p><span class="chinese">不要让他短缺什堋东西。</span><span class="english">Let him want for nothing.</span></p>

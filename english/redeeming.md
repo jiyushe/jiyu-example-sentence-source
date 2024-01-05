@@ -1,5 +1,7 @@
 # redeeming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redeeming.md)
+
 <p><span class="chinese">要爱惜光阴，因为现今的世代邪恶。</span><span class="english">Redeeming the time, because the days are evil.</span></p>
 
 <p><span class="chinese">你感觉丹照旧有可挽回的价值啦?。</span><span class="english">You actually think Dan has a redeeming quality?</span></p>

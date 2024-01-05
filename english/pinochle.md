@@ -1,5 +1,7 @@
 # pinochle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinochle.md)
+
 <p><span class="chinese">托尼来和我们全家打皮纳克尔牌。</span><span class="english">Tony came over for our family pinochle matches.</span></p>
 
 <p><span class="chinese">了解如何评分你的手在打牌，在这个自由系列影片将有你在任何时间掌握皮诺奇勒。</span><span class="english">Learn how to score your hand in pinochle in this free video series that will have you mastering pinochle in no time.</span></p>

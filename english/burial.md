@@ -1,5 +1,7 @@
 # burial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burial.md)
+
 <p><span class="chinese">葬礼意义重大</span><span class="english">Burial is very critical.</span></p>
 
 <p><span class="chinese">来看“家冢“吧。</span><span class="english">Look at "Home Burial" here.</span></p>

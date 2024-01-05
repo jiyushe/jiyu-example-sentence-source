@@ -1,5 +1,7 @@
 # shaver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaver.md)
+
 <p><span class="chinese">鲍勃，那是我的剃须刀。</span><span class="english">Bob, is that my shaver?</span></p>
 
 <p><span class="chinese">正剃须的我那时真的很狼狈。</span><span class="english">I’m rather a messy shaver.</span></p>

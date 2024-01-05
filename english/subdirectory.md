@@ -1,5 +1,7 @@
 # subdirectory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subdirectory.md)
+
 <p><span class="chinese">我如何将哲基尔部署到子目录?。</span><span class="english">How do I deploy Jekyll to a subdirectory?</span></p>
 
 <p><span class="chinese">用子目录比用子域效果更好。</span><span class="english">This is more true with the subdirectory than the subdomain.</span></p>

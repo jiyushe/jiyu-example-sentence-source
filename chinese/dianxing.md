@@ -1,5 +1,7 @@
 # 典型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianxing.md)
+
 <p><span class="chinese">这就是典型的德国人。</span><span class="english">Typical Germans.</span></p>
 
 <p><span class="chinese">关于什么,典型的问题</span><span class="english">In what? Normally.</span></p>

@@ -1,5 +1,7 @@
 # transfiguration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transfiguration.md)
+
 <p><span class="chinese">阿拉斯特，我们从不用变形魔法惩罚学生！</span><span class="english">We never use transfiguration as a punishment!</span></p>
 
 <p><span class="chinese">柔软无尘纸，不曲扭，不变形。</span><span class="english">Soft pure-paper, no twist, no transfiguration.</span></p>

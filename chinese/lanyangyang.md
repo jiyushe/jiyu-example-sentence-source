@@ -1,5 +1,7 @@
 # 懒洋洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanyangyang.md)
+
 <p><span class="chinese">她总是懒洋洋的，富于肉感。</span><span class="english">She had a lazy sensual body.</span></p>
 
 <p><span class="chinese">他懒洋洋地靠在扶手椅里。</span><span class="english">He was lolling in an armchair.</span></p>

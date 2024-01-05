@@ -1,5 +1,7 @@
 # 万事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanshi.md)
+
 <p><span class="chinese">四月万事不烦忧。</span><span class="english">No worries for April.</span></p>
 
 <p><span class="chinese">万事都有一个尽头。</span><span class="english">Everything has an end.</span></p>

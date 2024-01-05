@@ -1,5 +1,7 @@
 # sawtooth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sawtooth.md)
+
 <p><span class="chinese">但中国股市的波动比西方更为剧烈。</span><span class="english">But China's sawtooth markets are more jagged than those in the west.</span></p>
 
 <p><span class="chinese">摩擦力曲线中的小锯齿峰值与滑动速度呈线性关系。</span><span class="english">The magnitude of the small " sawtooth " is linear to the sliding speed.</span></p>

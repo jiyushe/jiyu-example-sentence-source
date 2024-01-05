@@ -1,5 +1,7 @@
 # 灶王爷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaowangye.md)
+
 <p><span class="chinese">他们正在给灶王爷提供贡品。</span><span class="english">They are offering sacrifice to the Kitchen God.</span></p>
 
 <p><span class="chinese">有时，画像中的灶王爷是站在一匹马的旁边。</span><span class="english">Sometimes, he is shown standing next to a horse.</span></p>

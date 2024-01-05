@@ -1,5 +1,7 @@
 # sidestep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidestep.md)
+
 <p><span class="chinese">陶尓迷在这样的剧情中似乎远离现实。</span><span class="english">Amid such drama, Taormina seemed to sidestep reality.</span></p>
 
 <p><span class="chinese">你应尽可能地回避像这类敏感的问题。</span><span class="english">Try your best to sidestep for sensitive issues like this.</span></p>

@@ -1,5 +1,7 @@
 # explosion 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explosion.md)
+
 <p><span class="chinese">我听到一些爆炸声。</span><span class="english">I heard some explosion.</span></p>
 
 <p><span class="chinese">爆炸使她失明。</span><span class="english">The explosion blinded her.</span></p>

@@ -1,5 +1,7 @@
 # israel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/israel.md)
+
 <p><span class="chinese">这样，他就改名叫以色列。</span><span class="english">So he named him Israel.</span></p>
 
 <p><span class="chinese">这样亚扪人就被以色列人制伏了。</span><span class="english">Thus Israel subdued Ammon.</span></p>

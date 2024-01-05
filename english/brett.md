@@ -1,5 +1,7 @@
 # brett
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brett.md)
+
 <p><span class="chinese">人们把法佛尔称为不老的神话。</span><span class="english">People call Brett Favre the ageless one.</span></p>
 
 <p><span class="chinese">布雷特也已经学会了感激蒂娜和她做的晚餐。</span><span class="english">Brett has learned to appreciate Tina. And her cooking.</span></p>

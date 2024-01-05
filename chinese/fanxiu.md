@@ -1,5 +1,7 @@
 # 翻修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanxiu.md)
+
 <p><span class="chinese">他们翻修了旧家具。</span><span class="english">They worked over the furniture.</span></p>
 
 <p><span class="chinese">我们需要全部重新翻修。</span><span class="english">We needed to completely rebuild.</span></p>

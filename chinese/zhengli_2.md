@@ -1,5 +1,7 @@
 # 正立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengli_2.md)
+
 <p><span class="chinese">伽弗洛什正立在她们背后听。</span><span class="english">Gavroche had stopped behind her and was listening.</span></p>
 
 <p><span class="chinese">属于林内乡的诗人有林正立与许绍明等人。</span><span class="english">The poets from Lin Nei Village were Lin Cheng-li, and Hsu Shao-ming.</span></p>

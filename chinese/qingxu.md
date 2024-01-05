@@ -1,5 +1,7 @@
 # 情绪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxu.md)
+
 <p><span class="chinese">我的话题是情绪。</span><span class="english">My topic is moods.</span></p>
 
 <p><span class="chinese">我对他没有任何怨恨情绪。</span><span class="english">I bear him no grudge.</span></p>

@@ -1,5 +1,7 @@
 # 合用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyong.md)
+
 <p><span class="chinese">为1-8岁儿童设计，对各阶段年数都合用有趣。</span><span class="english">Created for ages 1-8, yet fun for all.</span></p>
 
 <p><span class="chinese">5个孩子合用一本课本。</span><span class="english">Every five children shared one textbook.</span></p>

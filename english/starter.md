@@ -1,5 +1,7 @@
 # starter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starter.md)
+
 <p><span class="chinese">我是一个慢热的球员？</span><span class="english">I'm not a starter?</span></p>
 
 <p><span class="chinese">狐狸当发令员。</span><span class="english">The Fox is the starter.</span></p>

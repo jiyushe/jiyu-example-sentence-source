@@ -1,5 +1,7 @@
 # devotional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devotional.md)
+
 <p><span class="chinese">我是写作的最热心的侍仆。</span><span class="english">I was writing’s most devotional handmaiden.</span></p>
 
 <p><span class="chinese">无论在任何情况下都不应停止奉爱服务。</span><span class="english">Devotional service must continue under all circumstances.</span></p>

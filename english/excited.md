@@ -1,5 +1,7 @@
 # excited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excited.md)
+
 <p><span class="chinese">你焦灼、兴奋。</span><span class="english">You're excited.</span></p>
 
 <p><span class="chinese">那消息使我们心情激动。</span><span class="english">The news excited us.</span></p>

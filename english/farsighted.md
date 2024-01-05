@@ -1,5 +1,7 @@
 # farsighted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farsighted.md)
+
 <p><span class="chinese">我们通常天生远视。</span><span class="english">We are normally born farsighted.</span></p>
 
 <p><span class="chinese">我们需要放开胸襟，放长眼光。</span><span class="english">We need to be open-minded and farsighted.</span></p>

@@ -1,5 +1,7 @@
 # 生儿育女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengeryunv.md)
+
 <p><span class="chinese">你有责任去生儿育女。</span><span class="english">Your duty to procreate.</span></p>
 
 <p><span class="chinese">吉姆其实并不急于娶亲成家，生儿育女。</span><span class="english">Jim wasn't fundamentally mad about a home and kids.</span></p>

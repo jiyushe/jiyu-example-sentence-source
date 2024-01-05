@@ -1,5 +1,7 @@
 # 蜂拥而上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyongershang.md)
+
 <p><span class="chinese">律师是从来不会行动缓慢的，他们已经蜂拥而上。</span><span class="english">Lawyers, who are never slow to react, are swarming.</span></p>
 
 <p><span class="chinese">我认为他们蜂拥而上并非因为我是女的。</span><span class="english">I don't think they're piling on because I'm a woman.</span></p>

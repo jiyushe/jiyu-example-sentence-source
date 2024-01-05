@@ -1,5 +1,7 @@
 # 涌泉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongquan.md)
+
 <p><span class="chinese">滴水之恩，当涌泉相报。</span><span class="english">The water-en, when the springs of newspaper.</span></p>
 
 <p><span class="chinese">卓耿巢穴外的涌泉池内还有小鱼。</span><span class="english">There were fish in the spring-fed pool by Drogon's cave.</span></p>

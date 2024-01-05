@@ -1,5 +1,7 @@
 # aseptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aseptic.md)
+
 <p><span class="chinese">请在使用该分离液时进行无菌操作。</span><span class="english">Use aseptic techniques when handling this medium.</span></p>
 
 <p><span class="chinese">做无菌操作前，你应作什么准备？</span><span class="english">What preparations should you make before conducting aseptic technique?</span></p>

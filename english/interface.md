@@ -1,5 +1,7 @@
 # interface
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interface.md)
+
 <p><span class="chinese">带外接警号接口。</span><span class="english">No. band Alarm interface.</span></p>
 
 <p><span class="chinese">串行接口控制。</span><span class="english">Serial interface control.</span></p>

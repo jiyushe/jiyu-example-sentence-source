@@ -1,5 +1,7 @@
 # 究竟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiujing_1.md)
+
 <p><span class="chinese">根究竟是什么？</span><span class="english">What is Roots?</span></p>
 
 <p><span class="chinese">究竟是什么缺陷？</span><span class="english">What's the flaw?</span></p>

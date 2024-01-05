@@ -1,5 +1,7 @@
 # knocker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knocker.md)
+
 <p><span class="chinese">这位推销员猛拍门环。</span><span class="english">The salesman pounded the door knocker.</span></p>
 
 <p><span class="chinese">而狼则径直朝她祖母的房子走去，敲了敲门。</span><span class="english">One that raps or strikes, especially a door knocker.</span></p>

@@ -1,5 +1,7 @@
 # crashworthiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crashworthiness.md)
+
 <p><span class="chinese">针对某重型载重汽车保险杠开展低速碰撞安全性研究。</span><span class="english">The crashworthiness of truck bumper in a low velocity crash was discussed.</span></p>
 
 <p><span class="chinese">简要论述了汽车耐撞性解析的基本方程及计算方法。</span><span class="english">This paper presents the basic equations and algorithm of vehicle crashworthiness briefly.</span></p>

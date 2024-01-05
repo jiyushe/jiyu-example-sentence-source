@@ -1,5 +1,7 @@
 # 取舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qushe.md)
+
 <p><span class="chinese">我也不知道，这是种取舍。</span><span class="english">and I don't know, it's a trade off.</span></p>
 
 <p><span class="chinese">作为一个读者，你得做出取舍。</span><span class="english">As a reader, you face trade-offs with both.</span></p>

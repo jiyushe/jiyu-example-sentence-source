@@ -1,5 +1,7 @@
 # curly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curly.md)
+
 <p><span class="chinese">这些是卷曲线。</span><span class="english">These are curly lines.</span></p>
 
 <p><span class="chinese">卷发在这家是世代相传的。</span><span class="english">Curly hair runs in the blood.</span></p>

@@ -1,5 +1,7 @@
 # 额角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ejiao_1.md)
+
 <p><span class="chinese">他额角上暴起了青筋。</span><span class="english">Blue veins stood out on his temples.</span></p>
 
 <p><span class="chinese">四十个冬天将围攻你的额角。</span><span class="english">When forty winters shall besiege thy brow.</span></p>

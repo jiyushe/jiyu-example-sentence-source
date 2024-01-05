@@ -1,5 +1,7 @@
 # dsl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dsl.md)
+
 <p><span class="chinese">为什么会选择这幅照片作为本书的封面呢？</span><span class="english">Why did you choose this picture for your DSL book?</span></p>
 
 <p><span class="chinese">此外，在一开始时就要考虑你DSL的范围。</span><span class="english">Also consider the scope of your DSL in the beginning.</span></p>

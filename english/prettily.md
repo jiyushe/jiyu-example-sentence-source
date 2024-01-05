@@ -1,5 +1,7 @@
 # prettily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prettily.md)
+
 <p><span class="chinese">屋顶精致地做成圆拱形。</span><span class="english">The roof was prettily groined.</span></p>
 
 <p><span class="chinese">你看！汤姆写得多好啊！</span><span class="english">My eye! How prettily Tom writes!</span></p>

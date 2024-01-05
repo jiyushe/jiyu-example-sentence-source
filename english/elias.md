@@ -1,5 +1,7 @@
 # elias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elias.md)
+
 <p><span class="chinese">我的名字叫伊莱亚斯。</span><span class="english">My name is Elias.</span></p>
 
 <p><span class="chinese">但别人说，是以利亚。</span><span class="english">Others said, That it is Elias.</span></p>

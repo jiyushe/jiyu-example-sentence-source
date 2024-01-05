@@ -1,5 +1,7 @@
 # 敬爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingai.md)
+
 <p><span class="chinese">敬爱的总理，我是一名医生。</span><span class="english">Dear Premier, I am a doctor.</span></p>
 
 <p><span class="chinese">敬爱的老师，我真想念您。</span><span class="english">I do miss you, dear teacher.</span></p>

@@ -1,5 +1,7 @@
 # 公家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjia.md)
+
 <p><span class="chinese">有着一把公家的钥匙！</span><span class="english">A government key!</span></p>
 
 <p><span class="chinese">我在公家机关上班。</span><span class="english">I work at a govenment office.</span></p>

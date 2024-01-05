@@ -1,5 +1,7 @@
 # mangalore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mangalore.md)
+
 <p><span class="chinese">她的祖先是从门格洛尔腥黑穗病社区。</span><span class="english">Her ancestors are from the Bunt community of Mangalore.</span></p>
 
 <p><span class="chinese">门格洛尔机场是从门格洛尔市约19英里。</span><span class="english">Mangalore airport is about 19 miles from Mangalore city.</span></p>

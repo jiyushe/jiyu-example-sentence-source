@@ -1,5 +1,7 @@
 # goblin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goblin.md)
+
 <p><span class="chinese">小妖精猛扑向渔夫。</span><span class="english">The goblin pounced on the fisherman.</span></p>
 
 <p><span class="chinese">哦哦，那个地精牧师竟然值1000XP！</span><span class="english">Oooh, that goblin cleric was worth 1000XP!</span></p>

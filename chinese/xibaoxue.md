@@ -1,5 +1,7 @@
 # 细胞学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibaoxue.md)
+
 <p><span class="chinese">谁堪称细胞学家？</span><span class="english">Who Are Cytologist?</span></p>
 
 <p><span class="chinese">诊断通过取肿块组织进行细胞学分析。</span><span class="english">Diagnosis is made through cytology of the mass.</span></p>

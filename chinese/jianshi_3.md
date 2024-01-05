@@ -1,5 +1,7 @@
 # 监视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshi_3.md)
+
 <p><span class="chinese">记录和监视。</span><span class="english">Logging and monitoring.</span></p>
 
 <p><span class="chinese">她的行动需要加以监视。</span><span class="english">Her actions bear watching.</span></p>

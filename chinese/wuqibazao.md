@@ -1,5 +1,7 @@
 # 乌七八糟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqibazao.md)
+
 <p><span class="chinese">你怎麽能看这种乌七八糟的东西?。</span><span class="english">How can you read such filth?</span></p>
 
 <p><span class="chinese">他们把这个世界组织搞得乌七八糟。</span><span class="english">They made a mess of this world organization.</span></p>

@@ -1,5 +1,7 @@
 # 百分数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baifenshu.md)
+
 <p><span class="chinese">我向你要的百分数在哪里？</span><span class="english">Where are the percentages I asked you for?</span></p>
 
 <p><span class="chinese">相对湿度采用百分数表示。</span><span class="english">Relative humidity is expressed as percentage.</span></p>

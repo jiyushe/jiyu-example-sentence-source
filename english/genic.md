@@ -1,5 +1,7 @@
 # genic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genic.md)
+
 <p><span class="chinese">肿瘤从本质上是基因病。</span><span class="english">Tumors are genic diseases in essence.</span></p>
 
 <p><span class="chinese">其不育性由一对隐性核基因控制。</span><span class="english">Its sterility was controlled by a recessive genic gene.</span></p>

@@ -1,5 +1,7 @@
 # monohydrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monohydrate.md)
+
 <p><span class="chinese">以确定影响暖气的样本，葡萄糖一水合物。</span><span class="english">To determine the effects of heating a sample of Dextrose Monohydrate.</span></p>
 
 <p><span class="chinese">值得指出的是，在本文献中没有提到一水化物。</span><span class="english">It is worth noting that the monohydrate is not mentioned in the literature.</span></p>

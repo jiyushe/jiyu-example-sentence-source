@@ -1,5 +1,7 @@
 # pathless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathless.md)
+
 <p><span class="chinese">真理是无路之国。</span><span class="english">Truth is a pathless land.</span></p>
 
 <p><span class="chinese">真理是无路可循的国度。</span><span class="english">Truth is a pathless land.</span></p>

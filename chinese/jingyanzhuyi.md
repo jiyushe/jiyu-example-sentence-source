@@ -1,5 +1,7 @@
 # 经验主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyanzhuyi.md)
+
 <p><span class="chinese">好，这是一种经验主义。</span><span class="english">OK, so that's one kind of empiricism.</span></p>
 
 <p><span class="chinese">经验主义者有洛克，柏克莱和休谟。</span><span class="english">And the empiricists are Locke, Berkeley and Hume.</span></p>

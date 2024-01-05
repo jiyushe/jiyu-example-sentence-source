@@ -1,5 +1,7 @@
 # communicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communicate.md)
+
 <p><span class="chinese">并且和他们沟通。</span><span class="english">And communicate that to them.</span></p>
 
 <p><span class="chinese">欢迎各位与我交流！</span><span class="english">Welcom to communicate with me!</span></p>

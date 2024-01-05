@@ -1,5 +1,7 @@
 # litigation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litigation.md)
+
 <p><span class="chinese">他们不再提出诉讼。</span><span class="english">They desisted from further litigation.</span></p>
 
 <p><span class="chinese">什么是特许人的诉讼历史？</span><span class="english">What is the franchisor's litigation history?</span></p>

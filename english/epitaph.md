@@ -1,5 +1,7 @@
 # epitaph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epitaph.md)
+
 <p><span class="chinese">墓志铭载其为“五福是均”之人。</span><span class="english">Epitaph set it as "Dr. Chen is both" person.</span></p>
 
 <p><span class="chinese">理智是感性的墓志铭。</span><span class="english">Wit is the epitaph of an emotion. ----Nietzche.</span></p>

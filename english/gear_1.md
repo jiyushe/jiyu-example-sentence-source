@@ -1,5 +1,7 @@
 # gear 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gear_1.md)
+
 <p><span class="chinese">齿轮箱。</span><span class="english">Gear box.</span></p>
 
 <p><span class="chinese">带好安全设备。</span><span class="english">Carry safety gear.</span></p>

@@ -1,5 +1,7 @@
 # illegitimacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illegitimacy.md)
+
 <p><span class="chinese">在西方，这种压力导致离婚率和私生子女比例的上升。</span><span class="english">In the West the upshot has been divorce and illegitimacy.</span></p>
 
 <p><span class="chinese">亚洲大部分，结婚是广为人知的，但私生子的情况却是寥寥无几的。</span><span class="english">In most of Asia, marriage is widespread and illegitimacy almost unknown.</span></p>

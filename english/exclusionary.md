@@ -1,5 +1,7 @@
 # exclusionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exclusionary.md)
+
 <p><span class="chinese">戏未演完，叔父坐立不安，仓皇退席。</span><span class="english">Play not finish, uncle fidgeting, cut exclusionary.</span></p>
 
 <p><span class="chinese">分析非法证据排除规则的利与弊。</span><span class="english">Analyze the advantage and disadvantage of the exclusionary rule.</span></p>

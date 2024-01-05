@@ -1,5 +1,7 @@
 # 财团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caituan.md)
+
 <p><span class="chinese">这位稻川老闆补充说稻川财团不再为布什集团工作。</span><span class="english">The Inagawa no longer work for Bush, the boss added.</span></p>
 
 <p><span class="chinese">英国石油为首的财团可以依靠中石油的经验。</span><span class="english">The BP consortium can rely on the experience of CNPC.</span></p>

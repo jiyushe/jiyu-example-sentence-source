@@ -1,5 +1,7 @@
 # thermostable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermostable.md)
+
 <p><span class="chinese">另外，还讨论了周期性谐振腔的热稳条件问题。</span><span class="english">The thermostable conditions of Periodic resonators is also discussed.</span></p>
 
 <p><span class="chinese">一种耐热过敏原会导致芹菜-艾蒿敏感症。</span><span class="english">A thermostable allergen is involved in celery -mug wort-allergic patients.</span></p>

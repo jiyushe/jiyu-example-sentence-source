@@ -1,5 +1,7 @@
 # boundlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boundlessly.md)
+
 <p><span class="chinese">读书是一种静态的学习，旅游则是动态的行动力与无穷的潜力。</span><span class="english">But while learning from books is static, travel is dynamic and boundlessly fruitful.</span></p>
 
 <p><span class="chinese">实体经济的竞争力越来越小，虚拟经济无限膨胀。</span><span class="english">The real economy competition is more and more small , virtual economy expands boundlessly.</span></p>

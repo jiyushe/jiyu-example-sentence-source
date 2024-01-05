@@ -1,5 +1,7 @@
 # altair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altair.md)
+
 <p><span class="chinese">牵牛星与织女和天津四相比，光亮度还是略为逊色。</span><span class="english">Altair is not as bright as Vega and Deneb.</span></p>
 
 <p><span class="chinese">2020年，“猎户座”会和“牛郎星”月球着陆装置协同工作。</span><span class="english">By 2020, Orion will be paired with the lunar lander Altair.</span></p>

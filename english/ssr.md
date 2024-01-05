@@ -1,5 +1,7 @@
 # ssr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ssr.md)
+
 <p><span class="chinese">SSR检测采用电刺激法进行。</span><span class="english">SSR was determined by means of electric stimulation.</span></p>
 
 <p><span class="chinese">1924年的10月27日，乌兹别克苏维埃社会主义共和国于苏联成立。</span><span class="english">October 27,1924, The Uzbek SSR is founded in the Soviet Union.</span></p>

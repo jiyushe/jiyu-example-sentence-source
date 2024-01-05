@@ -1,5 +1,7 @@
 # 蚀刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shike_1.md)
+
 <p><span class="chinese">沉积，蚀刻，再重复</span><span class="english">Deposit, Etch, Repeat</span></p>
 
 <p><span class="chinese">凯西，我喜欢这些蚀刻画。</span><span class="english">I like these etchings, Kathy.</span></p>

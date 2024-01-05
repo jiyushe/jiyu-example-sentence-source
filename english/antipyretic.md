@@ -1,5 +1,7 @@
 # antipyretic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antipyretic.md)
+
 <p><span class="chinese">消暑解热毒，常饮绿豆粥。</span><span class="english">Refreshing antipyretic drugs, consumption of a variety mungbean porridge.</span></p>
 
 <p><span class="chinese">对发热病人，这种退热作用通常迅速有效。</span><span class="english">This antipyretic action is usually rapid and effective in febrile patients.</span></p>

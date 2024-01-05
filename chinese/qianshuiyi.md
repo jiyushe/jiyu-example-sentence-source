@@ -1,5 +1,7 @@
 # 潜水衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianshuiyi.md)
+
 <p><span class="chinese">我需要买一件潜水衣。</span><span class="english">I need to buy a wetsuit.</span></p>
 
 <p><span class="chinese">钓鱼裤，潜水衣，护膝护腕。</span><span class="english">Fishing Pants, Diving Clothes, Kneepads.</span></p>

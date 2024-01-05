@@ -1,5 +1,7 @@
 # vasospasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasospasm.md)
+
 <p><span class="chinese">有6例发生血管痉挛。</span><span class="english">Vasospasm occurred in 6 patients.</span></p>
 
 <p><span class="chinese">可能由于血管狭窄或和血管痉挛所致。</span><span class="english">Those may be caused by vasospasm and angiostenosis.</span></p>

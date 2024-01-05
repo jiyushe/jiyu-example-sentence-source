@@ -1,5 +1,7 @@
 # piquet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piquet.md)
+
 <p><span class="chinese">莱科宁将会面对小皮奎特。</span><span class="english">Raikkonen will race against Piquet Jr.</span></p>
 
 <p><span class="chinese">你觉得这对少爷的将来会有怎样的影响？</span><span class="english">Q. What is your reaction to the future of compatriot Nelson Piquet?</span></p>

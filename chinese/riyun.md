@@ -1,5 +1,7 @@
 # 日晕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riyun.md)
+
 <p><span class="chinese">日晕三更雨，月晕午时风。</span><span class="english">Halo around the sun or moon , rain or snowsoon.</span></p>
 
 <p><span class="chinese">“日晕”是一种正常的天气现象，多出现在春夏季节。</span><span class="english">"Corona" is a normal weather phenomenon, and more appear in the spring and summer.</span></p>

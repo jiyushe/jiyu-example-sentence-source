@@ -1,5 +1,7 @@
 # 作风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuofeng.md)
+
 <p><span class="chinese">这是十足的无赖作风。</span><span class="english">This is flat knavery.</span></p>
 
 <p><span class="chinese">这是一种儒家作风。</span><span class="english">It is the Confucian way.</span></p>

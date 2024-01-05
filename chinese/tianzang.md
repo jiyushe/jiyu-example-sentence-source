@@ -1,5 +1,7 @@
 # 天葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzang.md)
+
 <p><span class="chinese">天葬是不允许观看的。</span><span class="english">Celestial burial is not to be watched.</span></p>
 
 <p><span class="chinese">当一个乞丐去世，他们常为其天葬。</span><span class="english">When beggars die, they often pay for their burial.</span></p>

@@ -1,5 +1,7 @@
 # 信步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinbu.md)
+
 <p><span class="chinese">他信步朝办公室走去。</span><span class="english">He toddled down to the office.</span></p>
 
 <p><span class="chinese">那工具信步穿越火墙。</span><span class="english">The thing stepped through the wall of fire.</span></p>

@@ -1,5 +1,7 @@
 # autocar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autocar.md)
+
 <p><span class="chinese">这是一个干净的资产负债表的设计，“有消息人士告诉汽车。</span><span class="english">It is a clean sheet design, " a source told Autocar ."</span></p>
 
 <p><span class="chinese">凭这张单字，我可以随便向哪一家汽车学校报名吗？</span><span class="english">May I sign up any autocar schools as I like just with this document? 2.</span></p>

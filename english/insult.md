@@ -1,5 +1,7 @@
 # insult
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insult.md)
+
 <p><span class="chinese">那是一个可恶的侮辱。</span><span class="english">That was a doggone insult.</span></p>
 
 <p><span class="chinese">他所说的话含有侮辱的意味。</span><span class="english">What he said stank of insult.</span></p>

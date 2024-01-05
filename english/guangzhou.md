@@ -1,5 +1,7 @@
 # guangzhou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guangzhou.md)
+
 <p><span class="chinese">广州火车站？</span><span class="english">Guangzhou train station?</span></p>
 
 <p><span class="chinese">他们开船驶向广州。</span><span class="english">They sailed for Guangzhou.</span></p>

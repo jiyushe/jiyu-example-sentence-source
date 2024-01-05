@@ -1,5 +1,7 @@
 # muggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muggy.md)
+
 <p><span class="chinese">又闷又热。</span><span class="english">It is muggy and hot.</span></p>
 
 <p><span class="chinese">太难受了。南京的秋季啊天气闷热。</span><span class="english">It's muggy in nanjing in autumn.</span></p>

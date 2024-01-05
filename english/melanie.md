@@ -1,5 +1,7 @@
 # melanie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melanie.md)
+
 <p><span class="chinese">你是不爱梅兰妮的。</span><span class="english">You don’t love Melanie.</span></p>
 
 <p><span class="chinese">是，她的名字是麦兰妮。</span><span class="english">Yes, her name is Melanie.</span></p>

@@ -1,5 +1,7 @@
 # frosted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frosted.md)
+
 <p><span class="chinese">毛玻璃是半透明的。</span><span class="english">Frosted glass is translucent.</span></p>
 
 <p><span class="chinese">田野里全都结了霜。</span><span class="english">The fields have frosted over.</span></p>

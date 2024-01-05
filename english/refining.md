@@ -1,5 +1,7 @@
 # refining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refining.md)
+
 <p><span class="chinese">我们会修改日程。</span><span class="english">We'd be typically refining the schedule.</span></p>
 
 <p><span class="chinese">此时，我正琢磨我的创造性工作。</span><span class="english">At the moment, I'm refining my creative work.</span></p>

@@ -1,5 +1,7 @@
 # sla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sla.md)
+
 <p><span class="chinese">为了反映任何改变，更新阀值策略和SLA。</span><span class="english">To reflect any changes, update the threshold policies and SLA.</span></p>
 
 <p><span class="chinese">一个从四面八方穿过灌木丛过来的骑兵队发起了令人恐怖的猛攻。</span><span class="english">A sabre sla mmed fearsomely through the thicket in all directions.</span></p>

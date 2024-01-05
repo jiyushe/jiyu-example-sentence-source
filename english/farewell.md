@@ -1,5 +1,7 @@
 # farewell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farewell.md)
+
 <p><span class="chinese">海之告别曲。</span><span class="english">Sea farewell song.</span></p>
 
 <p><span class="chinese">这是我们的辞别吗?。</span><span class="english">Is this our farewell?</span></p>

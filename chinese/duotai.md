@@ -1,5 +1,7 @@
 # 堕胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duotai.md)
+
 <p><span class="chinese">堕胎是应该受诅咒的罪恶。</span><span class="english">Abortion is an abominable sin.</span></p>
 
 <p><span class="chinese">堕胎从道德上讲合乎情理吗？</span><span class="english">Is abortion morally defensible?</span></p>

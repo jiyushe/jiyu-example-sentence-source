@@ -1,5 +1,7 @@
 # lorry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lorry.md)
+
 <p><span class="chinese">他们给卡车装完货物。</span><span class="english">They loaded up the lorry.</span></p>
 
 <p><span class="chinese">恒昌行第一部货车。</span><span class="english">Hang Cheung Hong's first lorry.</span></p>

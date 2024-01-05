@@ -1,5 +1,7 @@
 # 草药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoyao.md)
+
 <p><span class="chinese">你有草药茶吗？</span><span class="english">Do you have herbal tea?</span></p>
 
 <p><span class="chinese">我常使用草药疗法。</span><span class="english">I often use herbal remedies.</span></p>

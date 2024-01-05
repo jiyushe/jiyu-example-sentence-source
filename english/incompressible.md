@@ -1,5 +1,7 @@
 # incompressible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incompressible.md)
+
 <p><span class="chinese">刹车油的一个重要特性是它不可压缩。</span><span class="english">An important characteristic of brake fluid is that it is incompressible.</span></p>
 
 <p><span class="chinese">分别对可压缩叶栅流场的亚音速和跨音速流动进行了数值模拟计算。</span><span class="english">Some cases of compressible flow as well as incompressible flow are presented.</span></p>

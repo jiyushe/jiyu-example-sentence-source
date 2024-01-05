@@ -1,5 +1,7 @@
 # 不耐烦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bunaifan.md)
+
 <p><span class="chinese">他变得不耐烦了。</span><span class="english">He became' impa'tient.</span></p>
 
 <p><span class="chinese">我后悔甚不耐烦。</span><span class="english">I am weary with repenting.</span></p>

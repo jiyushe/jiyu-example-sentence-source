@@ -1,5 +1,7 @@
 # deification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deification.md)
+
 <p><span class="chinese">你创造了一个神化，创造了一个奇迹。</span><span class="english">You created a deification and a miracle.</span></p>
 
 <p><span class="chinese">把金钱奉为神明，它就会象魔鬼一样降祸于你。</span><span class="english">Deification of the money, it will be like the devil, evil to you.</span></p>

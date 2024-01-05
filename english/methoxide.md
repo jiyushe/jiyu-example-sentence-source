@@ -1,5 +1,7 @@
 # methoxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methoxide.md)
+
 <p><span class="chinese">四丁基溴化铵和甲醇钠构成该反应的双组份催化剂。</span><span class="english">Tetrabutyl ammonium bromide and sodium methoxide were used as catalyst for the reaction.</span></p>
 
 <p><span class="chinese">甲酸钠对甲醇羰基化反应也具有一定的催化作用，但其活性远远低于甲醇钠。</span><span class="english">Sodium formate is much less active for the carbonylation of methanol than sodium methoxide.</span></p>

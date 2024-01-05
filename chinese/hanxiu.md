@@ -1,5 +1,7 @@
 # 含羞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanxiu.md)
+
 <p><span class="chinese">它们可能比较含羞。</span><span class="english">They can be pretty shy.</span></p>
 
 <p><span class="chinese">与其说他是害怕，倒不如说他是含羞。</span><span class="english">He is more shy than frightened.</span></p>

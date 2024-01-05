@@ -1,5 +1,7 @@
 # 范畴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanchou.md)
+
 <p><span class="chinese">价格范畴是多少？</span><span class="english">What's the price ambit?</span></p>
 
 <p><span class="chinese">这是一个无投票权的范畴。</span><span class="english">This is a non-voting category.</span></p>

@@ -1,5 +1,7 @@
 # 欺诈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizha.md)
+
 <p><span class="chinese">所有在延髓是欺诈。</span><span class="english">All in DVC is fraud.</span></p>
 
 <p><span class="chinese">她以欺诈的手段骗他跟她结婚。</span><span class="english">She chicaned him into marriage.</span></p>

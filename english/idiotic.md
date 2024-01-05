@@ -1,5 +1,7 @@
 # idiotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idiotic.md)
+
 <p><span class="chinese">白痴？</span><span class="english">Idiotic?</span></p>
 
 <p><span class="chinese">学习是白痴？</span><span class="english">Your work is idiotic?</span></p>

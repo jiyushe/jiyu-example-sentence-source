@@ -1,5 +1,7 @@
 # 祷告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daogao.md)
+
 <p><span class="chinese">祷告或思考，随你便。</span><span class="english">Think or pray.</span></p>
 
 <p><span class="chinese">为王兰祷告。</span><span class="english">Pray for Wang Lan.</span></p>

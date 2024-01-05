@@ -1,5 +1,7 @@
 # volkswagen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volkswagen.md)
+
 <p><span class="chinese">它是1998年出的大众捷达。</span><span class="english">It's a 1998 Volkswagen Jetta.</span></p>
 
 <p><span class="chinese">我们感觉得到你是好的，大众。</span><span class="english">We feel the good in you Volkswagen.</span></p>

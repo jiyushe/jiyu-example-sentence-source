@@ -1,5 +1,7 @@
 # mire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mire.md)
+
 <p><span class="chinese">泥沼没有了。</span><span class="english">There was no mire.</span></p>
 
 <p><span class="chinese">它满是污淖。</span><span class="english">It is covered with mire and dust.</span></p>

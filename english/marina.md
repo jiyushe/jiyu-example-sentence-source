@@ -1,5 +1,7 @@
 # marina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marina.md)
+
 <p><span class="chinese">我的女儿玛瑞娜和劳伦又会如何呢？</span><span class="english">My daughters Marina and Lolo?</span></p>
 
 <p><span class="chinese">玛丽娜赢得了最高奖项。</span><span class="english">Marina Dimitrov won the top prize.</span></p>

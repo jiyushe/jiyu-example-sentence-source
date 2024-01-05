@@ -1,5 +1,7 @@
 # aunt 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aunt.md)
+
 <p><span class="chinese">嗨！卡拉阿姨！</span><span class="english">Hi! Aunt Kala!</span></p>
 
 <p><span class="chinese">她是你的姨母吗？</span><span class="english">Is she your aunt?</span></p>

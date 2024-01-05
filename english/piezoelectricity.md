@@ -1,5 +1,7 @@
 # piezoelectricity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piezoelectricity.md)
+
 <p><span class="chinese">压电材料作为一种敏感材料，已广泛应用于汽车技术领域。</span><span class="english">The Piezoelectricity as the function material is extensive applied in automobile.</span></p>
 
 <p><span class="chinese">本文研究了PVDF-PMMA共混体系的压电性及其分子运动。</span><span class="english">This paper reports the piezoelectricity and molecular motion of PVDF-PMMA blends.</span></p>

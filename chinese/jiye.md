@@ -1,5 +1,7 @@
 # 极夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiye.md)
+
 <p><span class="chinese">同时还有极昼极夜景象并且有时能看到北极光。</span><span class="english">Also sometimes we ca powerful see the " North Pole light".</span></p>
 
 <p><span class="chinese">很快北国疆土就会被极夜的寒冷所吞没。</span><span class="english">Soon the northern lands will be locked in the cold of the polar night.</span></p>

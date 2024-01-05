@@ -1,5 +1,7 @@
 # donation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donation.md)
+
 <p><span class="chinese">用行动捐助。</span><span class="english">Donation by Action.</span></p>
 
 <p><span class="chinese">捐款箱在哪？</span><span class="english">Whereis the donation box?</span></p>

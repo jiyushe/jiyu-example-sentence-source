@@ -1,5 +1,7 @@
 # 词素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cisu.md)
+
 <p><span class="chinese">词素实际上是抽象的语法分析元素。</span><span class="english">Morphemes are actually abstract elements of analysis.</span></p>
 
 <p><span class="chinese">第三部分有3章，谈词类和词素。</span><span class="english">Part 3 is concerned with word classes and morphology.</span></p>

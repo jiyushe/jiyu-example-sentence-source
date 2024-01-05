@@ -1,5 +1,7 @@
 # 懦怯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuoqie.md)
+
 <p><span class="chinese">你这懦怯的胆小鬼！别这么容易就放弃。</span><span class="english">You cowardly wimp! Don't give up so easily.</span></p>
 
 <p><span class="chinese">懦怯囚禁人的灵魂，希望可以感受自由。</span><span class="english">Fear can hold you prisoner.Hope can set you free.</span></p>

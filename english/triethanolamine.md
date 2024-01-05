@@ -1,5 +1,7 @@
 # triethanolamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triethanolamine.md)
+
 <p><span class="chinese">结论三乙醇胺对大鼠血清ALP有混合型抑制作用。</span><span class="english">Conclusion Triethanolamine has mixed inhibition to serum ALP of rats.</span></p>
 
 <p><span class="chinese">不含三乙醇胺的成份让消费者更安心安全使用。</span><span class="english">Does not contain an element of triethanolamine consumers more peace of mind safe to use.</span></p>

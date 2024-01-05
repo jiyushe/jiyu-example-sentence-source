@@ -1,5 +1,7 @@
 # etch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etch.md)
+
 <p><span class="chinese">二是要使用一个良好的蚀刻抵制。</span><span class="english">The second is to use a good etch resist.</span></p>
 
 <p><span class="chinese">单独使用水不能蚀刻金属表面。</span><span class="english">Water alone cannot etch a metal surface.</span></p>

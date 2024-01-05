@@ -1,5 +1,7 @@
 # detestable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detestable.md)
+
 <p><span class="chinese">凡可憎的物都不可吃。</span><span class="english">Do not eat any detestable thing.</span></p>
 
 <p><span class="chinese">最可恨那红色恶龙。</span><span class="english">The detestable devil red dragon.</span></p>

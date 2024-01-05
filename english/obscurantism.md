@@ -1,5 +1,7 @@
 # obscurantism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obscurantism.md)
+
 <p><span class="chinese">他的作品具有基督教时代所特有的蒙昧主义的缺点。</span><span class="english">His work suffers from the obscurantism typical of the Christian era.</span></p>
 
 <p><span class="chinese">先秦时期“愚民”的主要内涵，涉及知识、性情两个方面。</span><span class="english">The connotation of "obscurantism" is concerned with knowledge and emotion.</span></p>

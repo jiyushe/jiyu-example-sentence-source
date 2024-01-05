@@ -1,5 +1,7 @@
 # almirah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/almirah.md)
+
 <p><span class="chinese">大床、衣橱、甚至沙发，全是欧式古典风格。</span><span class="english">Big bed, almirah , even sofa, it is Oushi classicism completely.</span></p>
 
 <p><span class="chinese">假如你的卧室连带着一个走入式的衣橱，那可真够幸运的。</span><span class="english">If your bedroom wears to walk along the almirah of type jointly, that but really enough lucky.</span></p>

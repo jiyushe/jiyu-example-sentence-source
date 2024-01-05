@@ -1,5 +1,7 @@
 # 域内
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunei.md)
+
 <p><span class="chinese">它适用于其作用域内的所有数据元素吗？</span><span class="english">Does it apply to all data elements in its scope?</span></p>
 
 <p><span class="chinese">在这个例子中，没有必要使用一个作用域内的代理。</span><span class="english">In this case, there is no need to use a scoped proxy.</span></p>

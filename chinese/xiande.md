@@ -1,5 +1,7 @@
 # 显得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiande.md)
+
 <p><span class="chinese">他显得神情沮丧。</span><span class="english">He looks blue.</span></p>
 
 <p><span class="chinese">我看着里奇奥，他显得很害怕。</span><span class="english">I looked at Riccio.</span></p>

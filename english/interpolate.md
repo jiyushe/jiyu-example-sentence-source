@@ -1,5 +1,7 @@
 # interpolate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interpolate.md)
+
 <p><span class="chinese">分析人员需要在这些标准中插入一些值。</span><span class="english">The analyst is required to interpolate values between standards.</span></p>
 
 <p><span class="chinese">这允许你沿着3个轴插值任何顶点数据。</span><span class="english">This lets you interpolate any of the vertex data along the 3 axes.</span></p>

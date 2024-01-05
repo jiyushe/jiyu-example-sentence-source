@@ -1,5 +1,7 @@
 # 时隐时现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyinshixian.md)
+
 <p><span class="chinese">音乐只为我们奏响，那一轮满月也随我们时隐时现。</span><span class="english">Music cries out to us alone, and the full moon winks our way.</span></p>
 
 <p><span class="chinese">此时的槎山宛如仙山琼阁，时隐时现。</span><span class="english">Cha Shan mountains at this time like Joan Tower, and disappeared the next.</span></p>

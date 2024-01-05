@@ -1,5 +1,7 @@
 # 整除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengchu.md)
+
 <p><span class="chinese">但能被400整除的世纪年2000年，则为闰年。</span><span class="english">But century years divisible by 400, like 2000, would be leap years.</span></p>
 
 <p><span class="chinese">问这个两位数可被6整除的概率是多少？</span><span class="english">What is the probability that the two-digit number is divisible by 6?</span></p>

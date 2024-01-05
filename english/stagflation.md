@@ -1,5 +1,7 @@
 # stagflation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stagflation.md)
+
 <p><span class="chinese">因此可以说滞涨已经来临了？</span><span class="english">So is stagflation looming over the horizon?</span></p>
 
 <p><span class="chinese">所以美联储正面临着问题。</span><span class="english">There's a name for this  it's called stagflation.</span></p>

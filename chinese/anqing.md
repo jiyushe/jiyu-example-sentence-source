@@ -1,5 +1,7 @@
 # 案情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anqing.md)
+
 <p><span class="chinese">他的案情很有利，我能给他打赢。</span><span class="english">His case is strong, I can win it.</span></p>
 
 <p><span class="chinese">现在案情已经清清楚楚了。</span><span class="english">The case is now absolutely clear.</span></p>

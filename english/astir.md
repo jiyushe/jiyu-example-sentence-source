@@ -1,5 +1,7 @@
 # astir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astir.md)
+
 <p><span class="chinese">我们来到一座纷乱的城市。</span><span class="english">We come to a city astir.</span></p>
 
 <p><span class="chinese">因为这条消息而全城哄动。</span><span class="english">The whole town was astir with the news.</span></p>

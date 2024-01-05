@@ -1,5 +1,7 @@
 # 山民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanmin.md)
+
 <p><span class="chinese">在山民的掩护下，我匆匆逃离。</span><span class="english">Under the cover of the mountain , I hurried to flee.</span></p>
 
 <p><span class="chinese">山民房子边堆起的柴薪，整齐而清洁。</span><span class="english">House of Mountaineers stacks the firewood, neat and clean.</span></p>

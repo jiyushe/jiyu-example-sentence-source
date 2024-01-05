@@ -1,5 +1,7 @@
 # repertory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repertory.md)
+
 <p><span class="chinese">以前我曾在一专用剧场担任保留剧目的舞台总监。</span><span class="english">I once stage-managed a repertory theatre.</span></p>
 
 <p><span class="chinese">她在一个轮演剧目剧团里上演三年。</span><span class="english">She acted with a repertory company for three years.</span></p>

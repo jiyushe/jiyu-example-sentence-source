@@ -1,5 +1,7 @@
 # unauthenticated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unauthenticated.md)
+
 <p><span class="chinese">这意味着所有网络链接都是不加密和不经过身份验证的。</span><span class="english">This means that all network links are unencrypted and unauthenticated.</span></p>
 
 <p><span class="chinese">使用这些方法来对这个非授权的连接进行调用。</span><span class="english">Use these methods to make all calls on this connection unauthenticated.</span></p>

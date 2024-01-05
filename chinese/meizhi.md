@@ -1,5 +1,7 @@
 # 媒质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meizhi.md)
+
 <p><span class="chinese">这些存在于你们称为空间的媒质中。</span><span class="english">These exist in a medium you call ace.</span></p>
 
 <p><span class="chinese">这些存在于你们称为空间的媒质中。</span><span class="english">These exist in a medium you call space.</span></p>

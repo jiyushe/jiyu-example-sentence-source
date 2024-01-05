@@ -1,5 +1,7 @@
 # wartime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wartime.md)
+
 <p><span class="chinese">或打仗时，救3000个呢？</span><span class="english">Or in wartime? 3000?</span></p>
 
 <p><span class="chinese">战时不准跳舞的禁令已经解除。</span><span class="english">The wartime ban against dancing has been lifted.</span></p>

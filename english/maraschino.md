@@ -1,5 +1,7 @@
 # maraschino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maraschino.md)
+
 <p><span class="chinese">添加原料，搅合，置入樱桃作为装饰。</span><span class="english">Build, stir and drop a maraschino cherry in the drink.</span></p>
 
 <p><span class="chinese">放一个光亮的马拉希诺在一个典型的曼哈顿樱桃上，享受浪漫的氛围在空气中增长。</span><span class="english">Drop a bright Maraschino cherry in a classic Manhattan for a grown-up romantic treat.</span></p>

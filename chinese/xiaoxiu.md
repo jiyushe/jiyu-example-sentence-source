@@ -1,5 +1,7 @@
 # 小修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxiu.md)
+
 <p><span class="chinese">我很高兴给您做些小修小改。</span><span class="english">I'II be glad to do any minor alterations for you.</span></p>
 
 <p><span class="chinese">这家公司给我的房子作了几处小修小补就敲了我一笔竹杠。</span><span class="english">The firm soaked me for the few repairs they did to my house.</span></p>

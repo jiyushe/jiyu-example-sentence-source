@@ -1,5 +1,7 @@
 # 小幅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaofu.md)
+
 <p><span class="chinese">棉绒销量有小幅上升。</span><span class="english">Lint sales has increased slightly.</span></p>
 
 <p><span class="chinese">额，也许会小幅减少，-减少。</span><span class="english">Um, maybe a little bit lower. -Lower.</span></p>

@@ -1,5 +1,7 @@
 # assemblyman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assemblyman.md)
+
 <p><span class="chinese">州众议员的任期有多久?。</span><span class="english">How long does an Assemblyman serve?</span></p>
 
 <p><span class="chinese">请问，究竟谁是议员呢？</span><span class="english">Excuse me, after all who is assemblyman ?</span></p>

@@ -1,5 +1,7 @@
 # constrained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constrained.md)
+
 <p><span class="chinese">人类本性受约束的观点。</span><span class="english">The constrained view of human nature.</span></p>
 
 <p><span class="chinese">寒冷的天气抑制了植物的生长。</span><span class="english">Cold weather constrained the plant's growth.</span></p>

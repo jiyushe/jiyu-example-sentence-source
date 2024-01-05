@@ -1,5 +1,7 @@
 # crt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crt.md)
+
 <p><span class="chinese">CRT这条恐龙需要灭绝。</span><span class="english">The CRT dinosaur needs to be extinct.</span></p>
 
 <p><span class="chinese">我认为，最典型的例子就是CRT监视器。</span><span class="english">The biggest example I still see are CRT monitors.</span></p>

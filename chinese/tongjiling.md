@@ -1,5 +1,7 @@
 # 通缉令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongjiling.md)
+
 <p><span class="chinese">那儿的墙上会贴上你的通缉令吗？</span><span class="english">Will there be wanted posters of you on the walls?</span></p>
 
 <p><span class="chinese">本，把她的照片发出去，发布通缉令。</span><span class="english">Ben, fly her picture. Let's get a bolo broadcast out on her.</span></p>

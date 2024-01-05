@@ -1,5 +1,7 @@
 # 想入非非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangrufeifei.md)
+
 <p><span class="chinese">她在想入非非中混掉办公时间。</span><span class="english">She dreamt away the office hours.</span></p>
 
 <p><span class="chinese">他的想像脱离事实，想入非非。</span><span class="english">His imagination outruns the facts.</span></p>

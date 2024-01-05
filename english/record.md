@@ -1,5 +1,7 @@
 # record
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/record.md)
+
 <p><span class="chinese">全部记录下来。</span><span class="english">Record it all.</span></p>
 
 <p><span class="chinese">记录计数。</span><span class="english">The record count.</span></p>

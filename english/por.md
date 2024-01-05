@@ -1,5 +1,7 @@
 # por
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/por.md)
+
 <p><span class="chinese">为什么你不写信给我？</span><span class="english">Por qué no me escribes?</span></p>
 
 <p><span class="chinese">他们从来不在马德里开车。</span><span class="english">No conducen nunca por Madrid.</span></p>

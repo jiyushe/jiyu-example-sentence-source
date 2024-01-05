@@ -1,5 +1,7 @@
 # ominous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ominous.md)
+
 <p><span class="chinese">此不吉之言也。</span><span class="english">These are ominous words.</span></p>
 
 <p><span class="chinese">又或者说是一种不祥的预兆？</span><span class="english">Or is it an ominous omen?</span></p>

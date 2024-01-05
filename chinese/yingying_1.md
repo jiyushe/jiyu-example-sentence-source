@@ -1,5 +1,7 @@
 # 营营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingying_1.md)
+
 <p><span class="chinese">那只苍蝇振翅营营作响。</span><span class="english">The fly buzzed its wings.</span></p>
 
 <p><span class="chinese">终日营营的生活会是怎样？</span><span class="english">What is this life if, full of care.</span></p>

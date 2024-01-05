@@ -1,5 +1,7 @@
 # compressed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compressed.md)
+
 <p><span class="chinese">压缩页眉。</span><span class="english">Compressed headers.</span></p>
 
 <p><span class="chinese">压缩空气也很有用。</span><span class="english">Compressed air will work, too.</span></p>

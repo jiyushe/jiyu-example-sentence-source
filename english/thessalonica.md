@@ -1,5 +1,7 @@
 # thessalonica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thessalonica.md)
+
 <p><span class="chinese">就连我在得撒洛尼时，你们不只一次，而且两次曾给我送来我的急需。</span><span class="english">For unto Thessalonica also you sent once and again for my use.</span></p>
 
 <p><span class="chinese">就是我在帖撒罗尼迦，你们也一次两次的，打发人供给我的需用。</span><span class="english">For even in Thessalonica ye sent once and again unto my necessity.</span></p>

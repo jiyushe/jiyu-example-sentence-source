@@ -1,5 +1,7 @@
 # 抹布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mabu.md)
+
 <p><span class="chinese">请用抹布代替。</span><span class="english">Use wipes instead.</span></p>
 
 <p><span class="chinese">他把抹布拧干了。</span><span class="english">He wrung out the rag.</span></p>

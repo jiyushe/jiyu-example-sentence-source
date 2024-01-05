@@ -1,5 +1,7 @@
 # 情侣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinglv.md)
+
 <p><span class="chinese">我们就是其中一对幸运的情侣。</span><span class="english">We are one of lucky couples.</span></p>
 
 <p><span class="chinese">绯闻情侣神木与瞳是一对吗？</span><span class="english">Is Y2J a couple in the making?</span></p>

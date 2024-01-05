@@ -1,5 +1,7 @@
 # chipper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chipper.md)
+
 <p><span class="chinese">我曾经是个直率而爽朗的人。</span><span class="english">I was downright chipper.</span></p>
 
 <p><span class="chinese">回家的路上他会在卖炸鱼和炸薯条的店停一下。</span><span class="english">He’d stop at the chipper on the way home.</span></p>

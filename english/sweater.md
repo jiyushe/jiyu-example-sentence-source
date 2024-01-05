@@ -1,5 +1,7 @@
 # sweater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweater.md)
+
 <p><span class="chinese">我的毛衣在哪里？</span><span class="english">Where's my sweater?</span></p>
 
 <p><span class="chinese">试穿这件毛线衣。</span><span class="english">Try this sweater on.</span></p>

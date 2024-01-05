@@ -1,5 +1,7 @@
 # 神位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenwei.md)
+
 <p><span class="chinese">不许背靠神位而坐。</span><span class="english">Twelve, and sit back to the god.</span></p>
 
 <p><span class="chinese">神位忌安置在道的上方。</span><span class="english">Bogey tablets placed in the top of Road.</span></p>

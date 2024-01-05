@@ -1,5 +1,7 @@
 # superacid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superacid.md)
+
 <p><span class="chinese">在生物柴油制备中的发展方向。</span><span class="english">Finally, the development trend of solid superacid catalysts is presented.</span></p>
 
 <p><span class="chinese">最后，检测了自制固体超强酸催化剂的重复利用情况。</span><span class="english">Then the situation of the reuse of solid superacid made by myself was tested.</span></p>

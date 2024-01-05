@@ -1,5 +1,7 @@
 # 门路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menlu.md)
+
 <p><span class="chinese">他想在侦察小说范畴另辟门路。</span><span class="english">He wants to cyber detective novels field.</span></p>
 
 <p><span class="chinese">我们要广开就业门路。</span><span class="english">We have opened up more avenues of employment.</span></p>

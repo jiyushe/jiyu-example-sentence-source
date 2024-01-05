@@ -1,5 +1,7 @@
 # weaken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weaken.md)
+
 <p><span class="chinese">这段友谊是让我变强还是变弱？</span><span class="english">Does this friendship strengthen me or weaken me?</span></p>
 
 <p><span class="chinese">而且时间长了也还腐蚀弱化龟壳。</span><span class="english">It can also corrode and weaken the shell over time.</span></p>

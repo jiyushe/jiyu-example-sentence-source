@@ -1,5 +1,7 @@
 # pri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pri.md)
+
 <p><span class="chinese">每个PRI都能提供与T1或DS1连线相同的服务。</span><span class="english">PRI offers the same service as a T1 or DS1 connection.</span></p>
 
 <p><span class="chinese">那些债权人一旦得到法院的判决，就可依照维蒙特的债务法使你下狱。</span><span class="english">Once the creditors obtained a judgment, they could have you thrown into pri son under Vermont ' s debtor' s law.</span></p>

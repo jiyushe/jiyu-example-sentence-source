@@ -1,5 +1,7 @@
 # animated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animated.md)
+
 <p><span class="chinese">请看动画教程！</span><span class="english">See animated tutorial!</span></p>
 
 <p><span class="chinese">创建动画GIF文件。</span><span class="english">Create animated GIF files.</span></p>

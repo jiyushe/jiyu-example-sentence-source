@@ -1,5 +1,7 @@
 # 猞猁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheli_2.md)
+
 <p><span class="chinese">猞猁是国家二级保护动物。</span><span class="english">Lynx is a nationally protected animal.</span></p>
 
 <p><span class="chinese">而皇后动物园的美洲狮和猞猁却完全不吃这一套。</span><span class="english">But forget that for the pumas and lynx at the Queens Zoo.</span></p>

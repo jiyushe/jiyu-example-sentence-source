@@ -1,5 +1,7 @@
 # grievous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grievous.md)
+
 <p><span class="chinese">1876年，亨利遭受到一次痛苦的打击。</span><span class="english">In 1876, Henry suffered a grievous blow.</span></p>
 
 <p><span class="chinese">噩耗传来，犹如晴天霹雳。</span><span class="english">The grievous news came as a bolt from the blue.</span></p>

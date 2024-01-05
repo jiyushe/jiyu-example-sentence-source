@@ -1,5 +1,7 @@
 # 逐一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyi_4.md)
+
 <p><span class="chinese">我们可以逐一编辑它们。</span><span class="english">We can edit them one by one.</span></p>
 
 <p><span class="chinese">逐一审查每一个文件。</span><span class="english">Go through each file one by one.</span></p>

@@ -1,5 +1,7 @@
 # bans
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bans.md)
+
 <p><span class="chinese">对这一计划他们有无数的禁令。</span><span class="english">They have all numerously bans to this plan.</span></p>
 
 <p><span class="chinese">同性恋支持者的游行示威引来了禁令和混战。</span><span class="english">Gay-rights marches attract bans and scuffles.</span></p>

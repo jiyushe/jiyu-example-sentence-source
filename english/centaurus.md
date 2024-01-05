@@ -1,5 +1,7 @@
 # centaurus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centaurus.md)
+
 <p><span class="chinese">天蝎-人马组合中的星星在太空中运动相同。</span><span class="english">The Scorpio- Centaurus stars share a common motion through space.</span></p>
 
 <p><span class="chinese">一次合并可能引起这个星系里的爆炸性能量输出，半人马座A。</span><span class="english">A merger may have triggered the output of energy in this galaxy, Centaurus A.</span></p>

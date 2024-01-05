@@ -1,5 +1,7 @@
 # 水塔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuita.md)
+
 <p><span class="chinese">夜晚的琉森水塔。</span><span class="english">Night tower in Lucerne.</span></p>
 
 <p><span class="chinese">这个水塔上下有50米。</span><span class="english">The water tower is fifty metres high.</span></p>

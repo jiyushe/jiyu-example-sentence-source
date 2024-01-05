@@ -1,5 +1,7 @@
 # dinah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dinah.md)
+
 <p><span class="chinese">不过，我想你可能会喜欢黛娜。</span><span class="english">I think you would like Dinah.</span></p>
 
 <p><span class="chinese">我多么希望我的黛娜在这儿呀！</span><span class="english">I wish I had our Dinah here, I know I do!</span></p>

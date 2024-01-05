@@ -1,5 +1,7 @@
 # 絮絮叨叨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuxudaodao.md)
+
 <p><span class="chinese">难道你就从不絮絮叨叨吗？</span><span class="english">Don’t you ever brag?</span></p>
 
 <p><span class="chinese">他老是絮絮叨叨地说她的那些问题。</span><span class="english">He is forever croaking about his problems.</span></p>

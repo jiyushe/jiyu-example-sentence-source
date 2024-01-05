@@ -1,5 +1,7 @@
 # 字帖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zitie.md)
+
 <p><span class="chinese">你已经在字帖上教过我了。</span><span class="english">Thou hast taught me in the hornbook.</span></p>
 
 <p><span class="chinese">这个模版是用EXCEL做成的，比较像中国的字帖。</span><span class="english">The model tool made by EXCEL, like chinese copybook.</span></p>

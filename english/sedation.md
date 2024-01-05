@@ -1,5 +1,7 @@
 # sedation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedation.md)
+
 <p><span class="chinese">我镇静的忍受着死对我的大轰炸。</span><span class="english">I suffer from sedation die for my big bombing.</span></p>
 
 <p><span class="chinese">☆无☆效☆退☆款☆减。肥不节食，镇静瘦。身不挨饿！</span><span class="english">Fat without dieting, sedation and thin. The body is not hungry!</span></p>

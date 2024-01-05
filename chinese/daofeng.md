@@ -1,5 +1,7 @@
 # 刀锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daofeng.md)
+
 <p><span class="chinese">请勿以手指测试刀锋的锋利度。</span><span class="english">Do not test sharp by finger.</span></p>
 
 <p><span class="chinese">除了刀锋的那条凹槽。</span><span class="english">But the notches on the blade.</span></p>

@@ -1,5 +1,7 @@
 # 神坛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shentan_2.md)
+
 <p><span class="chinese">否则，它将导致我们跌落神坛。</span><span class="english">Otherwise, this will bring us down from the pedestal.</span></p>
 
 <p><span class="chinese">理智被献祭于经济增长的神坛之上，对经济增长不惜一切代价。</span><span class="english">Reason was sacrificed on the temple of economic growth, at all costs.</span></p>

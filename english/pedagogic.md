@@ -1,5 +1,7 @@
 # pedagogic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedagogic.md)
+
 <p><span class="chinese">教育学是什么？</span><span class="english">Pedagogic what be?</span></p>
 
 <p><span class="chinese">也是教师教学艺术的重要组成部分。</span><span class="english">Also be the main component of pedagogic education skill.</span></p>

@@ -1,5 +1,7 @@
 # 零头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingtou.md)
+
 <p><span class="chinese">这是您的零头和收条。</span><span class="english">Here is your change and your receipt.</span></p>
 
 <p><span class="chinese">零头盒应拆开清点。清点后重新装盒，并贴上零头盒标签。</span><span class="english">The odd ones shall be re-packed and put on odd label.</span></p>

@@ -1,5 +1,7 @@
 # 一见钟情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijianzhongqing.md)
+
 <p><span class="chinese">我是一见钟情。</span><span class="english">I was in love at first sight.</span></p>
 
 <p><span class="chinese">我对他一见钟情。</span><span class="english">I loved him at the first sight.</span></p>

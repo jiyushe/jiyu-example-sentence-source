@@ -1,5 +1,7 @@
 # reissue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reissue.md)
+
 <p><span class="chinese">1992年重新发布这一模型的时候，作者对这些假设做了修改。</span><span class="english">In the 1992 reissue of the model, these assumptions were adjusted.</span></p>
 
 <p><span class="chinese">持续近两个小时，快板电影的最新补发的三个部分。</span><span class="english">Lasting nearly two hours, Allegro Film's latest reissue is in three sections.</span></p>

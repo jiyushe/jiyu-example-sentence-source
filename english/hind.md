@@ -1,5 +1,7 @@
 # hind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hind.md)
+
 <p><span class="chinese">那狗用两只后腿站着乞食。</span><span class="english">The dog cocked its hind leg.</span></p>
 
 <p><span class="chinese">马用后腿立了起来。</span><span class="english">The horse rose on its hind legs.</span></p>

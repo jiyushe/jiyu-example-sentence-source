@@ -1,5 +1,7 @@
 # panoramic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panoramic.md)
+
 <p><span class="chinese">还有“圆明圆”全景展示。</span><span class="english">There will be "Ming yuan yuan" panoramic display.</span></p>
 
 <p><span class="chinese">可以看到湄洲岛的全景。</span><span class="english">We can have a panoramic view of the entire island.</span></p>

@@ -1,5 +1,7 @@
 # 闯荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuangdang.md)
+
 <p><span class="chinese">我想闯荡。</span><span class="english">I do want.</span></p>
 
 <p><span class="chinese">闯荡过多少险探激流。</span><span class="english">How many spells risk exploration torrent.</span></p>

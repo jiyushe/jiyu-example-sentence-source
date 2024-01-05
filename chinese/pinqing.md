@@ -1,5 +1,7 @@
 # 聘请
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinqing.md)
+
 <p><span class="chinese">阿加西当场就聘请了他。</span><span class="english">Agassi hired him on the spot.</span></p>
 
 <p><span class="chinese">他聘请她担任这个职务。</span><span class="english">He engaged her for the position.</span></p>

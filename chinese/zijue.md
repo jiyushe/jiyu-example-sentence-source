@@ -1,5 +1,7 @@
 # 子爵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijue.md)
+
 <p><span class="chinese">他疯狂地嫉妒子爵</span><span class="english">He was insanely jealous.</span></p>
 
 <p><span class="chinese">沃克斯子爵堡十分宏伟</span><span class="english">Vaux le Vicomte was fabulous.</span></p>

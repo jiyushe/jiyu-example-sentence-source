@@ -1,5 +1,7 @@
 # 拆息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaixi_1.md)
+
 <p><span class="chinese">许多欧元区公司和家庭贷款都以银行同业拆息为基准。</span><span class="english">Many euro-zone corporate and household loans use those interbank rates as a benchmark.</span></p>
 
 <p><span class="chinese">市场就此作出温和而有秩序的调整，隔夜拆息在二月十九日微升至6.25厘。</span><span class="english">The market adjustment was mild and orderly. Overnight interest rates firmed up moderately to 6.25 per cent on February 19.</span></p>

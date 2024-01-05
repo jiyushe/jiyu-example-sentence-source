@@ -1,5 +1,7 @@
 # canada
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canada.md)
+
 <p><span class="chinese">我来自加拿大。</span><span class="english">I’m from Canada.</span></p>
 
 <p><span class="chinese">加拿大魁北克市。</span><span class="english">Quebec City, Canada.</span></p>

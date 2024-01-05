@@ -1,5 +1,7 @@
 # mrcp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mrcp.md)
+
 <p><span class="chinese">结论1。单次屏气MRCP是一种显示胆胰管的优秀MR成像技术。</span><span class="english">Conclusions 1. Single breath-hold MRCP is a good MRI technique in displaying bile-pancreas duct.</span></p>
 
 <p><span class="chinese">结果采用超声、MRCP和ERCP等影象学方法均可在术前明确诊断残余胆囊。</span><span class="english">Results Remnant gallbladder was confirmed in all cases by ultrasound, MRCP and ERCP preoperatively.</span></p>

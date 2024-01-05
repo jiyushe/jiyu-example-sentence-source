@@ -1,5 +1,7 @@
 # chord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chord.md)
+
 <p><span class="chinese">和弦音报警。</span><span class="english">Alarm by chord music.</span></p>
 
 <p><span class="chinese">什么是和弦进行？</span><span class="english">What is a chord progression?</span></p>

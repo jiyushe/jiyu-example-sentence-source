@@ -1,5 +1,7 @@
 # intranet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intranet.md)
+
 <p><span class="chinese">内联网2.0其实很便宜。</span><span class="english">Intranet 2.0 is cheap.</span></p>
 
 <p><span class="chinese">我要如何登陆公司的办公网？</span><span class="english">How do I log on the company's intranet?</span></p>

@@ -1,5 +1,7 @@
 # str
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/str.md)
+
 <p><span class="chinese">风暴正受副热带高压脊的影响。</span><span class="english">The storm is under the influence of STR.</span></p>
 
 <p><span class="chinese">下划线，下划线,有人知道这是用来干什么的么？</span><span class="english">str Anybody have a sense of what that's doing?</span></p>

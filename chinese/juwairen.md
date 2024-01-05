@@ -1,5 +1,7 @@
 # 局外人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juwairen.md)
+
 <p><span class="chinese">所以我变成了一个局外人。</span><span class="english">So I learn to be an outsider.</span></p>
 
 <p><span class="chinese">哈特扮演的被误为坏人的好人总是一个局外人。</span><span class="english">Hart's good-bad man was always an outsider.</span></p>

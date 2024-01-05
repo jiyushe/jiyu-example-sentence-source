@@ -1,5 +1,7 @@
 # 审议
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyi.md)
+
 <p><span class="chinese">我知道你们将认真加以审议。</span><span class="english">I know you will consider it carefully.</span></p>
 
 <p><span class="chinese">然后，他进行不公开的审议。</span><span class="english">Then he made his deliberations covert.</span></p>

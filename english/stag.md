@@ -1,5 +1,7 @@
 # stag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stag.md)
+
 <p><span class="chinese">我追猎那头金鹿！</span><span class="english">I hunt for the golden stag.</span></p>
 
 <p><span class="chinese">不带女伴的男人在海湾是危险的敌人。</span><span class="english">A stag at bay is a dangerous foe.</span></p>

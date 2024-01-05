@@ -1,5 +1,7 @@
 # 运送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunsong.md)
+
 <p><span class="chinese">我们用小船运送那些苹果。</span><span class="english">We boated the apples.</span></p>
 
 <p><span class="chinese">你运送的是什么？</span><span class="english">What are you transporting?</span></p>

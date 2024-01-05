@@ -1,5 +1,7 @@
 # 战争
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanzheng.md)
+
 <p><span class="chinese">我们痛恨战争。</span><span class="english">We hate war.</span></p>
 
 <p><span class="chinese">战争，不会再来！</span><span class="english">No more wars!</span></p>

@@ -1,5 +1,7 @@
 # anesthesiologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anesthesiologist.md)
+
 <p><span class="chinese">也许到那时，麻醉师就会对此感兴趣了。</span><span class="english">Perhaps then his anesthesiologist will become interested.</span></p>
 
 <p><span class="chinese">麻醉师不能理解杰里奥·托诺博士干嘛那么兴奋。</span><span class="english">The anesthesiologist did not share Dr. Tononi's excitement.</span></p>

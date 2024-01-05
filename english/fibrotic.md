@@ -1,5 +1,7 @@
 # fibrotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrotic.md)
+
 <p><span class="chinese">化疗后肿块纤维化预后好。</span><span class="english">The prognosis was better if the tumor was fibrotic.</span></p>
 
 <p><span class="chinese">纤维化标本的碎片更常见，并且更广泛。</span><span class="english">Fibrotic specimens fragment more often and more extensively.</span></p>

@@ -1,5 +1,7 @@
 # 胸无大志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongwudazhi.md)
+
 <p><span class="chinese">胸无大志，事事称心。</span><span class="english">Little thing please little minds.</span></p>
 
 <p><span class="chinese">失败不为过错，胸无大志才是罪过。</span><span class="english">Not failure , but low aim , is crime.</span></p>

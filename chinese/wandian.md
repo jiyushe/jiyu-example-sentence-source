@@ -1,5 +1,7 @@
 # 晚点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wandian.md)
+
 <p><span class="chinese">我们晚点了多久？</span><span class="english">How late are we ?</span></p>
 
 <p><span class="chinese">班机晚点了。</span><span class="english">The airliner is late.</span></p>

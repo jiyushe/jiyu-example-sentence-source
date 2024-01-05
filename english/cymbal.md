@@ -1,5 +1,7 @@
 # cymbal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cymbal.md)
+
 <p><span class="chinese">这支曲子以铙钹的撞击声结束。</span><span class="english">The piece ends with a cymbal crash.</span></p>
 
 <p><span class="chinese">我就成了鸣的锣、响的钹一般。</span><span class="english">I am only a resounding gong or a clanging cymbal.</span></p>

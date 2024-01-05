@@ -1,5 +1,7 @@
 # 外行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waihang.md)
+
 <p><span class="chinese">他们以为我是外行。</span><span class="english">They think I am a greenhorn.</span></p>
 
 <p><span class="chinese">是什么外行做的这份报告?。</span><span class="english">Whatis the layman to make of this?</span></p>

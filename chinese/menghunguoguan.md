@@ -1,5 +1,7 @@
 # 蒙混过关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menghunguoguan.md)
+
 <p><span class="chinese">他指责部长用搪塞蒙混过关。</span><span class="english">He accused the minister of prevaricating.</span></p>
 
 <p><span class="chinese">好，我们所要说的就是他以为这件奇怪的事情已蒙混过关。</span><span class="english">Well, all we said was He took a strange thing to be roguish over.</span></p>

@@ -1,5 +1,7 @@
 # incidence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incidence.md)
+
 <p><span class="chinese">夏季为本病的发病高峰季节。</span><span class="english">The peak of the incidence was in summer.</span></p>
 
 <p><span class="chinese">评估Hib发病率的工具</span><span class="english">Tools for assessing the incidence of Hib</span></p>

@@ -1,5 +1,7 @@
 # zimbabwe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zimbabwe.md)
+
 <p><span class="chinese">津巴布韦的万基国家公园</span><span class="english">Hwange National Park, Zimbabwe</span></p>
 
 <p><span class="chinese">在赞比亚及津巴布韦的赞比西河漂流</span><span class="english">ZAMBEZI RIVERRAFTING, ZAMBIA & ZIMBABWE</span></p>

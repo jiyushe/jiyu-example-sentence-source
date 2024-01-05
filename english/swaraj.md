@@ -1,5 +1,7 @@
 # swaraj
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swaraj.md)
+
 <p><span class="chinese">我们会采用合资、技术转让与自主研发路线！</span><span class="english">We are going through the joint development, ToT and Swaraj route.</span></p>
 
 <p><span class="chinese">我们对俄罗斯的外交政策一直未变。</span><span class="english">Our foreign policy towards Russia has always been the same, " Swaraj said."</span></p>

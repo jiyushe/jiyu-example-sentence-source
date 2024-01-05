@@ -1,5 +1,7 @@
 # 姻亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinqin.md)
+
 <p><span class="chinese">本周要应付姻亲。</span><span class="english">Deal with in-laws thisweek.</span></p>
 
 <p><span class="chinese">第五章宗族姻亲与社会救助。</span><span class="english">Chapter V gens and affinity and the social relief.</span></p>

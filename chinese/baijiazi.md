@@ -1,5 +1,7 @@
 # 摆架子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baijiazi.md)
+
 <p><span class="chinese">不要摆架子。</span><span class="english">Don't put on airs.</span></p>
 
 <p><span class="chinese">他从不摆架子。</span><span class="english">He never put on airs.</span></p>

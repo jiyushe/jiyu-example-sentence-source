@@ -1,5 +1,7 @@
 # hardening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardening.md)
+
 <p><span class="chinese">这个男人正硬挺挺的。</span><span class="english">The man was hardening.</span></p>
 
 <p><span class="chinese">静脉瓣也发作萎缩、硬化。</span><span class="english">Venous attack also shrinking, hardening.</span></p>

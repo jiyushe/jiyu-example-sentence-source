@@ -1,5 +1,7 @@
 # 械斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiedou.md)
+
 <p><span class="chinese">警察阻止了那次械斗。</span><span class="english">The policemen stopped the fight.</span></p>
 
 <p><span class="chinese">盗用井水经常引起械斗。</span><span class="english">Sneaking water often caused serious fight.</span></p>

@@ -1,5 +1,7 @@
 # holm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holm.md)
+
 <p><span class="chinese">干吗这时候来烦我我，霍姆？</span><span class="english">Why are you bothering me now, Holm?</span></p>
 
 <p><span class="chinese">警方被难住了，于是请福尔摩斯前来侦查。</span><span class="english">The police is baffle and sherlock holm is call in to investigate.</span></p>

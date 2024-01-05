@@ -1,5 +1,7 @@
 # mothering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mothering.md)
+
 <p><span class="chinese">它当时被称为妈妈的星期天。</span><span class="english">It was then called Mothering Sunday.</span></p>
 
 <p><span class="chinese">我什么时候能回家照顾自己的孩子？</span><span class="english">when I could be home mothering my children?</span></p>

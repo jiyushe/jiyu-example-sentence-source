@@ -1,5 +1,7 @@
 # checkbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checkbox.md)
+
 <p><span class="chinese">取消选中此复选框。</span><span class="english">De-select this checkbox.</span></p>
 
 <p><span class="chinese">如何构建一个单一值的复选框</span><span class="english">How to build a single-value checkbox</span></p>

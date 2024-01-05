@@ -1,5 +1,7 @@
 # congenially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congenially.md)
+
 <p><span class="chinese">他们聊得很投机。</span><span class="english">They chat very congenially.</span></p>
 
 <p><span class="chinese">我们干一杯。`他很合时宜地说。</span><span class="english">Let's all have a drink together, ' he said congenially.</span></p>

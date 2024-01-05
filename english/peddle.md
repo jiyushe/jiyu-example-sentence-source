@@ -1,5 +1,7 @@
 # peddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peddle.md)
+
 <p><span class="chinese">她喜欢搬弄是非。</span><span class="english">She loves to peddle gossip.</span></p>
 
 <p><span class="chinese">接着便是楼下那些小商贩的叫卖声。</span><span class="english">Then came downstairs the pedlar peddle sound.</span></p>

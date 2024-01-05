@@ -1,5 +1,7 @@
 # northeasterly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northeasterly.md)
+
 <p><span class="chinese">水朝东北方流去。</span><span class="english">The current had a northeasterly set.</span></p>
 
 <p><span class="chinese">吹和缓东至东北风。</span><span class="english">Moderate east to northeasterly winds.</span></p>

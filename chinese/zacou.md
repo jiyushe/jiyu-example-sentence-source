@@ -1,5 +1,7 @@
 # 杂凑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zacou.md)
+
 <p><span class="chinese">无法取得有效的登入杂凑。</span><span class="english">Unable to get a valid login hash.</span></p>
 
 <p><span class="chinese">一部自命不凡的杂凑，不可能真正成功。</span><span class="english">A portentous soufflé that never truly rises.</span></p>

@@ -1,5 +1,7 @@
 # 洗印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyin_1.md)
+
 <p><span class="chinese">还没有，只拍黑白片。上星期我买了一台洗印机。</span><span class="english">Not yet. Just black and white. Last week I bought a developer.</span></p>
 
 <p><span class="chinese">照片的洗印质量会随着时间的推移而下降。</span><span class="english">The quality of a photographic reproduction decreases with time.</span></p>

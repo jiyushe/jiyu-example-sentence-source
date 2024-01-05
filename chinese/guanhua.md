@@ -1,5 +1,7 @@
 # 官话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanhua.md)
+
 <p><span class="chinese">安徽怀远方言属江淮官话。</span><span class="english">Huaiyuan dialect is subordinate to Jianghuai mandarin.</span></p>
 
 <p><span class="chinese">在去政府办事等正式社交场合中，一般使用成都官话。</span><span class="english">They always use the Chengdu Mandarin in Formal occasions.</span></p>

@@ -1,5 +1,7 @@
 # 似曾相识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sicengxiangshi.md)
+
 <p><span class="chinese">似曾相识？</span><span class="english">Deja Vu?</span></p>
 
 <p><span class="chinese">很多的标志都有似曾相识的感觉。</span><span class="english">Many logos have the feeling of deja vu.</span></p>

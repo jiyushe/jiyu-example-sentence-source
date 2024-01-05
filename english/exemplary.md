@@ -1,5 +1,7 @@
 # exemplary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exemplary.md)
+
 <p><span class="chinese">他是一个模范生。</span><span class="english">He is an exemplary student.</span></p>
 
 <p><span class="chinese">而如果他那么做了，他就是个模范士兵。</span><span class="english">If he does do them, he’s an exemplary soldier.</span></p>

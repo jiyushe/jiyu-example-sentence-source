@@ -1,5 +1,7 @@
 # pesto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pesto.md)
+
 <p><span class="chinese">萨拉米肠，番茄，黑橄榄，香蒜酱。</span><span class="english">Salami, Tomato, Olive, Pesto Sauce.</span></p>
 
 <p><span class="chinese">剩下的抹上香蒜沙司。</span><span class="english">Top remaining slices with the pesto.</span></p>

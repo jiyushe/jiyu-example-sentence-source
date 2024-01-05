@@ -1,5 +1,7 @@
 # norbert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norbert.md)
+
 <p><span class="chinese">厨师诺波特通常会用油乎乎的汉堡包来招待我们，或是让我们享用一整罐猪肉菜豆罐头，抑或一大锅意大利炒面。</span><span class="english">Norbert the cook would usually have a greasy burger waiting.</span></p>
 
 <p><span class="chinese">其中包括他的表兄诺伯特·H一位居住在奥地利的农民。</span><span class="english">They included an Austrian farmer revealed only as a cousin called Norbert H.</span></p>

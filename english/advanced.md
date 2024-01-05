@@ -1,5 +1,7 @@
 # advanced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advanced.md)
+
 <p><span class="chinese">非常高端。</span><span class="english">Very advanced.</span></p>
 
 <p><span class="chinese">他年岁已高。</span><span class="english">He is advanced in years.</span></p>

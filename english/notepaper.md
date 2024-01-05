@@ -1,5 +1,7 @@
 # notepaper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notepaper.md)
+
 <p><span class="chinese">我折叠起笔记本，往图书馆走去。</span><span class="english">I folded my notepaper and headed for the library.</span></p>
 
 <p><span class="chinese">我折叠起笔记本，往图书馆走往。</span><span class="english">I folded my notepaper and headed for the library.</span></p>

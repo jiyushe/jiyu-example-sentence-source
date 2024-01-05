@@ -1,5 +1,7 @@
 # agonisingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agonisingly.md)
+
 <p><span class="chinese">然而许多改革的结果都要花上很久才能见到，这的确令人气恼。</span><span class="english">Yet many reforms take agonisingly long to appear.</span></p>
 
 <p><span class="chinese">在与冠军联赛荣耀擦肩而过后，拉法本内特斯承认利物浦自毁前程。</span><span class="english">RAFA BENITEZ admitted Liverpool cut their own throats as his bid for Champs League glory fell agonisingly short.</span></p>

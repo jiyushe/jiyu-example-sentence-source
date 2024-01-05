@@ -1,5 +1,7 @@
 # 吸铁石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xitieshi.md)
+
 <p><span class="chinese">这些过滤器是灰尘和花粉的“吸铁石”。</span><span class="english">These filters are dust and pollen magnets.</span></p>
 
 <p><span class="chinese">一般来说，湿布是一块绝妙的灰尘吸铁石。</span><span class="english">The dampened cloth makes a great dirt magnet.</span></p>

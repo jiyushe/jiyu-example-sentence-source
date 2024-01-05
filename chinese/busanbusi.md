@@ -1,5 +1,7 @@
 # 不三不四
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/busanbusi.md)
+
 <p><span class="chinese">不三不四。</span><span class="english">Not three not four.</span></p>
 
 <p><span class="chinese">他是一个不三不四的艺术家。</span><span class="english">He's one of these artist chaps.</span></p>

@@ -1,5 +1,7 @@
 # biennium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biennium.md)
+
 <p><span class="chinese">每两年度对它们进行一次审批。</span><span class="english">They have always been approved for every biennium.</span></p>
 
 <p><span class="chinese">我们满怀信心、希望和达观的心情展望新的两年期。</span><span class="english">We can look ahead into the new biennium with confidence, hope and resilience.</span></p>

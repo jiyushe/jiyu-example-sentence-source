@@ -1,5 +1,7 @@
 # imbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imbed.md)
+
 <p><span class="chinese">埋藏一粒种子。</span><span class="english">Imbed a seed in it.</span></p>
 
 <p><span class="chinese">我们用阿拉伯胶作壁材，包埋SOD。</span><span class="english">We used Arabic gum as Wall material to imbed SOD.</span></p>

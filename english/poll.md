@@ -1,5 +1,7 @@
 # poll 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poll.md)
+
 <p><span class="chinese">谁做的民意调查？</span><span class="english">Who did the poll?</span></p>
 
 <p><span class="chinese">我们来做个调查。</span><span class="english">Let's take a poll.</span></p>

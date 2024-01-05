@@ -1,5 +1,7 @@
 # riaa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riaa.md)
+
 <p><span class="chinese">美国唱片行业协会是唱片公司和艺人的代表。</span><span class="english">The RIAA represents record companies and their performers.</span></p>
 
 <p><span class="chinese">唱片协会以盗版罪指控布莱娜从互联网上非法下载音乐。</span><span class="english">The RIAA accused Brianna of stealing after she illegally downloaded music off the Internet.</span></p>

@@ -1,5 +1,7 @@
 # 文绉绉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenzhouzhou.md)
+
 <p><span class="chinese">他说话文绉绉的。</span><span class="english">He speaks like a book.</span></p>
 
 <p><span class="chinese">你别那么文绉绉地讲话，吉米先生。</span><span class="english">Don't you speak like a book, Mr. Jimmy.</span></p>

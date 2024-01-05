@@ -1,5 +1,7 @@
 # basque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basque.md)
+
 <p><span class="chinese">那么是您叫巴斯克不要生火的？</span><span class="english">Was it you who told Basque not to make a fire then?</span></p>
 
 <p><span class="chinese">我想巴斯克客厅里需要扶手椅吧！</span><span class="english">I think that Basque needed the chairs for the drawing-room.</span></p>

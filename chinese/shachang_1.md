@@ -1,5 +1,7 @@
 # 纱厂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shachang_1.md)
+
 <p><span class="chinese">街对面有一家纱厂。</span><span class="english">Across the street was a textile mill.</span></p>
 
 <p><span class="chinese">我想认识几个纱厂工人。</span><span class="english">I want to get to know some mill hands.</span></p>

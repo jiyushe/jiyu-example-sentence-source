@@ -1,5 +1,7 @@
 # screwdriver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screwdriver.md)
+
 <p><span class="chinese">请给我螺丝起子。</span><span class="english">Please hand me the screwdriver.</span></p>
 
 <p><span class="chinese">你所需要的只是一把螺丝刀。</span><span class="english">And all you need is a screwdriver.</span></p>

@@ -1,5 +1,7 @@
 # aristocratic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aristocratic.md)
+
 <p><span class="chinese">它根本不需要走冷漠贵族女性的路线。</span><span class="english">They don’t go for the aloof aristocratic line at all.</span></p>
 
 <p><span class="chinese">格言本质上是天才般的写作。</span><span class="english">Aphorisms are essentially an aristocratic genre of writing.</span></p>

@@ -1,5 +1,7 @@
 # 图象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuxiang_1.md)
+
 <p><span class="chinese">图象的描述。</span><span class="english">Describes the image.</span></p>
 
 <p><span class="chinese">这些图象是XX位灰度图象。</span><span class="english">Images are XX bit greyscale.</span></p>

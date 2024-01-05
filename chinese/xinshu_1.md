@@ -1,5 +1,7 @@
 # 新书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshu_1.md)
+
 <p><span class="chinese">顺便说一下，我上周买了张新书桌。</span><span class="english">I a new desk last week.</span></p>
 
 <p><span class="chinese">你的新书已拜读了。</span><span class="english">I have read your new book.</span></p>

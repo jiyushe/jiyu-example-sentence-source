@@ -1,5 +1,7 @@
 # 条规
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaogui.md)
+
 <p><span class="chinese">我可以出示给您那些条规吗？</span><span class="english">May I show you the regulations?</span></p>
 
 <p><span class="chinese">或许您要读一读那些条规。</span><span class="english">Perhaps you would read the regulations.</span></p>

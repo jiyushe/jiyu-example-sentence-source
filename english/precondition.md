@@ -1,5 +1,7 @@
 # precondition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precondition.md)
+
 <p><span class="chinese">对于当前所有语言来说，良好的IDE支持都是前提条件。</span><span class="english">Good IDE support is a precondition for any language these days.</span></p>
 
 <p><span class="chinese">ISAR成像中的转角估计是进行正确成像的先决条件。</span><span class="english">The estimation of rotation angle is the precondition for ISAR imaging.</span></p>

@@ -1,5 +1,7 @@
 # amoeba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amoeba.md)
+
 <p><span class="chinese">一个阿米巴原虫。</span><span class="english">You've got a single amoeba.</span></p>
 
 <p><span class="chinese">安德森先生，快点你是个人或阿米巴变形虫？</span><span class="english">Come on! Are you a man or an amoeba?</span></p>

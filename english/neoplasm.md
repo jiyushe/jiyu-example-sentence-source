@@ -1,5 +1,7 @@
 # neoplasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neoplasm.md)
+
 <p><span class="chinese">原发性兰尾癌是很稀有肿瘤。</span><span class="english">Primary appendiceal cancer is a rare neoplasm.</span></p>
 
 <p><span class="chinese">而肿瘤是经膀胱镜活体切片而确定之。</span><span class="english">The neoplasm was diagnosed by cystoscopic biopsy.</span></p>

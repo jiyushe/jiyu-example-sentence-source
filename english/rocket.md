@@ -1,5 +1,7 @@
 # rocket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rocket.md)
+
 <p><span class="chinese">但是，火箭燃料？</span><span class="english">But rocket fuel?</span></p>
 
 <p><span class="chinese">人类可以制造宇宙火箭。</span><span class="english">Man can made space rocket.</span></p>

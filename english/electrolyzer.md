@@ -1,5 +1,7 @@
 # electrolyzer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrolyzer.md)
+
 <p><span class="chinese">总结了S-3000型压滤式F4隔膜电解槽的开发研制过程。</span><span class="english">The development of F4 diaphragm electrolyzer with S-3000 press filter is summarized.</span></p>
 
 <p><span class="chinese">论述了复极式离子膜电解槽运行过程中的维护。</span><span class="english">The maintenance of bipolar ion-exchange membrane electrolyzer during its operation is discussed.</span></p>

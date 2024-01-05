@@ -1,5 +1,7 @@
 # 梦游症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengyouzheng.md)
+
 <p><span class="chinese">那像一种梦游症。</span><span class="english">I think that is like sleepwalking.</span></p>
 
 <p><span class="chinese">还是今天，我突然发现我竟然有梦游症！</span><span class="english">Today, I found out apparently I sleep walk.</span></p>

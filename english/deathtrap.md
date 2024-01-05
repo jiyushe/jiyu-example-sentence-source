@@ -1,5 +1,7 @@
 # deathtrap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deathtrap.md)
+
 <p><span class="chinese">但这不再是死亡陷阱。</span><span class="english">But it is no longer a deathtrap.</span></p>
 
 <p><span class="chinese">那座旧楼是危险建筑。</span><span class="english">That old building is a deathtrap.</span></p>

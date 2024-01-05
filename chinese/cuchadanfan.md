@@ -1,5 +1,7 @@
 # 粗茶淡饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuchadanfan.md)
+
 <p><span class="chinese">他们吃了一顿粗茶淡饭。</span><span class="english">They made a poor meal.</span></p>
 
 <p><span class="chinese">所以吃些粗茶淡饭、适量饮食。</span><span class="english">So eat simply and moderately.</span></p>

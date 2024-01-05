@@ -1,5 +1,7 @@
 # skyward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skyward.md)
+
 <p><span class="chinese">该网的空中家园。</span><span class="english">The reticulum of our skyward home.</span></p>
 
 <p><span class="chinese">她抬头挺胸，鼻孔朝天地走。</span><span class="english">She walked with her shoulders back and her nose pointing skyward.</span></p>

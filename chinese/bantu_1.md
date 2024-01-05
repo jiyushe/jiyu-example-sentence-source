@@ -1,5 +1,7 @@
 # 斑秃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bantu_1.md)
+
 <p><span class="chinese">没有人知道什么激活斑秃。</span><span class="english">No one knows what activates Alopecia Areata.</span></p>
 
 <p><span class="chinese">斑秃通常是一个临时的条件。</span><span class="english">Alopecia Areata is usually a temporary condition.</span></p>

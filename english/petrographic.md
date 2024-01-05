@@ -1,5 +1,7 @@
 # petrographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrographic.md)
+
 <p><span class="chinese">地质学上，此石材属于火山凝灰岩。</span><span class="english">In petrographic terms, this stone is defined as volcanic tufa.</span></p>
 
 <p><span class="chinese">硅酸盐岩相分析技术做为一种有效的研究方法广泛应用于玻璃结石缺陷的分析鉴定。</span><span class="english">Silicate petrographic analysis is widely used as an effective method in evaluation of stone like defects in glass.</span></p>

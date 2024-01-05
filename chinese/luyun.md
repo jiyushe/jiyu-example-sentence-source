@@ -1,5 +1,7 @@
 # 陆运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luyun.md)
+
 <p><span class="chinese">恒坤陆运面包车搬家出租50元起！</span><span class="english">New off-road minibuses 50 yuan up!</span></p>
 
 <p><span class="chinese">你们有没有办法用海陆运输，将货品准时送达？</span><span class="english">Would you be able to get it there on time by a ground delivery?</span></p>

@@ -1,5 +1,7 @@
 # drought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drought.md)
+
 <p><span class="chinese">旱情严重。</span><span class="english">The drought is serious.</span></p>
 
 <p><span class="chinese">不久之后东扎镇就出现了。</span><span class="english">Soon afterward drought set in.</span></p>

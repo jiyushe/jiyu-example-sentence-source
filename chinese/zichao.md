@@ -1,5 +1,7 @@
 # 自嘲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zichao.md)
+
 <p><span class="chinese">这就是她善于自嘲的特点。</span><span class="english">There is that characteristic self-deprecation.</span></p>
 
 <p><span class="chinese">不要坐立不安，语气嘲讽或自嘲。</span><span class="english">Don't fidget, be sarcastic or self-deprecating.</span></p>

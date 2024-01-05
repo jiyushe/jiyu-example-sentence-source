@@ -1,5 +1,7 @@
 # churchman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/churchman.md)
+
 <p><span class="chinese">期位督教教士，传助情侣。</span><span class="english">Churchman who reportedly helped young lovers.</span></p>
 
 <p><span class="chinese">爱德华想立即见他的牧师。</span><span class="english">Edward wanted to see his churchman right away.</span></p>

@@ -1,5 +1,7 @@
 # 瞳仁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongren_1.md)
+
 <p><span class="chinese">那否认的瞳仁。</span><span class="english">The pupil in denial.</span></p>
 
 <p><span class="chinese">医生打着手电筒检查他的瞳仁。</span><span class="english">The doctor is examining his pupil with a torch.</span></p>

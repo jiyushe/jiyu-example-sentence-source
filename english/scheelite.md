@@ -1,5 +1,7 @@
 # scheelite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scheelite.md)
+
 <p><span class="chinese">杨金沟白钨矿床产于五道沟群中。</span><span class="english">The Yangjingou scheelite occurs in Wudaogou Group.</span></p>
 
 <p><span class="chinese">钨矿物除黑钨矿外，还伴生有少量白钨矿。</span><span class="english">There is also small amount of associated scheelite other than wolframite.</span></p>

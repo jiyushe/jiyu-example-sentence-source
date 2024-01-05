@@ -1,5 +1,7 @@
 # papermaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/papermaking.md)
+
 <p><span class="chinese">造纸和造纸设备是不可分的。</span><span class="english">Papermaking and papermaking equipment are impartible.</span></p>
 
 <p><span class="chinese">蔗渣还是廉价优良的造纸原料吗?。</span><span class="english">Bagasse, Still a Cheap and Good Fibre for papermaking?</span></p>

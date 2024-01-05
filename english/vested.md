@@ -1,5 +1,7 @@
 # vested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vested.md)
+
 <p><span class="chinese">在日本主权操在国民手里。</span><span class="english">In Japan authority is vested in the people.</span></p>
 
 <p><span class="chinese">我们在这方面没有既得利益。</span><span class="english">We have no vested interest in this respect.</span></p>

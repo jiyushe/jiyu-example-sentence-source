@@ -1,5 +1,7 @@
 # leukoplakia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leukoplakia.md)
+
 <p><span class="chinese">因此，对毛状白斑的出现应予以高度重视。</span><span class="english">Therefore, the emergence of hairy leukoplakia should be high priority.</span></p>
 
 <p><span class="chinese">口腔粘膜白斑病是一种严峻的口腔粘膜癌变前疾病。</span><span class="english">Oral leukoplakia is an important premalignant lesion of the oral mucosa.</span></p>

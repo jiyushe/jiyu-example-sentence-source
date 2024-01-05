@@ -1,5 +1,7 @@
 # 地脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dijiao_1.md)
+
 <p><span class="chinese">使身体向前越过你着地脚。</span><span class="english">Get forward over your foot strike.</span></p>
 
 <p><span class="chinese">备有地脚安装和法兰安装形式。</span><span class="english">It has feet arrangement and flange arrangement.</span></p>

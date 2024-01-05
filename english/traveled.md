@@ -1,5 +1,7 @@
 # traveled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traveled.md)
+
 <p><span class="chinese">他们一起旅游。</span><span class="english">They traveled together.</span></p>
 
 <p><span class="chinese">他去过南方旅游</span><span class="english">He traveled in the South.</span></p>

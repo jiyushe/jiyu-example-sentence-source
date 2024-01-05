@@ -1,5 +1,7 @@
 # hostelry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hostelry.md)
+
 <p><span class="chinese">我们怎麽不搬到本地旅馆去住呢?</span><span class="english">Why don't we adjourn to the local hostelry?</span></p>
 
 <p><span class="chinese">那个年轻的女人跨着轻盈的步子朝拥挤的旅馆走去。</span><span class="english">The young woman stepped lightly across to the crowded hostelry.</span></p>

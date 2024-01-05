@@ -1,5 +1,7 @@
 # loudness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loudness.md)
+
 <p><span class="chinese">渐弱力量或音量的逐渐减弱。</span><span class="english">A gradual decrease in force or loudness.</span></p>
 
 <p><span class="chinese">从他们所听到声音的大小声。</span><span class="english">From the loudness of the tone they heard.</span></p>

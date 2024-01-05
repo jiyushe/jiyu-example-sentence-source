@@ -1,5 +1,7 @@
 # 旅费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvfei.md)
+
 <p><span class="chinese">玛丽亚会给你报销旅费吗？</span><span class="english">And will Maria pay for the trip?</span></p>
 
 <p><span class="chinese">在摆渡人的掌中支付了通向死亡的旅费。</span><span class="english">In Charon's palm it pay the toll to Death.</span></p>

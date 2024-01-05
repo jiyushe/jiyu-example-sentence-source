@@ -1,5 +1,7 @@
 # 白夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiye.md)
+
 <p><span class="chinese">黑昼茫茫，白夜朗朗。</span><span class="english">In blackest day, in brightest night.</span></p>
 
 <p><span class="chinese">进入“白夜”，恢复观看。</span><span class="english">Enter the white night, continue watching.</span></p>

@@ -1,5 +1,7 @@
 # demographer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demographer.md)
+
 <p><span class="chinese">罗马大学安东尼奥教授是位人口统计学家。</span><span class="english">Professor Antonio Golini is a demographer at the University of Rome.</span></p>
 
 <p><span class="chinese">“我真的非常震惊，”牛津大学人口统计学家斯图尔特·让泰尔-巴斯顿评论计划生育政策。</span><span class="english">Oxford demographer who has argued for the end of the one-child policy.</span></p>

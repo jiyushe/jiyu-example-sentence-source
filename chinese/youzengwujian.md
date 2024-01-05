@@ -1,5 +1,7 @@
 # 有增无减
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzengwujian.md)
+
 <p><span class="chinese">心中的愤恨有增无减。</span><span class="english">The resentment festered in his mind.</span></p>
 
 <p><span class="chinese">他们的扩张欲望有增无减。</span><span class="english">Their desire for expansion has increased.</span></p>

@@ -1,5 +1,7 @@
 # 石经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijing_4.md)
+
 <p><span class="chinese">被粉碎的矿石经排料部分排出筒外。</span><span class="english">Be crushed ore by discharging part eduction canister outside.</span></p>
 
 <p><span class="chinese">说明作“吉”解读的帛书本和汉石经本并非主流版本。</span><span class="english">It shows that the version in which the word is interpreted as Ji is not a current one.</span></p>

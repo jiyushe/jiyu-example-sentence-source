@@ -1,5 +1,7 @@
 # 庞杂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangza.md)
+
 <p><span class="chinese">而我听说一旦被熏烤之后处境就更庞杂。</span><span class="english">I hear it gets even more complicgotd once they're smoked.</span></p>
 
 <p><span class="chinese">他们要从大量庞杂的证据中推断事实。</span><span class="english">They should evolve the truth from a mass of confused evidence.</span></p>

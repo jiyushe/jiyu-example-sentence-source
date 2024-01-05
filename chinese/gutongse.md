@@ -1,5 +1,7 @@
 # 古铜色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gutongse.md)
+
 <p><span class="chinese">阳光晒得他们的脸呈古铜色。</span><span class="english">The sun bronzed their faces.</span></p>
 
 <p><span class="chinese">他的面孔被太阳晒成古铜色。</span><span class="english">His face was bronzed by the sun.</span></p>

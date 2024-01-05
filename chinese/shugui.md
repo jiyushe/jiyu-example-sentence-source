@@ -1,5 +1,7 @@
 # 书柜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shugui.md)
+
 <p><span class="chinese">她是一个“书柜”。</span><span class="english">She is a book-keeper.</span></p>
 
 <p><span class="chinese">带有两个橱柜的书柜。</span><span class="english">Credenza with 2 cabinets.</span></p>

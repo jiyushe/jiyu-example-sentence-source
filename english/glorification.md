@@ -1,5 +1,7 @@
 # glorification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glorification.md)
+
 <p><span class="chinese">国小六年级学童有较高的偶像崇拜倾向。</span><span class="english">Sixth grade students showed higher idol glorification tendency.</span></p>
 
 <p><span class="chinese">由此，最后的结果，是上帝得到荣耀。</span><span class="english">Thereby, the ultimate result would be the glorification of God.</span></p>

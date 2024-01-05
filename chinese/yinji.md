@@ -1,5 +1,7 @@
 # 印记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinji.md)
+
 <p><span class="chinese">继续进行，留下印记。</span><span class="english">Keep going. And leave tracks.</span></p>
 
 <p><span class="chinese">将整齐的印记钉入林间的</span><span class="english">Sets neat prints into the snow</span></p>

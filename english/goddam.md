@@ -1,5 +1,7 @@
 # goddam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goddam.md)
+
 <p><span class="chinese">你不会有那个该死的东西的！</span><span class="english">You won't get a goddam thing!</span></p>
 
 <p><span class="chinese">你要它撞上该死的地球？</span><span class="english">You want it hitting the goddam Earth?</span></p>

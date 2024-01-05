@@ -1,5 +1,7 @@
 # 小偷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaotou.md)
+
 <p><span class="chinese">抓小偷!</span><span class="english">Stop the thief!</span></p>
 
 <p><span class="chinese">他们是小偷。</span><span class="english">They are thiefs.</span></p>

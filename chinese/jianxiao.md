@@ -1,5 +1,7 @@
 # 见效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianxiao.md)
+
 <p><span class="chinese">首先，见效快。</span><span class="english">First, it's quick.</span></p>
 
 <p><span class="chinese">阿司匹林药片见效快。</span><span class="english">The aspirins soon take effect.</span></p>

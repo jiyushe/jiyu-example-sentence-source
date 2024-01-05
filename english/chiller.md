@@ -1,5 +1,7 @@
 # chiller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiller.md)
+
 <p><span class="chinese">拆下冷冻机前面板。</span><span class="english">Dismantle the front panel of the chiller.</span></p>
 
 <p><span class="chinese">1989年吸收式制冷机销售总量达到15000台。</span><span class="english">Ex-works absorption chiller amounted to 15000 units.</span></p>

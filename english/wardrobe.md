@@ -1,5 +1,7 @@
 # wardrobe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wardrobe.md)
+
 <p><span class="chinese">买一个新衣柜。</span><span class="english">Get a new wardrobe.</span></p>
 
 <p><span class="chinese">一个衣橱拆成若干小块。</span><span class="english">A wardrobe taken to pieces.</span></p>

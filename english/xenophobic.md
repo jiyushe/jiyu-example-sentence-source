@@ -1,5 +1,7 @@
 # xenophobic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xenophobic.md)
+
 <p><span class="chinese">我遇到的阿富汗人既不排外，也不好战。</span><span class="english">The Afghans I met were neither xenophobic nor bellicose.</span></p>
 
 <p><span class="chinese">世界杯东道主-南非隐瞒仇外暴乱风波。</span><span class="english">The World Cup hosts hunker down for a wave of xenophobic violence.</span></p>

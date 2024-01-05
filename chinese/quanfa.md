@@ -1,5 +1,7 @@
 # 拳法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanfa.md)
+
 <p><span class="chinese">是学习中国武术理想入门拳法。</span><span class="english">It is a ideal rudimental form of chinese Wushu.</span></p>
 
 <p><span class="chinese">在拳击比赛中组合拳是一种常用的拳法。</span><span class="english">Combined boxing is a common boxing in the boxing match.</span></p>

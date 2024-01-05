@@ -1,5 +1,7 @@
 # grasping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grasping.md)
+
 <p><span class="chinese">他们都是些一毛不拔的人。</span><span class="english">They were a grasping lot.</span></p>
 
 <p><span class="chinese">阿克蒙德了抓的姿态。</span><span class="english">Archimonde made a grasping gesture.</span></p>

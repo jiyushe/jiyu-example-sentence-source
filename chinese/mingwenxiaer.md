@@ -1,5 +1,7 @@
 # 名闻遐迩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingwenxiaer.md)
+
 <p><span class="chinese">温哥华市面积更小但同样名闻遐迩。</span><span class="english">Smaller in size, but equally famous, is the city of Vancouver.</span></p>
 
 <p><span class="chinese">“萧山萝卜干”，浙江名产，因其品质超群而名闻遐迩。</span><span class="english">Xiaoshan Dried Turnip is a famous specialty in Zhejiang Province.</span></p>

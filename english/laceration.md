@@ -1,5 +1,7 @@
 # laceration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laceration.md)
+
 <p><span class="chinese">他头上也有一道口子。</span><span class="english">He had a laceration on his head.</span></p>
 
 <p><span class="chinese">裂口看来不太严重。</span><span class="english">The laceration doesn't look too serious.</span></p>

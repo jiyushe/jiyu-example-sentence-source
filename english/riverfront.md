@@ -1,5 +1,7 @@
 # riverfront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riverfront.md)
+
 <p><span class="chinese">请把我送到上海龙东商务酒店，谢谢。</span><span class="english">Please take me to the RiverFront Business Hotel . Thank you.</span></p>
 
 <p><span class="chinese">南京下关滨江区将成为一个新的社区聚集区。</span><span class="english">Xiaguan Riverfront will be a collection of new neighborhoods.</span></p>

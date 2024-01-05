@@ -1,5 +1,7 @@
 # 功亏一篑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongkuiyikui.md)
+
 <p><span class="chinese">这就是苏亚雷兹----总是功亏一篑。</span><span class="english">That's Juarez – always falling just short.</span></p>
 
 <p><span class="chinese">这位功亏一篑的007号队员名叫王星。</span><span class="english">The fall short of players named wang, 007.</span></p>

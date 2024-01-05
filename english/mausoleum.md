@@ -1,5 +1,7 @@
 # mausoleum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mausoleum.md)
+
 <p><span class="chinese">啊，这座土堆就是陵墓啊？</span><span class="english">Is this mound the mausoleum?</span></p>
 
 <p><span class="chinese">再说始皇帝陵。</span><span class="english">Besides First Emperor Mausoleum.</span></p>

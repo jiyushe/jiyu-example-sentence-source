@@ -1,5 +1,7 @@
 # configurated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/configurated.md)
+
 <p><span class="chinese">单位为存储重要资料的电脑配置了稳压电源。</span><span class="english">The company configurated a steady power supply for computers stored with important information.</span></p>
 
 <p><span class="chinese">特殊四层设计，配置活性碳过滤层可有效吸附异味。</span><span class="english">Special four-layer design configurated activated carbon filters , which can be effective absorption odor.</span></p>

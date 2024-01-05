@@ -1,5 +1,7 @@
 # 书城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shucheng.md)
+
 <p><span class="chinese">我碰巧看到李先生。他正在逛书城。</span><span class="english">I happened to see Mr. Lee. He was visiting the bookstore.</span></p>
 
 <p><span class="chinese">“书城”是新加坡哪一个商业中心的别称？</span><span class="english">Which commercial complex is also known as the "book city"?</span></p>

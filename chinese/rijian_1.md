@@ -1,5 +1,7 @@
 # 日见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rijian_1.md)
+
 <p><span class="chinese">年龄的增长使我思想日见迟钝了。</span><span class="english">Old age is dulling my thinking.</span></p>
 
 <p><span class="chinese">他因癌症缠身而日见衰弱无力。</span><span class="english">He seems to be dying from cancer.</span></p>

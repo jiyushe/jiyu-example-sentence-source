@@ -1,5 +1,7 @@
 # 解难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jienan.md)
+
 <p><span class="chinese">叶定邦是一位世界级的排疑解难高手。</span><span class="english">Vincent Ip Ting Pong is a world-class problem-solver.</span></p>
 
 <p><span class="chinese">我会替丈夫分忧解难。</span><span class="english">I would have shared more of the responsibility carried by my husband.</span></p>

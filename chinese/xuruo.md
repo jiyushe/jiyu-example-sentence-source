@@ -1,5 +1,7 @@
 # 虚弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuruo.md)
+
 <p><span class="chinese">她当时太虚弱。</span><span class="english">She was too weak.</span></p>
 
 <p><span class="chinese">你看起来很虚弱啊。</span><span class="english">You look run-down.</span></p>

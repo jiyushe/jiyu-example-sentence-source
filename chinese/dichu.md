@@ -1,5 +1,7 @@
 # 地处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dichu.md)
+
 <p><span class="chinese">衣阿华州地处玉米带。</span><span class="english">We sowed the field with corn.</span></p>
 
 <p><span class="chinese">银川地处沙漠气候。</span><span class="english">Yinchuan has a desert climate.</span></p>

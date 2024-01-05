@@ -1,5 +1,7 @@
 # 杂音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zayin.md)
+
 <p><span class="chinese">这收音机杂音很多。</span><span class="english">There is much noise in this radio.</span></p>
 
 <p><span class="chinese">主要理由是反馈杂音的存在。</span><span class="english">And the reason for that is feedback.</span></p>

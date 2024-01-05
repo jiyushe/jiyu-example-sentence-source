@@ -1,5 +1,7 @@
 # 开腔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiqiang.md)
+
 <p><span class="chinese">你怎么不开腔?</span><span class="english">Why don't you utter a word?</span></p>
 
 <p><span class="chinese">因此，我要需做一个开腔手术。</span><span class="english">This led to open-heart surgery.</span></p>

@@ -1,5 +1,7 @@
 # 一叶障目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyezhangmu.md)
+
 <p><span class="chinese">“一叶障目，不见泰山”——这两天老翻译到的成语。</span><span class="english">A leaf before the eye shuts the sight of Mount Tai.</span></p>
 
 <p><span class="chinese">但这些改革有着一叶障目，不见泰山的风险。</span><span class="english">But there is a danger of missing the wood for the trees.</span></p>

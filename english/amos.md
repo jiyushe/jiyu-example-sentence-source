@@ -1,5 +1,7 @@
 # amos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amos.md)
+
 <p><span class="chinese">阿莫斯现在做什么呢？</span><span class="english">What does Amos do now?</span></p>
 
 <p><span class="chinese">本。阿莫斯守门。</span><span class="english">Ben Amos will keep goal.</span></p>

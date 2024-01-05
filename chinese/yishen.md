@@ -1,5 +1,7 @@
 # 一身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishen.md)
+
 <p><span class="chinese">我今天穿了一身黑衣服。</span><span class="english">I'm in black today.</span></p>
 
 <p><span class="chinese">真的是感觉一身轻。</span><span class="english">It is like a light.</span></p>

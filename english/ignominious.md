@@ -1,5 +1,7 @@
 # ignominious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ignominious.md)
+
 <p><span class="chinese">如果你做过不耻的交易，你将来会后悔。</span><span class="english">You will regret for do a ignominious trade.</span></p>
 
 <p><span class="chinese">然而，阿富汗战争或许会在一场不光彩的撤军中结束。</span><span class="english">The Afghan war may yet end in an ignominious retreat.</span></p>

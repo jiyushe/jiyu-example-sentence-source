@@ -1,5 +1,7 @@
 # 人心惶惶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxinhuanghuang.md)
+
 <p><span class="chinese">这就是人心惶惶的真正的原因。</span><span class="english">That’s the real reason to be afraid.</span></p>
 
 <p><span class="chinese">全村很快便人心惶惶了。</span><span class="english">Fear spread quickly through the village.</span></p>

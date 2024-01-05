@@ -1,5 +1,7 @@
 # 审批
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenpi.md)
+
 <p><span class="chinese">他的申请已经送上去审批。</span><span class="english">His application has been sent up for approval.</span></p>
 
 <p><span class="chinese">如果海关审批没有通过就不能退运回法国。</span><span class="english">If not, we would not return the goods to France.</span></p>

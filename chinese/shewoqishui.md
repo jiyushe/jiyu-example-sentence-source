@@ -1,5 +1,7 @@
 # 舍我其谁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shewoqishui.md)
+
 <p><span class="chinese">冠军舍我其谁！</span><span class="english">We are the champion.</span></p>
 
 <p><span class="chinese">拥有天下舍我其谁的气势。</span><span class="english">I am the only real world has the momentum.</span></p>

@@ -1,5 +1,7 @@
 # 放射性污染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangshexingwuran.md)
+
 <p><span class="chinese">最后对闪烁室的放射性污染进行了理论分析。</span><span class="english">In addition, the radio contamination in scintillation chamber is analyzed.</span></p>
 
 <p><span class="chinese">据估计，还有数千人在事故发生后的多年内死于放射性污染引发的癌症或其他疾病。</span><span class="english">It is estimated thousands more have died from cancers and other illnesses in the ensuing years.</span></p>

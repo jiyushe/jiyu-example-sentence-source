@@ -1,5 +1,7 @@
 # 庄稼人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangjiaren.md)
+
 <p><span class="chinese">他是一个淳朴的庄稼人。</span><span class="english">He's an honest peasant.</span></p>
 
 <p><span class="chinese">听本地庄稼人唱的岳得尔歌！</span><span class="english">Listen to the local yokel yodel !</span></p>

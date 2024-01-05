@@ -1,5 +1,7 @@
 # hapten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hapten.md)
+
 <p><span class="chinese">本发明公开了硝基呋喃类物质的一种半抗原、抗原及其制备方法与应用。</span><span class="english">The invention discloses hapten and antigen of nitrofurans and a preparation method and application thereof.</span></p>
 
 <p><span class="chinese">本发明公开了一种苏丹红半抗原与抗原及其制备方法与应用。</span><span class="english">The invention discloses melamine hapten and antigen as well as a preparation method and application thereof.</span></p>

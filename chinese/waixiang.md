@@ -1,5 +1,7 @@
 # 外乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waixiang.md)
+
 <p><span class="chinese">他对外乡女人夸海口说他是多面手。</span><span class="english">He boasted to the up-country woman that he was an all-round man.</span></p>
 
 <p><span class="chinese">久居外乡的他总是认为客土里种出来的苹果就是没有家乡的苹果好吃！</span><span class="english">He has lived in a foreign land for a long time, so he always misses home very much.</span></p>

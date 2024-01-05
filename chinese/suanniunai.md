@@ -1,5 +1,7 @@
 # 酸牛奶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanniunai.md)
+
 <p><span class="chinese">小女孩非常想喝酸牛奶。</span><span class="english">The girl thirsted for yogurt.</span></p>
 
 <p><span class="chinese">另一个可以变出酸牛奶的味道。</span><span class="english">Another could create the odor of sour milk.</span></p>

@@ -1,5 +1,7 @@
 # composure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/composure.md)
+
 <p><span class="chinese">他的镇静使我们上了当。</span><span class="english">His composure threw us off.</span></p>
 
 <p><span class="chinese">他表现得非常镇静。</span><span class="english">He behaved with great composure.</span></p>

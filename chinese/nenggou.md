@@ -1,5 +1,7 @@
 # 能够
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nenggou.md)
+
 <p><span class="chinese">它能够增长。</span><span class="english">It can grow.</span></p>
 
 <p><span class="chinese">锈能够折断铁。</span><span class="english">Rust breaks iron.</span></p>

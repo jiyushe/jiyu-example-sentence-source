@@ -1,5 +1,7 @@
 # asmara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asmara.md)
+
 <p><span class="chinese">我们搭乘地区性航空公司“纳斯航空”的飞机飞往阿斯马拉，。</span><span class="english">We flew on Nasair, a regional airline, to Asmara.</span></p>
 
 <p><span class="chinese">这儿几乎没有犯罪，阿斯马拉是非洲最为安全的城市，许多人甚至懒得把他们的自行车上锁。</span><span class="english">There’s almost no crime. Asmara is known as one of the safest cities in Africa.</span></p>

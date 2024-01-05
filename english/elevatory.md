@@ -1,5 +1,7 @@
 # elevatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elevatory.md)
+
 <p><span class="chinese">肝火动，血压会升高吗？</span><span class="english">Irascibility is moved, is blood pressure elevatory ?</span></p>
 
 <p><span class="chinese">转氨酶正常值是多少？升高代表什么？</span><span class="english">How much is transaminase is worth normally? Elevatory delegate what?</span></p>

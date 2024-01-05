@@ -1,5 +1,7 @@
 # 盐沼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhao_1.md)
+
 <p><span class="chinese">盐沼，盐泉，盐塘或盐湖。</span><span class="english">A salt marsh, spring, pond, or lake.</span></p>
 
 <p><span class="chinese">在纳米比亚的索苏斯盐沼，两个远足旅客攀登沙丘45。</span><span class="english">Two hikers climb Dune 45 at Sossusvlei, Namibia.</span></p>

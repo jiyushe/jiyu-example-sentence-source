@@ -1,5 +1,7 @@
 # comonomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comonomer.md)
+
 <p><span class="chinese">根据共单体介入所产生的诸多方面影响的综合作用，对这一现象进行了解释。</span><span class="english">It is reasoned that the integration of various effects caused by the comonomer had made such changes.</span></p>
 
 <p><span class="chinese">只有在同级予目中的聚合物共聚单体单元才可以进行比较。</span><span class="english">Only the constituent comonomer units of the polymers in the series under consideration are to be compared.</span></p>

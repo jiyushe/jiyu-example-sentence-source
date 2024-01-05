@@ -1,5 +1,7 @@
 # 心情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinqing.md)
+
 <p><span class="chinese">心情似雪碧!</span><span class="english">Feeling like Sprite!</span></p>
 
 <p><span class="chinese">我平服自己激动的心情。</span><span class="english">I lay my excitement.</span></p>

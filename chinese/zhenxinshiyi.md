@@ -1,5 +1,7 @@
 # 真心实意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenxinshiyi.md)
+
 <p><span class="chinese">我们真心实意希望进行磋商。</span><span class="english">We genuinely want to engage in consultation.</span></p>
 
 <p><span class="chinese">富贵这人实诚，对兄弟是真心实意。</span><span class="english">The rich people honest, the brothers is sincere.</span></p>

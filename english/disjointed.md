@@ -1,5 +1,7 @@
 # disjointed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disjointed.md)
+
 <p><span class="chinese">她跌了一跤，脚踝脱臼了。</span><span class="english">Her ankle disjointed when she fell.</span></p>
 
 <p><span class="chinese">罪犯杀死并肢解了她。</span><span class="english">The criminal killed and disjointed her.</span></p>

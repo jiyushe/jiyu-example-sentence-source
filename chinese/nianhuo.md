@@ -1,5 +1,7 @@
 # 年货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianhuo.md)
+
 <p><span class="chinese">过年了要忙年货。</span><span class="english">New Year New Year to be busy.</span></p>
 
 <p><span class="chinese">他们把买来的年货放得满地都地。</span><span class="english">They bought often put all over the floor.</span></p>

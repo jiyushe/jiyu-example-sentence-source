@@ -1,5 +1,7 @@
 # potentiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potentiate.md)
+
 <p><span class="chinese">口服抗凝血剂，会增强，也有人认为延长出血。</span><span class="english">May potentiate oral anticoagulants, others that prolong bleeding.</span></p>
 
 <p><span class="chinese">适应了苦味的咖啡因后会对水产生一种甜味。</span><span class="english">For example, adaptation to caffeine appears to potentiate a sweet taste from water.</span></p>

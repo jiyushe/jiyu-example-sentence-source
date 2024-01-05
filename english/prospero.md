@@ -1,5 +1,7 @@
 # prospero
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prospero.md)
+
 <p><span class="chinese">为什么普洛斯彼罗回到欧洲后就不再施法术了？</span><span class="english">Why does Prospero abandon his magic when he returns to Europe?</span></p>
 
 <p><span class="chinese">追求知识首先争取普洛斯彼罗进麻烦之内。</span><span class="english">The pursuit of knowledge gets Prospero into trouble in the first place.</span></p>

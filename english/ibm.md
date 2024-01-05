@@ -1,5 +1,7 @@
 # ibm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ibm.md)
+
 <p><span class="chinese">IBM日本鼓励灵活工作时间。</span><span class="english">IBM Japan encourages flexitime.</span></p>
 
 <p><span class="chinese">没人的执行力比IBM更好了。</span><span class="english">Nobody executes better than IBM.</span></p>

@@ -1,5 +1,7 @@
 # 田产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianchan.md)
+
 <p><span class="chinese">收取地租是田产管理人的负责。</span><span class="english">Collecting rents is the responsibilities of the land agent.</span></p>
 
 <p><span class="chinese">彼德对邻居的田产垂涎三尺，但却没办法让她卖掉它。</span><span class="english">Peter coveted his neighbor's farm but could not get her to sell it.</span></p>

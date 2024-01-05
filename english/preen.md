@@ -1,5 +1,7 @@
 # preen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preen.md)
+
 <p><span class="chinese">你梳你颈。</span><span class="english">You preen your neck.</span></p>
 
 <p><span class="chinese">你梳你胸。</span><span class="english">You preen your chest.</span></p>

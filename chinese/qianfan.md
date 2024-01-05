@@ -1,5 +1,7 @@
 # 遣返
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfan.md)
+
 <p><span class="chinese">谢谢。有遣返旅客吗？</span><span class="english">Thanks. Is there any deportee ?</span></p>
 
 <p><span class="chinese">请问你们警方是押解了一名遣返人员吗？</span><span class="english">Is there a deportee under your escort?</span></p>

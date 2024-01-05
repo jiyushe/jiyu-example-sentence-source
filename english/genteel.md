@@ -1,5 +1,7 @@
 # genteel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genteel.md)
+
 <p><span class="chinese">鸽子是一种美丽而温柔的鸟。</span><span class="english">The pigeon is a beautiful and genteel bird.</span></p>
 
 <p><span class="chinese">利迪娅想，她是有教养的女性中的一个范例。</span><span class="english">She was a good example of a genteel woman, Lydia thought.</span></p>

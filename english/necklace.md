@@ -1,5 +1,7 @@
 # necklace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necklace.md)
+
 <p><span class="chinese">一条项链，一只戒指，还有耳钉。</span><span class="english">A necklace. A ring.</span></p>
 
 <p><span class="chinese">她当掉了她的项链。</span><span class="english">She popped her necklace.</span></p>

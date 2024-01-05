@@ -1,5 +1,7 @@
 # osmanthus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osmanthus.md)
+
 <p><span class="chinese">我喜欢桂花。</span><span class="english">I like sweet-scented osmanthus.</span></p>
 
 <p><span class="chinese">桂花是杭州的市花。</span><span class="english">Osmanthus is Hangzhou City flower.</span></p>

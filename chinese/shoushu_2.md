@@ -1,5 +1,7 @@
 # 手术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushu_2.md)
+
 <p><span class="chinese">胸部手术。</span><span class="english">A chest operation.</span></p>
 
 <p><span class="chinese">我准备好要做拉皮手术了。</span><span class="english">I'm ready for a lift.</span></p>

@@ -1,5 +1,7 @@
 # dioptric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dioptric.md)
+
 <p><span class="chinese">设计了一套光焦度测量采集处理系统。</span><span class="english">A collecting and processing system is designed for the dioptric measurement.</span></p>
 
 <p><span class="chinese">因为他的视觉建构，李奥纳多、达文西既是科学家，也是艺术家。</span><span class="english">Leonardo da Vinci is both a scientist, on account of his dioptric constructions, and an artist.</span></p>

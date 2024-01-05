@@ -1,5 +1,7 @@
 # 喜怒无常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinuwuchang.md)
+
 <p><span class="chinese">他不会喜怒无常。</span><span class="english">He's not moody.</span></p>
 
 <p><span class="chinese">他学会了忍受她的喜怒无常。</span><span class="english">He has learnt to live with her moodiness.</span></p>

@@ -1,5 +1,7 @@
 # zany
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zany.md)
+
 <p><span class="chinese">我们可以稍稍疯狂一点，即便有点像个小丑也没关系。</span><span class="english">Free to be a bit wild. Even zany.</span></p>
 
 <p><span class="chinese">我想早间音乐主持人是很愚蠢的。</span><span class="english">I thought morning deejays were supposed to be zany.</span></p>

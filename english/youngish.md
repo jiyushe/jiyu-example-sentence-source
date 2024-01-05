@@ -1,5 +1,7 @@
 # youngish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/youngish.md)
+
 <p><span class="chinese">他是一个年轻人，明显地担忧而焦虑。</span><span class="english">He was a youngish man, obviously worried and anxious.</span></p>
 
 <p><span class="chinese">你认为自杀是否趋向年轻化？</span><span class="english">Do you think that committing suicide is becoming more youngish ?</span></p>

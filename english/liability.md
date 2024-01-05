@@ -1,5 +1,7 @@
 # liability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liability.md)
+
 <p><span class="chinese">你没有责任赔偿损失。</span><span class="english">You hold no liability of damages.</span></p>
 
 <p><span class="chinese">您保了事故责任险的。</span><span class="english">You have accident liability coverage.</span></p>

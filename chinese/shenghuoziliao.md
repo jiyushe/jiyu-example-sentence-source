@@ -1,5 +1,7 @@
 # 生活资料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenghuoziliao.md)
+
 <p><span class="chinese">生活资料只能按算术级数增长。</span><span class="english">Subsistence only increases in an arithmetic ratio.</span></p>
 
 <p><span class="chinese">住宅是居民基本的生活资料。</span><span class="english">House is the basic living subsistence for the residents.</span></p>

@@ -1,5 +1,7 @@
 # measurement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/measurement.md)
+
 <p><span class="chinese">罩杯测量。</span><span class="english">Cup measurement.</span></p>
 
 <p><span class="chinese">为某人量尺寸。</span><span class="english">Take one's measurement.</span></p>

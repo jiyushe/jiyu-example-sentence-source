@@ -1,5 +1,7 @@
 # 早饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaofan.md)
+
 <p><span class="chinese">嗨，早饭怎么样？</span><span class="english">Hey, what about breakfast?</span></p>
 
 <p><span class="chinese">好吃好吃，我爱早饭。</span><span class="english">Yami yami , I love breakfast.</span></p>

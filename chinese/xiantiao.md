@@ -1,5 +1,7 @@
 # 线条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiantiao.md)
+
 <p><span class="chinese">想补充蛋白质练出肌肉线条？</span><span class="english">Protein to Build Muscle?</span></p>
 
 <p><span class="chinese">你能画出这些线条么？</span><span class="english">Can you draw these lines?</span></p>

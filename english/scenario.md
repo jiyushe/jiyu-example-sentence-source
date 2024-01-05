@@ -1,5 +1,7 @@
 # scenario
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scenario.md)
+
 <p><span class="chinese">以“班级已满”为例。</span><span class="english">Take the class-is-full scenario.</span></p>
 
 <p><span class="chinese">再设想一组情景。</span><span class="english">Consider another fictive scenario.</span></p>

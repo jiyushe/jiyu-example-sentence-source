@@ -1,5 +1,7 @@
 # cayman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cayman.md)
+
 <p><span class="chinese">这张照片是在大开曼岛的伊登岩下拍摄的。</span><span class="english">The picture was taken at Eden Rock, Grand Cayman.</span></p>
 
 <p><span class="chinese">是啊。昨天的开曼群岛简直就是天堂。</span><span class="english">Yes. Oh, the Cayman Islands yesterday were heaven.</span></p>

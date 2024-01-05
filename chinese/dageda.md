@@ -1,5 +1,7 @@
 # 大哥大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dageda.md)
+
 <p><span class="chinese">我需要充电我的大哥大。</span><span class="english">I need to recharge my cell phone.</span></p>
 
 <p><span class="chinese">我有试着打你的大哥大，但忙线中。</span><span class="english">I tried to call your mobile phone, but it was busy.</span></p>

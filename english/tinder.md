@@ -1,5 +1,7 @@
 # tinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinder.md)
+
 <p><span class="chinese">植物经过长期乾旱之后乾枯得如同火绒一般。</span><span class="english">The plant is as dry as tinder after this long drought.</span></p>
 
 <p><span class="chinese">植物经过长期干旱之后干枯得如同火绒一般。</span><span class="english">The plants are as dry as tinder after this long drought.</span></p>

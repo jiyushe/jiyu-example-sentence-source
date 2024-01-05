@@ -1,5 +1,7 @@
 # 身长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenchang_1.md)
+
 <p><span class="chinese">她现在身长也超过了一英尺。</span><span class="english">She’s also more than a foot long now.</span></p>
 
 <p><span class="chinese">有人描述他至少身长6英尺7英寸</span><span class="english">Somebody figured out that he was at least 6'7".</span></p>

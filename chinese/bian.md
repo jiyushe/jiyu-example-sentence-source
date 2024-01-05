@@ -1,5 +1,7 @@
 # 彼岸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bian.md)
+
 <p><span class="chinese">一望无际的大海——只愿我能渡到你的彼岸。</span><span class="english">So wide a sea, may I overcome.</span></p>
 
 <p><span class="chinese">陌上花开，生生相错，独自彼岸路。</span><span class="english">Living alone in the wrong way, shore.</span></p>

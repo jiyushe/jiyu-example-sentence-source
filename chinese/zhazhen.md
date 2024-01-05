@@ -1,5 +1,7 @@
 # 扎针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhazhen.md)
+
 <p><span class="chinese">不要怕，扎针不会叫你疼的。</span><span class="english">Don't be afraid. The needles won't hurt you.</span></p>
 
 <p><span class="chinese">上次扎针以后，有什么反应？</span><span class="english">How did you feel after acupuncture last time?</span></p>

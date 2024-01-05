@@ -1,5 +1,7 @@
 # unstudied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unstudied.md)
+
 <p><span class="chinese">大多数爆发未加研究。</span><span class="english">Most outbreaks go unstudied.</span></p>
 
 <p><span class="chinese">以自然的文雅、优雅、魅力等。</span><span class="english">With unstudied elegance, Grace, charm, etc.</span></p>

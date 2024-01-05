@@ -1,5 +1,7 @@
 # profusely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profusely.md)
+
 <p><span class="chinese">水从管子里汩汩喷出。</span><span class="english">Water was jetting profusely from the pipe.</span></p>
 
 <p><span class="chinese">尾巴毛量丰厚形成羽毛状。</span><span class="english">The tail is profusely coated and forms a plume.</span></p>

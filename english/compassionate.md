@@ -1,5 +1,7 @@
 # compassionate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compassionate.md)
+
 <p><span class="chinese">他的心肠挺软。</span><span class="english">He had a compassionate heart.</span></p>
 
 <p><span class="chinese">他是公正的，富有怜悯心的。</span><span class="english">He's just. He's compassionate.</span></p>

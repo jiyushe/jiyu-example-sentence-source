@@ -1,5 +1,7 @@
 # constitutive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constitutive.md)
+
 <p><span class="chinese">组织文件可对这些事项作出规定。</span><span class="english">The constitutive institution may provide for these matters.</span></p>
 
 <p><span class="chinese">提出了一个新的假塑性流体的本构方程。</span><span class="english">A new constitutive equation of pseudoplastic fluids are presented.</span></p>

@@ -1,5 +1,7 @@
 # creed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creed.md)
+
 <p><span class="chinese">不同民族与信仰的人们。</span><span class="english">Men of ev'ry creed and race.</span></p>
 
 <p><span class="chinese">我们的信条一直是公私分明。</span><span class="english">Our creed has always been that business is business.</span></p>

@@ -1,5 +1,7 @@
 # also
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/also.md)
+
 <p><span class="chinese">我乜知道。</span><span class="english">I also knew.</span></p>
 
 <p><span class="chinese">看透了，也就心静了。</span><span class="english">See, also calm.</span></p>

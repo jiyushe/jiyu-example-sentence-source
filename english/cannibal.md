@@ -1,5 +1,7 @@
 # cannibal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannibal.md)
+
 <p><span class="chinese">Packer被称为卡罗拉多的食人者。</span><span class="english">Packer is called the cannibal of Colorado.</span></p>
 
 <p><span class="chinese">帕克是一名美国金矿勘探者及食人犯。</span><span class="english">Packer was an American gold prospector and convicted cannibal.</span></p>

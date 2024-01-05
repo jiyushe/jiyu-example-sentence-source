@@ -1,5 +1,7 @@
 # mooring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mooring.md)
+
 <p><span class="chinese">舵机系泊测验。</span><span class="english">Mooring test of steering gear.</span></p>
 
 <p><span class="chinese">叫系泊站并报告。</span><span class="english">Call mooring station and report.</span></p>

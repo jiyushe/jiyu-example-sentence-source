@@ -1,5 +1,7 @@
 # 冷霜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengshuang.md)
+
 <p><span class="chinese">这个冷霜卸妆很干净。</span><span class="english">This cold cream takes off all my make-up.</span></p>
 
 <p><span class="chinese">她每天早晨往脸上搽冷霜。</span><span class="english">Every morning she rubs coldcream on her face.</span></p>

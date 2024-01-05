@@ -1,5 +1,7 @@
 # peloton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peloton.md)
+
 <p><span class="chinese">7月4日的珀莱东骑在第一阶段。</span><span class="english">The peloton rides July 4 during the first stage.</span></p>
 
 <p><span class="chinese">7月5日至布鲁塞尔和温泉珀洛东游乐设施。</span><span class="english">The peloton rides July 5 between Brussels and Spa.</span></p>

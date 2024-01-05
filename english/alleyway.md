@@ -1,5 +1,7 @@
 # alleyway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alleyway.md)
+
 <p><span class="chinese">大家都知道这条小巷非常危险。</span><span class="english">This alleyway is known to be quite dangerous.</span></p>
 
 <p><span class="chinese">再见！通往青年旅社的小道。</span><span class="english">Good-bye dodgey alleyway leading to our hostel.</span></p>

@@ -1,5 +1,7 @@
 # demerit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demerit.md)
+
 <p><span class="chinese">他们可能会被记大过。</span><span class="english">They might get a big demerit.</span></p>
 
 <p><span class="chinese">记过基本上令人满意。</span><span class="english">Give a demerit basically satisfactory.</span></p>

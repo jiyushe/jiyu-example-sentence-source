@@ -1,5 +1,7 @@
 # 集体经济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jitijingji.md)
+
 <p><span class="chinese">增强集体经济实力。</span><span class="english">We must enhance the economic strength of the collectives.</span></p>
 
 <p><span class="chinese">每个人都在这集体经济的“无故事”中被默默无名地埋葬掉。</span><span class="english">Everyone is buried in the anonymity of the collective economic "non-story."</span></p>

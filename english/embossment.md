@@ -1,5 +1,7 @@
 # embossment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embossment.md)
+
 <p><span class="chinese">卫生纸包裹棉芯，棉芯网压定型。</span><span class="english">Cotton core is packed by toilet paper and finalized by net embossment.</span></p>
 
 <p><span class="chinese">骑士割开战车和上面变成了金文的蜥蜴。</span><span class="english">The knight carved the chariot and the chameleons that had embossment become.</span></p>

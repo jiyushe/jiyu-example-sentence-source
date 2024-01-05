@@ -1,5 +1,7 @@
 # colored
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colored.md)
+
 <p><span class="chinese">我有一些彩色笔。</span><span class="english">I have some colored pens.</span></p>
 
 <p><span class="chinese">拿出你们的彩色笔。</span><span class="english">Take out your colored pencils.</span></p>

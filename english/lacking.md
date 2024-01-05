@@ -1,5 +1,7 @@
 # lacking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacking.md)
+
 <p><span class="chinese">一只么有带子的手提包。</span><span class="english">A valise lacking straps.</span></p>
 
 <p><span class="chinese">么有花园无杂草。</span><span class="english">No garden lacking weeds.</span></p>

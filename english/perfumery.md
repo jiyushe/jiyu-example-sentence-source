@@ -1,5 +1,7 @@
 # perfumery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perfumery.md)
+
 <p><span class="chinese">普罗旺斯是香水业的发源地。</span><span class="english">Provence is the home of perfumery.</span></p>
 
 <p><span class="chinese">但是香味探测器会和人做的选择一样吗？</span><span class="english">But would the perfumery radar make the same choices?</span></p>

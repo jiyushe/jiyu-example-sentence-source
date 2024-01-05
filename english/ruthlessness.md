@@ -1,5 +1,7 @@
 # ruthlessness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruthlessness.md)
+
 <p><span class="chinese">历史，我们知道，它水性杨花又冷酷无情。</span><span class="english">The history, as we know, it is both of easy virtue and ruthlessness.</span></p>
 
 <p><span class="chinese">有的则认为是由于全身心地投入工作以至于对自己近乎残忍的科度。</span><span class="english">Others speak of utter devotion to work, combined with a degree of ruthlessness.</span></p>

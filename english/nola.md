@@ -1,5 +1,7 @@
 # nola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nola.md)
+
 <p><span class="chinese">他的另一个战功是诺拉战役。</span><span class="english">Another of his Achievements was the battle of Nola.</span></p>
 
 <p><span class="chinese">我的朋友诺拉和加里来为我母亲的生日。</span><span class="english">My friends Nola and Gary come for my mother's birthday.</span></p>

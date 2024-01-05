@@ -1,5 +1,7 @@
 # eagerly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eagerly.md)
+
 <p><span class="chinese">狱卒急切地观察着。</span><span class="english">The gaoler looked on eagerly.</span></p>
 
 <p><span class="chinese">那男人一脸期待地望着我。</span><span class="english">The man looked at me eagerly.</span></p>

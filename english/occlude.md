@@ -1,5 +1,7 @@
 # occlude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occlude.md)
+
 <p><span class="chinese">止血带应阻断静脉及淋巴回流。</span><span class="english">The tourniquet should occlude venous and lymphatic return.</span></p>
 
 <p><span class="chinese">这个结构让确定多边形是怎么互相遮罩。</span><span class="english">This structure lets to determine how polygons occlude each other.</span></p>

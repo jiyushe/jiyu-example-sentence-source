@@ -1,5 +1,7 @@
 # 纵情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongqing.md)
+
 <p><span class="chinese">我要纵情欢度此生，我要挥霍我的人生。</span><span class="english">I will spend, squander, dazzle.</span></p>
 
 <p><span class="chinese">只知纵情享乐，而不知他已面临祸殃。</span><span class="english">He knows pleasure but not disaster.</span></p>

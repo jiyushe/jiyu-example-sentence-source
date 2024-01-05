@@ -1,5 +1,7 @@
 # eyestrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyestrain.md)
+
 <p><span class="chinese">是因为用眼疲劳吗？</span><span class="english">Is it because of eyestrain?</span></p>
 
 <p><span class="chinese">有没有好一点的方法解决眼睛疲劳?。</span><span class="english">Does the method that has had solve eyestrain?</span></p>

@@ -1,5 +1,7 @@
 # effusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effusive.md)
+
 <p><span class="chinese">她紧紧地拥抱了我，还是像往常一样热情四溢。</span><span class="english">She hugged me, passionately effusive as always.</span></p>
 
 <p><span class="chinese">过奖了！快别这样说，免得我被冲昏头。</span><span class="english">Such effusive praise! Stop it before it goes to my head.</span></p>

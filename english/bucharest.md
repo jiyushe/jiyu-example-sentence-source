@@ -1,5 +1,7 @@
 # bucharest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bucharest.md)
+
 <p><span class="chinese">我要去伦敦，在布加勒斯特换飞机。</span><span class="english">Li I'm on my way to London, chaning planes at Bucharest.</span></p>
 
 <p><span class="chinese">布什和伯塞斯库在北约首脑会议开始前不久返回布加勒斯特。</span><span class="english">The two returned to Bucharest shortly before the summit began.</span></p>

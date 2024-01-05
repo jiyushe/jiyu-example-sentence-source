@@ -1,5 +1,7 @@
 # 蛀虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuchong.md)
+
 <p><span class="chinese">我喜欢蛀虫。</span><span class="english">I like moths.</span></p>
 
 <p><span class="chinese">毛衣让蛀虫咬坏了。</span><span class="english">The sweater is moth-eaten.</span></p>

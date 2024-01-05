@@ -1,5 +1,7 @@
 # aquatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquatic.md)
+
 <p><span class="chinese">水生食肉动物的海上巡逻。</span><span class="english">Aquatic predators patrolling the sea.</span></p>
 
 <p><span class="chinese">岛下是水生动物的乐园。</span><span class="english">It's the paradise of aquatic animals.</span></p>

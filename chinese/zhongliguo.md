@@ -1,5 +1,7 @@
 # 中立国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongliguo.md)
+
 <p><span class="chinese">他们强把中立国推入战争。</span><span class="english">They thrust a neutral state into war.</span></p>
 
 <p><span class="chinese">挪威在第一次世界大战时期是中立国。</span><span class="english">Norway was a neutral country during World War I.</span></p>

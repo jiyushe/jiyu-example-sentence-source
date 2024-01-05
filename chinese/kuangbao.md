@@ -1,5 +1,7 @@
 # 狂暴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangbao.md)
+
 <p><span class="chinese">在狂暴的风雪中震颤。</span><span class="english">In tempests turbulent.</span></p>
 
 <p><span class="chinese">他的眼睛里露出了狂暴的神色。</span><span class="english">A wild look came into his eyes.</span></p>

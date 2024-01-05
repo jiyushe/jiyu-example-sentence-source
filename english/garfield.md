@@ -1,5 +1,7 @@
 # garfield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garfield.md)
+
 <p><span class="chinese">谁不喜欢加菲猫？</span><span class="english">Who doesn't love Garfield?</span></p>
 
 <p><span class="chinese">乔恩现在不，加菲猫。</span><span class="english">Jon Arbuckle Not now, Garfield.</span></p>

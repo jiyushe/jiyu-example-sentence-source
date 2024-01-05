@@ -1,5 +1,7 @@
 # duma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duma.md)
+
 <p><span class="chinese">也就是后来的杜马</span><span class="english">It became known as the Duma.</span></p>
 
 <p><span class="chinese">条约还必须获得俄罗斯杜马的批准才能生效。</span><span class="english">The Russian Duma must also approve the treaty.</span></p>

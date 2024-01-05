@@ -1,5 +1,7 @@
 # 下作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazuo.md)
+
 <p><span class="chinese">“哦，恶毒，你太下作了吧”天使说。</span><span class="english">"Oh, cheap, very cheap, " said the angel.</span></p>
 
 <p><span class="chinese">好像种子在雪地下作梦，你的心也梦著春天。</span><span class="english">And like seeds dreaming beneath the snow, your heart dreams of spring.</span></p>

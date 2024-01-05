@@ -1,5 +1,7 @@
 # gail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gail.md)
+
 <p><span class="chinese">我们可以去找盖尔和帕特，我说。</span><span class="english">We can go the Gail and Pat, I said.</span></p>
 
 <p><span class="chinese">盖尔·海曼不常去Facebook。</span><span class="english">Gail Heyman didn’t go on Facebook often.</span></p>

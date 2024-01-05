@@ -1,5 +1,7 @@
 # 尝鲜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changxian.md)
+
 <p><span class="chinese">以上所介绍的仅仅是对SourceMate众多特性的一个尝鲜而已。</span><span class="english">This is just a taste of all the features in SourceMate.</span></p>
 
 <p><span class="chinese">没有人会忽视她的存在，尝鲜者会蜂拥而至！</span><span class="english">No one will ignore her presence, early adopters will flock to!</span></p>

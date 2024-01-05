@@ -1,5 +1,7 @@
 # 中统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongtong.md)
+
 <p><span class="chinese">提供一组接口子系统中统一的接口。</span><span class="english">Provide a unified interface to a set of interfaces in a subsystem.</span></p>
 
 <p><span class="chinese">上述全部文件下文中统称为“交易文件”。</span><span class="english">All documents shall be collectively referred to as the "Transaction Documents".</span></p>

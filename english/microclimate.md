@@ -1,5 +1,7 @@
 # microclimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microclimate.md)
+
 <p><span class="chinese">而被佛罗里达的微气候非常时候香榧的生长。</span><span class="english">Northern Florida's microclimate is very favorable to Torreya's growth.</span></p>
 
 <p><span class="chinese">麦秸和残茬覆盖对夏玉米农田小气候的影响。</span><span class="english">Effects of straw and residue mulching on microclimate of summer corn field.</span></p>

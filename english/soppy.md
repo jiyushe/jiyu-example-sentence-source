@@ -1,5 +1,7 @@
 # soppy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soppy.md)
+
 <p><span class="chinese">大雨把我的被子都浸湿了。</span><span class="english">The rain made my quilt soppy.</span></p>
 
 <p><span class="chinese">希腊男人被认为有点“过于缠绵”。</span><span class="english">Greek men were said to be a bit too soppy.</span></p>

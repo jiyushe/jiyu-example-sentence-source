@@ -1,5 +1,7 @@
 # event 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/event.md)
+
 <p><span class="chinese">通过事件组。</span><span class="english">By event group.</span></p>
 
 <p><span class="chinese">事件报告。</span><span class="english">Event reporting.</span></p>

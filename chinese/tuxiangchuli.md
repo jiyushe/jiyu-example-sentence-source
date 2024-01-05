@@ -1,5 +1,7 @@
 # 图像处理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuxiangchuli.md)
+
 <p><span class="chinese">图像处理是病态问题。</span><span class="english">Image processing is an ill-conditioned problem.</span></p>
 
 <p><span class="chinese">做图像处理的人可以用来参考。</span><span class="english">Do the image processing can bbe used for reference.</span></p>

@@ -1,5 +1,7 @@
 # rivulet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rivulet.md)
+
 <p><span class="chinese">它使人想起一条平静的溪流。</span><span class="english">It reminds you of a placid rivulet.</span></p>
 
 <p><span class="chinese">他们跨过了一道干涸的河床。</span><span class="english">They passed the dry bed of a rivulet.</span></p>

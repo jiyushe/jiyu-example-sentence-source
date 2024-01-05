@@ -1,5 +1,7 @@
 # contractor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contractor.md)
+
 <p><span class="chinese">承建商是德国西马克德马格。</span><span class="english">The contractor is Germany's SMS Demag.</span></p>
 
 <p><span class="chinese">我们对于我们的家成了总承包。</span><span class="english">We became the General Contractor for our home.</span></p>

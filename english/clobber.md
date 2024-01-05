@@ -1,5 +1,7 @@
 # clobber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clobber.md)
+
 <p><span class="chinese">警方打算持续不断地严惩醉酒后开车的司机。</span><span class="english">The police intended to clobber drunk drivers.</span></p>
 
 <p><span class="chinese">你真该看看他去登山时带的服装和设备！</span><span class="english">You should see the clobber he takes when he goes climbing!</span></p>

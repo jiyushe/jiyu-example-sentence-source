@@ -1,5 +1,7 @@
 # tiber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiber.md)
+
 <p><span class="chinese">台伯河上游河谷地区。</span><span class="english">The upper valley of the tiber.</span></p>
 
 <p><span class="chinese">双方谈了一会，泰伯给了李安他的一本书。</span><span class="english">The two talked a bit and Tiber gave Lee a copy of his book.</span></p>

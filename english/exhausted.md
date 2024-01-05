@@ -1,5 +1,7 @@
 # exhausted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhausted.md)
+
 <p><span class="chinese">我好累。</span><span class="english">I'm so exhausted.</span></p>
 
 <p><span class="chinese">我们都筋疲力尽。</span><span class="english">We were all exhausted.</span></p>

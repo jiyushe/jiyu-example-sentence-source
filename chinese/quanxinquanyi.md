@@ -1,5 +1,7 @@
 # 全心全意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanxinquanyi.md)
+
 <p><span class="chinese">我全心全意爱着你。</span><span class="english">I love you truly and wholeheartedly.</span></p>
 
 <p><span class="chinese">我永远刀会全心全意咁去爱你。</span><span class="english">I love you forever with all my heart.</span></p>

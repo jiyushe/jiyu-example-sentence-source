@@ -1,5 +1,7 @@
 # 挽留
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanliu.md)
+
 <p><span class="chinese">光阴之水滚滚而逝，无计挽留。</span><span class="english">Time of water roll away, no plan.</span></p>
 
 <p><span class="chinese">需要花多大的力气去挽留？</span><span class="english">How much effort is needed to retain?</span></p>

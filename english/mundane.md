@@ -1,5 +1,7 @@
 # mundane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mundane.md)
+
 <p><span class="chinese">普通鳞甲采用金属片。</span><span class="english">Mundane scale armor uses metal plates.</span></p>
 
 <p><span class="chinese">那条泥路虽看起来简单又无趣。</span><span class="english">The mud road may seem simple and mundane.</span></p>

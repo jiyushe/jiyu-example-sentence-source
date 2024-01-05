@@ -1,5 +1,7 @@
 # 萼片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/epian.md)
+
 <p><span class="chinese">一个萼片，一叶花瓣，和一根荆棘。</span><span class="english">A sepal, petal, and a thorn.</span></p>
 
 <p><span class="chinese">开放前的萼片盛开。</span><span class="english">The sepals open before the bloom.</span></p>

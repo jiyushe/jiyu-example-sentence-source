@@ -1,5 +1,7 @@
 # fullback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fullback.md)
+
 <p><span class="chinese">史密斯将任后卫。</span><span class="english">Smith will play fullback.</span></p>
 
 <p><span class="chinese">他晃过了一名后卫。</span><span class="english">He dribbles past a fullback.</span></p>

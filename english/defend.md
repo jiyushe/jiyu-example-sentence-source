@@ -1,5 +1,7 @@
 # defend 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defend.md)
+
 <p><span class="chinese">我誓死保卫了你们。</span><span class="english">I will defend you.</span></p>
 
 <p><span class="chinese">竭力为它们辩护。</span><span class="english">Fight to defend them.</span></p>

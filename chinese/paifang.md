@@ -1,5 +1,7 @@
 # 排放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paifang.md)
+
 <p><span class="chinese">从每个测试旋塞排放空气。</span><span class="english">Bleed air at each test cock.</span></p>
 
 <p><span class="chinese">锅炉排放了蒸汽。</span><span class="english">The boiler discharged steam.</span></p>

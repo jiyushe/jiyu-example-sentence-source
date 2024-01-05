@@ -1,5 +1,7 @@
 # 眉飞色舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meifeisewu.md)
+
 <p><span class="chinese">我惊喜地望着他那副眉飞色舞的神情。</span><span class="english">I gazed in happy surprise at his animated expression.</span></p>
 
 <p><span class="chinese">走在崎岖的小道上，两个女人眉飞色舞地谈论着未来。</span><span class="english">On the trail the women talked excitedly about the future.</span></p>

@@ -1,5 +1,7 @@
 # gratefully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gratefully.md)
+
 <p><span class="chinese">黑根把那烈酒痛痛快快地喝了下去。</span><span class="english">Hagen drank the fiery liquid gratefully.</span></p>
 
 <p><span class="chinese">我一下躺倒在温暖干爽的床上。</span><span class="english">I sank gratefully into the warm, dry bed.</span></p>

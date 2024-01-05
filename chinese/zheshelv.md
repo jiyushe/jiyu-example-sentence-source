@@ -1,5 +1,7 @@
 # 折射率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheshelv.md)
+
 <p><span class="chinese">如果折射率是负的,会发生什么事情?</span><span class="english">What would a negative index of refraction look like?</span></p>
 
 <p><span class="chinese">对于阶跃折射率双包层光纤，甚至还得到了一个简单的解析公式。</span><span class="english">As to step index DCF , we even obtain a simple analytic formula.</span></p>

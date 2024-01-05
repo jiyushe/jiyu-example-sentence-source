@@ -1,5 +1,7 @@
 # puss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puss.md)
+
 <p><span class="chinese">他帮小猫做了一双靴子。</span><span class="english">He makes Puss a pair of boots.</span></p>
 
 <p><span class="chinese">穿靴猫一时惊吓不已。</span><span class="english">Puss was startled for a moment.</span></p>

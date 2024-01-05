@@ -1,5 +1,7 @@
 # attract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attract.md)
+
 <p><span class="chinese">磁石吸铁。</span><span class="english">Magnets attract iron.</span></p>
 
 <p><span class="chinese">那么，不同的人相互吸引吗“</span><span class="english">So "opposites attract?"</span></p>

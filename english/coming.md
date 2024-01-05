@@ -1,5 +1,7 @@
 # coming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coming.md)
+
 <p><span class="chinese">一定量的正的功。</span><span class="english">Work is coming out.</span></p>
 
 <p><span class="chinese">引航员正在去你船。</span><span class="english">Pilot coming to you.</span></p>

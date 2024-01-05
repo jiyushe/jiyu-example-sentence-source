@@ -1,5 +1,7 @@
 # silviculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silviculture.md)
+
 <p><span class="chinese">森林培育学需要加强系统科学的指导。</span><span class="english">We believe that the discipline of silviculture needs further guidance from the system sciences.</span></p>
 
 <p><span class="chinese">并分别立地类型、造林密度、林分年龄对这些指标的影响进行了研究。</span><span class="english">And the effects of the site type, silviculture density and stand age on the above indexes are studied.</span></p>

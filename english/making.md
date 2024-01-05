@@ -1,5 +1,7 @@
 # making
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/making.md)
+
 <p><span class="chinese">问下问题来折磨折磨你们。</span><span class="english">Making it stop.</span></p>
 
 <p><span class="chinese">我正在煮汤。</span><span class="english">I'm making soup.</span></p>

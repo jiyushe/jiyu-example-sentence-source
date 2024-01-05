@@ -1,5 +1,7 @@
 # disappointedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disappointedly.md)
+
 <p><span class="chinese">于是，我蹲下，失望地。</span><span class="english">Thereupon, I squat down , disappointedly.</span></p>
 
 <p><span class="chinese">所有的票已经卖光了，她们失望地离开了。</span><span class="english">All the tickets having be sold away, you go apart disappointedly.</span></p>

@@ -1,5 +1,7 @@
 # vaudeville
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaudeville.md)
+
 <p><span class="chinese">基顿1895年出生于一个杂耍家庭。</span><span class="english">Keaton was born into a vaudeville family in 1895.</span></p>
 
 <p><span class="chinese">这个房间有轻歌舞剧明星的照片装饰。</span><span class="english">The room was decorated with pictures of vaudeville celebrities.</span></p>

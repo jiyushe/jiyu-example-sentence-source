@@ -1,5 +1,7 @@
 # 犬牙交错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyajiaocuo.md)
+
 <p><span class="chinese">在南海有犬牙交错的海岸线。</span><span class="english">There are long indented coastlines in the South Sea.</span></p>
 
 <p><span class="chinese">它如何管理十几个犬牙交错的品牌？</span><span class="english">It is how to manage more than a dozen interlocking brand?</span></p>

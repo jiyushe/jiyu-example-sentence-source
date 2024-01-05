@@ -1,5 +1,7 @@
 # toyama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toyama.md)
+
 <p><span class="chinese">富山航班8号有空余座位。</span><span class="english">Toyama flights have spare seats on the 8th.</span></p>
 
 <p><span class="chinese">富山湾外的火山海滨闪烁着铁蓝色。</span><span class="english">A volcanic beach off Toyama Bay glows electric blue.</span></p>

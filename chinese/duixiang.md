@@ -1,5 +1,7 @@
 # 对象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duixiang.md)
+
 <p><span class="chinese">为什么要用互斥对象？</span><span class="english">Why mutex at all?</span></p>
 
 <p><span class="chinese">数据对象的大小。</span><span class="english">Size of data objects.</span></p>

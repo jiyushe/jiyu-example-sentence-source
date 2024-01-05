@@ -1,5 +1,7 @@
 # laboured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laboured.md)
+
 <p><span class="chinese">他的呼吸迟缓而困难。</span><span class="english">His breathing is laboured.</span></p>
 
 <p><span class="chinese">士兵们在暴风雨中吃力地前进。</span><span class="english">The soldiers laboured their way in the storm.</span></p>

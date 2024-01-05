@@ -1,5 +1,7 @@
 # 赶快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gankuai.md)
+
 <p><span class="chinese">我赶快回头。</span><span class="english">I hastened back.</span></p>
 
 <p><span class="chinese">请赶快回家”。</span><span class="english">PLS JUST GO HOME.</span></p>

@@ -1,5 +1,7 @@
 # photoacoustic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoacoustic.md)
+
 <p><span class="chinese">论述了光声光谱信号的产生。</span><span class="english">The generation of photoacoustic spectrum is presented.</span></p>
 
 <p><span class="chinese">论述了光声光谱信号的产生。</span><span class="english">The theory of photoacoustic spectrum is presented briefly in this paper.</span></p>

@@ -1,5 +1,7 @@
 # tco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tco.md)
+
 <p><span class="chinese">TCO的第一宗罪是它未能捕捉无形价值。</span><span class="english">The first problem with TCO is that it fails to capture intangible value.</span></p>
 
 <p><span class="chinese">打个比方，与起亚比较起来，法拉利拥有一堆的TCO缺点。</span><span class="english">To use an analogy, a Ferrari has a massive TCO disadvantage compared to a Kia.</span></p>

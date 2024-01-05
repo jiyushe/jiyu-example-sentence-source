@@ -1,5 +1,7 @@
 # klutz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/klutz.md)
+
 <p><span class="chinese">你知道那呆子说啥?。</span><span class="english">You know what the klutz did?</span></p>
 
 <p><span class="chinese">你这个笨蛋，怎么这么笨拙？</span><span class="english">Why are you so clumsy, you klutz?</span></p>

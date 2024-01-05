@@ -1,5 +1,7 @@
 # jai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jai.md)
+
 <p><span class="chinese">固然如此，胜利属于印度，希看终有一天我的国家能幡然醒悟。</span><span class="english">Still, Jai hind and Let my country awake one day.</span></p>
 
 <p><span class="chinese">所有人都向中国这个新的世界超级经济体欢呼。胜喽！</span><span class="english">All hail the new supereconomy of the world – China. Jai ho! !</span></p>

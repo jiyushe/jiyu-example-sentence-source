@@ -1,5 +1,7 @@
 # impose 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impose.md)
+
 <p><span class="chinese">我们不会强求和平。</span><span class="english">We cannot impose peace.</span></p>
 
 <p><span class="chinese">是英国皇家海军可怕的震慑力？</span><span class="english">Royal Navy's fearful impose?</span></p>

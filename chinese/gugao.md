@@ -1,5 +1,7 @@
 # 孤高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gugao.md)
+
 <p><span class="chinese">孤高是没有王冠的王国。</span><span class="english">Arrogance is a kingdom without a crown.</span></p>
 
 <p><span class="chinese">主导华尔街的人是个孤高的群体。</span><span class="english">The people who dominate Wall Street are a remote group.</span></p>

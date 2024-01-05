@@ -1,5 +1,7 @@
 # instructor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instructor.md)
+
 <p><span class="chinese">他就是你的导师。</span><span class="english">He’s your instructor.</span></p>
 
 <p><span class="chinese">而杜勇则是那里的拉丁舞老师。</span><span class="english">Du was the Latin dance instructor.</span></p>

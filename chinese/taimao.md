@@ -1,5 +1,7 @@
 # 胎毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taimao.md)
+
 <p><span class="chinese">于是妈妈就把胎毛也剪掉了，不过妈妈没把头发丢掉。</span><span class="english">So she put lanugo also cut off, but her mother did not lose her hair.</span></p>
 
 <p><span class="chinese">胎毛毛干先端鳞片类型都为扁平型。</span><span class="english">The scale pattern of the tip of the lanugo hair shaft is in flat-shaped.</span></p>

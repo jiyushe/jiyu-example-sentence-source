@@ -1,5 +1,7 @@
 # 枯萎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuwei.md)
+
 <p><span class="chinese">剪上去的花朵容难枯萎。</span><span class="english">Cut flowers soon fade.</span></p>
 
 <p><span class="chinese">只揭露枯萎和死亡。</span><span class="english">Only blight and death.</span></p>

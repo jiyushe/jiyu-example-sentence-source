@@ -1,5 +1,7 @@
 # cutout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutout.md)
+
 <p><span class="chinese">抠图补丁在两侧。</span><span class="english">Cutout patches at sides.</span></p>
 
 <p><span class="chinese">想要删，是删不干净的。</span><span class="english">Want cutout , it is cutout is sordid.</span></p>

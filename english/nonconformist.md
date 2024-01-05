@@ -1,5 +1,7 @@
 # nonconformist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonconformist.md)
+
 <p><span class="chinese">任何一个真正的人都肯定是不落俗套的人。</span><span class="english">Whose would be man , must be a nonconformist.</span></p>
 
 <p><span class="chinese">谁想做一个真正的人就必须不妥协。</span><span class="english">Whoso would be a man must be a nonconformist.</span></p>

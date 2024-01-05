@@ -1,5 +1,7 @@
 # simper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simper.md)
+
 <p><span class="chinese">我们还要像这样傻笑多久？</span><span class="english">How long should we simper like this?</span></p>
 
 <p><span class="chinese">超高亮度，体积小，更简约。</span><span class="english">High bright-ness, small volume, and simper.</span></p>

@@ -1,5 +1,7 @@
 # 孜孜以求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziziyiqiu.md)
+
 <p><span class="chinese">那是她孜孜以求的正果。</span><span class="english">It was her diligently strive after the attainment of.</span></p>
 
 <p><span class="chinese">男孩在国外孜孜以求，继续着他的学业。</span><span class="english">The boy in the foreign cobest, continued his studies.</span></p>

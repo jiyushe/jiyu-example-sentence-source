@@ -1,5 +1,7 @@
 # dissocial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissocial.md)
+
 <p><span class="chinese">其次，看电视影响我们的成绩。</span><span class="english">Apart from these, watching TV will make us dissocial.</span></p>
 
 <p><span class="chinese">孤僻的男子在感情前低下了他高傲的头！</span><span class="english">The dissocial man lowers his head with superiority to the love!</span></p>

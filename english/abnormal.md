@@ -1,5 +1,7 @@
 # abnormal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abnormal.md)
+
 <p><span class="chinese">那简直是反常的。</span><span class="english">That is simply abnormal.</span></p>
 
 <p><span class="chinese">神经传导速度检查异常。</span><span class="english">The NCV tests were abnormal.</span></p>

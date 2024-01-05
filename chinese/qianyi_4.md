@@ -1,5 +1,7 @@
 # 迁移
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianyi_4.md)
+
 <p><span class="chinese">何时迁移？</span><span class="english">When to migrate?</span></p>
 
 <p><span class="chinese">最终的迁移。</span><span class="english">The final migration.</span></p>

@@ -1,5 +1,7 @@
 # 愤世嫉俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshijisu.md)
+
 <p><span class="chinese">为什么你如此的愤世嫉俗？</span><span class="english">Why are you always so cynical?</span></p>
 
 <p><span class="chinese">难道仅因为我确非愤世嫉俗之辈？</span><span class="english">Just because I am not a misanthrope?</span></p>

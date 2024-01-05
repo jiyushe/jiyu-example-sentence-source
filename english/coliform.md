@@ -1,5 +1,7 @@
 # coliform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coliform.md)
+
 <p><span class="chinese">膀胱炎主要致病菌是大肠杆菌。</span><span class="english">Cystitis is main pathogenic bacteria is coliform organisms.</span></p>
 
 <p><span class="chinese">预防措施还包括接种大肠菌乳腺炎疫苗。</span><span class="english">Prevention steps also include vaccinating for coliform mastitis.</span></p>

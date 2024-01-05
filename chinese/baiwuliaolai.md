@@ -1,5 +1,7 @@
 # 百无聊赖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiwuliaolai.md)
+
 <p><span class="chinese">我坐在那里，百无聊赖地玩着手指头。</span><span class="english">I sat there and twiddled my thumbs.</span></p>
 
 <p><span class="chinese">百无聊赖中，赌鬼他对我开了腔。</span><span class="english">Til boredom overtook us, and he began to speak.</span></p>

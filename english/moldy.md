@@ -1,5 +1,7 @@
 # moldy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moldy.md)
+
 <p><span class="chinese">不要食用发霉的食物。</span><span class="english">Do not eat moldy foods.</span></p>
 
 <p><span class="chinese">我们把这件老掉牙的旧家具抛弃吧。</span><span class="english">Let's get rid of this moldy old furniture.</span></p>

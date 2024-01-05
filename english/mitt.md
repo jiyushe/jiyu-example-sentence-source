@@ -1,5 +1,7 @@
 # mitt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitt.md)
+
 <p><span class="chinese">对了，你的丝瓜沐浴手套是在哪儿买的？</span><span class="english">Oh, by the way, where did you get that loofah mitt?</span></p>
 
 <p><span class="chinese">你认为米特和萨拉佩林能征募到那些人的钱么？</span><span class="english">Do you think Mitt or Sarah can raise that kind of money.</span></p>

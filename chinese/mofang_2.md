@@ -1,5 +1,7 @@
 # 磨坊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mofang_2.md)
+
 <p><span class="chinese">于是穆那查到了磨坊主那里。</span><span class="english">He came to the miller.</span></p>
 
 <p><span class="chinese">上帝的磨坊慢慢磨。天网恢恢，疏而不漏。</span><span class="english">The mills of God grind slowly.</span></p>

@@ -1,5 +1,7 @@
 # entirety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entirety.md)
+
 <p><span class="chinese">这是一张完整的常数表。</span><span class="english">This is the table of constants in its entirety.</span></p>
 
 <p><span class="chinese">因为我在美国，所以就可将其完整地变卖出去。</span><span class="english">Since I am in America, I can sell it in its entirety.</span></p>

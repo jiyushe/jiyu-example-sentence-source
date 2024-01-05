@@ -1,5 +1,7 @@
 # 鱼种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhong_2.md)
+
 <p><span class="chinese">一些鱼种不具有，称之为「无腹鳍鱼」。</span><span class="english">Absent in some species, the apodal fishes.</span></p>
 
 <p><span class="chinese">有时他们吃掉幼小的竞争鱼种。</span><span class="english">Sometimes they eat the young of their rivals.</span></p>

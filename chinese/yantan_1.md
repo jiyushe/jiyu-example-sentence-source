@@ -1,5 +1,7 @@
 # 言谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yantan_1.md)
+
 <p><span class="chinese">他的言谈闪现着智慧。</span><span class="english">His talk gleamed with wit.</span></p>
 
 <p><span class="chinese">她总是在言谈中不慎而吐露了隐私。</span><span class="english">She always blabs out confidences.</span></p>

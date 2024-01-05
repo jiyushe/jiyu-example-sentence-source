@@ -1,5 +1,7 @@
 # footplate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footplate.md)
+
 <p><span class="chinese">主要是训练大腿，若脚踏在下方的位置是训练股四头肌。</span><span class="english">Four-bar linkage footplate to allow for proper ankle position.</span></p>
 
 <p><span class="chinese">迈步过大或踩在踏板边缘容易摔倒等。</span><span class="english">Had taken a step big or it is easy to walk in footplate brim trip.</span></p>

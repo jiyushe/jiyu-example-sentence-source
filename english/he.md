@@ -1,5 +1,7 @@
 # he 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/he.md)
+
 <p><span class="chinese">他慢跑。</span><span class="english">He jogs.</span></p>
 
 <p><span class="chinese">他撒谎道。</span><span class="english">He lied.</span></p>

@@ -1,5 +1,7 @@
 # avulsed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avulsed.md)
+
 <p><span class="chinese">脾脏能从其蒂撕脱。</span><span class="english">The spleen can be avulsed from its pedicle.</span></p>
 
 <p><span class="chinese">整指撕脱伤用胸壁皮瓣修复效果欠佳。</span><span class="english">Chest flap has less effect on the avulsed wound of the whole finger.</span></p>

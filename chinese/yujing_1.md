@@ -1,5 +1,7 @@
 # 预警
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yujing_1.md)
+
 <p><span class="chinese">预警必须像闪电一样的迅速。</span><span class="english">Alert must be lightning- quick.</span></p>
 
 <p><span class="chinese">极早期预警系统?。</span><span class="english">VEWS? Very Early Warning System?</span></p>

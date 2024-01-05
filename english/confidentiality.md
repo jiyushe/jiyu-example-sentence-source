@@ -1,5 +1,7 @@
 # confidentiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confidentiality.md)
+
 <p><span class="chinese">我们有保密协议。</span><span class="english">We have a confidentiality agreement.</span></p>
 
 <p><span class="chinese">若他或她不守秘密，怎办？</span><span class="english">What if he or she breaks confidentiality?</span></p>

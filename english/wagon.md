@@ -1,5 +1,7 @@
 # wagon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wagon.md)
+
 <p><span class="chinese">我要一辆旅行车。</span><span class="english">I want a station wagon.</span></p>
 
 <p><span class="chinese">一辆大篷车辘辘地驶过场地。</span><span class="english">A wagon rumbled over the ground.</span></p>

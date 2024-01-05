@@ -1,5 +1,7 @@
 # bly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bly.md)
+
 <p><span class="chinese">就我所知，罗杰·布莱这人很老实。</span><span class="english">As far as I know, this guy Roger Bly is honest.</span></p>
 
 <p><span class="chinese">很可爱但是又很不负责任很危险。就像一只发了狂的松鼠。</span><span class="english">Both cute and irresponsi bly dangerous. Like a rabid squirrel.</span></p>

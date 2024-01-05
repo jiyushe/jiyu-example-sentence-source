@@ -1,5 +1,7 @@
 # 叔伯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shubo.md)
+
 <p><span class="chinese">既无叔伯，终鲜兄弟。</span><span class="english">I have neither uncles on my father’s side nor brothers.</span></p>
 
 <p><span class="chinese">露西有许多叔伯姨姑，所以她有许多堂兄弟姐妹。</span><span class="english">Lucy has more uncles and aunts so she has more cousins.</span></p>

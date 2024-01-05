@@ -1,5 +1,7 @@
 # vat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vat.md)
+
 <p><span class="chinese">把缸扣过来。</span><span class="english">Turn the vat upside down.</span></p>
 
 <p><span class="chinese">我们算出的是32.95英镑，其中包括增值税。</span><span class="english">We reckon ￡32.95. Including VAT.</span></p>

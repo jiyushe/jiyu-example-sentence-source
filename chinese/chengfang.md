@@ -1,5 +1,7 @@
 # 成方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengfang.md)
+
 <p><span class="chinese">用擀面杖将面团擀成薄饼，用刀切成方块。</span><span class="english">Roll out thin, and then cut into biscuits squares.</span></p>
 
 <p><span class="chinese">石头被凿开并磨成方石板。</span><span class="english">The stone was pecked and ground into square flags.</span></p>

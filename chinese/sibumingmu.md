@@ -1,5 +1,7 @@
 # 死不瞑目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sibumingmu.md)
+
 <p><span class="chinese">这就是死不瞑目。</span><span class="english">It is a death with open eyes.</span></p>
 
 <p><span class="chinese">她的遗体就躺在他前面，死不瞑目。</span><span class="english">The aftermath lay right in front of him, staring with open eyes.</span></p>

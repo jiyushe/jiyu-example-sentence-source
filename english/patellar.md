@@ -1,5 +1,7 @@
 # patellar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patellar.md)
+
 <p><span class="chinese">关于膝盖骨科专辑进！</span><span class="english">Enter about patellar division special!</span></p>
 
 <p><span class="chinese">四头肌和髌韧带显示正常信号强度。</span><span class="english">Quadriceps and patellar tendons show normal signal intensity.</span></p>

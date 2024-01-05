@@ -1,5 +1,7 @@
 # formidably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formidably.md)
+
 <p><span class="chinese">但这样做的政治难度似乎高得惊人。</span><span class="english">But the politics look formidably difficult.</span></p>
 
 <p><span class="chinese">那堆羊皮纸高的惊人。</span><span class="english">The pile of parchments was formidably high.</span></p>

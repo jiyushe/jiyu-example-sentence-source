@@ -1,5 +1,7 @@
 # 桑蚕丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangcansi.md)
+
 <p><span class="chinese">红瑶服饰的主要原料当为桑蚕丝。</span><span class="english">The raw material of their dress is natural silk.</span></p>
 
 <p><span class="chinese">它具有羊绒和桑蚕丝两者的优点。</span><span class="english">It has the advantages of both cashmere and mulberry silk.</span></p>

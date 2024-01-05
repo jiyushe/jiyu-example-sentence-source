@@ -1,5 +1,7 @@
 # imperil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperil.md)
+
 <p><span class="chinese">这些限制可能会阻碍布拉德韦尔项目。</span><span class="english">These could potentially imperil the Bradwell project.</span></p>
 
 <p><span class="chinese">但是生物技术进步怎么能威胁人的尊严呢？</span><span class="english">But how does biotechnological progress imperil human dignity?</span></p>

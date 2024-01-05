@@ -1,5 +1,7 @@
 # handily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handily.md)
+
 <p><span class="chinese">我们被安置在去火车站近便的地方。</span><span class="english">We're handily placed for the train station.</span></p>
 
 <p><span class="chinese">结果，投来的“人口炸弹”成为哑弹，西蒙轻松获胜。</span><span class="english">The population bomb was defused, and Mr Simon handily won the bet.</span></p>

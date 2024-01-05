@@ -1,5 +1,7 @@
 # 靴子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuezi_2.md)
+
 <p><span class="chinese">我的靴子是皮革制的。</span><span class="english">My boots are made of hide.</span></p>
 
 <p><span class="chinese">他气愤地嗖嗖地抽打他的靴子。</span><span class="english">He angrily swished his boot.</span></p>

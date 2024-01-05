@@ -1,5 +1,7 @@
 # excavation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excavation.md)
+
 <p><span class="chinese">目前，中国没有继续挖掘秦始皇陵的计划。</span><span class="english">No excavation of Qin's tomb is planned.</span></p>
 
 <p><span class="chinese">图示一九七四年在龙鼓洲的考古发掘遗址。</span><span class="english">The excavation at Lung Kwu Chau in 1974.</span></p>

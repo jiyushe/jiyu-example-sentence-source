@@ -1,5 +1,7 @@
 # afterheat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterheat.md)
+
 <p><span class="chinese">本人，作为一名75高龄老者，也希望为徐氏的宏伟事业发挥一点有限的余热。</span><span class="english">Myself, take a 75 advanced age old man, also hoped that displays a spot limited afterheat for the Xu grand enterprise.</span></p>
 
 <p><span class="chinese">无机热管吸热技术是当今世界上一项新型余热利用技术。</span><span class="english">Presently, inorganic hot-pipe endothermic heat is the most advanced afterheat utilization technology all over the world.</span></p>

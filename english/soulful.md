@@ -1,5 +1,7 @@
 # soulful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soulful.md)
+
 <p><span class="chinese">她有一双深情款款的大眼睛。</span><span class="english">She has big soulful eyes.</span></p>
 
 <p><span class="chinese">又该如何解决家庭与感情上的纠葛拉扯？</span><span class="english">How should solve family and soulful dispute drag again?</span></p>

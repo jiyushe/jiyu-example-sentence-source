@@ -1,5 +1,7 @@
 # dewlap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dewlap.md)
+
 <p><span class="chinese">可能会有一些赘肉。</span><span class="english">There may be some dewlap.</span></p>
 
 <p><span class="chinese">喉垂十分明显。</span><span class="english">The dewlap is very pronounced.</span></p>

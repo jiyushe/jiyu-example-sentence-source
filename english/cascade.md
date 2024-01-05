@@ -1,5 +1,7 @@
 # cascade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cascade.md)
+
 <p><span class="chinese">那褐色的瀑布泼撒了下来。</span><span class="english">Down rippled the brown cascade.</span></p>
 
 <p><span class="chinese">烟火散开像一片五彩缤纷的瀑布。</span><span class="english">The firework went off in a cascade of colour.</span></p>

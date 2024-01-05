@@ -1,5 +1,7 @@
 # 爱河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aihe.md)
+
 <p><span class="chinese">我们能堕入爱河。</span><span class="english">We can fall in love.</span></p>
 
 <p><span class="chinese">她坠入了爱河。</span><span class="english">She tumbled into love.</span></p>

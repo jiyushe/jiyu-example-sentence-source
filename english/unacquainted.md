@@ -1,5 +1,7 @@
 # unacquainted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unacquainted.md)
+
 <p><span class="chinese">这些外国人不了解我们的风俗。</span><span class="english">The foreigners are unacquainted with our custom.</span></p>
 
 <p><span class="chinese">她还太年轻，太渴望着生活，对痛苦知道得太少。</span><span class="english">She was too young, too impatient to live, too unacquainted with pain.</span></p>

@@ -1,5 +1,7 @@
 # 不妥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/butuo.md)
+
 <p><span class="chinese">这种提法不妥。</span><span class="english">This formulation is not proper.</span></p>
 
 <p><span class="chinese">那么，婚前性行为到底有什么不妥之处呢？</span><span class="english">So, whats wrong with sex before marriage?</span></p>

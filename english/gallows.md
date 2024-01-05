@@ -1,5 +1,7 @@
 # gallows
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallows.md)
+
 <p><span class="chinese">我会送你上绞架，断头台的。</span><span class="english">I'll send you to gallows.</span></p>
 
 <p><span class="chinese">绞架在等着你呢。</span><span class="english">The gallows groans for you.</span></p>

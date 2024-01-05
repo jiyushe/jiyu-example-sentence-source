@@ -1,5 +1,7 @@
 # 平面几何
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingmianjihe.md)
+
 <p><span class="chinese">平面几何的学习是有趣的。</span><span class="english">Plane geometry is fun to study.</span></p>
 
 <p><span class="chinese">平面几何考试，有一道题是画图，我画得不够精确。</span><span class="english">Plane geometry exam, one problem is drawing, I'm not accurate.</span></p>

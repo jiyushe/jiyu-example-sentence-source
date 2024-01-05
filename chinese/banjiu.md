@@ -1,5 +1,7 @@
 # 斑鸠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banjiu.md)
+
 <p><span class="chinese">一只珍珠斑鸠正在风洞中飞行。</span><span class="english">A diamond dove in a wind tunnel.</span></p>
 
 <p><span class="chinese">那斑鸠唤来的奔骤的风雨！</span><span class="english">The rain called up by the turtledove.</span></p>

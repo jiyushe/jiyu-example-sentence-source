@@ -1,5 +1,7 @@
 # embroil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embroil.md)
+
 <p><span class="chinese">别把我牵连进你们的争吵之中。</span><span class="english">Don't embroil me in your quarrel.</span></p>
 
 <p><span class="chinese">受牵连的说话比较多。</span><span class="english">The speech that gets embroil is more.</span></p>

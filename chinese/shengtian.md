@@ -1,5 +1,7 @@
 # 升天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengtian.md)
+
 <p><span class="chinese">最后的宗教节日在耶稣升天节达到高潮。</span><span class="english">The final fiesta climaxed on Ascension Day.</span></p>
 
 <p><span class="chinese">他们为一颗树的灵魂升天表示哀悼。</span><span class="english">They mourn the spirit of a tree when it dies.</span></p>

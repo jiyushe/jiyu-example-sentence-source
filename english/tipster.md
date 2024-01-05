@@ -1,5 +1,7 @@
 # tipster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tipster.md)
+
 <p><span class="chinese">如果告密者提供的消息是准确的，那么剩下的时间已经不多了。</span><span class="english">If the tipster was correct, time had already run out.</span></p>
 
 <p><span class="chinese">如果警察想破案的话，就要找到那个匿名的线人。</span><span class="english">The police need to find the anonymous tipster if they want to solve the crime.</span></p>

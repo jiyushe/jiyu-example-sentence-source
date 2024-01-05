@@ -1,5 +1,7 @@
 # 证婚人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenghunren.md)
+
 <p><span class="chinese">证婚人说，她从未见过如此开心的婚礼。</span><span class="english">The registrar said she'd never seen such a happy wedding.</span></p>
 
 <p><span class="chinese">很高兴能以证婚人的身份参加婚礼！</span><span class="english">Delighted to witness the identity attend the wedding! Today, Mr.</span></p>

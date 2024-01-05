@@ -1,5 +1,7 @@
 # colonial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonial.md)
+
 <p><span class="chinese">房子的装潢设计是殖民地风格的。</span><span class="english">The style of the house is a colonial.</span></p>
 
 <p><span class="chinese">苔藓虫是有趣的殖民动物。</span><span class="english">Bryozoans are interesting colonial creatures.</span></p>

@@ -1,5 +1,7 @@
 # elastomeric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elastomeric.md)
+
 <p><span class="chinese">具有弹性体性质的聚氨酯。</span><span class="english">A polyurethane with elastomeric properties.</span></p>
 
 <p><span class="chinese">绍了子午胎帘子布用涤纶弹力纬纱的制造技术。</span><span class="english">The production of PET elastomeric yarns was introduced.</span></p>

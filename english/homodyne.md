@@ -1,5 +1,7 @@
 # homodyne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homodyne.md)
+
 <p><span class="chinese">通过零差信号波形可以直观反映管状压电陶瓷的频率响应特性。</span><span class="english">Meanwhile , the frequency response of PZT can be viewed with the homodyne signal.</span></p>
 
 <p><span class="chinese">报道了一种新颖的具有抗混叠功能的无源零差迈克耳孙型光纤水听器。</span><span class="english">A novel passive homodyne Michelson interferometric fiber-optic hydrophone of anti-aliasing has been manufactured and demonstrated.</span></p>

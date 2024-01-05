@@ -1,5 +1,7 @@
 # alternate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alternate.md)
+
 <p><span class="chinese">或者是冷热交替。</span><span class="english">Or alternate heat and cold.</span></p>
 
 <p><span class="chinese">她隔日工作。</span><span class="english">She works on alternate days.</span></p>

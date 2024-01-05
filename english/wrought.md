@@ -1,5 +1,7 @@
 # wrought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrought.md)
+
 <p><span class="chinese">它由锻铁制成。</span><span class="english">It was made of wrought iron.</span></p>
 
 <p><span class="chinese">这些大门是用熟铁制成的。</span><span class="english">The gates were made of wrought iron.</span></p>

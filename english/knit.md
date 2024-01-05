@@ -1,5 +1,7 @@
 # knit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knit.md)
+
 <p><span class="chinese">针织裙适于折叠包装。</span><span class="english">A knit dress packs well.</span></p>
 
 <p><span class="chinese">她眉头紧锁地深思着。</span><span class="english">Her brows knit in thought.</span></p>

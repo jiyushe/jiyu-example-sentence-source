@@ -1,5 +1,7 @@
 # toff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toff.md)
+
 <p><span class="chinese">有些人说他是个乔装的绅士。</span><span class="english">Some said he was a toff in disguise.</span></p>
 
 <p><span class="chinese">那个家伙说得对，在很久之前的那个晚上，他的确是青年。</span><span class="english">The toff was right. And on that night in the long ago he had been Youth.</span></p>

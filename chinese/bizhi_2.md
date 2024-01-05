@@ -1,5 +1,7 @@
 # 币制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bizhi_2.md)
+
 <p><span class="chinese">中国的人民币采用的是十进币制。</span><span class="english">China's Renminbi has a decimal system.</span></p>
 
 <p><span class="chinese">您是否需要处理多币制的事务？</span><span class="english">Do you have a need to handle multi-currency transactions?</span></p>

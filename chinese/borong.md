@@ -1,5 +1,7 @@
 # 拨冗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/borong.md)
+
 <p><span class="chinese">务希拨冗出席。</span><span class="english">Your presence is cordially requested.</span></p>
 
 <p><span class="chinese">你没有拨冗送给他人的那个微笑，那个拥抱或那个吻。</span><span class="english">That you didn't take that extra time for a smile, a hug, or a kiss.</span></p>

@@ -1,5 +1,7 @@
 # 扼守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eshou.md)
+
 <p><span class="chinese">要是他们全都上岸的话，我们就能够扼守住大船来作战。</span><span class="english">If they all go, why, we'll fight the ship.</span></p>
 
 <p><span class="chinese">通往宫殿的一切路途都有队伍扼守。</span><span class="english">All the approaches to the palace were guarded by troops.</span></p>

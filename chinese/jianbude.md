@@ -1,5 +1,7 @@
 # 见不得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbude.md)
+
 <p><span class="chinese">就像一段暗无天日的感情，终见不得半分阳光。</span><span class="english">Like a complete darkness feelings, the end of not half sunshine.</span></p>
 
 <p><span class="chinese">说穿了，有些人就是嫉妒心重，见不得你成功而已。</span><span class="english">At the end of the day, some people are simply jealous of your huge success.</span></p>

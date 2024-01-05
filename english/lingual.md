@@ -1,5 +1,7 @@
 # lingual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lingual.md)
+
 <p><span class="chinese">舌鉴于桥的模型。</span><span class="english">Lingual view of pontic on model.</span></p>
 
 <p><span class="chinese">语象具有特定的语言形式和系统结构。</span><span class="english">Lingual image has special lingual form and system structure.</span></p>

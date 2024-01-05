@@ -1,5 +1,7 @@
 # burberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burberry.md)
+
 <p><span class="chinese">不会开怀畅饮，不穿俱乐部球衣，不戴防水球帽，或者金项链。</span><span class="english">No beer guts, replica jerseys, Burberry ball caps, or gold chains.</span></p>
 
 <p><span class="chinese">新娘穿的是华裔设计师王薇薇设计的婚纱，新郎穿的是博柏利的礼服。</span><span class="english">The bride wore a dress by Vera Wang, while the groom wore a tuxedo from Burberry.</span></p>

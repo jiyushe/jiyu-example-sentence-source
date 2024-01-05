@@ -1,5 +1,7 @@
 # 上山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshan.md)
+
 <p><span class="chinese">我骑着脚踏车上山。</span><span class="english">I pedaled my bicycle up.</span></p>
 
 <p><span class="chinese">他和她一同骑马上山。</span><span class="english">He and she dinked up the hill.</span></p>

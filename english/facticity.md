@@ -1,5 +1,7 @@
 # facticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facticity.md)
+
 <p><span class="chinese">手稿的真实性是毋庸置疑。</span><span class="english">The facticity of manuscript is indubitability.</span></p>
 
 <p><span class="chinese">社会确实拥有客观事实。</span><span class="english">Society does indeed possess objective facticity.</span></p>

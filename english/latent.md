@@ -1,5 +1,7 @@
 # latent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latent.md)
+
 <p><span class="chinese">还可以用潜伏或活动区分。</span><span class="english">Also segmented by latent or active.</span></p>
 
 <p><span class="chinese">如果你可以做到，那么你就具有潜在的抑制力。</span><span class="english">If so, you’re practicing latent inhibition.</span></p>

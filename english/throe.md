@@ -1,5 +1,7 @@
 # throe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throe.md)
+
 <p><span class="chinese">剧痛孕育了狂喜。</span><span class="english">Transport is taught by throe.</span></p>
 
 <p><span class="chinese">这是中国现代化之路上，必须要付出的代价和承受的镇痛。</span><span class="english">But China must suffer the throe in the process of modernization.</span></p>

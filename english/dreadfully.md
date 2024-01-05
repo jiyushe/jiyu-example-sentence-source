@@ -1,5 +1,7 @@
 # dreadfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreadfully.md)
+
 <p><span class="chinese">一句话，糟透了。</span><span class="english">In a word, dreadfully.</span></p>
 
 <p><span class="chinese">马西的妻子简直像妈妈一样照料着他。</span><span class="english">Massy's wife mothers him dreadfully.</span></p>

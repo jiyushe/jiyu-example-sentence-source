@@ -1,5 +1,7 @@
 # metastable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metastable.md)
+
 <p><span class="chinese">研究设计了一种亚稳态氦原子束源系统。</span><span class="english">A system of metastable helium atom beam source has been developed.</span></p>
 
 <p><span class="chinese">讨论了亚稳相的本质和转变机制。</span><span class="english">The nature and transition mechanism of the metastable phases are discussed.</span></p>

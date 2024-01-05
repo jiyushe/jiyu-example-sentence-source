@@ -1,5 +1,7 @@
 # hat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hat.md)
+
 <p><span class="chinese">去把我的帽子拿来。</span><span class="english">Give me my hat.</span></p>
 
 <p><span class="chinese">我讨厌这顶遮阳帽。</span><span class="english">I hate this hat.</span></p>

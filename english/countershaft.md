@@ -1,5 +1,7 @@
 # countershaft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countershaft.md)
+
 <p><span class="chinese">结果表明，传动副轴的断裂是疲劳断裂。</span><span class="english">The result indicates that the fracture of the drive countershaft is fatigue fracture.</span></p>
 
 <p><span class="chinese">利用数学工具将对点的角动量和对轴的角动量统一起来。</span><span class="english">Use of mathematical tools unifies counter point angular momentum and countershaft angular momentum.</span></p>

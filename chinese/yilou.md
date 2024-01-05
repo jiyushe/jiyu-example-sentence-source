@@ -1,5 +1,7 @@
 # 遗漏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilou.md)
+
 <p><span class="chinese">不要遗漏掉任何你应该感恩的。</span><span class="english">Don’t leave anything out.</span></p>
 
 <p><span class="chinese">是晨曦遗漏的珠子么？</span><span class="english">Is bead which the dawn omits?</span></p>

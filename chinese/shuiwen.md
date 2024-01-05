@@ -1,5 +1,7 @@
 # 水文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiwen.md)
+
 <p><span class="chinese">负责水文管理工作。</span><span class="english">to undertake works on hydrologic management.</span></p>
 
 <p><span class="chinese">异体字在水文中占据很高的比例。</span><span class="english">The proportion of Variants in Shuiwen is high.</span></p>

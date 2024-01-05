@@ -1,5 +1,7 @@
 # contactor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contactor.md)
+
 <p><span class="chinese">因此，应正确选择接触器。</span><span class="english">Therefore, we should correct choice contactor.</span></p>
 
 <p><span class="chinese">此限制是由于所使用的接触器的线圈。</span><span class="english">This restriction is due to the coil of the contactor used.</span></p>

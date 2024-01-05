@@ -1,5 +1,7 @@
 # interval 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interval.md)
+
 <p><span class="chinese">全红时段?。</span><span class="english">All-red Interval?</span></p>
 
 <p><span class="chinese">到幕间休息的时候了。</span><span class="english">It 's time for an interval.</span></p>

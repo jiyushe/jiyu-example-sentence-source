@@ -1,5 +1,7 @@
 # quantifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantifier.md)
+
 <p><span class="chinese">不能将限定符与定位点一起使用。</span><span class="english">You cannot use a quantifier with an anchor.</span></p>
 
 <p><span class="chinese">量词和否定词交互关系产生辖域歧义。</span><span class="english">Quantifier and negation interact with each other to produce scope ambiguity.</span></p>

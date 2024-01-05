@@ -1,5 +1,7 @@
 # necrosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necrosis.md)
+
 <p><span class="chinese">存在任何区域的坏死吗？</span><span class="english">Is there any area of necrosis?</span></p>
 
 <p><span class="chinese">真皮层可见坏死病灶。</span><span class="english">The necrosis foci were seen in corium.</span></p>

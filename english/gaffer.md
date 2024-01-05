@@ -1,5 +1,7 @@
 # gaffer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaffer.md)
+
 <p><span class="chinese">外面没别的人，就只有一个拄着拐棍的乡下老头。</span><span class="english">Nobody out there but some old gaffer with a cane.</span></p>
 
 <p><span class="chinese">——我还以为是政府派来的官员呢。</span><span class="english">I thought it might be some gaffer sent by Government.</span></p>

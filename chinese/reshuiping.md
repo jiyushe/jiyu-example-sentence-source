@@ -1,5 +1,7 @@
 # 热水瓶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reshuiping.md)
+
 <p><span class="chinese">请拿一只热水瓶给我。</span><span class="english">Get a hotwater bottle, please.</span></p>
 
 <p><span class="chinese">请拿一只热水瓶给我。</span><span class="english">Get ta hotwater bottle, please.</span></p>

@@ -1,5 +1,7 @@
 # 地址
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhi.md)
+
 <p><span class="chinese">是地址。</span><span class="english">The addresses.</span></p>
 
 <p><span class="chinese">她的地址是什么？</span><span class="english">What’s her address?</span></p>

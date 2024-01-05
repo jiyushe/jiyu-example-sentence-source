@@ -1,5 +1,7 @@
 # engrained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engrained.md)
+
 <p><span class="chinese">根深蒂固的行为和观念可能很难改变。</span><span class="english">Engrained behaviors and attitudes can prove difficult.</span></p>
 
 <p><span class="chinese">这个使命“深深植根于企业文化之中”，他补充道。</span><span class="english">That mission is "deeply engrained in the culture, " he adds.</span></p>

@@ -1,5 +1,7 @@
 # riverway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riverway.md)
+
 <p><span class="chinese">木炭填料适宜应用于苏州城市河道水环境质量改善。</span><span class="english">Charcoal were the propriety material for water treatment in the riverway in Suzhou city.</span></p>
 
 <p><span class="chinese">河道治理是传统实用的工程，是一个古老而活跃的领域。</span><span class="english">Riverway treatment is a traditional and pragmatical engineering of an ancient and active field.</span></p>

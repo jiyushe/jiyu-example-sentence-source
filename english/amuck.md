@@ -1,5 +1,7 @@
 # amuck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amuck.md)
+
 <p><span class="chinese">这是主观主义和相对主义的横行。</span><span class="english">This is subjectivism and relativism run amuck.</span></p>
 
 <p><span class="chinese">军事要塞充满肃杀感，战事一触即发。</span><span class="english">Fortress filling amuck and wars being going to launch.</span></p>

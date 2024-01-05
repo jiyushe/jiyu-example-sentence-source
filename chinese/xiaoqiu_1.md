@@ -1,5 +1,7 @@
 # 小球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqiu_1.md)
+
 <p><span class="chinese">把它揉成一个个小球。</span><span class="english">Roll the dough into small balls.</span></p>
 
 <p><span class="chinese">一个蝙蝠粪和硫磺小球。</span><span class="english">A tiny ball of bat guano and sulfur.</span></p>

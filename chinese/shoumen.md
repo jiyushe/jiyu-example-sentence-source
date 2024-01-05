@@ -1,5 +1,7 @@
 # 守门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoumen.md)
+
 <p><span class="chinese">本。阿莫斯守门。</span><span class="english">Ben Amos will keep goal.</span></p>
 
 <p><span class="chinese">耶杜顿的子孙作守门的。</span><span class="english">And the sons of Jeduthun were porters.</span></p>

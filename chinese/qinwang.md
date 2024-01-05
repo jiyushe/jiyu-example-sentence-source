@@ -1,5 +1,7 @@
 # 亲王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinwang.md)
+
 <p><span class="chinese">伊斯克罗斯，维罗纳亲王。</span><span class="english">Escalus, Prince of Verona.</span></p>
 
 <p><span class="chinese">问问龙石岛亲王。</span><span class="english">Ask the Prince of Dragonstone.</span></p>

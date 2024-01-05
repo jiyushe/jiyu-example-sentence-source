@@ -1,5 +1,7 @@
 # 店小二
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianxiaoer.md)
+
 <p><span class="chinese">店小二应声来到程咬金身边。</span><span class="english">He answer to cheng bite gold side.</span></p>
 
 <p><span class="chinese">数名日本特工神色警惕看向店小二。</span><span class="english">Several Japanese agents look alert look to the waiter.</span></p>

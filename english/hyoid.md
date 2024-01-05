@@ -1,5 +1,7 @@
 # hyoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyoid.md)
+
 <p><span class="chinese">内脏裂缝颌，舌骨与鳃弓。</span><span class="english">The jaw, hyoid and gill arches.</span></p>
 
 <p><span class="chinese">囊肿位于舌骨水平的多。</span><span class="english">Most roglossal cysts located the plane of hyoid.</span></p>

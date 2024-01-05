@@ -1,5 +1,7 @@
 # 塞翁失马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saiwengshima.md)
+
 <p><span class="chinese">灾祸是福，塞翁失马焉知非福。</span><span class="english">Disaster is blessing in disguise.</span></p>
 
 <p><span class="chinese">看来失去原来的工作对你来说是“塞翁失马”啊。</span><span class="english">Losing your job was just a blessing in disguise.</span></p>

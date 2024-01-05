@@ -1,5 +1,7 @@
 # bighorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bighorn.md)
+
 <p><span class="chinese">蒙大拿州的大角羊。</span><span class="english">Bighorn sheep in Montana.</span></p>
 
 <p><span class="chinese">图为春季大角羊被放牧到草场上。</span><span class="english">Bighorn sheep browse on spring grass.</span></p>

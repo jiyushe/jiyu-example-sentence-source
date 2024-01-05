@@ -1,5 +1,7 @@
 # invest 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invest.md)
+
 <p><span class="chinese">在家庭上多投入。</span><span class="english">Invest in your family.</span></p>
 
 <p><span class="chinese">在投资上别感情用事。</span><span class="english">Never invest on sentiment.</span></p>

@@ -1,5 +1,7 @@
 # nene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nene.md)
+
 <p><span class="chinese">宁河谷铁路。</span><span class="english">Nene Valley Railway.</span></p>
 
 <p><span class="chinese">但是内内在乎他的队友们。</span><span class="english">But Nene does care about his teammates.</span></p>

@@ -1,5 +1,7 @@
 # usurpation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usurpation.md)
+
 <p><span class="chinese">在前苏联，腐败丑闻可引发篡权。</span><span class="english">In the former Soviet Union, corruption scandals can spark usurpation.</span></p>
 
 <p><span class="chinese">对权力的篡夺的担忧远胜于联邦刺激计划。</span><span class="english">Surely this usurpation is more worrisome than a few federal stimulus programs.</span></p>

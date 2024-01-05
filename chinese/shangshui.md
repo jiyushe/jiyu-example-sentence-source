@@ -1,5 +1,7 @@
 # 上水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshui.md)
+
 <p><span class="chinese">冬天的夜晚玻璃窗上很快就结上水汽。</span><span class="english">Glass windows steam over quickly at night in winter.</span></p>
 
 <p><span class="chinese">地上水一般是由人们从井里汲上来。</span><span class="english">Ground water is usually removed by man through wells.</span></p>

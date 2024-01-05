@@ -1,5 +1,7 @@
 # recoverable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recoverable.md)
+
 <p><span class="chinese">该进程为可恢复的数据库管理日志文件。</span><span class="english">Manages log files for a recoverable database.</span></p>
 
 <p><span class="chinese">业务流程是自动的且是可恢复的。</span><span class="english">Business processes are automatic and recoverable.</span></p>

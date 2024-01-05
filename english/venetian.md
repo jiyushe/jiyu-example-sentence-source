@@ -1,5 +1,7 @@
 # venetian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venetian.md)
+
 <p><span class="chinese">那天我走过了威尼西亚平原。</span><span class="english">That day i crossed the venetian plain.</span></p>
 
 <p><span class="chinese">威尼斯一家商店的墙上挂满了面具。</span><span class="english">Masks hang on the walls of a Venetian shop.</span></p>

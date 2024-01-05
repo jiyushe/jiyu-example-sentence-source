@@ -1,5 +1,7 @@
 # 受戒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujie.md)
+
 <p><span class="chinese">教会并没有受戒的神职人员。</span><span class="english">The church has no ordained clergy.</span></p>
 
 <p><span class="chinese">不受戒是真“自由”吗？</span><span class="english">Will "not receiving precepts" give you true freedom?</span></p>

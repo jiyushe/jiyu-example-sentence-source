@@ -1,5 +1,7 @@
 # backswing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backswing.md)
+
 <p><span class="chinese">上杆的时候不要停顿。再来。</span><span class="english">No stop on the backswing. Go again.</span></p>
 
 <p><span class="chinese">你现在已经完成背后拉拍。</span><span class="english">You have now completed the backswing.</span></p>

@@ -1,5 +1,7 @@
 # coordinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coordinate.md)
+
 <p><span class="chinese">我们可以合作。</span><span class="english">We can coördinate.</span></p>
 
 <p><span class="chinese">协调中国啤酒大麦育种事宜。</span><span class="english">Coordinate China beer barley breeding.</span></p>

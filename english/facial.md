@@ -1,5 +1,7 @@
 # facial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facial.md)
+
 <p><span class="chinese">面部肌肤更是水水嫩嫩。</span><span class="english">Facial skin is water.</span></p>
 
 <p><span class="chinese">这种乳膏可除去面部的汗毛。</span><span class="english">The cream dissolves facial hair.</span></p>

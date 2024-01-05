@@ -1,5 +1,7 @@
 # quest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quest.md)
+
 <p><span class="chinese">小子，你找死！</span><span class="english">Boy, you quest die!</span></p>
 
 <p><span class="chinese">您寻求的是什么？</span><span class="english">What is your quest?</span></p>

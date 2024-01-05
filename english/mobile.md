@@ -1,5 +1,7 @@
 # mobile 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mobile.md)
+
 <p><span class="chinese">是我们的手机号。</span><span class="english">It is our mobile phone.</span></p>
 
 <p><span class="chinese">首个移动僵尸网络？</span><span class="english">The First Mobile Botnet?</span></p>

@@ -1,5 +1,7 @@
 # sellers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sellers.md)
+
 <p><span class="chinese">小鬼铃铛是其中卖得最好的。</span><span class="english">Gremlin bells are his best sellers.</span></p>
 
 <p><span class="chinese">是的，这是我们卖得最好的一款。</span><span class="english">Yes. It is one of our best sellers.</span></p>

@@ -1,5 +1,7 @@
 # canty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canty.md)
+
 <p><span class="chinese">他的名字叫汤姆凯迪。</span><span class="english">His name was Tom Canty.</span></p>
 
 <p><span class="chinese">多少个快活日子，约翰。</span><span class="english">And mony a canty day, john.</span></p>

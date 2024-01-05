@@ -1,5 +1,7 @@
 # 导火索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daohuosuo.md)
+
 <p><span class="chinese">压力是很重要的一个导火索。</span><span class="english">Stress is a major contributor.</span></p>
 
 <p><span class="chinese">消费级烟火有一个六秒钟的导火索。</span><span class="english">Consumer-grade pyrotechnics have a six-second fuse.</span></p>

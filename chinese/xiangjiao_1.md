@@ -1,5 +1,7 @@
 # 相交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjiao_1.md)
+
 <p><span class="chinese">它们是相交的。</span><span class="english">They intersect.</span></p>
 
 <p><span class="chinese">这两条线在A点相交。</span><span class="english">The two lines cut at point A.</span></p>

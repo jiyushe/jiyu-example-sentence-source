@@ -1,5 +1,7 @@
 # joule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joule.md)
+
 <p><span class="chinese">回想一下焦耳膨胀。</span><span class="english">Remember the Joule expansion.</span></p>
 
 <p><span class="chinese">国际单位制中的能量单位是什么，焦耳。</span><span class="english">What is the energy unit in SI? The joule.</span></p>

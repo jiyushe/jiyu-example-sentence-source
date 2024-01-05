@@ -1,5 +1,7 @@
 # 巧舌如簧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaosheruhuang.md)
+
 <p><span class="chinese">神经学家是这样巧舌如簧的。</span><span class="english">Well the so called MS experts are neurologists.</span></p>
 
 <p><span class="chinese">我必须乞求宽恕其巧舌如簧简化，在某些情况下。</span><span class="english">I must beg forgiveness for its glib simplification in some cases.</span></p>

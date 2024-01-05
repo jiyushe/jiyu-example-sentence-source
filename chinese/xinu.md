@@ -1,5 +1,7 @@
 # 息怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinu.md)
+
 <p><span class="chinese">她息怒了。</span><span class="english">She ceased from anger.</span></p>
 
 <p><span class="chinese">温和的答案可以息怒。</span><span class="english">A soft answer turns away wrath.</span></p>

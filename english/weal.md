@@ -1,5 +1,7 @@
 # weal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weal.md)
+
 <p><span class="chinese">他们同甘苦共患难。</span><span class="english">They lived in weal and woe.</span></p>
 
 <p><span class="chinese">我们必须同甘共苦。</span><span class="english">We must share weal and woe.</span></p>

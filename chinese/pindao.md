@@ -1,5 +1,7 @@
 # 频道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pindao.md)
+
 <p><span class="chinese">方今8频道播什么节目？</span><span class="english">Whatis on Channel 8 now?</span></p>
 
 <p><span class="chinese">我喜欢体育频道。</span><span class="english">I like the sports channel.</span></p>

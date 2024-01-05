@@ -1,5 +1,7 @@
 # escalation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escalation.md)
+
 <p><span class="chinese">像“升级游戏”，但它的凝固汽油弹。</span><span class="english">Like "escalation games, " but it's napalm.</span></p>
 
 <p><span class="chinese">直接升级点是竹篙周。</span><span class="english">Your direct escalation point is Penny Zhou.</span></p>

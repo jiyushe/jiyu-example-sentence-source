@@ -1,5 +1,7 @@
 # 组装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzhuang.md)
+
 <p><span class="chinese">组装准备铜焊的部件。</span><span class="english">Assemble parts to be brazed.</span></p>
 
 <p><span class="chinese">看组装程序图。</span><span class="english">See the assembly process plans.</span></p>

@@ -1,5 +1,7 @@
 # digitalis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digitalis.md)
+
 <p><span class="chinese">医生给病人注入洋地黄。</span><span class="english">The doctor injected the patient with digitalis.</span></p>
 
 <p><span class="chinese">缺乏统一的洋地黄中毒的诊断标准。</span><span class="english">Lack of an uniform index diagnosis of digitalis intoxication.</span></p>

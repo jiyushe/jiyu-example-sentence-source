@@ -1,5 +1,7 @@
 # 苛政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kezheng.md)
+
 <p><span class="chinese">茫然的双眼不再哭泣，苛政憔悴了你们的脸！</span><span class="english">With hollow eyes that cannot weep, and for words your faces wan?</span></p>
 
 <p><span class="chinese">你们记住，老虎吃人，可是苛政比老虎还要凶猛啊！</span><span class="english">Remember, tigers devour people, but tyranny is fiercer than tigers!</span></p>

@@ -1,5 +1,7 @@
 # ariadne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ariadne.md)
+
 <p><span class="chinese">阿里阿德涅独自一人在岛上，忘记了她在迷宫之战中取得的胜利。</span><span class="english">Alone, Ariadne forgot her triumph as the untangler of the labyrinth.</span></p>
 
 <p><span class="chinese">她在这里小住了几日，参加了那天的晚会。</span><span class="english">Ariadne Oliver, who was staying down here and was present at the party.</span></p>

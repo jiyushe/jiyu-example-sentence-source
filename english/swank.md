@@ -1,5 +1,7 @@
 # swank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swank.md)
+
 <p><span class="chinese">斯万卡还是个运动员。</span><span class="english">Swank is also an athlete.</span></p>
 
 <p><span class="chinese">我一直在斯旺克和喜欢它。</span><span class="english">I've been swank and lovin' it.</span></p>

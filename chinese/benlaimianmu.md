@@ -1,5 +1,7 @@
 # 本来面目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benlaimianmu.md)
+
 <p><span class="chinese">世界的本来面目是什么样的？</span><span class="english">What the world originally looked like?</span></p>
 
 <p><span class="chinese">我们在重现历史的本来面目。</span><span class="english">We are restoring history's original face.</span></p>

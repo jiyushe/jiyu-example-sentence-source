@@ -1,5 +1,7 @@
 # 贴现率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiexianlv.md)
+
 <p><span class="chinese">重贴现率是由联准会所订定。</span><span class="english">The discount rate is set by the Fed.</span></p>
 
 <p><span class="chinese">那我们怎样才能从贴现率得到价格呢</span><span class="english">So, how do we get the price from the discount rate?</span></p>

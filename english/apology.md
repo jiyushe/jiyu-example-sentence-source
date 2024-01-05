@@ -1,5 +1,7 @@
 # apology 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apology.md)
+
 <p><span class="chinese">但是仍然没有道歉。</span><span class="english">But still no apology.</span></p>
 
 <p><span class="chinese">我欠你一个道歉。</span><span class="english">I own you an apology.</span></p>

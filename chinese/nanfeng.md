@@ -1,5 +1,7 @@
 # 南风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanfeng.md)
+
 <p><span class="chinese">温和的偏南风。</span><span class="english">Moderate southerly winds.</span></p>
 
 <p><span class="chinese">南风轻轻地吹拂。</span><span class="english">The south wind blows gently.</span></p>

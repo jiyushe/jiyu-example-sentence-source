@@ -1,5 +1,7 @@
 # talc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talc.md)
+
 <p><span class="chinese">文献中记载的滑石资料。</span><span class="english">Data about talc recorded in documents.</span></p>
 
 <p><span class="chinese">天然滑石矿是多种矿物的集合体。</span><span class="english">Natural talc is a multimineral aggregate.</span></p>

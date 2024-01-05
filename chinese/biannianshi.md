@@ -1,5 +1,7 @@
 # 编年史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biannianshi.md)
+
 <p><span class="chinese">每块崩碎剥落的石头都是一部编年史。</span><span class="english">Every mouldering stone was a chronicle.</span></p>
 
 <p><span class="chinese">H村虽在历史上默默无闻，却在昆虫学的编年史上享有盛名。</span><span class="english">In the annals of entomology it is well known.</span></p>

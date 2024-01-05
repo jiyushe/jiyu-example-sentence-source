@@ -1,5 +1,7 @@
 # eel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eel.md)
+
 <p><span class="chinese">那条鳗鱼扭身滑走。</span><span class="english">The eel wriggled away.</span></p>
 
 <p><span class="chinese">快乐好象小鳝鱼。</span><span class="english">And squirms like an eel.</span></p>

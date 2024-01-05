@@ -1,5 +1,7 @@
 # glare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glare.md)
+
 <p><span class="chinese">在强光下，他双眼发花。</span><span class="english">His eyes dazzled in the glare.</span></p>
 
 <p><span class="chinese">她对那个粗鲁的男子怒目而视。</span><span class="english">She gave the rude man a glare.</span></p>

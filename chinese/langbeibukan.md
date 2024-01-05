@@ -1,5 +1,7 @@
 # 狼狈不堪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langbeibukan.md)
+
 <p><span class="chinese">为你的真实而战可能狼狈不堪。</span><span class="english">The battle for your authenticity can be an ugly one.</span></p>
 
 <p><span class="chinese">浑身泥泞，汗流浃背，还有什么词语能形容现在狼狈不堪的我们？</span><span class="english">All muddy, sweat, and what words can describe the us now?</span></p>

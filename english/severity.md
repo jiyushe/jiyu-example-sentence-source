@@ -1,5 +1,7 @@
 # severity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/severity.md)
+
 <p><span class="chinese">是关于孤独症的严重程度吗</span><span class="english">Is the severity of autism?</span></p>
 
 <p><span class="chinese">向访问分配一个优先权或者安全性。</span><span class="english">Assign a priority or severity to the call.</span></p>

@@ -1,5 +1,7 @@
 # 空穴来风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongxuelaifeng.md)
+
 <p><span class="chinese">她的担心并非空穴来风。</span><span class="english">Her fears are not unfounded.</span></p>
 
 <p><span class="chinese">当然，很多担忧并非空穴来风。</span><span class="english">Of course plenty of caveats are in order.</span></p>

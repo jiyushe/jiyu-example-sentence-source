@@ -1,5 +1,7 @@
 # 要素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaosu.md)
+
 <p><span class="chinese">这是第一要素。</span><span class="english">That is number one.</span></p>
 
 <p><span class="chinese">8个比免费更好的生财要素</span><span class="english">Eight Generatives Better Than Free</span></p>

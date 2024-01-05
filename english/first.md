@@ -1,5 +1,7 @@
 # first 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/first.md)
+
 <p><span class="chinese">首先就去做。</span><span class="english">Do it first.</span></p>
 
 <p><span class="chinese">女士优先。</span><span class="english">Ladies first.</span></p>

@@ -1,5 +1,7 @@
 # accessional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accessional.md)
+
 <p><span class="chinese">“唧”一般不表示具体的意义，但有某种附加意义和语法作用。</span><span class="english">Ji has no material meaning but accessional meanings and phraseological functions.</span></p>
 
 <p><span class="chinese">格林威乱尺度时间。异样是通功一条附添的时针在24小时的置应去肯定世界光阴和ZULU光阴。</span><span class="english">Greenwich slow time. it also confirm universal time and ZULU time by a accessional hour hand at 24 hour work.</span></p>

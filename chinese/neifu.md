@@ -1,5 +1,7 @@
 # 内服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neifu.md)
+
 <p><span class="chinese">这药是外用的，不可内服。</span><span class="english">The medicine is for external use, not to drink.</span></p>
 
 <p><span class="chinese">这是用外用药，不可内服。</span><span class="english">And this is for external use , not for oral administration.</span></p>

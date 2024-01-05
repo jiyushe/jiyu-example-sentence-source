@@ -1,5 +1,7 @@
 # 取信于民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quxinyumin.md)
+
 <p><span class="chinese">诚信经营以质优价廉的服务，取信于民。</span><span class="english">First, credit management in order to lower prices and better quality services, to win the trust.</span></p>
 
 <p><span class="chinese">同时加强党的执政能力建设要见成效，以取信于民，体现党的领导水平和执政能力。</span><span class="english">Meanwhile, we should gain some achievements, confided by people, embody leadership level and ruling ability.</span></p>

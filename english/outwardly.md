@@ -1,5 +1,7 @@
 # outwardly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outwardly.md)
+
 <p><span class="chinese">从表面上看，你象个很有勇气的人。</span><span class="english">Outwardly you appear to be a man of courage.</span></p>
 
 <p><span class="chinese">可是我觉得我现在是“外强中干”。</span><span class="english">But I am "outwardly strong and inwardly weak".</span></p>

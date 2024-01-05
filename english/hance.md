@@ -1,5 +1,7 @@
 # hance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hance.md)
+
 <p><span class="chinese">请转告他我打过电话给他了，我是Hance。</span><span class="english">Would you let him know, I called. this is Hance.</span></p>
 
 <p><span class="chinese">今天我能告诉您，当然不错过机会。祝您生日快乐！</span><span class="english">Hance like this to tell you so today, Happy Birthday!</span></p>

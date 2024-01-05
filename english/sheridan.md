@@ -1,5 +1,7 @@
 # sheridan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheridan.md)
+
 <p><span class="chinese">现在它已停靠在克里斯托弗街和谢立丹广场站了。</span><span class="english">Now it is at Christopher Street and Sheridan Square.</span></p>
 
 <p><span class="chinese">观众中有电影制作人吉姆·谢里登和一些电影明星。</span><span class="english">Among the audience were moviemaker Jim Sheridan and some movie stars.</span></p>

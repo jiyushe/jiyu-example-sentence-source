@@ -1,5 +1,7 @@
 # caterer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caterer.md)
+
 <p><span class="chinese">我应该给宴会承办者打一个电话。</span><span class="english">I've got to call a caterer.</span></p>
 
 <p><span class="chinese">你结婚的时候有请外烩吗？</span><span class="english">Did you hire a caterer for you wedding?</span></p>

@@ -1,5 +1,7 @@
 # countercharge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countercharge.md)
+
 <p><span class="chinese">他们今天开始全线反攻。</span><span class="english">They started to countercharge on all fronts today.</span></p>
 
 <p><span class="chinese">我国的反诉制度起步较晚，在现实中存在很大的缺陷。</span><span class="english">Countercharge system in our country has many defects in reality.</span></p>

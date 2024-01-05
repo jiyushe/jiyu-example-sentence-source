@@ -1,5 +1,7 @@
 # 徒劳无功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tulaowugong.md)
+
 <p><span class="chinese">撒网捕风，徒劳无功。</span><span class="english">The wind cannot be caught in net.</span></p>
 
 <p><span class="chinese">我尝试了多次，都徒劳无功。</span><span class="english">I made many attempts, all in vain.</span></p>

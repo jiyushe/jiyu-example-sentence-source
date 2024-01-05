@@ -1,5 +1,7 @@
 # lucite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucite.md)
+
 <p><span class="chinese">有机玻璃加热体细胞，267毫升。</span><span class="english">Heated Lucite Hull Cell, 267 ml.</span></p>
 
 <p><span class="chinese">平原有机玻璃船体细胞集，267毫升。</span><span class="english">Plain Lucite Hull Cell Set, 267 ml.</span></p>

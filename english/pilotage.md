@@ -1,5 +1,7 @@
 # pilotage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilotage.md)
+
 <p><span class="chinese">引航是非强制的。</span><span class="english">Pilotage is not compulsory.</span></p>
 
 <p><span class="chinese">几艘拖船协助引航？</span><span class="english">How many tugs assist pilotage?</span></p>

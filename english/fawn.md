@@ -1,5 +1,7 @@
 # fawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fawn.md)
+
 <p><span class="chinese">本人混合幼鹿和小麦爪卡。</span><span class="english">I mix fawn and wheat tog.</span></p>
 
 <p><span class="chinese">蓝花有只宠物小鹿。</span><span class="english">Blue Flower had a pet fawn.</span></p>

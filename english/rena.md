@@ -1,5 +1,7 @@
 # rena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rena.md)
+
 <p><span class="chinese">骂蕾娜是白痴真是一种侮辱。</span><span class="english">Calling Rena an idiot would be a real insult.</span></p>
 
 <p><span class="chinese">那天中午，丽娜的父亲让丽萍坐到丽娜平时坐的位子上。</span><span class="english">At noon, Rena father let my wife sat to Rena usually sit at the table.</span></p>

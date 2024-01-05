@@ -1,5 +1,7 @@
 # 从此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congci.md)
+
 <p><span class="chinese">从此我的生活完全变了样。</span><span class="english">My life has changed.</span></p>
 
 <p><span class="chinese">从此人有了原罪。</span><span class="english">Original sin, people.</span></p>

@@ -1,5 +1,7 @@
 # 估算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gusuan.md)
+
 <p><span class="chinese">项目周期成本估算。</span><span class="english">Life-cycle cost estimating.</span></p>
 
 <p><span class="chinese">运行实际估算成本计算。</span><span class="english">Run actual imputed cost calc.</span></p>

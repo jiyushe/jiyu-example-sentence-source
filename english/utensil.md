@@ -1,5 +1,7 @@
 # utensil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utensil.md)
+
 <p><span class="chinese">面包只是食具。</span><span class="english">Bread is a utensil.</span></p>
 
 <p><span class="chinese">玉璋是古蜀重要的祭祀礼器。</span><span class="english">Jade Zhang was typical ritual utensil in Shu culture.</span></p>

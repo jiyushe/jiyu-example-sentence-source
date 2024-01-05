@@ -1,5 +1,7 @@
 # 闭会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bihui_1.md)
+
 <p><span class="chinese">现在他在闭会。</span><span class="english">At the moment, he's busy.</span></p>
 
 <p><span class="chinese">我可以替我有病的兄弟去闭会。</span><span class="english">I can't go, she'll go instead of me.</span></p>

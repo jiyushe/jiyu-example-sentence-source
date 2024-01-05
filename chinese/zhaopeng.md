@@ -1,5 +1,7 @@
 # 罩棚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaopeng.md)
+
 <p><span class="chinese">又作五十个铜钩，使罩棚连成一个。</span><span class="english">They made fifty bronze clasps to fasten the tent together as a unit.</span></p>
 
 <p><span class="chinese">你要用山羊毛织十一幅幔子，作为帐幕以上的罩棚。</span><span class="english">Make curtains of goat hair for the tent over the tabernacle-eleven altogether.</span></p>

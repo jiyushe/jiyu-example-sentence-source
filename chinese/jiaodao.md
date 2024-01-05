@@ -1,5 +1,7 @@
 # 交道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaodao.md)
+
 <p><span class="chinese">我以前跟麦克内尔打过交道。</span><span class="english">I've dealt with Mcneil before.</span></p>
 
 <p><span class="chinese">尼克告诉我说，你以前也曾经跟车打过交道。</span><span class="english">Nick told me you used to work on cars.</span></p>

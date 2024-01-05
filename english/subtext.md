@@ -1,5 +1,7 @@
 # subtext
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtext.md)
+
 <p><span class="chinese">我明白他话里的潜台词。</span><span class="english">I know the subtext of his remark.</span></p>
 
 <p><span class="chinese">网店办照的潜台词是要征税。</span><span class="english">Shop Office according to the subtext is to tax.</span></p>

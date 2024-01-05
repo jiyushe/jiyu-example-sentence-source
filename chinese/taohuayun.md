@@ -1,5 +1,7 @@
 # 桃花运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taohuayun.md)
+
 <p><span class="chinese">你说她女儿这是走的什么桃花运啊？</span><span class="english">You say her daughter this is to hike of what luck in adore?</span></p>
 
 <p><span class="chinese">同一时间，身边的一位好朋友的“桃花运”开始涌现。</span><span class="english">At the same time, one of my good friend seems to have some few admirers.</span></p>

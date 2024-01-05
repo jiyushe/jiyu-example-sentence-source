@@ -1,5 +1,7 @@
 # 三类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanlei.md)
+
 <p><span class="chinese">神经元可以分为三类</span><span class="english">Neurons come in three flavors.</span></p>
 
 <p><span class="chinese">总共有三类保留字。</span><span class="english">There are three classes of reserved words.</span></p>

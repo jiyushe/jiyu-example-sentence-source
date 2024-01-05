@@ -1,5 +1,7 @@
 # dauphine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dauphine.md)
+
 <p><span class="chinese">此情此景，即使人到白头也都还能记得。</span><span class="english">Even people dauphine to also can still remember.</span></p>
 
 <p><span class="chinese">此洞的洞口在丹芬阿尔斯山的高原上。</span><span class="english">The entrance to the cave is on a plateau in the Dauphine Alps.</span></p>

@@ -1,5 +1,7 @@
 # 迎面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingmian.md)
+
 <p><span class="chinese">大火迎面烧来。</span><span class="english">The fire burned head on.</span></p>
 
 <p><span class="chinese">这两辆汽车迎面相撞。</span><span class="english">The two cars met head-on.</span></p>

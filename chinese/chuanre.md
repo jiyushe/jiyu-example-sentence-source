@@ -1,5 +1,7 @@
 # 传热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanre.md)
+
 <p><span class="chinese">生铁可均匀地传热。</span><span class="english">Cast iron conducts heat evenly.</span></p>
 
 <p><span class="chinese">此金属传热快。</span><span class="english">The metal propagates heat rapidly.</span></p>

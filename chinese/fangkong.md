@@ -1,5 +1,7 @@
 # 放空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangkong.md)
+
 <p><span class="chinese">双拉链网，内衬腿放空。</span><span class="english">Double zip mesh lined inner leg venting.</span></p>
 
 <p><span class="chinese">放空，让今天变得更美好。</span><span class="english">Empty a space, and make it beautiful today.</span></p>

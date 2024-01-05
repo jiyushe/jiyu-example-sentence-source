@@ -1,5 +1,7 @@
 # 公事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshi.md)
+
 <p><span class="chinese">要保持一种办现公事时一本正经的神态。</span><span class="english">Keep a Poker face in business situations.</span></p>
 
 <p><span class="chinese">您是公事还是探亲访友？</span><span class="english">Are you on business or visiting relatives?</span></p>

@@ -1,5 +1,7 @@
 # 反省
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanxing.md)
+
 <p><span class="chinese">他鼓励他们反省。</span><span class="english">He urges introspection.</span></p>
 
 <p><span class="chinese">可以反省你的行动。</span><span class="english">Reflect on your favorites.</span></p>

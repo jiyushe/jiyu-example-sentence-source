@@ -1,5 +1,7 @@
 # disservice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disservice.md)
+
 <p><span class="chinese">不要再说了，你只会给他帮倒忙。</span><span class="english">Don't speak, you will do a disservice to him.</span></p>
 
 <p><span class="chinese">这种做法对人类危害非浅。</span><span class="english">In this it has done mankind a great disservice.</span></p>

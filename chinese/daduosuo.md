@@ -1,5 +1,7 @@
 # 打哆嗦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daduosuo.md)
+
 <p><span class="chinese">我冷得打哆嗦。</span><span class="english">I'm shivering with cold.</span></p>
 
 <p><span class="chinese">他冷得直打哆嗦，其实我也是。</span><span class="english">So am I, for that matter.</span></p>

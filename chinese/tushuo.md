@@ -1,5 +1,7 @@
 # 图说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tushuo.md)
+
 <p><span class="chinese">参看“时代本周图说”</span><span class="english">See TIME's pictures of the week.</span></p>
 
 <p><span class="chinese">图说，网站现在已经恢复正常了。</span><span class="english">Tew said the site now works normally.</span></p>

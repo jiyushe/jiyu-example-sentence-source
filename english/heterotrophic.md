@@ -1,5 +1,7 @@
 # heterotrophic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterotrophic.md)
+
 <p><span class="chinese">加拿大机构对于样本的检测已经显示了每单位超过80000的变异细菌。</span><span class="english">Canadian test samples showed results of more than 80, 000 heterotrophic units.</span></p>
 
 <p><span class="chinese">现就异养硝化微生物的分子生物学研究作一综述。</span><span class="english">Advance in molecular biology of heterotrophic nitrifier is reviewed in this paper.</span></p>

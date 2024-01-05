@@ -1,5 +1,7 @@
 # plumb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plumb.md)
+
 <p><span class="chinese">她学会了自己给房子拉接电线、敷设水管。</span><span class="english">She learned to wire and plumb the house herself.</span></p>
 
 <p><span class="chinese">他把圣经中的话比喻成他心灵的「铅锤」。</span><span class="english">He likened the Scriptures to "plumb bobs " for his heart.</span></p>

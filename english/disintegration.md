@@ -1,5 +1,7 @@
 # disintegration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disintegration.md)
+
 <p><span class="chinese">这是一种空前的溃乱。</span><span class="english">The disintegration is unprecedented.</span></p>
 
 <p><span class="chinese">这是关系瓦解的第一个讯号吗？</span><span class="english">Is it the first signal of relationship disintegration?</span></p>

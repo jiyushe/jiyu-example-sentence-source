@@ -1,5 +1,7 @@
 # sunbeam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunbeam.md)
+
 <p><span class="chinese">厚厚的乌云中阳光一束。</span><span class="english">Sunbeam among the thick, dark clouds.</span></p>
 
 <p><span class="chinese">他们在阳光旅游公司做兼职。</span><span class="english">They have part-time jobs with the Sunbeam Travel Company.</span></p>

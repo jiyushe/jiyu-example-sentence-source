@@ -1,5 +1,7 @@
 # de
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/de.md)
+
 <p><span class="chinese">在西班牙广场。</span><span class="english">En Plaza de España.</span></p>
 
 <p><span class="chinese">谢谢你安慰我。</span><span class="english">Merci de me consoler.</span></p>

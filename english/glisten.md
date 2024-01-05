@@ -1,5 +1,7 @@
 # glisten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glisten.md)
+
 <p><span class="chinese">树梢白雪闪光。</span><span class="english">Where the treetop's glisten.</span></p>
 
 <p><span class="chinese">为什么我满头银发?</span><span class="english">Why does my hair glisten a shiny silver?</span></p>

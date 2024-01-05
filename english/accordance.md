@@ -1,5 +1,7 @@
 # accordance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accordance.md)
+
 <p><span class="chinese">它在与操作系统按照用户界面风格。</span><span class="english">It's in accordance with OS in UI styles.</span></p>
 
 <p><span class="chinese">年代学的与年代有关或依据年代的…</span><span class="english">Relating to or in accordance with chronology.</span></p>

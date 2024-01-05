@@ -1,5 +1,7 @@
 # chromic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromic.md)
+
 <p><span class="chinese">歌响舞分行，艳色动流光。</span><span class="english">Dance song ring branch, Chromic moving streamer.</span></p>
 
 <p><span class="chinese">氨与铬酸中和所产生的盐。</span><span class="english">Salt formed by neutralising chromic acid with ammonia.</span></p>

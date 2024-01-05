@@ -1,5 +1,7 @@
 # output
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/output.md)
+
 <p><span class="chinese">没有输出？</span><span class="english">No output?</span></p>
 
 <p><span class="chinese">粮食产量激增。</span><span class="english">Grain output shot up.</span></p>

@@ -1,5 +1,7 @@
 # 重托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongtuo.md)
+
 <p><span class="chinese">期待的重托也在给西班牙增加负担，欲将其拉垮。</span><span class="english">The weight of expectation could drag Spain down.</span></p>
 
 <p><span class="chinese">他受重托为她保管这财产。</span><span class="english">He is holding the property in great trust for her.</span></p>

@@ -1,5 +1,7 @@
 # 界河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiehe_1.md)
+
 <p><span class="chinese">中国东北地区与朝鲜的界河。</span><span class="english">China's northeast with North Korea's boundary rivers.</span></p>
 
 <p><span class="chinese">里奥兰德河墨西哥美界河。</span><span class="english">Rio Grande marks the border between Mexico and the USA.</span></p>

@@ -1,5 +1,7 @@
 # greenhorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenhorn.md)
+
 <p><span class="chinese">他们以为我是外行。</span><span class="english">They think I am a greenhorn.</span></p>
 
 <p><span class="chinese">在这行，我是个生手。</span><span class="english">I am a greenhorn in this field.</span></p>

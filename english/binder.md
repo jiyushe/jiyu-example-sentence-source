@@ -1,5 +1,7 @@
 # binder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/binder.md)
+
 <p><span class="chinese">那个活页夹多少钱？</span><span class="english">How much for that binder?</span></p>
 
 <p><span class="chinese">磷矿还起胶结剂的作用。</span><span class="english">The phosphate also acts as a binder.</span></p>

@@ -1,5 +1,7 @@
 # patriarchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patriarchy.md)
+
 <p><span class="chinese">这跟父权文化对女人的一贯看法并没有很大差别。</span><span class="english">That's not very different from what patriarchy always says about women.</span></p>
 
 <p><span class="chinese">接着便是中东，在这里传统的父系社会仍然占据着统治地位。</span><span class="english">Then there is the Middle East, where traditional patriarchy still holds sway.</span></p>

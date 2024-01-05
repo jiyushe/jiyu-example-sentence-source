@@ -1,5 +1,7 @@
 # 硕大无比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuodawubi.md)
+
 <p><span class="chinese">大峡谷不仅仅是大，是硕大无比。</span><span class="english">The Grand Canyon is not just big. It's huge !</span></p>
 
 <p><span class="chinese">她的脑袋和身体比起来硕大无比。</span><span class="english">Her head is still massive compared to her body.</span></p>

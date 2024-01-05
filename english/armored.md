@@ -1,5 +1,7 @@
 # armored
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armored.md)
+
 <p><span class="chinese">全副武装的和披甲的武器平台。</span><span class="english">Heavily armed and armored weapon platform.</span></p>
 
 <p><span class="chinese">看金戈舞处，我心如铁。</span><span class="english">See armored dance at my heart, such as iron.</span></p>

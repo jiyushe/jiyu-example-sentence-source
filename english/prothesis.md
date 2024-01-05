@@ -1,5 +1,7 @@
 # prothesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prothesis.md)
+
 <p><span class="chinese">目的观察膝关节假体置换治疗胫骨骨肉瘤的近期疗效。</span><span class="english">Objective To investigate the short-term results of the prothesis for the tibial osteosarcoma.</span></p>
 
 <p><span class="chinese">目的研究镍铬合金固定修复体对MRI影像的影响。</span><span class="english">Objective To investigate the effect of the fixed prothesis made of Ni-Cr alloy on the MRI images.</span></p>

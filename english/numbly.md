@@ -1,5 +1,7 @@
 # numbly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numbly.md)
+
 <p><span class="chinese">孟兆祥只能麻木地点着头。</span><span class="english">Meng could only nod numbly.</span></p>
 
 <p><span class="chinese">他糊里糊涂地走进了墓地。</span><span class="english">He walked numbly into the cemetery.</span></p>

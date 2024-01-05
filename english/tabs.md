@@ -1,5 +1,7 @@
 # tabs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabs.md)
+
 <p><span class="chinese">代码中不应该有制表符。</span><span class="english">No tabs in the code.</span></p>
 
 <p><span class="chinese">这时将出现一组新的选项卡。</span><span class="english">A new set of tabs appears.</span></p>

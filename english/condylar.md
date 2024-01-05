@@ -1,5 +1,7 @@
 # condylar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condylar.md)
+
 <p><span class="chinese">钛板无移位，髁突表面无明显吸收现象。</span><span class="english">No absorption was noted on the condylar surface.</span></p>
 
 <p><span class="chinese">该术式是治疗髁突骨瘤较为理想的方式。</span><span class="english">It was an effective alternative to treat condylar osteoma.</span></p>

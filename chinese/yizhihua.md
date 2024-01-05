@@ -1,5 +1,7 @@
 # 一枝花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhihua.md)
+
 <p><span class="chinese">他人赠我一枝花。</span><span class="english">A flower was offered to me.</span></p>
 
 <p><span class="chinese">一枝花笑称她一生只嫁英雄。</span><span class="english">A flower that she only married a hero.</span></p>

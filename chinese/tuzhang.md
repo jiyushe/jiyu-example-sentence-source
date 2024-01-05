@@ -1,5 +1,7 @@
 # 图章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzhang.md)
+
 <p><span class="chinese">那张邮票上没有盖图章。</span><span class="english">There is no stamp on the stamp.</span></p>
 
 <p><span class="chinese">图章能完美的置入孔穴。</span><span class="english">The medallions sat perfectly on the openings.</span></p>

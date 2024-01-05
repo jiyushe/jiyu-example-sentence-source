@@ -1,5 +1,7 @@
 # 楚楚动人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchudongren.md)
+
 <p><span class="chinese">美遍布于这个楚楚动人的世界。</span><span class="english">So many beauties in this appealing world.</span></p>
 
 <p><span class="chinese">是的，楚楚动人的她获得的好评如潮。</span><span class="english">Yeah,she got a roaring reputation because of her beauty.</span></p>

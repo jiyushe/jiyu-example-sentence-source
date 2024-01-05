@@ -1,5 +1,7 @@
 # adb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adb.md)
+
 <p><span class="chinese">亚银有太多经费投注在石化能源业。</span><span class="english">Too much ADB money is still channeled toward fossil fuel energy.</span></p>
 
 <p><span class="chinese">现在奥巴马总统表示宽带网络也同样需要尽力来拓展。</span><span class="english">Now President Ob am as ays a similar effort is needed to exp and bro adb and networks.</span></p>

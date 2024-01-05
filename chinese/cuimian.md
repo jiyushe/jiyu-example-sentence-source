@@ -1,5 +1,7 @@
 # 催眠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuimian.md)
+
 <p><span class="chinese">你在书里讨论的有关“食物催眠”究竟是什么？</span><span class="english">What is a food trance?</span></p>
 
 <p><span class="chinese">你想对我催眠！</span><span class="english">You're hypnotizing me.</span></p>

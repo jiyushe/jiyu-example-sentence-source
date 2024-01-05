@@ -1,5 +1,7 @@
 # 椭圆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoyuan.md)
+
 <p><span class="chinese">这样就关闭了椭圆。</span><span class="english">This closes the loop.</span></p>
 
 <p><span class="chinese">在盒盖的背面画一个椭圆。</span><span class="english">Draw an ellipse on the box.</span></p>

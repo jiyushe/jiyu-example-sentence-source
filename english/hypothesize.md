@@ -1,5 +1,7 @@
 # hypothesize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothesize.md)
+
 <p><span class="chinese">研究者还认为，某些特定食物对我们做的梦起消极作用。</span><span class="english">The authors hypothesize that certain foods may negatively influence dreaming.</span></p>
 
 <p><span class="chinese">我们假设雌激素能够防止心肌细胞凋亡和CHF的进展。</span><span class="english">We hypothesize that estrogen prevents cardiomyocyte apoptosis and the deelopment of CHF.</span></p>

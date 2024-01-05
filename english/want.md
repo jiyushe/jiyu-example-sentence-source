@@ -1,5 +1,7 @@
 # want
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/want.md)
+
 <p><span class="chinese">我想闯荡。</span><span class="english">I do want.</span></p>
 
 <p><span class="chinese">我只要我和你。</span><span class="english">I want us.</span></p>

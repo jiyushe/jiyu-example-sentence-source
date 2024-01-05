@@ -1,5 +1,7 @@
 # alarmist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alarmist.md)
+
 <p><span class="chinese">有些人倾向于将这样的问题斥为耸人听闻。</span><span class="english">Some people are inclined to dismiss such questions as alarmist.</span></p>
 
 <p><span class="chinese">加来，但是，认为莱奥甘的外观“是没有理由是危言耸听。”</span><span class="english">Calais, however, thinks the Léogâne's appearance "is no reason to be alarmist."</span></p>

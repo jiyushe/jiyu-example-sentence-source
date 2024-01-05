@@ -1,5 +1,7 @@
 # guiltless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guiltless.md)
+
 <p><span class="chinese">苔丝狄蒙娜我是无罪而死的。</span><span class="english">Desdemona. A guiltless death I die.</span></p>
 
 <p><span class="chinese">香港自己很难说是无辜的。</span><span class="english">Hong Kong itself is hardly guiltless.</span></p>

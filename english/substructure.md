@@ -1,5 +1,7 @@
 # substructure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substructure.md)
+
 <p><span class="chinese">另一件就是最优子结构。</span><span class="english">And the other one was optimal substructure.</span></p>
 
 <p><span class="chinese">本文叙述了一种改进的子结构分析法。</span><span class="english">In this paper, an improved substructure method is described.</span></p>

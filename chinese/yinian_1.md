@@ -1,5 +1,7 @@
 # 翌年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinian_1.md)
+
 <p><span class="chinese">翌年开春，他们又如法炮制了同样的计划。</span><span class="english">The next year, they make the same New Year's resolutions.</span></p>
 
 <p><span class="chinese">翌年第四军又缩编为第十七师。</span><span class="english">The following year and the fourth cut from the 17th Army Division.</span></p>

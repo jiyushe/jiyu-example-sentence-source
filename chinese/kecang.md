@@ -1,5 +1,7 @@
 # 客舱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kecang.md)
+
 <p><span class="chinese">硬卧客舱没有门，我知道。</span><span class="english">Hard-sleeper class cabins don't have doors, I know.</span></p>
 
 <p><span class="chinese">坐在后排的乘客开始往客舱的前面冲。</span><span class="english">Those sitting in the back began rushing to the front of the cabin.</span></p>

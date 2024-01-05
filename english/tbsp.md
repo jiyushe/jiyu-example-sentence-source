@@ -1,5 +1,7 @@
 # tbsp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tbsp.md)
+
 <p><span class="chinese">加一勺油在锅加热。</span><span class="english">Heat up wok with 1 tbsp oil.</span></p>
 
 <p><span class="chinese">用1汤匙盐放入黄瓜段里撮匀。</span><span class="english">Rub cucumber slices with 1 tbsp salt.</span></p>

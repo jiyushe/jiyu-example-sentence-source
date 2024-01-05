@@ -1,5 +1,7 @@
 # 允诺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunnuo.md)
+
 <p><span class="chinese">给我你的爱，承以你亲口允诺。</span><span class="english">If you promise that you love me.</span></p>
 
 <p><span class="chinese">这对情人互相允诺永不变心。</span><span class="english">The lovers promised to be faithful forever.</span></p>

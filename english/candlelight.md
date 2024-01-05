@@ -1,5 +1,7 @@
 # candlelight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candlelight.md)
+
 <p><span class="chinese">它们在烛光中油光发亮。</span><span class="english">They glowed in the candlelight.</span></p>
 
 <p><span class="chinese">回到家后，他便在烛光下研习。</span><span class="english">He studied at home by candlelight.</span></p>

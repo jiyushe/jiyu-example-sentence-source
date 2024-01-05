@@ -1,5 +1,7 @@
 # profane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profane.md)
+
 <p><span class="chinese">钱非俗物。</span><span class="english">Money is not profane.</span></p>
 
 <p><span class="chinese">神圣与亵渎。</span><span class="english">Sacred versus the profane.</span></p>

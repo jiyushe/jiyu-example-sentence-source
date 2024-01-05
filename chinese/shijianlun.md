@@ -1,5 +1,7 @@
 # 实践论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijianlun.md)
+
 <p><span class="chinese">第四部分谈法治与德治统一之实践论。</span><span class="english">Part Four is about the practice of unifying rule of law and rule of morality.</span></p>
 
 <p><span class="chinese">现代图书馆学的实践论是对现代社会的价值贡献。</span><span class="english">The modern library science on practice is a valuable contribution to modern society.</span></p>

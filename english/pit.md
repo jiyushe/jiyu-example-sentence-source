@@ -1,5 +1,7 @@
 # pit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pit.md)
+
 <p><span class="chinese">馕坑烤肉。</span><span class="english">Nang pit barbecue.</span></p>
 
 <p><span class="chinese">法律是有底的深渊。</span><span class="english">Law is a bottomless pit.</span></p>

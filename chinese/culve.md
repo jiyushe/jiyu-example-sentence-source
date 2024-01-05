@@ -1,5 +1,7 @@
 # 粗略
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/culve.md)
+
 <p><span class="chinese">我只是粗略地翻了翻。</span><span class="english">I just slipped over it.</span></p>
 
 <p><span class="chinese">笔法松散粗略。</span><span class="english">The brushwork is loose and undescriptive.</span></p>

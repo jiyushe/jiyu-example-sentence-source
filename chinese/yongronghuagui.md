@@ -1,5 +1,7 @@
 # 雍容华贵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongronghuagui.md)
+
 <p><span class="chinese">那位雍容华贵的妇人给他留下了深刻的印象。</span><span class="english">The regal lady had made a deep impression on him.</span></p>
 
 <p><span class="chinese">伊丽莎白·泰勒的爱犬戴西从主人身上“遗传”了雍容华贵的气质。</span><span class="english">Actress Elizabeth Taylor with her pet Maltese dog, Daisy.</span></p>

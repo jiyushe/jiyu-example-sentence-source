@@ -1,5 +1,7 @@
 # clausal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clausal.md)
+
 <p><span class="chinese">这份考察报告，可以支持“小句中枢”的理论和观点。</span><span class="english">This paper can be an attestation of the Theory of Clausal Pivot.</span></p>
 
 <p><span class="chinese">概念外壳名词的从句信息是其重要用法。</span><span class="english">The clausal information of a shell noun is an essential part of its usage.</span></p>

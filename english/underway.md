@@ -1,5 +1,7 @@
 # underway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underway.md)
+
 <p><span class="chinese">救援工作正在进行。</span><span class="english">Rescue efforts are underway.</span></p>
 
 <p><span class="chinese">一场战斗已经开始了。</span><span class="english">One battle is already underway.</span></p>

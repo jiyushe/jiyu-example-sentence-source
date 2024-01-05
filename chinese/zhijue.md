@@ -1,5 +1,7 @@
 # 直觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijue.md)
+
 <p><span class="chinese">用你们的直觉。</span><span class="english">So use your intuition.</span></p>
 
 <p><span class="chinese">第三种是直觉。</span><span class="english">The third is intuiting.</span></p>

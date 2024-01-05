@@ -1,5 +1,7 @@
 # label 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/label.md)
+
 <p><span class="chinese">没有标签？</span><span class="english">No label?</span></p>
 
 <p><span class="chinese">然后选择这个类型标签。</span><span class="english">Then choose the type label.</span></p>

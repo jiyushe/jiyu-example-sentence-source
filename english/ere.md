@@ -1,5 +1,7 @@
 # ere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ere.md)
+
 <p><span class="chinese">上海易而益国际贸易有限公司。</span><span class="english">Shanghai ERE Int'l Trading Co. , Ltd.</span></p>
 
 <p><span class="chinese">昨前如此灵魂重回清静守一之境。</span><span class="english">Ere such a soul regains its peaceful state.</span></p>

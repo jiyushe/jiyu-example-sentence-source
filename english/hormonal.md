@@ -1,5 +1,7 @@
 # hormonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hormonal.md)
+
 <p><span class="chinese">怀孕期间的生理变化可能使病状加重。</span><span class="english">Hormonal changes during pregnancy may worsen the symptoms.</span></p>
 
 <p><span class="chinese">大量中间性的病例可以追溯到激素的致病原因。</span><span class="english">A number of intersex conditions can be traced to hormonal causes.</span></p>

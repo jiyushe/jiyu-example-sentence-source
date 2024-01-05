@@ -1,5 +1,7 @@
 # 游击队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjidui.md)
+
 <p><span class="chinese">那给游击队的三个盖帽呢？</span><span class="english">And those three blocks against Partizan ?</span></p>
 
 <p><span class="chinese">游击队据河而守。</span><span class="english">The guerrilla forces leaned on the river.</span></p>

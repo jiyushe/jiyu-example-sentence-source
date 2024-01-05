@@ -1,5 +1,7 @@
 # sought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sought.md)
+
 <p><span class="chinese">他热爱这类冒险。</span><span class="english">He sought adventure.</span></p>
 
 <p><span class="chinese">箱子被彻底搜查了一遍。</span><span class="english">The case was sought through.</span></p>

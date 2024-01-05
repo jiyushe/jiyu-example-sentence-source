@@ -1,5 +1,7 @@
 # table 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/table.md)
+
 <p><span class="chinese">台虎钳?。</span><span class="english">Table vice?</span></p>
 
 <p><span class="chinese">‘哪个桌子’？</span><span class="english">Which table?</span></p>

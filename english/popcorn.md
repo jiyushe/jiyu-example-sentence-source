@@ -1,5 +1,7 @@
 # popcorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popcorn.md)
+
 <p><span class="chinese">珀普康恩是对的。</span><span class="english">Popcorn is right.</span></p>
 
 <p><span class="chinese">我不喜欢玉米花。</span><span class="english">I don't like popcorn.</span></p>

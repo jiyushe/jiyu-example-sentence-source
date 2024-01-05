@@ -1,5 +1,7 @@
 # intoxication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intoxication.md)
+
 <p><span class="chinese">一生中少年时代的陶醉！</span><span class="english">Matutinal intoxication of life!</span></p>
 
 <p><span class="chinese">这样，无神论对于我们，只是一个麻醉品。</span><span class="english">Atheism was thus for us a mere intoxication.</span></p>

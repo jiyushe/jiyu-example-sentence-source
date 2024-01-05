@@ -1,5 +1,7 @@
 # therapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/therapy.md)
+
 <p><span class="chinese">放松疗法。</span><span class="english">Relaxation therapy.</span></p>
 
 <p><span class="chinese">开始电震疗法。</span><span class="english">Commencing Shock therapy.</span></p>

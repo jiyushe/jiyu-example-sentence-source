@@ -1,5 +1,7 @@
 # impeachment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impeachment.md)
+
 <p><span class="chinese">这就是为什麽克林顿弹劾案是“小康之列。</span><span class="english">This is why impeachment is "off the table."</span></p>
 
 <p><span class="chinese">后因弹劾宦官，被流放朔方。</span><span class="english">Eunuchs for impeachment after being exiled Shuofang.</span></p>

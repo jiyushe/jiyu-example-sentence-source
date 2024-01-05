@@ -1,5 +1,7 @@
 # 难为情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanweiqing.md)
+
 <p><span class="chinese">来吧，玛丽，别怕难为情。</span><span class="english">Come on, Mary. Don't be backward.</span></p>
 
 <p><span class="chinese">没有什么可难为情的。</span><span class="english">There is nothing to be ashamed of.</span></p>

@@ -1,5 +1,7 @@
 # 心志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzhi_1.md)
+
 <p><span class="chinese">你必须有仆人的心志。</span><span class="english">You must have a servant's heart.</span></p>
 
 <p><span class="chinese">不断的压力将使心志衰退。</span><span class="english">Constant pressure atrophies the mind.</span></p>

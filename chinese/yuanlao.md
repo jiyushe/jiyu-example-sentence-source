@@ -1,5 +1,7 @@
 # 元老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanlao.md)
+
 <p><span class="chinese">克里斯蒂是位元老。</span><span class="english">Kristie is an old head.</span></p>
 
 <p><span class="chinese">一个低贱的平民进入元老院?。</span><span class="english">A lowly pleb in the Senate?</span></p>

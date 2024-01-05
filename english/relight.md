@@ -1,5 +1,7 @@
 # relight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relight.md)
+
 <p><span class="chinese">爸爸，他们经常重新点亮蜡烛，可是你的眼泪总是把它熄灭。</span><span class="english">Daddy, they often relight it, but your tears always put it out.</span></p>
 
 <p><span class="chinese">千万别让孩子去燃放烟花爆竹。</span><span class="english">Don't allow children to light fireworks. Don't relight fireworks.</span></p>

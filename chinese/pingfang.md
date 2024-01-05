@@ -1,5 +1,7 @@
 # 平房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingfang.md)
+
 <p><span class="chinese">这个小镇里都是白色平房。</span><span class="english">It was a town filled with white bungalows.</span></p>
 
 <p><span class="chinese">你们的公寓是平房还是两层的.</span><span class="english">Is your apartment a one-story or two- story house?</span></p>

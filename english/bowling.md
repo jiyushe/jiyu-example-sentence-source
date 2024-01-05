@@ -1,5 +1,7 @@
 # bowling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowling.md)
+
 <p><span class="chinese">他们在玩滚木球。</span><span class="english">They are bowling.</span></p>
 
 <p><span class="chinese">这是草地滚球。</span><span class="english">It is lawn bowling.</span></p>

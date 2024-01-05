@@ -1,5 +1,7 @@
 # 飞机场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feijichang.md)
+
 <p><span class="chinese">这飞机场真美。</span><span class="english">It's a beautiful airport.</span></p>
 
 <p><span class="chinese">我可以在飞机场买到吗？</span><span class="english">Can I get it at the airport?</span></p>

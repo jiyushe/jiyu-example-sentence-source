@@ -1,5 +1,7 @@
 # rejoice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rejoice.md)
+
 <p><span class="chinese">只会因正确而欢颜。</span><span class="english">But rejoice in the right.</span></p>
 
 <p><span class="chinese">使山谷上下为之喜悦？</span><span class="english">Making all the vales rejoice?</span></p>

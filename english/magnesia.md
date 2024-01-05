@@ -1,5 +1,7 @@
 # magnesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnesia.md)
+
 <p><span class="chinese">苦土石灰是一种不错的建筑用石灰。</span><span class="english">Magnesia lime is an ideal lime for construction.</span></p>
 
 <p><span class="chinese">本文通过煅烧菱镁矿制备轻烧氧化镁。</span><span class="english">Light-burned magnesia is prepared by calcining magnesite.</span></p>

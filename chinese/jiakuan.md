@@ -1,5 +1,7 @@
 # 价款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiakuan.md)
+
 <p><span class="chinese">第一百六十一条买受人应当按照约定的时间支付价款。</span><span class="english">The buyer shall pay the price at the prescribed time.</span></p>
 
 <p><span class="chinese">第一百六十一条买受人应当按照约定的时间支付价款。</span><span class="english">The buyer shall pay the price at the prescribed place.</span></p>

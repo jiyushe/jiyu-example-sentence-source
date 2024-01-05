@@ -1,5 +1,7 @@
 # 戏剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiju_1.md)
+
 <p><span class="chinese">就像戏剧一样。</span><span class="english">It reads like a play.</span></p>
 
 <p><span class="chinese">我喜欢戏剧片。</span><span class="english">I like dramatic films.</span></p>

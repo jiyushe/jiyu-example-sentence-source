@@ -1,5 +1,7 @@
 # precede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precede.md)
+
 <p><span class="chinese">这两场比赛将提前进行。</span><span class="english">These clashes will precede the Clasico.</span></p>
 
 <p><span class="chinese">很小的一股泥石流可能会先于更大的流量。</span><span class="english">A trickle of flowing mud may precede a larger flow.</span></p>

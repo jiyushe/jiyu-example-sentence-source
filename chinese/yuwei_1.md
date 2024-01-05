@@ -1,5 +1,7 @@
 # 余威
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuwei_1.md)
+
 <p><span class="chinese">寒冷冬日的残雪仍然借着严寒的余威覆盖大地。</span><span class="english">The snow of colder days still holds on with its chilling grip.</span></p>
 
 <p><span class="chinese">暑期余威尚盛，雨水仍多，湿为长夏的主气。</span><span class="english">Summer rain still remnants of Shang Sheng, long, wet summer main gas.</span></p>

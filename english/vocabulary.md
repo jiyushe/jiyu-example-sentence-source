@@ -1,5 +1,7 @@
 # vocabulary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocabulary.md)
+
 <p><span class="chinese">你的词汇量是有限的</span><span class="english">Your vocabulary is finite.</span></p>
 
 <p><span class="chinese">他的字汇量一定很多。</span><span class="english">His vocabulary must be huge.</span></p>

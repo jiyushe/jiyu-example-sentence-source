@@ -1,5 +1,7 @@
 # piccadilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piccadilly.md)
+
 <p><span class="chinese">到毕卡德利广场要多少钱呢？</span><span class="english">How much is it to Piccadilly Circus?</span></p>
 
 <p><span class="chinese">我还去了皮卡迪利广场。</span><span class="english">I also went to the Piccadilly Circus.</span></p>

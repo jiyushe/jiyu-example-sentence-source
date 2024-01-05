@@ -1,5 +1,7 @@
 # apocalypse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apocalypse.md)
+
 <p><span class="chinese">这就是启示书的体裁。</span><span class="english">That's the genre of an apocalypse.</span></p>
 
 <p><span class="chinese">云中封神路，紫微降天启。</span><span class="english">By watching stars, Apocalypse he can divine.</span></p>

@@ -1,5 +1,7 @@
 # 评论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinglun.md)
+
 <p><span class="chinese">请留下评论。</span><span class="english">Please comment.</span></p>
 
 <p><span class="chinese">博客之外的评论。</span><span class="english">Off-blog comments.</span></p>

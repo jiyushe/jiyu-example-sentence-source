@@ -1,5 +1,7 @@
 # tavern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tavern.md)
+
 <p><span class="chinese">有一家酒馆紧挨着商店。</span><span class="english">The shop is next door to the tavern.</span></p>
 
 <p><span class="chinese">士兵们不允许去酒馆。</span><span class="english">The tavern is off limits to soldiers.</span></p>

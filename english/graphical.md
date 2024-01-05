@@ -1,5 +1,7 @@
 # graphical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graphical.md)
+
 <p><span class="chinese">这只是一个简单的图形控制。</span><span class="english">It's just a simple graphical control.</span></p>
 
 <p><span class="chinese">将图形界面转化成代码。</span><span class="english">Converting the graphical work into code</span></p>

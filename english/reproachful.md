@@ -1,5 +1,7 @@
 # reproachful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reproachful.md)
+
 <p><span class="chinese">她不满地朝我撅了一下嘴。</span><span class="english">She shot me a reproachful pout.</span></p>
 
 <p><span class="chinese">他的脚步发出了微微的责备声。</span><span class="english">His foot made a slight reproachful sound.</span></p>

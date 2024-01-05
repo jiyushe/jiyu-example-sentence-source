@@ -1,5 +1,7 @@
 # ionisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ionisation.md)
+
 <p><span class="chinese">它被发现分散E电离云彩行动。</span><span class="english">It is found that the sporadic E ionisation clouds move.</span></p>
 
 <p><span class="chinese">这种添加剂比低电离电位蒸汽添加剂优越。</span><span class="english">Therefore this additive is superior to those with low ionisation potential.</span></p>

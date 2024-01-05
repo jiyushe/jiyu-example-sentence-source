@@ -1,5 +1,7 @@
 # 溃散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuisan.md)
+
 <p><span class="chinese">指挥官能够重整其溃散的部队。</span><span class="english">The commander was able to rally the fleeing troops.</span></p>
 
 <p><span class="chinese">连长把他的打了败仗的溃散部队重新召集起来。</span><span class="english">The company commander rallied his defeated and dispersed troops.</span></p>

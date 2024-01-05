@@ -1,5 +1,7 @@
 # 明码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingma.md)
+
 <p><span class="chinese">你怎么能给宝贵的生命明码标价啊？！</span><span class="english">How can you put a price on life?</span></p>
 
 <p><span class="chinese">汉明码，一个错误校验码码集。</span><span class="english">Hamming code, a checksum error code set.</span></p>

@@ -1,5 +1,7 @@
 # 眼眸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmou.md)
+
 <p><span class="chinese">我明白了，我看到了伊希斯那冰冷的眼眸。</span><span class="english">I see, I see Isis'icy eyes.</span></p>
 
 <p><span class="chinese">你可以砍死我用你的眼眸</span><span class="english">You may cut me with your eyes</span></p>

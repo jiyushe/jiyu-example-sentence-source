@@ -1,5 +1,7 @@
 # 节庆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieqing.md)
+
 <p><span class="chinese">那里是举行节庆的地方。</span><span class="english">That’s where the festival is held.</span></p>
 
 <p><span class="chinese">亚洲各地都有类似的节庆。</span><span class="english">Similar celebrations are observed throughout Asia.</span></p>

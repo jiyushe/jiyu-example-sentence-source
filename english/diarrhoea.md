@@ -1,5 +1,7 @@
 # diarrhoea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diarrhoea.md)
+
 <p><span class="chinese">幼儿呕吐腹泻该怎么办？</span><span class="english">How should cheeper vomiting diarrhoea do?</span></p>
 
 <p><span class="chinese">肠出血性大肠杆菌可引起出血腹泻和腹部疼痛。</span><span class="english">EHEC can cause bloody diarrhoea and abdominal pain.</span></p>

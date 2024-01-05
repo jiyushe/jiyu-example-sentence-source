@@ -1,5 +1,7 @@
 # androcles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/androcles.md)
+
 <p><span class="chinese">风向是逆时针和反时针。</span><span class="english">Androcles . This is Nordhavn. The wind is veering and backing.</span></p>
 
 <p><span class="chinese">但不久后，安德拉科斯和狮子都被捕了。</span><span class="english">But shortly afterwards, both Androcles and the Lion were captured.</span></p>

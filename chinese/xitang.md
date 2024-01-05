@@ -1,5 +1,7 @@
 # 喜糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xitang.md)
+
 <p><span class="chinese">你也收到我们幸福的喜糖了吗?。</span><span class="english">You have received our happiness happy sweet?</span></p>
 
 <p><span class="chinese">让你的婚礼用喜糖更加高档专业时尚。</span><span class="english">Wedding packages can be uesd as high-grade candy.</span></p>

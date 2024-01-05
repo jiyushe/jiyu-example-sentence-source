@@ -1,5 +1,7 @@
 # leisurely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leisurely.md)
+
 <p><span class="chinese">天蓝依旧，岁月悠悠。</span><span class="english">Blue still, years leisurely.</span></p>
 
 <p><span class="chinese">鲁迅以一种悠闲的笔调进行写作。</span><span class="english">Lu Xun writes with a leisurely pace.</span></p>

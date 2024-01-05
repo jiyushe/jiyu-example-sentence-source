@@ -1,5 +1,7 @@
 # hurrah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurrah.md)
+
 <p><span class="chinese">欢呼，为丹尼尔·布奈！</span><span class="english">Hurrah for Daniel Boone!</span></p>
 
 <p><span class="chinese">为有趣的东西欢呼！布丁是否准备好了？</span><span class="english">Hurrah for the fun! Is the pudding done?</span></p>

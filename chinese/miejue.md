@@ -1,5 +1,7 @@
 # 灭绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miejue.md)
+
 <p><span class="chinese">提姆，他们灭绝了。</span><span class="english">They became extinct, Tim.</span></p>
 
 <p><span class="chinese">所以至今，它们没有灭绝。</span><span class="english">So far, they resist extinction.</span></p>

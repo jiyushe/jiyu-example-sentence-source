@@ -1,5 +1,7 @@
 # jump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jump.md)
+
 <p><span class="chinese">我要跳啦。</span><span class="english">I’ll jump.</span></p>
 
 <p><span class="chinese">安能跳得远。</span><span class="english">Ann can jump far.</span></p>

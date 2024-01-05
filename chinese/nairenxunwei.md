@@ -1,5 +1,7 @@
 # 耐人寻味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nairenxunwei.md)
+
 <p><span class="chinese">这很耐人寻味。</span><span class="english">Well, it's very interesting.</span></p>
 
 <p><span class="chinese">网站上还有一个耐人寻味的论坛。</span><span class="english">It also has a meaty discussion forum.</span></p>

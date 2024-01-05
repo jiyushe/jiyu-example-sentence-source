@@ -1,5 +1,7 @@
 # 紫苏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zisu.md)
+
 <p><span class="chinese">还要买一盆紫苏。</span><span class="english">And a basil plant.</span></p>
 
 <p><span class="chinese">柠檬紫苏椰汁烤鸡。</span><span class="english">Grilled Coconut Chicken with Lemon Basil.</span></p>

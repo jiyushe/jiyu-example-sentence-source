@@ -1,5 +1,7 @@
 # ethnical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnical.md)
+
 <p><span class="chinese">从缅甸联邦形成的历史来看，其民族关系一直是非常复杂的。</span><span class="english">In the history of Myanmar, the ethnical relationship has always been very complicated.</span></p>
 
 <p><span class="chinese">婚俗是一种文化现象，它本身蕴涵了丰富的民族文化心理。</span><span class="english">Wedding custom is a cultural phenomenon, indicating rich ethnical cultural psychology.</span></p>

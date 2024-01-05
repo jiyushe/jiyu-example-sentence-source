@@ -1,5 +1,7 @@
 # 鬼魂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guihun_1.md)
+
 <p><span class="chinese">为什么鬼魂要讲“boo”？</span><span class="english">Why do ghosts say "boo"?</span></p>
 
 <p><span class="chinese">鬼魂喜欢夹心饼干吗？</span><span class="english">Does the ghost like Oreos?</span></p>

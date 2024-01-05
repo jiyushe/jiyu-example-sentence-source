@@ -1,5 +1,7 @@
 # undying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undying.md)
+
 <p><span class="chinese">是不朽的爱情吗？</span><span class="english">Is it love – undying love?</span></p>
 
 <p><span class="chinese">它受到意大利不可消释的仇恨。</span><span class="english">She had earned the undying hatred of Italy.</span></p>

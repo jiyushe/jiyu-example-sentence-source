@@ -1,5 +1,7 @@
 # 下凡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiafan.md)
+
 <p><span class="chinese">于是就下凡到这里。</span><span class="english">So they came down here.</span></p>
 
 <p><span class="chinese">太好了，玉帝。那我现在可以下凡去了？</span><span class="english">Great, dad. So can I go down now?</span></p>

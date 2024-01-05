@@ -1,5 +1,7 @@
 # portent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portent.md)
+
 <p><span class="chinese">贝壳的回廊上那些带着异兆的伤。</span><span class="english">The portent wound in corridors of shells.</span></p>
 
 <p><span class="chinese">但是这预示着美国不乐观的未来。</span><span class="english">But it is a miserable portent for the future.</span></p>

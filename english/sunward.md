@@ -1,5 +1,7 @@
 # sunward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunward.md)
+
 <p><span class="chinese">我朝着太阳爬升，一起与阳光裁出</span><span class="english">Sunward I've climbed, and joined the tumbling mirth</span></p>
 
 <p><span class="chinese">本文对湖南山河智能股权结构进行的较为系统研究。</span><span class="english">This article research Sunward Intelligence the stockholder's rights structure symmetrically.</span></p>

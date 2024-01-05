@@ -1,5 +1,7 @@
 # crazed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crazed.md)
+
 <p><span class="chinese">这个抢镜头的家伙是谁？</span><span class="english">Who was this crazed interloper?</span></p>
 
 <p><span class="chinese">她疯狂而凶猛地厮打著。</span><span class="english">She fought with crazed ferocity.</span></p>

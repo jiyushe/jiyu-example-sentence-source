@@ -1,5 +1,7 @@
 # 冲床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongchuang.md)
+
 <p><span class="chinese">这两个冲床。</span><span class="english">It's two punchers.</span></p>
 
 <p><span class="chinese">卫生间的门更不宜冲床。</span><span class="english">The bathroom door is more not punch.</span></p>

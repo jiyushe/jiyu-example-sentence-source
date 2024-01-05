@@ -1,5 +1,7 @@
 # wunderkind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wunderkind.md)
+
 <p><span class="chinese">我真的是政治小神童？</span><span class="english">Am I a small political wunderkind ?</span></p>
 
 <p><span class="chinese">他少年得志尽管是个黑人小孩…</span><span class="english">Although he was a black child wunderkind.</span></p>

@@ -1,5 +1,7 @@
 # childbirth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/childbirth.md)
+
 <p><span class="chinese">每分钟就有一名妇女在分娩时死亡。</span><span class="english">One woman dies in childbirth each minute.</span></p>
 
 <p><span class="chinese">它很像十月分娩--过后你会忘记它带给你的疼痛。</span><span class="english">It's like childbirth – you forget how much it hurts.</span></p>

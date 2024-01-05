@@ -1,5 +1,7 @@
 # octopus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octopus.md)
+
 <p><span class="chinese">这是她的章鱼“兽穴”。</span><span class="english">This is her octopus "den.</span></p>
 
 <p><span class="chinese">看上去像家章鱼烧的店。</span><span class="english">Looks like an octopus shop.</span></p>

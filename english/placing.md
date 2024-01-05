@@ -1,5 +1,7 @@
 # placing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placing.md)
+
 <p><span class="chinese">将尸体放置在尸骸存放屋。</span><span class="english">Placing dead bodies in a bone room.</span></p>
 
 <p><span class="chinese">开始山式总是从摆放你的脚开始。</span><span class="english">Always begin Tadasana by placing your feet.</span></p>

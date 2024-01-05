@@ -1,5 +1,7 @@
 # 细菌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijun.md)
+
 <p><span class="chinese">消毒剂灭杀细菌。</span><span class="english">Disinfectant kills germs.</span></p>
 
 <p><span class="chinese">就跟细菌和细胞一样。</span><span class="english">So do bacteria and cells.</span></p>

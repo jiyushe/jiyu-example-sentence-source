@@ -1,5 +1,7 @@
 # intime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intime.md)
+
 <p><span class="chinese">你确实会及时的恢复。</span><span class="english">Intime you are indeed going to be OK.</span></p>
 
 <p><span class="chinese">唯有这样我智力及时完成职责。</span><span class="english">Only in this way ca fantastic I finish the work intime.</span></p>

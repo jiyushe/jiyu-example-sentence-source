@@ -1,5 +1,7 @@
 # tang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tang.md)
+
 <p><span class="chinese">请让我嫁给邓先生吧。</span><span class="english">Please let me marry Tang.</span></p>
 
 <p><span class="chinese">最后是师傅唐僧。</span><span class="english">Finally, master Tang Seng.</span></p>

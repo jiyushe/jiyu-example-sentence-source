@@ -1,5 +1,7 @@
 # 叠印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dieyin.md)
+
 <p><span class="chinese">那样复杂的图，也要做叠印吗？</span><span class="english">That plan, we have to do to overprint?</span></p>
 
 <p><span class="chinese">要注意A波形和C波形几乎叠印在相同长度上。</span><span class="english">Note how the A and C waves print almost the same length.</span></p>

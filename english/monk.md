@@ -1,5 +1,7 @@
 # monk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monk.md)
+
 <p><span class="chinese">他就是一个淫僧。</span><span class="english">He is a nasty monk.</span></p>
 
 <p><span class="chinese">等候一列火车的修道士。</span><span class="english">Monk waiting for a train.</span></p>

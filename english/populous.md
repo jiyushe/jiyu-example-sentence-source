@@ -1,5 +1,7 @@
 # populous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/populous.md)
+
 <p><span class="chinese">这尾盛行歌直在生齿浓密的都会风行。</span><span class="english">The pop song is popular in the populous city.</span></p>
 
 <p><span class="chinese">他们是俄罗斯人口最多的突厥语民族。</span><span class="english">They are Russia's most populous Turkic peoples.</span></p>

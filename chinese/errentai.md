@@ -1,5 +1,7 @@
 # 二人台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/errentai.md)
+
 <p><span class="chinese">你好，麻烦你今晚替我留一张二人台。</span><span class="english">Hello. Can I book a table for two for tonight, please?</span></p>
 
 <p><span class="chinese">是“二人台”的艺术魅力不在了吗?答案当然是否定的。</span><span class="english">Is there no artistic enchantment with couple show?The answer is negative.</span></p>

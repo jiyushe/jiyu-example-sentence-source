@@ -1,5 +1,7 @@
 # reddest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reddest.md)
+
 <p><span class="chinese">使用你的颜色最红的唇膏。</span><span class="english">Use your reddest lipstick.</span></p>
 
 <p><span class="chinese">谁是镇上最红的狗狗？</span><span class="english">Who's the reddest dog in town?</span></p>

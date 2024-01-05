@@ -1,5 +1,7 @@
 # 倘若
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangruo.md)
+
 <p><span class="chinese">佛去不要何来倘若？</span><span class="english">Buddha to don't no if?</span></p>
 
 <p><span class="chinese">倘若你只有一寸高。</span><span class="english">If youwere one inch tall.</span></p>

@@ -1,5 +1,7 @@
 # salutation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salutation.md)
+
 <p><span class="chinese">向维姆·文德斯致敬。</span><span class="english">A salutation to Wim Wenders.</span></p>
 
 <p><span class="chinese">这就是向黎明致敬！</span><span class="english">Such is the salutation of rhe dawn!</span></p>

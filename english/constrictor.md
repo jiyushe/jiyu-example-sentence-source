@@ -1,5 +1,7 @@
 # constrictor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constrictor.md)
+
 <p><span class="chinese">这是一个独特的形态的博阿压缩。</span><span class="english">This is a distinct morph of boa constrictor.</span></p>
 
 <p><span class="chinese">蟒蛇缠死它的猎物。</span><span class="english">A boa constrictor squeezes its victims to death.</span></p>

@@ -1,5 +1,7 @@
 # fleshy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleshy.md)
+
 <p><span class="chinese">根纺锤形，肉质。</span><span class="english">Roots fusiform, fleshy.</span></p>
 
 <p><span class="chinese">然而皮肤不都是“肉质”的东西。</span><span class="english">But skin isn't all "fleshy" stuff.</span></p>

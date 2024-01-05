@@ -1,5 +1,7 @@
 # 退税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuishui.md)
+
 <p><span class="chinese">请给我一张退税单好吗？</span><span class="english">May I have a tax-refund, please?</span></p>
 
 <p><span class="chinese">我可以要一张退税表吗？</span><span class="english">Can i have a tax-refund form, please?</span></p>

@@ -1,5 +1,7 @@
 # contraption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contraption.md)
+
 <p><span class="chinese">我永远也不能让这个呆头呆脑的东西运转。</span><span class="english">I'll never get this bone-headed contraption to work.</span></p>
 
 <p><span class="chinese">这个神奇的电动机械装置造了两个星期的时间。</span><span class="english">The electric-powered contraption took about two weeks to build.</span></p>

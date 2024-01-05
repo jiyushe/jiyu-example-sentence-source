@@ -1,5 +1,7 @@
 # carrefour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carrefour.md)
+
 <p><span class="chinese">6月1日，让全国的肯德基冷场！</span><span class="english">May 1, the country's Carrefour cold field!</span></p>
 
 <p><span class="chinese">为家乐福或者乐购送行只是赖先生的目标之一。</span><span class="english">Seeing off Carrefour or Tesco is just one of Lai's goals.</span></p>

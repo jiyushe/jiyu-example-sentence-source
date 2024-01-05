@@ -1,5 +1,7 @@
 # evocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evocation.md)
+
 <p><span class="chinese">思想观念是客观事实在人头脑中的主观再现。</span><span class="english">An idea is the subjective evocation of an objective fact.</span></p>
 
 <p><span class="chinese">他更喜欢塑能系法术和可以辅助伪装自己的幻术。</span><span class="english">It prefers evocation spells and illusions to help it disguise It'self.</span></p>

@@ -1,5 +1,7 @@
 # deregulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deregulation.md)
+
 <p><span class="chinese">他说解除管制可能会使得这些领域的供应增加。</span><span class="english">He says deregulation would increase supply in such fields.</span></p>
 
 <p><span class="chinese">他曾经说财务管制的撤销借自由贸易沾了光。</span><span class="english">Financial deregulation has piggybacked on free trade, " he said."</span></p>

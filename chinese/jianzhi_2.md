@@ -1,5 +1,7 @@
 # 剪枝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzhi_2.md)
+
 <p><span class="chinese">不建议在栽种后剪枝。</span><span class="english">Pruning after planting is not recommended.</span></p>
 
 <p><span class="chinese">剪枝时应修剪到健康、外向生长的花芽上方。</span><span class="english">Always prune to a healthy, outward-facing bud.</span></p>

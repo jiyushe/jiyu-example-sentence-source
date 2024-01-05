@@ -1,5 +1,7 @@
 # robber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robber.md)
+
 <p><span class="chinese">谁是劫犯?。</span><span class="english">Who was the robber?</span></p>
 
 <p><span class="chinese">汤姆被一个流浪汉洗劫一空。</span><span class="english">Tom was sacked by a robber.</span></p>

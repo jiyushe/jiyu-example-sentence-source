@@ -1,5 +1,7 @@
 # hirsutism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hirsutism.md)
+
 <p><span class="chinese">多毛症常常是多囊卵巢综合征的结果。</span><span class="english">Hirsutism is frequently a result of PCOS.</span></p>
 
 <p><span class="chinese">对待多毛症和多囊卵巢综合征可能存在心理困扰。</span><span class="english">Dealing with hirsutism and PCOS can be emotionally difficult.</span></p>

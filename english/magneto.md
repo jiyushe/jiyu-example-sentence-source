@@ -1,5 +1,7 @@
 # magneto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magneto.md)
+
 <p><span class="chinese">你是说你看见万磁王了？</span><span class="english">You're saying you saw Magneto?</span></p>
 
 <p><span class="chinese">别变了告诉我万磁王在哪儿?。</span><span class="english">You are going to stop this, Tell me, where is Magneto?</span></p>

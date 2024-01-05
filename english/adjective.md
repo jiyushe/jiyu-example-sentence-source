@@ -1,5 +1,7 @@
 # adjective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjective.md)
+
 <p><span class="chinese">“习习”是个形容词。</span><span class="english">"Xixi" is an adjective.</span></p>
 
 <p><span class="chinese">“难得”是个形容词。</span><span class="english">Nande" is an adjective."</span></p>

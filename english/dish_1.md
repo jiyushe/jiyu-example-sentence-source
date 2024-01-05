@@ -1,5 +1,7 @@
 # dish 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dish_1.md)
+
 <p><span class="chinese">这是冷菜。</span><span class="english">This is cold dish.</span></p>
 
 <p><span class="chinese">这碟菜会不会太辣了？</span><span class="english">Is the dish too spicy?</span></p>

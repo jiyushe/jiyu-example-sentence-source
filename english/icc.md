@@ -1,5 +1,7 @@
 # icc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icc.md)
+
 <p><span class="chinese">国际刑事法庭必须决定是否起诉这些嫌犯。</span><span class="english">The ICC must decide whether to indict the suspects.</span></p>
 
 <p><span class="chinese">卡兹先生没有用这些方法，他将整个ICC设计成风力减速器。</span><span class="english">Instead, Mr. Katz designed the entire ICC to provide wind buffers.</span></p>

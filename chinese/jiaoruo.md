@@ -1,5 +1,7 @@
 # 娇弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoruo.md)
+
 <p><span class="chinese">看看你自己，娇弱的像一朵花。</span><span class="english">Look at you, as fragile as a flower.</span></p>
 
 <p><span class="chinese">他是一个经常生病的娇弱的孩子。</span><span class="english">He is a delicate child who is often ill.</span></p>

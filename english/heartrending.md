@@ -1,5 +1,7 @@
 # heartrending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartrending.md)
+
 <p><span class="chinese">珂赛特发出一声凄厉的叫声。</span><span class="english">Cosette uttered a heartrending cry.</span></p>
 
 <p><span class="chinese">看到自己的孩子被判刑真叫人伤心。</span><span class="english">It is really heartrending to see his own child sentenced.</span></p>

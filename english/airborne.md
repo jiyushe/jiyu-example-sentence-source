@@ -1,5 +1,7 @@
 # airborne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airborne.md)
+
 <p><span class="chinese">有人怀疑柯林不可能把飞机空运过来。</span><span class="english">Some doubt Kirlin can get them airborne.</span></p>
 
 <p><span class="chinese">但是，空降部队遇到了不幸的命运。</span><span class="english">The airborne forces however met hard fortune.</span></p>

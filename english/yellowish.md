@@ -1,5 +1,7 @@
 # yellowish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yellowish.md)
+
 <p><span class="chinese">而是衰老，衰老，一片淡黄泛白的</span><span class="english">But old, old, a yellowish white</span></p>
 
 <p><span class="chinese">边材为黄白色。</span><span class="english">The sapwood is yellowish white.</span></p>

@@ -1,5 +1,7 @@
 # pyrimidine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrimidine.md)
+
 <p><span class="chinese">其中杂环部分常为嘧啶环或均三嗪环。</span><span class="english">Heterocycle is always pyrimidine or triazine.</span></p>
 
 <p><span class="chinese">海嘧啶可显著降低肿瘤细胞膜钙泵活性。</span><span class="english">Sea pyrimidine can decrease the activity of calcium pump of tumor cells.</span></p>

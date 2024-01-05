@@ -1,5 +1,7 @@
 # nutriment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutriment.md)
+
 <p><span class="chinese">您泥土中的养料。</span><span class="english">The nutriment of your mud.</span></p>
 
 <p><span class="chinese">无所不能因该你本人么有胃口而去责备你的吃的东西。</span><span class="english">Do not blame your nutriment since you HAs no appetite.</span></p>

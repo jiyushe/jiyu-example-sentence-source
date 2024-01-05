@@ -1,5 +1,7 @@
 # eschew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eschew.md)
+
 <p><span class="chinese">避开新闻。</span><span class="english">Eschew the news.</span></p>
 
 <p><span class="chinese">避开任何决定。</span><span class="english">Eschew any decisions.</span></p>

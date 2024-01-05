@@ -1,5 +1,7 @@
 # treponema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treponema.md)
+
 <p><span class="chinese">目的探求目前梅毒血清学试验的最佳选择。</span><span class="english">Aim To search the best serological detection for Treponema Pallidum.</span></p>
 
 <p><span class="chinese">此项方法具有操作简便、准确的特点，为临床检测梅毒开辟了新的领域。</span><span class="english">The recombinant of E. coli will be of value for clinical detection of Treponema pallidum.</span></p>

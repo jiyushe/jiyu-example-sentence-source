@@ -1,5 +1,7 @@
 # intricately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intricately.md)
+
 <p><span class="chinese">创造力和福祉是唇齿相依的。</span><span class="english">Creativity and well being are intricately interrelated.</span></p>
 
 <p><span class="chinese">可见，一切都是错综复杂并全息相关的。</span><span class="english">You see all are intricately and holographically related.</span></p>

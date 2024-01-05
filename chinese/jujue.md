@@ -1,5 +1,7 @@
 # 咀嚼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jujue.md)
+
 <p><span class="chinese">易咀嚼的和有嚼劲的。</span><span class="english">crunchy and chewy.</span></p>
 
 <p><span class="chinese">老鼠开始咀嚼。</span><span class="english">Mouse starts to chew.</span></p>

@@ -1,5 +1,7 @@
 # 遵命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunming.md)
+
 <p><span class="chinese">苏带着疲倦，遵命拉起窗帘。</span><span class="english">Wearily Sue obeyed.</span></p>
 
 <p><span class="chinese">遵命。可是我警告过你了哦。</span><span class="english">As you please. But I warned you.</span></p>

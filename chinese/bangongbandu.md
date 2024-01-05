@@ -1,5 +1,7 @@
 # 半工半读
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangongbandu.md)
+
 <p><span class="chinese">我正在找一份半工半读的工作。</span><span class="english">I'm looking for a part job.</span></p>
 
 <p><span class="chinese">那就是所谓的半工半读吧？</span><span class="english">That's what is call Work Study, isn't it?</span></p>

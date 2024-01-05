@@ -1,5 +1,7 @@
 # unsung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsung.md)
+
 <p><span class="chinese">这次竞选中的无名英雄。</span><span class="english">The unsung hero of this campaign.</span></p>
 
 <p><span class="chinese">他是英国科学史上未经赞美的英雄。</span><span class="english">He is the unsung hero of British science.</span></p>

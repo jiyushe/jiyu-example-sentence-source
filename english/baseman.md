@@ -1,5 +1,7 @@
 # baseman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baseman.md)
+
 <p><span class="chinese">他打到二垒手位置的滚地球。</span><span class="english">He grounded to the second baseman.</span></p>
 
 <p><span class="chinese">一垒手出局了15次。</span><span class="english">The first baseman made 15 putouts.</span></p>

@@ -1,5 +1,7 @@
 # 辽西
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoxi.md)
+
 <p><span class="chinese">辽西走廊沿海丘陵平原立地类型。</span><span class="english">Site type of coastal hilly plain in Liaoxi Corridor.</span></p>
 
 <p><span class="chinese">辽西北票地区义县组是一套中生代火山-沉积地层。</span><span class="english">The strata of Yixian formation are mainly of Mesozoic volcanic-sedimentary rocks.</span></p>

@@ -1,5 +1,7 @@
 # resolve 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resolve.md)
+
 <p><span class="chinese">如何解决这个问题呢？</span><span class="english">How to resolve this problem?</span></p>
 
 <p><span class="chinese">你解决偶然的因素。</span><span class="english">You cannot resolve causality.</span></p>

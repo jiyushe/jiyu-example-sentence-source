@@ -1,5 +1,7 @@
 # adorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adorn.md)
+
 <p><span class="chinese">我们用鲜花来装扮我们的房间。</span><span class="english">We adorn our rooms with flowers.</span></p>
 
 <p><span class="chinese">耶稣，光明的衣袍，使我华美。</span><span class="english">Jesus, Garment of Light, adorn me!</span></p>

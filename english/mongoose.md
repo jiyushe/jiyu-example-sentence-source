@@ -1,5 +1,7 @@
 # mongoose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mongoose.md)
+
 <p><span class="chinese">猫鼬实际上是獴科动物。</span><span class="english">The meerkat is in fact a mongoose.</span></p>
 
 <p><span class="chinese">那么，这些猫鼬是如何击败眼镜王蛇的呢？</span><span class="english">How does the mongoose defeat the king cobra?</span></p>

@@ -1,5 +1,7 @@
 # palliative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palliative.md)
+
 <p><span class="chinese">多年来我一直在缓和医疗中心工作。</span><span class="english">For many years I worked in palliative care.</span></p>
 
 <p><span class="chinese">但这种债券买法治标不治本。</span><span class="english">But such bond-buying is a temporary palliative.</span></p>

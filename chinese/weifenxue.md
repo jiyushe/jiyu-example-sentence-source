@@ -1,5 +1,7 @@
 # 微分学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weifenxue.md)
+
 <p><span class="chinese">微分中值定理是微分学的基本定理。</span><span class="english">Differential medial value theorem is the basic theorem of the calculus.</span></p>
 
 <p><span class="chinese">积分上限函数是一元函数微分学的基本概念。</span><span class="english">Integral upper limit function is a basic concept in function differential calculus.</span></p>

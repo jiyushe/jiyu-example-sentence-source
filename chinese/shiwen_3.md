@@ -1,5 +1,7 @@
 # 释文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwen_3.md)
+
 <p><span class="chinese">在释文2。中所说的由一位或几位数字表示的数。</span><span class="english">The number represented by the digit or digits in2.</span></p>
 
 <p><span class="chinese">输入欲检索的释文条号，按确定键进行检索。</span><span class="english">Please enter the designated numbers and then click Enter.</span></p>

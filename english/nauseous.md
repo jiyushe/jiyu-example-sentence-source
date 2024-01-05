@@ -1,5 +1,7 @@
 # nauseous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nauseous.md)
+
 <p><span class="chinese">我肚子坏了，感觉很恶心。</span><span class="english">My tummy hurts, I feel nauseous.</span></p>
 
 <p><span class="chinese">你可能感觉恶心反胃。</span><span class="english">You might feel queasy or nauseous.</span></p>

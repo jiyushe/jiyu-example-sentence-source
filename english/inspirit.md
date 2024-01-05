@@ -1,5 +1,7 @@
 # inspirit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspirit.md)
+
 <p><span class="chinese">红与黑是一支激扬的旋律。</span><span class="english">Red and black are a inspirit melody.</span></p>
 
 <p><span class="chinese">他跨出一大步，可激发他的思维。</span><span class="english">He took a stride to inspirit his wits.</span></p>

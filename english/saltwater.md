@@ -1,5 +1,7 @@
 # saltwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saltwater.md)
+
 <p><span class="chinese">中国最大的内陆湖泊和咸水湖。</span><span class="english">China's largest inland saltwater lake.</span></p>
 
 <p><span class="chinese">但我已经买了咸水湖鱼鳔。</span><span class="english">But I've already bought a saltwater fly rod.</span></p>

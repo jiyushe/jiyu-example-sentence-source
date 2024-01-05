@@ -1,5 +1,7 @@
 # nonflammable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonflammable.md)
+
 <p><span class="chinese">该产品为不可燃物不支持燃烧。</span><span class="english">Product is nonflammable and does not support combustion.</span></p>
 
 <p><span class="chinese">气态氧无色，无嗅，无味，不可燃。</span><span class="english">Gaseous oxygen is colorless, odorless, tasteless, and nonflammable.</span></p>

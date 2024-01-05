@@ -1,5 +1,7 @@
 # rocketry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rocketry.md)
+
 <p><span class="chinese">他们在火箭方面的研究开辟了太空旅行的道路。</span><span class="english">Their research in rocketry blazed the way for space travel.</span></p>
 
 <p><span class="chinese">完全的将火箭事业的成功与某一个人完全联系起来是愚蠢的。</span><span class="english">It would be foolish to assign rocketry success to one person totally.</span></p>

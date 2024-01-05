@@ -1,5 +1,7 @@
 # unsmiling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsmiling.md)
+
 <p><span class="chinese">老板是个不苟言笑的人。</span><span class="english">The boss is an unsmiling man.</span></p>
 
 <p><span class="chinese">我们都板着脸，看着对方。</span><span class="english">We stared at each other, unsmiling.</span></p>

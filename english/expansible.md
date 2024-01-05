@@ -1,5 +1,7 @@
 # expansible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expansible.md)
+
 <p><span class="chinese">是个小型、健壮、可扩展的项目。</span><span class="english">UMDS is small, strong and expansible project.</span></p>
 
 <p><span class="chinese">另外，处理器芯片在规模上可以很容易地进行扩展应用，提高了处理器的灵活性。</span><span class="english">On the other hand, the processor chip can be expansible to improve its flexibility.</span></p>

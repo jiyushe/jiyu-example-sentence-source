@@ -1,5 +1,7 @@
 # uncounted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncounted.md)
+
 <p><span class="chinese">没数过的钱在保险柜里。</span><span class="english">The uncounted money is in the safe.</span></p>
 
 <p><span class="chinese">对无数的信徒来讲，信仰就像直布罗陀的岩石一样坚不可摧。</span><span class="english">For uncounted millions, faith remains as rock-solid as Gibraltar.</span></p>

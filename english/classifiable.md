@@ -1,5 +1,7 @@
 # classifiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classifiable.md)
+
 <p><span class="chinese">这本书不容易归类。</span><span class="english">This book is not easily classifiable.</span></p>
 
 <p><span class="chinese">奈米科技在科幻小说里的运用，以多种形式出现，可按照好几种标准进行分类。</span><span class="english">NANOTECHNOLOGY'S use in science fiction takes many forms, classifiable by a number of measures.</span></p>

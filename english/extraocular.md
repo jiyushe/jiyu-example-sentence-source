@@ -1,5 +1,7 @@
 # extraocular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extraocular.md)
+
 <p><span class="chinese">通常有明显的脂肪和增大的眼外肌。</span><span class="english">There is usually prominent fat and enlarged extraocular muscles.</span></p>
 
 <p><span class="chinese">眼外肌运动表明双侧第六神经麻痹。</span><span class="english">Extraocular muscles movement showed bilateral sixth nerve palsies.</span></p>

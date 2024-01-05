@@ -1,5 +1,7 @@
 # venation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venation.md)
+
 <p><span class="chinese">穿珠的细线就成为这一袭华衣的脉络。</span><span class="english">The thread to place beads becomes the venation of the gaudery.</span></p>
 
 <p><span class="chinese">本种容易通过它的十分特别的脉序来区分。</span><span class="english">This species is easily distinguished by its quite special venation.</span></p>

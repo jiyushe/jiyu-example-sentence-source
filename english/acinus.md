@@ -1,5 +1,7 @@
 # acinus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acinus.md)
+
 <p><span class="chinese">单腺泡腔小而狭窄，但肺泡的腔却大而膨满。</span><span class="english">The lumen of the acinus is small and narrow, but that of the alveolus is large and distended.</span></p>
 
 <p><span class="chinese">单腺泡腔小而狭窄，但小泡状腺的腔却大而膨满。</span><span class="english">The lumen of the acinus is small and narrow, but that of the alveolus is large and distended.</span></p>

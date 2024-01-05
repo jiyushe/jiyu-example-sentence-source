@@ -1,5 +1,7 @@
 # 怦怦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengpeng.md)
+
 <p><span class="chinese">我的心怦怦地跳着。</span><span class="english">My heart jumped.</span></p>
 
 <p><span class="chinese">他的心怦怦直跳</span><span class="english">His heart is drumming.</span></p>

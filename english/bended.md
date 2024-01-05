@@ -1,5 +1,7 @@
 # bended
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bended.md)
+
 <p><span class="chinese">画面中部有一株弯曲的松树。</span><span class="english">There is a bended pine in the middle part.</span></p>
 
 <p><span class="chinese">其中包括弯曲的钢材，那些已经不能用了。</span><span class="english">It covers Bended beams, that can not be used, and.</span></p>

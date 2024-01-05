@@ -1,5 +1,7 @@
 # pierce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pierce.md)
+
 <p><span class="chinese">用长矛刺戳。</span><span class="english">To pierce with a lance.</span></p>
 
 <p><span class="chinese">刀扎得不很深。</span><span class="english">The knife did not pierce very deeply.</span></p>

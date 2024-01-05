@@ -1,5 +1,7 @@
 # ionomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ionomer.md)
+
 <p><span class="chinese">不酸蚀光固化玻璃离子修复。</span><span class="english">Group C, no-etching, light-curing glass ionomer.</span></p>
 
 <p><span class="chinese">观察玻璃离子水门汀和氢氧化钙联合修复髓室底穿孔的临床疗效。</span><span class="english">Its effective to repair perforation of pulp floor with glass ionomer cement.</span></p>

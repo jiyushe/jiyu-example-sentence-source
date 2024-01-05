@@ -1,5 +1,7 @@
 # 直系亲属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixiqinshu.md)
+
 <p><span class="chinese">只有直系亲属过来参加了葬礼。</span><span class="english">Only immediate family members attended the funeral.</span></p>
 
 <p><span class="chinese">“那么，你有直系亲属吗？”修女试探着问道。</span><span class="english">"Well, do you have any close relatives?"the nun essayed.</span></p>

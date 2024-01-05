@@ -1,5 +1,7 @@
 # 浅易
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianyi_2.md)
+
 <p><span class="chinese">那是一本相当浅易的书。</span><span class="english">That is a fairly easy book.</span></p>
 
 <p><span class="chinese">这是相当浅易的书。</span><span class="english">This is a fairly easy book.</span></p>

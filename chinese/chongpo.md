@@ -1,5 +1,7 @@
 # 冲破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongpo.md)
+
 <p><span class="chinese">太阳冲破云层出来了。</span><span class="english">The sun broke through the clouds.</span></p>
 
 <p><span class="chinese">我们冲破了敌人的防御工事。</span><span class="english">We burst through the enemy defences.</span></p>

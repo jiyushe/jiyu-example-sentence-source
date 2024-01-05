@@ -1,5 +1,7 @@
 # 座谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuotan.md)
+
 <p><span class="chinese">这将是一支很棒的座谈小组！</span><span class="english">It should be a great panel!</span></p>
 
 <p><span class="chinese">可容纳25人开会或座谈、研讨。</span><span class="english">Can accommodate 25 people meeting or forum to discuss.</span></p>

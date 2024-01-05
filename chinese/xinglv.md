@@ -1,5 +1,7 @@
 # 刑律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinglv.md)
+
 <p><span class="chinese">如触犯刑律的，要依法追究刑事责任。</span><span class="english">Those who violate the criminal law shall be under criminal sanction.</span></p>
 
 <p><span class="chinese">触犯刑律的，要依法追究刑事责任。</span><span class="english">He who has violated the criminal law shall be prosecuted according to law.</span></p>

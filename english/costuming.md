@@ -1,5 +1,7 @@
 # costuming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/costuming.md)
+
 <p><span class="chinese">五零一集中与星球大战的反派扮装。</span><span class="english">The 501st focuses on Star Wars villain costuming.</span></p>
 
 <p><span class="chinese">服装设计专家们每个季度都为妇女设计新的服装式样。</span><span class="english">Costuming experts create new dress styles for ladies every season.</span></p>

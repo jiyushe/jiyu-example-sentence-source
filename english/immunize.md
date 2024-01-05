@@ -1,5 +1,7 @@
 # immunize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunize.md)
+
 <p><span class="chinese">防毒面具能使你免遭毒气袭击。</span><span class="english">This gas mask can immunize you against poison gas.</span></p>
 
 <p><span class="chinese">那麽是什麽原因使它能够引发体内对癌症产生的免疫力呢？</span><span class="english">What, then, was the basis of its ability to immunize against cancers?</span></p>

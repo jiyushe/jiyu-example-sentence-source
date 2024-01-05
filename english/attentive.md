@@ -1,5 +1,7 @@
 # attentive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attentive.md)
+
 <p><span class="chinese">他十分经心在意地望着电流计。</span><span class="english">He was very attentive to the ammeter.</span></p>
 
 <p><span class="chinese">他对客人的招待不很周到。</span><span class="english">He's not very attentive to his guest.</span></p>

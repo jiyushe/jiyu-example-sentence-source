@@ -1,5 +1,7 @@
 # 单音词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danyinci.md)
+
 <p><span class="chinese">这一难题，主要存在于一般单音词中。</span><span class="english">This problem mainly dwell in the common monosyllabic words.</span></p>
 
 <p><span class="chinese">本文抓住此特点对汉语单音词双音化作了研究。</span><span class="english">The paper stresses the feature to make a study of two-syllabled words.</span></p>

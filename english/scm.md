@@ -1,5 +1,7 @@
 # scm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scm.md)
+
 <p><span class="chinese">通过单片机的设计，构成控制系统。</span><span class="english">SCM through the design of a control system.</span></p>
 
 <p><span class="chinese">电子商务在供应链管理中应用的切入点分析</span><span class="english">Analysis of the Cut-in Point of EC Applied to SCM</span></p>

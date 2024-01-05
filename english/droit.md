@@ -1,5 +1,7 @@
 # droit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/droit.md)
+
 <p><span class="chinese">房地产设典的权利为房屋所有权。</span><span class="english">Estate sets the right of allusion to be building droit.</span></p>
 
 <p><span class="chinese">他们过初夜时有一种风俗就是偷看新房。</span><span class="english">Droit de seigneur they had when there is a custom that is new peep.</span></p>

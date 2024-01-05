@@ -1,5 +1,7 @@
 # 外形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waixing.md)
+
 <p><span class="chinese">它们的外形真象鲨鱼。</span><span class="english">They are shaped like sharks.</span></p>
 
 <p><span class="chinese">用灰色的大氅裹你外形。</span><span class="english">Wrap thy form in a mantle grey.</span></p>

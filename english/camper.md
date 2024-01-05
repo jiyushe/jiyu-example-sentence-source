@@ -1,5 +1,7 @@
 # camper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camper.md)
+
 <p><span class="chinese">莉莉一直都很好说话。</span><span class="english">Lily is always a happy camper.</span></p>
 
 <p><span class="chinese">399号曾在2007年袭击过一个露营者。</span><span class="english">No. 399 attacked a camper in 2007.</span></p>

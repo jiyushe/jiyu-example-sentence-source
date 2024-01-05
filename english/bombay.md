@@ -1,5 +1,7 @@
 # bombay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bombay.md)
+
 <p><span class="chinese">我们在孟买登陆。</span><span class="english">We landed at Bombay.</span></p>
 
 <p><span class="chinese">我建议孟买蓝宝石。</span><span class="english">B. I'd suggest Bombay Saphirre.</span></p>

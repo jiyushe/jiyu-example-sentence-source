@@ -1,5 +1,7 @@
 # 哀号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aihao.md)
+
 <p><span class="chinese">流徙者的祈求、情人的哀号</span><span class="english">Prayer of pariah, and the lover's cry</span></p>
 
 <p><span class="chinese">你为何因损伤哀号呢。</span><span class="english">Why criest thou for thine affliction?</span></p>

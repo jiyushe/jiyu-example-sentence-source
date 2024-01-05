@@ -1,5 +1,7 @@
 # picker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/picker.md)
+
 <p><span class="chinese">采棉滚筒是水平摘锭式采棉机的核心部件。</span><span class="english">Drum is the key component of level spindle-type cotton picker.</span></p>
 
 <p><span class="chinese">数据采集契约促成应用、服务的数据共享。</span><span class="english">The picker contract allows applications and services to share data.</span></p>

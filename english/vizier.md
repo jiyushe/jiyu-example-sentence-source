@@ -1,5 +1,7 @@
 # vizier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vizier.md)
+
 <p><span class="chinese">所以我向维兹尔您报告这些控诉，我发誓所听到的都是真的。</span><span class="english">I am therefore reporting these charges to you, the Vizier.</span></p>
 
 <p><span class="chinese">其次是维西尔与法老王权之间的关系问题。</span><span class="english">Second one is on the relationship of the vizier and the royal power.</span></p>

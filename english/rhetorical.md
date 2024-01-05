@@ -1,5 +1,7 @@
 # rhetorical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhetorical.md)
+
 <p><span class="chinese">修辞之刀被拔出了。</span><span class="english">The rhetorical knives are out.</span></p>
 
 <p><span class="chinese">宏伟打算达到口尾下的下潮。</span><span class="english">The Grand Design reached its rhetorical apogee.</span></p>

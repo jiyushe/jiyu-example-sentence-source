@@ -1,5 +1,7 @@
 # erotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erotic.md)
+
 <p><span class="chinese">好色是艺术，过犹不及。</span><span class="english">Erotic art is, overboard.</span></p>
 
 <p><span class="chinese">色情作为对最勇敢者的奖赏。</span><span class="english">Erotic rewards for excellence in bravery.</span></p>

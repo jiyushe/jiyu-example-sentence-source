@@ -1,5 +1,7 @@
 # overspeed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overspeed.md)
+
 <p><span class="chinese">请不要超速驾驶！</span><span class="english">Please don't be overspeed.</span></p>
 
 <p><span class="chinese">他因超速驾驶而遭拘留。</span><span class="english">He was held for overspeed driving.</span></p>

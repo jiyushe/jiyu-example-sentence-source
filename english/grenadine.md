@@ -1,5 +1,7 @@
 # grenadine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grenadine.md)
+
 <p><span class="chinese">金酒，柠檬汁，石榴汁和苏打水。</span><span class="english">Gin, lemon juice, grenadine and soda water.</span></p>
 
 <p><span class="chinese">金酒，汤力水，红糖水，蓝橙力娇。</span><span class="english">Gin, tonic water, Grenadine Syrup, blos blue.</span></p>

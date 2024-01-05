@@ -1,5 +1,7 @@
 # nominative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nominative.md)
+
 <p><span class="chinese">这个名词是主格形式的吗?。</span><span class="english">Is this noun in the nominative?</span></p>
 
 <p><span class="chinese">在英文中预设格是宾格。</span><span class="english">The default case in Russian is nominative.</span></p>

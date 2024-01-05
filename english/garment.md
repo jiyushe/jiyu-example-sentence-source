@@ -1,5 +1,7 @@
 # garment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garment.md)
+
 <p><span class="chinese">一种由毛皮做成的衣服。</span><span class="english">A garment made of oilskin.</span></p>
 
 <p><span class="chinese">霉味或很重的味在衣服上。</span><span class="english">Mildew or heavily odor garment.</span></p>

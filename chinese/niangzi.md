@@ -1,5 +1,7 @@
 # 娘子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangzi.md)
+
 <p><span class="chinese">娘子谷是乌克兰首都基辅的一条沟壑。</span><span class="english">Babi Yar is a ravine in Kiev, the capital of Ukraine.</span></p>
 
 <p><span class="chinese">但问题是她看起来不像娘子，倒像个朋友。</span><span class="english">She looked like somebody we would've been friends with.</span></p>

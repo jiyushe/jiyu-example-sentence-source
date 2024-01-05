@@ -1,5 +1,7 @@
 # playfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playfully.md)
+
 <p><span class="chinese">我站起身,开玩笑地推了她一把。</span><span class="english">I got up and playfully pushed her.</span></p>
 
 <p><span class="chinese">“别跟我说，”她开玩笑地说。</span><span class="english">“Don’t tell me, ” she said playfully.</span></p>

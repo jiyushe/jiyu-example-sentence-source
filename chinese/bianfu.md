@@ -1,5 +1,7 @@
 # 蝙蝠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianfu.md)
+
 <p><span class="chinese">是只蝙蝠。</span><span class="english">Just a bat.</span></p>
 
 <p><span class="chinese">但到现在蝙蝠还没有出现。</span><span class="english">But so far no bats.</span></p>

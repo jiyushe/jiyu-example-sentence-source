@@ -1,5 +1,7 @@
 # 巨变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jubian.md)
+
 <p><span class="chinese">这个天上的巨变使人群异常安静。</span><span class="english">This sign from heaven quieted the crowd.</span></p>
 
 <p><span class="chinese">在有些方面，巨变倍受欢迎。</span><span class="english">In some ways, the upheaval will be a welcome one.</span></p>

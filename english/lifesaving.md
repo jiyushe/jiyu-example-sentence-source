@@ -1,5 +1,7 @@
 # lifesaving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifesaving.md)
+
 <p><span class="chinese">DY5555救生圈发球个人救生设备。</span><span class="english">DY5555 lifebelt serve personal lifesaving equipment.</span></p>
 
 <p><span class="chinese">对于低薪工人，信用已成为生命支柱。</span><span class="english">For low-wage workers, credit has been the lifesaving crutch.</span></p>

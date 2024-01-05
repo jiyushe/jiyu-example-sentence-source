@@ -1,5 +1,7 @@
 # endotracheal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endotracheal.md)
+
 <p><span class="chinese">手术在经口插管全身麻醉下进行。</span><span class="english">Operation was done under general anesthesia by endotracheal intubation.</span></p>
 
 <p><span class="chinese">术毕吸净口腔及气管分泌物，具备拔管指征时拔除喉罩或气管导管。</span><span class="english">Suction was applied to the endotracheal tube and oral cavity after operation.</span></p>

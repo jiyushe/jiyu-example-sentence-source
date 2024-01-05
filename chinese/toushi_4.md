@@ -1,5 +1,7 @@
 # 透视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toushi_4.md)
+
 <p><span class="chinese">我们将让她作X光透视。</span><span class="english">We'll get her X-rayed.</span></p>
 
 <p><span class="chinese">什么是透视？。</span><span class="english">What is Foreshortening?</span></p>

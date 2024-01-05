@@ -1,5 +1,7 @@
 # 太极图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taijitu.md)
+
 <p><span class="chinese">太极图的太极线在其众多内涵中还有反映太阳波动的含义。</span><span class="english">It is also pointed that Taijn line reflects the solar wave motion.</span></p>
 
 <p><span class="chinese">这个层级较高，是指太极图模式的层级性。</span><span class="english">These levels refer to the different levels in the model of Taiji symbol.</span></p>

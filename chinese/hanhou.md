@@ -1,5 +1,7 @@
 # 憨厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanhou.md)
+
 <p><span class="chinese">这只熊猫很憨厚。</span><span class="english">This is a good panda.</span></p>
 
 <p><span class="chinese">他才不憨厚呢！</span><span class="english">He is not simple and honest!</span></p>

@@ -1,5 +1,7 @@
 # concept 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concept.md)
+
 <p><span class="chinese">他提出了一个新概念。</span><span class="english">He has a new concept.</span></p>
 
 <p><span class="chinese">你在偷换概念。</span><span class="english">You are stealing concept.</span></p>

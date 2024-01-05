@@ -1,5 +1,7 @@
 # author 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/author.md)
+
 <p><span class="chinese">司提反还是作者？</span><span class="english">Stephen or the author?</span></p>
 
 <p><span class="chinese">那位作者享誉颇久。</span><span class="english">That author wears well.</span></p>

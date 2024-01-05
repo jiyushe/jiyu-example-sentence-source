@@ -1,5 +1,7 @@
 # minutiae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minutiae.md)
+
 <p><span class="chinese">这些就是我们生活中讨厌的细节。</span><span class="english">These are the unwanted minutiae in our lives.</span></p>
 
 <p><span class="chinese">你的救星就是时时刻刻描述那些细枝末节。</span><span class="english">Your salvation lies in a moment-by-moment recounting of the minutiae.</span></p>

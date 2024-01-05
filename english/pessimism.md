@@ -1,5 +1,7 @@
 # pessimism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pessimism.md)
+
 <p><span class="chinese">到底什么是悲观情绪呢？</span><span class="english">What is pessimism after all?</span></p>
 
 <p><span class="chinese">在30至39岁是悲观主义出现的高峰。</span><span class="english">Pessimism peaks between 30 and 39.</span></p>

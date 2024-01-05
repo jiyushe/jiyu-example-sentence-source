@@ -1,5 +1,7 @@
 # sharif
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharif.md)
+
 <p><span class="chinese">谢里夫说，无论怎样他都会来访。</span><span class="english">Sharif said he wanted to come anyway.</span></p>
 
 <p><span class="chinese">然而谢里夫及其同类大学继续茁壮成长。</span><span class="english">Yet Sharif and its ilk continue to thrive.</span></p>

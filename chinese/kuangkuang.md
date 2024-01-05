@@ -1,5 +1,7 @@
 # 框框
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangkuang.md)
+
 <p><span class="chinese">好吧，美国，他已经将我的框框撑破。</span><span class="english">Well they broke my frame. Washington D. C.</span></p>
 
 <p><span class="chinese">无框框架奥地利水晶详细的庙宇。</span><span class="english">Rimless frame with Austrian crystal detail at temples.</span></p>

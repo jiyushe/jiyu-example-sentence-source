@@ -1,5 +1,7 @@
 # 江郎才尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianglangcaijin.md)
+
 <p><span class="chinese">这个广告人似乎是江郎才尽了。</span><span class="english">This advertiser seems to have exhausted his wits.</span></p>
 
 <p><span class="chinese">此高产作家现在已经是江郎才尽了。</span><span class="english">The productive writer cannot produce any more works now.</span></p>

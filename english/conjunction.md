@@ -1,5 +1,7 @@
 # conjunction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjunction.md)
+
 <p><span class="chinese">是一个连接连词。</span><span class="english">"And" is a copulative conjunction.</span></p>
 
 <p><span class="chinese">这两个分句由一个连词连在一起。</span><span class="english">The two clauses are joined by a conjunction.</span></p>

@@ -1,5 +1,7 @@
 # vibrato
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibrato.md)
+
 <p><span class="chinese">难以承受的，混响，颤音和立体声合唱。</span><span class="english">Sustain, reverb, vibrato and stereo chorus.</span></p>
 
 <p><span class="chinese">你是用向下按弦来产生颤音吗？</span><span class="english">GW Do you generate vibrato by pressing down?</span></p>

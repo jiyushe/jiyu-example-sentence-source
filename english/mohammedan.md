@@ -1,5 +1,7 @@
 # mohammedan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mohammedan.md)
+
 <p><span class="chinese">伊斯兰文明，由此又可见一斑。</span><span class="english">Mohammedan civilization, see one spot again from this.</span></p>
 
 <p><span class="chinese">广州成了主要的港口，因为清真寺还有穆哈默德的圣物而出名。</span><span class="english">Canton became the chief trading port, famed for its mosques and Mohammedan sepulchers.</span></p>

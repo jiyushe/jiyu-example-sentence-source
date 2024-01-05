@@ -1,5 +1,7 @@
 # interlocking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlocking.md)
+
 <p><span class="chinese">无缝隙互锁设计，没有可视缝隙线。</span><span class="english">Gap-Free interlocking design, no sight lines.</span></p>
 
 <p><span class="chinese">关注你身上的这三个息息相连的部分。</span><span class="english">Pay attention to the three interlocking parts of you.</span></p>

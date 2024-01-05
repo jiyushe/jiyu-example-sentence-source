@@ -1,5 +1,7 @@
 # quaintly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quaintly.md)
+
 <p><span class="chinese">这似乎是一个古怪而落伍的想法。</span><span class="english">This may seem a quaintly old-fashioned idea.</span></p>
 
 <p><span class="chinese">现在看来，在2007年才爱上电邮似乎是种奇怪的过时行为。</span><span class="english">It now seems quaintly old fashioned to be in love withe-mail in 2007.</span></p>

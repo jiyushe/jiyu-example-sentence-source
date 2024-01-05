@@ -1,5 +1,7 @@
 # 查看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chakan_2.md)
+
 <p><span class="chinese">查看已扫描文件。</span><span class="english">View the scanned file.</span></p>
 
 <p><span class="chinese">查看进度条。</span><span class="english">Watch the progress bar.</span></p>

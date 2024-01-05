@@ -1,5 +1,7 @@
 # miniature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miniature.md)
+
 <p><span class="chinese">这是一部袖珍本。</span><span class="english">This is a copy in miniature.</span></p>
 
 <p><span class="chinese">巴黎是法国的缩影。</span><span class="english">Paris is France in miniature.</span></p>

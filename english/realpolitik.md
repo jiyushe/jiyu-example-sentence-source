@@ -1,5 +1,7 @@
 # realpolitik
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realpolitik.md)
+
 <p><span class="chinese">非戏剧学院的活僵尸权力政治</span><span class="english">I. The No-Drama School of Zombie Realpolitik</span></p>
 
 <p><span class="chinese">事实上，多年来两国已经越走越近——纯粹是因为强权政治。</span><span class="english">In fact, the two countries have been edging closer for years—for reasons of pure realpolitik.</span></p>

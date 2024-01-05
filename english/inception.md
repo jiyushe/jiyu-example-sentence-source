@@ -1,5 +1,7 @@
 # inception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inception.md)
+
 <p><span class="chinese">莱昂纳多将会因为禁闭岛或者盗梦空间获得提名。</span><span class="english">Leo could be nominated for Shutter Island or Inception.</span></p>
 
 <p><span class="chinese">利用白熊效应，我们可以创造一种梦境基础。</span><span class="english">Using the white bear effect, we can create dream inception.</span></p>

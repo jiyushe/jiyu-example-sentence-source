@@ -1,5 +1,7 @@
 # 拍手称快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paishouchengkuai.md)
+
 <p><span class="chinese">消息传出后，上海市的一名销售人员拍手称快。</span><span class="english">One salesman was cheered by the new attitude in Shanghai.</span></p>
 
 <p><span class="chinese">我想，许多人看见他离开这儿都会拍手称快的。</span><span class="english">I don't think many people will be sorry to see the back of him.</span></p>

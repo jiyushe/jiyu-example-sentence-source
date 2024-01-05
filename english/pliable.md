@@ -1,5 +1,7 @@
 # pliable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pliable.md)
+
 <p><span class="chinese">藤条潮湿时易弯曲。</span><span class="english">Cane is pliable when wet.</span></p>
 
 <p><span class="chinese">引流物应是软而易弯的。</span><span class="english">The drain should be soft and pliable.</span></p>

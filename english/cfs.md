@@ -1,5 +1,7 @@
 # cfs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cfs.md)
+
 <p><span class="chinese">你们集装箱码头有货运站吗？</span><span class="english">Do you have a CFS in your container terminal?</span></p>
 
 <p><span class="chinese">通常，在货运站托盘是被用作存放货物的。</span><span class="english">Usually, pallets are used to store goods at CFS.</span></p>

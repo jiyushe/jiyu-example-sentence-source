@@ -1,5 +1,7 @@
 # 插足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chazu.md)
+
 <p><span class="chinese">大概，你该当插足一个英语俱乐部。</span><span class="english">Maybe you should join the English club.</span></p>
 
 <p><span class="chinese">我猜测一定是有第三者插足。</span><span class="english">I gar there must be a third person involved.</span></p>

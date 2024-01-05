@@ -1,5 +1,7 @@
 # standoffish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standoffish.md)
+
 <p><span class="chinese">它是冷漠的。</span><span class="english">It’s standoffish.</span></p>
 
 <p><span class="chinese">在我想像中，神是拘谨的，近乎冷漠的。</span><span class="english">I imagine God to be rather formal, almost standoffish.</span></p>

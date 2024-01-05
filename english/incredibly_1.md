@@ -1,5 +1,7 @@
 # incredibly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incredibly_1.md)
+
 <p><span class="chinese">不可思议的吸引力</span><span class="english">Incredibly powerful.</span></p>
 
 <p><span class="chinese">这莲座居然可以飞行。</span><span class="english">This incredibly can fly.</span></p>

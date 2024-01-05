@@ -1,5 +1,7 @@
 # interphase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interphase.md)
+
 <p><span class="chinese">细胞周期从一次有丝分裂结束至下一次有丝分裂开始间的时期。</span><span class="english">Interphase --- The stage of the cell cycle between two successive mitoses.</span></p>
 
 <p><span class="chinese">反映界面研究的进展并展望界面力学的发展方向。</span><span class="english">Progresses and researches on the interphase and interfacial mechanics are also outlined.</span></p>

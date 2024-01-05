@@ -1,5 +1,7 @@
 # academia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/academia.md)
+
 <p><span class="chinese">学术界给我们带来了什么？</span><span class="english">What do we have in academia?</span></p>
 
 <p><span class="chinese">再来说说学术界。</span><span class="english">On the other hand, we have academia.</span></p>

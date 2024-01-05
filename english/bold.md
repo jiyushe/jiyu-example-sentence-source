@@ -1,5 +1,7 @@
 # bold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bold.md)
+
 <p><span class="chinese">他是个大胆的恶汉。</span><span class="english">He was a bold wretch.</span></p>
 
 <p><span class="chinese">一个大胆的提议。</span><span class="english">A bold proposal, then.</span></p>

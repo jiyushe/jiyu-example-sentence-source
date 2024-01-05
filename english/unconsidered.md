@@ -1,5 +1,7 @@
 # unconsidered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconsidered.md)
+
 <p><span class="chinese">不加思考的人生毫无价值。</span><span class="english">The unconsidered life is not worth living.</span></p>
 
 <p><span class="chinese">我们生活中最关键的行动，往往是欠考虑的。</span><span class="english">The most decisive actions of our life are more often than not unconsidered.</span></p>

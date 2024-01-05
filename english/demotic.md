@@ -1,5 +1,7 @@
 # demotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demotic.md)
+
 <p><span class="chinese">民间故事反映民众的价值观念。</span><span class="english">Folktale reflects demotic ideas about value.</span></p>
 
 <p><span class="chinese">本文通过运用大量的案例分析，希望能使行文表达通俗易懂。</span><span class="english">The paper uses substantive cases to make it demotic and pellucid.</span></p>

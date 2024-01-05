@@ -1,5 +1,7 @@
 # sheath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheath.md)
+
 <p><span class="chinese">不错，我说鞘是原配。</span><span class="english">Yes, the sheath is original.</span></p>
 
 <p><span class="chinese">一声利响，长剑出鞘。</span><span class="english">A benefit rings, lance sheath.</span></p>

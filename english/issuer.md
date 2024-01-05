@@ -1,5 +1,7 @@
 # issuer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/issuer.md)
+
 <p><span class="chinese">发行人将不会储存在密码明文。</span><span class="english">Issuer will not store Passphrase in plaintext.</span></p>
 
 <p><span class="chinese">世达为发行商提供香港和美国的法律顾问服务。</span><span class="english">Skadden is advising the issuer on Hong Kong and U. S. law.</span></p>

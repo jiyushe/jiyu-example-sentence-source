@@ -1,5 +1,7 @@
 # underlying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underlying.md)
+
 <p><span class="chinese">一个有趣的阅读和伟大的基本点。</span><span class="english">A fun read and great underlying point.</span></p>
 
 <p><span class="chinese">对数字进行操作的方法集。</span><span class="english">But underlying Python is the same idea.</span></p>

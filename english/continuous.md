@@ -1,5 +1,7 @@
 # continuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continuous.md)
+
 <p><span class="chinese">这是一盏长明灯。</span><span class="english">It was a continuous light.</span></p>
 
 <p><span class="chinese">什么是持续集成？</span><span class="english">What is continuous integration?</span></p>

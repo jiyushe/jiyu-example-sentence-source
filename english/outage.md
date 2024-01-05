@@ -1,5 +1,7 @@
 # outage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outage.md)
+
 <p><span class="chinese">湖州街，是此次停运规模最大的地点。</span><span class="english">Huzhou street, is the largest site outage.</span></p>
 
 <p><span class="chinese">网络故障总共持续了两周多。</span><span class="english">The network outage lasted more than 2 weeks in total.</span></p>

@@ -1,5 +1,7 @@
 # 能否
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nengfou.md)
+
 <p><span class="chinese">它能否改变？</span><span class="english">And can it change?</span></p>
 
 <p><span class="chinese">我们能否避免做噩梦？</span><span class="english">Can we avoid them?</span></p>

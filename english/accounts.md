@@ -1,5 +1,7 @@
 # accounts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accounts.md)
+
 <p><span class="chinese">删去旧的帐号。</span><span class="english">Delete old accounts.</span></p>
 
 <p><span class="chinese">投资类账户。</span><span class="english">Investment accounts.</span></p>

@@ -1,5 +1,7 @@
 # memorise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memorise.md)
+
 <p><span class="chinese">不要死记硬背，而要活说活用。</span><span class="english">Don't memorise it, live it.</span></p>
 
 <p><span class="chinese">我想背下这首诗来。</span><span class="english">I want to memorise this poem.</span></p>

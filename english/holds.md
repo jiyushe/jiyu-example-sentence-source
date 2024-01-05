@@ -1,5 +1,7 @@
 # holds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holds.md)
+
 <p><span class="chinese">桶内装着牛奶。</span><span class="english">The pail holds milk.</span></p>
 
 <p><span class="chinese">这支枪能装六发子弹。</span><span class="english">The gun holds six shells.</span></p>

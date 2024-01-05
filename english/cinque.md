@@ -1,5 +1,7 @@
 # cinque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinque.md)
+
 <p><span class="chinese">他成为了我的桑克。</span><span class="english">He became my Cinqué.</span></p>
 
 <p><span class="chinese">五塔山前的二位游客。</span><span class="english">Two tourists in front of Cinque Torre.</span></p>

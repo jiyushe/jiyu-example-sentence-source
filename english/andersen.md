@@ -1,5 +1,7 @@
 # andersen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andersen.md)
+
 <p><span class="chinese">14岁，安徒生前往哥本哈根。</span><span class="english">At 14, Andersen traveled to Copenhagen.</span></p>
 
 <p><span class="chinese">汉斯。埃迪森出生在鞋匠的家庭。</span><span class="english">Hans Andersen was born in a shoemaker's family.</span></p>

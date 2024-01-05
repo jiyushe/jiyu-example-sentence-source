@@ -1,5 +1,7 @@
 # prefecture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prefecture.md)
+
 <p><span class="chinese">太守谓谁？</span><span class="english">Who is the prefecture chief.</span></p>
 
 <p><span class="chinese">汶川是阿坝州的一部分。</span><span class="english">Wenchuan forms part of the  prefecture.</span></p>

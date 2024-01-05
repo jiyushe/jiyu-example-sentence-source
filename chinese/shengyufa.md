@@ -1,5 +1,7 @@
 # 剩余法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyufa.md)
+
 <p><span class="chinese">剩余法较能体现农民的土地发展权权益。</span><span class="english">Residual Method can show farmers' rights and interests most.</span></p>
 
 <p><span class="chinese">在我国，常用的土地评估方法还有剩余法和基准地价系数修正法。</span><span class="english">Be in our country, commonly used land evaluates a method to still odd law and fiducial price coefficient revise a law.</span></p>

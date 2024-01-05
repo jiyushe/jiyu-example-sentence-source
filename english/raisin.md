@@ -1,5 +1,7 @@
 # raisin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raisin.md)
+
 <p><span class="chinese">像太阳下的葡萄干？</span><span class="english">Like a raisin in the sun?</span></p>
 
 <p><span class="chinese">最后加入胡桃和葡萄干。</span><span class="english">Lastly add in Walnut and Raisin.</span></p>

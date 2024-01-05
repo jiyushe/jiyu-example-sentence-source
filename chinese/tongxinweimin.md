@@ -1,5 +1,7 @@
 # 童心未泯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxinweimin.md)
+
 <p><span class="chinese">心里面有个孩子就是指这个人“童心未泯”！</span><span class="english">You are really a child at heart.</span></p>
 
 <p><span class="chinese">呵呵，看来他还童心未泯，比我还小孩子气。</span><span class="english">He looks like a child and not a business man.</span></p>

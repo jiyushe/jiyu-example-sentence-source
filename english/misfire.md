@@ -1,5 +1,7 @@
 # misfire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misfire.md)
+
 <p><span class="chinese">压力、疲劳或挑战都会引发失败。</span><span class="english">Stress, fatigue, or challenges can cause a misfire.</span></p>
 
 <p><span class="chinese">他们成了那个计划失败的替罪羊。</span><span class="english">They were made the scapegoats for the misfire of the program.</span></p>

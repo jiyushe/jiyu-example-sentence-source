@@ -1,5 +1,7 @@
 # platysma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platysma.md)
+
 <p><span class="chinese">脂肪抽吸术能抽吸颈阔肌外脂肪垫，去除双下巴。</span><span class="english">Liposuction can platysma outside the fat pad aspiration to remove the double chin.</span></p>
 
 <p><span class="chinese">支配颈阔肌的神经是面神经的颈支。</span><span class="english">The nerve which innervated the platysma was the cervical branch of the facial nerve.</span></p>

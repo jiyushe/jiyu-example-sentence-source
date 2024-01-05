@@ -1,5 +1,7 @@
 # puritan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puritan.md)
+
 <p><span class="chinese">过于偏激的清教徒精神既已消逝。</span><span class="english">The extremer Puritan mood had gone.</span></p>
 
 <p><span class="chinese">美洲的英国清教徒殖民者。</span><span class="english">English puritan colonist in america.</span></p>

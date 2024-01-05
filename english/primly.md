@@ -1,5 +1,7 @@
 # primly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primly.md)
+
 <p><span class="chinese">我们非常拘谨地坐在长椅的两头。</span><span class="english">We sat primly at either end of a long settee.</span></p>
 
 <p><span class="chinese">“我的家在一个仙境里面，”瓦妮特一丝不苟地说。</span><span class="english">"My house is in fairyland, " Vanity said primly.</span></p>

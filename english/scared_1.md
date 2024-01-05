@@ -1,5 +1,7 @@
 # scared 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scared_1.md)
+
 <p><span class="chinese">我很害怕。</span><span class="english">I'm scared.</span></p>
 
 <p><span class="chinese">医管局，我害怕。</span><span class="english">Ha, scared me.</span></p>

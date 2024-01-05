@@ -1,5 +1,7 @@
 # creosote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creosote.md)
+
 <p><span class="chinese">木材常用杂酚油涂抹以防腐烂。</span><span class="english">We first treated the wood with creosote.</span></p>
 
 <p><span class="chinese">接触木馏油可能存在一些危险。</span><span class="english">Exposure to creosote may present certain hazards.</span></p>

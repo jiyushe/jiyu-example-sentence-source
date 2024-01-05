@@ -1,5 +1,7 @@
 # neutrino
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neutrino.md)
+
 <p><span class="chinese">当中微子使一种夸克转化为另一种夸克时，会发射出一个轻子。</span><span class="english">When a neutrino transforms a quark, a lepton is emitted.</span></p>
 
 <p><span class="chinese">在超新星1987A中，中微子能量通常为几十兆电子伏。</span><span class="english">In 1987A, neutrino energies were typically a few 10′s of MeV.</span></p>

@@ -1,5 +1,7 @@
 # 拉杆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lagan.md)
+
 <p><span class="chinese">重要的是你拉下拉杆的次数。</span><span class="english">It's the number of times you pull it down.</span></p>
 
 <p><span class="chinese">通过张拉径向钢拉杆的方法施加预应力。</span><span class="english">The prestress load was added by stretching radius rods.</span></p>

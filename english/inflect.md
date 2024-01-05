@@ -1,5 +1,7 @@
 # inflect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflect.md)
+
 <p><span class="chinese">为常见的导航调整界面。</span><span class="english">Inflect the interface for typical navigation.</span></p>
 
 <p><span class="chinese">但是它们的旋律是如何改变了其意义的呢？</span><span class="english">But how did their melodies inflect their meaning?</span></p>

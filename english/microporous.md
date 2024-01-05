@@ -1,5 +1,7 @@
 # microporous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microporous.md)
+
 <p><span class="chinese">过滤采用PG型精密微孔过滤机。</span><span class="english">PG type fine microporous filter was used.</span></p>
 
 <p><span class="chinese">该材料与在一个无机的微孔牛骨相结合。</span><span class="english">The material is combined with an anorganic microporous bovine bone.</span></p>

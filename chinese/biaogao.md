@@ -1,5 +1,7 @@
 # 标高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaogao.md)
+
 <p><span class="chinese">这条管线的安装标高是若干？</span><span class="english">Whover at is the instingl elev of this pipeline?</span></p>
 
 <p><span class="chinese">这条管线的安装标高是若干？</span><span class="english">Whin is the instingline elevine of this pipeline?</span></p>

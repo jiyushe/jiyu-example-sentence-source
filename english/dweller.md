@@ -1,5 +1,7 @@
 # dweller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dweller.md)
+
 <p><span class="chinese">你是我永生梦幻中的居住者。</span><span class="english">You are a dweller in my deathless dreams.</span></p>
 
 <p><span class="chinese">也就是说，每三个农民供应一个城市居民。</span><span class="english">That would imply three farmers for each city dweller.</span></p>

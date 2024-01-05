@@ -1,5 +1,7 @@
 # 内战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neizhan.md)
+
 <p><span class="chinese">他写了一本内战史。</span><span class="english">He authored a history of the Civil War.</span></p>
 
 <p><span class="chinese">我不会点燃美国内战的第一炮。</span><span class="english">I cannot fire the first gun of the war.</span></p>

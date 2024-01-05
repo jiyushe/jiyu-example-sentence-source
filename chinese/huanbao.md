@@ -1,5 +1,7 @@
 # 环抱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanbao.md)
+
 <p><span class="chinese">茂密的森林环抱着那个村庄。</span><span class="english">A thick forest girdled the village about.</span></p>
 
 <p><span class="chinese">该市由高山环抱。</span><span class="english">The city is beset with towering mountains.</span></p>

@@ -1,5 +1,7 @@
 # overcoat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcoat.md)
+
 <p><span class="chinese">我把大衣翻个面。</span><span class="english">I had my overcoat turned.</span></p>
 
 <p><span class="chinese">他突然脱掉大衣。</span><span class="english">He ripped off his overcoat.</span></p>

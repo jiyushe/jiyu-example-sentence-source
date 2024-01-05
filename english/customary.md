@@ -1,5 +1,7 @@
 # customary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/customary.md)
+
 <p><span class="chinese">在贵国依照惯例是否应该付给服务员小费?</span><span class="english">Is it customary to tip waiters in your country?</span></p>
 
 <p><span class="chinese">给搬行李的服务员一点儿赏钱是个惯例。</span><span class="english">It is customary to give something to the porter.</span></p>

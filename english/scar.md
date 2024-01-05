@@ -1,5 +1,7 @@
 # scar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scar.md)
+
 <p><span class="chinese">刀疤走开了。</span><span class="english">Scar walks off.</span></p>
 
 <p><span class="chinese">创痕逐渐消失。</span><span class="english">The scar died away.</span></p>

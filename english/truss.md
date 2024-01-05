@@ -1,5 +1,7 @@
 # truss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truss.md)
+
 <p><span class="chinese">烤鸡前先将鸡贴身扎紧。</span><span class="english">Truss the chicken before you roast it.</span></p>
 
 <p><span class="chinese">现在咱们把它和底下的桁架作一比较。</span><span class="english">Now let's compare it with the truss below.</span></p>

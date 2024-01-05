@@ -1,5 +1,7 @@
 # dean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dean.md)
+
 <p><span class="chinese">丁太太来了。</span><span class="english">Mrs Dean came.</span></p>
 
 <p><span class="chinese">我代表理查德·迪安……</span><span class="english">On behalf of Richard Dean...</span></p>

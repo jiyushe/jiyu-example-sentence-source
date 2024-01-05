@@ -1,5 +1,7 @@
 # trine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trine.md)
+
 <p><span class="chinese">三分相的星座有相同元素的星座也有同样的阴阳性。</span><span class="english">Signs that are trine share the same element as well as the same gender.</span></p>
 
 <p><span class="chinese">金星跟天王星之间形成的三分相显示出你是个很会享受生活的人。</span><span class="english">The trine formed between Venus and Uranus shows that you are a person who enjoys life.</span></p>

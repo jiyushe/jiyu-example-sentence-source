@@ -1,5 +1,7 @@
 # orcish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orcish.md)
+
 <p><span class="chinese">但是萨满是兽人才有的习俗！</span><span class="english">But shamanism is an orcish practice!</span></p>
 
 <p><span class="chinese">使用它上的钥匙和获得有点逆戟鲸的乾食品。</span><span class="english">Use the key on it and obtain the Orcish Dried Food.</span></p>

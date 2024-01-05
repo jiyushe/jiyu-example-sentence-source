@@ -1,5 +1,7 @@
 # saxon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saxon.md)
+
 <p><span class="chinese">他用强有力的诺曼政府代替了软弱的萨克逊政府。</span><span class="english">He rep laced the weak Saxon rule with a strong Norman government.</span></p>
 
 <p><span class="chinese">在庆祝活动中，“黑斯廷斯战役”迷们打扮成撒克逊和诺曼战士的模样。</span><span class="english">Enthusiasts dressed as Saxon and Norman warriors for the festivities.</span></p>

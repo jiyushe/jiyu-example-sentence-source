@@ -1,5 +1,7 @@
 # thunderstruck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thunderstruck.md)
+
 <p><span class="chinese">如同被雷击一样。</span><span class="english">I was thunderstruck.</span></p>
 
 <p><span class="chinese">他瞪着我，愣住了。</span><span class="english">He stared at me, thunderstruck.</span></p>

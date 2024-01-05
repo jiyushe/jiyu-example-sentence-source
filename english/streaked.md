@@ -1,5 +1,7 @@
 # streaked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streaked.md)
+
 <p><span class="chinese">他在脸上画上了黑色的条纹。</span><span class="english">He streaked his face with black.</span></p>
 
 <p><span class="chinese">带有血丝恴风。</span><span class="english">Blood- streaked phlegm with stainless winds.</span></p>

@@ -1,5 +1,7 @@
 # stigmata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stigmata.md)
+
 <p><span class="chinese">许多收到五伤，在各种形式。</span><span class="english">Many received the stigmata in various forms.</span></p>
 
 <p><span class="chinese">他最终收到了背上的创伤“基督”。</span><span class="english">He eventually received the stigmata"the wounds of CHRIST".</span></p>

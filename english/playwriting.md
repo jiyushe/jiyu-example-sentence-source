@@ -1,5 +1,7 @@
 # playwriting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playwriting.md)
+
 <p><span class="chinese">我初中的剧本写作老师离开了，但我能够适应。</span><span class="english">My playwriting teacher from middle school left, but I handled it.</span></p>
 
 <p><span class="chinese">丘吉尔开始短篇小说和剧本中转移到学院。</span><span class="english">Churchill began with short stories and moved to playwriting in college.</span></p>

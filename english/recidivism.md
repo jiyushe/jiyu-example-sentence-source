@@ -1,5 +1,7 @@
 # recidivism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recidivism.md)
+
 <p><span class="chinese">重新犯罪率很低，但自杀率很高。</span><span class="english">The recidivism rate is very low.</span></p>
 
 <p><span class="chinese">这种事情的重复率是如此之高。</span><span class="english">The recidivism rate in these matters is so high.</span></p>

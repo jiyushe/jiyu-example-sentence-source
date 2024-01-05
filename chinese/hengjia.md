@@ -1,5 +1,7 @@
 # 桁架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengjia.md)
+
 <p><span class="chinese">这样的桁架称为简单桁架。</span><span class="english">Such trusses are called simple trusses.</span></p>
 
 <p><span class="chinese">现在咱们把它和底下的桁架作一比较。</span><span class="english">Now let's compare it with the truss below.</span></p>

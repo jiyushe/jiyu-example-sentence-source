@@ -1,5 +1,7 @@
 # wield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wield.md)
+
 <p><span class="chinese">外审员有巨大的影响力。</span><span class="english">External auditors wield great influence.</span></p>
 
 <p><span class="chinese">在民主国家里，人民可以行使权力。</span><span class="english">People may wield the power in a democracy.</span></p>

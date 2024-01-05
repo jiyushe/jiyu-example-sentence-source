@@ -1,5 +1,7 @@
 # sanguine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanguine.md)
+
 <p><span class="chinese">但是，这种说法太乐观了。</span><span class="english">But that is too sanguine.</span></p>
 
 <p><span class="chinese">桑斯和梅建平对艺术的未来都相当乐观。</span><span class="english">Mei were fairly sanguine about the future of art.</span></p>

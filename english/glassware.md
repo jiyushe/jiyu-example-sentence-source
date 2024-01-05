@@ -1,5 +1,7 @@
 # glassware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glassware.md)
+
 <p><span class="chinese">玻璃餐具摆放正确。</span><span class="english">Glassware is placed to the right.</span></p>
 
 <p><span class="chinese">玻璃器皿必须轻拿轻放。</span><span class="english">Glassware must be handled with care.</span></p>

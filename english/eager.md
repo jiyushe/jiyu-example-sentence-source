@@ -1,5 +1,7 @@
 # eager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eager.md)
+
 <p><span class="chinese">我迫切希望他们能够这样做。</span><span class="english">I am eager for them to do so.</span></p>
 
 <p><span class="chinese">我不想看起来太猴急了。</span><span class="english">I don't wanna seem too eager.</span></p>

@@ -1,5 +1,7 @@
 # undisciplined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undisciplined.md)
+
 <p><span class="chinese">不要养成散漫的生活作风。</span><span class="english">Don't form an undisciplined way of life.</span></p>
 
 <p><span class="chinese">它们是不科学的，不守纪律。</span><span class="english">They are unscientific and undisciplined.</span></p>

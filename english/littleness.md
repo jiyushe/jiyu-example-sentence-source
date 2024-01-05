@@ -1,5 +1,7 @@
 # littleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/littleness.md)
+
 <p><span class="chinese">不要以卑微为足。</span><span class="english">Be not content with littleness.</span></p>
 
 <p><span class="chinese">卑微是你给自己的礼物。</span><span class="english">Littleness is the offering you give yourself.</span></p>

@@ -1,5 +1,7 @@
 # analgesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analgesia.md)
+
 <p><span class="chinese">目的探讨肾绞痛的止痛方法。</span><span class="english">Objective To study the analgesia of renal colic.</span></p>
 
 <p><span class="chinese">目的研究马钱子碱镇痛作用的机制。</span><span class="english">ObjectiveTo study the mechanism of analgesia of bru cine.</span></p>

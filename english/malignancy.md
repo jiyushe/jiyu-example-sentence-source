@@ -1,5 +1,7 @@
 # malignancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malignancy.md)
+
 <p><span class="chinese">自由皮瓣在头颈恶性肿瘤之应用。</span><span class="english">Application of Free Flaps in Head &Neck Malignancy.</span></p>
 
 <p><span class="chinese">恶性肿瘤严重威胁人类生命。</span><span class="english">Background Malignancy imperils human beings seriously.</span></p>

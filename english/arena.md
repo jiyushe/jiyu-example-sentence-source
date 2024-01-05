@@ -1,5 +1,7 @@
 # arena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arena.md)
+
 <p><span class="chinese">社会是个大舞台。</span><span class="english">Social is a rather large arena.</span></p>
 
 <p><span class="chinese">体育竞赛场平衡是个大课题。</span><span class="english">Arena balance is a really big topic.</span></p>

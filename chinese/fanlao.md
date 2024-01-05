@@ -1,5 +1,7 @@
 # 烦劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanlao.md)
+
 <p><span class="chinese">烦劳你非常感谢。</span><span class="english">Thank you ever so much.</span></p>
 
 <p><span class="chinese">他可能想躲避烦劳的工作。</span><span class="english">He might also want to avoid exhaustion.</span></p>

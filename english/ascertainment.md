@@ -1,5 +1,7 @@
 # ascertainment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascertainment.md)
+
 <p><span class="chinese">泡沫油降粘体系的确定。</span><span class="english">The ascertainment of foaming oil visbreaking system.</span></p>
 
 <p><span class="chinese">因此，民事责任追究机制具有更广泛的适用性。</span><span class="english">Therefore, the practice of civil liability ascertainment is of greater applicability.</span></p>

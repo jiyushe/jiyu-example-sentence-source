@@ -1,5 +1,7 @@
 # 奉公守法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenggongshoufa.md)
+
 <p><span class="chinese">作奉公守法的公民？</span><span class="english">To be a law-abiding citizen?</span></p>
 
 <p><span class="chinese">坚持原则，奉公守法。</span><span class="english">Stick to the principles and law-abiding.</span></p>

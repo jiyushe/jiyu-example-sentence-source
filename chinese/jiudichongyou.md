@@ -1,5 +1,7 @@
 # 旧地重游
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiudichongyou.md)
+
 <p><span class="chinese">走吧，陪我旧地重游一次吧。</span><span class="english">Go, let the old ground with me once.</span></p>
 
 <p><span class="chinese">某日某时，旧地重游。</span><span class="english">One day at a certain time, to return.</span></p>

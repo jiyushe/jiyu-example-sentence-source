@@ -1,5 +1,7 @@
 # dives
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dives.md)
+
 <p><span class="chinese">什么是规定动作？</span><span class="english">What are the required dives?</span></p>
 
 <p><span class="chinese">我们将会进行岸潜和船潜。</span><span class="english">We will do both shore and boat dives.</span></p>

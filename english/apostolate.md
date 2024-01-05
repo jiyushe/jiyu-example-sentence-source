@@ -1,5 +1,7 @@
 # apostolate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apostolate.md)
+
 <p><span class="chinese">行政使徒的命令是教育性。</span><span class="english">The chief apostolate of the order is educational.</span></p>
 
 <p><span class="chinese">我们不准备这样的传教使徒声威。</span><span class="english">We do not prepare ourselves for this kind of missionary apostolate.</span></p>

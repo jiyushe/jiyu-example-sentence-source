@@ -1,5 +1,7 @@
 # humanoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanoid.md)
+
 <p><span class="chinese">用类似人形的炮弹射击红色的求。</span><span class="english">Shoot the red ball with a humanoid cannonball.</span></p>
 
 <p><span class="chinese">而人形机器人是机器人世界的名人。</span><span class="english">Humanoid bots are the celebrities of the robot world.</span></p>

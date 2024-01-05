@@ -1,5 +1,7 @@
 # 宅子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaizi.md)
+
 <p><span class="chinese">你们一定要进这宅子？</span><span class="english">So you mean to enter this house?</span></p>
 
 <p><span class="chinese">那个富翁住在豪华的宅子里。</span><span class="english">The rich man lived in a splendid house.</span></p>

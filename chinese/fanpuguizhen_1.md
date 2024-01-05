@@ -1,5 +1,7 @@
 # 返璞归真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanpuguizhen_1.md)
+
 <p><span class="chinese">返璞归真，这是新的传统风格。</span><span class="english">Back to Basics. This is the New Traditional Style.</span></p>
 
 <p><span class="chinese">有些人建议我们该返璞归真,学习祖先</span><span class="english">Some people have said let's go back to what our ancestors ate.</span></p>

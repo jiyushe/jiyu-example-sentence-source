@@ -1,5 +1,7 @@
 # femoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/femoral.md)
+
 <p><span class="chinese">股骨内侧弧的曲线是抛物线。</span><span class="english">Femoral lateral arcs are parabolas.</span></p>
 
 <p><span class="chinese">非典型性股骨干骨折。</span><span class="english">Atypical fractures of the femoral diaphysis.</span></p>

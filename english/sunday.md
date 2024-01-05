@@ -1,5 +1,7 @@
 # sunday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunday.md)
+
 <p><span class="chinese">我们下个星期可以来。</span><span class="english">We can go next Sunday.</span></p>
 
 <p><span class="chinese">星期天我去了那里。</span><span class="english">I went the next Sunday.</span></p>

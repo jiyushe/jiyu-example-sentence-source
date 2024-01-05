@@ -1,5 +1,7 @@
 # 灰土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huitu.md)
+
 <p><span class="chinese">灰土飘浮于空中。</span><span class="english">Dust floats in the air.</span></p>
 
 <p><span class="chinese">喷出黑烟和灰土。</span><span class="english">A volcano belches smoke and ashes.</span></p>

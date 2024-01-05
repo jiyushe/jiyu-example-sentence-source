@@ -1,5 +1,7 @@
 # akkadian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/akkadian.md)
+
 <p><span class="chinese">让我们将这个复杂的过程消除。</span><span class="english">The form of Akkadian used in Babylonia.</span></p>
 
 <p><span class="chinese">让我们将这个复杂的过程消除。</span><span class="english">Let's eliminate the course on Akkadian hieroglyphics.</span></p>

@@ -1,5 +1,7 @@
 # 头面人物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toumianrenwu.md)
+
 <p><span class="chinese">我祖父是个头面人物。</span><span class="english">My grandfather was a big shot.</span></p>
 
 <p><span class="chinese">她是这个剧院里的头面人物。</span><span class="english">She is a leading light in the theatre.</span></p>

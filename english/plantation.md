@@ -1,5 +1,7 @@
 # plantation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plantation.md)
+
 <p><span class="chinese">种植园里的工作并非全是些男性化的工作。</span><span class="english">Not all plantation work has been masculinized.</span></p>
 
 <p><span class="chinese">裕华丝厂工场内，死一般的沉寂了。</span><span class="english">A stillness as of death hung over the plantation.</span></p>

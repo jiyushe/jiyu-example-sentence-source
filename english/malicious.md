@@ -1,5 +1,7 @@
 # malicious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malicious.md)
+
 <p><span class="chinese">他们的谈话有点儿心怀不轨。</span><span class="english">Their talk was slightly malicious.</span></p>
 
 <p><span class="chinese">他脸上堆满奸笑。</span><span class="english">A malicious smile overspread his face.</span></p>

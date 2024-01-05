@@ -1,5 +1,7 @@
 # odm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odm.md)
+
 <p><span class="chinese">原产品未涉及上述变更时，本产品也不能变更。</span><span class="english">If the original products are not changed, then the ODM product shall not be changed.</span></p>
 
 <p><span class="chinese">我们引进了先进的生产线，能够满足你的需要，贴牌生产及代工。</span><span class="english">We have introduced advanced production lines which are able to meet your needs of OEM & ODM.</span></p>

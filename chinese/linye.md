@@ -1,5 +1,7 @@
 # 林业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linye.md)
+
 <p><span class="chinese">什么是林业的优先重点？</span><span class="english">What are the priorities for forestry?</span></p>
 
 <p><span class="chinese">林业、水利建设取得新进展。</span><span class="english">Forestry and water conservancy made new progress.</span></p>

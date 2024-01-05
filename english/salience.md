@@ -1,5 +1,7 @@
 # salience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salience.md)
+
 <p><span class="chinese">二战之后，林肯又一次在国际上被突出。</span><span class="english">Lincoln enjoyed a new international salience after World War II.</span></p>
 
 <p><span class="chinese">在网络化的时代，卓越突出是信息的唯一重要的特质。</span><span class="english">In the networked era, salience is the only significant quality of information.</span></p>

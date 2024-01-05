@@ -1,5 +1,7 @@
 # absorptance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absorptance.md)
+
 <p><span class="chinese">随着薄膜厚度减小，吸收率具有极大值。</span><span class="english">With decreasing the film thickness, the maximum absorptance appears.</span></p>
 
 <p><span class="chinese">方法采用非火焰原子吸收法测定全血铅含量。</span><span class="english">Methods Non flame atom absorptance was used to determine the blood lead levels.</span></p>

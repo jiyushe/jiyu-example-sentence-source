@@ -1,5 +1,7 @@
 # mama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mama.md)
+
 <p><span class="chinese">你去哪里，妈妈？</span><span class="english">Where to mama?</span></p>
 
 <p><span class="chinese">我的妈呀，救命啊。</span><span class="english">My mama ah, help.</span></p>

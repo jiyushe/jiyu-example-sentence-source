@@ -1,5 +1,7 @@
 # phonetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonetically.md)
+
 <p><span class="chinese">相似的语音之间可能有两种关系。</span><span class="english">Phonetically similar sounds might be related in two ways.</span></p>
 
 <p><span class="chinese">在抄收很困难时，我们可以要求对方重复慢一些，例如。</span><span class="english">Would you please say your callsign again slowly and phonetically?</span></p>

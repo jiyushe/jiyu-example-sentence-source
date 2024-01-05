@@ -1,5 +1,7 @@
 # 示弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiruo.md)
+
 <p><span class="chinese">我们不敢以示弱去诱惑他们。</span><span class="english">We dare not tempt them with weakness.</span></p>
 
 <p><span class="chinese">这也让我们在国际上发出了示弱的信息。</span><span class="english">And it also sends a message of weakness internationally.</span></p>

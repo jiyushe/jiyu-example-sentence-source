@@ -1,5 +1,7 @@
 # 神笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenbi.md)
+
 <p><span class="chinese">赐予我神笔描绘多彩的天空。</span><span class="english">God give me a brush to paint the sky.</span></p>
 
 <p><span class="chinese">但是神笔没有变出金子，而变出了一条蛇。</span><span class="english">But it didn't make gold. It made a snake!</span></p>

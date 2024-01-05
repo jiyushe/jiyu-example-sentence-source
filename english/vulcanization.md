@@ -1,5 +1,7 @@
 # vulcanization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vulcanization.md)
+
 <p><span class="chinese">一般认为硫化是不可逆的过程。</span><span class="english">Vulcanization is generally considered to be an irreversible process.</span></p>
 
 <p><span class="chinese">讨论橡胶硫化过程的智能控制系统。</span><span class="english">An intelligent control system for vulcanization processing is descried.</span></p>

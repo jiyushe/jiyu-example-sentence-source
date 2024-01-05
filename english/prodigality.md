@@ -1,5 +1,7 @@
 # prodigality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prodigality.md)
+
 <p><span class="chinese">懒散是最大的挥霍。</span><span class="english">Idleness is the greatest Prodigality.</span></p>
 
 <p><span class="chinese">懒惰是最大的消费。</span><span class="english">Idleness is the greatest prodigality.</span></p>

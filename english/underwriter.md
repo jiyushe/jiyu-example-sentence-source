@@ -1,5 +1,7 @@
 # underwriter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underwriter.md)
+
 <p><span class="chinese">承销机构名称及有关的协议。</span><span class="english">the name of the underwriter and related agreements.</span></p>
 
 <p><span class="chinese">需要组织承销团的，由主承销商组织承销团。</span><span class="english">An underwriting group may be formed by the lead underwriter when necessary.</span></p>

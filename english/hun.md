@@ -1,5 +1,7 @@
 # hun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hun.md)
+
 <p><span class="chinese">匈奴未灭，何以家为？</span><span class="english">The Hun is not out, why home?</span></p>
 
 <p><span class="chinese">在你左边的是匈奴大帝阿提拉。</span><span class="english">On the left there is your Attila the Hun.</span></p>

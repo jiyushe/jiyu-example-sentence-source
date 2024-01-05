@@ -1,5 +1,7 @@
 # 曲线美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quxianmei.md)
+
 <p><span class="chinese">但是曲线美才是王牌。</span><span class="english">Curviness is the trump card.</span></p>
 
 <p><span class="chinese">女孩名通常变得更具曲线美。</span><span class="english">Girls' bodies usually become curvier.</span></p>

@@ -1,5 +1,7 @@
 # maldivian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maldivian.md)
+
 <p><span class="chinese">马尔代夫一岛一景。</span><span class="english">Maldivian island one scene.</span></p>
 
 <p><span class="chinese">这些花园别墅是传统的马尔代夫建筑风格。</span><span class="english">These Garden Villa's are styled according to traditional Maldivian Architecture.</span></p>

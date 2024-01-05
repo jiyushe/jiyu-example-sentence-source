@@ -1,5 +1,7 @@
 # 顺顺当当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunshundangdang.md)
+
 <p><span class="chinese">如果你希望对分析哲学知道得更多，事情会进行得顺顺当当。</span><span class="english">If you wish to know more about it, things are going very well.</span></p>
 
 <p><span class="chinese">你不能指望人家把所有的答案都顺顺当当地奉送给你。</span><span class="english">You can't expect people to give you all the answers on a plate.</span></p>

@@ -1,5 +1,7 @@
 # 暴虐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baonve.md)
+
 <p><span class="chinese">竟会分担那死亡的暴虐无礼。</span><span class="english">Could share in that discourtesy of death.</span></p>
 
 <p><span class="chinese">但你在陆地上也能找到同样多的暴虐。</span><span class="english">But you will find as much brutality by land.</span></p>

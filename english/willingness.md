@@ -1,5 +1,7 @@
 # willingness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willingness.md)
+
 <p><span class="chinese">一个愿意和我执手到老的人。</span><span class="english">And a willingness finish up my old.</span></p>
 
 <p><span class="chinese">一个愿意和我执手到老的人。</span><span class="english">And a willingness to finish up my old.</span></p>

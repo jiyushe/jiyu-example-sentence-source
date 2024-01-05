@@ -1,5 +1,7 @@
 # 飘洒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaosa.md)
+
 <p><span class="chinese">到喜雨飘洒的五月。</span><span class="english">To the sweet rain of May.</span></p>
 
 <p><span class="chinese">天空飘洒着雪花。</span><span class="english">Snowflakes were swirling in the air.</span></p>

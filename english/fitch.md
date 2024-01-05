@@ -1,5 +1,7 @@
 # fitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fitch.md)
+
 <p><span class="chinese">苏格兰圣安德鲁大学的W。</span><span class="english">W. Tecumseh Fitch of the University of St.</span></p>
 
 <p><span class="chinese">广州天誉威斯汀酒店五月份开业。</span><span class="english">Guangzhou days Fitch Westin Hotel opened in May.</span></p>

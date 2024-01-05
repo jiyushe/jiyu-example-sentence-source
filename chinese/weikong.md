@@ -1,5 +1,7 @@
 # 惟恐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weikong.md)
+
 <p><span class="chinese">乔治惟恐失去他的财产。</span><span class="english">George is jealous of his possessions.</span></p>
 
 <p><span class="chinese">我关上窗户惟恐下雨。</span><span class="english">I closed the windows lest it should rain.</span></p>

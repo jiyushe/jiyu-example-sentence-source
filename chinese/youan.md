@@ -1,5 +1,7 @@
 # 幽暗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youan.md)
+
 <p><span class="chinese">这就是幽暗地域。</span><span class="english">This is the Underdark.</span></p>
 
 <p><span class="chinese">煤气灯投下一片片幽暗的光。</span><span class="english">Gaslights cast a shadowy glow.</span></p>

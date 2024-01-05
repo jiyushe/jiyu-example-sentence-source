@@ -1,5 +1,7 @@
 # bha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bha.md)
+
 <p><span class="chinese">这口井的钻具结构是什么？</span><span class="english">Whet is the BHA of this well.</span></p>
 
 <p><span class="chinese">接大钻具是我们来日诰日的作事。大型钻井机。</span><span class="english">To pick up BHA is our work tomorrow.</span></p>

@@ -1,5 +1,7 @@
 # 闭卷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bijuan.md)
+
 <p><span class="chinese">我的可是闭卷考呢。</span><span class="english">Mine is closed-book.</span></p>
 
 <p><span class="chinese">有书闭卷不阅读，你知道教育。无异是一块木头。</span><span class="english">A book that remains shut is but a block.</span></p>

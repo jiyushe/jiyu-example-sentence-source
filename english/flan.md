@@ -1,5 +1,7 @@
 # flan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flan.md)
+
 <p><span class="chinese">想起来了，一个果馅饼。</span><span class="english">That's it—a flan.</span></p>
 
 <p><span class="chinese">再吃一点果馅饼。</span><span class="english">Have some more flan.</span></p>

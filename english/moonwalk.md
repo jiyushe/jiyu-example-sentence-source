@@ -1,5 +1,7 @@
 # moonwalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moonwalk.md)
+
 <p><span class="chinese">他在1987年创作了“月球漫步1号”。</span><span class="english">He produced "Moonwalk 1" in 1987.</span></p>
 
 <p><span class="chinese">他制作的一九八七年“月球漫步1”。</span><span class="english">He produced "Moonwalk 1" in nineteen eighty-seven.</span></p>

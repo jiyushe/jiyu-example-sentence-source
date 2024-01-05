@@ -1,5 +1,7 @@
 # forbearing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forbearing.md)
+
 <p><span class="chinese">请有一颗宽容的心。</span><span class="english">Please have a forbearing heart.</span></p>
 
 <p><span class="chinese">隐忍型的父亲形象。</span><span class="english">Second, the forbearing father image.</span></p>

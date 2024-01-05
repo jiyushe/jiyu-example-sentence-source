@@ -1,5 +1,7 @@
 # owl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/owl.md)
+
 <p><span class="chinese">我是个熬夜的人。</span><span class="english">I'm a night owl.</span></p>
 
 <p><span class="chinese">这只猫头鹰真小。</span><span class="english">This owl is small.</span></p>

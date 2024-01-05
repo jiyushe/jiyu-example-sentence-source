@@ -1,5 +1,7 @@
 # 青山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshan.md)
+
 <p><span class="chinese">走在英格兰的青山上？</span><span class="english">Walk upon England's mountain green?</span></p>
 
 <p><span class="chinese">有生命，就有希望。/留得青山在，不怕没些烧。</span><span class="english">Where there is life, there is hope.</span></p>

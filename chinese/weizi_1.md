@@ -1,5 +1,7 @@
 # 围子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizi_1.md)
+
 <p><span class="chinese">其次，进行机器人外围子功能模块的研究。</span><span class="english">Second, perform research on sub-function modules.</span></p>
 
 <p><span class="chinese">建立了还原徐家围子断陷深层地层水化学性质的方法。</span><span class="english">The method was based to deoxidize the chemical characters.</span></p>

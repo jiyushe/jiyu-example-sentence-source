@@ -1,5 +1,7 @@
 # destruction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destruction.md)
+
 <p><span class="chinese">他受诱惑而走向毁灭。</span><span class="english">He was lured to destruction.</span></p>
 
 <p><span class="chinese">消灭所有入侵者！</span><span class="english">Destruction to all trespassers!</span></p>

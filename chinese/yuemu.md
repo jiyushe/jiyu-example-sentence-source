@@ -1,5 +1,7 @@
 # 岳母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuemu.md)
+
 <p><span class="chinese">还有我的岳父岳母。</span><span class="english">And my mother-in-law and father-in-law.</span></p>
 
 <p><span class="chinese">我的岳母是自然死亡的。</span><span class="english">My mother-in-law died of natural causes.</span></p>

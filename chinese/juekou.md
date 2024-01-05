@@ -1,5 +1,7 @@
 # 决口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juekou.md)
+
 <p><span class="chinese">我们得到到消息说大坝决口了。</span><span class="english">We got the news that the dam burst.</span></p>
 
 <p><span class="chinese">堤坝决口，淹没了他们的村庄。</span><span class="english">A dam burst and flooded their villages.</span></p>

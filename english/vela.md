@@ -1,5 +1,7 @@
 # vela
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vela.md)
+
 <p><span class="chinese">没有船帆座，没有猎户座。</span><span class="english">No Vela no Orion.</span></p>
 
 <p><span class="chinese">贝拉被租借在西班牙的俱乐部。</span><span class="english">Um but Vela turned up in Spain.</span></p>

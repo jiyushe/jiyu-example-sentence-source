@@ -1,5 +1,7 @@
 # 死敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sidi.md)
+
 <p><span class="chinese">亚当斯和我是不共戴天的死敌。</span><span class="english">Adams and I were deadly enemies.</span></p>
 
 <p><span class="chinese">这一卖国贼营垒是中国人民的死敌。</span><span class="english">The traitors were spat on and cursed by the people.</span></p>

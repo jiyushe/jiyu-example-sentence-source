@@ -1,5 +1,7 @@
 # citadel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citadel.md)
+
 <p><span class="chinese">城堡里布满了诸多斗武士精兵。</span><span class="english">And many a warrior-peopled citadel.</span></p>
 
 <p><span class="chinese">或哪个静静的堡寨山村。</span><span class="english">Or mountain-built with peaceful citadel.</span></p>

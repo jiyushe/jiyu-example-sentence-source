@@ -1,5 +1,7 @@
 # cheers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheers.md)
+
 <p><span class="chinese">喝彩声逐渐停了下来。</span><span class="english">The cheers died away.</span></p>
 
 <p><span class="chinese">为啤酒干三杯！</span><span class="english">Three cheers for beer!</span></p>

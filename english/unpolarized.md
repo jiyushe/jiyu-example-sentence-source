@@ -1,5 +1,7 @@
 # unpolarized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpolarized.md)
+
 <p><span class="chinese">他停止偏振面板看着她。</span><span class="english">He unpolarized his faceplate and looked at her.</span></p>
 
 <p><span class="chinese">用非偏振共也可以产生自泵浦相位共轭效应。</span><span class="english">The self-pumped phase-conjugation effect by unpolarized light has been observed.</span></p>

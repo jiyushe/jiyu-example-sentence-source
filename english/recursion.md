@@ -1,5 +1,7 @@
 # recursion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recursion.md)
+
 <p><span class="chinese">返回递归中的所有行。</span><span class="english">Return all rows from the recursion</span></p>
 
 <p><span class="chinese">还要注意向左递归的使用。</span><span class="english">Note also the use of left recursion.</span></p>

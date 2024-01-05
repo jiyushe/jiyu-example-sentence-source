@@ -1,5 +1,7 @@
 # farmer 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farmer.md)
+
 <p><span class="chinese">农民画啊。</span><span class="english">A farmer painting.</span></p>
 
 <p><span class="chinese">陈芳是一个农民。</span><span class="english">Chen Fang is a farmer.</span></p>

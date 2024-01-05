@@ -1,5 +1,7 @@
 # distinctness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distinctness.md)
+
 <p><span class="chinese">所有这些对于一个睡着的人来说不会显得如此清晰。</span><span class="english">All this would not happen with such distinctness to someone asleep.</span></p>
 
 <p><span class="chinese">对一般常用的几种轴测图的明显性作了说明。</span><span class="english">It explains the distinctness of several common axonometric drawing.</span></p>

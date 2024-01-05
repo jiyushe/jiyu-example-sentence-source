@@ -1,5 +1,7 @@
 # 冰镇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzhen.md)
+
 <p><span class="chinese">她要了一份冰镇橘汁。</span><span class="english">She ask for an orange sorbed.</span></p>
 
 <p><span class="chinese">蔓越橘和鲜橙汁调配的鸡尾酒，凉杯装冰镇自来水加柠檬。</span><span class="english">Cranberry and fresh orange cocktail</span></p>

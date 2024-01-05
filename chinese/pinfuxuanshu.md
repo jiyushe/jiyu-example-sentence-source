@@ -1,5 +1,7 @@
 # 贫富悬殊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinfuxuanshu.md)
+
 <p><span class="chinese">澳门是富裕的城市，但贫富悬殊严重。</span><span class="english">Macau is affluent but not for all people.</span></p>
 
 <p><span class="chinese">中国城市教会的一大问题是贫富悬殊及其产生的张力。</span><span class="english">In third world countries the gap between the rich and the poor is very big.</span></p>

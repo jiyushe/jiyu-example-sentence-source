@@ -1,5 +1,7 @@
 # itch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/itch.md)
+
 <p><span class="chinese">我浑身刺痒。</span><span class="english">I itch all over.</span></p>
 
 <p><span class="chinese">拿普通的痒来说吧。</span><span class="english">Take the common itch.</span></p>

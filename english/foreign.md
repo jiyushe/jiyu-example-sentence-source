@@ -1,5 +1,7 @@
 # foreign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreign.md)
+
 <p><span class="chinese">联系涉外单位。</span><span class="english">Contact foreign units.</span></p>
 
 <p><span class="chinese">我异域的野玫瑰。</span><span class="english">My rose of foreign genre.</span></p>

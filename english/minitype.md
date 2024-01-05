@@ -1,5 +1,7 @@
 # minitype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minitype.md)
+
 <p><span class="chinese">小型水库分布区域广，且多为均质土坝。</span><span class="english">Minitype reservoir distributes area being a homogeneity earth dam broad, and many.</span></p>
 
 <p><span class="chinese">力矩小，重量轻，规格多，适用于小型机械。</span><span class="english">Small torque, weight light, various specifications, suitable for minitype equipment.</span></p>

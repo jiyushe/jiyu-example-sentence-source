@@ -1,5 +1,7 @@
 # 血气方刚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueqifanggang.md)
+
 <p><span class="chinese">他们都是年轻和血气方刚的球员，但他们必须互相理解。</span><span class="english">They are both young and nervous but they have to understand.</span></p>
 
 <p><span class="chinese">但在这里的每样事物都召唤孤独和血气方刚的年轻人。</span><span class="english">But everything here calls for solitude and the blood of young men.</span></p>

@@ -1,5 +1,7 @@
 # appraise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appraise.md)
+
 <p><span class="chinese">老师总是会去评价学生的。</span><span class="english">Teachers always appraise their students.</span></p>
 
 <p><span class="chinese">他们试图评价弥尔顿的诗。</span><span class="english">They tried to appraise the poet-ry of John Milton.</span></p>

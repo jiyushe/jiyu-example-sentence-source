@@ -1,5 +1,7 @@
 # dart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dart.md)
+
 <p><span class="chinese">该飞镖不能养活自己。</span><span class="english">The dart cannot feed itself.</span></p>
 
 <p><span class="chinese">用一个洞眼标省尖点。</span><span class="english">Mark the dart ends with a hole.</span></p>

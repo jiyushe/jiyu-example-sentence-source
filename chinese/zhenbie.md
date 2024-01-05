@@ -1,5 +1,7 @@
 # 甄别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenbie.md)
+
 <p><span class="chinese">同位素甄别是不可能的。</span><span class="english">Isotopic discrimination is not likely.</span></p>
 
 <p><span class="chinese">那么，甄别，使更多的资源贫乏地区的意义吗？</span><span class="english">So does the screening make sense in more resource-poor areas?</span></p>

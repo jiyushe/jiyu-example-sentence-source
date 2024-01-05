@@ -1,5 +1,7 @@
 # lock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lock.md)
+
 <p><span class="chinese">锁紧大钩销子。</span><span class="english">Lock the hook pin.</span></p>
 
 <p><span class="chinese">有锁钥可以上锁吗？</span><span class="english">Does it have a lock?</span></p>

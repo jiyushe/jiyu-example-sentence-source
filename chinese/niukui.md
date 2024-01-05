@@ -1,5 +1,7 @@
 # 扭亏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niukui.md)
+
 <p><span class="chinese">介绍了大同机车厂在扭亏脱困工作方面的具体做法。</span><span class="english">This paper introduces Da Tong Rolling Stock Plant's specific method for making up deficits.</span></p>
 
 <p><span class="chinese">本文对亏损公司在扭亏年度进行异常的关联交易进行研究。</span><span class="english">What motives have loss companies to deal with abnormal related transaction in the profit year?</span></p>

@@ -1,5 +1,7 @@
 # dop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dop.md)
+
 <p><span class="chinese">出口引水员下船?。</span><span class="english">DOP Dropping?outward pilot?</span></p>
 
 <p><span class="chinese">到了那儿记住给我们来封信。</span><span class="english">Remember to dop us a line when you arrive there.</span></p>

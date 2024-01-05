@@ -1,5 +1,7 @@
 # reign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reign.md)
+
 <p><span class="chinese">非人人生来都是作帝王的。</span><span class="english">But all men are not born to reign.</span></p>
 
 <p><span class="chinese">老国王在位的时候，他婆娘</span><span class="english">His wife was in the old king’s reign</span></p>

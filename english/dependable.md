@@ -1,5 +1,7 @@
 # dependable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dependable.md)
+
 <p><span class="chinese">他办事四平八稳。</span><span class="english">He is dependable in work.</span></p>
 
 <p><span class="chinese">她是一位可靠的伴侣。</span><span class="english">She is a dependable companion.</span></p>

@@ -1,5 +1,7 @@
 # enrol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enrol.md)
+
 <p><span class="chinese">你必须在八月底前注册。</span><span class="english">You need to enrol before the end of August.</span></p>
 
 <p><span class="chinese">为新生注册花了三天时间。</span><span class="english">It took three days to enrol the new students.</span></p>

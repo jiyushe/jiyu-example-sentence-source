@@ -1,5 +1,7 @@
 # recruit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recruit.md)
+
 <p><span class="chinese">他冲我招招手。</span><span class="english">He rushed me recruit waved.</span></p>
 
 <p><span class="chinese">你如何征募一个部队？</span><span class="english">How do you recruit an army?</span></p>

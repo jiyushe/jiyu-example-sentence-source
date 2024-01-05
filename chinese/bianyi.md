@@ -1,5 +1,7 @@
 # 编译
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianyi.md)
+
 <p><span class="chinese">嘿，编译通过了!</span><span class="english">Hey! It compiles!</span></p>
 
 <p><span class="chinese">它编译成功了。</span><span class="english">It compiles okay.</span></p>

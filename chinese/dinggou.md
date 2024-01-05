@@ -1,5 +1,7 @@
 # 定购
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dinggou.md)
+
 <p><span class="chinese">已定购新鲜椅垫。</span><span class="english">Fresh seat cushion on order.</span></p>
 
 <p><span class="chinese">我需要图书，我定购图书。</span><span class="english">I need books. I order books.</span></p>

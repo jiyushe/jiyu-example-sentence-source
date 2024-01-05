@@ -1,5 +1,7 @@
 # management
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/management.md)
+
 <p><span class="chinese">系统管理。</span><span class="english">System management.</span></p>
 
 <p><span class="chinese">物管说不行！</span><span class="english">Management said NO!</span></p>

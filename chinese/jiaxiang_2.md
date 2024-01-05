@@ -1,5 +1,7 @@
 # 假象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaxiang_2.md)
+
 <p><span class="chinese">安德森说道，“那其实是一种假象。</span><span class="english">That's really bogus.</span></p>
 
 <p><span class="chinese">我觉得是一种假象。</span><span class="english">I think it is a feint.</span></p>

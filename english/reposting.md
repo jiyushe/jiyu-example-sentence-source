@@ -1,5 +1,7 @@
 # reposting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reposting.md)
+
 <p><span class="chinese">未经许可﹐不得转载！</span><span class="english">No Reposting elsewhere without permission!</span></p>
 
 <p><span class="chinese">于是我在进行了一些更新后，又在此重新发布。</span><span class="english">So I’m reposting here, with a few updates.</span></p>

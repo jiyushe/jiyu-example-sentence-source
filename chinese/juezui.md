@@ -1,5 +1,7 @@
 # 噘嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juezui.md)
+
 <p><span class="chinese">噘嘴是非常性感的。</span><span class="english">The pout is very sexual. To pout say “blue.”</span></p>
 
 <p><span class="chinese">白求恩放开了董的马，噘了噘嘴。</span><span class="english">Bethune released Tung's horse and made a wry mouth.</span></p>

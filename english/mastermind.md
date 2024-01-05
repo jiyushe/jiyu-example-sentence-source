@@ -1,5 +1,7 @@
 # mastermind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mastermind.md)
+
 <p><span class="chinese">三个臭皮匠，顶个诸葛亮。</span><span class="english">Three cobblers equal Zuge Liang, the mastermind.</span></p>
 
 <p><span class="chinese">经常和一些志趣相投的人聚聚。</span><span class="english">Get together often with like-minded people – see Mastermind.</span></p>

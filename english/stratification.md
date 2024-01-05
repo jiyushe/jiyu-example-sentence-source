@@ -1,5 +1,7 @@
 # stratification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratification.md)
+
 <p><span class="chinese">层积处理对胚根的生长有利。</span><span class="english">Stratification was good for radicle growth.</span></p>
 
 <p><span class="chinese">天然地层大多数情况下都是成层分布的。</span><span class="english">Natural stratum is distributed mostly in stratification.</span></p>

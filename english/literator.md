@@ -1,5 +1,7 @@
 # literator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/literator.md)
+
 <p><span class="chinese">一看就知道是一个文人，喜欢运动，却不善言谈。</span><span class="english">An exact literator who likes sport but not so talkative.</span></p>
 
 <p><span class="chinese">我在这里看到一个传统中国文化人的境界。</span><span class="english">I can see the "realm" of a traditional Chinese literator.</span></p>

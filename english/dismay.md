@@ -1,5 +1,7 @@
 # dismay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismay.md)
+
 <p><span class="chinese">灵魂？还是颓靡？</span><span class="english">Your soul? or your dismay?</span></p>
 
 <p><span class="chinese">这将使环保组织失望。</span><span class="english">This will dismay green groups.</span></p>

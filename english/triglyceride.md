@@ -1,5 +1,7 @@
 # triglyceride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triglyceride.md)
+
 <p><span class="chinese">甘油三酯高胆固醇高是什么原因引起的？</span><span class="english">Is triglyceride high cholesterol high what reason is caused?</span></p>
 
 <p><span class="chinese">性别、年龄、血糖、甘油三脂与抑郁有关。</span><span class="english">Sex, age, blood glucose and triglyceride are related with depression.</span></p>

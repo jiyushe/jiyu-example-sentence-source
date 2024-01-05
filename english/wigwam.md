@@ -1,5 +1,7 @@
 # wigwam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wigwam.md)
+
 <p><span class="chinese">马力冲出了棚屋。</span><span class="english">Mary ran out of the wigwam.</span></p>
 
 <p><span class="chinese">杜威先生和杜威太太有一个小棚屋。</span><span class="english">Mr Dewey and Mrs Dewey have a small wigwam.</span></p>

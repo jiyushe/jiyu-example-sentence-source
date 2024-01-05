@@ -1,5 +1,7 @@
 # 解析几何
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiexijihe.md)
+
 <p><span class="chinese">给出部分源程序并阐述了自制完成的解析几何CAI系统。</span><span class="english">Besides, some source programs and analytic geometry CAI system are offered.</span></p>
 
 <p><span class="chinese">圆锥曲线是高中生解析几何学习中的一个难点。</span><span class="english">Conics is a difficult section in the Analytic Geometry for senior high school students.</span></p>

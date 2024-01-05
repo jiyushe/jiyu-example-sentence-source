@@ -1,5 +1,7 @@
 # 枣子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaozi_1.md)
+
 <p><span class="chinese">你也可以用枣子泡茶。</span><span class="english">You can make tea with jujubes, too.</span></p>
 
 <p><span class="chinese">我们摇树时，枣子纷纷落下。</span><span class="english">Dates showered down when we shook the tree.</span></p>

@@ -1,5 +1,7 @@
 # 习俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xisu.md)
+
 <p><span class="chinese">打开资料夹与习俗亚洲浆纸。</span><span class="english">Open folders with custom app.</span></p>
 
 <p><span class="chinese">三道茶是白族的一种饮茶习俗。</span><span class="english">It's a Bai ethnic tea tradition.</span></p>

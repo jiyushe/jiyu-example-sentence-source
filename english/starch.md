@@ -1,5 +1,7 @@
 # starch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starch.md)
+
 <p><span class="chinese">是的，衬衫不上浆。</span><span class="english">Yes, no starch for shirts.</span></p>
 
 <p><span class="chinese">新鲜火腿肉，水，玉米淀粉。</span><span class="english">Fresh Ham, Water, Corn Starch.</span></p>

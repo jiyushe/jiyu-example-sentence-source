@@ -1,5 +1,7 @@
 # coliseum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coliseum.md)
+
 <p><span class="chinese">我看到了圆形大剧场。</span><span class="english">I saw the Coliseum.</span></p>
 
 <p><span class="chinese">鱆人竞技场对你造成1点伤害。</span><span class="english">Cephalid Coliseum deals 1 damage to you.</span></p>

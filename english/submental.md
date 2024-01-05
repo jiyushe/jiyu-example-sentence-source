@@ -1,5 +1,7 @@
 # submental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submental.md)
+
 <p><span class="chinese">结果术后8例颏下岛状瓣成活。</span><span class="english">Results The submental island flap survived in 8 cases.</span></p>
 
 <p><span class="chinese">目的评价颏下岛状皮瓣的临床应用效果。</span><span class="english">Objective To evaluate the clinical effect of submental island flap.</span></p>

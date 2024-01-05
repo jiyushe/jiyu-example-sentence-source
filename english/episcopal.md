@@ -1,5 +1,7 @@
 # episcopal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/episcopal.md)
+
 <p><span class="chinese">婚礼仪式将在圣公会教堂举行的。</span><span class="english">The wedding will be at the Episcopal Church.</span></p>
 
 <p><span class="chinese">这密封Cutie的决定去主教。</span><span class="english">That sealed Cutié's decision to go Episcopal.</span></p>

@@ -1,5 +1,7 @@
 # 在即
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiji.md)
+
 <p><span class="chinese">我感到有种改变在即。</span><span class="english">I feel a change comin' on.</span></p>
 
 <p><span class="chinese">乔迁在即新家入住应注意哪些问题？</span><span class="english">On the move soon to be home to the attention of what?</span></p>

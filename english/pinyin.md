@@ -1,5 +1,7 @@
 # pinyin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinyin.md)
+
 <p><span class="chinese">站名用拼音标注。</span><span class="english">Station names are marked in pinyin.</span></p>
 
 <p><span class="chinese">是从拼音开始学起吗？</span><span class="english">Are you starting your learning from Pinyin?</span></p>

@@ -1,5 +1,7 @@
 # modernity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modernity.md)
+
 <p><span class="chinese">后现代是现代的一部分吗?。</span><span class="english">Is Post- Modernity a Part of Modernity?</span></p>
 
 <p><span class="chinese">这里已经不再具有不言而喻的现代性。</span><span class="english">Modernity is no longer self-evidently here.</span></p>

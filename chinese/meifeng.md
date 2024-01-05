@@ -1,5 +1,7 @@
 # 每逢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meifeng.md)
+
 <p><span class="chinese">博物馆每逢星期一闭馆。</span><span class="english">Oh, the museum is closed.</span></p>
 
 <p><span class="chinese">每逢星期天他总睡懒觉。</span><span class="english">Sundays he would sleep late.</span></p>

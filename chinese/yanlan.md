@@ -1,5 +1,7 @@
 # 延揽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanlan.md)
+
 <p><span class="chinese">是否达到延揽预期目标？</span><span class="english">Has the expected goal of recruitment been achieved?</span></p>
 
 <p><span class="chinese">在极为庞大的规模上延揽和组织科学家和技术人员。</span><span class="english">Scientists and technicians were engaged and organised on a very large scale.</span></p>

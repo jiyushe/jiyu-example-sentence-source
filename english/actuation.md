@@ -1,5 +1,7 @@
 # actuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actuation.md)
+
 <p><span class="chinese">持续改善实战经验和冲动。</span><span class="english">Improve the practices and actuation.</span></p>
 
 <p><span class="chinese">怎么克制自己冲动的情绪？</span><span class="english">How to restrain oneself actuation mood?</span></p>

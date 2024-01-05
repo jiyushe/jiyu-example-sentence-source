@@ -1,5 +1,7 @@
 # 压倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yadao.md)
+
 <p><span class="chinese">他以压倒优势当选。</span><span class="english">He swept in the election.</span></p>
 
 <p><span class="chinese">她大声叫喊，压倒了管乐队。</span><span class="english">She's yelling to beat the band.</span></p>

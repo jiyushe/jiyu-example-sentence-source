@@ -1,5 +1,7 @@
 # 子囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zinang.md)
+
 <p><span class="chinese">这个子囊看起来像一个单一的细胞。</span><span class="english">The ascus looks like a single cell.</span></p>
 
 <p><span class="chinese">子囊群形成果实体。</span><span class="english">Groups of asci form fruiting bodies.</span></p>

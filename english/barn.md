@@ -1,5 +1,7 @@
 # barn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barn.md)
+
 <p><span class="chinese">风掀掉了谷仓的顶。</span><span class="english">The wind unroofed the barn.</span></p>
 
 <p><span class="chinese">连畜棚都井然有序。</span><span class="english">Even the barn was shipshape.</span></p>

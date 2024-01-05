@@ -1,5 +1,7 @@
 # 中性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxing_2.md)
+
 <p><span class="chinese">科学是价值中性的吗?。</span><span class="english">Value-Neutral Science Is?</span></p>
 
 <p><span class="chinese">科学是价值中性的吗?。</span><span class="english">Is Science Value- neutral?</span></p>

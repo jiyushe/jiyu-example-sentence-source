@@ -1,5 +1,7 @@
 # ctt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ctt.md)
+
 <p><span class="chinese">结论简化的CTT检查技术简单易行，结果可靠。</span><span class="english">Conclusion The technique to measure CTT is simple, convenient and reliable.</span></p>
 
 <p><span class="chinese">进一步研究发现，在对测验结果进行分析时，IRT方法比CTT方法更为有效。</span><span class="english">Furthermore, it addressed that the IRT is more effective in analyzing the personality tests' results than the CTT.</span></p>

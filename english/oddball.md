@@ -1,5 +1,7 @@
 # oddball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oddball.md)
+
 <p><span class="chinese">还有一个古怪的想法也同样有趣。</span><span class="english">One more oddball idea is equally interesting.</span></p>
 
 <p><span class="chinese">很奇特的，古怪的故事会使内容更具吸引力。</span><span class="english">Quirky, oddball stories make any content more compelling.</span></p>

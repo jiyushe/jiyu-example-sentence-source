@@ -1,5 +1,7 @@
 # 本家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benjia.md)
+
 <p><span class="chinese">他住在本家附近。</span><span class="english">He lives near Ben.</span></p>
 
 <p><span class="chinese">而现在，拉拉和西本家住在一起，过着像是真正国王的生活。</span><span class="english">And this king penguin is really living like a king.</span></p>

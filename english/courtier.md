@@ -1,5 +1,7 @@
 # courtier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courtier.md)
+
 <p><span class="chinese">他是一个圆滑的朝臣。</span><span class="english">He was an adroit courtier.</span></p>
 
 <p><span class="chinese">不要相信谄媚者对你说的话。</span><span class="english">Don't believe what a courtier tells you.</span></p>

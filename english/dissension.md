@@ -1,5 +1,7 @@
 # dissension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissension.md)
+
 <p><span class="chinese">部分的原因在于内部不同意。</span><span class="english">Part of the answer is internal dissension.</span></p>
 
 <p><span class="chinese">这件事会破坏团结，制造纠纷。</span><span class="english">It undermines cohesion and creates dissension.</span></p>

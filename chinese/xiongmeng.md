@@ -1,5 +1,7 @@
 # 凶猛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongmeng.md)
+
 <p><span class="chinese">别太凶猛地拦截我。</span><span class="english">Don't tackle me too hard.</span></p>
 
 <p><span class="chinese">她凶猛地向他扑来。</span><span class="english">She rushed fiercely toward him.</span></p>

@@ -1,5 +1,7 @@
 # 墓场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muchang.md)
+
 <p><span class="chinese">主线剧情﹐逃出荒岛的墓场。</span><span class="english">Escape from the graveyard of terror.</span></p>
 
 <p><span class="chinese">永恒墓场的鲍特维说,“这也是他们的一种延伸,就像他们的班级戒指。”</span><span class="english">It’s an extension of them, like their class ring.</span></p>

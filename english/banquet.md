@@ -1,5 +1,7 @@
 # banquet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banquet.md)
+
 <p><span class="chinese">她在宴会上作招待员。</span><span class="english">She ushered at the banquet.</span></p>
 
 <p><span class="chinese">他在家中摆了一桌流水席。</span><span class="english">He held an open banquet at home.</span></p>

@@ -1,5 +1,7 @@
 # 本钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benqian.md)
+
 <p><span class="chinese">钱生钱，需要本钱。</span><span class="english">It takes money to make money.</span></p>
 
 <p><span class="chinese">汤姆·金的本钱是经验。</span><span class="english">King's chief asset was experience.</span></p>

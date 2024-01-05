@@ -1,5 +1,7 @@
 # 农奴主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongnuzhu.md)
+
 <p><span class="chinese">这些农奴主因而享有两种体制的好处。</span><span class="english">The overlords had the best of both worlds.</span></p>
 
 <p><span class="chinese">残忍的农奴主挖掉了农奴的眼睛。</span><span class="english">The cruel serf-owner put out the serf's eyes.</span></p>

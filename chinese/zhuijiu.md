@@ -1,5 +1,7 @@
 # 追究
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuijiu.md)
+
 <p><span class="chinese">永不言败是追究者的最佳品格。</span><span class="english">Is the best for the character.</span></p>
 
 <p><span class="chinese">我要是你的话，我就不会追究了。</span><span class="english">If I were you, I would let it go.</span></p>

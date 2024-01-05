@@ -1,5 +1,7 @@
 # homeostasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homeostasis.md)
+
 <p><span class="chinese">稳态是什么样子了HRV分析。</span><span class="english">What Homeostasis looks like on an HRV analysis.</span></p>
 
 <p><span class="chinese">体内脂质代谢的稳定依赖于SREBP的调节。</span><span class="english">So SREBPs are involved in the regulation of lipid homeostasis.</span></p>

@@ -1,5 +1,7 @@
 # deneb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deneb.md)
+
 <p><span class="chinese">牵牛星与织女和天津四相比，光亮度还是略为逊色。</span><span class="english">Altair is not as bright as Vega and Deneb.</span></p>
 
 <p><span class="chinese">天津四处于一个十字架形状的顶部。</span><span class="english">Deneb lies at the top of a cross-like figure.</span></p>

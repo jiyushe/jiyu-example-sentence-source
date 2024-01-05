@@ -1,5 +1,7 @@
 # therefor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/therefor.md)
+
 <p><span class="chinese">今天我们做的这个是可以关闭磁性的，因而它被称作电磁铁。</span><span class="english">This one can be and is therefor called an electromagnet.</span></p>
 
 <p><span class="chinese">具体办法由国务院规定。</span><span class="english">The State Council shall lay down the concrete measures therefor.</span></p>

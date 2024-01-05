@@ -1,5 +1,7 @@
 # nontoxic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nontoxic.md)
+
 <p><span class="chinese">发展了乙醇作为一种无毒的还原剂。</span><span class="english">Here, ethanol is developed to be nontoxic reductant.</span></p>
 
 <p><span class="chinese">氮仅仅是窒息剂，认为是无毒的。</span><span class="english">Nitrogen is a simple asphyxiant and considered nontoxic.</span></p>

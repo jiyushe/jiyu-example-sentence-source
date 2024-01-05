@@ -1,5 +1,7 @@
 # heartfelt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartfelt.md)
+
 <p><span class="chinese">衷心欢迎你们的到来！</span><span class="english">A heartfelt welcome to everyone!</span></p>
 
 <p><span class="chinese">真心的话语，赢得了全场的欢呼。</span><span class="english">Heartfelt words, deserving of a round applause.</span></p>

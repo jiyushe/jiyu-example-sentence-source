@@ -1,5 +1,7 @@
 # redundancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redundancy.md)
+
 <p><span class="chinese">冗余是不可避免的。</span><span class="english">Redundancy is inevitable.</span></p>
 
 <p><span class="chinese">垂直冗余码?。</span><span class="english">VRC? Vertical Redundancy Code?</span></p>

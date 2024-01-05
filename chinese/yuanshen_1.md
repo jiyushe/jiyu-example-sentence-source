@@ -1,5 +1,7 @@
 # 原审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanshen_1.md)
+
 <p><span class="chinese">原审法官的错误在于其法律结论。</span><span class="english">The error of the referee was in his conclusion of law.</span></p>
 
 <p><span class="chinese">“新的证据”，是指原审庭审结束后新发现的证据。</span><span class="english">"New evidence" refers to the evidence newly discovered after the conclusion of the court session of the original trial.</span></p>

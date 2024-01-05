@@ -1,5 +1,7 @@
 # mellow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mellow.md)
+
 <p><span class="chinese">梅森的声音动人心弦。</span><span class="english">Mason's voice was mellow.</span></p>
 
 <p><span class="chinese">去喝它，它是清醇的酒！</span><span class="english">Go and drink it, mellow wine!</span></p>

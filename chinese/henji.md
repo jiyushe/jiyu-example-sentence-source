@@ -1,5 +1,7 @@
 # 痕迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/henji.md)
+
 <p><span class="chinese">从层磨损的痕迹。</span><span class="english">Scuff marks from floors.</span></p>
 
 <p><span class="chinese">这条银白色的痕迹是黏液。</span><span class="english">The slivery trail is slime.</span></p>

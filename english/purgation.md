@@ -1,5 +1,7 @@
 # purgation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purgation.md)
+
 <p><span class="chinese">美是对多余的净化。</span><span class="english">Beauty is the purgation of superfluities.</span></p>
 
 <p><span class="chinese">通腑法亦即下法，为中风病急性期主要治法之一。</span><span class="english">Purgation is the main therapy for apoplexy at acute stage.</span></p>

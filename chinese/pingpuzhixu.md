@@ -1,5 +1,7 @@
 # 平铺直叙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingpuzhixu.md)
+
 <p><span class="chinese">她把那消息平铺直叙地告诉了我们。</span><span class="english">She told us the news in a very, matter-of-fact way.</span></p>
 
 <p><span class="chinese">生活也是，不要平铺直叙，平淡无奇。</span><span class="english">Life is not straightforward, nothing out of the ordinary.</span></p>

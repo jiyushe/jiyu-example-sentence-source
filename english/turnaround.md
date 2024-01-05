@@ -1,5 +1,7 @@
 # turnaround
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turnaround.md)
+
 <p><span class="chinese">这是一个巨大的转变。</span><span class="english">That's a huge turnaround.</span></p>
 
 <p><span class="chinese">我们给予了一次迅速的转变。</span><span class="english">We give a rapid turnaround.</span></p>

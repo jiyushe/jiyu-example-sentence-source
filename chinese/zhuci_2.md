@@ -1,5 +1,7 @@
 # 助词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuci_2.md)
+
 <p><span class="chinese">在古代汉语词尾研究中，“助词”、“词尾”、“词缀”概念混淆。</span><span class="english">There was no concept of termination in ancient Chinese.</span></p>
 
 <p><span class="chinese">虚词研究包括介词、助词、连词。</span><span class="english">The function word includes preposition, auxiliary, conjunction.</span></p>

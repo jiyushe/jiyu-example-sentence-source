@@ -1,5 +1,7 @@
 # 龙须草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longxucao.md)
+
 <p><span class="chinese">结果表明，龙须草生殖方式为无融合生殖的体细胞无孢子生殖。</span><span class="english">The results showed that the mode of reproduction conforms somatic apospory.</span></p>
 
 <p><span class="chinese">采用野外观测采样及室内测试方法，研究了荒坡地种植龙须草的生态效益。</span><span class="english">The paper studied on ecological benefit of Eulaliopsis binata grown in slope wasteland.</span></p>

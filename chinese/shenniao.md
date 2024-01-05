@@ -1,5 +1,7 @@
 # 神鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenniao.md)
+
 <p><span class="chinese">让您走进一个失落已久的“太阳神鸟王国”。</span><span class="english">Make you enjoy a long-lost "kingdom of Sunbird deity".</span></p>
 
 <p><span class="chinese">凤是中国古代传说中的神鸟。</span><span class="english">The phoenix is a divine bird in Chinese ancient legend.</span></p>

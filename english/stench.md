@@ -1,5 +1,7 @@
 # stench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stench.md)
+
 <p><span class="chinese">到处都是尸体散发的臭气。</span><span class="english">The stench of death is everywhere.</span></p>
 
 <p><span class="chinese">这里的空气里弥漫着脏水的恶臭味。</span><span class="english">The air is thick with the stench of sewage.</span></p>

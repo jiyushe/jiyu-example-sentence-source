@@ -1,5 +1,7 @@
 # nile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nile.md)
+
 <p><span class="chinese">他们乘船顺尼罗河而下。</span><span class="english">They boated down the Nile.</span></p>
 
 <p><span class="chinese">晨曦朦胧，荡舟尼罗河。</span><span class="english">Boating in the twilight of Nile.</span></p>

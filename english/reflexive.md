@@ -1,5 +1,7 @@
 # reflexive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflexive.md)
+
 <p><span class="chinese">甚至连种族歧视现在也是自反性的。</span><span class="english">Even racism is now reflexive.</span></p>
 
 <p><span class="chinese">人类的行为不光只有反射</span><span class="english">Humans are not limited to reflexive action.</span></p>

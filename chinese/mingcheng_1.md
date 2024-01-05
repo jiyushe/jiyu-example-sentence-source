@@ -1,5 +1,7 @@
 # 名称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingcheng_1.md)
+
 <p><span class="chinese">名称易得易用。</span><span class="english">Names are cheap.</span></p>
 
 <p><span class="chinese">学校名称？</span><span class="english">Name of film school?</span></p>

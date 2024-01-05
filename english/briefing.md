@@ -1,5 +1,7 @@
 # briefing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/briefing.md)
+
 <p><span class="chinese">一个多层大楼的一层或一间。</span><span class="english">A high-level corporate briefing.</span></p>
 
 <p><span class="chinese">您介绍的这张美丽的相片。</span><span class="english">Your briefing this beautiful photographs.</span></p>

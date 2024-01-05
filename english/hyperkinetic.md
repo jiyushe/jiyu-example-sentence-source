@@ -1,5 +1,7 @@
 # hyperkinetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperkinetic.md)
+
 <p><span class="chinese">结论言语训练可以改善重度痉挛型构音障碍患者的症状。</span><span class="english">ConclusionSpeech therapy can improve the symptom of severe hyperkinetic dysarthria.</span></p>
 
 <p><span class="chinese">目的观察言语训练对于重度痉挛型构音障碍效果分析。</span><span class="english">Objective To analyze the effect of speech therapy on severe hyperkinetic dysarthria.</span></p>

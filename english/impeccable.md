@@ -1,5 +1,7 @@
 # impeccable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impeccable.md)
+
 <p><span class="chinese">的确，洪堡的遣词用字是无可指责的。</span><span class="english">Yes, Humboldt's words were impeccable.</span></p>
 
 <p><span class="chinese">位置也不错，服务更是没得挑。</span><span class="english">The location is good and the service is impeccable.</span></p>

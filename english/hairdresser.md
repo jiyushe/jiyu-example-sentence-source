@@ -1,5 +1,7 @@
 # hairdresser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairdresser.md)
+
 <p><span class="chinese">他是一个理发师吗？</span><span class="english">Is he a hairdresser?</span></p>
 
 <p><span class="chinese">那位老理发师是高的。</span><span class="english">That old hairdresser is tall.</span></p>

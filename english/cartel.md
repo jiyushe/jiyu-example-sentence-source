@@ -1,5 +1,7 @@
 # cartel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cartel.md)
+
 <p><span class="chinese">你为巴伦奎拉组织工作多久了？</span><span class="english">How long you worked for the Barranquilla cartel?</span></p>
 
 <p><span class="chinese">墨西哥大毒枭在与海军交火中被打死。</span><span class="english">Mexican navy kills top cartel kingpin in shootout.</span></p>

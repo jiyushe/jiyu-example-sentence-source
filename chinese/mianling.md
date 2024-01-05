@@ -1,5 +1,7 @@
 # 棉铃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianling.md)
+
 <p><span class="chinese">我很在意不乌韦棉铃电影。</span><span class="english">I don't much care for Uwe Boll movies.</span></p>
 
 <p><span class="chinese">棉花在植株上作为附着在种籽上的长茸毛在棉铃里生长发育。</span><span class="english">The cotton grows on the plant as long hairs attached to the seeds inside the boll.</span></p>

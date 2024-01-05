@@ -1,5 +1,7 @@
 # 开销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaixiao.md)
+
 <p><span class="chinese">我认为他们浮报了开销。</span><span class="english">I think they padded the bill.</span></p>
 
 <p><span class="chinese">最大的开销是隐藏的。</span><span class="english">The biggest costs were hidden.</span></p>

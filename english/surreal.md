@@ -1,5 +1,7 @@
 # surreal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surreal.md)
+
 <p><span class="chinese">这场危机也制造了一些离奇的数据.</span><span class="english">The crisis was also throwing out some surreal numbers.</span></p>
 
 <p><span class="chinese">电影套，贺岁片图形和更多！</span><span class="english">Create Posters, Movie Covers, Surreal Graphics and More!</span></p>

@@ -1,5 +1,7 @@
 # 现职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhi_2.md)
+
 <p><span class="chinese">你在现职机构工作了多久?。</span><span class="english">How many years you work in this organization?</span></p>
 
 <p><span class="chinese">这项优惠同样适用于现职的后备役人员。</span><span class="english">The offer also applies to active duty reservists.</span></p>

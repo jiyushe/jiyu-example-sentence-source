@@ -1,5 +1,7 @@
 # pseudorandom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pseudorandom.md)
+
 <p><span class="chinese">计算机通常只生成伪随机数。</span><span class="english">Computers usually only generate pseudorandom numbers.</span></p>
 
 <p><span class="chinese">理论上看，该方法可以弥补随机测试和伪随机测试的缺陷。</span><span class="english">The method can remedy the defects of random and pseudorandom test.</span></p>

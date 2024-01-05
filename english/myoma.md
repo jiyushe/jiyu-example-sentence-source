@@ -1,5 +1,7 @@
 # myoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myoma.md)
+
 <p><span class="chinese">结论治疗子宫黏膜下肌瘤，宫腔镜手术是最佳选择。</span><span class="english">Hysteroscopic operation is the best choice in treating submucous myoma.</span></p>
 
 <p><span class="chinese">结论治疗粘膜下肌瘤，宫腔镜手术是最佳选择。</span><span class="english">Conclusions Hysteroscopic treatment is the first choice for submucosal myoma.</span></p>

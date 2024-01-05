@@ -1,5 +1,7 @@
 # 将错就错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangcuojiucuo.md)
+
 <p><span class="chinese">爱是一种错觉，就将错就错吧！</span><span class="english">Love is always my gift to you!</span></p>
 
 <p><span class="chinese">一辈子很短，我愿意和你将错就错。</span><span class="english">Life is very short, I am willing to go along with you.</span></p>

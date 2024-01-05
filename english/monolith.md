@@ -1,5 +1,7 @@
 # monolith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monolith.md)
+
 <p><span class="chinese">俄罗斯并非铁板一块。</span><span class="english">Russia is not a monolith.</span></p>
 
 <p><span class="chinese">他认为中国人可以像「独石」一般的行动。</span><span class="english">He thinks that Chinese people can act like a monolith.</span></p>

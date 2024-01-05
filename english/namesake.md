@@ -1,5 +1,7 @@
 # namesake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/namesake.md)
+
 <p><span class="chinese">我与你同姓。</span><span class="english">I'm your namesake.</span></p>
 
 <p><span class="chinese">和他同名的苹果，福勒苹果，至今仍有种植。</span><span class="english">His namesake apple, the Fowler apple, is still cultivated.</span></p>

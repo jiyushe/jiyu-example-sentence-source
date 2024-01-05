@@ -1,5 +1,7 @@
 # 亲历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinli.md)
+
 <p><span class="chinese">老板得卷起袖管亲历亲为。</span><span class="english">Bosses have to roll up their sleeves and work.</span></p>
 
 <p><span class="chinese">它就像个历经沧桑的老人，亲历过各种离愁别绪。</span><span class="english">It was like an old man and had seen all kinds of departure.</span></p>

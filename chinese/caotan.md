@@ -1,5 +1,7 @@
 # 草炭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caotan.md)
+
 <p><span class="chinese">总的效果是石河子草炭优于加拿大草炭。</span><span class="english">Generally Shihezi peat is better than Canada peat.</span></p>
 
 <p><span class="chinese">在草炭牧区这些排放尤其普遍。</span><span class="english">In peat pasture areas these emissions are particularly prevalent.</span></p>

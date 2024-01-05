@@ -1,5 +1,7 @@
 # upend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upend.md)
+
 <p><span class="chinese">如果你将盒子竖起来，它就可以少占些空间。</span><span class="english">If you upend the box it will take less space.</span></p>
 
 <p><span class="chinese">我们得把橱倒过来才能抬过这。</span><span class="english">We ll have to upend the cupboard to get it through the.</span></p>

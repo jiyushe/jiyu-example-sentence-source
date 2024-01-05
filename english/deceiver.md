@@ -1,5 +1,7 @@
 # deceiver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deceiver.md)
+
 <p><span class="chinese">魔鬼就是欺骗者。</span><span class="english">The devil is a deceiver.</span></p>
 
 <p><span class="chinese">那个骗子被关进监狱。</span><span class="english">The deceiver was put into prison.</span></p>

@@ -1,5 +1,7 @@
 # nutritious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutritious.md)
+
 <p><span class="chinese">孩子做营养快餐"</span><span class="english">Kids make nutritious snacks."</span></p>
 
 <p><span class="chinese">新鲜蔬菜富于营养。</span><span class="english">Fresh vegetables are very nutritious.</span></p>

@@ -1,5 +1,7 @@
 # 倾向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxiang.md)
+
 <p><span class="chinese">他倾向于和平主义。</span><span class="english">He leaned to pacifism.</span></p>
 
 <p><span class="chinese">倾向于感到罪恶感。</span><span class="english">Tends to feel guilty. 057.</span></p>

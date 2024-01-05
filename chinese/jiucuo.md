@@ -1,5 +1,7 @@
 # 纠错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiucuo.md)
+
 <p><span class="chinese">追究责任与寻求纠错的区别看起来很微妙。</span><span class="english">The distinction between blame and contribution may seem subtle.</span></p>
 
 <p><span class="chinese">鉴于它之前犯下这样的大错，其纠错进度理应受到密切监督。</span><span class="english">It's progress should be carefully watched, after such a big mistake.</span></p>

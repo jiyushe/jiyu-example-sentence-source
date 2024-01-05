@@ -1,5 +1,7 @@
 # 逼仄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bize.md)
+
 <p><span class="chinese">他们住在一个逼仄的小套间里。</span><span class="english">They live in a poky little flat.</span></p>
 
 <p><span class="chinese">大型城市或工业增长逼仄的地方小型低地。</span><span class="english">Large-scale urban or industrial growth is cramped by the small, local lowlands.</span></p>

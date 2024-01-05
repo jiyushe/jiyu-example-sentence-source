@@ -1,5 +1,7 @@
 # publication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/publication.md)
+
 <p><span class="chinese">出版物…</span><span class="english">Publication Publ.</span></p>
 
 <p><span class="chinese">刊行是毫无道理的。</span><span class="english">Such a publication was madness.</span></p>

@@ -1,5 +1,7 @@
 # 出示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushi_4.md)
+
 <p><span class="chinese">请出示您的票。</span><span class="english">Your ticket, please.</span></p>
 
 <p><span class="chinese">教师出示陈洁爸爸的图片。</span><span class="english">This is Chen Jie 's father.</span></p>

@@ -1,5 +1,7 @@
 # mafia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mafia.md)
+
 <p><span class="chinese">这是黑手党的做法</span><span class="english">It's the purpose of the mafia.</span></p>
 
 <p><span class="chinese">我们不想要战争法姆维尔或黑手党的球迷。</span><span class="english">We don t want Farmville or Mafia Wars fans.</span></p>

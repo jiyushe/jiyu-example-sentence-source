@@ -1,5 +1,7 @@
 # launcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/launcher.md)
+
 <p><span class="chinese">见识一下这种“射刃枪”吧。</span><span class="english">Enter the Blade Launcher.</span></p>
 
 <p><span class="chinese">他的目的是设法使用他已有的运载火箭。</span><span class="english">His intent was to somehow use the launcher he had.</span></p>

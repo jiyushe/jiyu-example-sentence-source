@@ -1,5 +1,7 @@
 # 拨浪鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bolanggu.md)
+
 <p><span class="chinese">来吧拨浪鼓它们的制造者。</span><span class="english">Come on rattle them bones.</span></p>
 
 <p><span class="chinese">婴儿把他的拨浪鼓扔掉了。</span><span class="english">The baby threw down its rattle.</span></p>

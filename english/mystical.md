@@ -1,5 +1,7 @@
 # mystical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mystical.md)
+
 <p><span class="chinese">伊希斯，啊，伊希斯，你这个神秘的孩子。</span><span class="english">Isis, oh, Isis, you mystical child.</span></p>
 
 <p><span class="chinese">但这个更大的神秘主义主体是什么？</span><span class="english">But, what is that larger mystical body?</span></p>

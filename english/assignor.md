@@ -1,5 +1,7 @@
 # assignor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assignor.md)
+
 <p><span class="chinese">另一方当事人可解除让与人的债务。</span><span class="english">The other party may discharge the assignor.</span></p>
 
 <p><span class="chinese">如驱动步进电机用的“硬件脉冲分配器”。</span><span class="english">Such as "Hardware Pulse Assignor" used by driving stepping motor.</span></p>

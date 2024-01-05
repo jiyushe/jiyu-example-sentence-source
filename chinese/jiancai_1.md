@@ -1,5 +1,7 @@
 # 剪裁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiancai_1.md)
+
 <p><span class="chinese">用某一风格设计或者剪裁。</span><span class="english">A suit of voguish cut.</span></p>
 
 <p><span class="chinese">剪裁很符合你的身材。</span><span class="english">The cut flatters your figure.</span></p>

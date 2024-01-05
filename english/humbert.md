@@ -1,5 +1,7 @@
 # humbert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humbert.md)
+
 <p><span class="chinese">那你们愿意和Humbert共进晚餐吗？</span><span class="english">Would you like to sit down to dinner with Humbert?</span></p>
 
 <p><span class="chinese">我们能从Humbert的主观中跳脱出来吗？</span><span class="english">Do we ever escape from the subjectivity of Humbert?</span></p>

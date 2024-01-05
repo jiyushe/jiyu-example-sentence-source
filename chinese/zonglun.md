@@ -1,5 +1,7 @@
 # 总论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonglun.md)
+
 <p><span class="chinese">一篇不错的总论。</span><span class="english">A good overall review of the field.</span></p>
 
 <p><span class="chinese">全书分为总论与分论两大部分。</span><span class="english">The book is basically divided into 2 parts.</span></p>

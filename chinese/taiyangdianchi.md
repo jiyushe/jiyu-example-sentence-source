@@ -1,5 +1,7 @@
 # 太阳电池
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangdianchi.md)
+
 <p><span class="chinese">太阳电池板可随时为电池充电。</span><span class="english">The battery is charged by a solar panel whenever possible.</span></p>
 
 <p><span class="chinese">叠层三结高效太阳电池材料的选定。</span><span class="english">The material choice of triple junction high-efficiency solar cells.</span></p>

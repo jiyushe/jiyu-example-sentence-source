@@ -1,5 +1,7 @@
 # comprehensible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comprehensible.md)
+
 <p><span class="chinese">莫名其妙的好运气，没有东西可代替。</span><span class="english">There is no substitute for in comprehensible good luck.</span></p>
 
 <p><span class="chinese">语言虽有不同，但又彼此互通。</span><span class="english">The languages are different, but mutually comprehensible.</span></p>

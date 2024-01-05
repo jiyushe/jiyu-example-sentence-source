@@ -1,5 +1,7 @@
 # 视角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijiao_3.md)
+
 <p><span class="chinese">那么，什么是最佳视角？</span><span class="english">What’s the best angle?</span></p>
 
 <p><span class="chinese">我们从肉体视角考虑。</span><span class="english">Let's consider the body view.</span></p>

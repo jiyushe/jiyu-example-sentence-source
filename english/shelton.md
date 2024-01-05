@@ -1,5 +1,7 @@
 # shelton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shelton.md)
+
 <p><span class="chinese">由于他的职业，谢尔顿知道这种声音意味着什么。</span><span class="english">Shelton knew that what he was hearing was bad.</span></p>
 
 <p><span class="chinese">谢尔顿接下来问迪伦怎么才能让他快乐呢。</span><span class="english">Shelton then asks Dylan what would make him happy.</span></p>

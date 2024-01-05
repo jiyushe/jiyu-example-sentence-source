@@ -1,5 +1,7 @@
 # effrontery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effrontery.md)
+
 <p><span class="chinese">无耻也就是可耻。</span><span class="english">Effrontery is a disgrace.</span></p>
 
 <p><span class="chinese">你为什么表现的如此放肆?。</span><span class="english">Why are you showing such effrontery?</span></p>

@@ -1,5 +1,7 @@
 # 洗煤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ximei.md)
+
 <p><span class="chinese">这种新的更轻便的机器洗煤反倒更快了。</span><span class="english">The new, lighter machine washes coal at a faster rate.</span></p>
 
 <p><span class="chinese">主要用于污泥脱水，固液分离和洗煤等。</span><span class="english">Mainly used for sludge dewatering, solid-liquid separation and coal washing, etc.</span></p>

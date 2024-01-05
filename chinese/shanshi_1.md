@@ -1,5 +1,7 @@
 # 山势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshi_1.md)
+
 <p><span class="chinese">山势崔巍。</span><span class="english">The mountains stand tall and imposing.</span></p>
 
 <p><span class="chinese">雨水都顺着山势流到了塘坳里。</span><span class="english">The rain flowed into the low-lying land.</span></p>

@@ -1,5 +1,7 @@
 # horsehair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horsehair.md)
+
 <p><span class="chinese">我们还使用马毛织品作为衣服的内衬。</span><span class="english">We also use inserts that are made out of horsehair.</span></p>
 
 <p><span class="chinese">动物粗毛或马毛的机织物。</span><span class="english">Woven fabrics of coarse animal hair or of horsehair.</span></p>

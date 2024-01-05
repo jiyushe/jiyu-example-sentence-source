@@ -1,5 +1,7 @@
 # prowl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prowl.md)
+
 <p><span class="chinese">可是现在这条巨鳄又重新回来觅食了。</span><span class="english">But the mugger is back on the prowl.</span></p>
 
 <p><span class="chinese">澳大利亚的野狗在游荡。</span><span class="english">Australia's wild dog , the dingo, is on the prowl.</span></p>

@@ -1,5 +1,7 @@
 # revue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revue.md)
+
 <p><span class="chinese">你不喜欢这出戏吗？</span><span class="english">You're not enjoying the revue?</span></p>
 
 <p><span class="chinese">在2010年一月初，让我们共同见证你的进步。</span><span class="english">We will revue your progress in early January 2010.</span></p>

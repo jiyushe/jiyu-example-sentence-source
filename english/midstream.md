@@ -1,5 +1,7 @@
 # midstream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midstream.md)
+
 <p><span class="chinese">不要中途换马。</span><span class="english">Don't change horses in midstream.</span></p>
 
 <p><span class="chinese">您的目标有没有中途变卦？</span><span class="english">Did your goals change in midstream ?</span></p>

@@ -1,5 +1,7 @@
 # ballerina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballerina.md)
+
 <p><span class="chinese">他对那位芭蕾舞女的热情很快就冷下来了。</span><span class="english">His passion for the ballerina soon congealed.</span></p>
 
 <p><span class="chinese">服务生，我愿意为那位芭蕾舞女买一杯酒！</span><span class="english">Bartender, I want to buy that ballerina a drink!</span></p>

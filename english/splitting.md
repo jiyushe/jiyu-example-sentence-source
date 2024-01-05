@@ -1,5 +1,7 @@
 # splitting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splitting.md)
+
 <p><span class="chinese">我头痛欲裂。</span><span class="english">I have a splitting headache.</span></p>
 
 <p><span class="chinese">我头痛得快要裂开似的。</span><span class="english">I have a splitting headache.</span></p>

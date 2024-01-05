@@ -1,5 +1,7 @@
 # 手写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxie.md)
+
 <p><span class="chinese">手写多些信和咭给别人。</span><span class="english">Handwrite more letters or cards.</span></p>
 
 <p><span class="chinese">信是英文手写的。</span><span class="english">The letter is handwritten in English.</span></p>

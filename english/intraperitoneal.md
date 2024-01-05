@@ -1,5 +1,7 @@
 # intraperitoneal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intraperitoneal.md)
+
 <p><span class="chinese">采用雨蛙素腹腔注射诱导AP模型。</span><span class="english">The AP model was induced by intraperitoneal injection of caerulein.</span></p>
 
 <p><span class="chinese">腹腔注射无菌酵母多糖A制备大鼠MODS模型。</span><span class="english">The MODS models were induced by intraperitoneal injection of Zymosan A.</span></p>

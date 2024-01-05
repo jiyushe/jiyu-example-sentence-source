@@ -1,5 +1,7 @@
 # 线装书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhuangshu.md)
+
 <p><span class="chinese">线装书竟用红铅笔划粗粗的线。</span><span class="english">Otherwise, I use a red pencil to draw heavy underlines.</span></p>
 
 <p><span class="chinese">线装书竟用红铅笔划粗粗的线。</span><span class="english">Thread-bound book was scribinged with red rough pencil line.</span></p>

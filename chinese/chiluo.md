@@ -1,5 +1,7 @@
 # 赤裸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiluo.md)
+
 <p><span class="chinese">把你赤裸的灵魂剥离。</span><span class="english">That scalps your naked soul.</span></p>
 
 <p><span class="chinese">在瀑布下的深潭里赤裸游泳。</span><span class="english">To swim naked under waterfalls.</span></p>

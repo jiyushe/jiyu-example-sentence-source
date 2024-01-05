@@ -1,5 +1,7 @@
 # plucky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plucky.md)
+
 <p><span class="chinese">小且勇敢似乎足够定义自治区的酿酒师了。</span><span class="english">Small and plucky seems to define the borough’s distillers so far.</span></p>
 
 <p><span class="chinese">具有奠定了他们的鸡蛋，这些勇敢的鸟脸秃鹫贼鸥和空中的攻击。</span><span class="english">Having laid their eggs, these plucky birds face airborne attacks from skuas and vultures.</span></p>

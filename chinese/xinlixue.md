@@ -1,5 +1,7 @@
 # 心理学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinlixue.md)
+
 <p><span class="chinese">这就是1504号心理学课程。</span><span class="english">So this is 1504.</span></p>
 
 <p><span class="chinese">心理学的。</span><span class="english">ABC The A, B, C of psychology.</span></p>

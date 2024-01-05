@@ -1,5 +1,7 @@
 # 互联网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hulianwang.md)
+
 <p><span class="chinese">互联网？呸!</span><span class="english">The Internet? Bah!</span></p>
 
 <p><span class="chinese">国内互联网实是底呱呱！</span><span class="english">Internet is number one!</span></p>

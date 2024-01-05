@@ -1,5 +1,7 @@
 # sequela
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequela.md)
+
 <p><span class="chinese">垫鼻子有后遗症吗？</span><span class="english">Does mat nose have sequela?</span></p>
 
 <p><span class="chinese">我烙后遗症了我！</span><span class="english">I burned sequela me! ! ! ! !</span></p>

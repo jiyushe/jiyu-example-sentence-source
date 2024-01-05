@@ -1,5 +1,7 @@
 # 自作自受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizuozishou.md)
+
 <p><span class="chinese">你造的孽，现在去自作自受吧。</span><span class="english">You made your bed, now lie in it.</span></p>
 
 <p><span class="chinese">让他们自作自受吧。</span><span class="english">Leave them to stew in their own juice.</span></p>

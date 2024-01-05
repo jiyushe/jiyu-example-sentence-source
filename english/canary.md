@@ -1,5 +1,7 @@
 # canary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canary.md)
+
 <p><span class="chinese">那只金丝雀整天在鸣叫。</span><span class="english">The canary warbled all day long.</span></p>
 
 <p><span class="chinese">欢迎进入矿坑，小白脸。</span><span class="english">Welcome to the coal mine, canary.</span></p>

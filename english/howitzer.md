@@ -1,5 +1,7 @@
 # howitzer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/howitzer.md)
+
 <p><span class="chinese">就在这个时刻，一架飞机被榴弹击中而坠下来。</span><span class="english">A howitzer hit a plane and it went down.</span></p>
 
 <p><span class="chinese">榴弹炮和火箭精度已略有下降5个百分点。</span><span class="english">Howitzer and Rocket Accuracy has been slightly decreased by 5 points.</span></p>

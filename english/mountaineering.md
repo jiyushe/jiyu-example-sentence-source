@@ -1,5 +1,7 @@
 # mountaineering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mountaineering.md)
+
 <p><span class="chinese">让我听听你的登山旅行计划。</span><span class="english">Let me hear about your mountaineering trip.</span></p>
 
 <p><span class="chinese">为什么中提琴手不该去登山呢？</span><span class="english">Why shouldn't violists take up mountaineering?</span></p>

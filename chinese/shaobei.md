@@ -1,5 +1,7 @@
 # 烧杯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaobei.md)
+
 <p><span class="chinese">烧杯都标有数字。</span><span class="english">The beakers were tagged with a number.</span></p>
 
 <p><span class="chinese">烧杯被放在喷灯上方。</span><span class="english">The beaker was placed on top of a torch.</span></p>

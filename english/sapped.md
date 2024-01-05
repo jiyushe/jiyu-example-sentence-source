@@ -1,5 +1,7 @@
 # sapped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sapped.md)
+
 <p><span class="chinese">同一时间只能有一个目标被闷住。</span><span class="english">Only 1 target may be sapped at a time.</span></p>
 
 <p><span class="chinese">海湾战争使伊拉克大伤元气。</span><span class="english">The Gulf War has sapped Iraqi vitality badly.</span></p>

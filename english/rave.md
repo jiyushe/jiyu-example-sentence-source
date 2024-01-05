@@ -1,5 +1,7 @@
 # rave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rave.md)
+
 <p><span class="chinese">这酒鬼又开始胡言乱语了。</span><span class="english">The drunkard began to rave again.</span></p>
 
 <p><span class="chinese">剃头，撞头，吃下那些药。</span><span class="english">Shaved heads, rave heads, on the pill.</span></p>

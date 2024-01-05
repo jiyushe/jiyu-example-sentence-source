@@ -1,5 +1,7 @@
 # 医德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yide.md)
+
 <p><span class="chinese">我们要加强医德医风的教育。</span><span class="english">We should strengthen education on medical ethics.</span></p>
 
 <p><span class="chinese">医德不允许医生登广告。</span><span class="english">Medical ethics do not permit doctors to advertise.</span></p>

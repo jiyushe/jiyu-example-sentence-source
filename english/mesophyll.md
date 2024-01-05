@@ -1,5 +1,7 @@
 # mesophyll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesophyll.md)
+
 <p><span class="chinese">白城色木槭的叶有平脉叶肉细胞，叶片较厚。</span><span class="english">The thick leaves have vein-parellel mesophyll cells.</span></p>
 
 <p><span class="chinese">叶肉是由两层栅栏薄壁组织组成。</span><span class="english">The mesophyll consists of two layers of palisade parenchyma.</span></p>

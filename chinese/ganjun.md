@@ -1,5 +1,7 @@
 # 杆菌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjun.md)
+
 <p><span class="chinese">杆菌的生长速度非常缓慢。</span><span class="english">The bacillus grows very slowly.</span></p>
 
 <p><span class="chinese">幽门螺旋杆菌是耐胃酸的。</span><span class="english">H. pylori is resistant to gastric acid.</span></p>

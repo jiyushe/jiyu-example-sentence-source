@@ -1,5 +1,7 @@
 # tap 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tap.md)
+
 <p><span class="chinese">这龙头拧不动。</span><span class="english">This tap won't turn.</span></p>
 
 <p><span class="chinese">请关上水龙草头。</span><span class="english">Please close the tap.</span></p>

@@ -1,5 +1,7 @@
 # 分片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenpian.md)
+
 <p><span class="chinese">分片和重组。</span><span class="english">Segmentation and reassembly.</span></p>
 
 <p><span class="chinese">转换机制必须能够处理IP分片。</span><span class="english">Translation mechanisms must handle IP fragmentation.</span></p>

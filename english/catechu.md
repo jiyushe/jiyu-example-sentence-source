@@ -1,5 +1,7 @@
 # catechu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catechu.md)
+
 <p><span class="chinese">目的研究儿茶儿茶素的抗流感病毒作用。</span><span class="english">Objective To study the anti-influenza effect of catechu extract.</span></p>
 
 <p><span class="chinese">采用高效液相色谱法测定槟榔花粉中芸苔素内酯的含量。</span><span class="english">HPLC was used to determine the content of brassinolide in Areca catechu pollen.</span></p>

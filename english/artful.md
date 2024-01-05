@@ -1,5 +1,7 @@
 # artful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artful.md)
+
 <p><span class="chinese">他很狡诈，但有时也会失策。</span><span class="english">He's very artful but sometimes miscarries.</span></p>
 
 <p><span class="chinese">而意义便是艺术人生的燃料。</span><span class="english">And meaning is the fuel of the artful life.</span></p>

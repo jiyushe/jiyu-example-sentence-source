@@ -1,5 +1,7 @@
 # strata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strata.md)
+
 <p><span class="chinese">样本量在层中的分配。</span><span class="english">Allocation of samples in the strata.</span></p>
 
 <p><span class="chinese">属层控矽卡岩型矿床。</span><span class="english">It is a strata bound skarn type deposit.</span></p>

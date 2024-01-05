@@ -1,5 +1,7 @@
 # 折旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhejiu.md)
+
 <p><span class="chinese">折旧足额。</span><span class="english">Fixed assets are fully depreciated.</span></p>
 
 <p><span class="chinese">应计折旧的固定资产平均总值…</span><span class="english">Average total value of depreciable fixed assets n.</span></p>

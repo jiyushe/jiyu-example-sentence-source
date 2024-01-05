@@ -1,5 +1,7 @@
 # sidearm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sidearm.md)
+
 <p><span class="chinese">一切，他已经离开了他的体侧。</span><span class="english">All he had left was his sidearm.</span></p>
 
 <p><span class="chinese">他夺走了高速公路巡警的车和手枪。</span><span class="english">He took a squad car and a sidearm off a highway patrolman.</span></p>

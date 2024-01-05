@@ -1,5 +1,7 @@
 # wise 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wise_1.md)
+
 <p><span class="chinese">他是如此明智。</span><span class="english">He was so wise.</span></p>
 
 <p><span class="chinese">别自作聪明。</span><span class="english">Don't look wise.</span></p>

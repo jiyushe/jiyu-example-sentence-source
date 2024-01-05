@@ -1,5 +1,7 @@
 # 预计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuji_3.md)
+
 <p><span class="chinese">你船预计何时才能重新浮起？</span><span class="english">When do you expect to refloat?</span></p>
 
 <p><span class="chinese">预计的发电能力是多少？</span><span class="english">How much digestate is produced?</span></p>

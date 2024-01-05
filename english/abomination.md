@@ -1,5 +1,7 @@
 # abomination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abomination.md)
+
 <p><span class="chinese">无论它是什么，那都是帝皇所憎恨的。</span><span class="english">Whatever it is it's an abomination to the emperor.</span></p>
 
 <p><span class="chinese">许多宗教界人士说同性恋是一件令人深恶痛绝的事。</span><span class="english">Many religious people say homosexuality is an abomination.</span></p>

@@ -1,5 +1,7 @@
 # frill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frill.md)
+
 <p><span class="chinese">褶做的装饰的皱褶。</span><span class="english">To make into a ruffle or frill.</span></p>
 
 <p><span class="chinese">她在她的裙子下边缝上饰边。</span><span class="english">She sewed a frill on the bottom of her skirt.</span></p>

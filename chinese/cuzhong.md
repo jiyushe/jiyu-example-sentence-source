@@ -1,5 +1,7 @@
 # 粗重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuzhong.md)
+
 <p><span class="chinese">他不能适应粗重的工作。</span><span class="english">He is not adapted for heavy work.</span></p>
 
 <p><span class="chinese">我听得见他粗重的呼吸。</span><span class="english">I could hear his heavy breathing.</span></p>

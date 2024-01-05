@@ -1,5 +1,7 @@
 # 濡染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruran.md)
+
 <p><span class="chinese">深受商州历史文化濡染的“保守——进取”型民俗。</span><span class="english">Shang Zhou history and culture cultivating "Conservative-Initiative" folklore.</span></p>
 
 <p><span class="chinese">在＂童心说＂思想形成过程中，在受到佛教思想影响的同时，也受到伊斯兰教因子的濡染。</span><span class="english">In the road of shaping of Tongxin Shuo, both of Buddhism Islam have significant impacts.</span></p>

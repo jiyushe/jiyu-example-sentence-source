@@ -1,5 +1,7 @@
 # 暗藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ancang.md)
+
 <p><span class="chinese">这些问题其实暗藏玄机。</span><span class="english">Here's the gimmick.</span></p>
 
 <p><span class="chinese">耐莉是我们暗藏的敌人。</span><span class="english">Nelly is my hidden enemy.</span></p>

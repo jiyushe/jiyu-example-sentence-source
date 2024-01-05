@@ -1,5 +1,7 @@
 # phoenician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phoenician.md)
+
 <p><span class="chinese">迦太基是腓尼基人的殖民地</span><span class="english">Carthage is a colony of Phoenician cities.</span></p>
 
 <p><span class="chinese">错！那是阿拉伯数字！字符的起源是腓尼基语。</span><span class="english">Wrong! that's numbers! Characters' origin is Phoenician.</span></p>

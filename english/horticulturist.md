@@ -1,5 +1,7 @@
 # horticulturist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horticulturist.md)
+
 <p><span class="chinese">园艺师培育了玫瑰的一个新品种。</span><span class="english">The horticulturist developed a new type of rose.</span></p>
 
 <p><span class="chinese">保持鹿远离专业的园艺家的帮助下在此免费视频。</span><span class="english">Keep deer away with help from a professional horticulturist in this free video.</span></p>

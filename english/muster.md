@@ -1,5 +1,7 @@
 # muster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muster.md)
+
 <p><span class="chinese">新的经理还过得去吗？</span><span class="english">Does the new manager pass muster?</span></p>
 
 <p><span class="chinese">我必须召集船员在甲板集合吗？</span><span class="english">Shall I muster the crew on the deck?</span></p>

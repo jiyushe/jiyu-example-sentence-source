@@ -1,5 +1,7 @@
 # adenocarcinoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adenocarcinoma.md)
+
 <p><span class="chinese">这是肺周围型腺癌的大体标本。</span><span class="english">This is a peripheral adenocarcinoma of the lung.</span></p>
 
 <p><span class="chinese">此图所示的是壶腹部的腺癌。</span><span class="english">This adenocarcinoma arose in the ampulla of Vater.</span></p>

@@ -1,5 +1,7 @@
 # coeducational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coeducational.md)
+
 <p><span class="chinese">此后，越来越多的中国大学实行了男女同校。</span><span class="english">Since then, more and more Chinese university became coeducational.</span></p>
 
 <p><span class="chinese">然而在一所男女同校的学校里，一切都有其合理的位置。</span><span class="english">In a coeducational school, everything is thought into its proper place.</span></p>

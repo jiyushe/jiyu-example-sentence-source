@@ -1,5 +1,7 @@
 # rip 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rip.md)
+
 <p><span class="chinese">让我们运行一下。</span><span class="english">And let's let it rip.</span></p>
 
 <p><span class="chinese">扯开，是金子！</span><span class="english">Rip it out, it's gold!</span></p>

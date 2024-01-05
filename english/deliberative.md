@@ -1,5 +1,7 @@
 # deliberative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deliberative.md)
+
 <p><span class="chinese">比较之下，“二号系统”则是慢速的、审慎的思维，不易犯错。</span><span class="english">“System 2”, by contrast, is slow, deliberative and less prone to error.</span></p>
 
 <p><span class="chinese">计划在2011年1月召开一次委员会闭门式审议会议。</span><span class="english">The Committee plans to meet in January 2011 in closed, deliberative sessions.</span></p>

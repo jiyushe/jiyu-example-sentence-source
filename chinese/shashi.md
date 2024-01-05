@@ -1,5 +1,7 @@
 # 刹时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shashi.md)
+
 <p><span class="chinese">平时喧闹的课堂刹时静了下来。</span><span class="english">The usually noisy class watched silently.</span></p>
 
 <p><span class="chinese">刹时的破裂须要几年的时间去修补。</span><span class="english">What breaks in a moment may take years to mend.</span></p>

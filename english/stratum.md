@@ -1,5 +1,7 @@
 # stratum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratum.md)
+
 <p><span class="chinese">角状的“层”组织即“角质层”。</span><span class="english">Stratum corneum means "horny layer".</span></p>
 
 <p><span class="chinese">岩层控制的关键层理论。</span><span class="english">Theory of key stratum in ground control.</span></p>

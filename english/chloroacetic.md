@@ -1,5 +1,7 @@
 # chloroacetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chloroacetic.md)
+
 <p><span class="chinese">以三甲胺及一氯乙酸为原料合成甜菜碱。</span><span class="english">Beet alkali was synthesized from trimethylamine and chloroacetic acid.</span></p>
 
 <p><span class="chinese">本文重点介绍间歇式生产氯乙酸的工艺技术。</span><span class="english">In this paper, the batch process to produce chloroacetic acid was introduced.</span></p>

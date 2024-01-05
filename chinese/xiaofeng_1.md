@@ -1,5 +1,7 @@
 # 校风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaofeng_1.md)
+
 <p><span class="chinese">校风，教学质量，谁能告诉我。</span><span class="english">School, teaching quality, who can tell me.</span></p>
 
 <p><span class="chinese">我爱新校园里良好的学风，校风。</span><span class="english">I love the new campus good style of study, school spirit.</span></p>

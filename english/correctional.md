@@ -1,5 +1,7 @@
 # correctional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correctional.md)
+
 <p><span class="chinese">矫正视力是什么意思？</span><span class="english">What meaning is correctional eyesight?</span></p>
 
 <p><span class="chinese">什么是科学的矫正视力？</span><span class="english">What is scientific correctional eyesight?</span></p>

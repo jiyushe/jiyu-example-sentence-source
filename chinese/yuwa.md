@@ -1,5 +1,7 @@
 # 雨蛙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuwa.md)
+
 <p><span class="chinese">雨蛙呱呱叫，下雨必来到。</span><span class="english">Frog croak, rain will come to.</span></p>
 
 <p><span class="chinese">用苹果和胡萝卜做的雨蛙。</span><span class="english">Tree Frog made with an apple and carrot.</span></p>

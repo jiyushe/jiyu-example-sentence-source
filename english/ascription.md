@@ -1,5 +1,7 @@
 # ascription
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascription.md)
+
 <p><span class="chinese">家庭无论对年轻人还是老年人都意味着某种归属。</span><span class="english">Family means certain ascription for not only the young but also the old.</span></p>
 
 <p><span class="chinese">研究共同犯罪中的实行过限问题，目的是为了明确刑事责任的归属。</span><span class="english">A careful study on this issue is to determine the ascription of liability.</span></p>

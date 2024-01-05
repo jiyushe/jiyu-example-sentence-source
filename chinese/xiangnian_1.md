@@ -1,5 +1,7 @@
 # 想念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangnian_1.md)
+
 <p><span class="chinese">我们想念您。</span><span class="english">We miss you.</span></p>
 
 <p><span class="chinese">我想念我的爸爸。</span><span class="english">I miss my dad.</span></p>

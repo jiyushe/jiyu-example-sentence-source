@@ -1,5 +1,7 @@
 # 行期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingqi_5.md)
+
 <p><span class="chinese">行期已近。</span><span class="english">The date of departure is drawing near.</span></p>
 
 <p><span class="chinese">行期未卜。</span><span class="english">The date of departure remains undecided.</span></p>

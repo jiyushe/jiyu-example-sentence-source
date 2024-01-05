@@ -1,5 +1,7 @@
 # magnetosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetosphere.md)
+
 <p><span class="chinese">1957年，人们发现了磁气圈的存在。</span><span class="english">The magnetosphere was discovered in 1957.</span></p>
 
 <p><span class="chinese">这些读数来源于“日本磁气圈模拟器”。</span><span class="english">These readings are obtained from a Japanese magnetosphere simulator.</span></p>

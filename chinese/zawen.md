@@ -1,5 +1,7 @@
 # 杂文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zawen.md)
+
 <p><span class="chinese">这篇杂文极为深刻有力。</span><span class="english">The essay is most penetrating and powerful.</span></p>
 
 <p><span class="chinese">这一章详细论述鲁迅杂文的威力。</span><span class="english">This chapter dwells on the power of Lu Xun's essays.</span></p>

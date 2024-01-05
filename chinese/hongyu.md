@@ -1,5 +1,7 @@
 # 红鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongyu.md)
+
 <p><span class="chinese">雄性红鱼负责建造巢穴。</span><span class="english">It's the male garibaldi who makes the nest.</span></p>
 
 <p><span class="chinese">一条红鱼啄了一下他白色的身子，他不禁哈哈一笑。</span><span class="english">A bonita struck at his white body, and he laughed aloud.</span></p>

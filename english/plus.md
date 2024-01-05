@@ -1,5 +1,7 @@
 # plus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plus.md)
+
 <p><span class="chinese">再加上。</span><span class="english">V Plus V.</span></p>
 
 <p><span class="chinese">加上一个常数。</span><span class="english">Plus a constant.</span></p>

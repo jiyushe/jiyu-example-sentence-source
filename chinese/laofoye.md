@@ -1,5 +1,7 @@
 # 老佛爷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laofoye.md)
+
 <p><span class="chinese">那一次，她还带我去老佛爷百货公司购物。</span><span class="english">And she was taking me shopping to Galeries Lafayette.</span></p>
 
 <p><span class="chinese">但如果明天老佛爷给加利亚尼一亿欧元，那就是加凸伤脑筋的问题了。</span><span class="english">But if tomorrow Perez gives Galliani 100 million, then it's Galliani's problem.</span></p>

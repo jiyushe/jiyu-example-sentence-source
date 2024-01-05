@@ -1,5 +1,7 @@
 # huntsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huntsman.md)
+
 <p><span class="chinese">对她有德国叙情的猎人。</span><span class="english">The huntsman had lied to her.</span></p>
 
 <p><span class="chinese">为什么洪博培会如此冷遇中国？</span><span class="english">Why is Huntsman so cool on China?</span></p>

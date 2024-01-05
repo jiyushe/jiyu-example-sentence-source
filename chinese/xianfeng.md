@@ -1,5 +1,7 @@
 # 先锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianfeng.md)
+
 <p><span class="chinese">我是新一代先锋！</span><span class="english">I am the new avantgarde!</span></p>
 
 <p><span class="chinese">他是反战争的先锋人物。</span><span class="english">And he is an antiwar pioneer.</span></p>

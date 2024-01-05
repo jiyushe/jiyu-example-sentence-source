@@ -1,5 +1,7 @@
 # 生死与共
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengsiyugong.md)
+
 <p><span class="chinese">在过去的十年中，我们生死与共。</span><span class="english">For ten years, we lived and died together.</span></p>
 
 <p><span class="chinese">在那里，萍水相逢的朋友结成了生死与共的兄弟。</span><span class="english">There improbable friends pledged to be blood brothers.</span></p>

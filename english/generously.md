@@ -1,5 +1,7 @@
 # generously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generously.md)
+
 <p><span class="chinese">他很慷慨地代我们全付了钱。</span><span class="english">He generously paid for us all.</span></p>
 
 <p><span class="chinese">“零钱不用找了，”他慷慨地说。</span><span class="english">“Keep the change,” he said generously.</span></p>

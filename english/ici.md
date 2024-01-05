@@ -1,5 +1,7 @@
 # ici
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ici.md)
+
 <p><span class="chinese">ICI同时还看准了民用住宅建设市场。</span><span class="english">ICI is also targeting the housing construction market.</span></p>
 
 <p><span class="chinese">2007年以前，ICI终于失去了作为独立公司的地位。</span><span class="english">By 2007, ICI ceased to exist as an independent company.</span></p>

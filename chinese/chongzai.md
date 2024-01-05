@@ -1,5 +1,7 @@
 # 重载
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongzai.md)
+
 <p><span class="chinese">马用力拉着重载。</span><span class="english">The horse was dragging a heavy load.</span></p>
 
 <p><span class="chinese">尤其是运算符重载,这种情况出现的时候。</span><span class="english">Especially in the presence of operator overload.</span></p>

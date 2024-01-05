@@ -1,5 +1,7 @@
 # 鸟兽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niaoshou.md)
+
 <p><span class="chinese">那场大火使森林里的鸟兽濒临绝迹。</span><span class="english">The fire had depleted the game in the forest.</span></p>
 
 <p><span class="chinese">爱丽丝领着路，和这群鸟兽一起自岸边游去。</span><span class="english">Alice led the way, and the whole party swam to the shore.</span></p>

@@ -1,5 +1,7 @@
 # 肝胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gandan.md)
+
 <p><span class="chinese">梵蒂冈城可谓是“麻雀虽小，肝胆俱全”！</span><span class="english">Vatican City is all grown up.</span></p>
 
 <p><span class="chinese">约瑟夫·施拉格是一名身兼肝胆和胰脏科的医生。</span><span class="english">Joseph Shrager is a Hepatobiliary and Pancreatic surgeon.</span></p>

@@ -1,5 +1,7 @@
 # 一无所知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwusuozhi.md)
+
 <p><span class="chinese">对此我一无所知.</span><span class="english">I know nothing about it.</span></p>
 
 <p><span class="chinese">耶鲁大学人类学系的研究助理，加里.阿龙森说，“它是非常隐秘的动物，我们对它几乎一无所知。”</span><span class="english">It is a very cryptic animal.</span></p>

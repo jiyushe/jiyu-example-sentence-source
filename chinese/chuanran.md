@@ -1,5 +1,7 @@
 # 传染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanran.md)
+
 <p><span class="chinese">炭疽热会传染吗？</span><span class="english">Is anthrax contagious?</span></p>
 
 <p><span class="chinese">这病会传染吗?。</span><span class="english">Is this disease catchy?</span></p>

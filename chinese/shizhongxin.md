@@ -1,5 +1,7 @@
 # 市中心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhongxin.md)
+
 <p><span class="chinese">这里是汉诺威的市中心。</span><span class="english">Here, the heart of Hanover.</span></p>
 
 <p><span class="chinese">我住在市中心附近。</span><span class="english">I'm living vicino a centro.</span></p>

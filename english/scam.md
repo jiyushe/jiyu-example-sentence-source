@@ -1,5 +1,7 @@
 # scam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scam.md)
+
 <p><span class="chinese">没有垃圾邮件，也不骗局。</span><span class="english">No spam, nor scam.</span></p>
 
 <p><span class="chinese">为黑暗的诡计在准备。</span><span class="english">Be prepared for the murkiest scam.</span></p>

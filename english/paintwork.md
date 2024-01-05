@@ -1,5 +1,7 @@
 # paintwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paintwork.md)
+
 <p><span class="chinese">漆面已经开始剥落了。</span><span class="english">The paintwork is beginning to peel.</span></p>
 
 <p><span class="chinese">他刮坏了汽车的油漆。</span><span class="english">He scraped the paintwork of his car.</span></p>

@@ -1,5 +1,7 @@
 # infanticide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infanticide.md)
+
 <p><span class="chinese">苔原地带的艰苦生活能作为杀婴行为的借口吗？</span><span class="english">Would life in the tundra justify infanticide?</span></p>
 
 <p><span class="chinese">杀女婴跟胚胎再吸收是现在研究的范围。</span><span class="english">Female infanticide and fetal resorption are active areas of study.</span></p>

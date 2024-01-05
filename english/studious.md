@@ -1,5 +1,7 @@
 # studious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/studious.md)
+
 <p><span class="chinese">我是一个勤奋好学的女孩。</span><span class="english">I am a studious girl.</span></p>
 
 <p><span class="chinese">普林斯顿有相当勤奋的学习环境。</span><span class="english">It's a fairly studious environment.</span></p>

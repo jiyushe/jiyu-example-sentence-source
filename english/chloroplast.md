@@ -1,5 +1,7 @@
 # chloroplast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chloroplast.md)
+
 <p><span class="chinese">这是叶绿体。</span><span class="english">This is the chloroplast.</span></p>
 
 <p><span class="chinese">这幅图画的是叶绿体的结构。</span><span class="english">This picture shows the chloroplast structure.</span></p>

@@ -1,5 +1,7 @@
 # airbag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airbag.md)
+
 <p><span class="chinese">安全气囊只能在全功能的版本。</span><span class="english">Airbag available only on full-featured version.</span></p>
 
 <p><span class="chinese">Industry-first完全整合在一辆摩托车骑手安全气囊。</span><span class="english">Industry-first fully integrated rider airbag on a motorcycle.</span></p>

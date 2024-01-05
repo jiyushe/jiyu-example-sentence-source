@@ -1,5 +1,7 @@
 # 饱含
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baohan.md)
+
 <p><span class="chinese">空气中饱含着潮气。</span><span class="english">The air was charged with vapor.</span></p>
 
 <p><span class="chinese">很好，饱含和服务都很好。</span><span class="english">Yes , good food and good service.</span></p>

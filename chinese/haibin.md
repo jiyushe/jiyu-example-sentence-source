@@ -1,5 +1,7 @@
 # 海滨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haibin.md)
+
 <p><span class="chinese">那是他在海滨找到的。</span><span class="english">He found them on the shore.</span></p>
 
 <p><span class="chinese">我们在海滨渡过了夏天。</span><span class="english">We summered at the seashore.</span></p>

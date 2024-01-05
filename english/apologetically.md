@@ -1,5 +1,7 @@
 # apologetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apologetically.md)
+
 <p><span class="chinese">他一脸歉意地笑了笑。</span><span class="english">He smiled apologetically.</span></p>
 
 <p><span class="chinese">“在壁橱里。”面包师抱歉地说。</span><span class="english">"He's in the closet, " says the baker, apologetically.</span></p>

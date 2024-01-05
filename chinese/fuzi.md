@@ -1,5 +1,7 @@
 # 夫子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzi.md)
+
 <p><span class="chinese">西门说，夫子，请说。</span><span class="english">"Tell me, teacher, " he said.</span></p>
 
 <p><span class="chinese">这些学校叫做孔夫子书院。</span><span class="english">It called them Confucius Institutes.</span></p>

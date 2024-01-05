@@ -1,5 +1,7 @@
 # informatics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/informatics.md)
+
 <p><span class="chinese">论证了情报学研究方法的“统合”。</span><span class="english">It expounds and proves the "Unite"of informatics study.</span></p>
 
 <p><span class="chinese">这是欧洲生物信息研究所生物芯片研究组的网站。</span><span class="english">This is the website for Microarray Informatics Group at the EBI.</span></p>

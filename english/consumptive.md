@@ -1,5 +1,7 @@
 # consumptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consumptive.md)
+
 <p><span class="chinese">是一种消耗性疾病。</span><span class="english">Is one kind of consumptive disease.</span></p>
 
 <p><span class="chinese">我们现在生活在一个消费的、有选择的时代。</span><span class="english">We are living in a consumptive and optional times.</span></p>

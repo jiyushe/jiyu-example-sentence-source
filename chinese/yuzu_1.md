@@ -1,5 +1,7 @@
 # 语族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzu_1.md)
+
 <p><span class="chinese">使用印第安语，包括十几个语族。</span><span class="english">Use Indian language, including dozen puxi.</span></p>
 
 <p><span class="chinese">英语、荷兰语、德语是同语族的语言。</span><span class="english">English, Dutch and German are cognate languages.</span></p>

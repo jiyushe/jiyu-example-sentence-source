@@ -1,5 +1,7 @@
 # 吴王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuwang.md)
+
 <p><span class="chinese">吴王为什么会这么对待他?。</span><span class="english">Why King of the state of Wu treat him so?</span></p>
 
 <p><span class="chinese">城建成后，吴王大喜。</span><span class="english">The city is completed, the king exultation.</span></p>

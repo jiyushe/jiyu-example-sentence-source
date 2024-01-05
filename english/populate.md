@@ -1,5 +1,7 @@
 # populate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/populate.md)
+
 <p><span class="chinese">应用一个带动态数据的组合框</span><span class="english">Populate a JSF combo box with dynamic data</span></p>
 
 <p><span class="chinese">在未系结模式中，手动填入控制项。</span><span class="english">In unbound mode, you populate the control manually.</span></p>

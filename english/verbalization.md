@@ -1,5 +1,7 @@
 # verbalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verbalization.md)
+
 <p><span class="chinese">进一步明确示范与描述是必要的。</span><span class="english">Further explicit modeling and verbalization will be required.</span></p>
 
 <p><span class="chinese">表示法是文本和占位符的组合。</span><span class="english">The verbalization is a combination of plain text and placeholders.</span></p>

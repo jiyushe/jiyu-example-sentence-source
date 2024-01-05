@@ -1,5 +1,7 @@
 # 敲打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoda.md)
+
 <p><span class="chinese">用棒槌敲打。</span><span class="english">To beat with a stick.</span></p>
 
 <p><span class="chinese">他用手敲打院门。</span><span class="english">He hammered at the door.</span></p>

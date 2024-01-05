@@ -1,5 +1,7 @@
 # stratus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratus.md)
+
 <p><span class="chinese">谢谢我们可能不然后带来层云桌的更新。</span><span class="english">Thank you for the update – we may not bring the stratus table then.</span></p>
 
 <p><span class="chinese">默认状态的组合是积云和层云。</span><span class="english">The default condition is a combination of cumulus and stratus clouds.</span></p>

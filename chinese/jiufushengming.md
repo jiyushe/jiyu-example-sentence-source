@@ -1,5 +1,7 @@
 # 久负盛名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiufushengming.md)
+
 <p><span class="chinese">米粉是桂林久负盛名的小吃。</span><span class="english">Rice noodles are the most famous snack in Guilin.</span></p>
 
 <p><span class="chinese">当然，久负盛名的咖啡厅也令维也纳闻名于世。</span><span class="english">Vienna is also world-renown for its coffee houses.</span></p>

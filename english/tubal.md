@@ -1,5 +1,7 @@
 # tubal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tubal.md)
+
 <p><span class="chinese">治疗输卵管炎多少钱?。</span><span class="english">Tubal disease how to check?</span></p>
 
 <p><span class="chinese">这种类型的妊娠是常见的所谓的输卵管妊娠。</span><span class="english">This type of pregnancy is commonly called a tubal pregnancy.</span></p>

@@ -1,5 +1,7 @@
 # neuter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuter.md)
+
 <p><span class="chinese">我的猫是阉过的。</span><span class="english">My cat is a neuter.</span></p>
 
 <p><span class="chinese">这个名词属于中性。</span><span class="english">The noun "school" is of the neuter gender.</span></p>

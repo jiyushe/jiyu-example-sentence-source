@@ -1,5 +1,7 @@
 # subjectivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subjectivity.md)
+
 <p><span class="chinese">好是主体的私意的表达。</span><span class="english">It is the expression of subjectivity.</span></p>
 
 <p><span class="chinese">我不能摆脱自己的主观。</span><span class="english">I cannot bracket out my own subjectivity.</span></p>

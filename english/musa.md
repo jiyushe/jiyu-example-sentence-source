@@ -1,5 +1,7 @@
 # musa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musa.md)
+
 <p><span class="chinese">穆萨案有了突破。</span><span class="english">There had been a break in the Musa case.</span></p>
 
 <p><span class="chinese">穆萨·沙法齐想要生活在一个没有压迫的未来里。</span><span class="english">Musa Shafaq wants to live in that future.</span></p>

@@ -1,5 +1,7 @@
 # 演剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanju.md)
+
 <p><span class="chinese">离开戏剧学校之后，我就加入了一个保留剧目轮演剧团。</span><span class="english">After leaving drama school I joined a repertory company.</span></p>
 
 <p><span class="chinese">我的表弟是话剧俱乐部的演员，他好象对演剧很感兴趣。</span><span class="english">My cousin is a member of a drama club. He seems to enjoy acting.</span></p>

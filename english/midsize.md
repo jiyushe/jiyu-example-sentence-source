@@ -1,5 +1,7 @@
 # midsize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midsize.md)
+
 <p><span class="chinese">你拥有一辆中型车？</span><span class="english">Own a midsize car?</span></p>
 
 <p><span class="chinese">我们有一型中型车正在特价优惠。</span><span class="english">We have a special on a midsize car.</span></p>

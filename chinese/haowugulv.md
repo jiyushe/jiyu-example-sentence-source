@@ -1,5 +1,7 @@
 # 毫无顾虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haowugulv.md)
+
 <p><span class="chinese">但巴尔卡特先生似乎毫无顾虑。</span><span class="english">But Mr Barkat seems unfazed.</span></p>
 
 <p><span class="chinese">然后再毫无顾虑的做决定。</span><span class="english">Making decisions out of fear.</span></p>

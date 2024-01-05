@@ -1,5 +1,7 @@
 # clement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clement.md)
+
 <p><span class="chinese">一位仁慈的法官为他减了刑。</span><span class="english">A clement judge reduced his sentence.</span></p>
 
 <p><span class="chinese">然后，他们选出自己的教皇克莱门特七。</span><span class="english">They then elected one of their own as Pope Clement VII.</span></p>

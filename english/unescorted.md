@@ -1,5 +1,7 @@
 # unescorted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unescorted.md)
+
 <p><span class="chinese">这样的来访者就不会无人陪同而被允许进入厂内。</span><span class="english">Such a visitor wouldn't have been allowed into the plant unescorted.</span></p>
 
 <p><span class="chinese">他的工作是在曼哈顿的夜总会陪没有舞伴的女士跳舞。</span><span class="english">He worked as a dancing partner for unescorted ladies at Manhattan cabarets.</span></p>

@@ -1,5 +1,7 @@
 # 理解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijie.md)
+
 <p><span class="chinese">我很理解。</span><span class="english">I understood.</span></p>
 
 <p><span class="chinese">我也有我的理解。</span><span class="english">I have the mine.</span></p>

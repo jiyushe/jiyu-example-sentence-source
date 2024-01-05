@@ -1,5 +1,7 @@
 # 青稞酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingkejiu.md)
+
 <p><span class="chinese">西安哪里可以买到青稞酒？</span><span class="english">Where can I buy Xi'an highland barley wine?</span></p>
 
 <p><span class="chinese">我们敬了他们每人三杯青稞酒。</span><span class="english">We offered them each three cups of barley wine.</span></p>

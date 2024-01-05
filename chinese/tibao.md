@@ -1,5 +1,7 @@
 # 提包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tibao.md)
+
 <p><span class="chinese">这提包带需要修理。</span><span class="english">The strap needs mending.</span></p>
 
 <p><span class="chinese">她喀哒一声把提包关上了。</span><span class="english">She snapped her bag shut.</span></p>

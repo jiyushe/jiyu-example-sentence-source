@@ -1,5 +1,7 @@
 # kawasaki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kawasaki.md)
+
 <p><span class="chinese">这其中的经典川崎市的所有道路。</span><span class="english">This one's classic Kawasaki all the way.</span></p>
 
 <p><span class="chinese">你坐的高铁是日本新干线E2型列车。</span><span class="english">The G train you ride are Kawasaki Shinkansen E2 models.</span></p>

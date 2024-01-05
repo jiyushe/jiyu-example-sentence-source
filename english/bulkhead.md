@@ -1,5 +1,7 @@
 # bulkhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulkhead.md)
+
 <p><span class="chinese">要大家不喜欢隔板真的很难。</span><span class="english">It's hard not to like Bulkhead.</span></p>
 
 <p><span class="chinese">开孔安装，正面进线形式。</span><span class="english">Bulkhead mounting and top entry type.</span></p>

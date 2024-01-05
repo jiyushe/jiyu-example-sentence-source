@@ -1,5 +1,7 @@
 # 鸡犬不宁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiquanbuning.md)
+
 <p><span class="chinese">过着鸡犬不宁的生活。</span><span class="english">Live a cat-and –dog life.</span></p>
 
 <p><span class="chinese">他过着鸡犬不宁的生活。</span><span class="english">He lives a cat and dog life.</span></p>

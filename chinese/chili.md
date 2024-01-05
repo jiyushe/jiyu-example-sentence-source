@@ -1,5 +1,7 @@
 # 吃力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chili.md)
+
 <p><span class="chinese">他吃力地利泥泞中跋涉。</span><span class="english">He slogged through the mud.</span></p>
 
 <p><span class="chinese">机器人学得很吃力。</span><span class="english">Machines learn the hard way.</span></p>

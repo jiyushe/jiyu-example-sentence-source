@@ -1,5 +1,7 @@
 # fibroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibroid.md)
+
 <p><span class="chinese">在大多数情况下，有一个以上的纤维在子宫。</span><span class="english">In most cases, there is more than one fibroid in the uterus.</span></p>
 
 <p><span class="chinese">脓肌瘤被认为是坏疽性纤维瘤细菌播散的结果。</span><span class="english">Pyomyoma is thought to result from bacterial seeding of a necrotic fibroid.</span></p>

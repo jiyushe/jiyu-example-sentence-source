@@ -1,5 +1,7 @@
 # parted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parted.md)
+
 <p><span class="chinese">他们在分岔处离别。</span><span class="english">They parted at the fork.</span></p>
 
 <p><span class="chinese">他们在岔路口处分手。</span><span class="english">They parted at the fork.</span></p>

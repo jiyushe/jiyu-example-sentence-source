@@ -1,5 +1,7 @@
 # 考题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoti.md)
+
 <p><span class="chinese">那些考题我甚至连一半都答不上。</span><span class="english">I didn't know even half of the answers.</span></p>
 
 <p><span class="chinese">考试前就泄露考题？</span><span class="english">Giving out the questions before the test?</span></p>

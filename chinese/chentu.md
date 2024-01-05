@@ -1,5 +1,7 @@
 # 尘土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chentu.md)
+
 <p><span class="chinese">雨把尘土变成了软泥。</span><span class="english">Rain turns dust into mud.</span></p>
 
 <p><span class="chinese">尘土薰红了眼。</span><span class="english">The dust has filled my eye.</span></p>

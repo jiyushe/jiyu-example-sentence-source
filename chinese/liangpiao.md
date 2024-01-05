@@ -1,5 +1,7 @@
 # 粮票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangpiao.md)
+
 <p><span class="chinese">我到上海的时候，还是有粮票和外汇券的时代。</span><span class="english">I arrived in Shanghai back in the days of Liang Piao and FEC.</span></p>
 
 <p><span class="chinese">奥巴马从中国借钱，给美国人发粮票。</span><span class="english">Borrow money from China, and give out those food stamps Obama.</span></p>

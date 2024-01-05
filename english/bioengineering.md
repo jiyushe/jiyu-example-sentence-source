@@ -1,5 +1,7 @@
 # bioengineering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioengineering.md)
+
 <p><span class="chinese">他们正在策划一个新的生物工程学的反贪污运动。</span><span class="english">They are planning a new campaign against corruption in Bioengineering.</span></p>
 
 <p><span class="chinese">在生物医学成像和生物工程的国家研究所所取得的图像。</span><span class="english">Image via the National Institute of Biomedical Imaging and Bioengineering.</span></p>

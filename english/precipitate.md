@@ -1,5 +1,7 @@
 # precipitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precipitate.md)
+
 <p><span class="chinese">云常会凝结成雨或雪。</span><span class="english">Clouds usually precipitate as rain and snow.</span></p>
 
 <p><span class="chinese">它只会加速他的毁灭。</span><span class="english">It would only serve to precipitate his ruin.</span></p>

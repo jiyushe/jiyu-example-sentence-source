@@ -1,5 +1,7 @@
 # 工农红军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongnonghongjun.md)
+
 <p><span class="chinese">工农红军第十军。</span><span class="english">Workers and peasants' Ten Red Army.</span></p>
 
 <p><span class="chinese">中国工农红军也曾在这里的雪山草地里书写壮举。</span><span class="english">The Red Army men once wrote down their heroic feat here.</span></p>

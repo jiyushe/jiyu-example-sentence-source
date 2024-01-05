@@ -1,5 +1,7 @@
 # yoruba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yoruba.md)
+
 <p><span class="chinese">这首合唱曲目是英语和非洲语唱的。</span><span class="english">The chorus is a mix of Yoruba and English.</span></p>
 
 <p><span class="chinese">到目前为止，科学家进行的基因组研究大都聚焦于尼日利亚的约鲁巴人。</span><span class="english">Most genomic studies done in Africa so far have focused on the Yoruba of Nigeria.</span></p>

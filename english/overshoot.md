@@ -1,5 +1,7 @@
 # overshoot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overshoot.md)
+
 <p><span class="chinese">有人行为过度了，就变成了侵略。</span><span class="english">People overshoot the mark. There is aggression.</span></p>
 
 <p><span class="chinese">为减小超调量，采用了微分反馈。</span><span class="english">Derivate feedback is adopted to decrease the overshoot.</span></p>

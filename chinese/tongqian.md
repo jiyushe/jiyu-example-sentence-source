@@ -1,5 +1,7 @@
 # 铜钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongqian.md)
+
 <p><span class="chinese">你看这树干上长了那么多铜钱。</span><span class="english">You see so many copper coins growing on the trunk.</span></p>
 
 <p><span class="chinese">中国古代铜钱的形状是外圆内方的。</span><span class="english">Chinese ancient copper coins have a square hole inside a circle.</span></p>

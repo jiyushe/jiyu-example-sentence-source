@@ -1,5 +1,7 @@
 # undistinguished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undistinguished.md)
+
 <p><span class="chinese">吴国的国王居然被楚国的无名小辈女王杀死了！</span><span class="english">The king of Wu has been slain by an undistinguished young queen!</span></p>
 
 <p><span class="chinese">品牌是平庸但又渴望超越小资们的一只绣花枕头。</span><span class="english">Brand seems like"a embroidered pillow", undistinguished but ambitious to exceed petty bourgeoisie.</span></p>

@@ -1,5 +1,7 @@
 # 秧苗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangmiao.md)
+
 <p><span class="chinese">他们移植了那些秧苗。</span><span class="english">They pricked out the seedlings.</span></p>
 
 <p><span class="chinese">农民把秧苗栽在苗圃里。</span><span class="english">The farmer bedded the seedlings in.</span></p>

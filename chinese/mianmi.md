@@ -1,5 +1,7 @@
 # 绵密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmi.md)
+
 <p><span class="chinese">比薄棉袜厚实绵密。</span><span class="english">Thin cotton socks than thick-knit.</span></p>
 
 <p><span class="chinese">等量的烹煮香浓咖啡和绵密冒蒸的奶泡！</span><span class="english">Equal parts rich-brewed coffee and frothy steamed milk!</span></p>

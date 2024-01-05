@@ -1,5 +1,7 @@
 # 崖壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yabi.md)
+
 <p><span class="chinese">他看着从他的崖壁上。</span><span class="english">He watches from his mountain walls.</span></p>
 
 <p><span class="chinese">我们走到了一个崖壁旁，马上爬了上去。</span><span class="english">As soon as we came to a ledge, we climbed up on it.</span></p>

@@ -1,5 +1,7 @@
 # plum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plum.md)
+
 <p><span class="chinese">是我的梅酒。</span><span class="english">It's my plum wine.</span></p>
 
 <p><span class="chinese">离开李树。</span><span class="english">Off the plum tree.</span></p>

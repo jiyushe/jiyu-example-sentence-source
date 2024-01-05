@@ -1,5 +1,7 @@
 # grouchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grouchy.md)
+
 <p><span class="chinese">如果你自己都满腹牢骚情况会怎么样呢？</span><span class="english">But what if you’re feeling grouchy?</span></p>
 
 <p><span class="chinese">我隐约感到他今天不太对劲。</span><span class="english">I feel that he is kind of grouchy today.</span></p>

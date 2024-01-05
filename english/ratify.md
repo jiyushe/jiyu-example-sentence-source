@@ -1,5 +1,7 @@
 # ratify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ratify.md)
+
 <p><span class="chinese">但是首先美国必须批准该条约。</span><span class="english">But first it will have to ratify the treaty.</span></p>
 
 <p><span class="chinese">他们都批准和诬蔑某些行为。</span><span class="english">They both ratify and stigmatize certain behaviors.</span></p>

@@ -1,5 +1,7 @@
 # illness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illness.md)
+
 <p><span class="chinese">巫师利用梦来诊断疾病。</span><span class="english">to diagnose illness.</span></p>
 
 <p><span class="chinese">什么导致了这个病？</span><span class="english">What cause the illness?</span></p>

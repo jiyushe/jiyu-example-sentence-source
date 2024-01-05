@@ -1,5 +1,7 @@
 # renault
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renault.md)
+
 <p><span class="chinese">雷诺E0</span><span class="english">Renault E0</span></p>
 
 <p><span class="chinese">你和弗拉维奥谈过这次转会吗？</span><span class="english">Who should replace you at Renault?</span></p>

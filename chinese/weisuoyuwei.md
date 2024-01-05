@@ -1,5 +1,7 @@
 # 为所欲为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weisuoyuwei.md)
+
 <p><span class="chinese">一个专制的统治者可以为所欲为。</span><span class="english">An absolute ruler can do just as he please.</span></p>
 
 <p><span class="chinese">跳，踢，拍，打，为所欲为。</span><span class="english">Jump, kick, shoot, punch, do whatever you want.</span></p>

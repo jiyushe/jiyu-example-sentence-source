@@ -1,5 +1,7 @@
 # frankincense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frankincense.md)
+
 <p><span class="chinese">薰衣草、乳香、橙花。</span><span class="english">Lavender, Frankincense and Neroli.</span></p>
 
 <p><span class="chinese">在中国，乳香被认为是用作治疗麻疯病。</span><span class="english">In China frankincense was thought to be a treatment for leprosy.</span></p>

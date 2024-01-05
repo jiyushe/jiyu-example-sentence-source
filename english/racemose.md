@@ -1,5 +1,7 @@
 # racemose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racemose.md)
+
 <p><span class="chinese">对总状头状的花序。</span><span class="english">Inflorescences capitate to racemose.</span></p>
 
 <p><span class="chinese">石斛属的任何一种植物，其茎像甘蔗，有总状花序、花艳丽。</span><span class="english">Dendrobium having stems like cane and usually showy racemose flowers.</span></p>

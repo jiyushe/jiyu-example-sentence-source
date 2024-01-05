@@ -1,5 +1,7 @@
 # mail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mail.md)
+
 <p><span class="chinese">邮件点名！</span><span class="english">Mail call!</span></p>
 
 <p><span class="chinese">邮件合并。</span><span class="english">Mail merge.</span></p>

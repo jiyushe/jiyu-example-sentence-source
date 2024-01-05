@@ -1,5 +1,7 @@
 # 跃跃欲试
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueyueyushi.md)
+
 <p><span class="chinese">毫无疑问，律师们正摩拳擦掌，跃跃欲试。</span><span class="english">The lawyers are, no doubt, rubbing their hands.</span></p>
 
 <p><span class="chinese">但是发展中国家仍然跃跃欲试。</span><span class="english">But developing countries are nevertheless raring to go.</span></p>

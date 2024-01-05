@@ -1,5 +1,7 @@
 # 老态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laotai_1.md)
+
 <p><span class="chinese">但即使在这个系列赛中看起来老态尽显，他们还是得到了认可。</span><span class="english">But as outdated as they looked in this series, they are established.</span></p>
 
 <p><span class="chinese">乐观，保持开心，别让压力折腾地你身心俱疲，老态尽显。</span><span class="english">Be optimistic, stay happy and don’t let stress make you look and feel old.</span></p>

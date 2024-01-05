@@ -1,5 +1,7 @@
 # ecclesiastical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecclesiastical.md)
+
 <p><span class="chinese">你穿婚礼服真漂亮。</span><span class="english">To clothe or robe, as in ecclesiastical vestments.</span></p>
 
 <p><span class="chinese">圣埃奇米阿津神学院也建在这里。</span><span class="english">Ecclesiastical Academy of Holy Etchmiadzin is also here.</span></p>

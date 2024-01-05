@@ -1,5 +1,7 @@
 # 病历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingli_3.md)
+
 <p><span class="chinese">我叫陈冲。这是我的门诊病历卡。</span><span class="english">My name is Chen Chong. Here is my card.</span></p>
 
 <p><span class="chinese">病历表用纸都已经用完了。</span><span class="english">All case history sheet paper has been used up.</span></p>

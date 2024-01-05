@@ -1,5 +1,7 @@
 # 园艺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyi_1.md)
+
 <p><span class="chinese">他退休后就搞起了园艺。</span><span class="english">He enjoyed his retirement.</span></p>
 
 <p><span class="chinese">作园艺时请戴手套。</span><span class="english">Wear gloves when gardening.</span></p>

@@ -1,5 +1,7 @@
 # caldron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caldron.md)
+
 <p><span class="chinese">水在大锅中翻滚。</span><span class="english">Water seethed in the caldron.</span></p>
 
 <p><span class="chinese">釜下烈火永不熄。</span><span class="english">Fire burn, and caldron bubble.</span></p>

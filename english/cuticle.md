@@ -1,5 +1,7 @@
 # cuticle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuticle.md)
+
 <p><span class="chinese">是疯丫头应用在角质层？</span><span class="english">Was Minx applied over the cuticle?</span></p>
 
 <p><span class="chinese">我们皮肤就是角质层薄的原因。</span><span class="english">Our skin is infertile cause of cuticle.</span></p>

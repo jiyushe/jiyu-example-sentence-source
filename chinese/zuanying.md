@@ -1,5 +1,7 @@
 # 钻营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuanying.md)
+
 <p><span class="chinese">他钻营谋求加薪。</span><span class="english">He  bucked for a raise.</span></p>
 
 <p><span class="chinese">他暗通关节，钻营投机挤进了委员会。</span><span class="english">He bribed himself onto the committee.</span></p>

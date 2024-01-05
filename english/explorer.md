@@ -1,5 +1,7 @@
 # explorer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explorer.md)
+
 <p><span class="chinese">探险家的工作是很艰苦的。</span><span class="english">It's toilsome of explorer to work.</span></p>
 
 <p><span class="chinese">郑和是一位著名的中国探险家。</span><span class="english">Zheng He was a mous Chinese explorer.</span></p>

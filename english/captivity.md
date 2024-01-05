@@ -1,5 +1,7 @@
 # captivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/captivity.md)
+
 <p><span class="chinese">圈禁的熊猫很少交配。</span><span class="english">Pandas rarely mate in captivity.</span></p>
 
 <p><span class="chinese">这些动物栏养起来很少会肥壮。</span><span class="english">These animals rarely thrive in captivity.</span></p>

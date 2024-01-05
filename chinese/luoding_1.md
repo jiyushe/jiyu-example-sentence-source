@@ -1,5 +1,7 @@
 # 螺钉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoding_1.md)
+
 <p><span class="chinese">内六角螺钉是孔式螺钉的一种。</span><span class="english">Hexagon screw is a screw hole.</span></p>
 
 <p><span class="chinese">他慢慢拧紧螺钉。</span><span class="english">He tightened the bolt  up slowly.</span></p>

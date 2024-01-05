@@ -1,5 +1,7 @@
 # 要件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaojian.md)
+
 <p><span class="chinese">我正在找一件夹克，我想要件带兜的。</span><span class="english">I'm looking for a jacket. I'd like one with a bag.</span></p>
 
 <p><span class="chinese">此要件为权利穷竭的基础。</span><span class="english">This element is the basis for the exhaustion of right.</span></p>

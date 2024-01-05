@@ -1,5 +1,7 @@
 # reported
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reported.md)
+
 <p><span class="chinese">他向老师复命。</span><span class="english">He reported to his teacher.</span></p>
 
 <p><span class="chinese">抢掠行为被广泛报道。</span><span class="english">Looting was widely reported.</span></p>

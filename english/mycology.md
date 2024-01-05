@@ -1,5 +1,7 @@
 # mycology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mycology.md)
+
 <p><span class="chinese">利用系统的真菌种类，以确定不同的蘑菇。</span><span class="english">Use systematic mycology to identify different mushroom species.</span></p>
 
 <p><span class="chinese">是真菌学领域研究专家。</span><span class="english">Dr Toni Atkinson is a research scientist specializing in mycology.</span></p>

@@ -1,5 +1,7 @@
 # platen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platen.md)
+
 <p><span class="chinese">玻璃平板上没有原件。</span><span class="english">No original on platen glass.</span></p>
 
 <p><span class="chinese">原件被留在玻璃平板上。</span><span class="english">Original is left on platen glass.</span></p>

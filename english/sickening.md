@@ -1,5 +1,7 @@
 # sickening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sickening.md)
+
 <p><span class="chinese">正当他往前冲时，他听到一阵咣当当的重击声。</span><span class="english">As he rushed, he heard a sickening crash and a thud.</span></p>
 
 <p><span class="chinese">迈尔斯厌恶地将他摔在地上。</span><span class="english">Miles threw him to the ground with a sickening thud.</span></p>

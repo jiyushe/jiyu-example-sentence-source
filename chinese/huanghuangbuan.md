@@ -1,5 +1,7 @@
 # 惶惶不安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanghuangbuan.md)
+
 <p><span class="chinese">现在雷耶斯惶惶不安。</span><span class="english">Now Reyes is in a panic.</span></p>
 
 <p><span class="chinese">她惶惶不安地走下楼梯。</span><span class="english">She came downstairs nervously.</span></p>

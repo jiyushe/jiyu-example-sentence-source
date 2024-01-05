@@ -1,5 +1,7 @@
 # concessionaire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concessionaire.md)
+
 <p><span class="chinese">其法律效果主要发生在原所有权人、让与人和受让人之间。</span><span class="english">Its legislative effect is mainly valid to the owner, assignor and concessionaire.</span></p>
 
 <p><span class="chinese">速记员可能是旅馆的职工，也可能是某一受让人的雇员。</span><span class="english">The stenographer may be either a hotel employee or an employee of a concessionaire.</span></p>

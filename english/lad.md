@@ -1,5 +1,7 @@
 # lad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lad.md)
+
 <p><span class="chinese">他不过是个小青年。</span><span class="english">He is just a lad.</span></p>
 
 <p><span class="chinese">任何少年都虚情假意。</span><span class="english">Any lad was born untrue.</span></p>

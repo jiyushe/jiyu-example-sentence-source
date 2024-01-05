@@ -1,5 +1,7 @@
 # protoplast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protoplast.md)
+
 <p><span class="chinese">温度明显影响原生质体融合的频率和速度。</span><span class="english">Temperature remarkably affected the frequency and the speed of protoplast fusion.</span></p>
 
 <p><span class="chinese">对花生与其近缘野生种间细胞融合及培养方法进行研究。</span><span class="english">The protoplast fusion and culture in peanut and its related species were studied.</span></p>

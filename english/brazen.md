@@ -1,5 +1,7 @@
 # brazen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brazen.md)
+
 <p><span class="chinese">他正为你献上一首青铜之歌。</span><span class="english">Who offers you a brazen hymn.</span></p>
 
 <p><span class="chinese">不像那希腊著名的铜铸巨人。</span><span class="english">Not like the brazen giant of Greek fame.</span></p>

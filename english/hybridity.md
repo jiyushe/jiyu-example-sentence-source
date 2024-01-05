@@ -1,5 +1,7 @@
 # hybridity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hybridity.md)
+
 <p><span class="chinese">当然，混杂状态是有风险的。</span><span class="english">To be sure, hybridity poses risks.</span></p>
 
 <p><span class="chinese">这就是韩国文化的“混性”特征。</span><span class="english">Because of the"hybridity"characteristic of the South Korean culture.</span></p>

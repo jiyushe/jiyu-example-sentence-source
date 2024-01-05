@@ -1,5 +1,7 @@
 # doleful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doleful.md)
+
 <p><span class="chinese">然后这个悲哀的故事逐渐消失。</span><span class="english">But the doleful tale dies away.</span></p>
 
 <p><span class="chinese">他总是露出忧郁的表情。</span><span class="english">He always shows a doleful expression.</span></p>

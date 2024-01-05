@@ -1,5 +1,7 @@
 # 荚果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaguo.md)
+
 <p><span class="chinese">这种荚果或用作食物的种子。</span><span class="english">Such a pod or seed used as food.</span></p>
 
 <p><span class="chinese">最终增加单株开花数、单株饱果数和荚果产量。</span><span class="english">As a result, it increased the pod yield.</span></p>

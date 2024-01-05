@@ -1,5 +1,7 @@
 # vigilantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vigilantly.md)
+
 <p><span class="chinese">他是一个严格、认真、自学成才的精神病患者，小心翼翼地控制着他的精神健康状态。</span><span class="english">He's a strict, conscientious, self-taught psychopath who vigilantly maintains his mental ill health.</span></p>
 
 <p><span class="chinese">这在中国简直不可想象，那儿的女人一般都会把自己裹得严严实实，为了不让自己的皮肤晒成苦工一样的古铜色。</span><span class="english">Pursuing a tan is anathema in China, where women vigilantly cover their skin to avoid the bronze of a laborer.</span></p>

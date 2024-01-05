@@ -1,5 +1,7 @@
 # 同学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxue.md)
+
 <p><span class="chinese">给这位同学一个特写</span><span class="english">Film that man.</span></p>
 
 <p><span class="chinese">后面那位同学。</span><span class="english">Yeah, in back.</span></p>

@@ -1,5 +1,7 @@
 # 何如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heru.md)
+
 <p><span class="chinese">请问何如拼写？</span><span class="english">How do you spell it?</span></p>
 
 <p><span class="chinese">赢得的便去，何如？</span><span class="english">The winner goes—agreed?</span></p>

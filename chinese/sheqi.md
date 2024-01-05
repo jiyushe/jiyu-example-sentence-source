@@ -1,5 +1,7 @@
 # 舍弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheqi.md)
+
 <p><span class="chinese">我舍弃了其模式“，他说。</span><span class="english">I depart from their modes," he says.</span></p>
 
 <p><span class="chinese">那个狠心的男人舍弃了妻小。</span><span class="english">The cruel man abandoned his wife and child.</span></p>

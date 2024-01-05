@@ -1,5 +1,7 @@
 # 周围
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouwei.md)
+
 <p><span class="chinese">周围是六呎厚的雪。</span><span class="english">In six feet of snow.</span></p>
 
 <p><span class="chinese">对得住周围的一切？</span><span class="english">Periphery to lives all?</span></p>

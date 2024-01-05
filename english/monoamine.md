@@ -1,5 +1,7 @@
 # monoamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monoamine.md)
+
 <p><span class="chinese">测定药物对单胺递质含量的影响。</span><span class="english">Effect of drugs on the content of monoamine.</span></p>
 
 <p><span class="chinese">目的建立大鼠脑内单胺递质及其代谢产物的测定方法。</span><span class="english">Aim To develop a HPLC method to determine monoamine and its metabolites in rat brain.</span></p>

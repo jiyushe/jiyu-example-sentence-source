@@ -1,5 +1,7 @@
 # burnout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burnout.md)
+
 <p><span class="chinese">但精力耗尽是件坏事么？</span><span class="english">But is burnout a bad thing?</span></p>
 
 <p><span class="chinese">工作倦怠不再是个可笑的问题了。</span><span class="english">Work burnout is no laughing matter.</span></p>

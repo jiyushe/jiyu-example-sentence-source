@@ -1,5 +1,7 @@
 # 呓语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyu_1.md)
+
 <p><span class="chinese">呓语，我知道。</span><span class="english">Crazy talk, I know.</span></p>
 
 <p><span class="chinese">你在睡梦里讲着呓语。</span><span class="english">You were talking gibberish in your sleep.</span></p>

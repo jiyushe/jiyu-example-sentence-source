@@ -1,5 +1,7 @@
 # 算作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanzuo.md)
+
 <p><span class="chinese">为什么还不能算作一种解决方案呢</span><span class="english">Why isn't this a solution?</span></p>
 
 <p><span class="chinese">就让我们的友谊算作一时遣兴吧。</span><span class="english">Let our friendship be a caprice.</span></p>

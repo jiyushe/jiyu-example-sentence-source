@@ -1,5 +1,7 @@
 # microelement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microelement.md)
+
 <p><span class="chinese">含多种微量元素及人体所需的氨基酸。</span><span class="english">Raspberry includes mang kinds of amino acid and microelement.</span></p>
 
 <p><span class="chinese">最近做了微量元素，结果是却钙、铁、锌，吃什么药补？</span><span class="english">Did microelement recently, the result is calcic however, iron, zinc, what medicine to eat to fill?</span></p>

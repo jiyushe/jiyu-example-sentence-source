@@ -1,5 +1,7 @@
 # 隆冬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longdong.md)
+
 <p><span class="chinese">隆冬时节的达卡灯火通明。</span><span class="english">It is winter and Dhaka is full of lights.</span></p>
 
 <p><span class="chinese">隆冬，被厚厚积雪所覆盖的禾木，更显得神秘与安静。</span><span class="english">In deep winter, Hom is covered by heavy snow.</span></p>

@@ -1,5 +1,7 @@
 # wrest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrest.md)
+
 <p><span class="chinese">把它手里的三叉戟夺过来。</span><span class="english">Wrest the trident out of her hand.</span></p>
 
 <p><span class="chinese">蠕动就是像虫子一样扭来扭去。</span><span class="english">To wriggle is to wrest about like a worm.</span></p>

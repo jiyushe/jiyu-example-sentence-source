@@ -1,5 +1,7 @@
 # ceria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceria.md)
+
 <p><span class="chinese">研究了纳米氧化铈颗粒对电沉积锌层耐腐蚀性能的影响。</span><span class="english">The effect of ceria nanoparticles on electrodeposited zinc coatings had been investigated.</span></p>
 
 <p><span class="chinese">以水合醋酸铈为前驱体，经直接煅烧制备了亚微米级超细氧化铈，且粒子分布窄，分散性好。</span><span class="english">Well-dispersed sub-micron ceria was prepared successfully through direct thermal decomposition of hydrated cerium acetate.</span></p>

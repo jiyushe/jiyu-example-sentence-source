@@ -1,5 +1,7 @@
 # temptation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temptation.md)
+
 <p><span class="chinese">诱惑是什么？</span><span class="english">What is temptation?</span></p>
 
 <p><span class="chinese">您应当抵制这种诱惑。</span><span class="english">You should resist the temptation.</span></p>

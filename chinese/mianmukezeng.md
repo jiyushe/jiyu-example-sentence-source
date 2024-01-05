@@ -1,5 +1,7 @@
 # 面目可憎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmukezeng.md)
+
 <p><span class="chinese">此刻他连妻子也感到面目可憎，令人讨厌。</span><span class="english">And his wife's face, too, struck him as repulsive and hateful.</span></p>
 
 <p><span class="chinese">村里似乎无人居住，惟一的生命迹象是附近田里一只面目可憎的黑山羊。</span><span class="english">The village seemed deserted, the only sign of life being an ugly?</span></p>

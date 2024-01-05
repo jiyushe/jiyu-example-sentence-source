@@ -1,5 +1,7 @@
 # 物换星移
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhuanxingyi.md)
+
 <p><span class="chinese">物换星移，我会永远守着你。</span><span class="english">Time flies, you'll always have me.</span></p>
 
 <p><span class="chinese">物换星移，我会一直守着你。</span><span class="english">Time Flies, But You'll Always Have Me.</span></p>

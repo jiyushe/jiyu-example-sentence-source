@@ -1,5 +1,7 @@
 # udp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/udp.md)
+
 <p><span class="chinese">UDP没有根据检查数侦测错误。</span><span class="english">UDP does detect errored datagrams with a checksum.</span></p>
 
 <p><span class="chinese">UDP为程序发送数据报。</span><span class="english">UDP sends and receives datagrams for applications.</span></p>

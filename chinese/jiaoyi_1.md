@@ -1,5 +1,7 @@
 # 交谊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyi_1.md)
+
 <p><span class="chinese">遵守交谊厅使用规定。</span><span class="english">Please abide by the using rules of the meeting place.</span></p>
 
 <p><span class="chinese">复健科，供应室，厨房，交谊厅。</span><span class="english">Rehabilitation Division, Supply Center, Kitchen, Lounge.</span></p>

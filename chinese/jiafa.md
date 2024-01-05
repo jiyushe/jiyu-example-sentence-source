@@ -1,5 +1,7 @@
 # 家法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiafa.md)
+
 <p><span class="chinese">人类学家法莱的观点却没有那么肯定。</span><span class="english">From an anthropologist's perspective, Farai is not so sure.</span></p>
 
 <p><span class="chinese">你的这种做法是有悖于祖宗家法的。</span><span class="english">Your method is against the domestic disciplines made by our forefathers.</span></p>

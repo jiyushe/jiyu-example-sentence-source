@@ -1,5 +1,7 @@
 # sanitarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanitarium.md)
+
 <p><span class="chinese">这是戒毒前期，里德在疗养所试图戒毒时死去。</span><span class="english">Reid died trying to kick his habit in a sanitarium.</span></p>
 
 <p><span class="chinese">在1948年，她死于费城马歇尔广场疗养院，享年84岁。</span><span class="english">In 1948 she died at 84 in Philadelphia's Marshall Square Sanitarium.</span></p>

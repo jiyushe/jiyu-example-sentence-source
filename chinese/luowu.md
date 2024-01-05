@@ -1,5 +1,7 @@
 # 落伍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luowu.md)
+
 <p><span class="chinese">你很是落伍了。</span><span class="english">You are out!</span></p>
 
 <p><span class="chinese">你太落伍了。</span><span class="english">You're too old-fashioned.</span></p>

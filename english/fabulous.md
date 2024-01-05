@@ -1,5 +1,7 @@
 # fabulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fabulous.md)
+
 <p><span class="chinese">简的烹饪技巧堪称一绝。</span><span class="english">Jane is a fabulous cook.</span></p>
 
 <p><span class="chinese">他成了一个传说性的人物。</span><span class="english">He became a fabulous being.</span></p>

@@ -1,5 +1,7 @@
 # municipal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/municipal.md)
+
 <p><span class="chinese">这就是市政债券保险公司</span><span class="english">These are municipal bond insurers.</span></p>
 
 <p><span class="chinese">高级市政官在市议会主持事务。</span><span class="english">Alderman sat in municipal councils.</span></p>

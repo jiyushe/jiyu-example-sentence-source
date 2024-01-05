@@ -1,5 +1,7 @@
 # mainboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mainboard.md)
+
 <p><span class="chinese">这个主板可能有问题。</span><span class="english">The mainboard maybe had a bad.</span></p>
 
 <p><span class="chinese">它可以直接把风吹到主板上。</span><span class="english">It blew some wind directly to the mainboard.</span></p>

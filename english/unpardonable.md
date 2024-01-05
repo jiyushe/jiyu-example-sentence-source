@@ -1,5 +1,7 @@
 # unpardonable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpardonable.md)
+
 <p><span class="chinese">向他人之妻求爱是一种罪恶。</span><span class="english">Their only one sin is unpardonable.</span></p>
 
 <p><span class="chinese">从没犯过罪，是为了不可宽恕之罪。</span><span class="english">Never have sinned is the unpardonable sin.</span></p>

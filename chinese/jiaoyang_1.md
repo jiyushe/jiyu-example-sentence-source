@@ -1,5 +1,7 @@
 # 骄阳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyang_1.md)
+
 <p><span class="chinese">被骄阳灼痛的眼睛，流泪了。</span><span class="english">By sun burning eyes, tears.</span></p>
 
 <p><span class="chinese">骄阳整天火辣辣地晒着我们。</span><span class="english">The sun beat down on us all day.</span></p>

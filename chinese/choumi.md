@@ -1,5 +1,7 @@
 # 稠密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choumi.md)
+
 <p><span class="chinese">这个社区人口稠密。</span><span class="english">The community is densely populated.</span></p>
 
 <p><span class="chinese">它们曾更少的稠密。</span><span class="english">They were much less dense and compact.</span></p>

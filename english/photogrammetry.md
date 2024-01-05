@@ -1,5 +1,7 @@
 # photogrammetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photogrammetry.md)
+
 <p><span class="chinese">该公司的名称是无人机摄影测量。</span><span class="english">The name of the company is UAV Photogrammetry.</span></p>
 
 <p><span class="chinese">雷达摄影测量是现代测绘高新技术之一。</span><span class="english">Radar photogrammetry is one of the modern survey technique.</span></p>

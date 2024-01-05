@@ -1,5 +1,7 @@
 # aright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aright.md)
+
 <p><span class="chinese">我理解正确吗？</span><span class="english">I understand aright?</span></p>
 
 <p><span class="chinese">没有这圣言，谁也不懂什么，谁也不能有正确的判断。</span><span class="english">Without this Word no man understands or judges aright.</span></p>

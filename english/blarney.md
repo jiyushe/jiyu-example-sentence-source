@@ -1,5 +1,7 @@
 # blarney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blarney.md)
+
 <p><span class="chinese">只有傻瓜才会相信你的花言巧语。</span><span class="english">Only a fool will believe your blarney.</span></p>
 
 <p><span class="chinese">布拉尼是那么瘦的赞美和我们喜欢它。</span><span class="english">And blarney is praise so thin we like it.</span></p>

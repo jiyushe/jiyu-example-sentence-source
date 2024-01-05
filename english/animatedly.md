@@ -1,5 +1,7 @@
 # animatedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animatedly.md)
+
 <p><span class="chinese">难道她就这样要活生生的憋死吗？</span><span class="english">Does she smother to death animatedly like this?</span></p>
 
 <p><span class="chinese">两名食客在午餐桌上发言热烈。</span><span class="english">Two diners at the lunch table speak animatedly.</span></p>

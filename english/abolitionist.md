@@ -1,5 +1,7 @@
 # abolitionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abolitionist.md)
+
 <p><span class="chinese">还有谣传说他们同情废奴主义者，但这并没有提高麦金托什家的声誉。</span><span class="english">Rumors of Abolitionist sympathies did not enhance the popularity of the Macintoshes.</span></p>
 
 <p><span class="chinese">在1859年，废除主义者约翰布朗带领约20人袭击了哈柏渡轮。</span><span class="english">In1859, abolitionist John Brown led a group of about20 men in a raid on Harper's Ferry.</span></p>

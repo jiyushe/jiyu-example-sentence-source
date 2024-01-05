@@ -1,5 +1,7 @@
 # pipette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pipette.md)
+
 <p><span class="chinese">不要用吸管吸吮。</span><span class="english">Never pipette by mouth.</span></p>
 
 <p><span class="chinese">用热水部分装填一个莫尔吸量管。</span><span class="english">Partially fill a Mohr pipette with hot water.</span></p>

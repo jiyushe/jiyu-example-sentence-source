@@ -1,5 +1,7 @@
 # sis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sis.md)
+
 <p><span class="chinese">老妹说“嘿”</span><span class="english">Sis says "hey""</span></p>
 
 <p><span class="chinese">你知道我在讲什麽吗，亲爱的小妹？</span><span class="english">You know what I'm sayin, baby sis?</span></p>

@@ -1,5 +1,7 @@
 # cryptanalysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryptanalysis.md)
+
 <p><span class="chinese">2001年，当地的执法部门想FBI密码破译和诈骗跟踪小组求救。</span><span class="english">In 2001, local law enforcement turned to the FBI Cryptanalysis and Racketeering Records Unit for help.</span></p>
 
 <p><span class="chinese">为所有这些算法的来源代码在公众领域里和经受了密码学分析。</span><span class="english">Source code for all these algorithms is in the public domain and has undergone years of cryptanalysis.</span></p>

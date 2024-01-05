@@ -1,5 +1,7 @@
 # 出入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/churu.md)
+
 <p><span class="chinese">林赛·罗韩出入改造中心好几次了。</span><span class="english">Lindsay Lohan's in and out of rehab.</span></p>
 
 <p><span class="chinese">监视他的出入。</span><span class="english">They watched his comings and goings.</span></p>

@@ -1,5 +1,7 @@
 # 圬工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugong.md)
+
 <p><span class="chinese">圬工职业水平3，练习指导，2004修订版，平装。</span><span class="english">Masonry Level 3 Trainee Guide, 2004 Revision, Perfect Bound.</span></p>
 
 <p><span class="chinese">因此，研究圬工拱桥的维修加固已是迫在眉睫。</span><span class="english">Therefore, it is urgent to study on masonry arch-bridge's reinforcement.</span></p>

@@ -1,5 +1,7 @@
 # 人材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rencai_1.md)
+
 <p><span class="chinese">你真是杰出人材。</span><span class="english">You’re an outstanding individual.</span></p>
 
 <p><span class="chinese">他是公司的宝贵人材。</span><span class="english">He is an invaluable asset to the firm.</span></p>

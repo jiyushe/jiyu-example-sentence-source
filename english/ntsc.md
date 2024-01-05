@@ -1,5 +1,7 @@
 # ntsc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ntsc.md)
+
 <p><span class="chinese">这是美国制式，能在贵国使用。</span><span class="english">It is NTSC system which suits your country.</span></p>
 
 <p><span class="chinese">PAL制式的彩色编码类似NTSC系统系统。</span><span class="english">PAL's color encoding is similar to the NTSC systems.</span></p>

@@ -1,5 +1,7 @@
 # iii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iii.md)
+
 <p><span class="chinese">用所给字母或字母组合写单词。</span><span class="english">III. Think and write the words.</span></p>
 
 <p><span class="chinese">英王理查三世是个魔鬼。</span><span class="english">King Richard III was a monster.</span></p>

@@ -1,5 +1,7 @@
 # sustained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sustained.md)
+
 <p><span class="chinese">但是我怀疑这种看法能否站住脚。</span><span class="english">But I doubt that it can be sustained.</span></p>
 
 <p><span class="chinese">还是一种耐久的持续性呢？</span><span class="english">Is it sustained periods of continuity?</span></p>

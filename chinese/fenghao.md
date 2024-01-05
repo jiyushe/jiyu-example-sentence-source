@@ -1,5 +1,7 @@
 # 封号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenghao.md)
+
 <p><span class="chinese">在古时候，这会让你赢得骑士的封号哩！</span><span class="english">In old days, this would win you knighthood!</span></p>
 
 <p><span class="chinese">他写博客使用的波斯文和英文，其博客已经被封号关闭。</span><span class="english">His blogs, in Persian and English, have been suspended.</span></p>

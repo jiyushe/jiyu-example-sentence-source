@@ -1,5 +1,7 @@
 # 汤团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangtuan.md)
+
 <p><span class="chinese">这天，爸爸教我包汤团。</span><span class="english">One day, dad taught me pack dumpling.</span></p>
 
 <p><span class="chinese">汤团充满了甜的粘稠物。</span><span class="english">The dumplings are filled with sweet goo.</span></p>

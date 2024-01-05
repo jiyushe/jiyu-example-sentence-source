@@ -1,5 +1,7 @@
 # beachy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beachy.md)
+
 <p><span class="chinese">不要只是比奇的头发。</span><span class="english">Don't make it just beachy hair.</span></p>
 
 <p><span class="chinese">那一夜，我们途径滩头堡，前往伯明翰。</span><span class="english">The night we went to Birmingham by way of Beachy Head.</span></p>

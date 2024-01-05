@@ -1,5 +1,7 @@
 # roundhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roundhouse.md)
+
 <p><span class="chinese">他的迴旋踢特别有力。</span><span class="english">His roundhouse kick is especially powerful.</span></p>
 
 <p><span class="chinese">没错。他的迴旋踢特别有力。</span><span class="english">Yes. His roundhouse kick is especially powerful.</span></p>

@@ -1,5 +1,7 @@
 # 显现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxian_1.md)
+
 <p><span class="chinese">它正在显现！</span><span class="english">It is manifesting!</span></p>
 
 <p><span class="chinese">但当它显现出来之时，为时已晚。</span><span class="english">But by then, it's too late.</span></p>

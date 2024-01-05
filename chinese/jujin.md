@@ -1,5 +1,7 @@
 # 拘谨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jujin.md)
+
 <p><span class="chinese">我这也许太拘谨了。</span><span class="english">Perhaps it was too prudish.</span></p>
 
 <p><span class="chinese">她的脸是臃肿和拘谨。</span><span class="english">Her face is bloated and squarish.</span></p>

@@ -1,5 +1,7 @@
 # avail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avail.md)
+
 <p><span class="chinese">何济于事?</span><span class="english">Of what avail is it?</span></p>
 
 <p><span class="chinese">这骗不了她。</span><span class="english">That won’t avail on her.</span></p>

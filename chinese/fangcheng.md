@@ -1,5 +1,7 @@
 # 方程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangcheng.md)
+
 <p><span class="chinese">这就是一个抛物线方程。</span><span class="english">That is a parabola.</span></p>
 
 <p><span class="chinese">等温线的方程了。</span><span class="english">That's the isotherm here.</span></p>

@@ -1,5 +1,7 @@
 # 详解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjie_1.md)
+
 <p><span class="chinese">他不懂，我知。可说与谁谁又愿详解？</span><span class="english">He does not know, I know. To say and who may explain?</span></p>
 
 <p><span class="chinese">包括了中文和英文两种语言的详解。</span><span class="english">Includes both Chinese and English languages Detailed.</span></p>

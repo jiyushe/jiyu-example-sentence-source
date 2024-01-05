@@ -1,5 +1,7 @@
 # hakka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hakka.md)
+
 <p><span class="chinese">满堂客家大围。</span><span class="english">"Mantang Hakka Manor House".</span></p>
 
 <p><span class="chinese">客家人具有独特的客家精神。</span><span class="english">Hakkas has a unique spirit of the Hakka.</span></p>

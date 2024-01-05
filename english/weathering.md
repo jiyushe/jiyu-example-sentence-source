@@ -1,5 +1,7 @@
 # weathering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weathering.md)
+
 <p><span class="chinese">经过长年风化，斑斑点点的。</span><span class="english">Through a long period of weathering.</span></p>
 
 <p><span class="chinese">风化可把岩石一片片地剥落掉。</span><span class="english">The weathering could split the rock off.</span></p>

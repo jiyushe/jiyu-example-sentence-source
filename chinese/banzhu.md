@@ -1,5 +1,7 @@
 # 斑竹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banzhu.md)
+
 <p><span class="chinese">如题，肯为人民服务的可以申请斑竹！</span><span class="english">Can I be the mottled bamboo?</span></p>
 
 <p><span class="chinese">偶也同意斑竹的说法。对。</span><span class="english">I agree with explain of the above.</span></p>

@@ -1,5 +1,7 @@
 # appall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appall.md)
+
 <p><span class="chinese">为杀人犯和小偷辩护会使他们吓得魂不附体。</span><span class="english">Defending murderers and thieves would appall them.</span></p>
 
 <p><span class="chinese">甘地不随主流的方法往往会吓跑和疏远那些有着世俗思想的旁观者。</span><span class="english">Gandhi’s nonconformist ways tend to appall and alienate secular-minded observers.</span></p>

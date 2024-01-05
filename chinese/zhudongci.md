@@ -1,5 +1,7 @@
 # 助动词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhudongci.md)
+
 <p><span class="chinese">那么究竟什么是助动词呢？</span><span class="english">What is a helping verb, then?</span></p>
 
 <p><span class="chinese">怎样更好的运用助动词？</span><span class="english">How to use auxiliary verb better ?</span></p>

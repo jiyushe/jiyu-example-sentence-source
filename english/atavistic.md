@@ -1,5 +1,7 @@
 # atavistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atavistic.md)
+
 <p><span class="chinese">我觉得，这怒气是一种返祖现象。</span><span class="english">This anger, I think, is atavistic.</span></p>
 
 <p><span class="chinese">在场的那些人中，很多都感到这种隔代遗传的恐惧。</span><span class="english">Many of those present felt this atavistic fear.</span></p>

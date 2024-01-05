@@ -1,5 +1,7 @@
 # taskmaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taskmaster.md)
+
 <p><span class="chinese">认识到业务是个残酷的监工。</span><span class="english">Recognize that business is a cruel taskmaster.</span></p>
 
 <p><span class="chinese">你正在服务于一个领导，胜过观众。</span><span class="english">K. ?' You're serving a taskmaster that trumps the audience.</span></p>

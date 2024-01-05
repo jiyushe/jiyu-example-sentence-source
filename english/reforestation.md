@@ -1,5 +1,7 @@
 # reforestation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reforestation.md)
+
 <p><span class="chinese">我们还有一个大规模的重造热带雨林计划。</span><span class="english">We need a massive reforestation programme.</span></p>
 
 <p><span class="chinese">通过植树造林和避免乱砍滥伐减少碳排放。</span><span class="english">Carbon reduction through reforestation and avoided deforestation.</span></p>

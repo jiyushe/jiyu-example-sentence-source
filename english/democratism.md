@@ -1,5 +1,7 @@
 # democratism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/democratism.md)
+
 <p><span class="chinese">其思想渊源是民主主义与尊重人权主义。</span><span class="english">Its ideological origins are democratism and the doctrine of respecting human rights.</span></p>
 
 <p><span class="chinese">卢梭的道德理想主义政治哲学从民主主义向民粹主义蜕变。</span><span class="english">Rousseau's ethical political philosophy of idealism changes in quality from democratism to populism.</span></p>

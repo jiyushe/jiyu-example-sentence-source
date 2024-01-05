@@ -1,5 +1,7 @@
 # shekel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shekel.md)
+
 <p><span class="chinese">如今一枚谢克尔值多少钱？</span><span class="english">What's a shekel worth today?</span></p>
 
 <p><span class="chinese">那么如今一枚谢克尔值多少钱呢？</span><span class="english">So how much would a shekel be worth today?</span></p>

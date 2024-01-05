@@ -1,5 +1,7 @@
 # gwadar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gwadar.md)
+
 <p><span class="chinese">瓜达尔港是梦想与现实的相互冲突的战场。</span><span class="english">Gwadar is where dreams clash with reality.</span></p>
 
 <p><span class="chinese">瓜达尔正好位于中国重要的石油大动脉上。</span><span class="english">Gwadar lies right on China’s vital oil artery.</span></p>

@@ -1,5 +1,7 @@
 # 银牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinpai.md)
+
 <p><span class="chinese">不要银牌。</span><span class="english">Not silver.</span></p>
 
 <p><span class="chinese">克罗地亚的菲利普-乌德赢得银牌。</span><span class="english">Filip Ude of Croatia won the silver.</span></p>

@@ -1,5 +1,7 @@
 # yemen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yemen.md)
+
 <p><span class="chinese">也门是另一场灾难。</span><span class="english">Yemen is yet another disaster.</span></p>
 
 <p><span class="chinese">货到也门的亚丁的到岸价是多少？</span><span class="english">How much is shipping to Aden, Yemen?</span></p>

@@ -1,5 +1,7 @@
 # deny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deny.md)
+
 <p><span class="chinese">我不能否认这一点。</span><span class="english">I cannae deny it.</span></p>
 
 <p><span class="chinese">受试者会否定自己的行为</span><span class="english">And people would deny it.</span></p>

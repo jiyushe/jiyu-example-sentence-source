@@ -1,5 +1,7 @@
 # evaporate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaporate.md)
+
 <p><span class="chinese">对了，怎么不见弘晖过来？</span><span class="english">To, how evaporate Hong Hui to come over?</span></p>
 
 <p><span class="chinese">原来满脑子的恐惧似乎一下子都蒸发了。</span><span class="english">A lot of my fear just seemed to evaporate.</span></p>

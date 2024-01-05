@@ -1,5 +1,7 @@
 # 转炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanlu_1.md)
+
 <p><span class="chinese">适用于炼钢转炉、电炉、精炼炉等。</span><span class="english">Steel making converters, EAFs, ladles and LF furnaces.</span></p>
 
 <p><span class="chinese">溅渣护炉技术是提高转炉炉龄的有效措施。</span><span class="english">Slag splashing is effective in extending the lining life.</span></p>

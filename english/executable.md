@@ -1,5 +1,7 @@
 # executable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/executable.md)
+
 <p><span class="chinese">只读和可执行的代码。</span><span class="english">Code that is read-only and executable.</span></p>
 
 <p><span class="chinese">对个人机用户来说，压缩文件是可执行的。</span><span class="english">For PC users, the files are executable.</span></p>

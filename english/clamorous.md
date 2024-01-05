@@ -1,5 +1,7 @@
 # clamorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clamorous.md)
+
 <p><span class="chinese">他们吵吵嚷嚷要求增加工资。</span><span class="english">They are clamorous for better pay.</span></p>
 
 <p><span class="chinese">而瀑布也似乎分外的。向了。</span><span class="english">The waterfall seemed unusually clamorous too.</span></p>

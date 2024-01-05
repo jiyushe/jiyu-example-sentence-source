@@ -1,5 +1,7 @@
 # 睦邻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mulin.md)
+
 <p><span class="chinese">是一次睦邻之旅。</span><span class="english">A journey of good-neighborliness.</span></p>
 
 <p><span class="chinese">一种睦邻友善之举。</span><span class="english">A sort of neighbourly friendliness.</span></p>

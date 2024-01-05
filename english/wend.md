@@ -1,5 +1,7 @@
 # wend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wend.md)
+
 <p><span class="chinese">沿着无名的岸我回家。</span><span class="english">As I wend to the shores I know not.</span></p>
 
 <p><span class="chinese">他问“上帝啊为什么你不救我？”</span><span class="english">Then he drowned and he wend to heaven.</span></p>

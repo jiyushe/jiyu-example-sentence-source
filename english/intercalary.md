@@ -1,5 +1,7 @@
 # intercalary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercalary.md)
+
 <p><span class="chinese">高粱茎秆节间长度的遗传参数呈现有规律的变化。</span><span class="english">The genetic parameters of intercalary lengths of sorghum are changed regularly.</span></p>
 
 <p><span class="chinese">现在合唱是作为插曲，这由阿迦松第一个引入。</span><span class="english">Hence it is that they are now singing intercalary pieces, a practice first introduced by Agathon.</span></p>

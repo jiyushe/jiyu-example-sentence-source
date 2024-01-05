@@ -1,5 +1,7 @@
 # 娇美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaomei.md)
+
 <p><span class="chinese">娇美向日葵，仍然记在心间。</span><span class="english">The beautiful sunflower is still on my mind.</span></p>
 
 <p><span class="chinese">她是一个害羞、娇美的女孩，长着一双大大的蓝眼睛。</span><span class="english">She was a shy, delicately pretty girl with enormous blue eyes.</span></p>

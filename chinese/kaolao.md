@@ -1,5 +1,7 @@
 # 犒劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaolao.md)
+
 <p><span class="chinese">去做做推拿或者泡泡温泉，犒劳一下自己。</span><span class="english">Treat yourself to a massage or spa day.</span></p>
 
 <p><span class="chinese">他们清楚地知道阴间的君主是不可能犒劳他们的。</span><span class="english">They know he can’t pay them from beyond the grave.</span></p>

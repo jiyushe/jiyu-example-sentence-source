@@ -1,5 +1,7 @@
 # 五脏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzang.md)
+
 <p><span class="chinese">没错，一个五脏俱全的扳手。</span><span class="english">Yeah, there is a real wrench out there.</span></p>
 
 <p><span class="chinese">麻雀虽小，五脏俱全。</span><span class="english">The sparrow may be small, fully-equipped.</span></p>

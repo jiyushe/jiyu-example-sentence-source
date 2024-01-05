@@ -1,5 +1,7 @@
 # legwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legwork.md)
+
 <p><span class="chinese">我干的是跑腿儿的活。</span><span class="english">What I do is a kind of legwork.</span></p>
 
 <p><span class="chinese">你的竞争者已经为你做了许多详细调查。</span><span class="english">Your competitors have done a lot of legwork for you.</span></p>

@@ -1,5 +1,7 @@
 # 贵宾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guibin.md)
+
 <p><span class="chinese">我们可是这里的贵宾啊。</span><span class="english">We are the VIP customers here.</span></p>
 
 <p><span class="chinese">我有三只贵宾犬和一只猫。</span><span class="english">I have three poodles and a cat.</span></p>

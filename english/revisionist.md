@@ -1,5 +1,7 @@
 # revisionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revisionist.md)
+
 <p><span class="chinese">戴维·布鲁克斯是个修正主义者</span><span class="english">David Brooks is a revisionist.</span></p>
 
 <p><span class="chinese">头一次遇到独立战争史的史学家，我才六岁。</span><span class="english">I met my first revisionist historian when I was six.</span></p>

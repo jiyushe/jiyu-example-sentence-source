@@ -1,5 +1,7 @@
 # snotty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snotty.md)
+
 <p><span class="chinese">听着，你这个可怜的小混蛋。</span><span class="english">Look here, you snotty little creep.</span></p>
 
 <p><span class="chinese">这完全是是一个无足轻重的人的下贱的贬低。</span><span class="english">It's a snotty takedown of a straw man.</span></p>

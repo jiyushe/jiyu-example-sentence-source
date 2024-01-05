@@ -1,5 +1,7 @@
 # 天麻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianma_1.md)
+
 <p><span class="chinese">这种土壤宜于种植天麻。</span><span class="english">This kind of soil is good for growing watermelons.</span></p>
 
 <p><span class="chinese">天麻药酒具有显著的抗血凝作用。</span><span class="english">Gastrodia elate Blume medicinal wine has extensive applied prospect.</span></p>

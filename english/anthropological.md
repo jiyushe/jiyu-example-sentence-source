@@ -1,5 +1,7 @@
 # anthropological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropological.md)
+
 <p><span class="chinese">我们对文化的定义更接近人类学的含义。</span><span class="english">Our definition of culture is much more anthropological.</span></p>
 
 <p><span class="chinese">这本书是对印第安人的人类学研究。</span><span class="english">And Lila is an anthropological study of Native Americans.</span></p>

@@ -1,5 +1,7 @@
 # 变子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzi.md)
+
 <p><span class="chinese">方法利用不变子空间方法。</span><span class="english">Methods Using the invariant subspace method.</span></p>
 
 <p><span class="chinese">因而V的不变子空间都是T的超不变子空间。</span><span class="english">Thus all the invariant subspaces of V are hyperinvariant for T.</span></p>

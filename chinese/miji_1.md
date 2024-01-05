@@ -1,5 +1,7 @@
 # 秘籍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miji_1.md)
+
 <p><span class="chinese">有没有自我奋斗的成功秘籍？</span><span class="english">Are there any true secrets of the self-made?</span></p>
 
 <p><span class="chinese">秘籍1、高权重的手机论坛。</span><span class="english">Cheats 1, the high weight of the phone forum.</span></p>

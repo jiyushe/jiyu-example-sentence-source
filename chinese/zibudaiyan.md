@@ -1,5 +1,7 @@
 # 自不待言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zibudaiyan.md)
+
 <p><span class="chinese">自不待言，这是一个单纯的年代。</span><span class="english">It was a simpler age, to say the least.</span></p>
 
 <p><span class="chinese">男人，这篇文章真正的名字自不待言。</span><span class="english">Men, the name of this article truly speaks for itself.</span></p>

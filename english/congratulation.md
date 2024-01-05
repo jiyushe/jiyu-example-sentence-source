@@ -1,5 +1,7 @@
 # congratulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congratulation.md)
+
 <p><span class="chinese">火红年，恭喜发财贺新年。</span><span class="english">Red, congratulation happy new year.</span></p>
 
 <p><span class="chinese">祝贺信潮水般地涌来。</span><span class="english">Letters of congratulation flooded in.</span></p>

@@ -1,5 +1,7 @@
 # 锦旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinqi_2.md)
+
 <p><span class="chinese">墙上张挂着锦旗。</span><span class="english">Banners are arrayed on the wall.</span></p>
 
 <p><span class="chinese">我们不担心很多有关锦旗。</span><span class="english">We dont worry about the pennant much.</span></p>

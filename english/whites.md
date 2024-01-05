@@ -1,5 +1,7 @@
 # whites
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whites.md)
+
 <p><span class="chinese">搅好鸡蛋后再慢慢地拌入面粉。</span><span class="english">Fold in the egg whites.</span></p>
 
 <p><span class="chinese">现在把蛋清调匀。</span><span class="english">Now blender the whites.</span></p>

@@ -1,5 +1,7 @@
 # 跑鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoxie.md)
+
 <p><span class="chinese">所以需要好的跑鞋。</span><span class="english">So I need good running shoes.</span></p>
 
 <p><span class="chinese">下次挑双至少大半个号的跑鞋吧。</span><span class="english">Go up at least a half size next time.</span></p>

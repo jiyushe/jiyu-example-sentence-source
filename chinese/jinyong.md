@@ -1,5 +1,7 @@
 # 禁用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyong.md)
+
 <p><span class="chinese">它应该是禁用的。</span><span class="english">It should be disabled.</span></p>
 
 <p><span class="chinese">禁用无用的推理。</span><span class="english">Disable Useless Theorizing.</span></p>

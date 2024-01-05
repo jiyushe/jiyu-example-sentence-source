@@ -1,5 +1,7 @@
 # wriggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wriggle.md)
+
 <p><span class="chinese">2011年财政预算，束手束脚。</span><span class="english">Budget 2011, No wriggle room.</span></p>
 
 <p><span class="chinese">我开始在椅子上扭来扭去。</span><span class="english">I started to wriggle on my chair.</span></p>

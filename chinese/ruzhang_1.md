@@ -1,5 +1,7 @@
 # 入账
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruzhang_1.md)
+
 <p><span class="chinese">英国和法国各有一杯入账。</span><span class="english">England and France have each won once.</span></p>
 
 <p><span class="chinese">商誉作为一项无形资产入账。</span><span class="english">Goodwill is booked as an intangible asset.</span></p>

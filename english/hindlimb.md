@@ -1,5 +1,7 @@
 # hindlimb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hindlimb.md)
+
 <p><span class="chinese">大鼠后肢运动功能BBB评分测定结果。</span><span class="english">BBB scoring of motor function of hindlimb of rats.</span></p>
 
 <p><span class="chinese">后肢骨包括盆带骨和游离后肢骨。</span><span class="english">Hindlimb bones included pelvic bone and dissociative hindlimb bones.</span></p>

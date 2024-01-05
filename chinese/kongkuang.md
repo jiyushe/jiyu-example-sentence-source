@@ -1,5 +1,7 @@
 # 空旷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongkuang.md)
+
 <p><span class="chinese">巡行在空旷的宇宙。</span><span class="english">Traveling in empty space.</span></p>
 
 <p><span class="chinese">缚手缚脚的空旷。</span><span class="english">All vanishes into emptiness.</span></p>

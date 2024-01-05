@@ -1,5 +1,7 @@
 # paten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paten.md)
+
 <p><span class="chinese">专利滑动定位设计，使用安全，轻松简单。</span><span class="english">Paten slide and click orientation design for safe and easy to use.</span></p>
 
 <p><span class="chinese">研究结论表明，最优的专利长度和专利宽度都是有限的。</span><span class="english">It is showed that optimal patent length and optimal paten breadth are all finite.</span></p>

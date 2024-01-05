@@ -1,5 +1,7 @@
 # 遥感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaogan_1.md)
+
 <p><span class="chinese">遥感技术能帮上忙吗？</span><span class="english">Could remote sensing help?</span></p>
 
 <p><span class="chinese">灾害遥感监测业务体系。</span><span class="english">Disaster remote-sensing monitoring system.</span></p>

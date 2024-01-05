@@ -1,5 +1,7 @@
 # 小业主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyezhu.md)
+
 <p><span class="chinese">我父亲是小业主。</span><span class="english">He is a small businessman.</span></p>
 
 <p><span class="chinese">小业主还贷款难上加难。</span><span class="english">Small property owners paying back loans.</span></p>

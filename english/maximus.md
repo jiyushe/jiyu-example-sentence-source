@@ -1,5 +1,7 @@
 # maximus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maximus.md)
+
 <p><span class="chinese">后腿的臀大肌使髋部伸展。</span><span class="english">The back leg gluteus maximus extends the hip.</span></p>
 
 <p><span class="chinese">有四层这里的肌肉和臀大肌是第一个。</span><span class="english">She does not have a great butt, she is gluteus to the maximus.</span></p>

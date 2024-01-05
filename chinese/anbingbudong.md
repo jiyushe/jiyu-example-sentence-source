@@ -1,5 +1,7 @@
 # 按兵不动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anbingbudong.md)
+
 <p><span class="chinese">林文犹豫了一下，仍然按兵不动。</span><span class="english">Just hesitate a little, still bide one's time.</span></p>
 
 <p><span class="chinese">我们将按兵不动，等着敌人断粮挨饿。</span><span class="english">We shall wait the enemy out, and watch them starve.</span></p>

@@ -1,5 +1,7 @@
 # abstraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abstraction.md)
+
 <p><span class="chinese">抽象级别提供了什么呢？</span><span class="english">What do levels of abstraction provide?</span></p>
 
 <p><span class="chinese">这种合约是非常重要的。</span><span class="english">And that abstraction is really important.</span></p>

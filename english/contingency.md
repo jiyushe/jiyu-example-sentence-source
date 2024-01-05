@@ -1,5 +1,7 @@
 # contingency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contingency.md)
+
 <p><span class="chinese">它增加了不必要的意外。</span><span class="english">It sets up an unnecessary contingency.</span></p>
 
 <p><span class="chinese">我们应该对任何应急情况有所准备。</span><span class="english">We should be prepared for any contingency.</span></p>

@@ -1,5 +1,7 @@
 # headstand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headstand.md)
+
 <p><span class="chinese">在我发生意外之前，我可以轻而易举地倒立。</span><span class="english">Before my accident, I could easily do a headstand.</span></p>
 
 <p><span class="chinese">当你在山式中找到准线时，你就很容易在头倒立中找到平衡。</span><span class="english">Once you find proper alignment in Tadasana, you'll balance with ease in Headstand.</span></p>

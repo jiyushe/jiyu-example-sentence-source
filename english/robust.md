@@ -1,5 +1,7 @@
 # robust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robust.md)
+
 <p><span class="chinese">他是个身体健壮的小伙子。</span><span class="english">He is a robust young man.</span></p>
 
 <p><span class="chinese">也是个生动的发现</span><span class="english">And it's a robust finding.</span></p>

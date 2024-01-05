@@ -1,5 +1,7 @@
 # 青春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingchun_1.md)
+
 <p><span class="chinese">我长了一颗青春豆！</span><span class="english">I've got a zit!</span></p>
 
 <p><span class="chinese">即使是那些青春少女？</span><span class="english">Even teenage girls?</span></p>

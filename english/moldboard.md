@@ -1,5 +1,7 @@
 # moldboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moldboard.md)
+
 <p><span class="chinese">更长的铲刀，提高了作业效率。</span><span class="english">The longer moldboard improves working efficiency.</span></p>
 
 <p><span class="chinese">水泥模板是浇灌混凝土结构和构件的重要工具。</span><span class="english">Concrete moldboard is an important facility on the concrete pouring.</span></p>

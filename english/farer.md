@@ -1,5 +1,7 @@
 # farer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farer.md)
+
 <p><span class="chinese">我想和他走到比永远更远。</span><span class="english">I want to walk to with him farer than forever.</span></p>
 
 <p><span class="chinese">来自加拿大多伦多的法尔不赞成这个观点。</span><span class="english">Farer from Toronto in Canada is against the idea.</span></p>

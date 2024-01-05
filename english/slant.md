@@ -1,5 +1,7 @@
 # slant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slant.md)
+
 <p><span class="chinese">斜射的太阳光显得如此美妙。</span><span class="english">The slant of sun becomes significant.</span></p>
 
 <p><span class="chinese">喜欢用方言甚于大气的全韵</span><span class="english">prefer slant to the gong of full rhyme</span></p>

@@ -1,5 +1,7 @@
 # malfunction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malfunction.md)
+
 <p><span class="chinese">带定位装置、防止误动作。</span><span class="english">Locating device prevents malfunction.</span></p>
 
 <p><span class="chinese">系列故障显示系统，维修方便快捷。</span><span class="english">Self-display the malfunction makes easy maintenance.</span></p>

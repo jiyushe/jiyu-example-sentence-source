@@ -1,5 +1,7 @@
 # 衰退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaitui.md)
+
 <p><span class="chinese">这位老人的记忆衰退了。</span><span class="english">The old man's memory mouldered.</span></p>
 
 <p><span class="chinese">健康每况愈下使人志气衰退。</span><span class="english">Failing health dwindles ambition.</span></p>

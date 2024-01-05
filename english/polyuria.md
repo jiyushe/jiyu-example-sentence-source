@@ -1,5 +1,7 @@
 # polyuria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polyuria.md)
+
 <p><span class="chinese">就以多饮、多尿为主要表现。</span><span class="english">Take drinks, the polyuria as the main performance.</span></p>
 
 <p><span class="chinese">多尿期与恢复期亦较短。</span><span class="english">The polyuria time and the recovery period are also short.</span></p>

@@ -1,5 +1,7 @@
 # 酿制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangzhi.md)
+
 <p><span class="chinese">大多数啤酒是大麦酿制的。</span><span class="english">Most beers are made from barley.</span></p>
 
 <p><span class="chinese">翠微米酒的具体酿制技术?。</span><span class="english">Brewingtechnology of Cuiwei rice wine?</span></p>

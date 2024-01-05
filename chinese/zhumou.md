@@ -1,5 +1,7 @@
 # 主谋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhumou.md)
+
 <p><span class="chinese">警方表示，有一个被击毙的人就是策划新德里爆炸事件的主谋。</span><span class="english">Police say one of the men killed was behind the blasts in Delhi.</span></p>
 
 <p><span class="chinese">如果这些五年级的学生愿意参战，对抗那邪恶主谋的话，我就参加。</span><span class="english">If grade five students can battle the masterminds of evil, I will.</span></p>

@@ -1,5 +1,7 @@
 # standout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standout.md)
+
 <p><span class="chinese">中国已经从异类变成了一个全球榜样。</span><span class="english">China has been transformed from a standout into a global model.</span></p>
 
 <p><span class="chinese">然而，低成本、长途航空公司的业务扩展是非常突出的。</span><span class="english">The low cost, long-haul airline expansion is however the standout.</span></p>

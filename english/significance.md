@@ -1,5 +1,7 @@
 # significance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/significance.md)
+
 <p><span class="chinese">它有更广泛的意义。</span><span class="english">It has a wider significance.</span></p>
 
 <p><span class="chinese">这没有好战的意味。</span><span class="english">It has no warlike significance.</span></p>

@@ -1,5 +1,7 @@
 # 男性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanxing.md)
+
 <p><span class="chinese">遗体，男性。</span><span class="english">Body, male.</span></p>
 
 <p><span class="chinese">男性还是女性？</span><span class="english">MorF Male or Female?</span></p>

@@ -1,5 +1,7 @@
 # 有方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youfang.md)
+
 <p><span class="chinese">治家有方，办事快速。</span><span class="english">In a good house all is quickly ready.</span></p>
 
 <p><span class="chinese">⊙、教导有方辛勤劳碌教无常师。</span><span class="english">Teach impermanence division teaching hard labor.</span></p>

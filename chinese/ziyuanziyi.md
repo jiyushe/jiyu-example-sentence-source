@@ -1,5 +1,7 @@
 # 自怨自艾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyuanziyi.md)
+
 <p><span class="chinese">我并没有花太多时间自怨自艾。</span><span class="english">I don’t spend a lot of time pitying myself.</span></p>
 
 <p><span class="chinese">我活着，自怨自艾，悲哀抑郁。</span><span class="english">And I live on, but in grief and self-contempt.</span></p>

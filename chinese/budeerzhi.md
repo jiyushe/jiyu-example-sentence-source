@@ -1,5 +1,7 @@
 # 不得而知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budeerzhi.md)
+
 <p><span class="chinese">我们不得而知，”埃贝尔说。</span><span class="english">We don’t know, ’’ Ebel said.</span></p>
 
 <p><span class="chinese">至于能否为善，我可就不得而知了。</span><span class="english">Whether capable of good I know not.</span></p>

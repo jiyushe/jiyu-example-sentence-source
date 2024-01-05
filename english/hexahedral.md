@@ -1,5 +1,7 @@
 # hexahedral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexahedral.md)
+
 <p><span class="chinese">立体魔方是由8个色彩艳丽的立体魔方组成。</span><span class="english">Hexahedral Cube is consisted of 8 colorful cubes.</span></p>
 
 <p><span class="chinese">六面体结构，形似宝塔，似有塔灯之感。</span><span class="english">Hexahedral structure makes it looks like a pagoda.</span></p>

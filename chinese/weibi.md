@@ -1,5 +1,7 @@
 # 威逼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weibi.md)
+
 <p><span class="chinese">他们以诉讼威逼他。</span><span class="english">They threatened him with a lawsuit.</span></p>
 
 <p><span class="chinese">四十个严冬威逼着你的青春面容。</span><span class="english">When forty winters shall besiege thy brow.</span></p>

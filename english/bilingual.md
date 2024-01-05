@@ -1,5 +1,7 @@
 # bilingual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bilingual.md)
+
 <p><span class="chinese">没问题。我会说两种语言。</span><span class="english">Sure. I'm bilingual.</span></p>
 
 <p><span class="chinese">有的。我们也有双语版的。</span><span class="english">Yes. We also have bilingual version.</span></p>

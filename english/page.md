@@ -1,5 +1,7 @@
 # page
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/page.md)
+
 <p><span class="chinese">丢了一页。</span><span class="english">Lose one page.</span></p>
 
 <p><span class="chinese">在哪一页?</span><span class="english">On which page?</span></p>

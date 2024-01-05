@@ -1,5 +1,7 @@
 # typed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typed.md)
+
 <p><span class="chinese">我让人把报告打了成字。</span><span class="english">I had my report typed.</span></p>
 
 <p><span class="chinese">数据没有被严格输入吧？</span><span class="english">Data is not rigidly typed?</span></p>

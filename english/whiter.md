@@ -1,5 +1,7 @@
 # whiter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiter.md)
+
 <p><span class="chinese">比清晨的天空还澄净。</span><span class="english">Whiter than the morning sky.</span></p>
 
 <p><span class="chinese">他的面孔渐渐苍白。</span><span class="english">His face grew whiter and whiter.</span></p>

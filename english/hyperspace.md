@@ -1,5 +1,7 @@
 # hyperspace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperspace.md)
+
 <p><span class="chinese">人类最后的心灵融进去了，于是只剩埃克存在——存在于超时空中。</span><span class="english">Man's last mind fused and only AC existed — and that in hyperspace.</span></p>
 
 <p><span class="chinese">现在能量输出足够超空间折叠系统运转。</span><span class="english">The power output is now sufficient for operation of a hyperspace fold system.</span></p>

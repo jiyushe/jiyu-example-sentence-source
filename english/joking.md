@@ -1,5 +1,7 @@
 # joking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joking.md)
+
 <p><span class="chinese">我只是开玩笑。</span><span class="english">I’m only joking.</span></p>
 
 <p><span class="chinese">他在开玩笑。</span><span class="english">Now, he's joking.</span></p>

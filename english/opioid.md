@@ -1,5 +1,7 @@
 # opioid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opioid.md)
+
 <p><span class="chinese">强啡肽B是一种新发现的阿片肽。</span><span class="english">Dynorphin B is a novel opioid tridecapeptide.</span></p>
 
 <p><span class="chinese">芬太尼贴片有一种强力麻醉剂，阿片类药物芬太尼。</span><span class="english">The Fentanyl patch has a potent narcotic, the opioid fentanyl.</span></p>

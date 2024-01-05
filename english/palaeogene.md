@@ -1,5 +1,7 @@
 # palaeogene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palaeogene.md)
+
 <p><span class="chinese">目的分析成岩作用对辽河拗陷东部凹陷古近纪碎屑岩储层的控制作用。</span><span class="english">Aim To analyze the diagenesis controlling on the Palaeogene reservoir of the eastern sag of Liaohe Basin.</span></p>
 
 <p><span class="chinese">在伸展和走滑两种活动体制下，渤海湾盆地早第三纪构造样式有五种类型。</span><span class="english">Owing to the extension and strike slip action, there were five basic types of the structural styles during the Palaeogene in Bohai Gulf Basin.</span></p>

@@ -1,5 +1,7 @@
 # 聚居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juju.md)
+
 <p><span class="chinese">地震之后，他们聚居在旷野上。</span><span class="english">They were hiving in the fields after earthquake.</span></p>
 
 <p><span class="chinese">我说的市郊指的是美国白人，基督徒聚居的地方。</span><span class="english">And by suburban, I mean white, Christian America.</span></p>

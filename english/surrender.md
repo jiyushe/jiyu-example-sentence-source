@@ -1,5 +1,7 @@
 # surrender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surrender.md)
+
 <p><span class="chinese">我投降。</span><span class="english">I surrender.</span></p>
 
 <p><span class="chinese">我们从不认输。</span><span class="english">We never surrender.</span></p>

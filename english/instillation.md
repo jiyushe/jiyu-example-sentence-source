@@ -1,5 +1,7 @@
 # instillation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instillation.md)
+
 <p><span class="chinese">容器置于臀部水平位置，打开夹子开始灌肠。</span><span class="english">E. With container at hip level, open clamp and begin instillation.</span></p>
 
 <p><span class="chinese">研究胸腔内注入滑石粉浆的急性反应。</span><span class="english">Objective To study the acute effects of talc instillation intrapleurally.</span></p>

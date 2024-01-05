@@ -1,5 +1,7 @@
 # 高栏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaolan.md)
+
 <p><span class="chinese">我倒要看看你能不能跳过那高栏。</span><span class="english">I defy you to jump that high hurdle.</span></p>
 
 <p><span class="chinese">硬汉从高栏绳上跳下，一个落地踢将自旋兄弟中的一个踢翻。</span><span class="english">The ROCK jumped from the top rope and drop-kicked one of the SPIN BOYS.</span></p>

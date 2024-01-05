@@ -1,5 +1,7 @@
 # cyprus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyprus.md)
+
 <p><span class="chinese">巴拿巴带着马可，坐船往居比路去。</span><span class="english">Barnabas took Mark and sailed for Cyprus</span></p>
 
 <p><span class="chinese">塞浦路斯人口大约为78万。</span><span class="english">Cyprus has an estimated population of 780,000.</span></p>

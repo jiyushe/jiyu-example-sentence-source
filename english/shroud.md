@@ -1,5 +1,7 @@
 # shroud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shroud.md)
+
 <p><span class="chinese">扯动我的尸布船帆。</span><span class="english">Hauls my shroud sail.</span></p>
 
 <p><span class="chinese">我会来做寿衣。</span><span class="english">I'll make the shroud.</span></p>

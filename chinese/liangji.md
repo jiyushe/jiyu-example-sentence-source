@@ -1,5 +1,7 @@
 # 两极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangji.md)
+
 <p><span class="chinese">两极化是条捷径。</span><span class="english">Polarization is a shortcut.</span></p>
 
 <p><span class="chinese">不要两极分化，综合一下。</span><span class="english">Rather than polarize, synthesize.</span></p>

@@ -1,5 +1,7 @@
 # 显影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianying.md)
+
 <p><span class="chinese">方法光学放射自显影术。</span><span class="english">Method Light autoradiography was used.</span></p>
 
 <p><span class="chinese">真空管或显影管都未破碎。</span><span class="english">No vacuum or picture tubes were broken.</span></p>

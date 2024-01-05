@@ -1,5 +1,7 @@
 # 花花公子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huahuagongzi.md)
+
 <p><span class="chinese">我是一个花花公子。</span><span class="english">I’m a dude.</span></p>
 
 <p><span class="chinese">齐达内是个超酷花花公子吗？</span><span class="english">Is Zidane a cool dude?</span></p>

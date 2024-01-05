@@ -1,5 +1,7 @@
 # knitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knitter.md)
+
 <p><span class="chinese">她是个快速的编织者。</span><span class="english">She is a fast knitter.</span></p>
 
 <p><span class="chinese">这件时髦的毛衣是由一位年轻的编织者所编织的。</span><span class="english">This stylish sweater was knitted by a young knitter.</span></p>

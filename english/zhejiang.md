@@ -1,5 +1,7 @@
 # zhejiang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zhejiang.md)
+
 <p><span class="chinese">我来自中国浙江省海宁市。</span><span class="english">I'm from Haining Zhejiang China.</span></p>
 
 <p><span class="chinese">我是中国浙江东阳人。</span><span class="english">I'm from Dongyang, Zhejiang , China.</span></p>

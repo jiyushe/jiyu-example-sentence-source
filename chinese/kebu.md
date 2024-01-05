@@ -1,5 +1,7 @@
 # 可不
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kebu.md)
+
 <p><span class="chinese">你可不可以检验一下？</span><span class="english">Can you test it?</span></p>
 
 <p><span class="chinese">但是在日本可不这样！</span><span class="english">But not in Japan!</span></p>

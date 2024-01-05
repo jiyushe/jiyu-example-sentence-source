@@ -1,5 +1,7 @@
 # censorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/censorship.md)
+
 <p><span class="chinese">另一个是审查因素。</span><span class="english">Another is the censorship.</span></p>
 
 <p><span class="chinese">我并不主张送检。</span><span class="english">I am not advocating censorship.</span></p>

@@ -1,5 +1,7 @@
 # 铁片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiepian.md)
+
 <p><span class="chinese">盔甲去柱铁片散。</span><span class="english">Like to the armour's iron brace.</span></p>
 
 <p><span class="chinese">所以他用3条铁片捆住他的心。</span><span class="english">So he fastened three iron bands round his heart.</span></p>

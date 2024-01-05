@@ -1,5 +1,7 @@
 # tomato 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tomato.md)
+
 <p><span class="chinese">番茄酱。</span><span class="english">Tomato Sauce.</span></p>
 
 <p><span class="chinese">这是一只英鲥粘鱼。</span><span class="english">It's a tomato blenny.</span></p>

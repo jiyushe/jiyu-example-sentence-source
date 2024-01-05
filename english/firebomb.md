@@ -1,5 +1,7 @@
 # firebomb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firebomb.md)
+
 <p><span class="chinese">他还建议手下'要用汽油弹'。</span><span class="english">He suggests they use some type of firebomb.</span></p>
 
 <p><span class="chinese">在一次燃烧弹袭击中有五家店铺被烧毁。</span><span class="english">Five shops were damaged in a firebomb blitz.</span></p>

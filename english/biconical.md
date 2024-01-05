@@ -1,5 +1,7 @@
 # biconical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biconical.md)
+
 <p><span class="chinese">实验研究了熔烧温度对双锥光纤光学特性的影响。</span><span class="english">Effects of the fusion temperature on optical properties of biconical fibers are experimentally studied.</span></p>
 
 <p><span class="chinese">制作光纤耦合器的方法有化学腐蚀法、研磨法和熔融拉锥法。</span><span class="english">The making methods of optical fiber couplers have chemical corroding, grinding and fused biconical taper method.</span></p>

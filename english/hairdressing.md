@@ -1,5 +1,7 @@
 # hairdressing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairdressing.md)
+
 <p><span class="chinese">然后，我们走进一家美发店。</span><span class="english">Then he went into a hairdressing store.</span></p>
 
 <p><span class="chinese">我上理发厅去做了一个新发式。</span><span class="english">I went to a hairdressing salon and had a new hair-do.</span></p>

@@ -1,5 +1,7 @@
 # vega
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vega.md)
+
 <p><span class="chinese">坐看牵牛织女星。</span><span class="english">Thunbergia take look at Vega.</span></p>
 
 <p><span class="chinese">这就是那个摆平维嘉的女孩？</span><span class="english">So this is the girl that roughed up Vega?</span></p>

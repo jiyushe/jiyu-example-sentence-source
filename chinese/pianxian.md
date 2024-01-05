@@ -1,5 +1,7 @@
 # 翩跹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianxian.md)
+
 <p><span class="chinese">本可如何亮丽翩跹在绿色的海湾</span><span class="english">Their frail deeds might have danced in a green bay</span></p>
 
 <p><span class="chinese">轻唤你的名字，今生的心有灵犀蝶舞翩跹！</span><span class="english">Mews your name, life's heart consonance Splendor Fantasy!</span></p>

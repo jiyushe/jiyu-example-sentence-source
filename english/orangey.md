@@ -1,5 +1,7 @@
 # orangey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orangey.md)
+
 <p><span class="chinese">它们的范围从紫红的桔红色。</span><span class="english">They range from purplish red to orangey red.</span></p>
 
 <p><span class="chinese">一个是紫色另一个是亮亮的橘红色。</span><span class="english">One appears purple while the other is a bright orangey red.</span></p>

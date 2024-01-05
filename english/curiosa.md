@@ -1,5 +1,7 @@
 # curiosa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curiosa.md)
+
 <p><span class="chinese">从28日开始，49件珍品将正式展出。</span><span class="english">Begin from 28 days, 49 curiosa will exhibit formally.</span></p>
 
 <p><span class="chinese">苏富比今日为这些珍品作传媒预展。</span><span class="english">Su Fu makes medium preview than be these curiosa now.</span></p>

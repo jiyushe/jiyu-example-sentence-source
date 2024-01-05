@@ -1,5 +1,7 @@
 # 烟嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzui.md)
+
 <p><span class="chinese">我习惯用烟嘴抽烟。</span><span class="english">I'm used to smoking with a cigarette holder.</span></p>
 
 <p><span class="chinese">我习惯用烟嘴抽烟。</span><span class="english">I'm used to smoking with a cigarrette holder.</span></p>

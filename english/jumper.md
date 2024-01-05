@@ -1,5 +1,7 @@
 # jumper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jumper.md)
+
 <p><span class="chinese">用于尾纤和跳线。</span><span class="english">Tail fibers and jumper wires.</span></p>
 
 <p><span class="chinese">小明穿了一件红色套头衫。</span><span class="english">Xiao Ming wears a red jumper.</span></p>

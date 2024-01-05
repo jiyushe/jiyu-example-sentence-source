@@ -1,5 +1,7 @@
 # unscripted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unscripted.md)
+
 <p><span class="chinese">这包括戏剧，喜剧，无剧本的表演，以及杂志。</span><span class="english">This included dramas, comedies, unscripted fare and newsmagazines.</span></p>
 
 <p><span class="chinese">我热爱这些无剧本的演出，因为它们每次都不同。</span><span class="english">I love these unscripted shows because they’re different every time.</span></p>

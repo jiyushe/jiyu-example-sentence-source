@@ -1,5 +1,7 @@
 # pants 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pants.md)
+
 <p><span class="chinese">他尿湿了裤子。</span><span class="english">He wet his pants.</span></p>
 
 <p><span class="chinese">穿上你的裤子。</span><span class="english">Put your pants on.</span></p>

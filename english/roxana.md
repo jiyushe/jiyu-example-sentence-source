@@ -1,5 +1,7 @@
 # roxana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roxana.md)
+
 <p><span class="chinese">他说，自己在星期一见到了女儿。</span><span class="english">He says saw Roxana on Monday.</span></p>
 
 <p><span class="chinese">聆讯持续了数个小时，与判决萨贝利间谍罪成立的原审相比，时间要长得多。</span><span class="english">The appeal hearing lasted several hours, much longer than the original trial in which Roxana Saberi was convicted of spying.</span></p>

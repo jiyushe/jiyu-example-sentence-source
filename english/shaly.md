@@ -1,5 +1,7 @@
 # shaly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaly.md)
+
 <p><span class="chinese">这个卫生间的主材是页岩。</span><span class="english">Of this toilet advocate material is shaly.</span></p>
 
 <p><span class="chinese">储集层的非均质性质普遍存在于砂泥岩储层、碳酸盐岩和火成岩储层中。</span><span class="english">The characters of heterogeneity widely exist in shaly sand, carbonate and igneous reservoirs.</span></p>

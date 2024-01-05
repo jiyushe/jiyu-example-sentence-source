@@ -1,5 +1,7 @@
 # casus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casus.md)
+
 <p><span class="chinese">“案例”教学法是一种运用案例进行教学的方法。</span><span class="english">The casus teaching is a teaching way to use case.</span></p>
 
 <p><span class="chinese">事故原因正在进一步调查之中。</span><span class="english">Accident casus just in the middle of investigating further.</span></p>

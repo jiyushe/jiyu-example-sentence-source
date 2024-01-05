@@ -1,5 +1,7 @@
 # 索然无味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoranwuwei.md)
+
 <p><span class="chinese">生活变得索然无味。</span><span class="english">Life became gray and flavorless.</span></p>
 
 <p><span class="chinese">这真是跟无糖的曲奇饼干一样，索然无味啊。</span><span class="english">It’s as bland as a sugar-free cookie.</span></p>

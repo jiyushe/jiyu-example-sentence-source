@@ -1,5 +1,7 @@
 # 现实性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshixing.md)
+
 <p><span class="chinese">好，让我们来做一个现实性的检验。</span><span class="english">All right, so let's just do a reality check here.</span></p>
 
 <p><span class="chinese">美在非现实性，美就是诗意栖居。</span><span class="english">Beauty is non-reality. It is being of poetic quality.</span></p>

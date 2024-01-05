@@ -1,5 +1,7 @@
 # renter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renter.md)
+
 <p><span class="chinese">如果你现在，或者曾经在中国大陆租住过房屋，请点击。</span><span class="english">If you are, or have been a renter in mainland China, please click.</span></p>
 
 <p><span class="chinese">我宁可做一名博尔赫斯图书馆的借阅者，也不愿成为属于我自己的物主。</span><span class="english">I’d rather be a renter in Borges’ librarythan the owner of my own.</span></p>

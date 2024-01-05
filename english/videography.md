@@ -1,5 +1,7 @@
 # videography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/videography.md)
+
 <p><span class="chinese">关于如何使用这个免费视频剪辑录像与你的相机三脚架学习技巧。</span><span class="english">Learn tips on how to use a tripod with your camera in this free video clip on videography.</span></p>
 
 <p><span class="chinese">于是，安德鲁开始多元发展，创设了尖端通讯保险部门以及一项电视录象制作的服务。</span><span class="english">So Andrew began to diversify, creating the Apex Security division and a videography service.</span></p>

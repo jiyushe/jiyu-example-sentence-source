@@ -1,5 +1,7 @@
 # 不足挂齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzuguachi.md)
+
 <p><span class="chinese">这点小事不足挂齿。</span><span class="english">It's a trifle thing not worth mentioning.</span></p>
 
 <p><span class="chinese">所冒风险与所得相比不足挂齿。</span><span class="english">The risk is as nothing compared to the gain.</span></p>

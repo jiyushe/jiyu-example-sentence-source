@@ -1,5 +1,7 @@
 # problem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/problem.md)
+
 <p><span class="chinese">当然,没问题.</span><span class="english">Sure,no problem.</span></p>
 
 <p><span class="chinese">安迪有一个难题。</span><span class="english">Andy has a problem.</span></p>

@@ -1,5 +1,7 @@
 # stoke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoke.md)
+
 <p><span class="chinese">他为斯都克市队踢球。</span><span class="english">He plays for Stoke.</span></p>
 
 <p><span class="chinese">把潮湿的心抚暖。</span><span class="english">It can stoke the wet heart warm.</span></p>

@@ -1,5 +1,7 @@
 # spiderman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiderman.md)
+
 <p><span class="chinese">他像蜘蛛侠一样卖票。</span><span class="english">He sells tickets like the Spiderman.</span></p>
 
 <p><span class="chinese">除非她把蜘蛛侠还给我。</span><span class="english">Not unless she gives my Spiderman back.</span></p>

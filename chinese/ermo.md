@@ -1,5 +1,7 @@
 # 耳膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ermo.md)
+
 <p><span class="chinese">爆炸震破了他的耳膜。</span><span class="english">The explosion perforated his eardrum.</span></p>
 
 <p><span class="chinese">在事故中他的耳膜破了。</span><span class="english">His eardrum was broken in the accident.</span></p>

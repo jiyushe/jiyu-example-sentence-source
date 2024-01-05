@@ -1,5 +1,7 @@
 # philatelic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philatelic.md)
+
 <p><span class="chinese">那个阿谀的修道士是个集邮爱好者。</span><span class="english">The flattery monacal is a philatelic.</span></p>
 
 <p><span class="chinese">集邮能帮我学习到课堂上没有学习到的东西。</span><span class="english">Philatelic help me learn not to the classroom to learn things.</span></p>

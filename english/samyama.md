@@ -1,5 +1,7 @@
 # samyama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samyama.md)
+
 <p><span class="chinese">专念于太阳，便可获得宇宙空间的知识。</span><span class="english">By making samyama on the sun, one gains knowledge of the cosmic spaces.</span></p>
 
 <p><span class="chinese">专念于心脏，便可获得有关心内容的知识。</span><span class="english">By making samyama on the heart, one gains knowledge of the contents of the mind.</span></p>

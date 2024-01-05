@@ -1,5 +1,7 @@
 # lt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lt.md)
+
 <p><span class="chinese">当丹中尉对那辆出租车说“我在这儿行走呢！”</span><span class="english">When Lt. Dan says "I'm walking here! ""</span></p>
 
 <p><span class="chinese">湖州宏侨橡胶机械有限公司。</span><span class="english">Huzhou hongqiao rubber machinery co. lt.</span></p>

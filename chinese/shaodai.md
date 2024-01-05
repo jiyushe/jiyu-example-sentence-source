@@ -1,5 +1,7 @@
 # 捎带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaodai.md)
+
 <p><span class="chinese">如果今天你想去见你的真爱的话，那就捎带着我最美好的祝福吧！</span><span class="english">Well if you are meeting to your true love today, convey my best wishes!</span></p>
 
 <p><span class="chinese">为什么不能是一个纯粹的，不捎带无用且难看的手提盒的粉色掌上游戏机？</span><span class="english">Why can't it simply be a pink PSP, sans the rag and ugly carrying case?</span></p>

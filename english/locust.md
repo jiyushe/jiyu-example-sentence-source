@@ -1,5 +1,7 @@
 # locust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locust.md)
+
 <p><span class="chinese">蝗虫敢死队。</span><span class="english">Kamikaze locust.</span></p>
 
 <p><span class="chinese">蝉儿唱出炎热季节的欢歌。</span><span class="english">The locust shrills his song of heat.</span></p>

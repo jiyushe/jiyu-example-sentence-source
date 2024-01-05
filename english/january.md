@@ -1,5 +1,7 @@
 # january
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/january.md)
+
 <p><span class="chinese">他明年一月退休。</span><span class="english">He retires next January.</span></p>
 
 <p><span class="chinese">我们1月28日再见吧。</span><span class="english">I'll see you on January 28.</span></p>

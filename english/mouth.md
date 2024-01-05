@@ -1,5 +1,7 @@
 # mouth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mouth.md)
+
 <p><span class="chinese">嘴唇发干。</span><span class="english">Dry mouth.</span></p>
 
 <p><span class="chinese">张开你的嘴。</span><span class="english">Open your mouth.</span></p>

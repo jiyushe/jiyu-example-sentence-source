@@ -1,5 +1,7 @@
 # 一口咬定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yikouyaoding.md)
+
 <p><span class="chinese">他一口咬定了盖瑞是凶手。</span><span class="english">He insists that Gary is the murderer.</span></p>
 
 <p><span class="chinese">她诬告我是小偷，一口咬定我偷了她的钱包。</span><span class="english">She swore against me, saying I had stolen her purse.</span></p>

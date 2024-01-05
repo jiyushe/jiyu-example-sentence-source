@@ -1,5 +1,7 @@
 # latterly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latterly.md)
+
 <p><span class="chinese">后来…发展，她转向迷上了电吉他，灵感来自好友家伙。</span><span class="english">Latterly she turned to electric guitar, inspired by Buddy Guy.</span></p>
 
 <p><span class="chinese">后来居住在蒙特卡罗的牛顿一直工作不辍。</span><span class="english">Latterly based in Monte Carlo Newton went on working to the end.</span></p>

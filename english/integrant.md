@@ -1,5 +1,7 @@
 # integrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integrant.md)
+
 <p><span class="chinese">第一个是积分的对象，称为积分要素。</span><span class="english">One is whatever you integral is called the integrant.</span></p>
 
 <p><span class="chinese">科学道德情感是生物医学科学研究工作中的重要内容。</span><span class="english">Scientific moral is an import integrant of bio-medicine research.</span></p>

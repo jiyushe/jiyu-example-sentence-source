@@ -1,5 +1,7 @@
 # museum 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/museum.md)
+
 <p><span class="chinese">在博物馆。</span><span class="english">At the museum.</span></p>
 
 <p><span class="chinese">他把我们带到了一个博物馆。</span><span class="english">He led us to a museum.</span></p>

@@ -1,5 +1,7 @@
 # retrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrain.md)
+
 <p><span class="chinese">你就必须重新建立这种联结，重新培训。</span><span class="english">You'd have to sort of start it up again, retrain again.</span></p>
 
 <p><span class="chinese">同时他还命令国税管理办公室的工作人员进行再培训并且招收新的检察官。</span><span class="english">He has also ordered ONAT to retrain its staff and hire new inspectors.</span></p>

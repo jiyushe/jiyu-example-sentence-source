@@ -1,5 +1,7 @@
 # kirin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kirin.md)
+
 <p><span class="chinese">凤凰不翔，麒麟不游。</span><span class="english">Phoenix is not CHEUNG, Kirin not swim.</span></p>
 
 <p><span class="chinese">麒麟蒸鱼、筊白仙子。</span><span class="english">Kirin steamed fish and white bamboo shoots.</span></p>

@@ -1,5 +1,7 @@
 # blunder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blunder.md)
+
 <p><span class="chinese">这又是一个错误。</span><span class="english">Another blunder.</span></p>
 
 <p><span class="chinese">但他犯了一个糟糕的大错误。</span><span class="english">But he made an awful blunder.</span></p>

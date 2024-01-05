@@ -1,5 +1,7 @@
 # 凿岩机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoyanji.md)
+
 <p><span class="chinese">因此该系统是研制液压凿岩机的重要辅助手段。</span><span class="english">Therefore this system is a effective means for developing a hydraulic rock drill.</span></p>
 
 <p><span class="chinese">提出了设计手持式液压凿岩机的目标函数。</span><span class="english">A target function for design of hydraulic hand drills is brought forward in this paper.</span></p>

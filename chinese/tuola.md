@@ -1,5 +1,7 @@
 # 拖拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuola.md)
+
 <p><span class="chinese">将其拖拉到数据表之上。</span><span class="english">Drop it on the Data Table.</span></p>
 
 <p><span class="chinese">完成拖拉操作。</span><span class="english">Complete the drag operation.</span></p>

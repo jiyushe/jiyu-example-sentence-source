@@ -1,5 +1,7 @@
 # nihility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nihility.md)
+
 <p><span class="chinese">所以，解脱的结果，只能是虚无。</span><span class="english">Therefore, the result of extrication is only nihility.</span></p>
 
 <p><span class="chinese">这也许是因为非宗教即是尘世，而我很不幸地信仰虚无。</span><span class="english">It may be the metaphor of that the unreligious is mortal , but I believe in nihility fatally.</span></p>

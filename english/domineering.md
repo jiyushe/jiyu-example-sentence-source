@@ -1,5 +1,7 @@
 # domineering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domineering.md)
+
 <p><span class="chinese">帮孩子找一些不那么霸道的朋友。</span><span class="english">Find less domineering friends.</span></p>
 
 <p><span class="chinese">他是一个飞扬跋扈的人。</span><span class="english">He is a domineering sort of fellow.</span></p>

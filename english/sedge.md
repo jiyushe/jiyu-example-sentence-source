@@ -1,5 +1,7 @@
 # sedge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedge.md)
+
 <p><span class="chinese">随后，伯克利莎草开始不停地长啊，长啊。</span><span class="english">Then the Berkeley Sedge grew, and grew.</span></p>
 
 <p><span class="chinese">乌拉草纤维是一种新型的绿色环保纤维。</span><span class="english">Meyer Sedge fiber is a new type of green fiber.</span></p>

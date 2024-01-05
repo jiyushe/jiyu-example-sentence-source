@@ -1,5 +1,7 @@
 # prevenient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prevenient.md)
+
 <p><span class="chinese">前的宽限期，因此，是一个过程。</span><span class="english">Prevenient grace, therefore, is a process.</span></p>
 
 <p><span class="chinese">要让投资者看到未来，企业经营者就要布局在先。</span><span class="english">Want to let investor see future, business operator is about layout is prevenient.</span></p>

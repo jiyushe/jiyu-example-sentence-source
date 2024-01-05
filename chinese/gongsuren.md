@@ -1,5 +1,7 @@
 # 公诉人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongsuren.md)
+
 <p><span class="chinese">公诉人正在宣读一份长达73页的起诉书。</span><span class="english">Prosecutor is to read a 73-page indictment.</span></p>
 
 <p><span class="chinese">皇家检察署的律师担当公诉人。</span><span class="english">Lawyers from the CPS may act as public prosecutors.</span></p>

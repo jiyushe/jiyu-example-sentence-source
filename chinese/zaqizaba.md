@@ -1,5 +1,7 @@
 # 杂七杂八
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaqizaba.md)
+
 <p><span class="chinese">人类能关注的东西本身就有限，而这些东西往往却都杂七杂八混成一团。</span><span class="english">There is also only so much human attention, and it tends to clump.</span></p>
 
 <p><span class="chinese">他有了些钱，不过都杂七杂八地花掉了。</span><span class="english">He had some money now and found ways to spend it on his buying trips.</span></p>

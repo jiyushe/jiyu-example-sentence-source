@@ -1,5 +1,7 @@
 # whack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whack.md)
+
 <p><span class="chinese">小稻棍儿奏一曲。</span><span class="english">With a nicknack paddy whack.</span></p>
 
 <p><span class="chinese">宇宙的微不足道打击了我们。</span><span class="english">Cosmic two-by-fours whack us.</span></p>

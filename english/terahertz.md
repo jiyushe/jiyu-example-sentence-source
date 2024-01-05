@@ -1,5 +1,7 @@
 # terahertz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terahertz.md)
+
 <p><span class="chinese">太赫兹科学技术的新发展。</span><span class="english">Recent development of terahertz science and technology.</span></p>
 
 <p><span class="chinese">实验表明，太赫兹辐射对土、石、砖、水泥、木材等建筑材料有较高的透射率。</span><span class="english">The results show that the terahertz radiation can pass through these materials.</span></p>

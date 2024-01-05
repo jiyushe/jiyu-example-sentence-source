@@ -1,5 +1,7 @@
 # 猫头鹰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maotouying.md)
+
 <p><span class="chinese">奥雷是一只小猫头鹰。</span><span class="english">Owly is an owlet.</span></p>
 
 <p><span class="chinese">这只猫头鹰真小。</span><span class="english">This owl is small.</span></p>

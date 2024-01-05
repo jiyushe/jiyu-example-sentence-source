@@ -1,5 +1,7 @@
 # thrush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thrush.md)
+
 <p><span class="chinese">柳林里的画眉姐姐。</span><span class="english">Sister Thrush in the willow grove.</span></p>
 
 <p><span class="chinese">谢谢你，小翔，你救了我一命。</span><span class="english">Thanks, Thrush. You saved my life.</span></p>

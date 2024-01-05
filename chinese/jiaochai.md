@@ -1,5 +1,7 @@
 # 交差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaochai.md)
+
 <p><span class="chinese">神不愿意我们困于交差的光景。</span><span class="english">God does not want us feeling stuck with a JOB.</span></p>
 
 <p><span class="chinese">你要在你最早方便的时间把工作交差。</span><span class="english">You have to turn in your work at your earliest convenience.</span></p>

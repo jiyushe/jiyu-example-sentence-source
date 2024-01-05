@@ -1,5 +1,7 @@
 # Iran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iran_1.md)
+
 <p><span class="chinese">伊朗否认这些指控。</span><span class="english">Iran denies the charge.</span></p>
 
 <p><span class="chinese">伊朗非一个民主主义国野。</span><span class="english">Iran is a democratic country.</span></p>

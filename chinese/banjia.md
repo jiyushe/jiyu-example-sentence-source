@@ -1,5 +1,7 @@
 # 半价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banjia.md)
+
 <p><span class="chinese">请给一张到牛津街的半价票。</span><span class="english">A half to Oxford Street, please.</span></p>
 
 <p><span class="chinese">请办一张去里奇蒙的学生半价周票。</span><span class="english">A weekly concession to Richmond, please.</span></p>

@@ -1,5 +1,7 @@
 # cloister
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cloister.md)
+
 <p><span class="chinese">修女们住在一个幽静的修道院里。</span><span class="english">The nuns live in a cloister of calm.</span></p>
 
 <p><span class="chinese">他环抱着回廊那潮湿的柱子。</span><span class="english">He coiled around the moist cloister pillars.</span></p>

@@ -1,5 +1,7 @@
 # 漂浮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaofu.md)
+
 <p><span class="chinese">我的船在水上漂浮。</span><span class="english">Boats sof mine a-floating.</span></p>
 
 <p><span class="chinese">云漂浮在空中。</span><span class="english">Clouds floated in the sky.</span></p>

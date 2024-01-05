@@ -1,5 +1,7 @@
 # hideous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hideous.md)
+
 <p><span class="chinese">但事实上这是否是个弥天大错？</span><span class="english">But was it, in fact, a hideous goof?</span></p>
 
 <p><span class="chinese">那个可怕的故事把孩子们吓哭了。</span><span class="english">The hideous tale made the children cry.</span></p>

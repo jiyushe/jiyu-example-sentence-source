@@ -1,5 +1,7 @@
 # intricacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intricacy.md)
+
 <p><span class="chinese">这就像手表，有各式各样的复杂程度。</span><span class="english">It's like a watch – there are various levels of intricacy.</span></p>
 
 <p><span class="chinese">但其复杂性阻碍了它在图书馆界的广泛应用。</span><span class="english">But its intricacy cumbers its widely use in library sphere.</span></p>

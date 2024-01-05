@@ -1,5 +1,7 @@
 # oreo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oreo.md)
+
 <p><span class="chinese">亨利跳下椅子，吃了他的奥利奥。</span><span class="english">Henryjumps off the chair and eats his Oreo.</span></p>
 
 <p><span class="chinese">奥利奥巧克力威化是奥利奥家族的新成员。</span><span class="english">Oreo chocolate Wafer is a new member of the family.</span></p>

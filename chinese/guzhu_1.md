@@ -1,5 +1,7 @@
 # 顾主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzhu_1.md)
+
 <p><span class="chinese">只要你是在为一个开明的顾主工作。</span><span class="english">As long as you work for an enlightened employer.</span></p>
 
 <p><span class="chinese">那样的话你能和顾主之间产生信赖感并且友爱的相处。</span><span class="english">That way you can build trust and rapport with them.</span></p>

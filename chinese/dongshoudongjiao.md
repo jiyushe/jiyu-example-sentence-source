@@ -1,5 +1,7 @@
 # 动手动脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongshoudongjiao.md)
+
 <p><span class="chinese">我讨厌男人不善言辞，只是动手动脚。</span><span class="english">I hate guys who arn no talk and all hands.</span></p>
 
 <p><span class="chinese">金姆勇敢地保卫自己，伊菜也继续向她动手动脚。</span><span class="english">Kim valiantly defends herself as Eli keeps coming.</span></p>

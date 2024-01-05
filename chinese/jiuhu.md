@@ -1,5 +1,7 @@
 # 酒壶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuhu.md)
+
 <p><span class="chinese">苹果酒壶在背上。</span><span class="english">On his back was a cider jug.</span></p>
 
 <p><span class="chinese">要我说嘛，这个酒壶就挺好的。</span><span class="english">In my opinion, this flagon is just excellent.</span></p>

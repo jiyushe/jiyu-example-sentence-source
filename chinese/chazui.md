@@ -1,5 +1,7 @@
 # 插嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chazui.md)
+
 <p><span class="chinese">罗伯茨插嘴说。</span><span class="english">Roberts interjected.</span></p>
 
 <p><span class="chinese">亚历克斯又突然插嘴。</span><span class="english">Alex interjected again.</span></p>

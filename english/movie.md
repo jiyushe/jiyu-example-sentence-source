@@ -1,5 +1,7 @@
 # movie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/movie.md)
+
 <p><span class="chinese">可能就是看场电影。</span><span class="english">A movie maybe.</span></p>
 
 <p><span class="chinese">那部电影真烂！</span><span class="english">That movie sucks!</span></p>

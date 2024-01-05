@@ -1,5 +1,7 @@
 # minotaur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minotaur.md)
+
 <p><span class="chinese">根据传说，他杀死了米诺托在克里特岛迷宫。</span><span class="english">According to legend, he killed the Minotaur in the Cretan labyrinth.</span></p>
 
 <p><span class="chinese">毕卡索在自己设计的迷宫内是画布上的人身牛头怪。</span><span class="english">He was the Minotaur in a canvas-and-paper labyrinth of his own construction.</span></p>

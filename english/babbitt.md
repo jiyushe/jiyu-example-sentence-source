@@ -1,5 +1,7 @@
 # babbitt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babbitt.md)
+
 <p><span class="chinese">巴比特是一名正式代表。</span><span class="english">Babbitt was an official delegate.</span></p>
 
 <p><span class="chinese">巴比特付了款，有分寸地说。</span><span class="english">Babbitt paid his bill, said adequately.</span></p>

@@ -1,5 +1,7 @@
 # 驿站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhan.md)
+
 <p><span class="chinese">一些人在驿站工作。</span><span class="english">Some people worked at stations.</span></p>
 
 <p><span class="chinese">对啊。最早卜奎是个驿站。</span><span class="english">Yes. At first, Bukui was a courier station.</span></p>

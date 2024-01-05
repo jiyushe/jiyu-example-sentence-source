@@ -1,5 +1,7 @@
 # clematis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clematis.md)
+
 <p><span class="chinese">铁线莲枯萎病的征兆是什么？</span><span class="english">What are the symptoms of clematis wilt?</span></p>
 
 <p><span class="chinese">这一直是铁线莲的一个问题吗？</span><span class="english">Has it always been a problem with clematis?</span></p>

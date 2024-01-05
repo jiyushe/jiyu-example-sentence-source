@@ -1,5 +1,7 @@
 # 热水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reshui.md)
+
 <p><span class="chinese">长长的冲一次热水澡.</span><span class="english">A long hot shower.</span></p>
 
 <p><span class="chinese">后用温热水�净。</span><span class="english">Rinse off with tepid water.</span></p>

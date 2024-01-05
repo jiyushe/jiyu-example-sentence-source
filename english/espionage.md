@@ -1,5 +1,7 @@
 # espionage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/espionage.md)
+
 <p><span class="chinese">间谍与黑客侵入。</span><span class="english">Espionage and hacking attempts.</span></p>
 
 <p><span class="chinese">不过，间谍活动还只是忧虑之一。</span><span class="english">But espionage is only one worry.</span></p>

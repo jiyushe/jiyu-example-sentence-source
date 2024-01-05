@@ -1,5 +1,7 @@
 # 猪倌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuguan_1.md)
+
 <p><span class="chinese">她吻了吻猪倌。</span><span class="english">She kissed the swineherd.</span></p>
 
 <p><span class="chinese">“谢谢您，不成，”猪倌回答说。</span><span class="english">"No, thank you! "said the swineherd.</span></p>

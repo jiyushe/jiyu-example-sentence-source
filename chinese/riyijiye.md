@@ -1,5 +1,7 @@
 # 日以继夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riyijiye.md)
+
 <p><span class="chinese">他日以继夜地辛苦工作。</span><span class="english">He worked by day and toiled by night.</span></p>
 
 <p><span class="chinese">它们扑通、扑通、扑通地跳着，日以继夜。</span><span class="english">They go tha-thump, tha-thump, tha-thump, day and night.</span></p>

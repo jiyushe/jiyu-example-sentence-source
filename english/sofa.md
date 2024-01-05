@@ -1,5 +1,7 @@
 # sofa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sofa.md)
+
 <p><span class="chinese">它们在沙发上。</span><span class="english">They'reon the sofa.</span></p>
 
 <p><span class="chinese">我想买那个黄色的沙发床。</span><span class="english">Th is is a sofa bed?</span></p>

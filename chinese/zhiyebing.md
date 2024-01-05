@@ -1,5 +1,7 @@
 # 职业病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyebing.md)
+
 <p><span class="chinese">主要的职业病是腕骨综合症。</span><span class="english">The main occupational hazard is carpal tunnel syndrome.</span></p>
 
 <p><span class="chinese">矿运司机未发现职业病。</span><span class="english">The occupational diseases are not found in mineral drivers.</span></p>

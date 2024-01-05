@@ -1,5 +1,7 @@
 # 组稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zugao.md)
+
 <p><span class="chinese">擅长组稿和监控稿件。</span><span class="english">Second, the good at solicits contributions and monitors the manuscript.</span></p>
 
 <p><span class="chinese">传统的“等米下锅”被动组稿的方式已不能适应时代发展的要求。</span><span class="english">Traditional modes of treating contributions on equality basis fails to keep abreast of the times.</span></p>

@@ -1,5 +1,7 @@
 # parthenogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parthenogenesis.md)
+
 <p><span class="chinese">兔眼蓝莓可能存在孤雌生殖的现象。</span><span class="english">Parthenogenesis is possible in Vaccinium ashei Reade.</span></p>
 
 <p><span class="chinese">迄今已知大约70种爬行动物有单性繁殖行为。</span><span class="english">Parthenogenesis is so far known to occur in about 70 reptile species.</span></p>

@@ -1,5 +1,7 @@
 # 锯条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jutiao.md)
+
 <p><span class="chinese">他就像只锯条下的猫？</span><span class="english">He's like a cat in a saw?</span></p>
 
 <p><span class="chinese">然后有人用一个锯条锯断了这棵树。</span><span class="english">Then someone cut the tree down with a chain saw.</span></p>

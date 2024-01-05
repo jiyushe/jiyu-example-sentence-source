@@ -1,5 +1,7 @@
 # taa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taa.md)
+
 <p><span class="chinese">你希望台湾同乡会带给大家什麽样的一年？</span><span class="english">What kind of new year do you wish that TAA -STL bring to us?</span></p>
 
 <p><span class="chinese">你猜同乡会要邀请大家一起营造出什麽样的一年？</span><span class="english">Guess what kind of year TAA -STL would invite us to produce together?</span></p>

@@ -1,5 +1,7 @@
 # pentane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentane.md)
+
 <p><span class="chinese">温度计盛有戊烷或酒精。</span><span class="english">Thermometers are filled with pentane or alcohol.</span></p>
 
 <p><span class="chinese">可以用戊烷峰来计算其他峰的保留时间。</span><span class="english">Identification of retention time can be accurately obtained using a pentane peak as a standard.</span></p>

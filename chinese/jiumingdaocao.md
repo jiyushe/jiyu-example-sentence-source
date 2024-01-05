@@ -1,5 +1,7 @@
 # 救命稻草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiumingdaocao.md)
+
 <p><span class="chinese">地球人，准备好你们的救命稻草吧！</span><span class="english">Earthlings, ready your straws.</span></p>
 
 <p><span class="chinese">巴尔确有一根可能的救命稻草。</span><span class="english">Barr did have one possible lifeline.</span></p>

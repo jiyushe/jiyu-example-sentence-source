@@ -1,5 +1,7 @@
 # tensegrity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tensegrity.md)
+
 <p><span class="chinese">张拉整体的概念是由美国著名建筑师富勒提出的。</span><span class="english">The conception of the tensegrity was proposed by Fuller, a famous American architect.</span></p>
 
 <p><span class="chinese">籍此方法可以根据具体工程给出相应的张拉整体单元。</span><span class="english">With this method, tensegrity elements can be achieved according to practical engineering.</span></p>

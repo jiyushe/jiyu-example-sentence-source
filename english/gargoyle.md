@@ -1,5 +1,7 @@
 # gargoyle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gargoyle.md)
+
 <p><span class="chinese">我不认识那位石像鬼。</span><span class="english">I did not know the gargoyle.</span></p>
 
 <p><span class="chinese">你不为什么不向怪兽的滴水嘴许愿？</span><span class="english">Why don't you wish on the gargoyle?</span></p>

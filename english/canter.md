@@ -1,5 +1,7 @@
 # canter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canter.md)
+
 <p><span class="chinese">我们驱马慢跑开始上路。</span><span class="english">We set off at a canter.</span></p>
 
 <p><span class="chinese">卡纳克小跑着出发了。</span><span class="english">Carnac set off at a canter.</span></p>

@@ -1,5 +1,7 @@
 # 半大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banda.md)
+
 <p><span class="chinese">海伦舞蹈未无半大时了。</span><span class="english">Helen has danced for half an hour.</span></p>
 
 <p><span class="chinese">他是个发型糟糕的半大条虫。</span><span class="english">He's a postpubescent tapeworm with a bad haircut.</span></p>

@@ -1,5 +1,7 @@
 # fervidly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fervidly.md)
+
 <p><span class="chinese">客户可直接以电话与本公司洽商，我们将热诚为顾客服务！</span><span class="english">Customer can contact with us directly, we will serve you fervidly.</span></p>
 
 <p><span class="chinese">我们热切欢迎国内外新老客户前来洽谈业务。</span><span class="english">We fervidly expect more azonal clients come to do business with us.</span></p>

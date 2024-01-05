@@ -1,5 +1,7 @@
 # inoculation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inoculation.md)
+
 <p><span class="chinese">和这个房间是为百万分之一分析和接种试验。</span><span class="english">And this room is for micros analyze and inoculation test.</span></p>
 
 <p><span class="chinese">角色扮演只是反吸烟预防接种的一部分。</span><span class="english">Role playing is just one part of anti-smoking inoculation.</span></p>

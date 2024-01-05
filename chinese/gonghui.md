@@ -1,5 +1,7 @@
 # 公会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonghui.md)
+
 <p><span class="chinese">那你们是矿冶公会的一员？</span><span class="english">The meeting hall of a guild.</span></p>
 
 <p><span class="chinese">我母亲是卫理公会派教徒之一。</span><span class="english">My mother is one of the Methodists.</span></p>

@@ -1,5 +1,7 @@
 # 抬头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taitou.md)
+
 <p><span class="chinese">我叹口气，抬头看了看。</span><span class="english">I sighed and looked up.</span></p>
 
 <p><span class="chinese">他抬头一看，面露怒容。</span><span class="english">He glanced up with a scowl.</span></p>

@@ -1,5 +1,7 @@
 # blah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blah.md)
+
 <p><span class="chinese">他们说的全是废话。</span><span class="english">What they say is blah.</span></p>
 
 <p><span class="chinese">现在，我在一个布拉赫的心情，因为它。</span><span class="english">Now I'm in a blah mood because of it.</span></p>

@@ -1,5 +1,7 @@
 # agi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agi.md)
+
 <p><span class="chinese">只有力量，敏捷，战斗技能会受伤口影响。</span><span class="english">AGI and combat skills are affected by wounds.</span></p>
 
 <p><span class="chinese">更切实际的是去计划好”高等“AGI出现后的时期。</span><span class="english">Planning for the period while advanced AGI emerges is more practical.</span></p>

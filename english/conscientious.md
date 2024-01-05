@@ -1,5 +1,7 @@
 # conscientious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conscientious.md)
+
 <p><span class="chinese">他们都是勤勤恳恳的人。</span><span class="english">They were conscientious men.</span></p>
 
 <p><span class="chinese">品格高尚的人是很有良心的。</span><span class="english">The man of character is conscientious.</span></p>

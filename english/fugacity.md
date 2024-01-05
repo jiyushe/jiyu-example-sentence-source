@@ -1,5 +1,7 @@
 # fugacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fugacity.md)
+
 <p><span class="chinese">本文得到了一种不用状态方程计算饱和蒸汽摩尔体积的新方法。</span><span class="english">A new method to calculate the volume and fugacity of saturated vapor is obtained.</span></p>
 
 <p><span class="chinese">成矿流体为中低温、低盐度、弱酸性、低氧逸度和硫逸度。</span><span class="english">The ore-forming fluid is of medium-low temperature, low salinity, and low fugacity of O2 and S2.</span></p>

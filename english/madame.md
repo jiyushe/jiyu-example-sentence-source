@@ -1,5 +1,7 @@
 # madame
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madame.md)
+
 <p><span class="chinese">这冼夫人是谁啊？</span><span class="english">Who was Madame Xian Tai?</span></p>
 
 <p><span class="chinese">谢谢主席女士！</span><span class="english">Thank you, Madame Chairperson.</span></p>

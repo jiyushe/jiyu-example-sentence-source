@@ -1,5 +1,7 @@
 # 口齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouchi.md)
+
 <p><span class="chinese">嘲笑主人磕巴的口齿？</span><span class="english">Mocked the host's stammer?</span></p>
 
 <p><span class="chinese">伶俐的口齿是一种锐利的武器。</span><span class="english">A good tongue is a good weapon.</span></p>

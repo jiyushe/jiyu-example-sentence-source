@@ -1,5 +1,7 @@
 # epidermic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epidermic.md)
+
 <p><span class="chinese">于贝母表皮细胞垂周壁多波状弯曲。</span><span class="english">The anticlinal wall of epidermic cell looks like waves.</span></p>
 
 <p><span class="chinese">皮肤表层有丰富的粘液腺孔，细胞表面具丰富的微绒毛。</span><span class="english">There are plenty of microvilli on the surface of epidermic cells.</span></p>

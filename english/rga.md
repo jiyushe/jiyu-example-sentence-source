@@ -1,5 +1,7 @@
 # rga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rga.md)
+
 <p><span class="chinese">RGA和ING并未披露其它财务细节.</span><span class="english">RGA and ING did not disclose other financial details.</span></p>
 
 <p><span class="chinese">理论分析和仿真实验结果都是令人鼓舞的。</span><span class="english">Theoretical analysis and simulation results show the validity of RGA.</span></p>

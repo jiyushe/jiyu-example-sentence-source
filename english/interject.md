@@ -1,5 +1,7 @@
 # interject
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interject.md)
+
 <p><span class="chinese">介意我在这里妄加点东西吗？</span><span class="english">Do you mind if I interject something here?</span></p>
 
 <p><span class="chinese">请容我在讨论中插句话，要注意。</span><span class="english">If I may interject a note of caution into the discussion.</span></p>

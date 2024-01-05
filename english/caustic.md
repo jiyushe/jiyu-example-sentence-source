@@ -1,5 +1,7 @@
 # caustic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caustic.md)
+
 <p><span class="chinese">说话尖刻会伤感情。</span><span class="english">Caustic remarks will hurt others' feelings.</span></p>
 
 <p><span class="chinese">波浪的大小将影响焦散的形态。</span><span class="english">The wave size will influence the caustic shapes.</span></p>

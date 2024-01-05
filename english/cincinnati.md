@@ -1,5 +1,7 @@
 # cincinnati
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cincinnati.md)
+
 <p><span class="chinese">他正忙着一边喝啤酒一边为辛辛那提队加油呢。</span><span class="english">He's busy heckling Cincinnati and drinking a beer.</span></p>
 
 <p><span class="chinese">下一届世界合唱节将在美国辛辛那提市举行。</span><span class="english">The next World Choir Games will be held in Cincinnati.</span></p>

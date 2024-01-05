@@ -1,5 +1,7 @@
 # 吸食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishi.md)
+
 <p><span class="chinese">只有雌蚊吸食血液。</span><span class="english">Only female mosquitoes drink blood.</span></p>
 
 <p><span class="chinese">你昨晚海洛因吸食过量。</span><span class="english">You overdosed on heroin last night.</span></p>

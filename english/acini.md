@@ -1,5 +1,7 @@
 # acini
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acini.md)
+
 <p><span class="chinese">簇状萎缩的前列腺腺泡伴发增生性改变。</span><span class="english">Clusters of atrophic prostatic acini with proliferative changes.</span></p>
 
 <p><span class="chinese">肺小叶由一定数量的腺泡组成，一般是十二个或更少。</span><span class="english">A secondary lobule is made up of a limited number of pulmonary acini , usually a dozen or fewer.</span></p>

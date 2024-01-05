@@ -1,5 +1,7 @@
 # 坚决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjue.md)
+
 <p><span class="chinese">科尔坚决拒绝，而萨伊德坚决相赠。</span><span class="english">Cole refused.</span></p>
 
 <p><span class="chinese">我坚决拒绝。</span><span class="english">I refused staunchly.</span></p>

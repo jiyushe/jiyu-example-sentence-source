@@ -1,5 +1,7 @@
 # mediaeval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mediaeval.md)
+
 <p><span class="chinese">它是中世纪庇护所的遗风。</span><span class="english">It was survivals of the mediaeval sanctuaries.</span></p>
 
 <p><span class="chinese">他为山顶上那些中世纪的城堡而欢呼雀跃。</span><span class="english">He jumps up with joy for those mediaeval castles on the mountaintop.</span></p>

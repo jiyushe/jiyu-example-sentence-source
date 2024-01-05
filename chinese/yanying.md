@@ -1,5 +1,7 @@
 # 掩映
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanying.md)
+
 <p><span class="chinese">我的房子掩映在小山之中。</span><span class="english">My house is among the hills.</span></p>
 
 <p><span class="chinese">稻黄色酒体掩映出亮绿色泽。</span><span class="english">Straw yellow, with green reflections.</span></p>

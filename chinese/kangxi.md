@@ -1,5 +1,7 @@
 # 康熙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangxi.md)
+
 <p><span class="chinese">结果，他和康熙分手了。</span><span class="english">As a result, he breaks up with Kang-hee.</span></p>
 
 <p><span class="chinese">律师李康熙表示,"我认为他们并没有多少先例可循."</span><span class="english">I don't think they have much precedent to draw on.</span></p>

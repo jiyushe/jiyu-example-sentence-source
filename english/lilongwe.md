@@ -1,5 +1,7 @@
 # lilongwe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lilongwe.md)
+
 <p><span class="chinese">利隆圭是其首都，布兰泰是最大的城市。</span><span class="english">Lilongwe is the capital and Blantyre the largest city.</span></p>
 
 <p><span class="chinese">BBC驻马拉维首都利隆圭一名记者表示，政府建筑再次遭遇袭击。</span><span class="english">BBC correspondent in the capital Lilongwe says government buildings have again been attacked.</span></p>

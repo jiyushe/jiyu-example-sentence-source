@@ -1,5 +1,7 @@
 # tiled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiled.md)
+
 <p><span class="chinese">屋顶用瓦铺就，而地面是瓷砖打造。</span><span class="english">tiled roofs and ceramic tile floors.</span></p>
 
 <p><span class="chinese">地堡的名字被装饰在那儿。</span><span class="english">The name of the bunker is tiled in there.</span></p>

@@ -1,5 +1,7 @@
 # black
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/black.md)
+
 <p><span class="chinese">黑眼睛？</span><span class="english">Black eyes?</span></p>
 
 <p><span class="chinese">黑头发？</span><span class="english">Black hair?</span></p>

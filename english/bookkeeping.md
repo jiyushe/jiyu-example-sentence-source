@@ -1,5 +1,7 @@
 # bookkeeping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookkeeping.md)
+
 <p><span class="chinese">借贷记帐法原理。</span><span class="english">Debit-credit bookkeeping principle.</span></p>
 
 <p><span class="chinese">在那之前，账目都由我姑妈管理。</span><span class="english">Before that, my aunt was doing the bookkeeping.</span></p>

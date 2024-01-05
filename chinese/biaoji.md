@@ -1,5 +1,7 @@
 # 标记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoji.md)
+
 <p><span class="chinese">刷吃水标记。</span><span class="english">Paint draft marks.</span></p>
 
 <p><span class="chinese">什么类型的标记？</span><span class="english">What kind of mark?</span></p>

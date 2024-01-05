@@ -1,5 +1,7 @@
 # concatenate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concatenate.md)
+
 <p><span class="chinese">通常，您需要在两个字符串之间连接一个变量。</span><span class="english">Often, you need to concatenate a variable between two strings.</span></p>
 
 <p><span class="chinese">连接操作会首先将字符串连接在一起，然后将其作为一个参数打印。</span><span class="english">Concatenation would concatenate the string and print it as one argument.</span></p>

@@ -1,5 +1,7 @@
 # avenging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avenging.md)
+
 <p><span class="chinese">英国人是不会推迟对我的复仇的。</span><span class="english">The English people will not delay in avenging me.</span></p>
 
 <p><span class="chinese">没有东西可以阻止我的复仇，就算是死亡。</span><span class="english">Nothing can stop me from avenging , even the death.</span></p>

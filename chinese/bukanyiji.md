@@ -1,5 +1,7 @@
 # 不堪一击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukanyiji.md)
+
 <p><span class="chinese">穷人比过去更不堪一击</span><span class="english">POOR MORE VULNERABLE THAN EVER</span></p>
 
 <p><span class="chinese">低廉的价格常不堪一击。</span><span class="english">Low prices can always be beaten.</span></p>

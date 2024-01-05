@@ -1,5 +1,7 @@
 # flysch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flysch.md)
+
 <p><span class="chinese">在广东东部是一套陆相沉积—火山岩复理石建造。</span><span class="english">There is a continental sedimentary-volcanic flysch formation in eastern Guangdong.</span></p>
 
 <p><span class="chinese">矿石类型为褐铁矿化破碎硅化砂岩、石英细脉和层状复理石韵律矿石。</span><span class="english">Ore types are limonite fractured silicic sandstone, quartz veinlet and bedded flysch rhythm ore.</span></p>

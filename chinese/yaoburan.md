@@ -1,5 +1,7 @@
 # 要不然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoburan.md)
+
 <p><span class="chinese">开门，要不然我就要破门而入了。</span><span class="english">Open up, or I break in.</span></p>
 
 <p><span class="chinese">卡恩斯说，“要不然我还能怎么做？</span><span class="english">Because what else could I do?</span></p>

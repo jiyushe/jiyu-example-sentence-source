@@ -1,5 +1,7 @@
 # 丝绸之路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sichouzhilu.md)
+
 <p><span class="chinese">古老的丝绸之路之旅。</span><span class="english">Journey the ancient Silk Road.</span></p>
 
 <p><span class="chinese">这条路是古丝绸之路的一段。</span><span class="english">It was part of the ancient Silk Road.</span></p>

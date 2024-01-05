@@ -1,5 +1,7 @@
 # smeary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smeary.md)
+
 <p><span class="chinese">对绝缘材料和严重污染的元件，用无卤清洁剂。</span><span class="english">Use no halogen cleanser for insulation material and smeary seriously components.</span></p>
 
 <p><span class="chinese">适用于各种灶具、炉灶及地面的油污清洗。</span><span class="english">Apply to all kinds of kitchen is provided, the stove and the ground is smeary clean.</span></p>

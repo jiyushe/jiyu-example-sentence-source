@@ -1,5 +1,7 @@
 # finale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finale.md)
+
 <p><span class="chinese">我每次都唱“压轴戏”。</span><span class="english">I sing the "grand finale" every time.</span></p>
 
 <p><span class="chinese">你对第二季结局的感觉怎样？</span><span class="english">How do you feel about the season finale?</span></p>

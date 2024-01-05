@@ -1,5 +1,7 @@
 # horizontally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horizontally.md)
+
 <p><span class="chinese">把它水平地压扁。</span><span class="english">Let's squish it horizontally.</span></p>
 
 <p><span class="chinese">我打算把它画成水平的。</span><span class="english">I am going to redraw it horizontally.</span></p>

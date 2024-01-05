@@ -1,5 +1,7 @@
 # 烈马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liema.md)
+
 <p><span class="chinese">驯服了那些烈马？</span><span class="english">The wild horses tamed?</span></p>
 
 <p><span class="chinese">牛仔制服了这匹烈马。</span><span class="english">The cowboy broke the unruly horse.</span></p>

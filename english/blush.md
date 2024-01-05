@@ -1,5 +1,7 @@
 # blush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blush.md)
+
 <p><span class="chinese">初次见面脸红的感觉消褪了么？</span><span class="english">Love’s first blush fading?</span></p>
 
 <p><span class="chinese">他的脸红得像一朵牡丹花。</span><span class="english">A blush came into his cheeks.</span></p>

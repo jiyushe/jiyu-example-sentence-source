@@ -1,5 +1,7 @@
 # expectorant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expectorant.md)
+
 <p><span class="chinese">咳嗽药中含有祛痰剂。</span><span class="english">The cough medicine contains an expectorant.</span></p>
 
 <p><span class="chinese">吐鲁糖浆是祛痰药物的和药物。</span><span class="english">Syrup of Tolu is used as a vehicle for expectorant mixtures.</span></p>

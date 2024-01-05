@@ -1,5 +1,7 @@
 # gigahertz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gigahertz.md)
+
 <p><span class="chinese">你还需要一个速度至少1GHz的处理器。</span><span class="english">You'll also need a processor with a speed of at least one gigahertz.</span></p>
 
 <p><span class="chinese">一个3.2千兆赫兹的处理器每秒能发生32亿左右的脉冲。</span><span class="english">A 3.2 gigahertz processor sends out around 3.2 billion pulses each second.</span></p>

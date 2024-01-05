@@ -1,5 +1,7 @@
 # intron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intron.md)
+
 <p><span class="chinese">在内含子16内有1个位点存在转换型杂合子。</span><span class="english">In intron 16 one site has transition heterozygote.</span></p>
 
 <p><span class="chinese">它对进化的收敛既有积极作用，也有消极作用。</span><span class="english">Intron gives impact on evolution both positively and negatively.</span></p>

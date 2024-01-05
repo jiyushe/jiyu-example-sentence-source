@@ -1,5 +1,7 @@
 # kevlar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kevlar.md)
+
 <p><span class="chinese">芳纶纤维有助于增强有线和防止破损。</span><span class="english">Kevlar fiber helps to strengthen the cable and prevent breakage.</span></p>
 
 <p><span class="chinese">现在的目标是怎样构建20公里长的芳纶管道，并用一个或多个气球带动并固定管道。</span><span class="english">The current proposal sees the construction of a 20km Kevlar pipe tethered by one or more balloons.</span></p>

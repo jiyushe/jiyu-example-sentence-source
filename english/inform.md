@@ -1,5 +1,7 @@
 # inform 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inform.md)
+
 <p><span class="chinese">立刻禀报国王。</span><span class="english">Inform the king at once.</span></p>
 
 <p><span class="chinese">他将告诉我们去哪里。</span><span class="english">He will inform us whereto go.</span></p>

@@ -1,5 +1,7 @@
 # 副词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuci.md)
+
 <p><span class="chinese">“正”就是一个副词。</span><span class="english">"Zheng" is an adverb.</span></p>
 
 <p><span class="chinese">谨慎地使用副词。</span><span class="english">Use adverbs sparingly.</span></p>

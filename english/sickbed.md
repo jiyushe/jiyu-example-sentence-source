@@ -1,5 +1,7 @@
 # sickbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sickbed.md)
+
 <p><span class="chinese">在她的病床上。</span><span class="english">In her sickbed.</span></p>
 
 <p><span class="chinese">我在他病床旁边守了好几夜。</span><span class="english">I watched beside his sickbed for several nights.</span></p>

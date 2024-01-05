@@ -1,5 +1,7 @@
 # 贪欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanyu_1.md)
+
 <p><span class="chinese">我们需要对贪欲加以约束。</span><span class="english">We need to bridle greed.</span></p>
 
 <p><span class="chinese">因为人们的贪欲。</span><span class="english">Because greed kept on fueling it.</span></p>

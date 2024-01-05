@@ -1,5 +1,7 @@
 # 骡子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luozi.md)
+
 <p><span class="chinese">他倔得像头骡子。</span><span class="english">He's as stubborn as a mule.</span></p>
 
 <p><span class="chinese">瞧他骑着骡子小跑的神气模样儿！</span><span class="english">How he trots along on his mule !</span></p>

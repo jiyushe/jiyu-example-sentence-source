@@ -1,5 +1,7 @@
 # 玛瑙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manao.md)
+
 <p><span class="chinese">玛瑙的亮灯擎在你手里。</span><span class="english">The agate lamp within thy hand!</span></p>
 
 <p><span class="chinese">Tiffany黑玛瑙佛珠水泡项链。</span><span class="english">Toggle necklace. Black onyx beads.</span></p>

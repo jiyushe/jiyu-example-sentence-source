@@ -1,5 +1,7 @@
 # thelma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thelma.md)
+
 <p><span class="chinese">嗨！塞尔玛，这真是个好主意。</span><span class="english">Hey, Thelma , that's a great idea.</span></p>
 
 <p><span class="chinese">塞尔玛是来自奥斯陆的武器贩运商。</span><span class="english">Thelma is an arms trafficker from Oslo.</span></p>

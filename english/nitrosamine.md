@@ -1,5 +1,7 @@
 # nitrosamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitrosamine.md)
+
 <p><span class="chinese">黄酮类化合物在抑制亚硝化反应中有着广泛的应用。</span><span class="english">Flavone compounds has a broad application in inhibiting nitrosamine reaction.</span></p>
 
 <p><span class="chinese">高发区人胃液中亚硝胺类化合物含量明显高于低发区。</span><span class="english">People in the high-incidence area gastric nitrosamine compounds were significantly lower than the district.</span></p>

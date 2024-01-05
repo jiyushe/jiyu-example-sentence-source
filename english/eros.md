@@ -1,5 +1,7 @@
 # eros
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eros.md)
+
 <p><span class="chinese">第一个是厄洛斯。</span><span class="english">The first one, Eros.</span></p>
 
 <p><span class="chinese">爱神张开轻纱的翅膀。</span><span class="english">Eros spreads out the wings of the veil.</span></p>

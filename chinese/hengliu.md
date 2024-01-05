@@ -1,5 +1,7 @@
 # 横流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengliu.md)
+
 <p><span class="chinese">村子里洪水四处横流。</span><span class="english">The floods surged over the village.</span></p>
 
 <p><span class="chinese">横流对通道下游孔内流场影响较大。</span><span class="english">The cross-flow influence the flow field of downstream outflow.</span></p>

@@ -1,5 +1,7 @@
 # armstrong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armstrong.md)
+
 <p><span class="chinese">奥尔德林转向阿姆斯特朗。</span><span class="english">Aldrin turned to Armstrong.</span></p>
 
 <p><span class="chinese">路易斯·阿姆斯特朗是哪里人</span><span class="english">Where was Louis Armstrong from?</span></p>

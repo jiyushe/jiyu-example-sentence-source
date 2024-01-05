@@ -1,5 +1,7 @@
 # 炙手可热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishoukere.md)
+
 <p><span class="chinese">你会成为世界上炙手可热的冠军的。</span><span class="english">You're the world champion growler.</span></p>
 
 <p><span class="chinese">元彬是韩国炙手可热的财产。</span><span class="english">Won Bin is hot South Korean property.</span></p>

@@ -1,5 +1,7 @@
 # comportment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comportment.md)
+
 <p><span class="chinese">我只是在练习人际交流和社交举止。</span><span class="english">Practice human interaction and social comportment.</span></p>
 
 <p><span class="chinese">然而，实践中却存在滥用知识产权行为。</span><span class="english">However, practically there still is the comportment of abusing intellectual property right.</span></p>

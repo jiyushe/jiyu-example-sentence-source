@@ -1,5 +1,7 @@
 # hyperfunction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperfunction.md)
+
 <p><span class="chinese">胰岛素亢进。造成低血糖，怎么治疗?。</span><span class="english">Insulin hyperfunction. Cause hypoglycemia, how to treat?</span></p>
 
 <p><span class="chinese">肌张力障碍，腱反射亢进。③脑膜刺激征。</span><span class="english">Flesh tension obstacle, tendon reflexes hyperfunction. ③ meninx stimulation is asked for.</span></p>

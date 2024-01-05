@@ -1,5 +1,7 @@
 # 清道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdao_1.md)
+
 <p><span class="chinese">谁能说得清道得白呢？</span><span class="english">Who can tell another white?</span></p>
 
 <p><span class="chinese">所以给我清道，或者开出一条路来！打开这个牢笼。</span><span class="english">So clear the way, make way, yo! Open the cage.</span></p>

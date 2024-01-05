@@ -1,5 +1,7 @@
 # 棚子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengzi.md)
+
 <p><span class="chinese">用抗风雨的油漆把棚子漆一漆。</span><span class="english">Paint the shed with weather-resistant paint.</span></p>
 
 <p><span class="chinese">商人们搭起棚子开始营业。</span><span class="english">Tradesmen carried on their business in booths.</span></p>

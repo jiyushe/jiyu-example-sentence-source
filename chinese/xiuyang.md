@@ -1,5 +1,7 @@
 # 休养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuyang.md)
+
 <p><span class="chinese">峨眉山是个不错的休养胜地。</span><span class="english">Emei mountain is a good health resort.</span></p>
 
 <p><span class="chinese">她去乡村休养。</span><span class="english">She went to the country to recuperate.</span></p>

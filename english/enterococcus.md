@@ -1,5 +1,7 @@
 # enterococcus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enterococcus.md)
+
 <p><span class="chinese">粪肠球菌的电脑绘图。</span><span class="english">Computer artwork of Enterococcus faecalis bacteria.</span></p>
 
 <p><span class="chinese">肠球菌是家蚕消化道中的一种正常菌群。</span><span class="english">Enterococcus was the natural flora comes from enteron of silkworm.</span></p>

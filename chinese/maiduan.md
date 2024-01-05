@@ -1,5 +1,7 @@
 # 买断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maiduan.md)
+
 <p><span class="chinese">我们需要棒子，我们应该买断麦迪的合同。</span><span class="english">We need bonzi. Should buy out mcgrady's contract.</span></p>
 
 <p><span class="chinese">有钱人是如何用这个13世纪的法律买断我们的沉默的？</span><span class="english">How can the rich still be buying our silence with this 13th-century law?</span></p>

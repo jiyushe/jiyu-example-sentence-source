@@ -1,5 +1,7 @@
 # penis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penis.md)
+
 <p><span class="chinese">你是在用下半身思考。</span><span class="english">You think with your penis.</span></p>
 
 <p><span class="chinese">而现在一具阳物却在主宰着她的生活。</span><span class="english">And now a penis was running her life.</span></p>

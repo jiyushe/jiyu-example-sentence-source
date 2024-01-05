@@ -1,5 +1,7 @@
 # buttercup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buttercup.md)
+
 <p><span class="chinese">这种常见的金凤花是一种很受欢迎的多年生植物。</span><span class="english">The common buttercup is a popular perennial plant.</span></p>
 
 <p><span class="chinese">东北铁线莲为毛茛科铁线莲属植物。</span><span class="english">Clematis manshurica Rupr is from clematis of buttercup.</span></p>

@@ -1,5 +1,7 @@
 # undercurrent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undercurrent.md)
+
 <p><span class="chinese">他们两人之间潜伏着一股反感的暗流。</span><span class="english">There was an undercurrent of antipathy between them.</span></p>
 
 <p><span class="chinese">我们的教会从未有过这种消极影响。</span><span class="english">Our church has never had such a negative undercurrent.</span></p>

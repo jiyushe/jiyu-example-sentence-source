@@ -1,5 +1,7 @@
 # hardcover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardcover.md)
+
 <p><span class="chinese">我只找到精装版。</span><span class="english">I can only find the hardcover.</span></p>
 
 <p><span class="chinese">精装版的价格怎么样？</span><span class="english">How about the price of the hardcover?</span></p>

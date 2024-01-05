@@ -1,5 +1,7 @@
 # exciting 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exciting.md)
+
 <p><span class="chinese">令人兴奋地鞋垫？</span><span class="english">Exciting insoles?</span></p>
 
 <p><span class="chinese">这非常令人兴奋。</span><span class="english">And it's exciting.</span></p>

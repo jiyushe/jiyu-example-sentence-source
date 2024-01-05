@@ -1,5 +1,7 @@
 # rectal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rectal.md)
+
 <p><span class="chinese">你得多经常去做直肠检查才行啊？</span><span class="english">How often do you need the dreaded rectal exam?</span></p>
 
 <p><span class="chinese">直肠壁薄而没有浆膜覆盖。</span><span class="english">The rectal wall is thin and has no serosal covering.</span></p>

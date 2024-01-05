@@ -1,5 +1,7 @@
 # freaky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freaky.md)
+
 <p><span class="chinese">那天我们做了不该做的事情。</span><span class="english">We did some freaky things that day.</span></p>
 
 <p><span class="chinese">我每次看到虫子都会吓得发疯。</span><span class="english">I freaky out every time I see a bug.</span></p>

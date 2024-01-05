@@ -1,5 +1,7 @@
 # 一刀切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidaoqie.md)
+
 <p><span class="chinese">我们对任何一刀切的解决方案表示怀疑。</span><span class="english">We would be sceptical to any broad-brush solution.</span></p>
 
 <p><span class="chinese">伊克巴尔最小的“维多利亚”一刀切很容易对Palm他的手。</span><span class="english">Iqbal's smallest "Victoria" fits easily on the palm of his hand.</span></p>

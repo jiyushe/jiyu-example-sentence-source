@@ -1,5 +1,7 @@
 # 香料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangliao.md)
+
 <p><span class="chinese">所以，加点香料吧。</span><span class="english">So spice it up!</span></p>
 
 <p><span class="chinese">糖和香料。</span><span class="english">Suger and spice.</span></p>

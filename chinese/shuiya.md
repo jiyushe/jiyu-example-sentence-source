@@ -1,5 +1,7 @@
 # 水压
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiya.md)
+
 <p><span class="chinese">水压用临时扳手制作完。</span><span class="english">Temporary wrenches have been finished.</span></p>
 
 <p><span class="chinese">宽窄不一样的管子就会制造出不同的水压。</span><span class="english">Various pressures were achieved with wide or narrow pipes.</span></p>

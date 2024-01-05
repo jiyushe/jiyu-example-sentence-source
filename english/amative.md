@@ -1,5 +1,7 @@
 # amative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amative.md)
+
 <p><span class="chinese">过村没有这店之感触，在恋爱过程中表现主动。</span><span class="english">Cross a village to do not have the feeling of this inn, behave in amative process active.</span></p>
 
 <p><span class="chinese">他们在恋爱过程中会更多地关注对方的性格、人品其他因素。</span><span class="english">The disposition that they pay close attention to the other side can morely in amative process, character is other element.</span></p>

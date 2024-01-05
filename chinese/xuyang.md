@@ -1,5 +1,7 @@
 # 畜养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuyang.md)
+
 <p><span class="chinese">他擅长畜养家畜。</span><span class="english">He is good at breeding livestock.</span></p>
 
 <p><span class="chinese">畜养道德，人民就和合。</span><span class="english">Keeper of morals, the people on the harmony.</span></p>

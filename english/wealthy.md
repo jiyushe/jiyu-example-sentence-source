@@ -1,5 +1,7 @@
 # wealthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wealthy.md)
+
 <p><span class="chinese">任何人都能富有。</span><span class="english">Anybody can be wealthy.</span></p>
 
 <p><span class="chinese">他们如何变得如此富有？</span><span class="english">How did they get so wealthy?</span></p>

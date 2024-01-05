@@ -1,5 +1,7 @@
 # shirting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shirting.md)
+
 <p><span class="chinese">我们想知道你们印刷衬衫布料的CIF东京价。</span><span class="english">We want to know the price CIF Tokyo for your printed shirting.</span></p>
 
 <p><span class="chinese">我们想了解一下贵方印花衬衫的CIF东京价格。</span><span class="english">We want to know the price CIF Tokyo for your printed shirting.</span></p>

@@ -1,5 +1,7 @@
 # processional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/processional.md)
+
 <p><span class="chinese">游行路线沿线挤满了人群。</span><span class="english">Crowds lined the processional route.</span></p>
 
 <p><span class="chinese">成千上万的人站在列队行进路线的两旁。</span><span class="english">Thousands of people lined the processional mute.</span></p>

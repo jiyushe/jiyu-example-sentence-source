@@ -1,5 +1,7 @@
 # garibaldi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garibaldi.md)
+
 <p><span class="chinese">那么加里波第呢？</span><span class="english">And Garibaldi?</span></p>
 
 <p><span class="chinese">雄性红鱼负责建造巢穴。</span><span class="english">It's the male garibaldi who makes the nest.</span></p>

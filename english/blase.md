@@ -1,5 +1,7 @@
 # blasé
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blase.md)
+
 <p><span class="chinese">厌倦著我们曾予留连过的所在。</span><span class="english">Blase on where we have been.</span></p>
 
 <p><span class="chinese">她非常腻烦聚会。</span><span class="english">She' s very blase about parties.</span></p>

@@ -1,5 +1,7 @@
 # fluctuating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluctuating.md)
+
 <p><span class="chinese">你的个人情况暧昧不明。</span><span class="english">Your personal situation is fluctuating.</span></p>
 
 <p><span class="chinese">处理波动量的灵活性能否增加？</span><span class="english">Increase flexibility to handle fluctuating volumes?</span></p>

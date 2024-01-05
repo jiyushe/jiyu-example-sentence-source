@@ -1,5 +1,7 @@
 # elongation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elongation.md)
+
 <p><span class="chinese">纤维伸长低。</span><span class="english">Low fiber elongation.</span></p>
 
 <p><span class="chinese">仅在8例移植手术中使用了延长修补操作。</span><span class="english">The elongation patch was used in only 8 transplantations.</span></p>

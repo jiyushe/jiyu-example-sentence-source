@@ -1,5 +1,7 @@
 # jingle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jingle.md)
+
 <p><span class="chinese">你能发挥叮铃铃？</span><span class="english">Can you play jingle bells ?</span></p>
 
 <p><span class="chinese">“叮铃铃”下课了。</span><span class="english">"Jingle bell" class dismissed.</span></p>

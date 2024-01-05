@@ -1,5 +1,7 @@
 # fastidious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fastidious.md)
+
 <p><span class="chinese">这就是她做的，她过分严谨。</span><span class="english">Here is what she did. She was fastidious.</span></p>
 
 <p><span class="chinese">帕克会有时间如此精益求精吗？</span><span class="english">Will Parker have time to be so fastidious?</span></p>

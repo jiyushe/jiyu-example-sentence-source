@@ -1,5 +1,7 @@
 # 甚么
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenme_1.md)
+
 <p><span class="chinese">曼萨的建立目的是甚么？</span><span class="english">What are Mensa's goals?</span></p>
 
 <p><span class="chinese">琼斯先生正在干甚么？</span><span class="english">What'sMr. Jones doing ?</span></p>

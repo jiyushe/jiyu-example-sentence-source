@@ -1,5 +1,7 @@
 # gearing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gearing.md)
+
 <p><span class="chinese">这机器的齿轮装置很特别.</span><span class="english">The gearing of this machine is unusual.</span></p>
 
 <p><span class="chinese">财务杠杆可能是另一原因。</span><span class="english">Financial gearing may be another reason.</span></p>

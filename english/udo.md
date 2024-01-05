@@ -1,5 +1,7 @@
 # udo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/udo.md)
+
 <p><span class="chinese">你做哪些业务？</span><span class="english">Which business do udo?</span></p>
 
 <p><span class="chinese">在中国15块钱人民币你能做什么?。</span><span class="english">What can udo in china with 15 yuan?</span></p>

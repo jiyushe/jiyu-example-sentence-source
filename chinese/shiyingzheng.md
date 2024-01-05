@@ -1,5 +1,7 @@
 # 适应症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyingzheng.md)
+
 <p><span class="chinese">这是药品的“适应症外”用途。</span><span class="english">This is called "off-label" use of a drug.</span></p>
 
 <p><span class="chinese">现在鼓室成形术的适应症已放宽。</span><span class="english">The indication for tympanoplasty has become broad.</span></p>

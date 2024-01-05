@@ -1,5 +1,7 @@
 # environmentalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/environmentalism.md)
+
 <p><span class="chinese">书虫式的环境保护主义正是戈尔先生的拿手好戏。</span><span class="english">Nerdy environmentalism is Mr Gore's forte.</span></p>
 
 <p><span class="chinese">这是最和缓的环保故事。</span><span class="english">It's the quietest story in environmentalism.</span></p>

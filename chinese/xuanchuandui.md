@@ -1,5 +1,7 @@
 # 宣传队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanchuandui.md)
+
 <p><span class="chinese">宣传队是部队文化工作的基本队伍。</span><span class="english">The ranks were shaken, but not broken.</span></p>
 
 <p><span class="chinese">每个大队有个宣传队负责政治教育。</span><span class="english">A propaganda team in each brigade is responsible for political education.</span></p>

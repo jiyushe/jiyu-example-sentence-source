@@ -1,5 +1,7 @@
 # 披肩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pijian.md)
+
 <p><span class="chinese">她披着一件红披肩。</span><span class="english">She wore a red cape.</span></p>
 
 <p><span class="chinese">范妮，去拿你的披肩。</span><span class="english">Get your shawl Fannie.</span></p>

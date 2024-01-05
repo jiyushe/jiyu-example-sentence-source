@@ -1,5 +1,7 @@
 # 摹仿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mofang.md)
+
 <p><span class="chinese">试着摹仿她的风格。</span><span class="english">Try to copy her style.</span></p>
 
 <p><span class="chinese">摹仿的作品完成之后，一般不在本地出售。</span><span class="english">Imitate after the completion of the works, not the general sale locally.</span></p>

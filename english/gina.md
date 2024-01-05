@@ -1,5 +1,7 @@
 # gina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gina.md)
+
 <p><span class="chinese">英尼可和吉娜死了。</span><span class="english">Iniko and Gina died anyway.</span></p>
 
 <p><span class="chinese">金和吉娜是好朋友。</span><span class="english">Kim and Gina are good friends.</span></p>

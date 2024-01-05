@@ -1,5 +1,7 @@
 # luoyang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luoyang.md)
+
 <p><span class="chinese">我来自中国洛阳市！！！</span><span class="english">I am from Luoyang city, China! ! !</span></p>
 
 <p><span class="chinese">牡丹是洛阳的市花。</span><span class="english">The peony is the city flower of Luoyang.</span></p>

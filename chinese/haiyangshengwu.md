@@ -1,5 +1,7 @@
 # 海洋生物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haiyangshengwu.md)
+
 <p><span class="chinese">该种毒物能使海洋生物病变。</span><span class="english">The toxin can make sea life sick.</span></p>
 
 <p><span class="chinese">鱼是由史前海洋生物演变而来的。</span><span class="english">Fish evolved from prehistoric sea creatures.</span></p>

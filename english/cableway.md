@@ -1,5 +1,7 @@
 # cableway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cableway.md)
+
 <p><span class="chinese">缆车运作得很快！</span><span class="english">The cableway runs so fast!</span></p>
 
 <p><span class="chinese">索道运行过程中，请勿吸烟。</span><span class="english">Smoking is prohibitive in process of the cableway.</span></p>

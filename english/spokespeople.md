@@ -1,5 +1,7 @@
 # spokespeople
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spokespeople.md)
+
 <p><span class="chinese">彭博和麦克劳希尔的发言人士均拒绝评论.</span><span class="english">Bloomberg and McGraw spokespeople declined to comment.</span></p>
 
 <p><span class="chinese">我曾以电话和邮件方式联络阿尔瓦利德在利雅得的发言人，但均未得到回复。</span><span class="english">My calls and emails to Alwaleed’s spokespeople in Riyadh were not returned.</span></p>

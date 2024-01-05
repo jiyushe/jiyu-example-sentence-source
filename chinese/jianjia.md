@@ -1,5 +1,7 @@
 # 减价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjia.md)
+
 <p><span class="chinese">这些长袍减价出售。</span><span class="english">These robes are on sale.</span></p>
 
 <p><span class="chinese">这些热裤在减价销售吗?。</span><span class="english">Are there hot-pants on sale?</span></p>

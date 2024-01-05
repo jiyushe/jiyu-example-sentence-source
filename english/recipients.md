@@ -1,5 +1,7 @@
 # recipients
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recipients.md)
+
 <p><span class="chinese">每封信也可以发送给不同的收件人。</span><span class="english">Each letter can even go to different recipients.</span></p>
 
 <p><span class="chinese">本月刊电子杂志发送给12500个读者。</span><span class="english">The online magazine was sent to 12500 recipients.</span></p>

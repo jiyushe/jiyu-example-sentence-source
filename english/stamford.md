@@ -1,5 +1,7 @@
 # stamford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stamford.md)
+
 <p><span class="chinese">他们过去也在斯坦福德。</span><span class="english">They used to be in Stamford.</span></p>
 
 <p><span class="chinese">斯坦福德队处于领先地位。</span><span class="english">The Stamford team is in first place.</span></p>

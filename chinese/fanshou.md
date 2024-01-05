@@ -1,5 +1,7 @@
 # 反手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanshou.md)
+
 <p><span class="chinese">他来了一个快速的反手击。</span><span class="english">He's got a fast backhand.</span></p>
 
 <p><span class="chinese">我的反手回球要更强一些。</span><span class="english">I have better backhand return.</span></p>

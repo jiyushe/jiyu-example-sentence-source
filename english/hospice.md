@@ -1,5 +1,7 @@
 # hospice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hospice.md)
+
 <p><span class="chinese">我这是去临终老人收容所。</span><span class="english">I’m on my way to a hospice.</span></p>
 
 <p><span class="chinese">一个感染艾滋病病毒的男子在赞比亚一处医务所沐浴清洗。</span><span class="english">A man ravaged by AIDS is bathed at a hospice in Zambia.</span></p>

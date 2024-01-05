@@ -1,5 +1,7 @@
 # rueful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rueful.md)
+
 <p><span class="chinese">爸爸还以沮丧的笑声。</span><span class="english">Father gave a rueful laugh.</span></p>
 
 <p><span class="chinese">埃伦对我凄然一笑。</span><span class="english">Ellen gave me a rueful smile.</span></p>

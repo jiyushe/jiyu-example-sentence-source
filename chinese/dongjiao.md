@@ -1,5 +1,7 @@
 # 东郊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongjiao.md)
+
 <p><span class="chinese">合生东郊别墅，纵横龙东大道。</span><span class="english">Hopson Dongjiao Villa, Cross the Longdong Avenue ,.</span></p>
 
 <p><span class="chinese">现在东郊公园里的树和过去一样多。</span><span class="english">Now East Suburb Park has as many trees as it used to.</span></p>

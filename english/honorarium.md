@@ -1,5 +1,7 @@
 # honorarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honorarium.md)
+
 <p><span class="chinese">我们提供旅费和住宿费以及酬金。正在加载用户记忆法…</span><span class="english">Travel and hotel costs as well as an honorarium will be provided.</span></p>
 
 <p><span class="chinese">一部分居民同意去进行这样的一个调查，在支付一小点酬金的情况下。</span><span class="english">A group of residents agreed to conduct the survey for a small honorarium.</span></p>

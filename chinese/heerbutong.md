@@ -1,5 +1,7 @@
 # 和而不同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heerbutong.md)
+
 <p><span class="chinese">“和而不同”理念推动了人的民主意识的培养。</span><span class="english">" Harmony in Diversity" Promotes the cultivation of people's democratic consciousness.</span></p>
 
 <p><span class="chinese">然而，二者均以“正义”为终极目标，因而在“和而不同”之中又表现出融通的迹象。</span><span class="english">However, both regard the justice as the ultimate goal and then show signs of financing.</span></p>

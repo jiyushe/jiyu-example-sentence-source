@@ -1,5 +1,7 @@
 # 伴娘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banniang.md)
+
 <p><span class="chinese">冬天伴娘穿什么？</span><span class="english">Winter bridesmaids to wear?</span></p>
 
 <p><span class="chinese">伴娘出来，我们对歌。</span><span class="english">Come out, bride. Let's sing.</span></p>

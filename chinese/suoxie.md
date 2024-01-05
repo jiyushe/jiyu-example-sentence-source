@@ -1,5 +1,7 @@
 # 缩写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoxie.md)
+
 <p><span class="chinese">缩写与略语在政治中屡见不鲜。</span><span class="english">Initials abound in politics.</span></p>
 
 <p><span class="chinese">一般缩写为“kr”。</span><span class="english">The common abbreviation is "kr".</span></p>

@@ -1,5 +1,7 @@
 # hives
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hives.md)
+
 <p><span class="chinese">蜂蜜树村和所有的蜂房。</span><span class="english">Honeytree and all the hives.</span></p>
 
 <p><span class="chinese">现在去卖蜂箱已经晚了。</span><span class="english">It is late for the hives already.</span></p>

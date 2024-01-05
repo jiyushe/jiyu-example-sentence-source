@@ -1,5 +1,7 @@
 # loquacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loquacious.md)
+
 <p><span class="chinese">你会认为女人更健谈吗？</span><span class="english">Would you guess women are more loquacious?</span></p>
 
 <p><span class="chinese">时不时的就在锦绣耳边唠叨。</span><span class="english">Often of loquacious in the rich brocade ear.</span></p>

@@ -1,5 +1,7 @@
 # bless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bless.md)
+
 <p><span class="chinese">上帝保佑她。</span><span class="english">God bless her.</span></p>
 
 <p><span class="chinese">上帝保佑你。</span><span class="english">God bless you.</span></p>

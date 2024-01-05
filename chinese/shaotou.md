@@ -1,5 +1,7 @@
 # 梢头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaotou.md)
+
 <p><span class="chinese">月上柳梢头，人约黄昏后。</span><span class="english">About dusk after month LiuShao head, man.</span></p>
 
 <p><span class="chinese">也不只是诗词中的月上柳梢头的花前月下。</span><span class="english">Poetry is not just on the next Kamiyanagi.</span></p>

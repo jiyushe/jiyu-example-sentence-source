@@ -1,5 +1,7 @@
 # morality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morality.md)
+
 <p><span class="chinese">人类的美德与上帝的意愿相符合。</span><span class="english">And human morality is conformity to his will.</span></p>
 
 <p><span class="chinese">德与法是治国之二柄，两者相辅相成，缺一不可。</span><span class="english">Morality and law are related with each other.</span></p>

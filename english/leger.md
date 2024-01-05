@@ -1,5 +1,7 @@
 # leger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leger.md)
+
 <p><span class="chinese">这是来自加州傅布鲁克的夏洛特·列格在这儿的第四天了。</span><span class="english">Charlotte Leger of Fallbrook, California, is here for her fourth day.</span></p>
 
 <p><span class="chinese">这是来自加州傅布鲁克的夏洛特·列格在这儿的第四天了。</span><span class="english">Charlotte Leger of Fallbrook, California , is here for her fourth day.</span></p>

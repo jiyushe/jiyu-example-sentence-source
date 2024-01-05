@@ -1,5 +1,7 @@
 # 席位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiwei.md)
+
 <p><span class="chinese">她给我订了个席位。</span><span class="english">She booked me a seat.</span></p>
 
 <p><span class="chinese">反对党获得62个席位。</span><span class="english">The Opposition won 62 seats.</span></p>

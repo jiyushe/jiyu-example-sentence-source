@@ -1,5 +1,7 @@
 # vortex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vortex.md)
+
 <p><span class="chinese">我爱火影忍者，尤其是漩涡鸣人。</span><span class="english">I love naruto. Especially vortex naruto.</span></p>
 
 <p><span class="chinese">他被卷入政治的漩涡中。</span><span class="english">He was drawn into the vortex of politics.</span></p>

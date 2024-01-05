@@ -1,5 +1,7 @@
 # 暗门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anmen.md)
+
 <p><span class="chinese">一把生锈的钥匙打开了那扇暗门！</span><span class="english">A Rusty Key Opens a Hidden Door!</span></p>
 
 <p><span class="chinese">他是从一个暗门逃走的。</span><span class="english">He escaped through a secret door.</span></p>

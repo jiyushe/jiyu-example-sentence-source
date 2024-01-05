@@ -1,5 +1,7 @@
 # 不懂装懂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budongzhuangdong.md)
+
 <p><span class="chinese">我不会不懂装懂的。</span><span class="english">I don't pretend to understand it.</span></p>
 
 <p><span class="chinese">不要不懂装懂。</span><span class="english">Don't pretend to know what you don't know.</span></p>

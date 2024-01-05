@@ -1,5 +1,7 @@
 # 原人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanren.md)
+
 <p><span class="chinese">猿科动物亚目中的成员，包括猴子、猿和原人。</span><span class="english">Any member of the suborder anthropoidea including monkeys and apes and hominids.</span></p>
 
 <p><span class="chinese">你叫我‘前辈’，我已经觉得像史前原人的遗骸了。</span><span class="english">When you call me 'senior, ' I feel like a prehistoric relic. Why do you add the word 'elder'?</span></p>

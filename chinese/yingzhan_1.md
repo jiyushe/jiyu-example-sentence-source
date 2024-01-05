@@ -1,5 +1,7 @@
 # 迎战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzhan_1.md)
+
 <p><span class="chinese">迎战堕落者，我们需要你！</span><span class="english">Face to the Fallen, we need you!</span></p>
 
 <p><span class="chinese">鲁国由鲁王亲自带兵迎战。</span><span class="english">The King of Lu led the army by himself.</span></p>

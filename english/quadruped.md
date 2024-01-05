@@ -1,5 +1,7 @@
 # quadruped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadruped.md)
+
 <p><span class="chinese">马是四足动物。</span><span class="english">A horse is a quadruped.</span></p>
 
 <p><span class="chinese">大象是四足动物。</span><span class="english">An elephant is a quadruped.</span></p>

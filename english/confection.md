@@ -1,5 +1,7 @@
 # confection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confection.md)
+
 <p><span class="chinese">读一下我们以前的关于蜜饯对人体健康的好处的文章</span><span class="english">Read our past coverage about the health benefits of the confection</span></p>
 
 <p><span class="chinese">它没有戴安娜王妃穿过的那套婚纱那么甜腻奢华。</span><span class="english">It stood apart from the billowy confection that Princess Diana wore.</span></p>

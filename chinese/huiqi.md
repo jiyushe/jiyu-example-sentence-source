@@ -1,5 +1,7 @@
 # 晦气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiqi.md)
+
 <p><span class="chinese">我真晦气，错过了末了一班火车。</span><span class="english">I am unlucky enough to miss the last train.</span></p>
 
 <p><span class="chinese">我讨厌失败的人，我怕和他们在一起沾上晦气！</span><span class="english">I detester losers for fear of being like them.</span></p>

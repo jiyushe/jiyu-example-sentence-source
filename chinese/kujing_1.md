@@ -1,5 +1,7 @@
 # 苦境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kujing_1.md)
+
 <p><span class="chinese">将你的苦境归咎于别人。</span><span class="english">Blame others for your plight.</span></p>
 
 <p><span class="chinese">想要改善现在的苦境，我们只有更加努力的工作！</span><span class="english">We can change our miserable plight only by working harder.</span></p>

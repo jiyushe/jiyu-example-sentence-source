@@ -1,5 +1,7 @@
 # marketability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marketability.md)
+
 <p><span class="chinese">对这些资产的基本要求是具有适销性。</span><span class="english">The basic requirement of such assets is marketability.</span></p>
 
 <p><span class="chinese">以下来自专家的8点建议，可让你提高自身市场。</span><span class="english">Here are eight tips from the experts on increasing your marketability</span></p>

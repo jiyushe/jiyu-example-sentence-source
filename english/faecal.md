@@ -1,5 +1,7 @@
 # faecal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faecal.md)
+
 <p><span class="chinese">实验中测量了食品摄取量和粪便排出量。</span><span class="english">During the experiment food intake and faecal output were measured.</span></p>
 
 <p><span class="chinese">不可溶性纤维在增加粪便体积与预防便秘中起着重要作用。</span><span class="english">Insoluable fibre plays an important role in faecal bulking and prevention of constipation.</span></p>

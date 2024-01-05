@@ -1,5 +1,7 @@
 # 云霞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunxia.md)
+
 <p><span class="chinese">霉菌给它蒸出些云霞。</span><span class="english">mold and mildew it steamed off.</span></p>
 
 <p><span class="chinese">细菌给他蒸出些云霞。</span><span class="english">And bacteria generate evening clouds.</span></p>

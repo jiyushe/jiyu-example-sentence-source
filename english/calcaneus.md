@@ -1,5 +1,7 @@
 # calcaneus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcaneus.md)
+
 <p><span class="chinese">跟骨病变采用放射治疗。</span><span class="english">Radiotherapy was for the case of calcaneus.</span></p>
 
 <p><span class="chinese">跟骨突出于踝部的后方。</span><span class="english">The calcaneus projects backward behind the ankle.</span></p>

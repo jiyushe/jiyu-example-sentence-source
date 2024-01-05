@@ -1,5 +1,7 @@
 # utilizable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utilizable.md)
+
 <p><span class="chinese">矿业权是空间利用权的一种特殊类型。</span><span class="english">Mining right is a special type of the utilizable right of airspace.</span></p>
 
 <p><span class="chinese">仔猪从采食饲料中持续地获得易于吸收利用的蛋氨酸铁。</span><span class="english">The more utilizable and absorbable MFe is fed as a piglet feed supplement.</span></p>

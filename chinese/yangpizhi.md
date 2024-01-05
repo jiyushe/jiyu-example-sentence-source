@@ -1,5 +1,7 @@
 # 羊皮纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangpizhi.md)
+
 <p><span class="chinese">波顿大人打开羊皮纸。</span><span class="english">Lord Bolton unrolled the parchment.</span></p>
 
 <p><span class="chinese">这张古老的羊皮纸是在一精致的铁盒子里发现的。</span><span class="english">Is that a wooden box or an iron one?</span></p>

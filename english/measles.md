@@ -1,5 +1,7 @@
 # measles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/measles.md)
+
 <p><span class="chinese">她患麻疹病倒了。</span><span class="english">She fell ill with measles.</span></p>
 
 <p><span class="chinese">这小孩患了麻疹，疹痘已出现。</span><span class="english">The child has got measles.</span></p>

@@ -1,5 +1,7 @@
 # virgo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virgo.md)
+
 <p><span class="chinese">你是处女座的沙加。</span><span class="english">You are Virgo Shaka.</span></p>
 
 <p><span class="chinese">亲爱的室女座，开心一点。</span><span class="english">Be happy, dear Virgo.</span></p>

@@ -1,5 +1,7 @@
 # ulster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ulster.md)
+
 <p><span class="chinese">他1848年从阿尔斯特移民到这里。</span><span class="english">He immigrated from Ulster in 1848.</span></p>
 
 <p><span class="chinese">他曾担任纽约州阿尔斯特县议员和少数党领袖。</span><span class="english">Ulster County, New York, he served as Member and served as minority leader.</span></p>

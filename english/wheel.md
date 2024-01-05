@@ -1,5 +1,7 @@
 # wheel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheel.md)
+
 <p><span class="chinese">前轮驱动。</span><span class="english">Front wheel drive.</span></p>
 
 <p><span class="chinese">轮子安正了吗?。</span><span class="english">Is the wheel true ?</span></p>

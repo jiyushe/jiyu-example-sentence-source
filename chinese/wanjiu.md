@@ -1,5 +1,7 @@
 # 挽救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanjiu.md)
+
 <p><span class="chinese">谁能挽救僵局？</span><span class="english">Who would save it?</span></p>
 
 <p><span class="chinese">你挽救了我的生活。</span><span class="english">You saved my life.</span></p>

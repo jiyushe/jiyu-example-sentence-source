@@ -1,5 +1,7 @@
 # gaia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaia.md)
+
 <p><span class="chinese">盖亚有很多反馈系统。</span><span class="english">Gaia has many feedback systems.</span></p>
 
 <p><span class="chinese">你不能放下美丽的盖娅，不能放下美丽的日初。</span><span class="english">You are not letting go of the beauty of Gaia.</span></p>

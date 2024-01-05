@@ -1,5 +1,7 @@
 # 输血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxue.md)
+
 <p><span class="chinese">可发生输血后黄疸。</span><span class="english">Post-transfusion jaundice may occur.</span></p>
 
 <p><span class="chinese">有指征时应输血。</span><span class="english">Blood should be administered as indicated.</span></p>

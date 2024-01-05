@@ -1,5 +1,7 @@
 # oral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oral.md)
+
 <p><span class="chinese">这是口服药。</span><span class="english">This is for oral ministry.</span></p>
 
 <p><span class="chinese">主题的口语测试1。</span><span class="english">II. Topics for oral test 1.</span></p>

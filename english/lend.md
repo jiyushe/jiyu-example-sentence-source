@@ -1,5 +1,7 @@
 # lend 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lend.md)
+
 <p><span class="chinese">借我抄抄吧。</span><span class="english">Lend me a copy.</span></p>
 
 <p><span class="chinese">笔记借我抄。</span><span class="english">Lend me your notes.</span></p>

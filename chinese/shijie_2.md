@@ -1,5 +1,7 @@
 # 时节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijie_2.md)
+
 <p><span class="chinese">在春暖花开的时节。</span><span class="english">In the spring season.</span></p>
 
 <p><span class="chinese">他在深秋时节离开的。</span><span class="english">He left in late autumn.</span></p>

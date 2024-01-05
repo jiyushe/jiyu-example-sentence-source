@@ -1,5 +1,7 @@
 # 门下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menxia.md)
+
 <p><span class="chinese">败军在轭门下通过。</span><span class="english">They are yoked in marriage.</span></p>
 
 <p><span class="chinese">滑动门下的枪！</span><span class="english">Slide your guns under the door!</span></p>

@@ -1,5 +1,7 @@
 # dandelion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dandelion.md)
+
 <p><span class="chinese">在每粒蒲公英种子的末端。</span><span class="english">On the end of every dandelion seed.</span></p>
 
 <p><span class="chinese">摘一个已经结子的蒲公英。</span><span class="english">Pick a dandelion that has gone to seed.</span></p>

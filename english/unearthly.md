@@ -1,5 +1,7 @@
 # unearthly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unearthly.md)
+
 <p><span class="chinese">这是一个怪想法。</span><span class="english">It is an unearthly idea.</span></p>
 
 <p><span class="chinese">在更远、远离尘世的高处</span><span class="english">And further still at an unearthly height</span></p>

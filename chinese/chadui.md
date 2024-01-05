@@ -1,5 +1,7 @@
 # 插队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chadui.md)
+
 <p><span class="chinese">我最恨插队行为了。</span><span class="english">I really hate queue-jumping.</span></p>
 
 <p><span class="chinese">看到有人插队，你会怎么办？</span><span class="english">How do you deal with queue-jumpers?</span></p>

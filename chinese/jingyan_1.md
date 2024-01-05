@@ -1,5 +1,7 @@
 # 经验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyan_1.md)
+
 <p><span class="chinese">经验和信念。</span><span class="english">Experiences and beliefs.</span></p>
 
 <p><span class="chinese">凭我的经验来讲。</span><span class="english">I speak from experience.</span></p>

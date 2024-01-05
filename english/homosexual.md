@@ -1,5 +1,7 @@
 # homosexual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homosexual.md)
+
 <p><span class="chinese">他是个小贱货，一个没有人喜欢的同性恋。</span><span class="english">And a homosexual that NO ONE LIKES.</span></p>
 
 <p><span class="chinese">你这个同性恋幽灵，我们叫你现在就出来！</span><span class="english">You homosexual spirit, we call you out right now!</span></p>

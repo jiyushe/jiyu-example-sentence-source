@@ -1,5 +1,7 @@
 # ell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ell.md)
+
 <p><span class="chinese">这布很经洗。</span><span class="english">The cloth ashes ell.</span></p>
 
 <p><span class="chinese">法国事欧罗巴洲同盟成员国之一。</span><span class="english">France is one of the member states of the ELL.</span></p>

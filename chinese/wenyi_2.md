@@ -1,5 +1,7 @@
 # 瘟疫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenyi_2.md)
+
 <p><span class="chinese">“2个瘟疫般的进球，”他说。</span><span class="english">"Two poxy goals, " he said.</span></p>
 
 <p><span class="chinese">1665年一场瘟疫降临伦敦。</span><span class="english">A plague visited London in 1665.</span></p>

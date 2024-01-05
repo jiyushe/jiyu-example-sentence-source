@@ -1,5 +1,7 @@
 # mediate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mediate.md)
+
 <p><span class="chinese">调解纠纷，缓和矛盾。</span><span class="english">Meaning mediate a dispute and appease conflict.</span></p>
 
 <p><span class="chinese">工具把诗人和世界连接起来。</span><span class="english">Tools mediate the worker's relation to the world.</span></p>

@@ -1,5 +1,7 @@
 # 反目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanmu.md)
+
 <p><span class="chinese">每私都知道他们反目睦。</span><span class="english">Everyone knew that they had been on bad terms.</span></p>
 
 <p><span class="chinese">所遗家产，成为兄弟反目，争相抢夺。</span><span class="english">Siblings become enemies, fighting over assets that are left.</span></p>

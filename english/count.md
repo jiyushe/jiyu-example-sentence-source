@@ -1,5 +1,7 @@
 # count
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/count.md)
+
 <p><span class="chinese">像这样报数。</span><span class="english">Count like this.</span></p>
 
 <p><span class="chinese">记录计数。</span><span class="english">The record count.</span></p>

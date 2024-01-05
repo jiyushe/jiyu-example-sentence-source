@@ -1,5 +1,7 @@
 # barren
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barren.md)
+
 <p><span class="chinese">精神家园一片荒芜。</span><span class="english">Spiritual home is barren.</span></p>
 
 <p><span class="chinese">一片荒原，不毛之地。</span><span class="english">A barren land, bare waste.</span></p>

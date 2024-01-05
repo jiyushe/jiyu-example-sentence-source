@@ -1,5 +1,7 @@
 # 放流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangliu.md)
+
 <p><span class="chinese">一条俄勒冈州钓获的大嘴，放流前所拍照片。</span><span class="english">An Oregon largemouth bass prior to release. Photo by Todd Moen.</span></p>
 
 <p><span class="chinese">放流鱼种生长和成活情况较好。</span><span class="english">In addition, survival and growth of fish released were quite satisfied.</span></p>

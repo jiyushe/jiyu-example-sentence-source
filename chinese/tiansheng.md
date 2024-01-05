@@ -1,5 +1,7 @@
 # 天生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiansheng.md)
+
 <p><span class="chinese">他是故事大王，天生的好口才。</span><span class="english">He was born to chat.</span></p>
 
 <p><span class="chinese">我天生鸽趾。</span><span class="english">I was born pigeon-toed.</span></p>

@@ -1,5 +1,7 @@
 # columnist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/columnist.md)
+
 <p><span class="chinese">柏辽兹了其辉煌的专栏作家。</span><span class="english">Berlioz had been its brilliant columnist.</span></p>
 
 <p><span class="chinese">在这样的地方作一个专栏作家实在让人兴奋。</span><span class="english">Being a columnist at a place like this can be exhilarating.</span></p>

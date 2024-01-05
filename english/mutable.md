@@ -1,5 +1,7 @@
 # mutable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutable.md)
+
 <p><span class="chinese">或者是包含其它有可变的结果的链表。</span><span class="english">Or a list of anything that could be mutable.</span></p>
 
 <p><span class="chinese">早期的匿名类型版本是不稳定的。</span><span class="english">The early versions of anonymous types were mutable.</span></p>

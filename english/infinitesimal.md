@@ -1,5 +1,7 @@
 # infinitesimal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infinitesimal.md)
+
 <p><span class="chinese">现在这个比例非常低。</span><span class="english">Now, it's infinitesimal.</span></p>
 
 <p><span class="chinese">不为零的无穷小时间间隔</span><span class="english">infinitesimal interval of time not yet 0.</span></p>

@@ -1,5 +1,7 @@
 # 了不起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaobuqi.md)
+
 <p><span class="chinese">很了不起。</span><span class="english">It was amazing.</span></p>
 
 <p><span class="chinese">你真了不起。</span><span class="english">You're awesome.</span></p>

@@ -1,5 +1,7 @@
 # mercaptan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercaptan.md)
+
 <p><span class="chinese">油样中的含硫化合物以噻吩类、硫醇和硫醚为主。</span><span class="english">The sulfide was in the form of thiophene, mercaptan and thioether.</span></p>
 
 <p><span class="chinese">介绍了用氯氧化法处理化工生产单元中排放出的甲硫醇尾气新技术。</span><span class="english">A new technique to deal with methyl mercaptan by chlorine oxidation was introduced.</span></p>

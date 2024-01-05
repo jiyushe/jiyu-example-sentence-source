@@ -1,5 +1,7 @@
 # leadership 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leadership.md)
+
 <p><span class="chinese">第一，什么是领导力？</span><span class="english">One, what is leadership?</span></p>
 
 <p><span class="chinese">任务导向型领导风格。</span><span class="english">Task-oriented leadership.</span></p>

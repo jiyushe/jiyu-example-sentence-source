@@ -1,5 +1,7 @@
 # cassini
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cassini.md)
+
 <p><span class="chinese">当时卡西尼号是在前往土星的途中。</span><span class="english">Cassini was on its way to Saturn.</span></p>
 
 <p><span class="chinese">但是在环绕土星的轨道上，卡西尼就没有这样的问题。</span><span class="english">But in orbit around Saturn, Cassini had no such problems.</span></p>

@@ -1,5 +1,7 @@
 # maturity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maturity.md)
+
 <p><span class="chinese">采用和成熟模型。</span><span class="english">Adoption and maturity models.</span></p>
 
 <p><span class="chinese">什么是成熟度级别？</span><span class="english">What are the Maturity Levels?</span></p>

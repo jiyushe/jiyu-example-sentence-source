@@ -1,5 +1,7 @@
 # 标注
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozhu.md)
+
 <p><span class="chinese">有一天是用红色标注的。</span><span class="english">One day was marked in red.</span></p>
 
 <p><span class="chinese">我标注了,1,2,3,4,5</span><span class="english">So I've got 1, 2, 3, 4, 5.</span></p>

@@ -1,5 +1,7 @@
 # 消极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoji_2.md)
+
 <p><span class="chinese">别让我消极。</span><span class="english">Donat let me down.</span></p>
 
 <p><span class="chinese">消极的心，解锁！</span><span class="english">Negative Heaet Lock on!</span></p>

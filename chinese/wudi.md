@@ -1,5 +1,7 @@
 # 五帝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudi.md)
+
 <p><span class="chinese">虞舜是我国历史上著名的“五帝”之一。</span><span class="english">Yu Shun was the one of the Five Rulers in Chinese history.</span></p>
 
 <p><span class="chinese">本庙“五帝”是指五位瘟神。</span><span class="english">" Five emperors" of the temple refers to five gods of plague.</span></p>

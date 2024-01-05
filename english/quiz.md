@@ -1,5 +1,7 @@
 # quiz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quiz.md)
+
 <p><span class="chinese">现在她主持“开心辞典”。</span><span class="english">Now she hosts Quiz Show.</span></p>
 
 <p><span class="chinese">智力竞赛节目什么时候播放？</span><span class="english">What time is Quiz Show on?</span></p>

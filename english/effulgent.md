@@ -1,5 +1,7 @@
 # effulgent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effulgent.md)
+
 <p><span class="chinese">为什么巴洛克艺术风格适合某一时期，而另一时期却显得过于炫目辉煌？</span><span class="english">Why is baroque right for one age and too effulgent for another?</span></p>
 
 <p><span class="chinese">欢迎你来这儿，待一段时间，感受他强烈的、灿烂的存在。</span><span class="english">You are welcome to come here, stay for some time, and feel his strong, effulgent Presence.</span></p>

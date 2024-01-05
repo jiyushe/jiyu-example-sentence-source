@@ -1,5 +1,7 @@
 # monasticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monasticism.md)
+
 <p><span class="chinese">修道主义真正崛起了。</span><span class="english">You have the real rise of monasticism.</span></p>
 
 <p><span class="chinese">修道形式存在很久以前耶稣基督诞生的。</span><span class="english">Forms of monasticism existed long before the birth of Jesus Christ.</span></p>

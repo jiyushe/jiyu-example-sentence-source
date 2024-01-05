@@ -1,5 +1,7 @@
 # 霜花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuanghua.md)
+
 <p><span class="chinese">窗户上布满了霜花。</span><span class="english">The windows are filled with frost.</span></p>
 
 <p><span class="chinese">单扇大玻璃窗上结着霜花。</span><span class="english">The single large window was patterned with frost.</span></p>

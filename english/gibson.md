@@ -1,5 +1,7 @@
 # gibson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gibson.md)
+
 <p><span class="chinese">吉布森极力否认有不法行为。</span><span class="english">Gibson denies wrongdoing.</span></p>
 
 <p><span class="chinese">那先生您打算发表了？</span><span class="english">Are you going to print it, Mr. Gibson.</span></p>

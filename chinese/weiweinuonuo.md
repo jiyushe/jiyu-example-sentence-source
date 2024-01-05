@@ -1,5 +1,7 @@
 # 唯唯诺诺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiweinuonuo.md)
+
 <p><span class="chinese">我听说他是个唯唯诺诺的人。</span><span class="english">I'm told he's only a yes-man.</span></p>
 
 <p><span class="chinese">他唯唯诺诺地笑，嘿嘿，嘿嘿。</span><span class="english">He be a yes-man to laugh, heh heh, heh heh.</span></p>

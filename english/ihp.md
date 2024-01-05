@@ -1,5 +1,7 @@
 # ihp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ihp.md)
+
 <p><span class="chinese">在欧洲确立的FHP·IHP马达的市场结构将会如何？</span><span class="english">How is the distribution structure of FHP and IHP motors established in Europe?</span></p>
 
 <p><span class="chinese">此前，国际水文计划和免疫组化的意思，我最讨厌物理和我最讨厌化学。</span><span class="english">Previously, IHP and IHC meant I Hate Physics and I Hate Chemistry respectively.</span></p>

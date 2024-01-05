@@ -1,5 +1,7 @@
 # thwart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thwart.md)
+
 <p><span class="chinese">行动十年将有助于减少这种不必要的生命损失。</span><span class="english">The Decade can help thwart this needless loss of life.</span></p>
 
 <p><span class="chinese">请不要阻止他，否则他会拆了房子。</span><span class="english">Please don't thwart him , or he will be killing the ceil.</span></p>

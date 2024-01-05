@@ -1,5 +1,7 @@
 # blasted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blasted.md)
+
 <p><span class="chinese">万念俱灰。</span><span class="english">All ambitions are blasted.</span></p>
 
 <p><span class="chinese">滚吧，你这个该死的白痴！</span><span class="english">Beat it, you blasted idiot!</span></p>

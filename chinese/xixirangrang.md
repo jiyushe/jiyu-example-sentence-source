@@ -1,5 +1,7 @@
 # 熙熙攘攘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixirangrang.md)
+
 <p><span class="chinese">路上看热闹的人熙熙攘攘。</span><span class="english">The road is alive with lookers on.</span></p>
 
 <p><span class="chinese">街道上熙熙攘攘全是人。</span><span class="english">The streets were crowded with people.</span></p>

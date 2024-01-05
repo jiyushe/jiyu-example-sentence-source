@@ -1,5 +1,7 @@
 # negatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negatively.md)
+
 <p><span class="chinese">而是被动地知道的。</span><span class="english">I know it negatively.</span></p>
 
 <p><span class="chinese">这对你们双方都有负面影响。</span><span class="english">This affects both of you negatively.</span></p>

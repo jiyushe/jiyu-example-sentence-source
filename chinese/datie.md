@@ -1,5 +1,7 @@
 # 打铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/datie.md)
+
 <p><span class="chinese">你有去过我的打铁铺吗？</span><span class="english">Have you been to my armory?</span></p>
 
 <p><span class="chinese">我想你爹一定是个打铁的。</span><span class="english">I bet your father must be a blacksmith.</span></p>

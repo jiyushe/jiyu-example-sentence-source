@@ -1,5 +1,7 @@
 # ashes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ashes.md)
+
 <p><span class="chinese">这布很经洗。</span><span class="english">The cloth ashes ell.</span></p>
 
 <p><span class="chinese">木头烧成了灰。</span><span class="english">The wood burned to ashes.</span></p>

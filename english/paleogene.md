@@ -1,5 +1,7 @@
 # paleogene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleogene.md)
+
 <p><span class="chinese">双台子油田为新生界古近系砂岩油气藏。</span><span class="english">Shuangtaizi oil for Cenozoic Paleogene sandstone reservoirs.</span></p>
 
 <p><span class="chinese">老第三纪和中生代甚至更古老的地层组成了海槽的声波基底。</span><span class="english">Paleogene and Mesozoic or older strata make up of the acoustic basement.</span></p>

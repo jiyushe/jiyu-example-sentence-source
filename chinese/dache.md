@@ -1,5 +1,7 @@
 # 大车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dache.md)
+
 <p><span class="chinese">这辆大车是由两匹马拉的。</span><span class="english">The cart was drawn by two horses.</span></p>
 
 <p><span class="chinese">大车咯吱咯吱地从青草地上走过去。</span><span class="english">The cart creaked across the green.</span></p>

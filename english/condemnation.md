@@ -1,5 +1,7 @@
 # condemnation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condemnation.md)
+
 <p><span class="chinese">我拒绝受到谴责.</span><span class="english">I’ve rejected the condemnation.</span></p>
 
 <p><span class="chinese">这等人定罪，是该当的</span><span class="english">Their condemnation is deserved.</span></p>

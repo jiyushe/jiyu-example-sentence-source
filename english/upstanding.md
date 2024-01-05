@@ -1,5 +1,7 @@
 # upstanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upstanding.md)
+
 <p><span class="chinese">现在这边有个完美又有为的黑人！</span><span class="english">Now there was a fine upstanding black man!</span></p>
 
 <p><span class="chinese">哇，我不知道你还是个正直年轻的公民呢。</span><span class="english">Wow, I didn't know you were such an upstanding young citizen.</span></p>

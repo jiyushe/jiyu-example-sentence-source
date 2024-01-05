@@ -1,5 +1,7 @@
 # voltammetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voltammetry.md)
+
 <p><span class="chinese">用线性扫描和循环伏安法研究体系的性质。</span><span class="english">The voltammetric behavior of the system was studied by linear sweep and cyclic voltammetry.</span></p>
 
 <p><span class="chinese">用线性扫描和循环伏安法研究体系的性质。</span><span class="english">The voltammetric behaviour of the system was studied by linear sweep and cyclic voltammetry.</span></p>

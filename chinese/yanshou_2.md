@@ -1,5 +1,7 @@
 # 验收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshou_2.md)
+
 <p><span class="chinese">这些货物已抽样验收过了。</span><span class="english">The goods have sampled out.</span></p>
 
 <p><span class="chinese">验收总结报告?。</span><span class="english">ASR? acceptance summary report?</span></p>

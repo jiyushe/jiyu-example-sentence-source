@@ -1,5 +1,7 @@
 # 欠缺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianque.md)
+
 <p><span class="chinese">一个欠缺重迭着另一个欠缺。</span><span class="english">One lack is superimposed upon the other.</span></p>
 
 <p><span class="chinese">这部影片还有很多欠缺。</span><span class="english">There are many shortcomings in the film.</span></p>

@@ -1,5 +1,7 @@
 # 提笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tibi.md)
+
 <p><span class="chinese">许久没提笔了。险些忘记了本身尚会用笔。</span><span class="english">Long time no write. Almost forgot itself still can use the pen.</span></p>
 
 <p><span class="chinese">曾打算在那么一天要写的信，就在今天提笔吧！</span><span class="english">Let's write that letter we thought of writing one of these days!</span></p>

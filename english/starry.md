@@ -1,5 +1,7 @@
 # starry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/starry.md)
+
 <p><span class="chinese">我喜欢这满天星斗的冬夜。</span><span class="english">I like the starry winter sky.</span></p>
 
 <p><span class="chinese">暴风呼啸或繁星闪亮。</span><span class="english">Storm-darken'd or starry bright.</span></p>

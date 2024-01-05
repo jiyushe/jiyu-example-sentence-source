@@ -1,5 +1,7 @@
 # unwholesome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwholesome.md)
+
 <p><span class="chinese">是的，它导致有害身心的业力。</span><span class="english">Yes, it leads to unwholesome karma.</span></p>
 
 <p><span class="chinese">这个城市的气候有害健康。</span><span class="english">The climate in this city is unwholesome.</span></p>

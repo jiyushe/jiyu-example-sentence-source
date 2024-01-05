@@ -1,5 +1,7 @@
 # 琥珀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hupo.md)
+
 <p><span class="chinese">不过随着新琥珀化石的发现，这一论断变得不再确定。</span><span class="english">That’s no longer certain.</span></p>
 
 <p><span class="chinese">莫许杯深琥珀浓。</span><span class="english">Don't cup thick deep amber.</span></p>

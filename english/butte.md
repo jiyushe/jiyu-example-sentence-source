@@ -1,5 +1,7 @@
 # butte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butte.md)
+
 <p><span class="chinese">我们有咖啡和黄油吗？</span><span class="english">Do we have any coffee or butte ?</span></p>
 
 <p><span class="chinese">夫人，你家是在布特，是吗？</span><span class="english">And is your home in Butte , ma'am?</span></p>

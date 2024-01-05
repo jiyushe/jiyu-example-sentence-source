@@ -1,5 +1,7 @@
 # 雀鹰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queying.md)
+
 <p><span class="chinese">雀鹰能在超短距离通过加速来冲向它的猎物。</span><span class="english">Sparrowhawks pounce on their prey by accelerating over short distances.</span></p>
 
 <p><span class="chinese">当雀鹰‘锁定’一个目标后，它从来没有反悔过。</span><span class="english">When a hunting sparrowhawk 'locks on' to a target there is no turning back.</span></p>

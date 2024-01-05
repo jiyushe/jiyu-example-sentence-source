@@ -1,5 +1,7 @@
 # intensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intensive.md)
+
 <p><span class="chinese">它是密集型的农业</span><span class="english">There is intensive farming.</span></p>
 
 <p><span class="chinese">这是一个相当激烈的过程。</span><span class="english">It's quite an intensive process.</span></p>

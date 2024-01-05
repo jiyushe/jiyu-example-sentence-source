@@ -1,5 +1,7 @@
 # advance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advance.md)
+
 <p><span class="chinese">我需要先交预付款吗？</span><span class="english">Do I pay in advance?</span></p>
 
 <p><span class="chinese">进军号吹响了。</span><span class="english">The advance was sounded.</span></p>

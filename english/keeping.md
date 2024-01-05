@@ -1,5 +1,7 @@
 # keeping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keeping.md)
+
 <p><span class="chinese">房务管理部。</span><span class="english">House keeping.</span></p>
 
 <p><span class="chinese">保持身材非常重要！</span><span class="english">Keeping fit is important.</span></p>

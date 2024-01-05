@@ -1,5 +1,7 @@
 # 吃喝玩乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chihewanle.md)
+
 <p><span class="chinese">人生并不就是吃喝玩乐。</span><span class="english">Life is not all cakes and ale.</span></p>
 
 <p><span class="chinese">人生并不完全是吃喝玩乐。</span><span class="english">Life is not all beer and skittles.</span></p>

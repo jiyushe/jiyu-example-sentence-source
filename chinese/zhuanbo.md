@@ -1,5 +1,7 @@
 # 转播
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanbo.md)
+
 <p><span class="chinese">这场比赛将作实况转播。</span><span class="english">The match will be broadcast live.</span></p>
 
 <p><span class="chinese">我看了电视转播的划龙舟比赛。</span><span class="english">I watched the Dragon Boat races on TV.</span></p>

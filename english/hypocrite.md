@@ -1,5 +1,7 @@
 # hypocrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypocrite.md)
+
 <p><span class="chinese">像一个伪善者。</span><span class="english">Like a hypocrite.</span></p>
 
 <p><span class="chinese">奉承者，伪君子。</span><span class="english">A flatterer, a hypocrite.</span></p>

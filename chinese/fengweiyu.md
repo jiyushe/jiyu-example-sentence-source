@@ -1,5 +1,7 @@
 # 凤尾鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengweiyu.md)
+
 <p><span class="chinese">一个小凤尾鱼酱增加。</span><span class="english">A little anchovy sauce is added.</span></p>
 
 <p><span class="chinese">紧紧地团在一起，没有一条凤尾鱼落单。</span><span class="english">Packed close together, no one anchovy stands out.</span></p>

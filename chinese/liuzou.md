@@ -1,5 +1,7 @@
 # 溜走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuzou.md)
+
 <p><span class="chinese">他从聚会上溜走了。</span><span class="english">He jammed the party.</span></p>
 
 <p><span class="chinese">所以当灵感出现时，把它记下来，别让它溜走，浪费了。</span><span class="english">Don’t let it go to waste!</span></p>

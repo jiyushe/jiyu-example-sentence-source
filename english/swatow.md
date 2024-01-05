@@ -1,5 +1,7 @@
 # swatow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swatow.md)
+
 <p><span class="chinese">早年所拍摄的汕头市韩江河口一景。</span><span class="english">An early view of the mouth of the Han Riv- er as seen from Swatow.</span></p>
 
 <p><span class="chinese">我想指出我们接受的所有订货是从汕头或黄埔港发货。</span><span class="english">We wish to point out that all orders accepted by us are shipped from Swatow or Whampoa.</span></p>

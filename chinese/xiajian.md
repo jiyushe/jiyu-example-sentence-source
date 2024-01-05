@@ -1,5 +1,7 @@
 # 下贱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiajian.md)
+
 <p><span class="chinese">你个下贱的骗子！</span><span class="english">You dirty liar!</span></p>
 
 <p><span class="chinese">他们是下贱，邪恶的人。</span><span class="english">They are a low, evil people.</span></p>

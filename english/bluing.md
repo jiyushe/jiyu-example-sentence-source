@@ -1,5 +1,7 @@
 # bluing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluing.md)
+
 <p><span class="chinese">介绍了前处理、发蓝及后处理工序。</span><span class="english">Pretreatment, bluing and post treatment of this process were introduced.</span></p>
 
 <p><span class="chinese">实践证明，采用适当措施可以有效防止发蓝膜的红色挂霜。</span><span class="english">The practice shows that proper measures can be taken to effectively prevent red exo-frost on bluing coating.</span></p>

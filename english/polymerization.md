@@ -1,5 +1,7 @@
 # polymerization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymerization.md)
+
 <p><span class="chinese">溶液聚合丁苯橡胶。</span><span class="english">SBR of solution polymerization.</span></p>
 
 <p><span class="chinese">在体外能显著抑制肌动蛋白聚合。</span><span class="english">It could inhibit actin polymerization in Vitro.</span></p>

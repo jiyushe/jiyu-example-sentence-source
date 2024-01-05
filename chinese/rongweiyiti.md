@@ -1,5 +1,7 @@
 # 融为一体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongweiyiti.md)
+
 <p><span class="chinese">缤纷色彩融为一体。</span><span class="english">The colours bleeding into one.</span></p>
 
 <p><span class="chinese">在她的信中过去和现在融为一体。</span><span class="english">Her letters conflate past and present.</span></p>

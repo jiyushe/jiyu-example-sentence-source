@@ -1,5 +1,7 @@
 # 生物战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengwuzhan.md)
+
 <p><span class="chinese">生物战每天都在美国发生。</span><span class="english">It happens in the U. S.</span></p>
 
 <p><span class="chinese">这项生物战剂侦测器将可能因此变成万用的疾病守护者。</span><span class="english">Thus, a bioweapon sensor could become a universal disease sentinel.</span></p>

@@ -1,5 +1,7 @@
 # snide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snide.md)
+
 <p><span class="chinese">我上了一个卑鄙商人的当。</span><span class="english">I was taken in by a snide merchant.</span></p>
 
 <p><span class="chinese">我上了一个卑鄙商人的当。</span><span class="english">I was set down by a snide businessman.</span></p>

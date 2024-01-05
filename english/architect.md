@@ -1,5 +1,7 @@
 # architect 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/architect.md)
+
 <p><span class="chinese">我是建筑师。</span><span class="english">I'm an architect.</span></p>
 
 <p><span class="chinese">但是我是一名建筑师。</span><span class="english">But I am an architect.</span></p>

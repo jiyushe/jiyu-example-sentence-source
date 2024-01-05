@@ -1,5 +1,7 @@
 # aureole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aureole.md)
+
 <p><span class="chinese">是那璀璨的光环暗淡了吗？</span><span class="english">Is you it that bright aureole that dim?</span></p>
 
 <p><span class="chinese">现在我们需要创建光环的内部了。</span><span class="english">Now we need to create the inner of the aureole.</span></p>

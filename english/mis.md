@@ -1,5 +1,7 @@
 # mis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mis.md)
+
 <p><span class="chinese">祝一切好运，朋友们！</span><span class="english">Best luck, a mis amigos!</span></p>
 
 <p><span class="chinese">我和我的朋友们去看电影。</span><span class="english">Voy al cine con mis amigos.</span></p>

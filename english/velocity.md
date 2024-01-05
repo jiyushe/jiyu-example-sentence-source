@@ -1,5 +1,7 @@
 # velocity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/velocity.md)
+
 <p><span class="chinese">平均速度。</span><span class="english">Average velocity.</span></p>
 
 <p><span class="chinese">给它一个初速度。</span><span class="english">I give it a velocity.</span></p>

@@ -1,5 +1,7 @@
 # froze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/froze.md)
+
 <p><span class="chinese">雅各一下子就愣在那儿了。</span><span class="english">Jacob froze.</span></p>
 
 <p><span class="chinese">灰熊僵住了。</span><span class="english">The bear froze.</span></p>

@@ -1,5 +1,7 @@
 # reread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reread.md)
+
 <p><span class="chinese">如果你还不能确认的话，建议重读一遍那章书。</span><span class="english">Go reread that chapter if you're not sure.</span></p>
 
 <p><span class="chinese">他的短篇小说和剧作我百读不厌。</span><span class="english">I read and reread his short stories and plays.</span></p>

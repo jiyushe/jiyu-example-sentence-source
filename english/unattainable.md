@@ -1,5 +1,7 @@
 # unattainable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unattainable.md)
+
 <p><span class="chinese">他的脑子里总是想一些高不可攀的目标。</span><span class="english">He always has unattainable goals in his mind.</span></p>
 
 <p><span class="chinese">在他的幻梦中，那岛屿似乎成了可望而不可及的阿卡狄亚了。</span><span class="english">In his fancy the Island seemed an unattainable Arcadia.</span></p>

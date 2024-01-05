@@ -1,5 +1,7 @@
 # 责任事故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zerenshigu.md)
+
 <p><span class="chinese">这火灾被认定为是责任事故。</span><span class="english">This fire was determined to be an accident caused by negligence.</span></p>
 
 <p><span class="chinese">这种非学校责任事故分为两种。</span><span class="english">Sports injury accidents can be divided into schools and accidents.</span></p>

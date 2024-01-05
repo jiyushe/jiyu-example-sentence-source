@@ -1,5 +1,7 @@
 # verticality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verticality.md)
+
 <p><span class="chinese">第三、用木尖调整好框的水平垂直度。</span><span class="english">Level third, with wooden tip verticality adjusting well frame.</span></p>
 
 <p><span class="chinese">我震惊了，身后是残酷垂直着的城市。</span><span class="english">It was a shock after the relentless verticality of the city behind me.</span></p>

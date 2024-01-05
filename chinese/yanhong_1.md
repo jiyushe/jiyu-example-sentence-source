@@ -1,5 +1,7 @@
 # 眼红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhong_1.md)
+
 <p><span class="chinese">她对他的成功感到眼红。</span><span class="english">He is green-eyed with his success.</span></p>
 
 <p><span class="chinese">她对他的成功感到眼红。</span><span class="english">She is green-eyed with his success.</span></p>

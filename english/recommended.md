@@ -1,5 +1,7 @@
 # recommended
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recommended.md)
+
 <p><span class="chinese">他建议搞一次埜餐。</span><span class="english">He recommended a picnic.</span></p>
 
 <p><span class="chinese">建议零售价？</span><span class="english">Recommended retail price?</span></p>

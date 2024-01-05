@@ -1,5 +1,7 @@
 # 隧洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suidong.md)
+
 <p><span class="chinese">一个隧洞通过此山。</span><span class="english">A tunnel pierced through the mountain.</span></p>
 
 <p><span class="chinese">有压隧洞多采用圆形断面。</span><span class="english">Pressure tunnel used more round section.</span></p>

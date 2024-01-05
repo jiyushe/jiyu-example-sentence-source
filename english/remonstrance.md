@@ -1,5 +1,7 @@
 # remonstrance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remonstrance.md)
+
 <p><span class="chinese">朝臣都知道这事但是不敢进谏。</span><span class="english">Courtier salt knows, the Mogan remonstrance.</span></p>
 
 <p><span class="chinese">我避免责备，少作规劝。</span><span class="english">I eschewed upbraiding, I curtailed remonstrance.</span></p>

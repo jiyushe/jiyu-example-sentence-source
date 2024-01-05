@@ -1,5 +1,7 @@
 # 比赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bisai.md)
+
 <p><span class="chinese">参加比赛并赢得胜利。</span><span class="english">Go in and win.</span></p>
 
 <p><span class="chinese">那是一个6.2英里的比赛。</span><span class="english">It's 6.2 miles.</span></p>

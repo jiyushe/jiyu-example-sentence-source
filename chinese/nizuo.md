@@ -1,5 +1,7 @@
 # 拟作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nizuo.md)
+
 <p><span class="chinese">拟作为一种修辞行为，也是一种认知活动。</span><span class="english">As a rhetoric act, imitation is a cognitive one as well.</span></p>
 
 <p><span class="chinese">单据、书状、规章与契约的拟作与问题的讨论。</span><span class="english">The draft and discussion of the bill, letter, rules, and contract.</span></p>

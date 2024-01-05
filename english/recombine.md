@@ -1,5 +1,7 @@
 # recombine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recombine.md)
+
 <p><span class="chinese">病毒也能组合再重组，无休无止。</span><span class="english">The virus can combine and recombine again and again.</span></p>
 
 <p><span class="chinese">那就给毒株混杂与重组提供充足的机会。</span><span class="english">That provides ample opportunity for strains to mingle and recombine.</span></p>

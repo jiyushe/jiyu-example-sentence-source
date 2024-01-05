@@ -1,5 +1,7 @@
 # yuletide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yuletide.md)
+
 <p><span class="chinese">在圣诞时节发生的每件事都来自于一种心情。</span><span class="english">Everything which happens during Yuletide follows from states of mind.</span></p>
 
 <p><span class="chinese">唱诗班在唱圣诞欢歌，而大家穿的像爱斯基摩人一样。</span><span class="english">Yuletide carols being sung by a choir, and folks dressed up like Eskimos.</span></p>

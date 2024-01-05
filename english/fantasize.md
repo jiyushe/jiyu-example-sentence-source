@@ -1,5 +1,7 @@
 # fantasize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fantasize.md)
+
 <p><span class="chinese">你幻想或梦想什么？</span><span class="english">What do you fantasize and dream about?</span></p>
 
 <p><span class="chinese">眼睛，我了解，这是幻想。我一定要站的高。</span><span class="english">Just because I fantasize does not mean I'm a perv.</span></p>

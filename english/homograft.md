@@ -1,5 +1,7 @@
 # homograft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homograft.md)
+
 <p><span class="chinese">目的论证眼前房对同种甲状腺移植物有保护作用。</span><span class="english">Objective To approach the protection of camera anterior bulbi to thyroid homograft.</span></p>
 
 <p><span class="chinese">用自体移植物代替主动脉根，然后再缚上肺自体移植物。</span><span class="english">Use the autograft to replace the aortic root and then attach a pulmonary homograft.</span></p>

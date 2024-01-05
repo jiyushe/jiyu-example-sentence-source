@@ -1,5 +1,7 @@
 # 内资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neizi_1.md)
+
 <p><span class="chinese">更为内资企业招商引资启开了新的一面。</span><span class="english">More investment-funded enterprises opened a new side.</span></p>
 
 <p><span class="chinese">但这仅限于上海内资公司注册。</span><span class="english">But this is limited to domestic companies registered in Shanghai.</span></p>

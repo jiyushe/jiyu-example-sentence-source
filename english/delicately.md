@@ -1,5 +1,7 @@
 # delicately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delicately.md)
+
 <p><span class="chinese">冰冷，纤柔如黑色的霜雪。</span><span class="english">Cold, delicately as the dark snow.</span></p>
 
 <p><span class="chinese">像滚动一粒珍珠，微妙，雅致，接于指间。</span><span class="english">Delicately roll it between your fingers.</span></p>

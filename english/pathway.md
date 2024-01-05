@@ -1,5 +1,7 @@
 # pathway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathway.md)
+
 <p><span class="chinese">然后路就会打开。</span><span class="english">Then the pathway opens.</span></p>
 
 <p><span class="chinese">对路径A，它们的符号是相反的。</span><span class="english">They're opposites for the pathway A.</span></p>

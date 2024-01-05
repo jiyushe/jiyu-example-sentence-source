@@ -1,5 +1,7 @@
 # 孤城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gucheng.md)
+
 <p><span class="chinese">孤城杨柳晚来蝉。</span><span class="english">Isolated city willow late to cicadas.</span></p>
 
 <p><span class="chinese">经过长时间的包围，这座孤城被迫投降。</span><span class="english">After a long siege, the town was forced to yield.</span></p>

@@ -1,5 +1,7 @@
 # allergen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allergen.md)
+
 <p><span class="chinese">培训人员，注意过敏源。</span><span class="english">To train personnel in allergen awareness.</span></p>
 
 <p><span class="chinese">目的检测尘螨变应原的稳定性。</span><span class="english">Objective To detect the stability of the mite allergen.</span></p>

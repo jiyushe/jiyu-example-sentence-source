@@ -1,5 +1,7 @@
 # 恶贯满盈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eguanmanying.md)
+
 <p><span class="chinese">那个强盗恶贯满盈。</span><span class="english">That robber is laden with guilt.</span></p>
 
 <p><span class="chinese">然而罗伯特·穆加贝终究会恶贯满盈。</span><span class="english">Yet Robert Mugabe’s crimes are finally coming home to roost.</span></p>

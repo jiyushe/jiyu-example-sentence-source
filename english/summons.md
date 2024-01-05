@@ -1,5 +1,7 @@
 # summons
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/summons.md)
+
 <p><span class="chinese">我已聼到了召唤。</span><span class="english">I have heard the summons.</span></p>
 
 <p><span class="chinese">传票被撤回。</span><span class="english">The summons was withdrawn.</span></p>

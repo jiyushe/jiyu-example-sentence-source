@@ -1,5 +1,7 @@
 # 清一色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyise.md)
+
 <p><span class="chinese">我们在这个会议中穿清一色的的色工作装。</span><span class="english">We are wearing white outfits in the meeting.</span></p>
 
 <p><span class="chinese">曾经有一段时间，我的衣柜里是清一色的黑色。</span><span class="english">There was a time when the only color in my closet was black.</span></p>

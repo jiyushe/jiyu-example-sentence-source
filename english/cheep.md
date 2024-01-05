@@ -1,5 +1,7 @@
 # cheep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheep.md)
+
 <p><span class="chinese">现在房产价格实在是非常便宜。</span><span class="english">Now the price of house is very cheep.</span></p>
 
 <p><span class="chinese">哪边可以买到又便宜又好的衣服？</span><span class="english">Where can I get cheep and good clothes?</span></p>

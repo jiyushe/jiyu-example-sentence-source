@@ -1,5 +1,7 @@
 # 罗马帝国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luomadiguo.md)
+
 <p><span class="chinese">他统治着整个罗马帝国。</span><span class="english">He sways the whole Rome.</span></p>
 
 <p><span class="chinese">奥古斯都及罗马帝国的形成。</span><span class="english">Augustus and the formation of empire.</span></p>

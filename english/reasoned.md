@@ -1,5 +1,7 @@
 # reasoned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reasoned.md)
+
 <p><span class="chinese">在那之前，最好的办法就是作出务实的，有理有据的回应。</span><span class="english">Until then, the best we can do is a practiced, reasoned response.</span></p>
 
 <p><span class="chinese">侦探推断戴维被人谋财害命了。</span><span class="english">The detective reasoned that David had been murdered for his money.</span></p>

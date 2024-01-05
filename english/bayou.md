@@ -1,5 +1,7 @@
 # bayou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bayou.md)
+
 <p><span class="chinese">男孩在河口捕捞。</span><span class="english">Boys fishing in a bayou.</span></p>
 
 <p><span class="chinese">路易斯安那州是河口国家。</span><span class="english">Louisiana is the Bayou State.</span></p>

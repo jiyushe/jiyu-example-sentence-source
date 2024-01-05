@@ -1,5 +1,7 @@
 # 会同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huitong.md)
+
 <p><span class="chinese">那样做会同他的自由权相矛盾。</span><span class="english">That would contradict his right to freedom.</span></p>
 
 <p><span class="chinese">他们已经学会同逆境做斗争。</span><span class="english">They have learned to struggle against adversity.</span></p>

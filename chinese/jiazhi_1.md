@@ -1,5 +1,7 @@
 # 加之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazhi_1.md)
+
 <p><span class="chinese">笑剧是惨剧加之时间。</span><span class="english">Domedy is tragedy plus time.</span></p>
 
 <p><span class="chinese">给所有的这些技巧加之以眼神交流，她会融化了的。</span><span class="english">Add eye contact to all of these and she will melt.</span></p>

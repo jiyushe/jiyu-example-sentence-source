@@ -1,5 +1,7 @@
 # 古尔邦节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guerbangjie.md)
+
 <p><span class="chinese">祝全体穆斯林兄弟姐妹古尔邦节快乐！</span><span class="english">I wish all the Muslim brothers and sisters a happy Id al-Adha!</span></p>
 
 <p><span class="chinese">本地和全世界的穆斯林欢度古尔邦节，即宰牲节。</span><span class="english">Muslims here and around the world began celebrating Eid al-Adha, or the Feast of the Sacrifice.</span></p>

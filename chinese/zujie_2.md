@@ -1,5 +1,7 @@
 # 阻截
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zujie_2.md)
+
 <p><span class="chinese">他在比赛中顽强阻截。</span><span class="english">He tackled hard in the game.</span></p>
 
 <p><span class="chinese">他在篮球赛中能阻截。</span><span class="english">In the basketball match he can block.</span></p>

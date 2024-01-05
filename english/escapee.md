@@ -1,5 +1,7 @@
 # escapee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escapee.md)
+
 <p><span class="chinese">逃亡者用纸带将葡萄扎成这种形状。</span><span class="english">The escapee taped the grapes into this shape.</span></p>
 
 <p><span class="chinese">警方正在镇上搜捕那个逃犯。</span><span class="english">The police are beating the town for the escapee.</span></p>

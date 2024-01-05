@@ -1,5 +1,7 @@
 # sewn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sewn.md)
+
 <p><span class="chinese">我的衬衣全缝好了吗?</span><span class="english">Is my shirt sewn down?</span></p>
 
 <p><span class="chinese">简把袜子上的洞缝补好了。</span><span class="english">Jane has sewn up a hole in a sock.</span></p>

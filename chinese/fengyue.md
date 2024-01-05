@@ -1,5 +1,7 @@
 # 风月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyue.md)
+
 <p><span class="chinese">品牌新海关哈女性氏风月颅骨黑色手表！</span><span class="english">Brand New Ed Hardy Women's Temptress Skull Black Watch!</span></p>
 
 <p><span class="chinese">今晚凉风习习，风月无边。就今晚吧。</span><span class="english">I can feel the cool breeze tonight, then tonight it is.</span></p>

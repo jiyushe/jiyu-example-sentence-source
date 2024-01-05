@@ -1,5 +1,7 @@
 # 称誉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengyu_1.md)
+
 <p><span class="chinese">称誉是才德的反映。</span><span class="english">Praise is the reflection of virtue.</span></p>
 
 <p><span class="chinese">这本词典获得了全国的称誉。</span><span class="english">This dictionary gained credit all the country over.</span></p>

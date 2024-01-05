@@ -1,5 +1,7 @@
 # sachet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sachet.md)
+
 <p><span class="chinese">这个香包可以保护你。</span><span class="english">This sachet will help protect you.</span></p>
 
 <p><span class="chinese">每包能燃烧2000卡路里。</span><span class="english">Each Sachet Will Burn-off 2000 Calories.</span></p>

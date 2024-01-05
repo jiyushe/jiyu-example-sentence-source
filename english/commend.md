@@ -1,5 +1,7 @@
 # commend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commend.md)
+
 <p><span class="chinese">我要赞扬你的敬业精神。</span><span class="english">I commend you for your concern.</span></p>
 
 <p><span class="chinese">我还要赞扬你们所表现出的非凡勇气。</span><span class="english">And I want to commend you for your courage.</span></p>

@@ -1,5 +1,7 @@
 # ethnography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnography.md)
+
 <p><span class="chinese">也是民族志架构的源泉。</span><span class="english">And the fountainhead of ethnography construction.</span></p>
 
 <p><span class="chinese">今天我要跟你们讲的是关于人种学的内容。</span><span class="english">So what I'm going to talk about to you today is something called Ethnography.</span></p>

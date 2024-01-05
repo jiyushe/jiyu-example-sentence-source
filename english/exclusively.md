@@ -1,5 +1,7 @@
 # exclusively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exclusively.md)
+
 <p><span class="chinese">他的爱太专一了。</span><span class="english">He loves them too exclusively.</span></p>
 
 <p><span class="chinese">只使用免费软件。</span><span class="english">Uses exclusively free software.</span></p>

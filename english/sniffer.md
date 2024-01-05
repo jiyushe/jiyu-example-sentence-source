@@ -1,5 +1,7 @@
 # sniffer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sniffer.md)
+
 <p><span class="chinese">使用鼠标嗅探器窃取键盘事件</span><span class="english">Stealing keyboard events with a mouse sniffer</span></p>
 
 <p><span class="chinese">嗅探蜂还能应用于人道主义援助。</span><span class="english">There are also humanitarian uses for sniffer bees.</span></p>

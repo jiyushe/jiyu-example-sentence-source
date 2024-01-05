@@ -1,5 +1,7 @@
 # pyjama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyjama.md)
+
 <p><span class="chinese">“把他安排到睡衣柜台”。</span><span class="english">Put him at the pyjama counter.</span></p>
 
 <p><span class="chinese">卡萝和她的朋友在她们家的客厅里举办一个睡衣派对。</span><span class="english">Carol and her friends were holding a pyjama party in their living room.</span></p>

@@ -1,5 +1,7 @@
 # ciq
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ciq.md)
+
 <p><span class="chinese">与海关和检验检疫局保持良好的工作关系。</span><span class="english">Maintain well relationship with customs and CIQ authorities.</span></p>
 
 <p><span class="chinese">检验证书将由中国出入境检验检疫局或其分支机构出具。</span><span class="english">The certificate will be issued by CIQ or by any of its branches.</span></p>

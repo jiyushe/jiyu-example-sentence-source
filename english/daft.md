@@ -1,5 +1,7 @@
 # daft 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daft.md)
+
 <p><span class="chinese">怎么说这样的傻话！</span><span class="english">What a daft thing to say!</span></p>
 
 <p><span class="chinese">他一定是糊涂蛋。</span><span class="english">He must be daft as a brush!</span></p>

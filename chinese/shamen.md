@@ -1,5 +1,7 @@
 # 沙门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shamen.md)
+
 <p><span class="chinese">儿子们各持象徵毘沙门天的塔、幡、弓等。</span><span class="english">The sons carry banners, Vaisravana's stupa and his bow.</span></p>
 
 <p><span class="chinese">结果得出样品中沙门菌的最低检出限。</span><span class="english">Results Minimum value of Salmonellae in samples was obtained.</span></p>

@@ -1,5 +1,7 @@
 # 西门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ximen.md)
+
 <p><span class="chinese">我的西门夜。</span><span class="english">My Ximending night.</span></p>
 
 <p><span class="chinese">西门说，夫子，请说。</span><span class="english">"Tell me, teacher, " he said.</span></p>

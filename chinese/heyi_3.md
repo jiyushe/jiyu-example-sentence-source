@@ -1,5 +1,7 @@
 # 合宜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyi_3.md)
+
 <p><span class="chinese">我认为这是不合宜的行为。</span><span class="english">I think it's very inappropriate.</span></p>
 
 <p><span class="chinese">爱人们需要它来掩盖很不合宜的事故。</span><span class="english">Lovers need it to cover inconvenient accidents.</span></p>

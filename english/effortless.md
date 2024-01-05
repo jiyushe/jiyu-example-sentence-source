@@ -1,5 +1,7 @@
 # effortless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effortless.md)
+
 <p><span class="chinese">想想什么能让生活更容易。</span><span class="english">Learn what makes life effortless.</span></p>
 
 <p><span class="chinese">WMF很是好用，价格也不错。</span><span class="english">WMF is effortless and well priced.</span></p>

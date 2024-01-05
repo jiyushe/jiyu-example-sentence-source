@@ -1,5 +1,7 @@
 # masterstroke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masterstroke.md)
+
 <p><span class="chinese">但主办者的神来之笔是延请罗伯特·卡尔森为展览策划。</span><span class="english">But the curators' masterstroke was to enlist Robert Carsen to design the exhibition.</span></p>
 
 <p><span class="chinese">“耐克”推出酷眩鞋款早已教人见怪不怪，但该公司最新的密技乃是社交网络。</span><span class="english">You expect fancy footwear from Nike. But its latest masterstroke is social networking.</span></p>

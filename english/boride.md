@@ -1,5 +1,7 @@
 # boride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boride.md)
+
 <p><span class="chinese">硼及其硼化物在现代工业中有着广阔的应用前景。</span><span class="english">Boron and boride have been widely applied to modern industry.</span></p>
 
 <p><span class="chinese">Ni在淬火过程中会部分进入网状硼化物。</span><span class="english">Some of Ni will enter into the reticular boride in the process of quenching.</span></p>

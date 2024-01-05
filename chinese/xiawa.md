@@ -1,5 +1,7 @@
 # 夏娃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiawa.md)
+
 <p><span class="chinese">一个苹果夏娃吃了。</span><span class="english">The one that Eve ate.</span></p>
 
 <p><span class="chinese">或许亚当夏娃会替亚伯报仇。</span><span class="english">Perhaps Adam and Eve would.</span></p>

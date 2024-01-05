@@ -1,5 +1,7 @@
 # 紧追不舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzhuibushe.md)
+
 <p><span class="chinese">魔鬼继续紧追不舍。</span><span class="english">The devil keeps oncoming.</span></p>
 
 <p><span class="chinese">猎犬在野兔身后紧追不舍。</span><span class="english">The hound nips at a rabbit.</span></p>

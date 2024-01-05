@@ -1,5 +1,7 @@
 # biologically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biologically.md)
+
 <p><span class="chinese">在生物学上翻译是怎么发生的呢</span><span class="english">How does translation occur biologically?</span></p>
 
 <p><span class="chinese">烟酰胺是烟酸的生物活性形式。</span><span class="english">Niacinamide is the biologically active form of niacin.</span></p>

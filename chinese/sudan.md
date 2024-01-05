@@ -1,5 +1,7 @@
 # 素淡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sudan.md)
+
 <p><span class="chinese">河北作家孙犁的作品在方言词语运用方面呈现出“素淡”的特色。</span><span class="english">Sun Li uses a quite number of Hebei dialects in the plain description.</span></p>
 
 <p><span class="chinese">在你的心上，我是一篇飘逸恬静的散文，是一幅素淡的图画。</span><span class="english">In your heart, i am a delicate and elegant essay and a beautiful and refined picture.</span></p>

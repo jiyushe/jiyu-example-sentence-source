@@ -1,5 +1,7 @@
 # hydroelectric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroelectric.md)
+
 <p><span class="chinese">三峡地区拥有丰富的水电资源。</span><span class="english">The Three Gorges Area is rich in hydroelectric resources.</span></p>
 
 <p><span class="chinese">有一个水力发电站和一些纸浆厂、造纸厂以及木材厂。</span><span class="english">It has a hydroelectric station and pulp, paper, and lumber mills.</span></p>

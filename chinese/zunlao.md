@@ -1,5 +1,7 @@
 # 尊老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunlao.md)
+
 <p><span class="chinese">尊老爱老是中华民族的传统美德。</span><span class="english">To respect old men is a virtue in China.</span></p>
 
 <p><span class="chinese">我们能够爱幼，但我们却时常忘了像爱幼一样尊老。</span><span class="english">We can love young, but we are often forget to like his respect for the same.</span></p>

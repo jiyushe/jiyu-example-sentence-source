@@ -1,5 +1,7 @@
 # exclude 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exclude.md)
+
 <p><span class="chinese">哪些国家被排除在外了呢</span><span class="english">Who does it exclude?</span></p>
 
 <p><span class="chinese">窗帘挡光。</span><span class="english">Curtains exclude light.</span></p>

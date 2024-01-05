@@ -1,5 +1,7 @@
 # expensively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expensively.md)
+
 <p><span class="chinese">祝你们白头到老，早生贵子。</span><span class="english">Wishes you to grow old together, lives early expensively sub.</span></p>
 
 <p><span class="chinese">一个衣著昂贵的小工商业者转过拐角去接近她。</span><span class="english">An expensively dressed little man turned a corner and approached her.</span></p>

@@ -1,5 +1,7 @@
 # 值班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiban.md)
+
 <p><span class="chinese">一个值班人员。</span><span class="english">An operator on duty.</span></p>
 
 <p><span class="chinese">他就是那个值班的人。</span><span class="english">He is the man on watch.</span></p>

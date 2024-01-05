@@ -1,5 +1,7 @@
 # phosphodiesterase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phosphodiesterase.md)
+
 <p><span class="chinese">目前许多生育期男性在服用磷酸二酯酶5抑制剂。</span><span class="english">Many men in their reproductive years are now using phosphodiesterase type 5 inhibitors.</span></p>
 
 <p><span class="chinese">我也使用磷酸二酯酶抑制剂如巡能泰或己酮可可碱进行治疗。</span><span class="english">I also use a medicine called Trental or Pentoxifylline as a phosphodiesterase inhibitor.</span></p>

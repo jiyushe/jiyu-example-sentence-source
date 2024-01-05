@@ -1,5 +1,7 @@
 # span
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/span.md)
+
 <p><span class="chinese">桥跨?。</span><span class="english">Bridge span?</span></p>
 
 <p><span class="chinese">人生如朝露，百年一瞬间。</span><span class="english">Life is but a span.</span></p>

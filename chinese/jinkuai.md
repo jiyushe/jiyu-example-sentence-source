@@ -1,5 +1,7 @@
 # 尽快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinkuai.md)
+
 <p><span class="chinese">尽快忘了它。</span><span class="english">Forget it quick.</span></p>
 
 <p><span class="chinese">咱们不可不尽快行动。</span><span class="english">We get to act fast.</span></p>

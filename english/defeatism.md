@@ -1,5 +1,7 @@
 # defeatism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defeatism.md)
+
 <p><span class="chinese">悲观是打败自己的最好方法。</span><span class="english">Pessimism is the eastest way of self- defeatism.</span></p>
 
 <p><span class="chinese">连投票都不投，纯粹是失败主义。</span><span class="english">Not bothering to vote is a sure sign of defeatism.</span></p>

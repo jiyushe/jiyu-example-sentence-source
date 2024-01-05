@@ -1,5 +1,7 @@
 # 笑吟吟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyinyin.md)
+
 <p><span class="chinese">他说起话来总是笑吟吟的。</span><span class="english">He always smiles when he speaks.</span></p>
 
 <p><span class="chinese">我笑吟吟的望着他。他继续讲。</span><span class="english">And I'm going to say something, seriously.</span></p>

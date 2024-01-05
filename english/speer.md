@@ -1,5 +1,7 @@
 # speer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speer.md)
+
 <p><span class="chinese">斯佩尔为纽伦堡法庭概括地说明了关于实行“焦土”政策的各种命令。</span><span class="english">Speer tried to summarize for the Nuremberg court the various "scorched earth" orders.</span></p>
 
 <p><span class="chinese">二战期间，沃尔斯特写了几本关于建筑学的书，还为施佩尔写了一本传记。</span><span class="english">Wolters wrote several architectural books during the war, as well as a biography of Speer.</span></p>

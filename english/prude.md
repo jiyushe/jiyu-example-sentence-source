@@ -1,5 +1,7 @@
 # prude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prude.md)
+
 <p><span class="chinese">自然真是个老顽固。</span><span class="english">That Nature is such a prude.</span></p>
 
 <p><span class="chinese">别那么拘谨--你谦虚得太过分了！</span><span class="english">Don't be such a prude you can carry modesty too far!</span></p>

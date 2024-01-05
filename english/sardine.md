@@ -1,5 +1,7 @@
 # sardine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sardine.md)
+
 <p><span class="chinese">我感觉自己就像装在鉄罐子里面的沙丁鱼。</span><span class="english">I feel like sardine in a tin can.</span></p>
 
 <p><span class="chinese">这个会比沙丁鱼大陆更大的。</span><span class="english">This could be bigger than Sardine Land.</span></p>

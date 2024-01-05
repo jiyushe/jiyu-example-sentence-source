@@ -1,5 +1,7 @@
 # 障眼法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangyanfa.md)
+
 <p><span class="chinese">登陆火星只是中国的障眼法。</span><span class="english">The mars business is just a deception.</span></p>
 
 <p><span class="chinese">师傅不要信那猴头，这是猴哥使的障眼法来骗您的。</span><span class="english">Master, don't believe that monkey, He's treating.</span></p>

@@ -1,5 +1,7 @@
 # 全套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quantao.md)
+
 <p><span class="chinese">加上这一件就凑成全套了。</span><span class="english">This one completes the set.</span></p>
 
 <p><span class="chinese">她穿着全套新衣服神气活现地走着。</span><span class="english">She was prancing along in her new outfit.</span></p>

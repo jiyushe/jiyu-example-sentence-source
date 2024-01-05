@@ -1,5 +1,7 @@
 # lopsided
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lopsided.md)
+
 <p><span class="chinese">为什么日本会是一个如此不平衡的经济呢？</span><span class="english">Why is Japan such a lopsided economy?</span></p>
 
 <p><span class="chinese">但贸易流动严重一面倒。</span><span class="english">But trade flows are terribly lopsided.</span></p>

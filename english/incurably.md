@@ -1,5 +1,7 @@
 # incurably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incurably.md)
+
 <p><span class="chinese">沉溺在你的世界，义无反顾。</span><span class="english">Incurably addicted to your world.</span></p>
 
 <p><span class="chinese">说句实话，人类真是愚蠢至极。</span><span class="english">In truth, man is incurably foolish.</span></p>

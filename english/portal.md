@@ -1,5 +1,7 @@
 # portal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portal.md)
+
 <p><span class="chinese">通过门户。</span><span class="english">Through the portal.</span></p>
 
 <p><span class="chinese">门户是如何活动的？</span><span class="english">How active is the portal?</span></p>

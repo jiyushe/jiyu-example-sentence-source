@@ -1,5 +1,7 @@
 # staphylococcal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staphylococcal.md)
+
 <p><span class="chinese">葡萄球菌性食物中毒是最常见的一种细菌性食物中毒。</span><span class="english">Staphylococcal food poisoning is the most common bacterial food poisoning.</span></p>
 
 <p><span class="chinese">深部的皮肤感染在婴儿期易并有葡萄球菌脑膜炎。</span><span class="english">Deep skin infections were associated with staphylococcal meningitis in infancy.</span></p>

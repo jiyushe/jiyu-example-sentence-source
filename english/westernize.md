@@ -1,5 +1,7 @@
 # westernize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/westernize.md)
+
 <p><span class="chinese">我们可以将中国才“西化”。</span><span class="english">We might try to "westernize" some Chinese dishes.</span></p>
 
 <p><span class="chinese">现代化不等于西化或欧化，现代化道路并非只有一条。</span><span class="english">Modernization is equal to westernize or Europeanize, modern road is not have only.</span></p>

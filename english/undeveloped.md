@@ -1,5 +1,7 @@
 # undeveloped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undeveloped.md)
+
 <p><span class="chinese">我喜欢这座未开发的岛屿。</span><span class="english">I like this undeveloped island.</span></p>
 
 <p><span class="chinese">左侧的锥体束不发育。</span><span class="english">The left pyramidal tract is undeveloped.</span></p>

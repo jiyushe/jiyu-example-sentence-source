@@ -1,5 +1,7 @@
 # tedious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tedious.md)
+
 <p><span class="chinese">这原是一种顶腻烦的事儿。</span><span class="english">It was a most tedious business.</span></p>
 
 <p><span class="chinese">你们很快就会乏味。</span><span class="english">This very quickly gets tedious.</span></p>

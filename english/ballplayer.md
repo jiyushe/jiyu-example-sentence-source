@@ -1,5 +1,7 @@
 # ballplayer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballplayer.md)
+
 <p><span class="chinese">我想自已当球手。</span><span class="english">I wanted to be a ballplayer myself.</span></p>
 
 <p><span class="chinese">你教他成为一个好球手。</span><span class="english">You taught him to be a good ballplayer.</span></p>

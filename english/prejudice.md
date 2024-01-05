@@ -1,5 +1,7 @@
 # prejudice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prejudice.md)
+
 <p><span class="chinese">现在来看一下“偏见“这个词？</span><span class="english">Now what about this word "prejudice"?</span></p>
 
 <p><span class="chinese">悠游卒岁，心中并无固定的成见。</span><span class="english">There is no prejudice in their heart.</span></p>

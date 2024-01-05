@@ -1,5 +1,7 @@
 # 着色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuose.md)
+
 <p><span class="chinese">那种布容易着色。</span><span class="english">That cloth dyes easily.</span></p>
 
 <p><span class="chinese">高级语法着色。</span><span class="english">Advanced syntax coloring.</span></p>

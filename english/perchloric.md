@@ -1,5 +1,7 @@
 # perchloric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perchloric.md)
+
 <p><span class="chinese">血浆样品加高氯酸沉淀蛋白后分析。</span><span class="english">Sample preparation consisted of protein precipitation with perchloric acid.</span></p>
 
 <p><span class="chinese">采用高氯酸法测定纺织品中的淀粉含量。</span><span class="english">A new method for determination of starch content with perchloric acid is developed.</span></p>

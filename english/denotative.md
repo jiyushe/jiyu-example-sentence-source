@@ -1,5 +1,7 @@
 # denotative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denotative.md)
+
 <p><span class="chinese">外延意义是词的基本意义。</span><span class="english">Denotative meaning is the basic meaning of the word.</span></p>
 
 <p><span class="chinese">“外延”与“内含”往往是密不可分的。</span><span class="english">"Denotative " with " embedded " often be inseparable.</span></p>

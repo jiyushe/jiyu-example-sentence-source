@@ -1,5 +1,7 @@
 # dag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dag.md)
+
 <p><span class="chinese">一辆大众牌汽车每天租金20欧元。</span><span class="english">Een Volkswagen kost 20 euro per dag.</span></p>
 
 <p><span class="chinese">每个DAG以一个17字节的记录头为开端。</span><span class="english">Each DAG is preceded by a 17-byte header.</span></p>

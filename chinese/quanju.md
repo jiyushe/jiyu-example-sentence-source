@@ -1,5 +1,7 @@
 # 全局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanju.md)
+
 <p><span class="chinese">这里定义了一个全局变量。</span><span class="english">in this global environment.</span></p>
 
 <p><span class="chinese">它们存在于全局数据。</span><span class="english">These reside in global data.</span></p>

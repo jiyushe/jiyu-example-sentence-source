@@ -1,5 +1,7 @@
 # caster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caster.md)
+
 <p><span class="chinese">法师召唤一组仙狗。</span><span class="english">The caster summons a pack of Cu Sidhe.</span></p>
 
 <p><span class="chinese">施法者将召唤出一组犬魔。</span><span class="english">The caster summons a pack of Barghests.</span></p>

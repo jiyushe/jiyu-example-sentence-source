@@ -1,5 +1,7 @@
 # promulgate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/promulgate.md)
+
 <p><span class="chinese">第四章是对艺术产业域的技术问题探讨。</span><span class="english">"Copy- promulgate" is the key for analyses about art-industry's technology.</span></p>
 
 <p><span class="chinese">每次招标将由招标委员会提前一个月发布公告。</span><span class="english">The Bidding Committee will promulgate proclamations one month prior to the bidding.</span></p>

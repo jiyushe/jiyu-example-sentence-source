@@ -1,5 +1,7 @@
 # 外头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waitou.md)
+
 <p><span class="chinese">外头冷吗?</span><span class="english">Is it cold outdoors?</span></p>
 
 <p><span class="chinese">他听到外头有脚步声。</span><span class="english">He heard a step outside.</span></p>

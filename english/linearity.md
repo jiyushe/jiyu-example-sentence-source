@@ -1,5 +1,7 @@
 # linearity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linearity.md)
+
 <p><span class="chinese">下面就是线性的威力。</span><span class="english">Here is the power of linearity.</span></p>
 
 <p><span class="chinese">并且每一种头孢菌素都有良好的线性。</span><span class="english">There were linearity for each of cephalosporins.</span></p>

@@ -1,5 +1,7 @@
 # daphne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daphne.md)
+
 <p><span class="chinese">我认识达芙妮。</span><span class="english">I know Daphne.</span></p>
 
 <p><span class="chinese">阿波罗的第一个情人是黛芙妮。</span><span class="english">Daphne was Apollo's first love.</span></p>

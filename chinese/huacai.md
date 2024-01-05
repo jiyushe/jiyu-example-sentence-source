@@ -1,5 +1,7 @@
 # 华彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huacai.md)
+
 <p><span class="chinese">还会有更多的华彩乐章将在你面前展开。</span><span class="english">There'll be more.</span></p>
 
 <p><span class="chinese">令华彩的白天让贤。</span><span class="english">Which Heaven to gaudy⑩ day denies.</span></p>

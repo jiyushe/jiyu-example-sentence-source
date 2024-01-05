@@ -1,5 +1,7 @@
 # piano 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piano.md)
+
 <p><span class="chinese">不弹了，我没有钢琴了。</span><span class="english">No, I've no piano.</span></p>
 
 <p><span class="chinese">一架钢琴，一个笔记本。</span><span class="english">A piano. A notepad.</span></p>

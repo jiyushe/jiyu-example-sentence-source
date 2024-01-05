@@ -1,5 +1,7 @@
 # 落款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luokuan.md)
+
 <p><span class="chinese">落款是“苏珊”。</span><span class="english">It was signed "Susan."</span></p>
 
 <p><span class="chinese">下面是落款和日期。</span><span class="english">Below are inscribe and date.</span></p>

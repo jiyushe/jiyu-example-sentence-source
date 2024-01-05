@@ -1,5 +1,7 @@
 # salon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salon.md)
+
 <p><span class="chinese">“沙龙”还是“纱笼”?。</span><span class="english">Salon or Sarong?</span></p>
 
 <p><span class="chinese">琳达，你能不能推荐一个好的沙龙？</span><span class="english">Linda,would you recommend a good salon?</span></p>

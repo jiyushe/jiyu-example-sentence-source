@@ -1,5 +1,7 @@
 # elgin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elgin.md)
+
 <p><span class="chinese">“这是关于避免昂贵的错误，”埃尔金说。</span><span class="english">"It's about avoiding the expensive mistakes, " Elgin says.</span></p>
 
 <p><span class="chinese">快船队篮球业务副总裁埃尔金贝勒说。</span><span class="english">Clippers Vice President of Basketball Operations Elgin Baylor said.</span></p>

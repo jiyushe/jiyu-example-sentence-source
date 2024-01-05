@@ -1,5 +1,7 @@
 # 直属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishu_2.md)
+
 <p><span class="chinese">好的邻居会产生好的直属学校。</span><span class="english">Good neighbors make good feeder schools.</span></p>
 
 <p><span class="chinese">您对您以前的直属领导有何观法？</span><span class="english">How do you like your senior leader who led you directly before?</span></p>

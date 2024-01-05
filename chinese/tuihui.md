@@ -1,5 +1,7 @@
 # 退回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuihui.md)
+
 <p><span class="chinese">她的支票被拒付而退回。</span><span class="english">Her cheque has bounced.</span></p>
 
 <p><span class="chinese">那只虎退回巢穴。</span><span class="english">The tiger retired to its den.</span></p>

@@ -1,5 +1,7 @@
 # parent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parent_1.md)
+
 <p><span class="chinese">你是圣地牙哥中华学苑的家长吗?。</span><span class="english">Are you a parent at SDCA?</span></p>
 
 <p><span class="chinese">那么父母应该怎末做呢？</span><span class="english">So how does a parent do it?</span></p>

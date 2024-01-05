@@ -1,5 +1,7 @@
 # hieroglyph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hieroglyph.md)
+
 <p><span class="chinese">请猜这是什么汉字？</span><span class="english">Whabout word does this hieroglyph refer to?</span></p>
 
 <p><span class="chinese">你知道怎样写这个漂亮的象形文字吗？</span><span class="english">Do you know how to write this beautiful hieroglyph?</span></p>

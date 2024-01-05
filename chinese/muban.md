@@ -1,5 +1,7 @@
 # 木板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muban.md)
+
 <p><span class="chinese">这块木板易于穿孔。</span><span class="english">This board bores easily.</span></p>
 
 <p><span class="chinese">他用木板把井盖上。</span><span class="english">He planked the well over.</span></p>

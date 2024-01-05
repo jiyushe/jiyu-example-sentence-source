@@ -1,5 +1,7 @@
 # habituate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habituate.md)
+
 <p><span class="chinese">自己要习惯于“散快步”。</span><span class="english">Habituate yourself to walk very fast.</span></p>
 
 <p><span class="chinese">在欧洲的那些日子他常常去下等酒吧。</span><span class="english">He used to habituate the dirty bars during those days in Europe.</span></p>

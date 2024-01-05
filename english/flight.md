@@ -1,5 +1,7 @@
 # flight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flight.md)
+
 <p><span class="chinese">就像是一次飞行。</span><span class="english">It is a flight.</span></p>
 
 <p><span class="chinese">希腊人四下溃逃。</span><span class="english">Greeks looked flight.</span></p>

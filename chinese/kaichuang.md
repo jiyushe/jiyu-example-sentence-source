@@ -1,5 +1,7 @@
 # 开创
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaichuang.md)
+
 <p><span class="chinese">这已经开创了公开叫价。</span><span class="english">This has created a public outcry.</span></p>
 
 <p><span class="chinese">他自己艰苦地开创了一番事业。</span><span class="english">He hewed out a career for himself.</span></p>

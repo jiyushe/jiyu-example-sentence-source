@@ -1,5 +1,7 @@
 # unwilling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwilling.md)
+
 <p><span class="chinese">不甘做小草就做一棵大树吧！</span><span class="english">Unwilling to do grass make a tree!</span></p>
 
 <p><span class="chinese">我不愿把梳子借给她。</span><span class="english">I was unwilling to lend her my comb.</span></p>

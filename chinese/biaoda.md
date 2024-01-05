@@ -1,5 +1,7 @@
 # 表达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoda.md)
+
 <p><span class="chinese">这是一种表达建议的方式。</span><span class="english">It's a suggestion.</span></p>
 
 <p><span class="chinese">又是这个表达</span><span class="english">That phrase again.</span></p>

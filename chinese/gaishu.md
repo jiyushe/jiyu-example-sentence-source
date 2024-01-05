@@ -1,5 +1,7 @@
 # 概述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaishu.md)
+
 <p><span class="chinese">第一章为自由心证的概述。</span><span class="english">The first part is free proof.</span></p>
 
 <p><span class="chinese">游戏中武器的概述。</span><span class="english">Overview of wea pons used in game.</span></p>

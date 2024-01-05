@@ -1,5 +1,7 @@
 # 总共
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonggong.md)
+
 <p><span class="chinese">总共是六十七根。</span><span class="english">There were sixty-seven.</span></p>
 
 <p><span class="chinese">七次操作，对吗？总共有8个元素。</span><span class="english">I've got eight elements.</span></p>

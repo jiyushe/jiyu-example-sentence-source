@@ -1,5 +1,7 @@
 # clandestine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clandestine.md)
+
 <p><span class="chinese">一只耗子能够引向地底之下的秘密生命。</span><span class="english">A mouse leads a clandestine life below the ground.</span></p>
 
 <p><span class="chinese">秘密会议在停车场和餐厅举行。</span><span class="english">Clandestine meetings were held in parking lots and diners.</span></p>

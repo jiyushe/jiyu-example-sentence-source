@@ -1,5 +1,7 @@
 # shay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shay.md)
+
 <p><span class="chinese">现在问题来了，小谢应该是下一位的打击手。</span><span class="english">Now, Shay was scheduled to be next at bat.</span></p>
 
 <p><span class="chinese">第一个投球向他飞来，而夏恩笨手笨脚地挥了一棒，没有击中。</span><span class="english">The first pitch came and Shay swung clumsily and missed.</span></p>

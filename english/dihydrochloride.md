@@ -1,5 +1,7 @@
 # dihydrochloride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dihydrochloride.md)
+
 <p><span class="chinese">目的用核磁共振方法鉴定新药盐酸洛美利嗪的结构。</span><span class="english">Aim To identify the structure of the new drug lomerizine dihydrochloride.</span></p>
 
 <p><span class="chinese">方法用盐酸萘乙二胺法检测样品中的亚硝酸盐。</span><span class="english">Methods The nitrite was detected from samples by N-Naphthylethylenediamine Dihydrochloride.</span></p>

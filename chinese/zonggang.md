@@ -1,5 +1,7 @@
 # 总纲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonggang.md)
+
 <p><span class="chinese">爱人如己是一切律法的总纲。</span><span class="english">I. Love sums up the whole Law.</span></p>
 
 <p><span class="chinese">爱人如己是一切律法的总纲。</span><span class="english">K. Love sums up the whole Law.</span></p>

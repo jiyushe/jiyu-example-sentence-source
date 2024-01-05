@@ -1,5 +1,7 @@
 # halfheartedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halfheartedly.md)
+
 <p><span class="chinese">“这是种族歧视，”我冷冷地说。</span><span class="english">"That's racist, " I said, halfheartedly.</span></p>
 
 <p><span class="chinese">美联储正在尝试新的改进措施，有点有心无力。</span><span class="english">The Federal Reserve is trying new ways of support, somewhat halfheartedly.</span></p>

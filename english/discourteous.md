@@ -1,5 +1,7 @@
 # discourteous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discourteous.md)
+
 <p><span class="chinese">他对上校相当无礼貌。</span><span class="english">He was rather discourteous to Captain.</span></p>
 
 <p><span class="chinese">他无礼的回答使我很生气。</span><span class="english">I was offended by his discourteous reply.</span></p>

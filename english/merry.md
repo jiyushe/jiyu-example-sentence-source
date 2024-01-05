@@ -1,5 +1,7 @@
 # merry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merry.md)
+
 <p><span class="chinese">莉莉，圣诞快乐！</span><span class="english">Merry Christmas, Lily!</span></p>
 
 <p><span class="chinese">祝您圣诞快乐!</span><span class="english">Have a Merry Christmas.</span></p>

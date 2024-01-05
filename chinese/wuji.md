@@ -1,5 +1,7 @@
 # 乌鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuji.md)
+
 <p><span class="chinese">乌鸡白凤丸也是具有相似的作用。</span><span class="english">The pill has the similar functions.</span></p>
 
 <p><span class="chinese">每个月喝一个星期的人参乌鸡汤。</span><span class="english">Drink good soaps for one wk of one month.</span></p>

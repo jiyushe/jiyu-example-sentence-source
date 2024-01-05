@@ -1,5 +1,7 @@
 # tentacle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tentacle.md)
+
 <p><span class="chinese">图中每一个触手大约两毫米长。</span><span class="english">Each tentacle is about two millimeters long.</span></p>
 
 <p><span class="chinese">玻璃窗里的高调，触手碰不到的温度。</span><span class="english">Glazing of high-profile, tentacle didn't touch the temperature.</span></p>

@@ -1,5 +1,7 @@
 # lola
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lola.md)
+
 <p><span class="chinese">也许它去追萝拉和加布了?。</span><span class="english">Maybe he went after Lola and Scab?</span></p>
 
 <p><span class="chinese">罗拉演绎了她自编的硫黄岛战役。</span><span class="english">Lola shows us her own rendition of Iwo Jima.</span></p>

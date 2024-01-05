@@ -1,5 +1,7 @@
 # cycas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cycas.md)
+
 <p><span class="chinese">铁树很少开花。</span><span class="english">Sago cycas seldom blossoms.</span></p>
 
 <p><span class="chinese">大量供应出口苏铁种子。</span><span class="english">Sell Cycas revoluta seeds for exportation.</span></p>

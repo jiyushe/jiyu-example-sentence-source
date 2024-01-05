@@ -1,5 +1,7 @@
 # flak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flak.md)
+
 <p><span class="chinese">高射炮火像雹子般轰击飞机。</span><span class="english">Flak hails on the plane.</span></p>
 
 <p><span class="chinese">看不到高射炮火后。</span><span class="english">Can't see through the flak.</span></p>

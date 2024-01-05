@@ -1,5 +1,7 @@
 # asocial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asocial.md)
+
 <p><span class="chinese">这是一个社会问题。</span><span class="english">This is asocial problem.</span></p>
 
 <p><span class="chinese">她是社交花蝴蝶。</span><span class="english">She is asocial butterfly.</span></p>

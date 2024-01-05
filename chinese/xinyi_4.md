@@ -1,5 +1,7 @@
 # 新意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyi_4.md)
+
 <p><span class="chinese">这很特别，很有新意。</span><span class="english">It's so special and so unique.</span></p>
 
 <p><span class="chinese">弗雷德的笑话总是如此毫无新意。</span><span class="english">Freds jokes are always so corny.</span></p>

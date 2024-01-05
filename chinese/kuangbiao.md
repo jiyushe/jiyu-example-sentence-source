@@ -1,5 +1,7 @@
 # 狂飙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangbiao.md)
+
 <p><span class="chinese">萨拉斯能否在英伦再度掀起蓝色狂飙？</span><span class="english">Another hue of blue for Marcelo Salas?</span></p>
 
 <p><span class="chinese">显而易见，近年来，中国的专利数一直在狂飙。</span><span class="english">China’s patent surge has been evident for years.</span></p>

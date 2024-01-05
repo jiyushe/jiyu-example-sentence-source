@@ -1,5 +1,7 @@
 # lefty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lefty.md)
+
 <p><span class="chinese">而小左有。</span><span class="english">Lefty has it.</span></p>
 
 <p><span class="chinese">你是左撇子吗?</span><span class="english">Are you lefty?</span></p>

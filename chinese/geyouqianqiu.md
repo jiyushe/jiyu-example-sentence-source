@@ -1,5 +1,7 @@
 # 各有千秋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geyouqianqiu.md)
+
 <p><span class="chinese">这两种理论各有千秋，但它们是并行不悖的。</span><span class="english">The two theories vary, but they are compassable.</span></p>
 
 <p><span class="chinese">两校学生棋逢对手、各有千秋，比赛在友好的气氛中顺利进行。</span><span class="english">The match went with a swing in a friendly atmosphere.</span></p>

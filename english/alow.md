@@ -1,5 +1,7 @@
 # alow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alow.md)
+
 <p><span class="chinese">他独立完成了这项任务。</span><span class="english">He has completed the task all alow.</span></p>
 
 <p><span class="chinese">有人把箱子上上下下都翻过了。</span><span class="english">Someone's turned the chest out alow and aloft.</span></p>

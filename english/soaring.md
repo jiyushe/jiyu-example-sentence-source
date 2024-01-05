@@ -1,5 +1,7 @@
 # soaring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soaring.md)
+
 <p><span class="chinese">高涨的燃料和粮食价格？</span><span class="english">Soaring fuel and food prices?</span></p>
 
 <p><span class="chinese">汤臣一品的房价还在飞涨。</span><span class="english">Still, Tomson’s prices are soaring.</span></p>

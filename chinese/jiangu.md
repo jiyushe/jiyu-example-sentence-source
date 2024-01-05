@@ -1,5 +1,7 @@
 # 兼顾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangu.md)
+
 <p><span class="chinese">他工作的同时兼顾学业。</span><span class="english">He juggled work with full time schooling.</span></p>
 
 <p><span class="chinese">我相信自己能够在防守和进攻两方面同时兼顾。</span><span class="english">I'm a two-way player, I defend and attack.</span></p>

@@ -1,5 +1,7 @@
 # 产妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanfu.md)
+
 <p><span class="chinese">请让产妇平躺在床上，不要用力。</span><span class="english">Please let her lie flat, and don't exert.</span></p>
 
 <p><span class="chinese">那位产妇发现是位陌生人，惊跳起来。</span><span class="english">The woman was startled to see a stranger.</span></p>

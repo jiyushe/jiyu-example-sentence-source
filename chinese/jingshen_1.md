@@ -1,5 +1,7 @@
 # 精神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingshen_1.md)
+
 <p><span class="chinese">主动精神。</span><span class="english">Initiative.</span></p>
 
 <p><span class="chinese">他治愈了她的精神。</span><span class="english">He healed her spirit.</span></p>

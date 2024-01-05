@@ -1,5 +1,7 @@
 # greenback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenback.md)
+
 <p><span class="chinese">由于黄金是用美元定价的，美元的下跌就会推高金价。</span><span class="english">As gold is priced in dollars, a falling greenback pushes up its price.</span></p>
 
 <p><span class="chinese">盘中，美股走高，令套息热情上升，支持汇价。</span><span class="english">Intraday, stocks higher, the warm up sets interest rates to support the greenback.</span></p>

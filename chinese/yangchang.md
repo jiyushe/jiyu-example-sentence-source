@@ -1,5 +1,7 @@
 # 羊肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangchang.md)
+
 <p><span class="chinese">沿着这条深谷有一条羊肠小路。</span><span class="english">Along the ravine there was a mule path.</span></p>
 
 <p><span class="chinese">而羊肠类的塑料线也比金属线的来的响亮。</span><span class="english">Catgut and type of plastic than metal lines to the loud.</span></p>

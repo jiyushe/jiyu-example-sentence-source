@@ -1,5 +1,7 @@
 # 轻信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxin_4.md)
+
 <p><span class="chinese">他们利用了他的轻信。</span><span class="english">They traded on his credulity.</span></p>
 
 <p><span class="chinese">他利用了我的轻信。</span><span class="english">He has practised on my credulity.</span></p>

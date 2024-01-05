@@ -1,5 +1,7 @@
 # 偷闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touxian.md)
+
 <p><span class="chinese">仙女亦有偷闲时。</span><span class="english">The fairy also needs to have leisure.</span></p>
 
 <p><span class="chinese">周末是许多人偷闲的时间。</span><span class="english">Weekends are the time for many people to goof off.</span></p>

@@ -1,5 +1,7 @@
 # 未曾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizeng.md)
+
 <p><span class="chinese">我未曾见过雪。</span><span class="english">I have never seen snow.</span></p>
 
 <p><span class="chinese">但是痛苦却未曾停止。</span><span class="english">But it dosen't stop the pain.</span></p>

@@ -1,5 +1,7 @@
 # 启航
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihang.md)
+
 <p><span class="chinese">船启航时，汤姆挥了挥手。</span><span class="english">as the ship set sail.</span></p>
 
 <p><span class="chinese">绝世好工作，七月启航帆。</span><span class="english">The job starts in July.</span></p>

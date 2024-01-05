@@ -1,5 +1,7 @@
 # 束缚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shufu_1.md)
+
 <p><span class="chinese">想要摆脱手机合同束缚吗？</span><span class="english">Cellphone Contract Buster.</span></p>
 
 <p><span class="chinese">灵魂不束缚你！</span><span class="english">Ghost unlaid forbear thee!</span></p>

@@ -1,5 +1,7 @@
 # earthquake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthquake.md)
+
 <p><span class="chinese">——评论海地大地震。</span><span class="english">On the Haiti earthquake.</span></p>
 
 <p><span class="chinese">是要地震了吗?非也。</span><span class="english">Is there an earthquake coming?</span></p>

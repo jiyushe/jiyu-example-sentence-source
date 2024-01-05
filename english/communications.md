@@ -1,5 +1,7 @@
 # communications
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communications.md)
+
 <p><span class="chinese">创立一个交流中心。</span><span class="english">Establish a communications hub.</span></p>
 
 <p><span class="chinese">战术通信网。</span><span class="english">Tactical communications network.</span></p>

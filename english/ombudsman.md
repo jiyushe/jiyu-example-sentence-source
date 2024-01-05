@@ -1,5 +1,7 @@
 # ombudsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ombudsman.md)
+
 <p><span class="chinese">我们公司现在有调查官了？</span><span class="english">Our company now has an ombudsman ?</span></p>
 
 <p><span class="chinese">这时候，监察官也到来了。</span><span class="english">At this time, the Ombudsman has arrived.</span></p>

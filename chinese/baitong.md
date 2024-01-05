@@ -1,5 +1,7 @@
 # 白铜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baitong.md)
+
 <p><span class="chinese">电工白铜一般有良好的热电性能。</span><span class="english">General Electric copper-nickel alloy has a good thermoelectric properties.</span></p>
 
 <p><span class="chinese">本文介绍了一种新型白铜眼镜框架材料。</span><span class="english">A novel type of white brass for spectacles frame is introduced in this paper.</span></p>

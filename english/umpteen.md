@@ -1,5 +1,7 @@
 # umpteen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/umpteen.md)
+
 <p><span class="chinese">那部影片我已看过多遍了。</span><span class="english">I've seen that film umpteen times.</span></p>
 
 <p><span class="chinese">这个故事我已讲了无数次了。</span><span class="english">I've told this story umpteen times.</span></p>

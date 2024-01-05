@@ -1,5 +1,7 @@
 # 绒球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongqiu.md)
+
 <p><span class="chinese">顶端长着一个松散的小白绒球。</span><span class="english">Long with a loose top small white pompon.</span></p>
 
 <p><span class="chinese">我们选了一只毛绒球一样贪玩的小灰猫。</span><span class="english">We picked a little, gray, playful ball of fur.</span></p>

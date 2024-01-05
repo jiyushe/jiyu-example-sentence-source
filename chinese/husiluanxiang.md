@@ -1,5 +1,7 @@
 # 胡思乱想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/husiluanxiang.md)
+
 <p><span class="chinese">人一闲下来就会胡思乱想。</span><span class="english">An idle man will woolgather.</span></p>
 
 <p><span class="chinese">够了，别再这样胡思乱想了。</span><span class="english">Enough of this mind-wandering.</span></p>

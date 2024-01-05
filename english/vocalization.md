@@ -1,5 +1,7 @@
 # vocalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocalization.md)
+
 <p><span class="chinese">在声乐教学中发声练习必须放在首位。</span><span class="english">Vocalization should play a primary role in vocality teaching.</span></p>
 
 <p><span class="chinese">“长调”在音乐上的主要特征是歌腔舒展，节奏自由。</span><span class="english">These songs are characterized by their lengthy vocalization and free rhythm.</span></p>

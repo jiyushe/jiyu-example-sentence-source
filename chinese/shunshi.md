@@ -1,5 +1,7 @@
 # 瞬时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunshi.md)
+
 <p><span class="chinese">那何为瞬时速率呢？</span><span class="english">What is the instantaneous speed?</span></p>
 
 <p><span class="chinese">这也就是瞬时加速度。</span><span class="english">That is the instantaneous acceleration.</span></p>

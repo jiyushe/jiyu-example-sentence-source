@@ -1,5 +1,7 @@
 # dragging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dragging.md)
+
 <p><span class="chinese">是的，我船走锚了。</span><span class="english">Yes, I am dragging anchor.</span></p>
 
 <p><span class="chinese">不，我船没走锚。</span><span class="english">No, I am not dragging anchor.</span></p>

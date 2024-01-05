@@ -1,5 +1,7 @@
 # laval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laval.md)
+
 <p><span class="chinese">卢娄，主要拉瓦尔师范学校，谁陪同主教。</span><span class="english">Rouleau , principal of the Laval Normal School, who accompanied Mgr.</span></p>
 
 <p><span class="chinese">阿法拉伐集团的历史可追溯到1883年的瑞典，当时古斯塔夫-德-拉伐博士发明了奶油分离器。</span><span class="english">The Alfa Laval Group was originally founded in Sweden in 1883 by Gustaf De Laval.</span></p>

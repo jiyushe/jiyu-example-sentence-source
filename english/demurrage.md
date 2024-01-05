@@ -1,5 +1,7 @@
 # demurrage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demurrage.md)
+
 <p><span class="chinese">租船人必须对滞期负责。</span><span class="english">Chatterer must be responsible for demurrage.</span></p>
 
 <p><span class="chinese">租船人必须对滞期负责。</span><span class="english">Chatterer must be responsible for demurrage.</span></p>

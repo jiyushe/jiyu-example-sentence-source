@@ -1,5 +1,7 @@
 # 不期而遇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buqieryu.md)
+
 <p><span class="chinese">我们在街头不期而遇。</span><span class="english">We ran into each other on the street.</span></p>
 
 <p><span class="chinese">人潮拥挤再也不会不期而遇。</span><span class="english">Crowded accidentaly across not anymore.</span></p>

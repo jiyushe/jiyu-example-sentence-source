@@ -1,5 +1,7 @@
 # 书画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuhua.md)
+
 <p><span class="chinese">你喜欢中国书画吗？</span><span class="english">Do you like chinese painting and calligraphy?</span></p>
 
 <p><span class="chinese">所以他们被告知的是书画SOS的家庭。</span><span class="english">So they were asked to draw their SOS families.</span></p>

@@ -1,5 +1,7 @@
 # 因此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinci.md)
+
 <p><span class="chinese">因此等于RT除以。</span><span class="english">V RT over V.</span></p>
 
 <p><span class="chinese">因此这些就是666。</span><span class="english">And so is 666.</span></p>

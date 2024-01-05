@@ -1,5 +1,7 @@
 # brow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brow.md)
+
 <p><span class="chinese">我额头的热狂！</span><span class="english">The fever on my brow.</span></p>
 
 <p><span class="chinese">冷彻我的眉睫。</span><span class="english">Sunk chill on my brow.</span></p>

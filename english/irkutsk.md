@@ -1,5 +1,7 @@
 # irkutsk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irkutsk.md)
+
 <p><span class="chinese">第八天，回到伊尔库茨克。</span><span class="english">Day 8. Returning to Irkutsk.</span></p>
 
 <p><span class="chinese">第一天——伊尔库茨克。</span><span class="english">Day 1. The trip begins in Irkutsk.</span></p>

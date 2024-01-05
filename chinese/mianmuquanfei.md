@@ -1,5 +1,7 @@
 # 面目全非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmuquanfei.md)
+
 <p><span class="chinese">编辑把那篇小说改得面目全非。</span><span class="english">The editor hacked the story to bits.</span></p>
 
 <p><span class="chinese">编辑把我的文章删改得面目全非。</span><span class="english">The editor hacked my article to bits.</span></p>

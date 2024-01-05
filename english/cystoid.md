@@ -1,5 +1,7 @@
 # cystoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cystoid.md)
+
 <p><span class="chinese">在各发育期中华鳖胸腺皮质、髓质交界处和髓质区有明显的囊状胸腺小体和交错突细胞。</span><span class="english">During development period, there were cystoid thymic corpuscles and interdigitating cells in thymic medulla and cortico-medullary border.</span></p>
 
 <p><span class="chinese">血管增生扩张、血管周围淋巴细胞浸润、出血、坏死、囊性变常见。</span><span class="english">Vascular proliferation, angiectasis, perivascular lymphocyte infiltration, hemorrhage, necrosis, cystoid degeneration and calcification were seen frequently.</span></p>

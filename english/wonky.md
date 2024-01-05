@@ -1,5 +1,7 @@
 # wonky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wonky.md)
+
 <p><span class="chinese">那张桌子有点摇晃！</span><span class="english">That table's a bit wonky !</span></p>
 
 <p><span class="chinese">唯一的隐患是他脆弱的小手指。</span><span class="english">The only potential hiccup is his wonky pinkie.</span></p>

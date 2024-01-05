@@ -1,5 +1,7 @@
 # 胸口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongkou.md)
+
 <p><span class="chinese">我想他胸口除过毛。</span><span class="english">I think his chest is waxed.</span></p>
 
 <p><span class="chinese">他胳膊抽搐，胸口绞痛不已。</span><span class="english">His arm throbs. His chest hurts.</span></p>

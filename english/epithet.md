@@ -1,5 +1,7 @@
 # epithet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epithet.md)
+
 <p><span class="chinese">并与增加修饰语，二专栏。</span><span class="english">And , with the added epithet , II Chron.</span></p>
 
 <p><span class="chinese">金里奇咒骂我们的称呼，在某些方面来说，是正确的。</span><span class="english">The epithet Gingrich hurled at us was correct in some respects.</span></p>

@@ -1,5 +1,7 @@
 # 童星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxing_2.md)
+
 <p><span class="chinese">莫小贝由王莎莎扮演，她是一个童星。</span><span class="english">Mo is acted by Wang Shasha. She is a child star.</span></p>
 
 <p><span class="chinese">同很多童星一样，克努特的童年短暂而悲伤。</span><span class="english">Like many child stars, Knut's life was short and sad.</span></p>

@@ -1,5 +1,7 @@
 # solicited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solicited.md)
+
 <p><span class="chinese">他请求部长给他以支持。</span><span class="english">He solicited aid from the minister.</span></p>
 
 <p><span class="chinese">塞格里亚通过招标来完成这项工作。</span><span class="english">Ceglia solicited bids to do the work.</span></p>

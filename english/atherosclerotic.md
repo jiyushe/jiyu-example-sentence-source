@@ -1,5 +1,7 @@
 # atherosclerotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atherosclerotic.md)
+
 <p><span class="chinese">颈动脉粥样硬化斑块好发于颈动脉分叉处。</span><span class="english">Carotid atherosclerotic plaque in the carotid artery made good forks.</span></p>
 
 <p><span class="chinese">现在认为，动脉粥样硬化损害的本质更加复杂。</span><span class="english">It is now understood that atherosclerotic lesions are more sophisticated entities.</span></p>

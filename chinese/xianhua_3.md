@@ -1,5 +1,7 @@
 # 鲜花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianhua_3.md)
+
 <p><span class="chinese">花园里开满鲜花。</span><span class="english">Flowers filled the garden.</span></p>
 
 <p><span class="chinese">地板上撒满了鲜花。</span><span class="english">Flowers strewed the floor.</span></p>

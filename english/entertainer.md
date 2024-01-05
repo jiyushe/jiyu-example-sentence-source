@@ -1,5 +1,7 @@
 # entertainer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entertainer.md)
+
 <p><span class="chinese">她是个天生的表演者。</span><span class="english">She’s a natural entertainer.</span></p>
 
 <p><span class="chinese">他是大众喜爱的电视演员。</span><span class="english">He's a popular television entertainer.</span></p>

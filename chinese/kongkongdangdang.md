@@ -1,5 +1,7 @@
 # 空空荡荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongkongdangdang.md)
+
 <p><span class="chinese">街上空空荡荡的。</span><span class="english">It was almost deserted.</span></p>
 
 <p><span class="chinese">昨天街上空空荡荡。</span><span class="english">The streets were empty yesterday.</span></p>

@@ -1,5 +1,7 @@
 # 单数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danshu_1.md)
+
 <p><span class="chinese">这个词没有单数形式。</span><span class="english">"Trousers" has no singular.</span></p>
 
 <p><span class="chinese">这个名词是单数形式。</span><span class="english">The noun is in the singular.</span></p>

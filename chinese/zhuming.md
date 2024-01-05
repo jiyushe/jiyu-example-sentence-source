@@ -1,5 +1,7 @@
 # 注明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuming.md)
+
 <p><span class="chinese">该表未注明日期。</span><span class="english">That form is undated.</span></p>
 
 <p><span class="chinese">他注明他的报道发自纽约。</span><span class="english">He datelines his reports New York.</span></p>

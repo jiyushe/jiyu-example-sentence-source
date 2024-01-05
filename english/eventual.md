@@ -1,5 +1,7 @@
 # eventual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eventual.md)
+
 <p><span class="chinese">这是亟待解决的问题还是最终问题？</span><span class="english">Is this an urgent issue or an eventual one?</span></p>
 
 <p><span class="chinese">不过，利兹联可能最后仍无法成为球迷们购买的对象。</span><span class="english">But Leeds may not be the eventual takeover target.</span></p>

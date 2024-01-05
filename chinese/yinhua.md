@@ -1,5 +1,7 @@
 # 印花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhua.md)
+
 <p><span class="chinese">开机时间印花。</span><span class="english">Turn on time-stamping.</span></p>
 
 <p><span class="chinese">我喜欢这种印花府绸。</span><span class="english">I like this printed poplin.</span></p>

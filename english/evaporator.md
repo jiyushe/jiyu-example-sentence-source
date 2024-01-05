@@ -1,5 +1,7 @@
 # evaporator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evaporator.md)
+
 <p><span class="chinese">蒸发器盘管排水盘肯莫尔空气。</span><span class="english">File evaporator air Kenmore drain pan.</span></p>
 
 <p><span class="chinese">将要检漏的蒸发器主件规则地放入测试箱内。</span><span class="english">Put main units of the evaporator inside the chamber properly.</span></p>

@@ -1,5 +1,7 @@
 # wharf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wharf.md)
+
 <p><span class="chinese">我们的船靠向码头。</span><span class="english">Our ship is on to the wharf.</span></p>
 
 <p><span class="chinese">然后我们去了渔人码头。</span><span class="english">Then we went to Fisherman's Wharf.</span></p>

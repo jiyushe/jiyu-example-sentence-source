@@ -1,5 +1,7 @@
 # thermostat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermostat.md)
+
 <p><span class="chinese">因为这毕竟只是一款恒温器。</span><span class="english">It is, after all, a thermostat.</span></p>
 
 <p><span class="chinese">要象恒温器，不要象温度计。</span><span class="english">Be a thermostat not a thermometer.</span></p>

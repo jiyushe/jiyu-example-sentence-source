@@ -1,5 +1,7 @@
 # soil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soil.md)
+
 <p><span class="chinese">风化壳和土壤。</span><span class="english">Regolith and soil.</span></p>
 
 <p><span class="chinese">我们为什么要学习土壤学？</span><span class="english">Why do we study soil?</span></p>

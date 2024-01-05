@@ -1,5 +1,7 @@
 # 殉难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunnan.md)
+
 <p><span class="chinese">他们已为国殉难了。</span><span class="english">They have suffered for the country.</span></p>
 
 <p><span class="chinese">在这个地方，不存在烈士殉难问题。</span><span class="english">In this place there are no martyrdoms.</span></p>

@@ -1,5 +1,7 @@
 # planking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planking.md)
+
 <p><span class="chinese">他习惯于将全部费用一次付清。</span><span class="english">He has a habit of planking out the whole cost all at once.</span></p>
 
 <p><span class="chinese">一根悬空表演者因为在警车顶部悬空而被逮捕。</span><span class="english">One planker was arrested for planking on top of a police car.</span></p>

@@ -1,5 +1,7 @@
 # circumference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumference.md)
+
 <p><span class="chinese">那个湖方圆800里。</span><span class="english">The lake has a circumference of 800 li.</span></p>
 
 <p><span class="chinese">这棵树周长6英尺。</span><span class="english">The tree has a circumference of 6 feet.</span></p>

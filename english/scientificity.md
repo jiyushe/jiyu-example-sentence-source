@@ -1,5 +1,7 @@
 # scientificity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scientificity.md)
+
 <p><span class="chinese">科学性是质量管理水平的核心和标志。</span><span class="english">Scientificity is the core and sign of quality management level.</span></p>
 
 <p><span class="chinese">马克思的劳动价值论既有科学性，又有局限性。</span><span class="english">Marx' s theory of labour value has its scientificity and limitations.</span></p>

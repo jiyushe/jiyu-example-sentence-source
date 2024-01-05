@@ -1,5 +1,7 @@
 # sunburst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunburst.md)
+
 <p><span class="chinese">局部骨质破坏，日光放射样改变。</span><span class="english">Destruction of bone with sunburst appearance.</span></p>
 
 <p><span class="chinese">最黑暗的时刻过后，可能就会迎来灿烂的旭日。</span><span class="english">The darkest hour might usher in the sunburst.</span></p>

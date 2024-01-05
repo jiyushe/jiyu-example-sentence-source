@@ -1,5 +1,7 @@
 # outdo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outdo.md)
+
 <p><span class="chinese">但他需要超越自我。</span><span class="english">But he needed to outdo himself.</span></p>
 
 <p><span class="chinese">而且七月正在马不停蹄地超越六月。</span><span class="english">And July is doing its best to outdo June.</span></p>

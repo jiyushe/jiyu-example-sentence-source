@@ -1,5 +1,7 @@
 # 预赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yusai.md)
+
 <p><span class="chinese">他通过了预赛，但在决赛中输掉了。</span><span class="english">He got through the preliminaries but lost out in the finals.</span></p>
 
 <p><span class="chinese">他轻松地通过了跳高预赛。</span><span class="english">He has easily won the preliminary contest for the high jump.</span></p>

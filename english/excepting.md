@@ -1,5 +1,7 @@
 # excepting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excepting.md)
+
 <p><span class="chinese">除了伟大的世尊他自己。</span><span class="english">Excepting the great sage himself.</span></p>
 
 <p><span class="chinese">除了他弟弟外，他们都是对的。</span><span class="english">Excepting his brother, they are all right.</span></p>

@@ -1,5 +1,7 @@
 # ecc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecc.md)
+
 <p><span class="chinese">来自加拿大的格兰特.基彭是选举投诉委员会的主席。</span><span class="english">Canadian Grant Kippen is the ECC chairman</span></p>
 
 <p><span class="chinese">数据传输，性能。</span><span class="english">Data Transfer Interface, Performance, ECC.</span></p>

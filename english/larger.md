@@ -1,5 +1,7 @@
 # larger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/larger.md)
+
 <p><span class="chinese">他是我的结拜兄弟。</span><span class="english">He is my larger brother.</span></p>
 
 <p><span class="chinese">我们输给了一家较大的公司。</span><span class="english">We lost to a larger firm.</span></p>

@@ -1,5 +1,7 @@
 # ming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ming.md)
+
 <p><span class="chinese">杨明，你怎么样？</span><span class="english">And you, Yang Ming?</span></p>
 
 <p><span class="chinese">明能听见什么？</span><span class="english">What can Ming hear?</span></p>

@@ -1,5 +1,7 @@
 # 到职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daozhi_1.md)
+
 <p><span class="chinese">他的到职为大家所欢迎。</span><span class="english">His assumption of office was welcomed by everyone.</span></p>
 
 <p><span class="chinese">自从他去年秋天到职以来就一直很拼命地工作。</span><span class="english">He's been working his butt off since he started last fall.</span></p>

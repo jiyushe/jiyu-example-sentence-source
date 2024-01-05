@@ -1,5 +1,7 @@
 # 通气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongqi_1.md)
+
 <p><span class="chinese">试图使鼻子通气。</span><span class="english">Try blowing your nose.</span></p>
 
 <p><span class="chinese">深度打孔通气的方法是否试过？</span><span class="english">Has deep-tine aerification been tried?</span></p>

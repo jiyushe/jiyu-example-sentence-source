@@ -1,5 +1,7 @@
 # tummy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tummy.md)
+
 <p><span class="chinese">驯服你的胃。</span><span class="english">Tame your tummy.</span></p>
 
 <p><span class="chinese">您的肚子还疼吗？</span><span class="english">Is your tummy still sore?</span></p>

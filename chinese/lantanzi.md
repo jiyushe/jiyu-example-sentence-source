@@ -1,5 +1,7 @@
 # 烂摊子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lantanzi.md)
+
 <p><span class="chinese">厨房里整一烂摊子。</span><span class="english">The kitchen was an awful mess.</span></p>
 
 <p><span class="chinese">谁是这个烂摊子的始作俑者？</span><span class="english">Who is to blame for this mess?</span></p>

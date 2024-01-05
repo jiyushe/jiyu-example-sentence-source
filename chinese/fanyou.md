@@ -1,5 +1,7 @@
 # 烦忧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyou.md)
+
 <p><span class="chinese">四月万事不烦忧。</span><span class="english">No worries for April.</span></p>
 
 <p><span class="chinese">比憎恨的明伤是更大的烦忧。</span><span class="english">To bear greater wrong, than hate's known injury.</span></p>

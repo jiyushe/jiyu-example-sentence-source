@@ -1,5 +1,7 @@
 # 工细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongxi.md)
+
 <p><span class="chinese">面料均为人工包制，精工细缝，更显高雅。</span><span class="english">Fabrics are artificial packs, Seiko slit, even more elegant.</span></p>
 
 <p><span class="chinese">由不得精工细琢磨了，交稿时间不等人。</span><span class="english">Seiko can not help pondering the fine, the delivery time flies.</span></p>

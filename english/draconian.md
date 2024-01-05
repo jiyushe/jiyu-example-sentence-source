@@ -1,5 +1,7 @@
 # draconian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/draconian.md)
+
 <p><span class="chinese">Motani先生的观点要更冷酷一些。</span><span class="english">Mr Motani takes a more draconian view.</span></p>
 
 <p><span class="chinese">而日本国内的审查更为严厉。</span><span class="english">In Japan, the censorship was more draconian.</span></p>

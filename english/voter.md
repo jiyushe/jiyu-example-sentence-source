@@ -1,5 +1,7 @@
 # voter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voter.md)
+
 <p><span class="chinese">如果我们想提高投票人的数量，</span><span class="english">If we want a higher voter turnout,</span></p>
 
 <p><span class="chinese">这次选举的选民投票率很低。</span><span class="english">Voter turnout was low for the election.</span></p>

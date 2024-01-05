@@ -1,5 +1,7 @@
 # fuzhou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuzhou.md)
+
 <p><span class="chinese">从福州到成都。</span><span class="english">From Fuzhou to Chendu.</span></p>
 
 <p><span class="chinese">在福州市的北部。</span><span class="english">In the north of Fuzhou.</span></p>

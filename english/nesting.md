@@ -1,5 +1,7 @@
 # nesting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nesting.md)
+
 <p><span class="chinese">海鸟正在那儿营窝做巢。</span><span class="english">Sea birds were nesting there.</span></p>
 
 <p><span class="chinese">燕子正在汽车房做窝。</span><span class="english">Swallows are nesting in the garage.</span></p>

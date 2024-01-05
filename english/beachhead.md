@@ -1,5 +1,7 @@
 # beachhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beachhead.md)
+
 <p><span class="chinese">作为桥头堡来攻打美国。</span><span class="english">as a beachhead to attack America.</span></p>
 
 <p><span class="chinese">部队被送到滩头堡登陆。</span><span class="english">The troops were landed at a beachhead.</span></p>

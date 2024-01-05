@@ -1,5 +1,7 @@
 # invigilator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invigilator.md)
+
 <p><span class="chinese">上帝保佑，监考老师是大李！</span><span class="english">God bless, my invigilator was Lee!</span></p>
 
 <p><span class="chinese">他是第二考场的监考员。</span><span class="english">He was the invigilator of No. 2 Testroom.</span></p>

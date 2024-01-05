@@ -1,5 +1,7 @@
 # allelopathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allelopathy.md)
+
 <p><span class="chinese">展望了生化它感现象在农业上的应用前景。</span><span class="english">Furthermore, application of the allelopathy to agriculture was forecasted.</span></p>
 
 <p><span class="chinese">化感作用已成为园林植物相互关系研究的热点和焦点之一。</span><span class="english">Allelopathy of ornamental plants has becomes a focus topic in recent years.</span></p>

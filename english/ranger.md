@@ -1,5 +1,7 @@
 # ranger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ranger.md)
+
 <p><span class="chinese">护林员微笑了。</span><span class="english">The ranger smiled.</span></p>
 
 <p><span class="chinese">黄鸭与无敌铁金刚。</span><span class="english">Yellow duck and Power ranger.</span></p>

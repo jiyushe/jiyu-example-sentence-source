@@ -1,5 +1,7 @@
 # leaguer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaguer.md)
+
 <p><span class="chinese">你永远是大联盟在我的眼睛。</span><span class="english">You're always a major leaguer in my eyes.</span></p>
 
 <p><span class="chinese">本公司拥有强大的研发队伍。</span><span class="english">TH Leaguer has very strong Research and Development team.</span></p>

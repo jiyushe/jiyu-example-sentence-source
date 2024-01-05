@@ -1,5 +1,7 @@
 # 业已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeyi.md)
+
 <p><span class="chinese">钱包业已空无分文。</span><span class="english">The purse is empty of its contents.</span></p>
 
 <p><span class="chinese">入世后，开放我国律师业已是大势所趋。</span><span class="english">It is a tendency to open up this trade.</span></p>

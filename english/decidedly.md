@@ -1,5 +1,7 @@
 # decidedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decidedly.md)
+
 <p><span class="chinese">但他们断然古雅。</span><span class="english">But they were decidedly quaint.</span></p>
 
 <p><span class="chinese">这人真是个谜。</span><span class="english">Decidedly this man was an enigma.</span></p>

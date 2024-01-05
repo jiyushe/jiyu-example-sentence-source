@@ -1,5 +1,7 @@
 # grandchild
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandchild.md)
+
 <p><span class="chinese">唐纳德·特朗普添外孙女了。</span><span class="english">Donald Trump has a new grandchild.</span></p>
 
 <p><span class="chinese">孔融是孔子的第二十世孙。</span><span class="english">Kong Rong is Confucius' 20th grandchild.</span></p>

@@ -1,5 +1,7 @@
 # confrontation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confrontation.md)
+
 <p><span class="chinese">两人都不爱好对抗。</span><span class="english">Neither man relishes confrontation.</span></p>
 
 <p><span class="chinese">红珊瑚，狭路相逢。</span><span class="english">Red coral, unavoidable confrontation.</span></p>

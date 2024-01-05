@@ -1,5 +1,7 @@
 # 圣贤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxian.md)
+
 <p><span class="chinese">人非圣贤，安能无所不知。</span><span class="english">No man can know everything.</span></p>
 
 <p><span class="chinese">Google是能让人们转向的圣贤。</span><span class="english">Google is the oracle of redirection.</span></p>

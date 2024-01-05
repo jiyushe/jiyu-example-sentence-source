@@ -1,5 +1,7 @@
 # 响尾蛇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangweishe.md)
+
 <p><span class="chinese">但是，这些响尾蛇饿了。</span><span class="english">But the rattlesnakes are hungry.</span></p>
 
 <p><span class="chinese">嗯，两只蝎子。两只响尾蛇。</span><span class="english">Yeah , two scorpions , two rattlesnakes.</span></p>

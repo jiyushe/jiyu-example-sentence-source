@@ -1,5 +1,7 @@
 # 仙姑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangu.md)
+
 <p><span class="chinese">三仙姑不敢答话。</span><span class="english">Third Fairy dared not reply.</span></p>
 
 <p><span class="chinese">该故事涉及到一个善良的女子和一个邪恶的仙姑。</span><span class="english">The story concerns a good girl and a wicked fairy.</span></p>

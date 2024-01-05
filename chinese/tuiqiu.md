@@ -1,5 +1,7 @@
 # 推求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiqiu.md)
+
 <p><span class="chinese">推求光谱项对于研究原子的结构和光谱十分重要。</span><span class="english">Deducing spectral terms is very important for researching the atomic structure and spectrum.</span></p>
 
 <p><span class="chinese">本论文从N-S出发，推求了模拟宽浅水域沿水深积分平均的二维流动方程。</span><span class="english">Beginning from the N-S equations, the planar two dimensional shallow water equations were derived.</span></p>

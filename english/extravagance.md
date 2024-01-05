@@ -1,5 +1,7 @@
 # extravagance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extravagance.md)
+
 <p><span class="chinese">奢侈最终导致贫困。</span><span class="english">Extravagance ends in want.</span></p>
 
 <p><span class="chinese">铺张浪费将会是个大问题。</span><span class="english">Extravagance will be a problem.</span></p>

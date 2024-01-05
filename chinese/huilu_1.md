@@ -1,5 +1,7 @@
 # 回路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huilu_1.md)
+
 <p><span class="chinese">多回路测试功能。</span><span class="english">Multi-loop test facility.</span></p>
 
 <p><span class="chinese">凯恩说道，“4个液压回路的温度？”</span><span class="english">Cain said, "Four hyd return temps?"</span></p>

@@ -1,5 +1,7 @@
 # overcome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcome.md)
+
 <p><span class="chinese">克服不良嗜好。</span><span class="english">Overcome an addiction.</span></p>
 
 <p><span class="chinese">我后悔莫及。</span><span class="english">I was overcome with remorse.</span></p>

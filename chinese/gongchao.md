@@ -1,5 +1,7 @@
 # 工潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchao.md)
+
 <p><span class="chinese">自那以后，这种大规模的民工潮一直使城市感到头痛。</span><span class="english">Since then, the tide of migrant workers on a large scale had made the city headache.</span></p>
 
 <p><span class="chinese">连续发生的工潮使政府寻求解决方法的企图遭到失败。</span><span class="english">The continuing industrial unrest mocked the government's attempts to find a solution.</span></p>

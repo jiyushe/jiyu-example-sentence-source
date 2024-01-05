@@ -1,5 +1,7 @@
 # preimplantation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preimplantation.md)
+
 <p><span class="chinese">胚胎植入前的诊断。</span><span class="english">Preimplantation genetic diagnosis.</span></p>
 
 <p><span class="chinese">小鼠体细胞核移植重构胚的着床前发育情况。</span><span class="english">Preimplantation development of reconstructed embryos by nuclear transfer was studied.</span></p>

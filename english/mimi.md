@@ -1,5 +1,7 @@
 # mimi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mimi.md)
+
 <p><span class="chinese">咪咪这个名字很好听。</span><span class="english">Mimi is a nice name.</span></p>
 
 <p><span class="chinese">我的猫叫咪咪。</span><span class="english">My cat’s name is Mimi.</span></p>

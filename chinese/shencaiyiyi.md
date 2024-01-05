@@ -1,5 +1,7 @@
 # 神采奕奕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shencaiyiyi.md)
+
 <p><span class="chinese">我减到了123磅她神采奕奕的说。</span><span class="english">I dropped to 123 pounds, she beams.</span></p>
 
 <p><span class="chinese">眼皮消肿啦，眼睛重又神采奕奕啦！</span><span class="english">Eyelid detumescence, the eye is heavy alight!</span></p>

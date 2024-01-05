@@ -1,5 +1,7 @@
 # filariasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filariasis.md)
+
 <p><span class="chinese">淋巴丝虫病并不仅仅只限于圭亚那。</span><span class="english">Lymphatic filariasis isn’t limited to Guyana.</span></p>
 
 <p><span class="chinese">丝虫病很难医治，但是很容易预防。</span><span class="english">Filariasis is difficult to treat, but easy to prevent.</span></p>

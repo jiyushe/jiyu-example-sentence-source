@@ -1,5 +1,7 @@
 # 正片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengpian.md)
+
 <p><span class="chinese">将图层混合模式设置为正片叠底。</span><span class="english">Set the layer blending mode to Multiply</span></p>
 
 <p><span class="chinese">正片九点开始放映到十点半结束。</span><span class="english">The feature started at9 o'clock and ended at ten thirty.</span></p>

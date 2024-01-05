@@ -1,5 +1,7 @@
 # 道听途说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daotingtushuo.md)
+
 <p><span class="chinese">你一定是道听途说。</span><span class="english">You must have heard it through the grapevine.</span></p>
 
 <p><span class="chinese">虽眼见亦不能全信，道听途说更不足信。</span><span class="english">Believe not whatever you see nor half what you hear.</span></p>

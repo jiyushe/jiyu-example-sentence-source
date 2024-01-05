@@ -1,5 +1,7 @@
 # 垮台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuatai.md)
+
 <p><span class="chinese">我想她是不会垮台的。</span><span class="english">I don't think she'll burst up.</span></p>
 
 <p><span class="chinese">反动统治注定要垮台。</span><span class="english">The reactionary rule is doomed.</span></p>

@@ -1,5 +1,7 @@
 # rambling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rambling.md)
+
 <p><span class="chinese">她在东拉西扯些什么呢？</span><span class="english">What is she rambling on about?</span></p>
 
 <p><span class="chinese">他东拉西扯的把真相支吾过去了。</span><span class="english">He stalled off the truth with rambling.</span></p>

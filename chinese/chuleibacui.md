@@ -1,5 +1,7 @@
 # 出类拔萃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuleibacui.md)
+
 <p><span class="chinese">有两家公司执行长的个人小传出类拔萃。</span><span class="english">Two CEO biogs stand out from the crowd.</span></p>
 
 <p><span class="chinese">他闪耀的光是多么地出类拔萃！</span><span class="english">How peerless is the Light that in Him shines!</span></p>

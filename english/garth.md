@@ -1,5 +1,7 @@
 # garth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garth.md)
+
 <p><span class="chinese">贾斯有个不为人知的秘密。</span><span class="english">Garth has a skeleton in his closet.</span></p>
 
 <p><span class="chinese">加思，伙计，放松好吗？你的药呢？</span><span class="english">Garth come on relax all right? Your pills?</span></p>

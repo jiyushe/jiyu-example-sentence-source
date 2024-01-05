@@ -1,5 +1,7 @@
 # 元朝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanchao.md)
+
 <p><span class="chinese">元朝称饺子为“扁食”。</span><span class="english">Thee yuan dynasty called dumplings "dumpling".</span></p>
 
 <p><span class="chinese">成吉思汗，是中国元朝的第一位皇帝，蒙古族人。</span><span class="english">Genghis Khan was the first emperor of the Yuan Dynasty.</span></p>

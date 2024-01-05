@@ -1,5 +1,7 @@
 # 斯文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siwen.md)
+
 <p><span class="chinese">他说话挺斯文的。</span><span class="english">He's a soft-spoken person.</span></p>
 
 <p><span class="chinese">第一位是大卫·斯文森</span><span class="english">The first one is our own David Swensen.</span></p>

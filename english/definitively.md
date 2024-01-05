@@ -1,5 +1,7 @@
 # definitively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/definitively.md)
+
 <p><span class="chinese">因此正统基督教绝对是相信两元论的。</span><span class="english">So orthodoxy is definitively dualist.</span></p>
 
 <p><span class="chinese">然而，说鼠岛确实没有了老鼠还为时过早。</span><span class="english">It is too soon to say that Rat Island is definitively rat-free, however.</span></p>

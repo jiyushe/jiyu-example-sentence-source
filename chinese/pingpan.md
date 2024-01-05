@@ -1,5 +1,7 @@
 # 平盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingpan.md)
+
 <p><span class="chinese">他在天平盘上放了两个砝码。</span><span class="english">He placed two weights in the scale pan.</span></p>
 
 <p><span class="chinese">吊篮和平盘式取样器加大了对水流的阻力。</span><span class="english">The basket and pan types cause an increased resistance to flow.</span></p>

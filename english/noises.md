@@ -1,5 +1,7 @@
 # noises
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noises.md)
+
 <p><span class="chinese">远处若隐若现的车流喧嚣。</span><span class="english">Distant traffic noises.</span></p>
 
 <p><span class="chinese">她正在发出睡眠的噪音。</span><span class="english">She was making sleeping noises.</span></p>

@@ -1,5 +1,7 @@
 # inattentive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inattentive.md)
+
 <p><span class="chinese">如果我怠慢或粗心，我会坠落。</span><span class="english">If I am inattentive or careless, I will fall.</span></p>
 
 <p><span class="chinese">老师责备那个在课堂上不注意听讲的学生。</span><span class="english">The teacher jumped on the inattentive pupil in class.</span></p>

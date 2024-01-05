@@ -1,5 +1,7 @@
 # currant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/currant.md)
+
 <p><span class="chinese">一个白化形式的红醋栗。</span><span class="english">An albino forms of the red currant.</span></p>
 
 <p><span class="chinese">您是园丁，我是栗丛。</span><span class="english">You are the gardener, and I the currant bush.</span></p>

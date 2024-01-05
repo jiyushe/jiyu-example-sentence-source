@@ -1,5 +1,7 @@
 # 元宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanbao.md)
+
 <p><span class="chinese">今天是个好日子，送元宝了！</span><span class="english">The day were good luckly!</span></p>
 
 <p><span class="chinese">泰安金元宝。洁清洗有限公司。</span><span class="english">Taian gold bullions. Cleaning cleansing Limited.</span></p>

@@ -1,5 +1,7 @@
 # 出毛病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chumaobing.md)
+
 <p><span class="chinese">是电视机出毛病了还是摄影机有问题？</span><span class="english">Is it the TV or the video camera?</span></p>
 
 <p><span class="chinese">洗衣机又出毛病了。</span><span class="english">The washing machine has gone phut.</span></p>

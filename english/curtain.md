@@ -1,5 +1,7 @@
 # curtain 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curtain.md)
+
 <p><span class="chinese">随后帷幕落下。</span><span class="english">Then the curtain falls.</span></p>
 
 <p><span class="chinese">这块窗帘布皱起来了。</span><span class="english">This curtain bunches up.</span></p>

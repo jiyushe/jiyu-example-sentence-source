@@ -1,5 +1,7 @@
 # 受精
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujing_1.md)
+
 <p><span class="chinese">精虫朝未受精的卵子冲去。</span><span class="english">Sperm race towards the unfertilized egg.</span></p>
 
 <p><span class="chinese">它们通常是人工受精。</span><span class="english">They are typically artificially inseminated.</span></p>

@@ -1,5 +1,7 @@
 # effortful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effortful.md)
+
 <p><span class="chinese">结构化知识非历经数年苦功不可得</span><span class="english">This structured knowledge is built by years of effortful study</span></p>
 
 <p><span class="chinese">训练不仅要持续，而且要努力。</span><span class="english">Your training has to be not only consistent, but also effortful.</span></p>

@@ -1,5 +1,7 @@
 # 汤汁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangzhi.md)
+
 <p><span class="chinese">买一些浓缩汤汁？</span><span class="english">Buying some soup?</span></p>
 
 <p><span class="chinese">然后过滤汤汁让肉慢慢冷却。</span><span class="english">Filter the broth and let it cool down.</span></p>

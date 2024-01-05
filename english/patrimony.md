@@ -1,5 +1,7 @@
 # patrimony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patrimony.md)
+
 <p><span class="chinese">生来便缺乏道德的遗产。</span><span class="english">They are born without moral patrimony.</span></p>
 
 <p><span class="chinese">三兄弟很快就把这些微不足道的遗产分了。</span><span class="english">They would soon have eaten up all the poor patrimony.</span></p>

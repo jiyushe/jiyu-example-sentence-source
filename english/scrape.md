@@ -1,5 +1,7 @@
 # scrape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrape.md)
+
 <p><span class="chinese">你可能只得一个。</span><span class="english">C You might just scrape by with a C.</span></p>
 
 <p><span class="chinese">搅拌它！刮刮它！揉揉它！烘烘它！</span><span class="english">Stir it! scrape it! Make it! Bake it!</span></p>

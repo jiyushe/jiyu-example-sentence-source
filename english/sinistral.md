@@ -1,5 +1,7 @@
 # sinistral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinistral.md)
+
 <p><span class="chinese">最新错动面产状陡立，存在水平左旋位错的构造地貌证据。</span><span class="english">A steep plane of the offset provides the evidence of horizontal sinistral slip.</span></p>
 
 <p><span class="chinese">最大左行走滑活动时期当在中晚三叠世。</span><span class="english">The forming age of maximum sinistral strike-slip occurred in Middle-Late Triassic.</span></p>

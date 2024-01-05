@@ -1,5 +1,7 @@
 # plunge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plunge.md)
+
 <p><span class="chinese">啊，把我抛向爱的深渊吧——拔除</span><span class="english">Oh plunge me deep in love -- put out</span></p>
 
 <p><span class="chinese">或考虑下汽车销售的大幅下降。</span><span class="english">Or consider the plunge in auto sales.</span></p>

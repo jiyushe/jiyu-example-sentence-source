@@ -1,5 +1,7 @@
 # rhyming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhyming.md)
+
 <p><span class="chinese">有些词牌对词韵的要求是相当严格的。</span><span class="english">Some kinds of poems are very strict about rhyming.</span></p>
 
 <p><span class="chinese">接着读一读吧，来更多地了解一下老伦敦的押韵俚语。</span><span class="english">Read on, to learn more about Cockney rhyming slang.</span></p>

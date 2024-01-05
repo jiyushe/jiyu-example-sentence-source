@@ -1,5 +1,7 @@
 # 有章可循
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhangkexun.md)
+
 <p><span class="chinese">在公路上立标是为了使行驶的车辆有章可循。</span><span class="english">Erecting signs on the road aims to provide traffic rules.</span></p>
 
 <p><span class="chinese">一个五千年文明古国的可贵之处在于，在这里做啥事儿都是有章可循的。</span><span class="english">One nice thing about a five-thousand year old culture is that there are rules.</span></p>

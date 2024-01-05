@@ -1,5 +1,7 @@
 # 幕僚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muliao.md)
+
 <p><span class="chinese">在1989年，我损失的最重要的一个幕僚是贝琪.赖特。</span><span class="english">The biggest staff loss I sustained in 1989 was Betsey Wright.</span></p>
 
 <p><span class="chinese">史密斯上尉奉调担任将军的幕僚。</span><span class="english">Captain Smith was seconded for service on the General's staff.</span></p>

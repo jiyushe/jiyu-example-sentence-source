@@ -1,5 +1,7 @@
 # 热土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/retu.md)
+
 <p><span class="chinese">热土司砰的一声从烤面包机中跳起。</span><span class="english">The hot toast popped up in the toaster.</span></p>
 
 <p><span class="chinese">我们爱着脚下的这片热土。</span><span class="english">We loved this piece of land at the foot.</span></p>

@@ -1,5 +1,7 @@
 # vividness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vividness.md)
+
 <p><span class="chinese">社会里充满了激动效应的例子。</span><span class="english">Society is replete with examples of the vividness effect.</span></p>
 
 <p><span class="chinese">初读时它给人的印象是生动和简洁。</span><span class="english">What strikes at a first reading is its vividness and terseness.</span></p>

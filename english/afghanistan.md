@@ -1,5 +1,7 @@
 # afghanistan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afghanistan.md)
+
 <p><span class="chinese">阿富汗是次要的。</span><span class="english">Afghanistan is secondary.</span></p>
 
 <p><span class="chinese">美国入侵阿富汗。</span><span class="english">The US invades Afghanistan.</span></p>

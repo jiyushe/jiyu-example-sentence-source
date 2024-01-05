@@ -1,5 +1,7 @@
 # intercity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercity.md)
+
 <p><span class="chinese">长途客车旅行在最近的几年里深受欢迎。</span><span class="english">Intercity bus travel has taken off in the last few years.</span></p>
 
 <p><span class="chinese">这是本省最繁忙的市际公路之一。</span><span class="english">This is one of the busiest intercity highways in the province.</span></p>

@@ -1,5 +1,7 @@
 # inappetence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inappetence.md)
+
 <p><span class="chinese">病人诉说他食欲不振。</span><span class="english">The patient complained of inappetence.</span></p>
 
 <p><span class="chinese">食欲不振，上腹部有不适感。</span><span class="english">Inappetence , epigastrium has unwell feeling.</span></p>

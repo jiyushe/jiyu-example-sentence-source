@@ -1,5 +1,7 @@
 # colorific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorific.md)
+
 <p><span class="chinese">格雷格家每个房间都挂着具有浓郁田园色彩的装饰画。</span><span class="english">Greg home every room hung with rich rural colorific adornment.</span></p>
 
 <p><span class="chinese">色彩形态是家具的形态元素之一。家具中的色彩主要由家具材料的固有色和附加色所决定。</span><span class="english">The colorific form is one of the most important elements of the furniture forms.</span></p>

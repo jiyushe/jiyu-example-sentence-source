@@ -1,5 +1,7 @@
 # 地铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ditie.md)
+
 <p><span class="chinese">但地铁的需求量巨大。</span><span class="english">But the need is great.</span></p>
 
 <p><span class="chinese">地铁形象大使！</span><span class="english">The ambassador for metro!</span></p>

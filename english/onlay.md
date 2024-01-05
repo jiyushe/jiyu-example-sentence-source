@@ -1,5 +1,7 @@
 # onlay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onlay.md)
+
 <p><span class="chinese">此后，人们又逐渐研究发展出腹腔内网片镶嵌贴补技术。</span><span class="english">This was followed by the development of the intraperitoneal onlay mesh technique.</span></p>
 
 <p><span class="chinese">膜内化骨贴附于下颌骨表面同期植入种植体可能修复效果更好。</span><span class="english">Intramembranous bone preserves more volumes after onlay grafting than endochondral bone does.</span></p>

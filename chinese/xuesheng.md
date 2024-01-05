@@ -1,5 +1,7 @@
 # 学生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuesheng.md)
+
 <p><span class="chinese">他是个军官学校学生。</span><span class="english">He is a cadet.</span></p>
 
 <p><span class="chinese">简是一名学生。</span><span class="english">Jane is a student.</span></p>

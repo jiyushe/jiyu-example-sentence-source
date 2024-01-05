@@ -1,5 +1,7 @@
 # spine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spine.md)
+
 <p><span class="chinese">没有无刺玫瑰。</span><span class="english">Non c'e rosa senza spine.</span></p>
 
 <p><span class="chinese">它以关节连接于脊骨。</span><span class="english">It is articulated to the spine.</span></p>

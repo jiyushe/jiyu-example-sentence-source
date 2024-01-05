@@ -1,5 +1,7 @@
 # laryngeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laryngeal.md)
+
 <p><span class="chinese">所有一次性使用的喉罩是一样的吗?。</span><span class="english">Are all single-use laryngeal masks the same?</span></p>
 
 <p><span class="chinese">喉返神经支配什么肌肉？</span><span class="english">The external laryngeal nerve innervates what muscles?</span></p>

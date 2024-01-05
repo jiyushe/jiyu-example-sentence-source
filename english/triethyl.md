@@ -1,5 +1,7 @@
 # triethyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triethyl.md)
+
 <p><span class="chinese">经三乙胺中和后得到稳定的自乳化体系。</span><span class="english">Stable self emulsified system was obtained after neutralization by triethyl amine.</span></p>
 
 <p><span class="chinese">经三乙胺中和后可以得到稳定的自乳化体系。</span><span class="english">A stable self emulsified system was obtained after neutralization of triethyl amine.</span></p>

@@ -1,5 +1,7 @@
 # marksmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marksmanship.md)
+
 <p><span class="chinese">他们每天练习枪法。</span><span class="english">They practised marksmanship every day.</span></p>
 
 <p><span class="chinese">还有，你的枪法很准。</span><span class="english">By the way, your marksmanship is quasi -.</span></p>

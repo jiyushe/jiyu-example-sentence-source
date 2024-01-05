@@ -1,5 +1,7 @@
 # rentable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rentable.md)
+
 <p><span class="chinese">一个移动性人口需要的就是能够租得起的房子。</span><span class="english">A mobile population needs rentable homes.</span></p>
 
 <p><span class="chinese">目前，帝国大厦内绝大部分为出租的写字间。</span><span class="english">At present, ESB is mostly filled with rentable space for businesses.</span></p>

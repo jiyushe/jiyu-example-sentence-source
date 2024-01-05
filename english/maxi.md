@@ -1,5 +1,7 @@
 # maxi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maxi.md)
+
 <p><span class="chinese">那件迷嬉式的貂皮大衣要多少钱？</span><span class="english">How much is this maxi fur coat?</span></p>
 
 <p><span class="chinese">哦，那儿的超大酒吧是免费的，哟嚯！</span><span class="english">Oh and the maxi bar is free, yippie!</span></p>

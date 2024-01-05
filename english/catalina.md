@@ -1,5 +1,7 @@
 # catalina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalina.md)
+
 <p><span class="chinese">海洋和圣卡塔利娜岛一直吸引了我。</span><span class="english">The ocean and Santa Catalina Island has always drawn me.</span></p>
 
 <p><span class="chinese">两人逃逸对卡塔利娜岛目的地的绑匪。</span><span class="english">The pair escape their captors at the destination on Catalina Island.</span></p>

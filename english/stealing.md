@@ -1,5 +1,7 @@
 # stealing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stealing.md)
+
 <p><span class="chinese">你在偷换概念。</span><span class="english">You are stealing concept.</span></p>
 
 <p><span class="chinese">他被指控凡有偷窃罪。</span><span class="english">He was accused of stealing.</span></p>

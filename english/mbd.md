@@ -1,5 +1,7 @@
 # mbd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mbd.md)
+
 <p><span class="chinese">几乎所有的现代三维CAD工具有一些实施MBD需要的功能。</span><span class="english">Most all modern 3D CAD tools have some capability for MBD.</span></p>
 
 <p><span class="chinese">结论加味补中益气汤治疗突聋有一定价值。</span><span class="english">Conclusion MBD is more effective in the treatment of sudden deafness than mailening.</span></p>

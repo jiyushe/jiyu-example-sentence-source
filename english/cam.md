@@ -1,5 +1,7 @@
 # cam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cam.md)
+
 <p><span class="chinese">那幽静的剑河。</span><span class="english">The peaceful River Cam.</span></p>
 
 <p><span class="chinese">随后进来了一位年轻人。</span><span class="english">Thn in cam a young man.</span></p>

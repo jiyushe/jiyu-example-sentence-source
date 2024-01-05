@@ -1,5 +1,7 @@
 # characterisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/characterisation.md)
+
 <p><span class="chinese">对于我来说，人物各性化是小说的中心内容。</span><span class="english">For me, characterisation is at the heart of my books.</span></p>
 
 <p><span class="chinese">情节和人物塑造都要归功于萨克雷对社会细节敏锐的捕捉。</span><span class="english">The plot and characterisation are underpinned by Thackeray's acute eye for social detail.</span></p>

@@ -1,5 +1,7 @@
 # hydro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydro.md)
+
 <p><span class="chinese">抽水机抽氢是首选想法。</span><span class="english">Pumped hydro is the first idea.</span></p>
 
 <p><span class="chinese">福伊特水电是福伊特集团旗下的一个分支机构。</span><span class="english">Voith Hydro is a Group Division of Voith.</span></p>

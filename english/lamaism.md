@@ -1,5 +1,7 @@
 # lamaism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamaism.md)
+
 <p><span class="chinese">喇嘛教？莫非又是藏器。</span><span class="english">Lamaism ?Is it Tibetan ware?</span></p>
 
 <p><span class="chinese">当今的蒙古，藏传佛教是最为流行的宗教。</span><span class="english">Today, the most popular religion in Mongolia is Lamaism.</span></p>

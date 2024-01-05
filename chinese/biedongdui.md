@@ -1,5 +1,7 @@
 # 别动队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biedongdui.md)
+
 <p><span class="chinese">电力别动队蓝色声音游侠光新。</span><span class="english">Power Rangers Blue Ranger light of new voices.</span></p>
 
 <p><span class="chinese">1938年他亲自为党卫队别动队制定了合法的地位。</span><span class="english">In 1938 he issued instructions codifying the role of the SS-VT.</span></p>

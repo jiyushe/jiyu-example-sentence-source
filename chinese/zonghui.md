@@ -1,5 +1,7 @@
 # 总会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonghui.md)
+
 <p><span class="chinese">而我总会颔首聆听。</span><span class="english">I nod and listen.</span></p>
 
 <p><span class="chinese">人们总会买进卖出，一直如此。</span><span class="english">People buy and sell.</span></p>

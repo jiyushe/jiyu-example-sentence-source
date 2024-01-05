@@ -1,5 +1,7 @@
 # openwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/openwork.md)
+
 <p><span class="chinese">它也可以是一个非常完善和复杂的设计，装饰镂空。</span><span class="english">It can also be ornamental openwork of a very refined and intricate design.</span></p>
 
 <p><span class="chinese">围绕着环形平台有72座透雕细工的印度塔，内有佛龛，每个佛龛供奉一尊佛像。</span><span class="english">Around the circular platforms are72 openwork stupas, each containing a statue of the Buddha.</span></p>

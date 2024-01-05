@@ -1,5 +1,7 @@
 # 救生圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiushengquan.md)
+
 <p><span class="chinese">投下救生圈并呈文。</span><span class="english">Drop lifebuoys and report.</span></p>
 
 <p><span class="chinese">干电池式救生圈自亮浮灯。</span><span class="english">Self-igniting light dry battery type.</span></p>

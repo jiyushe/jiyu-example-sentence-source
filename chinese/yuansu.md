@@ -1,5 +1,7 @@
 # 元素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuansu.md)
+
 <p><span class="chinese">你们能看到那些元素。</span><span class="english">And you see those.</span></p>
 
 <p><span class="chinese">我找到数组中的第i个元素。</span><span class="english">Oh fudge knuckle. OK.</span></p>

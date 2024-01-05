@@ -1,5 +1,7 @@
 # ob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ob.md)
+
 <p><span class="chinese">位于奥布河上，鄂木斯克东部。</span><span class="english">R. on the Ob River east of Omsk.</span></p>
 
 <p><span class="chinese">那是一个叫做陶伯河上游罗滕堡的城市。</span><span class="english">It is a city called Rottenburg ob der Tauber.</span></p>

@@ -1,5 +1,7 @@
 # 廉洁奉公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianjiefenggong.md)
+
 <p><span class="chinese">答案是廉洁奉公，是的。</span><span class="english">The answer is dutifully, yes.</span></p>
 
 <p><span class="chinese">这位候选人给人一种廉洁奉公的印象。</span><span class="english">The candidate have a mr. clean image.</span></p>

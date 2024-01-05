@@ -1,5 +1,7 @@
 # 魂飞魄散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunfeiposan.md)
+
 <p><span class="chinese">有时吓得你魂飞魄散。</span><span class="english">Occasionally you'll scare the wits out of you.</span></p>
 
 <p><span class="chinese">当我面对看见老虎时吓得我魂飞魄散。</span><span class="english">I was frightened out of my wits when I met the tiger face to face.</span></p>

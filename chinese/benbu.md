@@ -1,5 +1,7 @@
 # 本部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benbu.md)
+
 <p><span class="chinese">这位警察给本部打电话报告他的新发现。</span><span class="english">The policeman rang in to report his new discovery.</span></p>
 
 <p><span class="chinese">在符合本部的规限下，政府船舶可注册。</span><span class="english">Subject to this Part, a Government ship is registrable.</span></p>

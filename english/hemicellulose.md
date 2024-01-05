@@ -1,5 +1,7 @@
 # hemicellulose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemicellulose.md)
+
 <p><span class="chinese">除了纤维素，还有半纤维素和木质素。</span><span class="english">Besides cellulose, there are hemicellulose and lignin.</span></p>
 
 <p><span class="chinese">目的探讨海带半纤维素对血栓形成的影响。</span><span class="english">Objective To study the effect of laminaria hemicellulose on thrombus formation.</span></p>

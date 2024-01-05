@@ -1,5 +1,7 @@
 # sheepskin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheepskin.md)
+
 <p><span class="chinese">这是羊皮的。</span><span class="english">This is sheepskin.</span></p>
 
 <p><span class="chinese">常用的有猪皮、牛皮、羊皮等。</span><span class="english">Commonly used There pigskin, cowhide , sheepskin and so on.</span></p>

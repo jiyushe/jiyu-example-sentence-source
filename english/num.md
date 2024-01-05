@@ -1,5 +1,7 @@
 # num
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/num.md)
+
 <p><span class="chinese">斯卡吉尔在1981年成为全国矿工工会的主席。</span><span class="english">Scargill became president of the NUM in 1981.</span></p>
 
 <p><span class="chinese">数码锁定键和虚拟数字键盘都没有了。</span><span class="english">The Num Lock key and virtual numeric keyboard are gone.</span></p>

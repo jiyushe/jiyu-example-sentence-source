@@ -1,5 +1,7 @@
 # portland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portland.md)
+
 <p><span class="chinese">波特兰横街的圣约瑟教堂。</span><span class="english">Saint Joseph's church, Portland row.</span></p>
 
 <p><span class="chinese">骑士今天在主场以97-92加时击败了开拓者。</span><span class="english">The Cavaliers beat Portland 97-92 in overtime.</span></p>

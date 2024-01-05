@@ -1,5 +1,7 @@
 # 王族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangzu_1.md)
+
 <p><span class="chinese">他的妻子是王族的后裔。</span><span class="english">His wife was of royal ancestry.</span></p>
 
 <p><span class="chinese">王族家庭由国王，王后以及他们的支属构成。</span><span class="english">The royal family consists of the king and queen and their relations.</span></p>

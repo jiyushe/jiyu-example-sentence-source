@@ -1,5 +1,7 @@
 # mom 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mom.md)
+
 <p><span class="chinese">还有妈妈的教诲？</span><span class="english">Their mom?</span></p>
 
 <p><span class="chinese">妈妈，我爱你。</span><span class="english">I love you mom.</span></p>

@@ -1,5 +1,7 @@
 # 预演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyan_3.md)
+
 <p><span class="chinese">和孩子预演可能出现的险情。</span><span class="english">Role-play possible situations with the child.</span></p>
 
 <p><span class="chinese">我们在演讲比赛前预演了好几天。</span><span class="english">We rehearsed for days before the speech contest.</span></p>

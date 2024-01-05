@@ -1,5 +1,7 @@
 # bowyer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowyer.md)
+
 <p><span class="chinese">制弓作坊允许训练基本的远程部队。</span><span class="english">Bowyer allows for the recruitment of basic missile units.</span></p>
 
 <p><span class="chinese">伯明翰城的中场球员李鲍耶自信他将很快结束目前的进球荒。</span><span class="english">Birmingham City midfielder Lee Bowyer is confident he will end his current goal drought soon.</span></p>

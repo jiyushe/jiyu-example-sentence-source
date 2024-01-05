@@ -1,5 +1,7 @@
 # 要面子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaomianzi.md)
+
 <p><span class="chinese">男人嘛毕竟都是要面子的。</span><span class="english">Man be keen on face-saving after all.</span></p>
 
 <p><span class="chinese">很重要的一个原因就是要面子罢了。</span><span class="english">It is a question of pride as much as anything else.</span></p>

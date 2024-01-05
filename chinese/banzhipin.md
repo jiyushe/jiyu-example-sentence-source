@@ -1,5 +1,7 @@
 # 半制品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banzhipin.md)
+
 <p><span class="chinese">其它黄金，非货币用，半制品形状。</span><span class="english">Semi-manufactured forms, other gold, non-monetary.</span></p>
 
 <p><span class="chinese">铱，锇及钌，半制品形状。</span><span class="english">Iridium, osmium and ruthenium, in semi-manufactured form.</span></p>

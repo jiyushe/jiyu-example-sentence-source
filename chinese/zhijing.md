@@ -1,5 +1,7 @@
 # 止境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijing.md)
+
 <p><span class="chinese">他的野心毫无止境。</span><span class="english">His ambition is unbounded.</span></p>
 
 <p><span class="chinese">管理水平的提升是没有止境的。</span><span class="english">Management level promotion is no end.</span></p>

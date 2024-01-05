@@ -1,5 +1,7 @@
 # libby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libby.md)
+
 <p><span class="chinese">有些人是每周都会给我发邮件。</span><span class="english">Some email me every week, " Libby says.</span></p>
 
 <p><span class="chinese">利比说，那是因为它是特拉的房子！</span><span class="english">Libby said, That's because it's Tera's house!</span></p>

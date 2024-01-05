@@ -1,5 +1,7 @@
 # tongue 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tongue.md)
+
 <p><span class="chinese">牛舌肉。</span><span class="english">Beef tongue.</span></p>
 
 <p><span class="chinese">舌吻。</span><span class="english">The tongue kiss.</span></p>

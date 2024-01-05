@@ -1,5 +1,7 @@
 # 恶语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eyu_1.md)
+
 <p><span class="chinese">恶语比利剑更伤人。</span><span class="english">Words cut more than swords.</span></p>
 
 <p><span class="chinese">恶语有时伤人比刀剑更厉害。</span><span class="english">Sometimes words hurt more than swords.</span></p>

@@ -1,5 +1,7 @@
 # commensurate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commensurate.md)
+
 <p><span class="chinese">与我们面临的需求和挑战是否相称？</span><span class="english">Is it commensurate with the need and challenge that we face?</span></p>
 
 <p><span class="chinese">他的藏书量与镇上图书馆不相上下。</span><span class="english">His collection of books was commensurate with that of a town library.</span></p>

@@ -1,5 +1,7 @@
 # backstop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backstop.md)
+
 <p><span class="chinese">这支队错要一个更加可靠的接球手。</span><span class="english">The team needs a more reliable backstop.</span></p>
 
 <p><span class="chinese">政府准入权可以分几种形式。</span><span class="english">The government backstop might take a few forms.</span></p>

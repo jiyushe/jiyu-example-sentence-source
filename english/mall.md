@@ -1,5 +1,7 @@
 # mall 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mall.md)
+
 <p><span class="chinese">这个数量太长了！</span><span class="english">The quantity is toos mall !</span></p>
 
 <p><span class="chinese">我从这家商场里买了个小戒指。</span><span class="english">I got a circlet from the mall.</span></p>

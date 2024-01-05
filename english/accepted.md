@@ -1,5 +1,7 @@
 # accepted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accepted.md)
+
 <p><span class="chinese">因此，我接受了他的提议。</span><span class="english">So I accepted his offer.</span></p>
 
 <p><span class="chinese">他接受了这份声明。</span><span class="english">He accepted the statement.</span></p>

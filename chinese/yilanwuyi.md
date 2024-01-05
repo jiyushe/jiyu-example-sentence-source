@@ -1,5 +1,7 @@
 # 一览无遗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilanwuyi.md)
+
 <p><span class="chinese">它是高地平原可以一览无遗。</span><span class="english">It is high and flat ground overlooking everything.</span></p>
 
 <p><span class="chinese">在顶上，我们俯瞰整个城市，一览无遗。</span><span class="english">At the top we had a bird's-eye view of the entire city.</span></p>

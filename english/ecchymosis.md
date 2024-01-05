@@ -1,5 +1,7 @@
 # ecchymosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecchymosis.md)
+
 <p><span class="chinese">术后复查有1例病灶残留，皮肤淤血5例，局部血肿7例。</span><span class="english">Subcutaneous ecchymosis was found in 5 patients and hematoma in 7 patients after operation.</span></p>
 
 <p><span class="chinese">延尺愈合的皮瓣远端有水泡或瘀斑。</span><span class="english">The clinical sign of delay healing shown blister or ecchymosis on distal part of skin flap.</span></p>

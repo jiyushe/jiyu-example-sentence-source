@@ -1,5 +1,7 @@
 # psych
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psych.md)
+
 <p><span class="chinese">开个心理诊所。</span><span class="english">Open up a psych clinic.</span></p>
 
 <p><span class="chinese">你想给我来个下马威？</span><span class="english">Are you trying to psych me out ?</span></p>

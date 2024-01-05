@@ -1,5 +1,7 @@
 # vertebra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vertebra.md)
+
 <p><span class="chinese">有什么好方法可以防止颈椎痛？</span><span class="english">What good method can prevent cervical vertebra painful?</span></p>
 
 <p><span class="chinese">电疗如何治疗颈椎病？</span><span class="english">How does electrotherapy treat cervical vertebra disease?</span></p>

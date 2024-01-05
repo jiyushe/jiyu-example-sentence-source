@@ -1,5 +1,7 @@
 # stalin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stalin.md)
+
 <p><span class="chinese">他期待着捡点剩余的渣子。</span><span class="english">Stalin expected to pick up the pieces.</span></p>
 
 <p><span class="chinese">外蒙古是谁把它卖给史太林的？</span><span class="english">Who sold away Outer Mongolia to Stalin?</span></p>

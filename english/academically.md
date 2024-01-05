@@ -1,5 +1,7 @@
 # academically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/academically.md)
+
 <p><span class="chinese">我成绩优异。</span><span class="english">I was doing well academically.</span></p>
 
 <p><span class="chinese">学术上，徐是出色的。</span><span class="english">Academically Hsu was outstanding.</span></p>

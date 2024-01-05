@@ -1,5 +1,7 @@
 # 面目一新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmuyixin.md)
+
 <p><span class="chinese">每天都面目一新。</span><span class="english">Each day takes on a new face.</span></p>
 
 <p><span class="chinese">让你的餐厅用桌面目一新吧！</span><span class="english">Reclaim Your Dining Room Table!</span></p>

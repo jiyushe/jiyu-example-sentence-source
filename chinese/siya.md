@@ -1,5 +1,7 @@
 # 嘶哑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siya.md)
+
 <p><span class="chinese">“不，”我用嘶哑的声音大喊着。</span><span class="english">"No!" I croaked.</span></p>
 
 <p><span class="chinese">“对不起。”他用嘶哑的嗓子说。</span><span class="english">"Excuse me, " he said hoarsely.</span></p>

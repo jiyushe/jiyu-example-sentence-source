@@ -1,5 +1,7 @@
 # antebellum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antebellum.md)
+
 <p><span class="chinese">相比佛罗里达州的任何地方，该镇拥有更多的历史遗址，其历史可追溯到南北战争之前。</span><span class="english">It also boasts more antebellum sites than anywhere else in Florida.</span></p>
 
 <p><span class="chinese">从十九世纪二十年代起至内战前,南方的经济毫无疑问就是奴隶经济</span><span class="english">The antebellum Southern economy became by the 1820s, without any question, a slave economy.</span></p>

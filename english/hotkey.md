@@ -1,5 +1,7 @@
 # hotkey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotkey.md)
+
 <p><span class="chinese">您可以执行任务，从一个热键。</span><span class="english">You can run a task from a hotkey.</span></p>
 
 <p><span class="chinese">当您要结束的基准时，再次按下热键。</span><span class="english">When you want to end the benchmark, press the Hotkey again.</span></p>

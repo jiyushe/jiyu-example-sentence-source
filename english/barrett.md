@@ -1,5 +1,7 @@
 # barrett
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barrett.md)
+
 <p><span class="chinese">不可能变成奥利佛巴拉特三世。</span><span class="english">It's impossible to get to Oliver Barrett lll.</span></p>
 
 <p><span class="chinese">但Barrett指出FIM的盈利率也在上升。</span><span class="english">But Barrett says that margins at FIM are on the rise.</span></p>

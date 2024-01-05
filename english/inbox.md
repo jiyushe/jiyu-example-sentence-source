@@ -1,5 +1,7 @@
 # inbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inbox.md)
+
 <p><span class="chinese">我刚在收件箱里看到这篇文章。</span><span class="english">I just received this in my inbox.</span></p>
 
 <p><span class="chinese">你像我一样是个收件箱洁癖症患者吗？</span><span class="english">Are you an inbox zero freak like me?</span></p>

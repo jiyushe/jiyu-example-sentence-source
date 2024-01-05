@@ -1,5 +1,7 @@
 # 木犀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muxi_1.md)
+
 <p><span class="chinese">木犀草香味已杳然消失。</span><span class="english">The perfume of mignonette had departed.</span></p>
 
 <p><span class="chinese">大浪导致翻船，“木犀草号“沉没。</span><span class="english">Wave hit the ship,and  Mignonette went down.</span></p>

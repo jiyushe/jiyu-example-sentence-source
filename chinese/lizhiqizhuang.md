@@ -1,5 +1,7 @@
 # 理直气壮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizhiqizhuang.md)
+
 <p><span class="chinese">现在我可以于心无愧和理直气壮地和易洛魁人谈判了。</span><span class="english">Now I can speak boldly to the Iroquois, and with an easy conscience.</span></p>
 
 <p><span class="chinese">反腐败斗争能否取得胜利的一个关键问题是敢不敢理直气壮地依靠人民群众。</span><span class="english">To rely on the people confidently is the Key to winning out against corruption.</span></p>

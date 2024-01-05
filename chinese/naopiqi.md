@@ -1,5 +1,7 @@
 # 闹脾气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naopiqi.md)
+
 <p><span class="chinese">你先不要开车了好吗？孩子在闹脾气呢。</span><span class="english">Would you stop driving?The kid is annoyed.</span></p>
 
 <p><span class="chinese">他说，很快，对大多数孩子来说，“真正的闹脾气行为会开始发生变化。</span><span class="english">Soon, for most children, 'the real tantrums start to change, ' he says.</span></p>

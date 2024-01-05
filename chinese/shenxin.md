@@ -1,5 +1,7 @@
 # 身心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenxin.md)
+
 <p><span class="chinese">这样他在身心两方面都成长起来。</span><span class="english">Thus he grew in body and soul.</span></p>
 
 <p><span class="chinese">将身心与肢干铺于床面，仅此享味。</span><span class="english">Lying on it, just enjoy the taste.</span></p>

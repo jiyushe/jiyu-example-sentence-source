@@ -1,5 +1,7 @@
 # 开支
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaizhi.md)
+
 <p><span class="chinese">注意小开支。</span><span class="english">Beware small expenses.</span></p>
 
 <p><span class="chinese">帮公司节省开支。</span><span class="english">Save your company money.</span></p>

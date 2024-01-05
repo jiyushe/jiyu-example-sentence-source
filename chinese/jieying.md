@@ -1,5 +1,7 @@
 # 接应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieying.md)
+
 <p><span class="chinese">在足球赛中后卫接应前锋。</span><span class="english">In football the linebacker backs up the linemen.</span></p>
 
 <p><span class="chinese">他打电话叫巴利克和苏克雷在后面接应他。</span><span class="english">He calls Bellick and Sucre to have them meet him out back.</span></p>

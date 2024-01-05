@@ -1,5 +1,7 @@
 # unassisted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unassisted.md)
+
 <p><span class="chinese">从出生婴儿的使用，直到能够坐在直立无辅助。</span><span class="english">Use from birth until baby is able to sit upright unassisted.</span></p>
 
 <p><span class="chinese">它的精美脆，感觉无人，快速和轻。</span><span class="english">It's beautifully crisp, feeling unassisted , quick and light.</span></p>

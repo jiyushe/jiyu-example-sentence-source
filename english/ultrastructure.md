@@ -1,5 +1,7 @@
 # ultrastructure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrastructure.md)
+
 <p><span class="chinese">在本文中，提出了一种衣壳超微结构模式图。</span><span class="english">An ultrastructure model of nucleocapsid has been proposed.</span></p>
 
 <p><span class="chinese">卵发生进行了超微结构的研究。</span><span class="english">The ultrastructure of oogenesis in the fern Osmunda cinnamomea L.</span></p>

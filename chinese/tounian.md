@@ -1,5 +1,7 @@
 # 头年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tounian.md)
+
 <p><span class="chinese">种植的头年不要使用化肥。</span><span class="english">Do not use fertilizer for the first year.</span></p>
 
 <p><span class="chinese">几天后，达芙妮的专业指导以及小屋主人的细心照料，改变了这头年轻小象。</span><span class="english">In a few days, Daphne's expertise and the lodge owner's care transformed the youngster.</span></p>

@@ -1,5 +1,7 @@
 # cess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cess.md)
+
 <p><span class="chinese">没有您无私的奉献，就不会有我们今天的成功。</span><span class="english">Without your unselfish dedica- tion could we achieve no suc- cess today.</span></p>
 
 <p><span class="chinese">使用水平切边模具，可以完成轮辐的水平切边加工。</span><span class="english">With horizontal trimming die, horizontal trimming pro- cess can be fulfilled.</span></p>

@@ -1,5 +1,7 @@
 # overcompensate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overcompensate.md)
+
 <p><span class="chinese">过度补偿错误。</span><span class="english">Overcompensate for mistakes.</span></p>
 
 <p><span class="chinese">你必须超常赔偿我的损失。</span><span class="english">You must  overcompensate  for my loss.</span></p>

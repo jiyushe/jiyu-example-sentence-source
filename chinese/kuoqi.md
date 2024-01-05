@@ -1,5 +1,7 @@
 # 阔气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuoqi.md)
+
 <p><span class="chinese">她住在豪华的旅馆里，过得真阔气。</span><span class="english">He stays in the swankiest hotels.</span></p>
 
 <p><span class="chinese">他的衣着过于阔气。</span><span class="english">He is too extravagant with his clothes.</span></p>

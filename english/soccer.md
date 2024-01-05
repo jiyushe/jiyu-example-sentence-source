@@ -1,5 +1,7 @@
 # soccer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soccer.md)
+
 <p><span class="chinese">多尼喜欢足球。</span><span class="english">Donny likes soccer.</span></p>
 
 <p><span class="chinese">他选择了足球。</span><span class="english">And he chose soccer.</span></p>

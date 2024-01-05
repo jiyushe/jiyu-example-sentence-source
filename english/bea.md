@@ -1,5 +1,7 @@
 # bea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bea.md)
+
 <p><span class="chinese">他想了想，觉得这个赌法很安全。</span><span class="english">He thinks it over and decides this would bea safe bet.</span></p>
 
 <p><span class="chinese">如果东亚银行出现在被收购名单上，李嘉诚势必能快速获利。</span><span class="english">If BEA is on that list, Li Ka-Shing stands to make a quick profit.</span></p>

@@ -1,5 +1,7 @@
 # untidy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untidy.md)
+
 <p><span class="chinese">她的头发很凌乱。</span><span class="english">Her hair is untidy.</span></p>
 
 <p><span class="chinese">我的房间看起来很不整洁。</span><span class="english">My room looks very untidy.</span></p>

@@ -1,5 +1,7 @@
 # paging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paging.md)
+
 <p><span class="chinese">塞思正翻看着一本书。</span><span class="english">Seth was paging through a book.</span></p>
 
 <p><span class="chinese">po——写入页面空间的页面。</span><span class="english">po -- Pages paged out to paging space.</span></p>

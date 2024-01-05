@@ -1,5 +1,7 @@
 # 植株
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhu_2.md)
+
 <p><span class="chinese">一块田的植株可以被蚜虫盖满。</span><span class="english">A field may be smothered with aphids.</span></p>
 
 <p><span class="chinese">植株生长势旺，抗逆性强。</span><span class="english">Plant growth power, strong resistance.</span></p>

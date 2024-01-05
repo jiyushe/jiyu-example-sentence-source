@@ -1,5 +1,7 @@
 # 检测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiance.md)
+
 <p><span class="chinese">我不信任血检检测。</span><span class="english">I don't trust it.</span></p>
 
 <p><span class="chinese">一个发情检测工具。</span><span class="english">A heat detection tool.</span></p>

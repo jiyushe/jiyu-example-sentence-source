@@ -1,5 +1,7 @@
 # test
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/test.md)
+
 <p><span class="chinese">测验分数?。</span><span class="english">Test scores?</span></p>
 
 <p><span class="chinese">测试还是调试？</span><span class="english">Test or debug?</span></p>

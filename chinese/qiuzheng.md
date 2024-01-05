@@ -1,5 +1,7 @@
 # 求证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuzheng.md)
+
 <p><span class="chinese">我会谨慎地求证这一点</span><span class="english">I want to be careful about qualifying that.</span></p>
 
 <p><span class="chinese">求证这里的意思是去试验，尝试所有的东西“</span><span class="english">Prove here means "to test, to try all things."</span></p>

@@ -1,5 +1,7 @@
 # 中词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongci.md)
+
 <p><span class="chinese">汉语中词的兼类是一个普遍存在的现象。</span><span class="english">Category ambiguity in Chinese is an universal phenomenon.</span></p>
 
 <p><span class="chinese">最后，探讨了此部分中词和词义的关系。</span><span class="english">Finally, has discussed relations between words and the word meaning in this part.</span></p>

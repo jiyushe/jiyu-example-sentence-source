@@ -1,5 +1,7 @@
 # nematode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nematode.md)
+
 <p><span class="chinese">松材线虫是一种松树寄生虫。</span><span class="english">Pine wood nematode is a parasite of pine trees.</span></p>
 
 <p><span class="chinese">此外还研究了苦豆碱对松材线虫运动的影响。</span><span class="english">In addition, the effects of aloperine on pine wood nematode is studied.</span></p>

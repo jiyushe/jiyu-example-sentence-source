@@ -1,5 +1,7 @@
 # bluegrass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluegrass.md)
+
 <p><span class="chinese">肯塔基州的蓝草国。</span><span class="english">Kentucky is the Bluegrass State.</span></p>
 
 <p><span class="chinese">肯塔基州别名是“蓝草州”。</span><span class="english">Kentucky is the Bluegrass State.</span></p>

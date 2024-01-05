@@ -1,5 +1,7 @@
 # 呈报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengbao.md)
+
 <p><span class="chinese">你都可以直接呈报大队长。</span><span class="english">You can direct report to the senior colonel.</span></p>
 
 <p><span class="chinese">食物中毒是一个须呈报的疾病，在英国。</span><span class="english">Food poisoning is a notifiable disease in the UK.</span></p>

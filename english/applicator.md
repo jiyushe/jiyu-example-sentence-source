@@ -1,5 +1,7 @@
 # applicator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applicator.md)
+
 <p><span class="chinese">使用专用点药器。</span><span class="english">Use the special applicator.</span></p>
 
 <p><span class="chinese">扭线机与卡式模可快速切换。</span><span class="english">Twister and applicator can be changed quickly.</span></p>

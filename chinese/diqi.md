@@ -1,5 +1,7 @@
 # 地契
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diqi.md)
+
 <p><span class="chinese">你会收到地契，以示所有权。</span><span class="english">You receive the Title Deed card showing ownership.</span></p>
 
 <p><span class="chinese">抵押价格印在地契上。</span><span class="english">The mortgage value is printed on each Title Deed card.</span></p>

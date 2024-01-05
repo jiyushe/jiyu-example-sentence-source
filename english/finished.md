@@ -1,5 +1,7 @@
 # finished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finished.md)
+
 <p><span class="chinese">她的回答彻底把他压服了。</span><span class="english">Her answer finished him.</span></p>
 
 <p><span class="chinese">好吧，美国已经玩完了。</span><span class="english">Ok, America is finished.</span></p>

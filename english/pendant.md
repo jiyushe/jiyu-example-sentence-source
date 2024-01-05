@@ -1,5 +1,7 @@
 # pendant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pendant.md)
+
 <p><span class="chinese">我给了她一个红宝石垂饰。</span><span class="english">I gave her a ruby pendant.</span></p>
 
 <p><span class="chinese">在垂饰上镶绿宝石。</span><span class="english">Set an emerald in a pendant.</span></p>

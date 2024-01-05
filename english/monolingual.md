@@ -1,5 +1,7 @@
 # monolingual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monolingual.md)
+
 <p><span class="chinese">单语儿童不会回答。</span><span class="english">The monolingual children couldn’t answer.</span></p>
 
 <p><span class="chinese">但我们也有必要让那些单语的成年人也知道历史。</span><span class="english">But monolingual adults need to be reminded of the past too.</span></p>

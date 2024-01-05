@@ -1,5 +1,7 @@
 # azeotrope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azeotrope.md)
+
 <p><span class="chinese">这时就是一个负的共沸混合物。</span><span class="english">And a negative azeotrope here.</span></p>
 
 <p><span class="chinese">这样的恒沸溶液叫做共沸物。</span><span class="english">Such a constant-boiling solution is called an azeotrope.</span></p>

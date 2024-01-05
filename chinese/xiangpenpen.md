@@ -1,5 +1,7 @@
 # 香喷喷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpenpen.md)
+
 <p><span class="chinese">这下就能吃到香喷喷的米饭了。</span><span class="english">We can have some tasty rice now.</span></p>
 
 <p><span class="chinese">凯萨沙拉的一切加上香喷喷的熏鸡肉。</span><span class="english">All of the above plus smoked chicken.</span></p>

@@ -1,5 +1,7 @@
 # 实则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shize.md)
+
 <p><span class="chinese">很多外企制造账面亏损假相，实则为逃避税收。</span><span class="english">They escape tax by the pseudophase of book loss.</span></p>
 
 <p><span class="chinese">我猜这场突然的暴风雪貌似灾祸，实则是福啊！</span><span class="english">I guess the sudden storm was really a blessing in disguise!</span></p>

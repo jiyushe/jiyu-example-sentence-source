@@ -1,5 +1,7 @@
 # intersex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intersex.md)
+
 <p><span class="chinese">大量中间性的病例可以追溯到激素的致病原因。</span><span class="english">A number of intersex conditions can be traced to hormonal causes.</span></p>
 
 <p><span class="chinese">ILGA国际男女同性恋联合会3月8日关于北美新闻一则。</span><span class="english">INTERNATIONAL LESBIAN, GAY, BISEXUAL, TRANS AND INTERSEX ASSOCIATION</span></p>

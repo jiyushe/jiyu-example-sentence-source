@@ -1,5 +1,7 @@
 # syphilis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syphilis.md)
+
 <p><span class="chinese">滴虫病比梅毒常见。</span><span class="english">Trichomoniasis is more common than syphilis.</span></p>
 
 <p><span class="chinese">汤显祖死因是梅毒不足信。</span><span class="english">The legent about the death of syphilis of Mr.</span></p>

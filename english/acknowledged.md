@@ -1,5 +1,7 @@
 # acknowledged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acknowledged.md)
+
 <p><span class="chinese">他承认射了那只鸟。</span><span class="english">He acknowledged shooting the bird.</span></p>
 
 <p><span class="chinese">她承认他为自己的继承人。</span><span class="english">She  acknowledged him as her heir.</span></p>

@@ -1,5 +1,7 @@
 # 比量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biliang.md)
+
 <p><span class="chinese">质比量更重要。</span><span class="english">Quality matters more than quantity.</span></p>
 
 <p><span class="chinese">对我而言，质比量更重要。</span><span class="english">To me, quality is more important than quantity.</span></p>

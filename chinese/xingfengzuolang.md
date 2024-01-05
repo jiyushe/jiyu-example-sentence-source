@@ -1,5 +1,7 @@
 # 兴风作浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingfengzuolang.md)
+
 <p><span class="chinese">忘了熊与牛吧。现在在华尔街兴风作浪的是蜜蜂。</span><span class="english">Forget bears and bulls. It's bees that are making waves on Wall Street.</span></p>
 
 <p><span class="chinese">桑兹兴风作浪之后不久，丹尼斯又回到了交易界。</span><span class="english">Soon after the Sands dustup , Dennis staged another remarkable comeback.</span></p>

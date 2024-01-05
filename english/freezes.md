@@ -1,5 +1,7 @@
 # freezes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freezes.md)
+
 <p><span class="chinese">这条鱼冷藏为隹。</span><span class="english">This fish freezes well.</span></p>
 
 <p><span class="chinese">淡水在摄氏零度结冰。</span><span class="english">Fresh water freezes at 0℃.</span></p>

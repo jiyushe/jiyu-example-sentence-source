@@ -1,5 +1,7 @@
 # equalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equalize.md)
+
 <p><span class="chinese">风险估值走低，事情趋于平衡。</span><span class="english">Valuations go down. Things equalize.</span></p>
 
 <p><span class="chinese">主队十分钟后扳平。</span><span class="english">The host team equalize ten minutes later.</span></p>

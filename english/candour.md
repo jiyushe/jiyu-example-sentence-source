@@ -1,5 +1,7 @@
 # candour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candour.md)
+
 <p><span class="chinese">我很欣赏这种坦率。</span><span class="english">I appreciate that candour.</span></p>
 
 <p><span class="chinese">我们需要高粱舅的坦率来驱除虚假污垢。</span><span class="english">We need Uncle Gao-liang's candour to blow away the cobwebs of hypocrisy.</span></p>

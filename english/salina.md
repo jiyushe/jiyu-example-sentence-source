@@ -1,5 +1,7 @@
 # salina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salina.md)
+
 <p><span class="chinese">别这样说，赛利娜，这对他真的是个好机会。</span><span class="english">Don’t say that, Salina. This is a good chance for him.</span></p>
 
 <p><span class="chinese">我还没来得及开口，赛利娜说，“她给喜鹊拿了些表格。</span><span class="english">Before I could speak, Salina said, “She is got some papers for Magpie.</span></p>

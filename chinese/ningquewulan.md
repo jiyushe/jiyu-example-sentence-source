@@ -1,5 +1,7 @@
 # 宁缺毋滥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningquewulan.md)
+
 <p><span class="chinese">她一直坚持宁缺毋滥。</span><span class="english">She has been insisting patient.</span></p>
 
 <p><span class="chinese">请慎重选择你的人际关系，宁缺毋滥。</span><span class="english">Relationships must be chosen wisely.</span></p>

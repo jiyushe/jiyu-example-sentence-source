@@ -1,5 +1,7 @@
 # 垂死挣扎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuisizhengzha.md)
+
 <p><span class="chinese">比如存在着忍饥挨饿的孩子或者垂死挣扎的母亲。</span><span class="english">Children starving, mothers dying.</span></p>
 
 <p><span class="chinese">这是一尊“垂死挣扎的高卢人”的雕塑。</span><span class="english">It is the statue of the "Dying Gaul".</span></p>

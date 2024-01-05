@@ -1,5 +1,7 @@
 # ninetieth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ninetieth.md)
+
 <p><span class="chinese">终于当第九十九个小石子被放进圈圈的?。</span><span class="english">The ninetieth one came in at last.</span></p>
 
 <p><span class="chinese">她在那场比赛中排名第九十。</span><span class="english">She was ninetieth in the competition.</span></p>

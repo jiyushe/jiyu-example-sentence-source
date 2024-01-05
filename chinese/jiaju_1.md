@@ -1,5 +1,7 @@
 # 加剧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaju_1.md)
+
 <p><span class="chinese">道德进退两难加剧了。</span><span class="english">The moral dilemmas intensified.</span></p>
 
 <p><span class="chinese">矛盾正在加剧。</span><span class="english">The contradictions are sharpening.</span></p>

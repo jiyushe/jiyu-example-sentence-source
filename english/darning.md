@@ -1,5 +1,7 @@
 # darning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darning.md)
+
 <p><span class="chinese">我讨厌织补活儿。</span><span class="english">I hate darning.</span></p>
 
 <p><span class="chinese">我们坐著织补。</span><span class="english">We sat doing the darning.</span></p>

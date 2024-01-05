@@ -1,5 +1,7 @@
 # springer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/springer.md)
+
 <p><span class="chinese">我一直想要一蹦蹦跳跳的狗。</span><span class="english">I've always wanted a springer spaniel.</span></p>
 
 <p><span class="chinese">我一直想要一条狗。</span><span class="english">I've always wanted a springer spaniel.</span></p>

@@ -1,5 +1,7 @@
 # 起始
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishi_7.md)
+
 <p><span class="chinese">自定义起始页。</span><span class="english">Custom Start Pages.</span></p>
 
 <p><span class="chinese">为什么起始速度慢？</span><span class="english">Why the slow start?</span></p>

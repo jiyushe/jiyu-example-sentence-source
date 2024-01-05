@@ -1,5 +1,7 @@
 # backcross
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backcross.md)
+
 <p><span class="chinese">但受精指数仍然较低，很难获得回交种子。</span><span class="english">So it was difficult to obtain seeds by backcross.</span></p>
 
 <p><span class="chinese">上述结果通过回交试验得到进一步验证。</span><span class="english">The results were verified by backcross inheritance experiment.</span></p>

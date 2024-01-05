@@ -1,5 +1,7 @@
 # haughtiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haughtiness.md)
+
 <p><span class="chinese">她责备他傲慢无礼。</span><span class="english">She called him on his haughtiness.</span></p>
 
 <p><span class="chinese">父母取笑我的高傲。</span><span class="english">My parents laughed at my haughtiness.</span></p>

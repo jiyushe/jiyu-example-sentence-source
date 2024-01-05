@@ -1,5 +1,7 @@
 # dhl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dhl.md)
+
 <p><span class="chinese">我在敦豪国际快递的快递帐号为1234567。</span><span class="english">My DHL account number is 1234567.</span></p>
 
 <p><span class="chinese">DHL国际快递服务。</span><span class="english">DHL International Courier Service.</span></p>

@@ -1,5 +1,7 @@
 # spawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spawn.md)
+
 <p><span class="chinese">许多海洋鱼类是在淡水河里产卵的。</span><span class="english">Many sea fishes spawn in rivers.</span></p>
 
 <p><span class="chinese">撒旦之子最怕什么呢？</span><span class="english">The only thing feared by the spawn of Satan?</span></p>

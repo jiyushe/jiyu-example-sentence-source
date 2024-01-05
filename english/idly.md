@@ -1,5 +1,7 @@
 # idly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idly.md)
+
 <p><span class="chinese">站在一旁无所事事，这使她很不好受。</span><span class="english">It eats in her to stand idly by.</span></p>
 
 <p><span class="chinese">地翻阅一本杂志。</span><span class="english">She flicked idly through a magazine.</span></p>

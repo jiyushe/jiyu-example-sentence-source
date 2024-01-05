@@ -1,5 +1,7 @@
 # ill 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ill.md)
+
 <p><span class="chinese">埃伦病了。</span><span class="english">Ellen ill.</span></p>
 
 <p><span class="chinese">我重病缠身。</span><span class="english">am very ill.</span></p>

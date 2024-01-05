@@ -1,5 +1,7 @@
 # vacua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacua.md)
+
 <p><span class="chinese">然后混合物进行真空蒸馏。</span><span class="english">The mixture is then distilled in vacua.</span></p>
 
 <p><span class="chinese">大多数的真空似乎永远无法得到它们转瞬即逝的短暂名声。</span><span class="english">It would seem that most vacua never get their 15 minutes of fame.</span></p>

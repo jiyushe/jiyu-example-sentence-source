@@ -1,5 +1,7 @@
 # anatolian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anatolian.md)
+
 <p><span class="chinese">古罗马跑马场里来自安纳托利亚高原西部的舞者。</span><span class="english">Western Anatolian dancers perform at the Hippodrome.</span></p>
 
 <p><span class="chinese">该船在土耳其安纳托利亚海岸附近触礁，船身分成两半。</span><span class="english">It hit rocks and split in two off the coast of Turkey's Anatolian province.</span></p>

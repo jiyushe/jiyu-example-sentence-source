@@ -1,5 +1,7 @@
 # wicking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wicking.md)
+
 <p><span class="chinese">我们需要有注明吸湿排干功能的吊牌。</span><span class="english">And need hangtag of this WICKING or BODY DRY.</span></p>
 
 <p><span class="chinese">速干开放的处置宽度拉幅同64英寸。</span><span class="english">Wicking Processed on open width stenter with 64 inches.</span></p>

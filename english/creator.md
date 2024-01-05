@@ -1,5 +1,7 @@
 # creator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creator.md)
+
 <p><span class="chinese">它的创立者是匿名的。</span><span class="english">Its creator remains anonymous.</span></p>
 
 <p><span class="chinese">造物主上帝是真正的上帝。</span><span class="english">The creator God really is God.</span></p>

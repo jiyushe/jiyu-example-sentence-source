@@ -1,5 +1,7 @@
 # dina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dina.md)
+
 <p><span class="chinese">我不懂希腊语，于是戴娜主动给我翻译。</span><span class="english">I don't speak Greek so Dina offered to for me.</span></p>
 
 <p><span class="chinese">有，先生，您看“椰树甘露”如何？是白朗姆酒、椰味奶油和菠萝。</span><span class="english">Yes, sir. How about Dina Colada made with white rum.</span></p>

@@ -1,5 +1,7 @@
 # touching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/touching.md)
+
 <p><span class="chinese">触摸她的头发。</span><span class="english">Touching her hair.</span></p>
 
 <p><span class="chinese">他的信很感人。</span><span class="english">His letter was touching.</span></p>

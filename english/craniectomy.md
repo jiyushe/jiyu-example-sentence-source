@@ -1,5 +1,7 @@
 # craniectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craniectomy.md)
+
 <p><span class="chinese">结论超早期大骨瓣减压血肿清除术是一个行之有效的外科治疗方法。</span><span class="english">Conclusion The ultra-early large craniectomy hematoma is an effective surgical treatment.</span></p>
 
 <p><span class="chinese">标准外伤大骨瓣开颅减压充分，有利于改善预后。</span><span class="english">Standard decompressive craniectomy with large bone flap resection will often contribute to a better prognosis.</span></p>

@@ -1,5 +1,7 @@
 # forced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forced.md)
+
 <p><span class="chinese">为固定短语，表示“被迫做某事”。</span><span class="english">D be forced to do sth.</span></p>
 
 <p><span class="chinese">我强迫他做这件事。</span><span class="english">I forced him to do it.</span></p>

@@ -1,5 +1,7 @@
 # solipsism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solipsism.md)
+
 <p><span class="chinese">我们不能接受这种“唯我论”。</span><span class="english">We don't accept such solipsism.</span></p>
 
 <p><span class="chinese">真是奇怪，&他想，&难道这世上的唯我论也会受到限制？&。</span><span class="english">Strange, he thought, can there be a limit to solipsism?</span></p>

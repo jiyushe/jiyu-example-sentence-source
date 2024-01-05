@@ -1,5 +1,7 @@
 # 浅见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianjian.md)
+
 <p><span class="chinese">我来说一下我的浅见吧。</span><span class="english">Let me give my humble option.</span></p>
 
 <p><span class="chinese">我来颁发一下我的浅见。</span><span class="english">Let me give my humble opinion.</span></p>

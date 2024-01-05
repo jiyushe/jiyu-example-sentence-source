@@ -1,5 +1,7 @@
 # 涵洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/handong.md)
+
 <p><span class="chinese">激光微波适用于涵洞等。</span><span class="english">Laser microwave applicable to such culvert.</span></p>
 
 <p><span class="chinese">涵洞管道涵洞的沟渠或引水道。</span><span class="english">The channel or conduit for such a sewer or drain.</span></p>

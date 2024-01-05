@@ -1,5 +1,7 @@
 # synergic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synergic.md)
+
 <p><span class="chinese">赤道东太平洋海温异常和印度洋偶极子有协同作用。</span><span class="english">So Equator East Pacific SSTA and the IOD have synergic effect.</span></p>
 
 <p><span class="chinese">品牌合作将带来集团优势并且加强各自品牌资本。</span><span class="english">Brand co-operation will bring synergic advantages and strengthen own brand capital.</span></p>

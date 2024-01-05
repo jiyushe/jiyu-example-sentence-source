@@ -1,5 +1,7 @@
 # microcapsule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microcapsule.md)
+
 <p><span class="chinese">还对色素微胶囊的稳定性进行了讨论。</span><span class="english">The stability of microcapsule colours is also discussed.</span></p>
 
 <p><span class="chinese">目的制备番茄红素油树脂微囊，并对其稳定性进行考察。</span><span class="english">ObjectiveTo prepare lycopene oil resin microcapsule and study its stability.</span></p>

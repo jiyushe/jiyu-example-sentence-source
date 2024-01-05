@@ -1,5 +1,7 @@
 # angst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angst.md)
+
 <p><span class="chinese">表达的是焦虑</span><span class="english">It illustrates angst.</span></p>
 
 <p><span class="chinese">“你可以理解他们的焦虑”。</span><span class="english">You can understand their angst.</span></p>

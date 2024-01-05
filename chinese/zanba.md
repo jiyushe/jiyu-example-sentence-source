@@ -1,5 +1,7 @@
 # 糌粑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanba.md)
+
 <p><span class="chinese">糌粑的黏度和绿豆沙差不多，味道也有点像。</span><span class="english">It has the consistency of green bean paste.</span></p>
 
 <p><span class="chinese">我妈妈在家炒糌粑，听到了我的歌声。</span><span class="english">In the house my mother was roasting barley and heard me.</span></p>

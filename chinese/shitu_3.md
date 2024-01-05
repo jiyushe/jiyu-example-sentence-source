@@ -1,5 +1,7 @@
 # 试图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitu_3.md)
+
 <p><span class="chinese">不要试图闯过去。</span><span class="english">Don't try to run it.</span></p>
 
 <p><span class="chinese">我试图溜进去。</span><span class="english">I tried to steal in.</span></p>

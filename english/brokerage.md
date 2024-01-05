@@ -1,5 +1,7 @@
 # brokerage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brokerage.md)
+
 <p><span class="chinese">我只要求一点经手之劳。</span><span class="english">I only ask a brokerage.</span></p>
 
 <p><span class="chinese">经手费是主要的收入。</span><span class="english">The main income is brokerage.</span></p>

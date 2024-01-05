@@ -1,5 +1,7 @@
 # transmigration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmigration.md)
+
 <p><span class="chinese">轮回盘？有什么讲究吗？</span><span class="english">Transmigration plate? How does it work?</span></p>
 
 <p><span class="chinese">轮回它磨灭不了我对你的爱。</span><span class="english">Transmigration it erase my love for you.</span></p>

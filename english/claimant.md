@@ -1,5 +1,7 @@
 # claimant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/claimant.md)
+
 <p><span class="chinese">我愿把我的权利让给第一个要求者。</span><span class="english">I will resign my rights to the first claimant.</span></p>
 
 <p><span class="chinese">为原告输入相关联的雇主数据。</span><span class="english">Enter associated employer data for the claimant.</span></p>

@@ -1,5 +1,7 @@
 # nutmeg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutmeg.md)
+
 <p><span class="chinese">除了银果。</span><span class="english">But a silver nutmeg.</span></p>
 
 <p><span class="chinese">要怎么磨碎整颗的肉豆蔻子？</span><span class="english">How do I grate whole nutmeg?</span></p>

@@ -1,5 +1,7 @@
 # 中共中央政治局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonggongzhongyangzhengzhiju.md)
+
 <p><span class="chinese">这次全会是在主持中共中央政治局结束。</span><span class="english">The plenum was presided over by the Political Bureau of the CPC Central Committee.</span></p>
 
 <p><span class="chinese">这个提纲为一九三七年八月二十二日至二十五日在陕北洛川召开的中共中央政治局扩大会议所通过。</span><span class="english">It was approved by the enlarged meeting of the Political Bureau of the Central Committee at Lochuan, northern Shensi.</span></p>

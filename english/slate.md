@@ -1,5 +1,7 @@
 # slate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slate.md)
+
 <p><span class="chinese">我很喜欢石板地面。</span><span class="english">I love the slate floor.</span></p>
 
 <p><span class="chinese">我开始使用石板写作。</span><span class="english">I began to use a slate for my writing.</span></p>

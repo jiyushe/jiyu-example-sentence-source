@@ -1,5 +1,7 @@
 # dumb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dumb.md)
+
 <p><span class="chinese">他就是个傻瓜。</span><span class="english">He is a dumb.</span></p>
 
 <p><span class="chinese">他是条哑吧狗。</span><span class="english">He is a dumb dog.</span></p>

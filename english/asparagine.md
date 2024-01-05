@@ -1,5 +1,7 @@
 # asparagine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asparagine.md)
+
 <p><span class="chinese">氰化物可以作一个天门冬酰胺的酰胺氮前体。</span><span class="english">Cyanide can serve as precursor for the amide nitrogen of asparagine.</span></p>
 
 <p><span class="chinese">第五章中我们主要研究天冬酰胺的离子的性质。</span><span class="english">In chapter 5, we focus on the properties of asparagine ions in gas phase.</span></p>

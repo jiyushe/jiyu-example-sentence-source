@@ -1,5 +1,7 @@
 # discriminant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discriminant.md)
+
 <p><span class="chinese">并且给出了判别函数的一些性质。</span><span class="english">And some properties of discriminant functions were given.</span></p>
 
 <p><span class="chinese">人们可以证明分子的判别式为正。</span><span class="english">One can show that the discriminant of the numerator is positive.</span></p>

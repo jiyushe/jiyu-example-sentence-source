@@ -1,5 +1,7 @@
 # 臆断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiduan_1.md)
+
 <p><span class="chinese">不要主观臆断某项任务已经圆满完成。</span><span class="english">Don't assume the mission is accomplished.</span></p>
 
 <p><span class="chinese">永远不要主观臆断，因为那会使你我成为蠢驴。</span><span class="english">Never assume, for it makes an ASS out of U and ME.</span></p>

@@ -1,5 +1,7 @@
 # med
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/med.md)
+
 <p><span class="chinese">我需要一个急救包！</span><span class="english">I need a med pack!</span></p>
 
 <p><span class="chinese">是指本科学位和毕业证明吗？</span><span class="english">B. Med. degree and grad certificate.</span></p>

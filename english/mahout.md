@@ -1,5 +1,7 @@
 # mahout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mahout.md)
+
 <p><span class="chinese">这头大象的脑里满是强盗们在晚上的谈话，突然就攻击了自己的看象人。</span><span class="english">The elephant, his mind filled with the night's robber-talk, suddenly attacked his mahout.</span></p>
 
 <p><span class="chinese">重演昔日战场景象，我们正将象夫的社会地位提高到以往水平。</span><span class="english">By doing these re-enactments we are raising the standing of the mahout back to what it was.</span></p>

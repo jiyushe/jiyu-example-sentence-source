@@ -1,5 +1,7 @@
 # quintessence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quintessence.md)
+
 <p><span class="chinese">喜欢，给你加为精华！</span><span class="english">Like, add quintessence for you!</span></p>
 
 <p><span class="chinese">事实上只是一副口罩的精髓。</span><span class="english">It is, in fact, the quintessence of a mask.</span></p>

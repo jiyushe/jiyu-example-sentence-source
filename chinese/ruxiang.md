@@ -1,5 +1,7 @@
 # 乳香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruxiang.md)
+
 <p><span class="chinese">薰衣草、乳香、橙花。</span><span class="english">Lavender, Frankincense and Neroli.</span></p>
 
 <p><span class="chinese">未经烘焙的红脂乳香果，不论是外观还是气味都和常见的开心果一样。</span><span class="english">The raw nuts look and smell like normal pistachios.</span></p>

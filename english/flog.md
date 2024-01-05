@@ -1,5 +1,7 @@
 # flog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flog.md)
+
 <p><span class="chinese">这个男人竟把自己的亲生儿鞭打死了，多么残忍！</span><span class="english">How cruel was the man to flog his own son to death!</span></p>
 
 <p><span class="chinese">中国传媒真的这么渴望对他们的英国同行落井下石吗？</span><span class="english">Are Chinese reporters really so eager to flog their British peers?</span></p>

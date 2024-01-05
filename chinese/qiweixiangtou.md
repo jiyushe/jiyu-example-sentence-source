@@ -1,5 +1,7 @@
 # 气味相投
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiweixiangtou.md)
+
 <p><span class="chinese">创意在气味相投的气氛中，最能茁壮成长。</span><span class="english">They grow and flourish best in an atmosphere of congenial collaboration.</span></p>
 
 <p><span class="chinese">韩默里先生声称，“气味相投”的男女能生育出健康的婴儿。</span><span class="english">Mr Hammerli claims matching people to the right scent produces healthy babies.</span></p>

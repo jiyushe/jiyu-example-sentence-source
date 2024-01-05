@@ -1,5 +1,7 @@
 # antipollution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antipollution.md)
+
 <p><span class="chinese">麦克尔揭露公司罔顾反污染法律的计划。</span><span class="english">Michael blew the whistle on the corporation's plan to bypass antipollution laws.</span></p>
 
 <p><span class="chinese">在汉阳，IT产业和反污染产业正以飞速发展。</span><span class="english">And in Hanyang, IT industry and antipollution industry are developing at a fancy speed.</span></p>

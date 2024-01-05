@@ -1,5 +1,7 @@
 # 脱位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuowei.md)
+
 <p><span class="chinese">月骨脱位。</span><span class="english">A Lunate dislocation.</span></p>
 
 <p><span class="chinese">脱位处以整复手法为主。</span><span class="english">Dislocations should be treated chiefly with taxis.</span></p>

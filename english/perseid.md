@@ -1,5 +1,7 @@
 # perseid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perseid.md)
+
 <p><span class="chinese">每年，人们都很期盼英仙座流星雨。</span><span class="english">Every year, people look forward to the Perseid meteor shower.</span></p>
 
 <p><span class="chinese">查看一下英仙座流星雨的历史和科学知识。</span><span class="english">Check out the science and history of the Perseid meteor shower.</span></p>

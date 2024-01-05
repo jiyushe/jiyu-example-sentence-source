@@ -1,5 +1,7 @@
 # textured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/textured.md)
+
 <p><span class="chinese">斜纹织纹帆布鞋面。</span><span class="english">Uppers of twill or textured canvas.</span></p>
 
 <p><span class="chinese">一些避孕套还有纹理以增加快感。</span><span class="english">Some condoms are textured to increase sensation.</span></p>

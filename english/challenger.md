@@ -1,5 +1,7 @@
 # challenger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/challenger.md)
+
 <p><span class="chinese">冠军挑战者垮过绳圈进入拳击台。</span><span class="english">The challenger climbed into the ring.</span></p>
 
 <p><span class="chinese">查林杰教授有一个巨大的脑袋。</span><span class="english">Professor Challenger had an enormous head.</span></p>

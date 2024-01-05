@@ -1,5 +1,7 @@
 # hyperbole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperbole.md)
+
 <p><span class="chinese">但看看更夸张的。</span><span class="english">But look beyond the hyperbole.</span></p>
 
 <p><span class="chinese">夸张辞格是一种常用的修辞手法。</span><span class="english">Hyperbole is a commonly-used figure of speech.</span></p>

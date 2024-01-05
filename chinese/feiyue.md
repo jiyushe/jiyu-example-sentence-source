@@ -1,5 +1,7 @@
 # 飞越
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiyue.md)
+
 <p><span class="chinese">就那样，牠们就飞越了烟道里的一条裂纹。</span><span class="english">So we flew over a flaw in the flue.</span></p>
 
 <p><span class="chinese">然后它就飞越这座城市的上空往那户人家去了。</span><span class="english">It flies over the city to the house.</span></p>

@@ -1,5 +1,7 @@
 # lipped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lipped.md)
+
 <p><span class="chinese">她用嘴唇接触杯子。</span><span class="english">She lipped the cup.</span></p>
 
 <p><span class="chinese">有时候我说漏嘴，也叫它“小淘气”。</span><span class="english">Occasionally, by now, Is lipped and called him Scampy.</span></p>

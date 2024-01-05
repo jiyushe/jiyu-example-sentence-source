@@ -1,5 +1,7 @@
 # 冠军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanjun.md)
+
 <p><span class="chinese">北京国安是冠军！！！</span><span class="english">We are the Champion!</span></p>
 
 <p><span class="chinese">冠军舍我其谁！</span><span class="english">We are the champion.</span></p>

@@ -1,5 +1,7 @@
 # 恩将仇报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enjiangchoubao.md)
+
 <p><span class="chinese">我讨厌那种恩将仇报的人。</span><span class="english">I hate people who shit where they eat.</span></p>
 
 <p><span class="chinese">这个家伙常常恩将仇报。</span><span class="english">The person always returns ingratitude for kindness.</span></p>

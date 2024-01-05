@@ -1,5 +1,7 @@
 # 轮箍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lungu_1.md)
+
 <p><span class="chinese">我用轮箍铁条狠狠揍了那个行凶抢劫的强盗，我随身带着这家伙就是为这种场合预备的。</span><span class="english">I clobbered the mugger with a tire iron I carry just for such occasions.</span></p>
 
 <p><span class="chinese">选择轮子的轮箍，把它链接到把手上，这样他们会一起旋转。</span><span class="english">Select the tire of the wheels and link this to the spoke's. so both get rotated.</span></p>

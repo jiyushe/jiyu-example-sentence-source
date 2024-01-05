@@ -1,5 +1,7 @@
 # 未雨绸缪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyuchoumou.md)
+
 <p><span class="chinese">快乐的人未雨绸缪。</span><span class="english">Happy people plan ahead.</span></p>
 
 <p><span class="chinese">多少你的小卖店距离未雨绸缪？</span><span class="english">How much should you tuck away for a rainy day?</span></p>

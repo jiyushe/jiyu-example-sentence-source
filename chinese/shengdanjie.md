@@ -1,5 +1,7 @@
 # 圣诞节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdanjie.md)
+
 <p><span class="chinese">圣诞节当前，我真的不忍心啊。</span><span class="english">It's Christmas.</span></p>
 
 <p><span class="chinese">圣诞节啊！</span><span class="english">Christmass Day Ah!</span></p>

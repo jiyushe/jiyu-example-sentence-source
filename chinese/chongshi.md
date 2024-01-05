@@ -1,5 +1,7 @@
 # 充实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongshi.md)
+
 <p><span class="chinese">这一切充实着你。</span><span class="english">That's what feed it.</span></p>
 
 <p><span class="chinese">因为上帝会去充实他们。</span><span class="english">for they shall be filled.</span></p>

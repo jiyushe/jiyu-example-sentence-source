@@ -1,5 +1,7 @@
 # 周天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoutian.md)
+
 <p><span class="chinese">周天和朋友出去玩了。</span><span class="english">I went out with some friends on Saturday.</span></p>
 
 <p><span class="chinese">杰克逊周天的时候给湖人全队放假一天。</span><span class="english">Jackson gave the Lakers the day off Sunday.</span></p>

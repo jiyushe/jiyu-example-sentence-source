@@ -1,5 +1,7 @@
 # solidness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solidness.md)
+
 <p><span class="chinese">我们需要的只是平静、踏实和秩序。</span><span class="english">We only need calmness, solidness and order.</span></p>
 
 <p><span class="chinese">她对忠诚的坚贞不二给了她长久的希望。</span><span class="english">The solidness of her faith gave her enduring hope.</span></p>

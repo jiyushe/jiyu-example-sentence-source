@@ -1,5 +1,7 @@
 # 零用钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingyongqian.md)
+
 <p><span class="chinese">我甚至连零用钱都没有。</span><span class="english">I didn’t even get an allowance.</span></p>
 
 <p><span class="chinese">我得到的零用钱比她少。</span><span class="english">I get less pocket-money than she.</span></p>

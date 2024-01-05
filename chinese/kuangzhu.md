@@ -1,5 +1,7 @@
 # 矿主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangzhu.md)
+
 <p><span class="chinese">黄金矿主却不。</span><span class="english">Gold miners are not.</span></p>
 
 <p><span class="chinese">成矿主要与燕山期花岗斑岩体有关。</span><span class="english">Granite-porphyry stock is ore-forming parent rock.</span></p>

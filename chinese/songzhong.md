@@ -1,5 +1,7 @@
 # 送终
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songzhong.md)
+
 <p><span class="chinese">撒哈拉间谍套装最适合搭配死亡送终者。</span><span class="english">The Saharan Spy item set pairs best with the Dead Ringer.</span></p>
 
 <p><span class="chinese">WebOS的时代已经过去了，我们只不过在为它送终罢了。</span><span class="english">WebOS’ time has passed and we’re just watching the funeral.</span></p>

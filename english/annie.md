@@ -1,5 +1,7 @@
 # annie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annie.md)
+
 <p><span class="chinese">安妮在冰雪节的造型。</span><span class="english">Annie at Jack Frost.</span></p>
 
 <p><span class="chinese">安妮有一只宠物猫。</span><span class="english">Annie has a pet cat.</span></p>

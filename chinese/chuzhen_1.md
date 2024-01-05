@@ -1,5 +1,7 @@
 # 出阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzhen_1.md)
+
 <p><span class="chinese">出阵迎敌就有战死沙场的危险。</span><span class="english">You may die on the battlefield when fighting the enemy.</span></p>
 
 <p><span class="chinese">王对赶车的说，我受了重伤，你转过车来，拉我出阵吧。</span><span class="english">The king told his chariot driver, 'Wheel around and get me out of the fighting. I've been wounded.'</span></p>

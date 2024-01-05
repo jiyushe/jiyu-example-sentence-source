@@ -1,5 +1,7 @@
 # 地壳运动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diqiaoyundong.md)
+
 <p><span class="chinese">它是在燕山地壳运动时期形成的。</span><span class="english">It was formed during the Yanshan movement of the earth.</span></p>
 
 <p><span class="chinese">地壳运动将印度推向亚洲，托起喜马拉雅山。</span><span class="english">Shifts in the Earth's crust pushed India into Asia, heaving up the Himalaya.</span></p>

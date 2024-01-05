@@ -1,5 +1,7 @@
 # 烟火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhuo.md)
+
 <p><span class="chinese">严禁烟火。</span><span class="english">No smoke, no fire.</span></p>
 
 <p><span class="chinese">孩子们的烟火发出火花。</span><span class="english">The children's fireworks sparkled.</span></p>

@@ -1,5 +1,7 @@
 # unbelievable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbelievable.md)
+
 <p><span class="chinese">这真是让我难以置信。</span><span class="english">Unbelievable.</span></p>
 
 <p><span class="chinese">实在太美味了，简直难以置信。</span><span class="english">It tastes unbelievable.</span></p>

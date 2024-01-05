@@ -1,5 +1,7 @@
 # menorah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menorah.md)
+
 <p><span class="chinese">苏珊也不愿意去点亮她的烛台。</span><span class="english">She really didn't want to light her menorah either.</span></p>
 
 <p><span class="chinese">我看到了你窗台上的烛台，然后就哭了起来。</span><span class="english">I saw that menorah in your window and I started to cry.</span></p>

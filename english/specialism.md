@@ -1,5 +1,7 @@
 # specialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specialism.md)
+
 <p><span class="chinese">你对这个课程的专业有多少了解？</span><span class="english">How much do you know about this specialism?</span></p>
 
 <p><span class="chinese">然而，我们也不能避开专业化。</span><span class="english">We cannot, however, turn away from specialism.</span></p>

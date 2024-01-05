@@ -1,5 +1,7 @@
 # 鲁莽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lumang_1.md)
+
 <p><span class="chinese">我讨厌他的鲁莽。</span><span class="english">I am sick of his sauciness.</span></p>
 
 <p><span class="chinese">请不要如此鲁莽。</span><span class="english">Please don't be so impudent.</span></p>

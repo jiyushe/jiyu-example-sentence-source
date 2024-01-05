@@ -1,5 +1,7 @@
 # 直流电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiliudian.md)
+
 <p><span class="chinese">该二三○○克是动力由24伏直流电。</span><span class="english">The 2300G is powered from 24 Vdc.</span></p>
 
 <p><span class="chinese">它是专为24伏直流电使用。</span><span class="english">It is designed for use with 24 V DC.</span></p>

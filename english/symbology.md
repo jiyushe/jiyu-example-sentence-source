@@ -1,5 +1,7 @@
 # symbology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbology.md)
+
 <p><span class="chinese">眼睛是象征什么？</span><span class="english">What is Eye Symbology about?</span></p>
 
 <p><span class="chinese">象徵学甲板是一个精神论者梦想，实现。</span><span class="english">The Symbology Deck is a mentalist's dream, come true.</span></p>

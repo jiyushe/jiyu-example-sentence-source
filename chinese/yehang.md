@@ -1,5 +1,7 @@
 # 夜航
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yehang.md)
+
 <p><span class="chinese">我不要夜航班机。</span><span class="english">I don't want a night flight.</span></p>
 
 <p><span class="chinese">请看船长今天夜航命令。</span><span class="english">See night order from captain tonight.</span></p>

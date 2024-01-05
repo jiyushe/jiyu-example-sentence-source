@@ -1,5 +1,7 @@
 # airbus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airbus.md)
+
 <p><span class="chinese">伊尔-86是苏联的首架大型中短程喷气客机。</span><span class="english">Il-86 is the first soviet airbus.</span></p>
 
 <p><span class="chinese">空中客车公司已经收到528份A350订单。</span><span class="english">Airbus has won 528 firm orders for the aircraft.</span></p>

@@ -1,5 +1,7 @@
 # 一命呜呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimingwuhu.md)
+
 <p><span class="chinese">他脖子折断一命呜呼。</span><span class="english">He died of a broken neck.</span></p>
 
 <p><span class="chinese">一粒子弹穿心过肺，使她一命呜呼。</span><span class="english">A bullet through the heart ended her.</span></p>

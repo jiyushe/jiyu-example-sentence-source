@@ -1,5 +1,7 @@
 # barton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barton.md)
+
 <p><span class="chinese">它不会很快被解决”barton说。</span><span class="english">It's not going away," Barton said.</span></p>
 
 <p><span class="chinese">到了2013年，他又觉得手痒，想重返工作岗位。</span><span class="english">In 2013, Barton felt the itch to get back to work.</span></p>

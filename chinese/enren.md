@@ -1,5 +1,7 @@
 # 恩人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enren.md)
+
 <p><span class="chinese">再说他还是你的救命恩人。</span><span class="english">After all he was your savior.</span></p>
 
 <p><span class="chinese">再说他还是你的救命恩人。</span><span class="english">It is normal that he love you.</span></p>

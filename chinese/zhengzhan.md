@@ -1,5 +1,7 @@
 # 征战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhan.md)
+
 <p><span class="chinese">选择你的英雄征战天下吧！</span><span class="english">Choose your hero and conquer the world!</span></p>
 
 <p><span class="chinese">这幢房子是什么时辰征战朱之文?。</span><span class="english">When was being the house estbellylished?</span></p>

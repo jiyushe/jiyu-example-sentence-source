@@ -1,5 +1,7 @@
 # shirt 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shirt.md)
+
 <p><span class="chinese">穿紫色衬衫的。</span><span class="english">Purple shirt.</span></p>
 
 <p><span class="chinese">我想买一件衬衫。</span><span class="english">I’d like a shirt.</span></p>

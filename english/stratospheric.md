@@ -1,5 +1,7 @@
 # stratospheric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratospheric.md)
+
 <p><span class="chinese">对流层和平流层主要模态之间的耦合。</span><span class="english">Coupling between Tropospheric and Stratospheric Leading Modes.</span></p>
 
 <p><span class="chinese">用GCM研究火山喷发作为平流层水气增加的原因。</span><span class="english">GCM Study of Volcanic Eruptions as a Cause of Increased Stratospheric Water Vapor.</span></p>

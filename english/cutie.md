@@ -1,5 +1,7 @@
 # cutie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cutie.md)
+
 <p><span class="chinese">我觉患上她是个小可爱。</span><span class="english">I think she is a cutie.</span></p>
 
 <p><span class="chinese">我问这个漂亮的棘手。</span><span class="english">I asked this cutie hottie.</span></p>

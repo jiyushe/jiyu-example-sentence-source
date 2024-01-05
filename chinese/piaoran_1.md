@@ -1,5 +1,7 @@
 # 飘然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoran_1.md)
+
 <p><span class="chinese">某个魂灵正飘然飞过。</span><span class="english">Some soul is passing over.</span></p>
 
 <p><span class="chinese">浮云飘然而过。</span><span class="english">Fleecy clouds floated past.</span></p>

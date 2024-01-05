@@ -1,5 +1,7 @@
 # elia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elia.md)
+
 <p><span class="chinese">他收藏的伊利亚卡赞改变了一切。</span><span class="english">The Elia Kazan Collection He changed everything.</span></p>
 
 <p><span class="chinese">埃利亚是本赛季从斯蒂夫·麦克拉伦的特温特加盟至汉堡的。</span><span class="english">Elia moved to Hamburg this year from Steve McClaren's FC Twente.</span></p>

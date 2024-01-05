@@ -1,5 +1,7 @@
 # 禁不起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinbuqi.md)
+
 <p><span class="chinese">爱，永远禁不起等待！</span><span class="english">Don't wait for love forever!</span></p>
 
 <p><span class="chinese">永远禁不起等待，也禁不起伤害。</span><span class="english">Forever inability to wait, it can not withstand injuries.</span></p>

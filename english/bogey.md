@@ -1,5 +1,7 @@
 # bogey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bogey.md)
+
 <p><span class="chinese">是你吗，博盖？</span><span class="english">Is that you, Bogey?</span></p>
 
 <p><span class="chinese">我们在这次衰退中寻找着魔鬼。</span><span class="english">In this recession, we seek the bogey.</span></p>

@@ -1,5 +1,7 @@
 # 写字台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezitai.md)
+
 <p><span class="chinese">那个写字台是玻璃面的。</span><span class="english">That desk is gla'ss-topped.</span></p>
 
 <p><span class="chinese">他昨天放在我的写字台上了。</span><span class="english">He left it on my desk yesterday.</span></p>

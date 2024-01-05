@@ -1,5 +1,7 @@
 # deodorizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deodorizer.md)
+
 <p><span class="chinese">二氧化氯是世界上最强大的除臭剂。</span><span class="english">ClO2 is the worlds most powerful DEODORIZER.</span></p>
 
 <p><span class="chinese">此种除臭剂可防止冰箱出现臭味。</span><span class="english">This kind of deodorizer can keep the fridge free of bad smells.</span></p>

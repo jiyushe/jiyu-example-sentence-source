@@ -1,5 +1,7 @@
 # 伤害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanghai.md)
+
 <p><span class="chinese">有谁想受伤害？</span><span class="english">Who wants to hurt?</span></p>
 
 <p><span class="chinese">他伤害了我的感情。</span><span class="english">He hurt my feelings.</span></p>

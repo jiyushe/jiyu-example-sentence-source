@@ -1,5 +1,7 @@
 # inheritable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inheritable.md)
+
 <p><span class="chinese">这种差异的大部分是可继承的。</span><span class="english">Much of this variation is inheritable.</span></p>
 
 <p><span class="chinese">几次传代培养后，大多数具有遗传稳定性。</span><span class="english">Most of them had inheritable stability after several generation.</span></p>

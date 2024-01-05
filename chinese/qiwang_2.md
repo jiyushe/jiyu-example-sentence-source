@@ -1,5 +1,7 @@
 # 祈望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiwang_2.md)
+
 <p><span class="chinese">你的祈望就是你的祈祷。</span><span class="english">Your desire is your prayer.</span></p>
 
 <p><span class="chinese">你必须真诚地祈望幸福生活。</span><span class="english">You must sincerely desire to be happy.</span></p>

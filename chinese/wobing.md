@@ -1,5 +1,7 @@
 # 卧病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wobing.md)
+
 <p><span class="chinese">他患支气管炎卧病在床。</span><span class="english">He was in bed with bronchitis.</span></p>
 
 <p><span class="chinese">他患麻疹而卧病在床。</span><span class="english">A case of measles kept him in bed.</span></p>

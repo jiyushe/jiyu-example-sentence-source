@@ -1,5 +1,7 @@
 # 密件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mijian.md)
+
 <p><span class="chinese">此电邮以密件传给我名单中所的人。</span><span class="english">This email is Bcc to all on my list.</span></p>
 
 <p><span class="chinese">此电邮以密件传给我名单中所有的中文读者。</span><span class="english">Th is email is Bcc to all Chinese readers on myl ist.</span></p>

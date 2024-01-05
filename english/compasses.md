@@ -1,5 +1,7 @@
 # compasses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compasses.md)
+
 <p><span class="chinese">他有三副圆规。</span><span class="english">He has two pairs of compasses.</span></p>
 
 <p><span class="chinese">请给我买一副圆规好吗？</span><span class="english">Will you get me a pair of compasses?</span></p>

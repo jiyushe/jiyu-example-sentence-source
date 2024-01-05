@@ -1,5 +1,7 @@
 # 木鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muyu.md)
+
 <p><span class="chinese">壳体中的木鱼石颗粒可定期更换。</span><span class="english">The wooden fish stone granules in the casing can be regularly replaced.</span></p>
 
 <p><span class="chinese">一组木鱼风铃，做成明信片，记录一段夏日午后的静慢时光。</span><span class="english">Forrest makes a postcard and wishes you a quiet and slowly afternoon in the summer of Shanghai.</span></p>

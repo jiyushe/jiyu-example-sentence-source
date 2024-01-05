@@ -1,5 +1,7 @@
 # blemish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blemish.md)
+
 <p><span class="chinese">小蜜蜂欧芹草本抗痘露。</span><span class="english">Burt's Bees Parsley Blemish Stick.</span></p>
 
 <p><span class="chinese">那个黑痣是他脸上的缺点。</span><span class="english">That mole is a blemish on his face.</span></p>

@@ -1,5 +1,7 @@
 # implantation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implantation.md)
+
 <p><span class="chinese">踝状突位于核后端的植入窝中。</span><span class="english">The capitulum is inside the implantation fossa.</span></p>
 
 <p><span class="chinese">深离子注入调整源漏穿通电压。</span><span class="english">Deep ion implantation modulates punch -through voltage.</span></p>

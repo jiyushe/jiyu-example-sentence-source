@@ -1,5 +1,7 @@
 # 前清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianqing.md)
+
 <p><span class="chinese">在订酒店旅馆前清问一下这几个问题</span><span class="english">A few questions to ask before booking your hotel</span></p>
 
 <p><span class="chinese">户户自扫门前清，全城自然就乾净。</span><span class="english">If each would sweep before the door, we should have a clean city.</span></p>

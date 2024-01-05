@@ -1,5 +1,7 @@
 # 涂饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tushi_1.md)
+
 <p><span class="chinese">他用透明漆涂饰那碗柜。</span><span class="english">He used clear to finish the cabinet.</span></p>
 
 <p><span class="chinese">木家具生产线之油漆涂饰线。</span><span class="english">Wood furniture production line of paint finishing lines.</span></p>

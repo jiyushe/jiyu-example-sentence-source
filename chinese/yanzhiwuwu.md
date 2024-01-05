@@ -1,5 +1,7 @@
 # 言之无物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhiwuwu.md)
+
 <p><span class="chinese">爱情是甜蜜的，耳边的言之无物。</span><span class="english">Love is sweet nothings in the ear.</span></p>
 
 <p><span class="chinese">他的演说言之无物。</span><span class="english">There was no substance in his speech.</span></p>

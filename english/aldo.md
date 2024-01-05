@@ -1,5 +1,7 @@
 # aldo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aldo.md)
+
 <p><span class="chinese">我告诉他我的两个好友都坚持认为，我应该要积极。</span><span class="english">I told Aldo that two of my friends insisted that I cheer up.</span></p>
 
 <p><span class="chinese">桑坦德竞技的中场球员杜舍尔引起了意甲球队的兴趣。</span><span class="english">Racing Santander midfielder Aldo Duscher is attracting Serie A interest.</span></p>

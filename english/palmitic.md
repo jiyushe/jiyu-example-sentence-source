@@ -1,5 +1,7 @@
 # palmitic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palmitic.md)
+
 <p><span class="chinese">采用吡哆醇与棕榈酸为原料，水溶剂法合成吡哆醇二棕榈酸酯。</span><span class="english">This paper tested the process to prepare pyridoxine dipalmitate from pyridoxine and palmitic acid.</span></p>
 
 <p><span class="chinese">油酸、棕榈酸、亚油酸、谷氨酸、天门冬氨酸、精氨酸是风鸭风味的主要呈味物质。</span><span class="english">Oleic acid, palmitic acid, linoleic acid, Glu, Asp and Arg were main flavour material of air drying duck.</span></p>

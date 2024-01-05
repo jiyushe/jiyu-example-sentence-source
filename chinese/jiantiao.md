@@ -1,5 +1,7 @@
 # 肩挑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiantiao.md)
+
 <p><span class="chinese">肩挑负贩沿街叫卖者销售之货物或劳务。</span><span class="english">The goods or services sold by peddlers or hawkers.</span></p>
 
 <p><span class="chinese">高校党政管理干部“双肩挑”模式在高校的发展中发挥了很大的作用，但是在今天却备受争议。</span><span class="english">"Double Shoulder Task" mode plays a great part in the development of higher education, but it gets dispute nowadays.</span></p>

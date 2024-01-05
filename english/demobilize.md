@@ -1,5 +1,7 @@
 # demobilize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demobilize.md)
+
 <p><span class="chinese">你不能结束动员直到战争结束。</span><span class="english">You cannot demobilize while still at war.</span></p>
 
 <p><span class="chinese">现在我们把兵统统裁掉好不好？</span><span class="english">Would it be all right to demobilize all our troops now?</span></p>

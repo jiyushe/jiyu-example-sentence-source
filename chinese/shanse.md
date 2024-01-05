@@ -1,5 +1,7 @@
 # 山色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanse.md)
+
 <p><span class="chinese">山色不厌远，我行随处深。</span><span class="english">Can I be far mountains, deep.</span></p>
 
 <p><span class="chinese">溪声含客怒，山色为谁浓。</span><span class="english">Stream audio with angry customers, for whom mountains thick.</span></p>

@@ -1,5 +1,7 @@
 # gravel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravel.md)
+
 <p><span class="chinese">那沙砾产金量高。</span><span class="english">The gravel pans well.</span></p>
 
 <p><span class="chinese">砂砾上有阳光的味道。</span><span class="english">Smell of sun on gravel.</span></p>

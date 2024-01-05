@@ -1,5 +1,7 @@
 # 吆喝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaohe.md)
+
 <p><span class="chinese">上尉吆喝着发号施令。</span><span class="english">The captain bawled out the orders.</span></p>
 
 <p><span class="chinese">我上了车，她便大声吆喝。</span><span class="english">And I got in the car and she was screaming.</span></p>

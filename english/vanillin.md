@@ -1,5 +1,7 @@
 # vanillin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vanillin.md)
+
 <p><span class="chinese">香兰素可吸收波长为308到278纳米的紫外光。</span><span class="english">Vanillin absorbs UV light at wavelengths of 308 and 278 nnm.</span></p>
 
 <p><span class="chinese">市场上也出售含有良好风味的香草醛或乙基香草醛的焙烤粉。</span><span class="english">The market also offers baking powders flavored with vanillin of ethyl vanillin.</span></p>

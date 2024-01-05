@@ -1,5 +1,7 @@
 # 炼金术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianjinshu.md)
+
 <p><span class="chinese">炼金术受到了占星术影响。</span><span class="english">Alchemy is influenced by horoscope.</span></p>
 
 <p><span class="chinese">炼金术的理论并不愚蠢。</span><span class="english">Alchemical theories were not stupid.</span></p>

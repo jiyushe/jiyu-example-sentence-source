@@ -1,5 +1,7 @@
 # typographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typographic.md)
+
 <p><span class="chinese">来自德国的迪克设计的漂亮的排字印刷地图。</span><span class="english">Beautiful typographic map designed by Dirk Sch??chter from Germany.</span></p>
 
 <p><span class="chinese">这种假币使用了雕刻制版和凹印技术。</span><span class="english">The notes are printed using the intaglio and typographic printing processes.</span></p>

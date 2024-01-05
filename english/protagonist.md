@@ -1,5 +1,7 @@
 # protagonist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protagonist.md)
+
 <p><span class="chinese">每个乆都是自己故事里旳主角。</span><span class="english">Everybody is the protagonist in oneself story.</span></p>
 
 <p><span class="chinese">自己成了故事的主角---只有我自己。</span><span class="english">Himself the protagonist of the story --- only my own.</span></p>

@@ -1,5 +1,7 @@
 # 老校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoxiao_1.md)
+
 <p><span class="chinese">新老校区一卡通相通。</span><span class="english">Thee-card can be used on both the campus.</span></p>
 
 <p><span class="chinese">那些老校是在下周拆除吗？</span><span class="english">Will those old schools be pulled down next week?</span></p>

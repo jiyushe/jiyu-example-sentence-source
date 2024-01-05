@@ -1,5 +1,7 @@
 # worshipful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worshipful.md)
+
 <p><span class="chinese">贝灵汉总督大人在吗？</span><span class="english">Is the worshipful governor bel lingham within?</span></p>
 
 <p><span class="chinese">因为我们知道和平的可贵，更了解战争的苦难！</span><span class="english">We deeply understand the worshipful value and the torment of the wars.</span></p>

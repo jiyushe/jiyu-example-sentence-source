@@ -1,5 +1,7 @@
 # 促膝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuxi.md)
+
 <p><span class="chinese">最好的朋友就是那种能和你促膝而坐，彼此不说只字片语。</span><span class="english">The best kind of friend is the kind you can sit on a porch swing with.</span></p>
 
 <p><span class="chinese">当我有机会和他坐在一起促膝而谈时，我问他，你看东西好些了吗。</span><span class="english">When I would have to sit and talk to Mike, there would have the vision thing going that  are you seeing better.</span></p>

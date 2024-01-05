@@ -1,5 +1,7 @@
 # maneuverable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maneuverable.md)
+
 <p><span class="chinese">和斗犬有着一样的速度，但是更加易于操作。</span><span class="english">It is the same speed as the Pitbull, but more maneuverable.</span></p>
 
 <p><span class="chinese">那使得它在紧迫又拥挤的小区城市中，极端容易操作。</span><span class="english">That makes it extremely maneuverable in tight, crowded quarters.</span></p>

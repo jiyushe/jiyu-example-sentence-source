@@ -1,5 +1,7 @@
 # 世纪末
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijimo.md)
+
 <p><span class="chinese">中国华资银行产生于19世纪末叶。</span><span class="english">Chinese capital bank was born in the mid of 19 th century.</span></p>
 
 <p><span class="chinese">虽然是世纪末，不过这段历史也太无聊了。</span><span class="english">It would at least get intresting at the turn of the century.</span></p>

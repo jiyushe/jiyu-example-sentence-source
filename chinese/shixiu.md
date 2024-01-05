@@ -1,5 +1,7 @@
 # 失修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiu.md)
+
 <p><span class="chinese">这座大楼因失修而圮毁。</span><span class="english">The building had been dilapidated by neglect.</span></p>
 
 <p><span class="chinese">圮废失修的谷仓有损景色的美。</span><span class="english">The dilapidated barn detracts charm from the landscape.</span></p>

@@ -1,5 +1,7 @@
 # emaciated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emaciated.md)
+
 <p><span class="chinese">多见于瘦弱的婴儿。</span><span class="english">Sees in the emaciated baby.</span></p>
 
 <p><span class="chinese">久病使他变得消瘦。</span><span class="english">He was emaciated by long illness.</span></p>

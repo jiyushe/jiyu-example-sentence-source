@@ -1,5 +1,7 @@
 # interbreed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interbreed.md)
+
 <p><span class="chinese">这些物种不能杂交。</span><span class="english">These species do not interbreed.</span></p>
 
 <p><span class="chinese">狼和狗能够异种交配而且繁育后代。</span><span class="english">Wolves and dogs can interbreed and produce offspring.</span></p>

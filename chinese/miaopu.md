@@ -1,5 +1,7 @@
 # 苗圃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaopu.md)
+
 <p><span class="chinese">农民把秧苗栽在苗圃里。</span><span class="english">The farmer bedded the seedlings in.</span></p>
 
 <p><span class="chinese">我们去苗圃买了一株梅树。</span><span class="english">We bought an ume tree from the nursery.</span></p>

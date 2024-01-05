@@ -1,5 +1,7 @@
 # 实际工资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijigongzi.md)
+
 <p><span class="chinese">美国工人的实际工资已经十年没涨过了。</span><span class="english">The real wages of working Americans have been stagnant for a decade.</span></p>
 
 <p><span class="chinese">实际工资的增长也会帮助增加消费。</span><span class="english">Rising levels of real wages should also help to increase consumption.</span></p>

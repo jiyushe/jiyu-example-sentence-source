@@ -1,5 +1,7 @@
 # 译作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizuo_1.md)
+
 <p><span class="chinese">译作不可随意增减伸缩。</span><span class="english">Translation is not scalable.</span></p>
 
 <p><span class="chinese">她的译作得以出版。</span><span class="english">And she's getting it published.</span></p>

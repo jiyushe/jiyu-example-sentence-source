@@ -1,5 +1,7 @@
 # 刺激素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cijisu.md)
+
 <p><span class="chinese">贝拉尔认为，一个更为有趣的研究课题是泌乳刺激素。</span><span class="english">Beral thinks a more interesting candidate for study is prolactin.</span></p>
 
 <p><span class="chinese">生育专家将卵泡刺激素的数值作为重要指标来衡量女性体内卵子数量，数值高则卵子数量少。</span><span class="english">Fertility experts regard a high FSH level as a key indicator of having a low egg count.</span></p>

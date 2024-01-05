@@ -1,5 +1,7 @@
 # beneficially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beneficially.md)
+
 <p><span class="chinese">怎样投资土地使权才合算？</span><span class="english">How do we beneficially invest the land-use right?</span></p>
 
 <p><span class="chinese">头发糖化是一个过程，可以用一个比较有利除毛。</span><span class="english">Hair sugaring is a process that can be used quite beneficially for hair removal.</span></p>

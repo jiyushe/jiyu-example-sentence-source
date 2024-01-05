@@ -1,5 +1,7 @@
 # 有意无意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyiwuyi.md)
+
 <p><span class="chinese">其实我们有意无意的都在使用这种方法。</span><span class="english">All of us apply this method knowingly or unknowingly.</span></p>
 
 <p><span class="chinese">有意无意地，似乎消费者们被误导了。</span><span class="english">Intentionally or not, it seems customers are being mislead.</span></p>

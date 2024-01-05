@@ -1,5 +1,7 @@
 # schiller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schiller.md)
+
 <p><span class="chinese">希勒强调，一小撮人可以给一整个团体带来潜力。</span><span class="english">Schiller stressed the potential a spot could have for a group.</span></p>
 
 <p><span class="chinese">青年席勒的创作主要是四部戏剧。</span><span class="english">The creations of youthful Schiller mainly have four-part drama.</span></p>

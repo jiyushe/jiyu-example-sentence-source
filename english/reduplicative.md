@@ -1,5 +1,7 @@
 # reduplicative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reduplicative.md)
+
 <p><span class="chinese">还避免了简单重复的自然感觉。</span><span class="english">Still avoided simple reduplicative nature to feel.</span></p>
 
 <p><span class="chinese">这是一个值得重复的惊人的事实。</span><span class="english">This is one is worth the fact with striking reduplicative.</span></p>

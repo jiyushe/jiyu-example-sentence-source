@@ -1,5 +1,7 @@
 # transferrable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transferrable.md)
+
 <p><span class="chinese">自信是可以转换的。</span><span class="english">Confidence is transferrable.</span></p>
 
 <p><span class="chinese">逻辑是最终的可转换的技巧。</span><span class="english">Logic is the ultimate transferrable skill.</span></p>

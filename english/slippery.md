@@ -1,5 +1,7 @@
 # slippery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slippery.md)
+
 <p><span class="chinese">这一楼很滑。</span><span class="english">This floor is very slippery.</span></p>
 
 <p><span class="chinese">冬天的路会很滑。</span><span class="english">Winter roads can be slippery.</span></p>

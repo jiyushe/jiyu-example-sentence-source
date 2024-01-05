@@ -1,5 +1,7 @@
 # enumerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enumerate.md)
+
 <p><span class="chinese">让我列举你前提中的许多谬误。</span><span class="english">Let me enumerate many flaws in your hypothesis.</span></p>
 
 <p><span class="chinese">名目繁多不胜枚举。</span><span class="english">The names of items are too numerous to enumerate.</span></p>

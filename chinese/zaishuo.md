@@ -1,5 +1,7 @@
 # 再说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaishuo.md)
+
 <p><span class="chinese">请再说一遍</span><span class="english">Pardon me?</span></p>
 
 <p><span class="chinese">你说,再说一遍</span><span class="english">Yes? Pardon me?</span></p>

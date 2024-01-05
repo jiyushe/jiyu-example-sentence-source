@@ -1,5 +1,7 @@
 # isd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isd.md)
+
 <p><span class="chinese">会议安排在星期五下午。</span><span class="english">The meeting isd for Friday afternoon.</span></p>
 
 <p><span class="chinese">这是以前照的，现在发上来。</span><span class="english">This is old photo, emit to network isd now.</span></p>

@@ -1,5 +1,7 @@
 # 禁欲主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyuzhuyi.md)
+
 <p><span class="chinese">空虚的重复演奏，不过禁欲主义的男性实在太迷人了！</span><span class="english">An empty de capo. Stoic men are so charming!</span></p>
 
 <p><span class="chinese">我应该知道和尚奉行禁欲主义，还好他没有生气。</span><span class="english">I should have known that monks practice asceticism.</span></p>

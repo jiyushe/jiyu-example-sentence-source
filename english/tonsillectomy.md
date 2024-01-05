@@ -1,5 +1,7 @@
 # tonsillectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonsillectomy.md)
+
 <p><span class="chinese">治疗OME不该进行单纯的扁桃体切除术或单纯的鼓膜切开术。</span><span class="english">Tonsillectomy alone or myringotomy alone should not be used to treat OME.</span></p>
 
 <p><span class="chinese">再次吸引，建议扁桃体切除术。</span><span class="english">The otolaryngologist performed another aspiration and recommended tonsillectomy.</span></p>

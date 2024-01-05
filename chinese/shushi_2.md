@@ -1,5 +1,7 @@
 # 属实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushi_2.md)
+
 <p><span class="chinese">事实将证明我说的话属实。</span><span class="english">The facts will hold up what I said.</span></p>
 
 <p><span class="chinese">如果属实，是出于什么原因？</span><span class="english">If so, what is the reason behind it?</span></p>

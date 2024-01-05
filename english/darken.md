@@ -1,5 +1,7 @@
 # darken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darken.md)
+
 <p><span class="chinese">时间一长，颜色还会逐渐变深。</span><span class="english">Its color will darken over time.</span></p>
 
 <p><span class="chinese">少数情况下会使混凝土颜色变深。</span><span class="english">Rarely will darken concrete or pavers.</span></p>

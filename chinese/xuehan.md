@@ -1,5 +1,7 @@
 # 血汗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuehan.md)
+
 <p><span class="chinese">这是数位时代的血汗工厂。</span><span class="english">This is the digital-era sweatshop.</span></p>
 
 <p><span class="chinese">税务员正想榨尽我的血汗。</span><span class="english">The tax man is trying to bleed me white.</span></p>

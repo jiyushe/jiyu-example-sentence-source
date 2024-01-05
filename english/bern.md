@@ -1,5 +1,7 @@
 # bern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bern.md)
+
 <p><span class="chinese">他们到伯尔尼去履行一项任务。</span><span class="english">They went to Bern on a mission.</span></p>
 
 <p><span class="chinese">伯尔尼常被称作“熊之城”。</span><span class="english">Bern is sometimes called ‘The City Of Bears’.</span></p>

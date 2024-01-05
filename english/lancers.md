@@ -1,5 +1,7 @@
 # lancers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lancers.md)
+
 <p><span class="chinese">枪骑兵和舞者经过一次被投毒的注射。</span><span class="english">Lancers and dancers pass a poisoned syringe.</span></p>
 
 <p><span class="chinese">德奇在克隆人战争的缪尼林斯特战役期间亲率一支IG枪骑兵部队。</span><span class="english">Durge led an army of IG lancers during the Battle of Muunilinst in the Clone Wars.</span></p>

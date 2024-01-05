@@ -1,5 +1,7 @@
 # backup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backup.md)
+
 <p><span class="chinese">所以，这就像是备用。</span><span class="english">So it's like a backup.</span></p>
 
 <p><span class="chinese">这是没有备份的计划。</span><span class="english">There is no backup plan.</span></p>

@@ -1,5 +1,7 @@
 # caudate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caudate.md)
+
 <p><span class="chinese">但是这个尾核究竟是如何运转的？</span><span class="english">But what exactly is the caudate computing?</span></p>
 
 <p><span class="chinese">而活性尾区域则发出信号要求跟多的多巴胺。</span><span class="english">The caudate then sends signals for more dopamine.</span></p>

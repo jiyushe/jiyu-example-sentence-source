@@ -1,5 +1,7 @@
 # 字眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyan.md)
+
 <p><span class="chinese">这个字眼是一本书。</span><span class="english">The word was a book.</span></p>
 
 <p><span class="chinese">爱情，多么讽刺的字眼！</span><span class="english">The love, satirizes phrase!</span></p>

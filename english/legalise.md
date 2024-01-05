@@ -1,5 +1,7 @@
 # legalise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legalise.md)
+
 <p><span class="chinese">很少有人切实关注可卡因或海洛因等硬毒品的合法化措施。</span><span class="english">Few people are realistically looking at measures to legalise hard drugs such as cocaine or heroin.</span></p>
 
 <p><span class="chinese">改革必须是政党合法化，这或许会给保守的普什图族人另一个打击的政治目标。</span><span class="english">Reforms could also legalise political parties, which may give conservative Pushtuns a political alternative to fighting.</span></p>

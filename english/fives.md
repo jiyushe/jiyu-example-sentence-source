@@ -1,5 +1,7 @@
 # fives
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fives.md)
+
 <p><span class="chinese">这口井是那口井的五倍深。</span><span class="english">This well is fives times as deep as that one.</span></p>
 
 <p><span class="chinese">你要票额多少的钱？——请给我五元一张的吧。</span><span class="english">How would you like your money? -In fives please.</span></p>

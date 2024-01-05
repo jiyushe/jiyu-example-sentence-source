@@ -1,5 +1,7 @@
 # fearlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fearlessly.md)
+
 <p><span class="chinese">老人无畏地痛揍强盗。</span><span class="english">The old man lit into the robber fearlessly.</span></p>
 
 <p><span class="chinese">他们毫无畏惧地滑来滑去。</span><span class="english">They're skating around fearlessly. Come on.</span></p>

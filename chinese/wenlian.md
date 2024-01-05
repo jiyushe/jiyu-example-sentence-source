@@ -1,5 +1,7 @@
 # 文联
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenlian.md)
+
 <p><span class="chinese">我们不需要文联的帮助。</span><span class="english">We do not need that help.</span></p>
 
 <p><span class="chinese">上赛季代表尤文联赛出场33次，进了两个球。</span><span class="english">Aquilani scored twice in 33 league appearances for Juventus last season.</span></p>

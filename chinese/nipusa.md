@@ -1,5 +1,7 @@
 # 泥菩萨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nipusa.md)
+
 <p><span class="chinese">他本人是泥菩萨过河，自身难保。</span><span class="english">He could not keep himself safe like mud bodhisattva pass river.</span></p>
 
 <p><span class="chinese">还记得“泥菩萨”和他可怕的顽疾么？</span><span class="english">Remember the monk "mud bodhisattva" and his terrible skin infections?</span></p>

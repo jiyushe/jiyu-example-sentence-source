@@ -1,5 +1,7 @@
 # relict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relict.md)
+
 <p><span class="chinese">中国古土壤现分为埋藏土和残余土两大类。</span><span class="english">Paleosols of China are divided into buried and relict soils.</span></p>
 
 <p><span class="chinese">百日青是南亚热带区系古老的孑遗树种。</span><span class="english">Podocarpus neriifolius is an ancient subtropical relict flora species.</span></p>

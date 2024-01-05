@@ -1,5 +1,7 @@
 # 体型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tixing.md)
+
 <p><span class="chinese">应聘者必须拥有令人赏心悦目的体型。</span><span class="english">Must have pleasant nature.</span></p>
 
 <p><span class="chinese">和体型微胖的朋友聚聚餐</span><span class="english">Go for dinner with fat friends</span></p>

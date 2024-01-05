@@ -1,5 +1,7 @@
 # 片理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianli_1.md)
+
 <p><span class="chinese">即使变质岩中的片理以及辉长岩中的条带也可产生弯曲而形成褶皱。</span><span class="english">Even foliated metamorphic rocks and banded gabbro can BE curved to form folds.</span></p>
 
 <p><span class="chinese">分析片理面对二云石英片岩蠕变的影响。</span><span class="english">Then, the effects of schistosity planes on creep laws of mica-quartz schist are analyzed.</span></p>

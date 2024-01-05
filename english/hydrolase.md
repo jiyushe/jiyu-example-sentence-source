@@ -1,5 +1,7 @@
 # hydrolase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrolase.md)
+
 <p><span class="chinese">棉蚜的抗药性增加与体内水解酯酶活力有关。</span><span class="english">The resistance of aphid is related to activity of hydrolase of aphid.</span></p>
 
 <p><span class="chinese">简要介绍环氧化物水解酶的研究进展。</span><span class="english">Progresses in research work of epoxide hydrolase were briefly introduced.</span></p>

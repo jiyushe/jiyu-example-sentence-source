@@ -1,5 +1,7 @@
 # variation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variation.md)
+
 <p><span class="chinese">这个变化是巨大的。</span><span class="english">This variation is huge.</span></p>
 
 <p><span class="chinese">我再来一道题</span><span class="english">Here's another variation.</span></p>

@@ -1,5 +1,7 @@
 # 星系团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxituan.md)
+
 <p><span class="chinese">星系团外围还有奇异特征。</span><span class="english">Even odder features lie in the outer parts of the cluster.</span></p>
 
 <p><span class="chinese">然而在星系团的星系中，拥有活动星系核的才只不过少数几个。</span><span class="english">However, only a few of the cluster's galaxies contain AGN.</span></p>

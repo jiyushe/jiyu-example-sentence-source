@@ -1,5 +1,7 @@
 # lz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lz.md)
+
 <p><span class="chinese">梦，梦中的梦中，一切都是在做梦！</span><span class="english">LZ are dreaming a day-dream.</span></p>
 
 <p><span class="chinese">信标必须安置在指定的着陆点。</span><span class="english">Beacon must be placed in the designated LZ.</span></p>

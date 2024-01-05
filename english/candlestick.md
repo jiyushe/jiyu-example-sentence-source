@@ -1,5 +1,7 @@
 # candlestick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candlestick.md)
+
 <p><span class="chinese">没有，先生，只有烛台在地板上。</span><span class="english">No, sir, only the candlestick on the ground.</span></p>
 
 <p><span class="chinese">蜡烛在烛台上淌著蜡。</span><span class="english">The candle was guttering in the candlestick.</span></p>

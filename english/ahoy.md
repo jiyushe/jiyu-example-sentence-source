@@ -1,5 +1,7 @@
 # ahoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ahoy.md)
+
 <p><span class="chinese">喂，小尕子，你叫啥名字？</span><span class="english">Ahoy , young man, what's your name?</span></p>
 
 <p><span class="chinese">他是在跟一大袋的洋芋片苦苦挣扎。</span><span class="english">He was in bed with a big bag of Chips Ahoy.</span></p>

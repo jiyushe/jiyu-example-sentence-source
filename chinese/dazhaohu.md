@@ -1,5 +1,7 @@
 # 打招呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhaohu.md)
+
 <p><span class="chinese">我低下头向它打招呼。</span><span class="english">I looked down to greet it.</span></p>
 
 <p><span class="chinese">他们乐呵呵地跟你打招呼。</span><span class="english">They'd greet you with a grin.</span></p>

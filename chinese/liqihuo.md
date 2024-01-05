@@ -1,5 +1,7 @@
 # 力气活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liqihuo.md)
+
 <p><span class="chinese">但是俺已经老得干不了力气活了，所以俺来到北京当乞丐。</span><span class="english">I decided to go to Beijing and become a beggar.</span></p>
 
 <p><span class="chinese">现在的青年人都不怎么能干力气活了。</span><span class="english">Now most of the young people are unable to do manual labor.</span></p>

@@ -1,5 +1,7 @@
 # 软盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanpan.md)
+
 <p><span class="chinese">对于软盘，它应为0。</span><span class="english">For floppies, it should be 0.</span></p>
 
 <p><span class="chinese">不惜一切代价避免使用软盘。</span><span class="english">Avoid using floppies at all cost.</span></p>

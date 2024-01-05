@@ -1,5 +1,7 @@
 # 浴场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuchang.md)
+
 <p><span class="chinese">那时我在一个温泉浴场。</span><span class="english">I was just in a spa.</span></p>
 
 <p><span class="chinese">是第三海水浴场。</span><span class="english">This is the third beach.</span></p>

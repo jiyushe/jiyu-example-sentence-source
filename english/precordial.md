@@ -1,5 +1,7 @@
 # precordial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precordial.md)
+
 <p><span class="chinese">有时可出现心前区不适。</span><span class="english">Sometimes there may be precordial discomfort.</span></p>
 
 <p><span class="chinese">胸前导联心房波无明显变化。</span><span class="english">Atrial wave in precordial leads had not any change.</span></p>

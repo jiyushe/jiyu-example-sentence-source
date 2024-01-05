@@ -1,5 +1,7 @@
 # 爽直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangzhi.md)
+
 <p><span class="chinese">他天性爽直。</span><span class="english">He is frank by nature.</span></p>
 
 <p><span class="chinese">他是一位??爽直的政客。</span><span class="english">He is an outspoken politician.</span></p>

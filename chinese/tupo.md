@@ -1,5 +1,7 @@
 # 突破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tupo.md)
+
 <p><span class="chinese">这对我来说是一个突破。</span><span class="english">It was a breakthrough for me.</span></p>
 
 <p><span class="chinese">这是一项重大突破。</span><span class="english">This is a major breakthrough.</span></p>

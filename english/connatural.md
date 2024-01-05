@@ -1,5 +1,7 @@
 # connatural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connatural.md)
+
 <p><span class="chinese">由于其本身固有的种种弊端，已经不能够满足要求。</span><span class="english">It will not satisfy the demand because of some connatural disadvantage.</span></p>
 
 <p><span class="chinese">而我国证券市场在政府定位问题上有其固有的缺陷。</span><span class="english">But the position of stock market in the government has it connatural limitation.</span></p>

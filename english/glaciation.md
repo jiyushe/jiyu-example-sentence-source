@@ -1,5 +1,7 @@
 # glaciation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glaciation.md)
+
 <p><span class="chinese">这些山丘是冰川作用形成的。</span><span class="english">These hills were formed by glaciation.</span></p>
 
 <p><span class="chinese">东海岸是在更新世的冰川作用下形成的。</span><span class="english">It has been shaped by the Pleistocene Glaciation.</span></p>

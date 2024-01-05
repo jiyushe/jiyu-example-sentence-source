@@ -1,5 +1,7 @@
 # 六月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuyue.md)
+
 <p><span class="chinese">我写作本文时间是六月。</span><span class="english">I write this in June.</span></p>
 
 <p><span class="chinese">罗宾•唐妮的生日是六月十九日。</span><span class="english">Her birth date is June 19.</span></p>

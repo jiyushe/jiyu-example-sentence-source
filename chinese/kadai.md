@@ -1,5 +1,7 @@
 # 卡带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kadai.md)
+
 <p><span class="chinese">卡带到这里就结束了。</span><span class="english">And the tape ends.</span></p>
 
 <p><span class="chinese">瑙西卡带着奥德修斯去她父亲的宫殿。</span><span class="english">Nausikaa leads Odysseus to the palace of her father.</span></p>

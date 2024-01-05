@@ -1,5 +1,7 @@
 # 靠手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaoshou.md)
+
 <p><span class="chinese">人们读书都是靠手抄写。</span><span class="english">The books people read were all copied by hand.</span></p>
 
 <p><span class="chinese">这全靠手—眼来协调，并且我相信我的能力。</span><span class="english">It's all hand-eye coordination, and I believe in my ability.</span></p>

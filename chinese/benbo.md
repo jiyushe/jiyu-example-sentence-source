@@ -1,5 +1,7 @@
 # 奔波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benbo.md)
+
 <p><span class="chinese">你在飘飞，你在奔波。</span><span class="english">Thou dost float and run.</span></p>
 
 <p><span class="chinese">大哥继续奔波于各大慈善事业</span><span class="english">Jackie Continues Charitable Work</span></p>

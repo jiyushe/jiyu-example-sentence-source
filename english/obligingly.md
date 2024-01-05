@@ -1,5 +1,7 @@
 # obligingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obligingly.md)
+
 <p><span class="chinese">它将非常乐于发芽。</span><span class="english">It germinates very obligingly.</span></p>
 
 <p><span class="chinese">此时镜头拉近了他的裤子。</span><span class="english">The camera obligingly panned his trousers.</span></p>

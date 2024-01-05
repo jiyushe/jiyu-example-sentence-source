@@ -1,5 +1,7 @@
 # refinish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refinish.md)
+
 <p><span class="chinese">塑胶金属PU漆，铝粉漆，汽车修补漆。</span><span class="english">Plastic and metal PU coating, sparking silver coating, car refinish.</span></p>
 
 <p><span class="chinese">一个被雇来修复或修整古代设备的技术工人。</span><span class="english">A skilled worker who is employed to restore or refinish antique furniture.</span></p>

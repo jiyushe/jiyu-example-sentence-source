@@ -1,5 +1,7 @@
 # asymptomatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asymptomatic.md)
+
 <p><span class="chinese">也没有无症状的病毒携带者</span><span class="english">There were no asymptomatic carriers.</span></p>
 
 <p><span class="chinese">无症状性菌尿在糖尿病患者中很常见。</span><span class="english">Asymptomatic bacteriuria is common in diabetic patients.</span></p>

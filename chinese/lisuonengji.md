@@ -1,5 +1,7 @@
 # 力所能及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lisuonengji.md)
+
 <p><span class="chinese">你已经做了你力所能及的。</span><span class="english">You have done what you could.</span></p>
 
 <p><span class="chinese">当时，他确实觉得这是他力所能及的。</span><span class="english">He then really thought himself equal to it.</span></p>

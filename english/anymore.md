@@ -1,5 +1,7 @@
 # anymore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anymore.md)
+
 <p><span class="chinese">没响了。</span><span class="english">Not anymore.</span></p>
 
 <p><span class="chinese">我今天不弱。</span><span class="english">I am not weak anymore.</span></p>

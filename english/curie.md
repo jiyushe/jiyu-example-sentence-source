@@ -1,5 +1,7 @@
 # curie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curie.md)
+
 <p><span class="chinese">根据退磁曲线估计其居里点为500℃左右。</span><span class="english">It's curie point is about 500℃.</span></p>
 
 <p><span class="chinese">居里夫人发现了镭。</span><span class="english">Madame Curie discovered radium.</span></p>

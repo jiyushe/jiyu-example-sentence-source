@@ -1,5 +1,7 @@
 # menial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menial.md)
+
 <p><span class="chinese">比如，你的工作很卑微。</span><span class="english">For instance, say you have a menial job.</span></p>
 
 <p><span class="chinese">把工作视为一种下等劳动是一个很严重的问题。</span><span class="english">And that’s really the biggest problem with seeing work as menial labor.</span></p>

@@ -1,5 +1,7 @@
 # roustabout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roustabout.md)
+
 <p><span class="chinese">我只适合干码头工。</span><span class="english">I'm only fit for a roustabout.</span></p>
 
 <p><span class="chinese">如果你不知道什么是一个码头工人，你可能并不孤单。</span><span class="english">If you're not sure what a Roustabout is, you're probably not alone.</span></p>

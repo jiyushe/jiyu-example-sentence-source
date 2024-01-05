@@ -1,5 +1,7 @@
 # irate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irate.md)
+
 <p><span class="chinese">我的看护人一站上这里就开始生气。</span><span class="english">When my caretakers step here they become irate.</span></p>
 
 <p><span class="chinese">一个人将邻居的脏乱的房子跟目的相比而激怒了当地人。</span><span class="english">One irate local compares a room in his neighbor’s dirt house to a grave.</span></p>

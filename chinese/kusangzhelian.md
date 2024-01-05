@@ -1,5 +1,7 @@
 # 哭丧着脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kusangzhelian.md)
+
 <p><span class="chinese">孩子们一个个都哭丧着脸。</span><span class="english">The children pulled a long face.</span></p>
 
 <p><span class="chinese">我就哭丧着脸低着头，害怕被别人看到。</span><span class="english">I'll never face low head, afraid of being seen.</span></p>

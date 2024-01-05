@@ -1,5 +1,7 @@
 # eng
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eng.md)
+
 <p><span class="chinese">你套过分了！</span><span class="english">Eng. You're overdoing it!</span></p>
 
 <p><span class="chinese">没想到你的英语这么好！</span><span class="english">I never imagined your Eng.</span></p>

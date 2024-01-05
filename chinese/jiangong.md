@@ -1,5 +1,7 @@
 # 监工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangong.md)
+
 <p><span class="chinese">监工就叫来了约翰·亨利。</span><span class="english">The supervisor called to John Henry.</span></p>
 
 <p><span class="chinese">认识到业务是个残酷的监工。</span><span class="english">Recognize that business is a cruel taskmaster.</span></p>

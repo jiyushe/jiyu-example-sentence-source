@@ -1,5 +1,7 @@
 # coziness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coziness.md)
+
 <p><span class="chinese">漫长的出差之后，躺在自己家里温暖的床上。</span><span class="english">The warm coziness of my own bed after I return home from a long business trip.</span></p>
 
 <p><span class="chinese">都说咖啡师苦涩的，而我对于它的最早的记忆却偏偏怀着几分温馨。</span><span class="english">It was said coffee was bitter, but my earliest memory embraced it with some coziness.</span></p>

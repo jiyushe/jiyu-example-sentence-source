@@ -1,5 +1,7 @@
 # genetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genetic.md)
+
 <p><span class="chinese">那么，这是遗传的吗？</span><span class="english">Well, is it genetic?</span></p>
 
 <p><span class="chinese">请问这是风湿痛遗传吗？</span><span class="english">Is it genetic rheumatism it?</span></p>

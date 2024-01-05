@@ -1,5 +1,7 @@
 # 号召
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haozhao.md)
+
 <p><span class="chinese">以一个引证结束，或者号召大家去行动。</span><span class="english">Conclude with a quote or call to action.</span></p>
 
 <p><span class="chinese">起初，他们对改革的号召加以抵制。</span><span class="english">At first they resisted the call for reform.</span></p>

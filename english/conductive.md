@@ -1,5 +1,7 @@
 # conductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conductive.md)
+
 <p><span class="chinese">高导磁性铁芯。</span><span class="english">High magnetic conductive steel core.</span></p>
 
 <p><span class="chinese">银是导电性能很好的金属。</span><span class="english">Silver is a highly conductive metal.</span></p>

@@ -1,5 +1,7 @@
 # throwback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throwback.md)
+
 <p><span class="chinese">这满后背的毛发是对女人们的“致命诱惑”还是要回石器时代的返祖现象？</span><span class="english">Or a throwback to the Stone Age?</span></p>
 
 <p><span class="chinese">意大利的桔子大战可以追溯到中世纪时期。</span><span class="english">Italy's Battle of Oranges is a throwback to the Middle Ages.</span></p>

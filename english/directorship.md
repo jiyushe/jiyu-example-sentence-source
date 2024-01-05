@@ -1,5 +1,7 @@
 # directorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/directorship.md)
+
 <p><span class="chinese">有限公司请他出任董事。</span><span class="english">He is offered a directorship with Smith Ltd.</span></p>
 
 <p><span class="chinese">他明年从主管职位上退休。</span><span class="english">He will retire from his directorship next year.</span></p>

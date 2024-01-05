@@ -1,5 +1,7 @@
 # pumice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pumice.md)
+
 <p><span class="chinese">就在巴亚海湾的一个浮石岛边</span><span class="english">Beside a pumice isle in Baiae's bay</span></p>
 
 <p><span class="chinese">睡在拜伊海湾的一个石岛的旁边。</span><span class="english">Beside a pumice isle in Baiaes bay.</span></p>

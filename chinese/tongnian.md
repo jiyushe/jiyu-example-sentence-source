@@ -1,5 +1,7 @@
 # 同年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongnian.md)
+
 <p><span class="chinese">同年，阿帕网停止使用了。</span><span class="english">The same year, Arpanet ceased to exist.</span></p>
 
 <p><span class="chinese">同年晚些时候利润开始源源而来。</span><span class="english">Profits began to flow in later the same year.</span></p>

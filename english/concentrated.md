@@ -1,5 +1,7 @@
 # concentrated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concentrated.md)
+
 <p><span class="chinese">绿色越多，春意越浓。</span><span class="english">More green, more concentrated spring.</span></p>
 
 <p><span class="chinese">橘子汁已经过浓缩。</span><span class="english">The orange juice has been concentrated.</span></p>

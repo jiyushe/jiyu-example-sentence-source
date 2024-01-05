@@ -1,5 +1,7 @@
 # 尸首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishou_2.md)
+
 <p><span class="chinese">一只饥饿的豺狗早己把尸首拖入自己的洞穴。</span><span class="english">A hungry jackal had dragged it to his lair.</span></p>
 
 <p><span class="chinese">让他的尸首去夸耀它的陋穴和骨灰瓮。</span><span class="english">His corse may boast its urn and narrow cave.</span></p>

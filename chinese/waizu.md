@@ -1,5 +1,7 @@
 # 外族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waizu.md)
+
 <p><span class="chinese">但现在,这个地区已经被外族征服了</span><span class="english">It has been conquered by now by other peoples.</span></p>
 
 <p><span class="chinese">中国大陆很少和外族通婚更别说嫁给那些非洲人了。</span><span class="english">Mainland chinese seldom intermarry let alone marrying those of African descent.</span></p>

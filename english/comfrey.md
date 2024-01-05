@@ -1,5 +1,7 @@
 # comfrey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comfrey.md)
+
 <p><span class="chinese">它是很好闻的草的味道，并且吸收很快。</span><span class="english">It has a pleasant comfrey smell and is absorbed fast.</span></p>
 
 <p><span class="chinese">奥图玫瑰精油、芦荟、洋甘菊、薰衣草、人参萃取精华、紫草萃取精华。</span><span class="english">Rose Otto Oil, Aloe Vera, Chamomile, Lavender, Ginseng and Comfrey extracts.</span></p>

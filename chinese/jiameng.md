@@ -1,5 +1,7 @@
 # 加盟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiameng.md)
+
 <p><span class="chinese">郭京申于1997年加盟英特尔公司。</span><span class="english">Mr. Guo first joined Intel in 1997.</span></p>
 
 <p><span class="chinese">他们约请我加盟他们铜管乐队。</span><span class="english">They invited me to join their brass band.</span></p>

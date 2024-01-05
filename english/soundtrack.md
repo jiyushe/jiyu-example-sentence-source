@@ -1,5 +1,7 @@
 # soundtrack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soundtrack.md)
+
 <p><span class="chinese">那么你最喜欢NM原声带里的哪首歌曲呢？</span><span class="english">What's your favorite song from the NM soundtrack?</span></p>
 
 <p><span class="chinese">山光水声，犹如一幅配乐的风景画。</span><span class="english">Shan Kwong water, the landscape is like a soundtrack.</span></p>

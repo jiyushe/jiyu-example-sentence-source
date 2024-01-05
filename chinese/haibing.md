@@ -1,5 +1,7 @@
 # 海冰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haibing.md)
+
 <p><span class="chinese">北极海冰近况与分析.</span><span class="english">Arctic Sea Ice News and Analysis.</span></p>
 
 <p><span class="chinese">全南极海冰区。</span><span class="english">SPI4, the whole Antarctic sea region.</span></p>

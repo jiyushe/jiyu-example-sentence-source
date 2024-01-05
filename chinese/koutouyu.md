@@ -1,5 +1,7 @@
 # 口头语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koutouyu.md)
+
 <p><span class="chinese">口头语往往被人们滥用，有时甚至会变得很烦人。</span><span class="english">Pet phrases tend to be overused by people and sometimes even become annoying.</span></p>
 
 <p><span class="chinese">俚语是通俗的口头语，带有浓郁的地方色彩和民间韵味。</span><span class="english">As a patois , or colloquial , slang is permeated with rich local color and flavor.</span></p>

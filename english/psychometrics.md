@@ -1,5 +1,7 @@
 # psychometrics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychometrics.md)
+
 <p><span class="chinese">第一部分阐述了犯罪心理测试技术原理及历史发展。</span><span class="english">The first part reviewed history and theory of Crime Psychometrics.</span></p>
 
 <p><span class="chinese">第四部分阐述了犯罪心理测试结论的证据价值。</span><span class="english">The last part discussed the evidence value of crime psychometrics.</span></p>

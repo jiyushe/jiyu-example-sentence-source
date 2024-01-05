@@ -1,5 +1,7 @@
 # eyeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyeless.md)
+
 <p><span class="chinese">或者像个没有眼珠的阴郁的娃娃，抱着忧伤。</span><span class="english">Or hug your sadness like an eyeless doll.</span></p>
 
 <p><span class="chinese">在加沙无眼与在工厂的奴隶。</span><span class="english">Eyeless in Gaza with the slaves at the mill.</span></p>

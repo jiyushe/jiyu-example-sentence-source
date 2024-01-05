@@ -1,5 +1,7 @@
 # apparitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apparitor.md)
+
 <p><span class="chinese">雅虎首席执行官杨致远及其治理团队现在面临更大的压力。</span><span class="english">Presiding apparitor Yang Zhiyuan and its management group are faced with Yahoo now greater pressure.</span></p>
 
 <p><span class="chinese">而马化腾不仅仅是公司的首席执行官，更是公司的第一产品经理。</span><span class="english">And the presiding apparitor that Ma Huateng is a company not just, it is the manager of the first product of the company more.</span></p>

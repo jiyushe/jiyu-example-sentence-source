@@ -1,5 +1,7 @@
 # messina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/messina.md)
+
 <p><span class="chinese">我们要去墨西拿。</span><span class="english">We're going to Messina.</span></p>
 
 <p><span class="chinese">毕竟，墨西拿是关键。</span><span class="english">After all, Messina is the key.</span></p>

@@ -1,5 +1,7 @@
 # theology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theology.md)
+
 <p><span class="chinese">神学是多余的。</span><span class="english">Theology is unnecessary.</span></p>
 
 <p><span class="chinese">人间不可能有普世性的神学。</span><span class="english">A universal theology is impossible.</span></p>

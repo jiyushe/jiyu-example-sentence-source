@@ -1,5 +1,7 @@
 # gained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gained.md)
+
 <p><span class="chinese">我都重了5公斤了。</span><span class="english">I gained five kilograms.</span></p>
 
 <p><span class="chinese">现在我们得到了什么？</span><span class="english">What have we gained now?</span></p>

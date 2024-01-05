@@ -1,5 +1,7 @@
 # 有说有笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshuoyouxiao.md)
+
 <p><span class="chinese">我需要她待在我家里叽叽喳喳地有说有笑。</span><span class="english">I want to keep her to babble about the house.</span></p>
 
 <p><span class="chinese">然后，他们骑着马继续前行，跟原来那样有说有笑。</span><span class="english">Then they rode on, talking and laughing as before.</span></p>

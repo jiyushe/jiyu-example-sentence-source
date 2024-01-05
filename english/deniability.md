@@ -1,5 +1,7 @@
 # deniability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deniability.md)
+
 <p><span class="chinese">协议具有强不可伪造性和强不可否认性。</span><span class="english">The proposed protocol provides strong non-forgeability and strong non- deniability.</span></p>
 
 <p><span class="chinese">腐败官员一般会跟他们的白手套们刻意保持距离，以使自己有否认的空间。</span><span class="english">Corrupt officials deliberately keep some distance from their white gloves to give them room for deniability.</span></p>

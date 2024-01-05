@@ -1,5 +1,7 @@
 # 鸦雀无声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaquewusheng.md)
+
 <p><span class="chinese">突然一切都变得鸦雀无声。</span><span class="english">Suddenly, everything grew quiet.</span></p>
 
 <p><span class="chinese">回来的路上，车厢内鸦雀无声。</span><span class="english">Back on the road, it was dead silent in the car.</span></p>

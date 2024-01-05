@@ -1,5 +1,7 @@
 # bronchogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronchogenic.md)
+
 <p><span class="chinese">主要研究原发性支气管肺癌的病因病机。</span><span class="english">This paper studies the primary bronchogenic carcinoma pathogenesis.</span></p>
 
 <p><span class="chinese">目的探讨原发性支气管肺癌的误诊原因及早期诊断。</span><span class="english">Objectve To study the value of CT in the staging of bronchogenic carcinoma.</span></p>

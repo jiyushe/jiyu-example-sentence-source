@@ -1,5 +1,7 @@
 # hygrometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hygrometer.md)
+
 <p><span class="chinese">研制了一种测量钻井液活度的电子湿度计。</span><span class="english">An electronic hygrometer for measuring drilling fluid activity is developed.</span></p>
 
 <p><span class="chinese">介绍一种用于病人监护仪的光纤湿度传感器的设计。</span><span class="english">Tbis paper presents the design of a kind of fiber optic hygrometer using in patient monitor.</span></p>

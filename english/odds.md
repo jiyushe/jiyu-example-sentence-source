@@ -1,5 +1,7 @@
 # odds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odds.md)
+
 <p><span class="chinese">你知道概率有多小么?。</span><span class="english">Do you know what the odds are?</span></p>
 
 <p><span class="chinese">赛跑前，胜负的可能性变得接近了。</span><span class="english">The odds evened before the race.</span></p>

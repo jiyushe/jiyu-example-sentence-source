@@ -1,5 +1,7 @@
 # 三缄其口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanjianqikou.md)
+
 <p><span class="chinese">至于二人密谋了什么，巩晓彬同样三缄其口。</span><span class="english">As for the two-person conspiracy what, Gong Xiaobin tight- lipped about the same.</span></p>
 
 <p><span class="chinese">在我的经验里，风险管理着被问到这个估值从何而来时通常会三缄其口。</span><span class="english">In my experience, risk managers go silent when asked where exactly this number comes from.</span></p>

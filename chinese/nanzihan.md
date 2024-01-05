@@ -1,5 +1,7 @@
 # 男子汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanzihan.md)
+
 <p><span class="chinese">现在要像个男子汉。</span><span class="english">Be a man now.</span></p>
 
 <p><span class="chinese">你真是个男子汉。</span><span class="english">You’re a man.</span></p>

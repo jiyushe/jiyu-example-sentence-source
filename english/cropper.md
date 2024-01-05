@@ -1,5 +1,7 @@
 # cropper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cropper.md)
+
 <p><span class="chinese">这样的话，他彻底失败的时间更快。</span><span class="english">That way he'll come a cropper sooner.</span></p>
 
 <p><span class="chinese">但这只得到了参议院的一个种植者的响应。</span><span class="english">But that came a cropper in the Senate.</span></p>

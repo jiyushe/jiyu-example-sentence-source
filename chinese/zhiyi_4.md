@@ -1,5 +1,7 @@
 # 致意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyi_4.md)
+
 <p><span class="chinese">请向厨师代为致意！</span><span class="english">Mys to the chef!</span></p>
 
 <p><span class="chinese">向您的夫人致意。</span><span class="english">Mys to your wife.</span></p>

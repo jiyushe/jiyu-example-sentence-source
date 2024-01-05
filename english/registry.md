@@ -1,5 +1,7 @@
 # registry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/registry.md)
+
 <p><span class="chinese">它属于一个资产注册表。</span><span class="english">It belongs to an asset registry.</span></p>
 
 <p><span class="chinese">这正是注册中心大显身手的地方。</span><span class="english">This is where the registry steps in.</span></p>

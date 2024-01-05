@@ -1,5 +1,7 @@
 # 仆人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puren.md)
+
 <p><span class="chinese">因此，除了她丈夫之外，送殡的全是佃户和仆人，伊莎贝拉没有得到邀请。</span><span class="english">Isabella was not asked.</span></p>
 
 <p><span class="chinese">她对仆人凶神恶煞似的。</span><span class="english">She is hell on servants.</span></p>

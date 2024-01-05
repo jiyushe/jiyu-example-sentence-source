@@ -1,5 +1,7 @@
 # coptis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coptis.md)
+
 <p><span class="chinese">姐经已系哑巴咗，唔通还得食黄连唔成？</span><span class="english">Sister is already dumb, and it still fails I eat Coptis?</span></p>
 
 <p><span class="chinese">黄连种子需要在低温条件下才能解除休眠。</span><span class="english">The seeds of Coptis chinensis need stratification to break dormancy.</span></p>

@@ -1,5 +1,7 @@
 # interaction 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interaction.md)
+
 <p><span class="chinese">所以这是种双向互动</span><span class="english">So, two-way interaction.</span></p>
 
 <p><span class="chinese">这是一种相互影响。</span><span class="english">It's an interaction effect.</span></p>

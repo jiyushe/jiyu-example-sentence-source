@@ -1,5 +1,7 @@
 # ferrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferrum.md)
+
 <p><span class="chinese">为什么中国人容易缺乏钙和铁?。</span><span class="english">Why Chinese people usually lack of calcium and ferrum ?</span></p>
 
 <p><span class="chinese">在汽车轮毂行业，铝合金轮毂取代钢制轮毂已成为行业发展不可逆转的潮流。</span><span class="english">It is consequent that aluminum will substitute for ferrum in auto-hub industry.</span></p>

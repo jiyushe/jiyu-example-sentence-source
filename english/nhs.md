@@ -1,5 +1,7 @@
 # nhs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nhs.md)
+
 <p><span class="chinese">而这一切你都可以从国家卫生事业局那里免费得到。</span><span class="english">And you can get all of these for free on the NHS.</span></p>
 
 <p><span class="chinese">只有MMR联合疫苗才能得到英国国民保险。</span><span class="english">Only the combined MMR vaccine is available on the NHS.</span></p>

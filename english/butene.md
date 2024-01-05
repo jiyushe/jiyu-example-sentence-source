@@ -1,5 +1,7 @@
 # butene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butene.md)
+
 <p><span class="chinese">动力学方程服从丁烯异构化三角反应的L-H机理。</span><span class="english">The kinetic equations obey the L-H mechanism of triangular reaction of isomerization of butene.</span></p>
 
 <p><span class="chinese">采用水热法合成了新型多孔材料MCM-22分子筛，并将其用于丁烯齐聚反应。</span><span class="english">MCM-22 zeolite was synthesized under stirring by hydrothermal method and used as the catalyst for butene oligomerization.</span></p>

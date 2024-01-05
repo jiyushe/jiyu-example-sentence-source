@@ -1,5 +1,7 @@
 # 是是非非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishifeifei.md)
+
 <p><span class="chinese">也许发生在我们身边的是是非非。</span><span class="english">May occur in the performance of our side.</span></p>
 
 <p><span class="chinese">世间的是是非非都是相对的。</span><span class="english">Right and wrong in this world are relative.</span></p>

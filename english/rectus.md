@@ -1,5 +1,7 @@
 # rectus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rectus.md)
+
 <p><span class="chinese">垂直腿紧缩工程腹直肌。</span><span class="english">Vertical leg crunch works the rectus abdominis.</span></p>
 
 <p><span class="chinese">术中不切断股直肌的起点，减少损伤。</span><span class="english">To decrease the damage, don't excise rectus femoris.</span></p>

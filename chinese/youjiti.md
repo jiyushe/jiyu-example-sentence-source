@@ -1,5 +1,7 @@
 # 有机体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjiti.md)
+
 <p><span class="chinese">这是一种世界是个有机体的概念</span><span class="english">It's an organic conception of the world.</span></p>
 
 <p><span class="chinese">白杨树林往往是一个很大的有机体。</span><span class="english">Aspen groves are often one large organism</span></p>

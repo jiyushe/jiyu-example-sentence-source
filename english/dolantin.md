@@ -1,5 +1,7 @@
 # dolantin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dolantin.md)
+
 <p><span class="chinese">镇痛时间比度冷丁、氨基比林长。</span><span class="english">The analgesic effect of CP in mice lasted longer than Dolantin and Aminopyrine.</span></p>
 
 <p><span class="chinese">结论曲马多的镇痛疗效优于度冷丁。</span><span class="english">Conclusion The pain relief effects of tramadol are superior to those of dolantin.</span></p>

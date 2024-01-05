@@ -1,5 +1,7 @@
 # normalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/normalize.md)
+
 <p><span class="chinese">数据规范化导致性能的急剧下降。</span><span class="english">Performance falls off as RDBMSs normalize data.</span></p>
 
 <p><span class="chinese">中国和老挝直到1988年才恢复邦交正常化。</span><span class="english">China and Laos did not normalize ties until 1988.</span></p>

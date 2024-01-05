@@ -1,5 +1,7 @@
 # drawing 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drawing.md)
+
 <p><span class="chinese">画画他很拿手。</span><span class="english">He's good at drawing.</span></p>
 
 <p><span class="chinese">我喜欢画虎。</span><span class="english">I like drawing tigers.</span></p>

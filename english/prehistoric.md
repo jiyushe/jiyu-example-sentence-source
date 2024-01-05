@@ -1,5 +1,7 @@
 # prehistoric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prehistoric.md)
+
 <p><span class="chinese">史前人用打火石刀。</span><span class="english">Prehistoric man used flint knives.</span></p>
 
 <p><span class="chinese">西蒙那辆陈旧不堪的车还用吗?。</span><span class="english">Is Simon's prehistoric car still working?</span></p>

@@ -1,5 +1,7 @@
 # stew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stew.md)
+
 <p><span class="chinese">她尝了一口那道炖菜。</span><span class="english">She tasted the stew.</span></p>
 
 <p><span class="chinese">炖肉尝起来很咸。</span><span class="english">The stew tastes salty.</span></p>

@@ -1,5 +1,7 @@
 # leafless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leafless.md)
+
 <p><span class="chinese">花儿唱歌叶儿听。</span><span class="english">Leafless flower singing listen.</span></p>
 
 <p><span class="chinese">梨花落尽成秋苑。</span><span class="english">Leafless autumn pear into Court.</span></p>

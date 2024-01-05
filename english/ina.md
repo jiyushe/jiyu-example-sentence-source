@@ -1,5 +1,7 @@
 # ina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ina.md)
+
 <p><span class="chinese">他在一个井队工作。</span><span class="english">He works ina drilling crew.</span></p>
 
 <p><span class="chinese">急弯处河流或道路的急拐弯处。</span><span class="english">A sharp bend ina river or road.</span></p>

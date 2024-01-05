@@ -1,5 +1,7 @@
 # 批准书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pizhunshu.md)
+
 <p><span class="chinese">他们已经退回我送的两份批准书了。</span><span class="english">They've already sent back two approvals I sent them.</span></p>
 
 <p><span class="chinese">阿尔伯特？你能也在这份批准书签字吗？财务部变得越来越严格了。</span><span class="english">Albert?Could you co-sign this approval sheet? Accounting's getting really picky.</span></p>

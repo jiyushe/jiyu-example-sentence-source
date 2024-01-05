@@ -1,5 +1,7 @@
 # venezuelan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venezuelan.md)
+
 <p><span class="chinese">委内瑞拉官员对此守口如瓶。</span><span class="english">Venezuelan officials were tight-lipped.</span></p>
 
 <p><span class="chinese">委内瑞拉的政治最近很纷杂。</span><span class="english">Venezuelan politics have been very complicated lately.</span></p>

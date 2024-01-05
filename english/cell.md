@@ -1,5 +1,7 @@
 # cell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cell.md)
+
 <p><span class="chinese">动物细胞？</span><span class="english">Animal cell?</span></p>
 
 <p><span class="chinese">对于镰状细胞性贫血。</span><span class="english">Sickle cell anemia.</span></p>

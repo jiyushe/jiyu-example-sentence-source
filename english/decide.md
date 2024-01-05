@@ -1,5 +1,7 @@
 # decide 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decide.md)
+
 <p><span class="chinese">然后决定不这么做。</span><span class="english">Then decide not to.</span></p>
 
 <p><span class="chinese">我决定做个实验。</span><span class="english">I decide to experiment.</span></p>

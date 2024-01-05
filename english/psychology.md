@@ -1,5 +1,7 @@
 # psychology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychology.md)
+
 <p><span class="chinese">也是一般的心理。</span><span class="english">Is norming psychology.</span></p>
 
 <p><span class="chinese">心理学的。</span><span class="english">ABC The A, B, C of psychology.</span></p>

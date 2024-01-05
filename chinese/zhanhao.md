@@ -1,5 +1,7 @@
 # 战壕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanhao.md)
+
 <p><span class="chinese">士兵们用战壕防御前哨。</span><span class="english">The soldiers trenched an outpost.</span></p>
 
 <p><span class="chinese">从德国战壕中发现的吊裤带。</span><span class="english">A suspender found in a German dugout.</span></p>

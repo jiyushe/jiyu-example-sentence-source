@@ -1,5 +1,7 @@
 # endemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endemic.md)
+
 <p><span class="chinese">霍乱是加尔各答的流行病。</span><span class="english">Cholera is endemic in Kolkota.</span></p>
 
 <p><span class="chinese">在北美，肥胖已成一种地方病。</span><span class="english">Obesity is endemic in North America.</span></p>

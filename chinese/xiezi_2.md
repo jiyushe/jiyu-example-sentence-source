@@ -1,5 +1,7 @@
 # 蝎子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezi_2.md)
+
 <p><span class="chinese">蝎子们将很快对此感到无聊。</span><span class="english">Scorpios will soon get bored with this.</span></p>
 
 <p><span class="chinese">蝎子的毒钩在其尾部。</span><span class="english">The sting of a scorpion is in its tail.</span></p>

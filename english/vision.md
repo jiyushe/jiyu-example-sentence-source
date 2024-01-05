@@ -1,5 +1,7 @@
 # vision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vision.md)
+
 <p><span class="chinese">有眼力的人。</span><span class="english">A man of vision.</span></p>
 
 <p><span class="chinese">但这是一个全新的景象。</span><span class="english">But it is a fresh vision.</span></p>

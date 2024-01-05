@@ -1,5 +1,7 @@
 # curling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curling.md)
+
 <p><span class="chinese">她头发上插着些曲别针。</span><span class="english">She had curling pins in her hair.</span></p>
 
 <p><span class="chinese">冰上溜石是国际冰上运动。</span><span class="english">Curling is a nationwide ice sport.</span></p>

@@ -1,5 +1,7 @@
 # robotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/robotic.md)
+
 <p><span class="chinese">那只机器猫能摇尾巴。</span><span class="english">The robotic cat can wag its tail.</span></p>
 
 <p><span class="chinese">不同的机器翅果设计。</span><span class="english">Various designs of robotic samaras.</span></p>

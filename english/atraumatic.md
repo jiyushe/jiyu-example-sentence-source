@@ -1,5 +1,7 @@
 # atraumatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atraumatic.md)
+
 <p><span class="chinese">用无创伤圆体缝合针进行缝合，对植入的丝网无显著损伤。</span><span class="english">Atraumatic round-bodied needlesmake suturing possible without greater damage to the implant.</span></p>
 
 <p><span class="chinese">无菌医用丝线无损伤缝合针，适用于普外科。</span><span class="english">The disposable and atraumatic suture needle with silk suture applies to general surgical department.</span></p>

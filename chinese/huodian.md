@@ -1,5 +1,7 @@
 # 火电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huodian.md)
+
 <p><span class="chinese">火电单元机组是一个复杂的多变量对象，采用常规方法难以建立它的非线性数学模型。</span><span class="english">What is more, it provides a new method for coal-fired power units thermal dynam.</span></p>
 
 <p><span class="chinese">讨论了火电单元机组负荷控制问题。</span><span class="english">The load control problem of the fossil-fired electric single generating units is discussed.</span></p>

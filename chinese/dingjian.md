@@ -1,5 +1,7 @@
 # 定见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingjian.md)
+
 <p><span class="chinese">你真想知道我的定见吗？</span><span class="english">Do you really want to know my opinion?</span></p>
 
 <p><span class="chinese">心怀二意的人，在他一切所行的路上，都没有定见。</span><span class="english">A double minded man is unstable in all his ways.</span></p>

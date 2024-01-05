@@ -1,5 +1,7 @@
 # paradigmatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paradigmatic.md)
+
 <p><span class="chinese">这就是很好的例证。</span><span class="english">This is very good paradigmatic.</span></p>
 
 <p><span class="chinese">西班牙是典型的例子，她经历了一场经济大繁荣。</span><span class="english">The case of Spain is paradigmatic.</span></p>

@@ -1,5 +1,7 @@
 # 通话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghua_3.md)
+
 <p><span class="chinese">我让它断掉我妈妈的通话。</span><span class="english">I let it drop my mom.</span></p>
 
 <p><span class="chinese">我可以和陈欢通话吗?。</span><span class="english">May I speak to Chen Huan?</span></p>

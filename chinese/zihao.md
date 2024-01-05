@@ -1,5 +1,7 @@
 # 字号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zihao.md)
+
 <p><span class="chinese">这四个人是用这个字号露面的。</span><span class="english">These four men were known under this title.</span></p>
 
 <p><span class="chinese">文本的字体、字号和颜色应符合阅读习惯。</span><span class="english">Text font, size, and colour should be readable.</span></p>

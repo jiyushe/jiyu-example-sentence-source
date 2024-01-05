@@ -1,5 +1,7 @@
 # spicy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spicy.md)
+
 <p><span class="chinese">这碟菜会不会太辣了？</span><span class="english">Is the dish too spicy?</span></p>
 
 <p><span class="chinese">姜是老的辣！</span><span class="english">The ginger old is spicy !</span></p>

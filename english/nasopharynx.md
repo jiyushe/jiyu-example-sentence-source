@@ -1,5 +1,7 @@
 # nasopharynx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nasopharynx.md)
+
 <p><span class="chinese">常常可以通过后鼻孔累及鼻咽部。</span><span class="english">It often grows through the nasal choana into the nasopharynx.</span></p>
 
 <p><span class="chinese">鼻咽上皮的基底细胞具有相同的超微结构特点。</span><span class="english">The basal cells of epithelia in the nasopharynx had similar ultrastructural features.</span></p>

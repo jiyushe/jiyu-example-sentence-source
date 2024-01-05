@@ -1,5 +1,7 @@
 # fagin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fagin.md)
+
 <p><span class="chinese">这人就是费金。</span><span class="english">The stranger was Fagin.</span></p>
 
 <p><span class="chinese">他们想杀了你吗，费金？</span><span class="english">Are They trying to murder you, Fagin?</span></p>

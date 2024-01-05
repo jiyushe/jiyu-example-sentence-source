@@ -1,5 +1,7 @@
 # 香客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangke.md)
+
 <p><span class="chinese">香客将常启开我门的门闩。</span><span class="english">Oft shall the pilgrim lift the latch.</span></p>
 
 <p><span class="chinese">常年香客不断，烟云缭绕。</span><span class="english">Annual number of pilgrims and swirling smoke.</span></p>

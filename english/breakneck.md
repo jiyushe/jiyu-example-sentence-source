@@ -1,5 +1,7 @@
 # breakneck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breakneck.md)
+
 <p><span class="chinese">这个国家的经济以迅雷不及掩耳的速度发展起来。</span><span class="english">This country 's economy has been developing at breakneck speed.</span></p>
 
 <p><span class="chinese">美国正在以非常危险的速度消耗自己重要的能源。</span><span class="english">America is weaning itself off imported energy at breakneck speed.</span></p>

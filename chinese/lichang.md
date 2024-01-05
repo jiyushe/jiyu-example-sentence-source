@@ -1,5 +1,7 @@
 # 立场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lichang.md)
+
 <p><span class="chinese">我们的立场就是如此。</span><span class="english">This is our stance.</span></p>
 
 <p><span class="chinese">立场2劣于立场3吗</span><span class="english">Is 2 dominated by 3?</span></p>

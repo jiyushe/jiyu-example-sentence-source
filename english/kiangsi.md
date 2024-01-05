@@ -1,5 +1,7 @@
 # kiangsi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiangsi.md)
+
 <p><span class="chinese">长冈乡是江西省兴国县的一个乡。</span><span class="english">Changkang Township is in Hsingkuo County, Kiangsi Province.</span></p>
 
 <p><span class="chinese">此割据对湘赣两省的影响，则有日益扩大之势。</span><span class="english">Our regime tended to exert an ever-growing influence on Hunan and Kiangsi.</span></p>

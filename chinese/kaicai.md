@@ -1,5 +1,7 @@
 # 开采
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaicai.md)
+
 <p><span class="chinese">这矿大有开采前途。</span><span class="english">The mine prospects well.</span></p>
 
 <p><span class="chinese">批出29个金矿开采牌照。</span><span class="english">Awarded 29 gold mining licenses.</span></p>

@@ -1,5 +1,7 @@
 # knowing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knowing.md)
+
 <p><span class="chinese">真没想到你认识他!</span><span class="english">Fancy you knowing him!</span></p>
 
 <p><span class="chinese">她露出会意的微笑。</span><span class="english">She gave a knowing smile.</span></p>

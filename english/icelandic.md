@@ -1,5 +1,7 @@
 # icelandic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icelandic.md)
+
 <p><span class="chinese">官方语言为冰岛语。</span><span class="english">Official language For Icelandic.</span></p>
 
 <p><span class="chinese">冰岛语中多米诺骨牌怎么说？</span><span class="english">What's the Icelandic for "domino"?</span></p>

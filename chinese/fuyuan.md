@@ -1,5 +1,7 @@
 # 富源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyuan.md)
+
 <p><span class="chinese">天然富源也是一家尊重动物权利的公司。</span><span class="english">We are also an animal-friendly company.</span></p>
 
 <p><span class="chinese">双桅船的毁坏是一个新的富源。</span><span class="english">The destruction of the brig had been a new source of riches.</span></p>

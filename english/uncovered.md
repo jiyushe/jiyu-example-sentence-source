@@ -1,5 +1,7 @@
 # uncovered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncovered.md)
+
 <p><span class="chinese">他将盒盖拿掉。</span><span class="english">He uncovered the box.</span></p>
 
 <p><span class="chinese">揭开了巨大的纱幕。</span><span class="english">I have uncovered the grand veil.</span></p>

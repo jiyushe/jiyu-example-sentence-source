@@ -1,5 +1,7 @@
 # 有声有色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshengyouse.md)
+
 <p><span class="chinese">因为这些访客希望接触到有生气的人，读到一个有声有色的故事，来打消对这个网站的心理上的距离感。</span><span class="english">Because they want a human, a story and reassurance.</span></p>
 
 <p><span class="chinese">诗人能把平凡的事物描绘得有声有色。</span><span class="english">He was an unambitious man destined for a commonplace job.</span></p>

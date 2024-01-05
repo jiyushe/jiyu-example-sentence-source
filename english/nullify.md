@@ -1,5 +1,7 @@
 # nullify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nullify.md)
+
 <p><span class="chinese">其实你们是废弃了天主的话，而追随了你们自相传授的传统。</span><span class="english">So you nullify the word of God through the tradition you have handed on.</span></p>
 
 <p><span class="chinese">北韩还扬言要废除1953年终止朝鲜战争的停火协定。</span><span class="english">North Korea also threatened to nullify the 1953 armistice that ended the Korean War.</span></p>

@@ -1,5 +1,7 @@
 # 选编
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanbian.md)
+
 <p><span class="chinese">这是我的演讲稿选编本。</span><span class="english">This is the edited version of my speech.</span></p>
 
 <p><span class="chinese">这是我在选编时理所当然的想到的。</span><span class="english">That's certainly what this compilation has me thinking.</span></p>

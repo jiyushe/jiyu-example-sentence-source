@@ -1,5 +1,7 @@
 # 里外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liwai.md)
+
 <p><span class="chinese">因为里外不处于同样的压强下。</span><span class="english">Because these aren't at the same pressure.</span></p>
 
 <p><span class="chinese">花蜜的香味将他们从几英里外的栖息地吸引了过来。</span><span class="english">The scent of nectar drew them from a colony miles away.</span></p>

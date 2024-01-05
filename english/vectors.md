@@ -1,5 +1,7 @@
 # vectors
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vectors.md)
+
 <p><span class="chinese">其它还有哪些矢量</span><span class="english">How about more vectors?</span></p>
 
 <p><span class="chinese">它对矢量同样也成立</span><span class="english">It's also true for vectors.</span></p>

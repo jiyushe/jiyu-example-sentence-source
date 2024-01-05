@@ -1,5 +1,7 @@
 # 招架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaojia.md)
+
 <p><span class="chinese">我不能招架引诱。</span><span class="english">I can't abide the allurement.</span></p>
 
 <p><span class="chinese">我对浪漫毫无招架之力。</span><span class="english">I'm such a sucker for romance.</span></p>

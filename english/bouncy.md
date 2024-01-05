@@ -1,5 +1,7 @@
 # bouncy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bouncy.md)
+
 <p><span class="chinese">一个红发女孩——她的头发极富弹性——现了身。</span><span class="english">A girl with bouncy red hair appeared.</span></p>
 
 <p><span class="chinese">我不希望我自信的堡垒被击溃。</span><span class="english">I hope I don't puncture my bouncy castle.</span></p>

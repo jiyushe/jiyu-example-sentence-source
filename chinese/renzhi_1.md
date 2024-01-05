@@ -1,5 +1,7 @@
 # 任职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzhi_1.md)
+
 <p><span class="chinese">送餐任职，我可以出去吗？</span><span class="english">Room service- May I come in?</span></p>
 
 <p><span class="chinese">刚刚来到我们学校任职。</span><span class="english">He has recently arrived on campus.</span></p>

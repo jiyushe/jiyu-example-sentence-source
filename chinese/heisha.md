@@ -1,5 +1,7 @@
 # 黑纱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heisha.md)
+
 <p><span class="chinese">那条可怕的黑纱幔！</span><span class="english">The dreadful black veil!</span></p>
 
 <p><span class="chinese">人们配带黑纱以哀悼他。</span><span class="english">People wore crapes to mourn him.</span></p>

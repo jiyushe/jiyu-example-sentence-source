@@ -1,5 +1,7 @@
 # metaphysical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metaphysical.md)
+
 <p><span class="chinese">形而上的粘质是什么？</span><span class="english">What's the metaphysical glue?</span></p>
 
 <p><span class="chinese">这还有一种超自然的解决方法。</span><span class="english">There is a metaphysical approach, too.</span></p>

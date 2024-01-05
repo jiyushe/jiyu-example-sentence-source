@@ -1,5 +1,7 @@
 # peter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peter.md)
+
 <p><span class="chinese">我叫陈彼得。</span><span class="english">I'm Peter Chan.</span></p>
 
 <p><span class="chinese">我是彼得，罗宾森，I’</span><span class="english">m Peter Robinson.</span></p>

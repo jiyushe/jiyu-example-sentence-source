@@ -1,5 +1,7 @@
 # topic 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topic.md)
+
 <p><span class="chinese">但是选好一个课题。</span><span class="english">But pick a topic.</span></p>
 
 <p><span class="chinese">我的话题是情绪。</span><span class="english">My topic is moods.</span></p>

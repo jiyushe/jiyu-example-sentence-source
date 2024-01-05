@@ -1,5 +1,7 @@
 # arthralgia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arthralgia.md)
+
 <p><span class="chinese">关节痛和骨痛可能会发生。</span><span class="english">Arthralgia and bone pain may occur.</span></p>
 
 <p><span class="chinese">关节痛和骨痛可能会发生。</span><span class="english">Arthralgia and bone pain may occur.</span></p>

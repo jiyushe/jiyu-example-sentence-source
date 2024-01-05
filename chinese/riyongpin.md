@@ -1,5 +1,7 @@
 # 日用品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riyongpin.md)
+
 <p><span class="chinese">她管理日用品部门。</span><span class="english">She supervised the Commodity Department.</span></p>
 
 <p><span class="chinese">日用品、食品、工业用品等。</span><span class="english">Commodity , Foodstuff , Industry Supplies Etc.</span></p>

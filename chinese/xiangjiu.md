@@ -1,5 +1,7 @@
 # 相救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjiu.md)
+
 <p><span class="chinese">他们看着我，我也不出手相救。</span><span class="english">They're looking at me. I'm not doing anything.</span></p>
 
 <p><span class="chinese">最后是一位57岁的收破烂的出手相救。</span><span class="english">A 57-year-old rag collector finally went to her aid.</span></p>

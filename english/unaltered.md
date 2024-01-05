@@ -1,5 +1,7 @@
 # unaltered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaltered.md)
+
 <p><span class="chinese">最终，我们的友谊依然没有改变。</span><span class="english">Our friendship above all, remains unaltered.</span></p>
 
 <p><span class="chinese">在碰撞之后，保龄球继续不受影响。</span><span class="english">After the collision, the bowling ball continues unaltered.</span></p>

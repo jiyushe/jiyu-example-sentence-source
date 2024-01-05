@@ -1,5 +1,7 @@
 # 亲家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjia.md)
+
 <p><span class="chinese">你和你的亲家相处的好吗?</span><span class="english">Do you get along with your in-laws?</span></p>
 
 <p><span class="chinese">亲家是一种复杂的群体。</span><span class="english">In-laws are complicated individuals.</span></p>

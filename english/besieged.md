@@ -1,5 +1,7 @@
 # besieged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/besieged.md)
+
 <p><span class="chinese">他被记者团团围住。</span><span class="english">He was besieged by reporters.</span></p>
 
 <p><span class="chinese">部队围攻城堡。</span><span class="english">The troops besieged the fort.</span></p>

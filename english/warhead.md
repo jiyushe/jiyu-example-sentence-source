@@ -1,5 +1,7 @@
 # warhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warhead.md)
+
 <p><span class="chinese">他画了原子弹头模型的草图。</span><span class="english">He drafted the model of the atomic warhead.</span></p>
 
 <p><span class="chinese">它装的是热核弹头。</span><span class="english">Its head contains a thermo-nuclear warhead.</span></p>

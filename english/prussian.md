@@ -1,5 +1,7 @@
 # prussian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prussian.md)
+
 <p><span class="chinese">普鲁士容克就是欧洲的路霸。</span><span class="english">The Prussian Junker is the road-hog of Europe.</span></p>
 
 <p><span class="chinese">一战期间，我家族的男丁在普鲁士军队服役。</span><span class="english">During WW1 my family men were in the Prussian army.</span></p>

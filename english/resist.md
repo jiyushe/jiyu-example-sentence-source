@@ -1,5 +1,7 @@
 # resist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resist.md)
+
 <p><span class="chinese">公然反对，向…挑战。</span><span class="english">To defy or resist.</span></p>
 
 <p><span class="chinese">谁能抵挡这条鱼的魅力？</span><span class="english">Who can resist this fish?</span></p>

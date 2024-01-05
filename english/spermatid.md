@@ -1,5 +1,7 @@
 # spermatid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spermatid.md)
+
 <p><span class="chinese">但是精子细胞的完全成熟尚未实现。</span><span class="english">But Mature of the spermatid was still hard to achieved.</span></p>
 
 <p><span class="chinese">晚期精细胞中出现单个中心粒，但在成熟精子中消失。</span><span class="english">A single centriole appears at the late stage of spermatid.</span></p>

@@ -1,5 +1,7 @@
 # monetize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monetize.md)
+
 <p><span class="chinese">你真的想利用你的博客来赚钱吗？</span><span class="english">Do you actually want to monetize your blog?</span></p>
 
 <p><span class="chinese">交流很难通过广告实现盈利。</span><span class="english">Communication is really tough to monetize through advertising.</span></p>

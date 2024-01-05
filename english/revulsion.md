@@ -1,5 +1,7 @@
 # revulsion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revulsion.md)
+
 <p><span class="chinese">我是否应该厌恶毛毛虫？</span><span class="english">Should I feel revulsion at caterpillars?</span></p>
 
 <p><span class="chinese">葛泰第一个动作是抽身后退一步。</span><span class="english">Gerty's first movement was one of revulsion.</span></p>

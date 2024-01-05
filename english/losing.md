@@ -1,5 +1,7 @@
 # losing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/losing.md)
+
 <p><span class="chinese">这终究是一场败仗。</span><span class="english">It is a losing game.</span></p>
 
 <p><span class="chinese">这已注定是一场败仗</span><span class="english">It was a losing battle.</span></p>

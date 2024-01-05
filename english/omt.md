@@ -1,5 +1,7 @@
 # omt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/omt.md)
+
 <p><span class="chinese">本研究结果表明氧化苦参碱确实对动物肺部炎症模型具有保护作用。</span><span class="english">In conclusion, our studies suggested that OMT has the beneficial effect on pulmonary inflammation.</span></p>
 
 <p><span class="chinese">OMT描述联邦对象模型和仿真对象模型，判断联邦成员。</span><span class="english">Federal object model and simulation object model was described, and federal member was judged with OMT.</span></p>

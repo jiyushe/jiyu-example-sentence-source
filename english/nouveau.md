@@ -1,5 +1,7 @@
 # nouveau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nouveau.md)
+
 <p><span class="chinese">她是当地的暴发户之一。</span><span class="english">She is one of the nouveau riche in her hometown.</span></p>
 
 <p><span class="chinese">这是由新式纸杯蛋糕制作的80后主题的生日蛋糕。</span><span class="english">s themed birthday cupcakes made by Cupcakes Nouveau.</span></p>

@@ -1,5 +1,7 @@
 # 电椅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianyi.md)
+
 <p><span class="chinese">1936年，豪普特曼在特伦顿州监狱被送上电椅执行死刑。</span><span class="english">He was electrocuted at the Trenton State Prison in 1936.</span></p>
 
 <p><span class="chinese">他在上电椅前就会死的你知道对不对？</span><span class="english">He'll never sit in Old Sparky. You know that, don't you?</span></p>

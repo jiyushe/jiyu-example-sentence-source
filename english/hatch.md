@@ -1,5 +1,7 @@
 # hatch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatch.md)
+
 <p><span class="chinese">雌虫产卵于土中，卵期为13—38天。</span><span class="english">The eggs hatch in 13—38 days.</span></p>
 
 <p><span class="chinese">连孵卵都不管哪。</span><span class="english">They wouldn't hatch their eggs.</span></p>

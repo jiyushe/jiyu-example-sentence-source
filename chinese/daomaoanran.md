@@ -1,5 +1,7 @@
 # 道貌岸然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daomaoanran.md)
+
 <p><span class="chinese">我称他们为道貌岸然者。</span><span class="english">I call them the Respectables.</span></p>
 
 <p><span class="chinese">我们是在学看说地道貌岸然的英语。</span><span class="english">We re learning to speak perfect English.</span></p>

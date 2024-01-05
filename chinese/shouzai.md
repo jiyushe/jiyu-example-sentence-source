@@ -1,5 +1,7 @@
 # 受灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzai.md)
+
 <p><span class="chinese">鞋类慈善网站soles4souls.org则把鞋子送往受灾地区。</span><span class="english">Soles4souls.org is sending shoes.</span></p>
 
 <p><span class="chinese">中方是否还会向非洲受灾国提供新的援助？</span><span class="english">Will China provide further assistance?</span></p>

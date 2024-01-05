@@ -1,5 +1,7 @@
 # packinghouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/packinghouse.md)
+
 <p><span class="chinese">以浸渍或者喷雾法施用于贮藏室保护采后农产品。</span><span class="english">Harvested produce, as a dip or spray in the packinghouse.</span></p>
 
 <p><span class="chinese">袋子必须包装厂中远离包装包装线的地方摘除。</span><span class="english">Bags must be removed in the packinghouse away from the packing line.</span></p>

@@ -1,5 +1,7 @@
 # 这儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheer.md)
+
 <p><span class="chinese">摸摸这儿。</span><span class="english">Feel here.</span></p>
 
 <p><span class="chinese">但这儿就不行。</span><span class="english">But not here.</span></p>

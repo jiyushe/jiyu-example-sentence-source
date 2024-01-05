@@ -1,5 +1,7 @@
 # 奉送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengsong.md)
+
 <p><span class="chinese">我们奉送此书聊表谢意。</span><span class="english">We gave this book to thank a little.</span></p>
 
 <p><span class="chinese">随函奉送详细报价单。</span><span class="english">We enclose herewith our detailed quotation.</span></p>

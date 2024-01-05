@@ -1,5 +1,7 @@
 # dyspnoea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyspnoea.md)
+
 <p><span class="chinese">该病主要表现为咳嗽、呼吸困难、急性死亡。</span><span class="english">When the disease occure, the caprine shows cough, dyspnoea and die acutely.</span></p>
 
 <p><span class="chinese">并发症为发热、恶心呕吐、胸痛、打嗝、呼吸困难。</span><span class="english">The complications occurred with fever, vomiting, chest pain, hiccup and dyspnoea.</span></p>

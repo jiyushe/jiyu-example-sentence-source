@@ -1,5 +1,7 @@
 # 奔赴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benfu.md)
+
 <p><span class="chinese">奔赴菇类农场。</span><span class="english">Proceed to Mushroom Farm.</span></p>
 
 <p><span class="chinese">他命令我们奔赴前线。</span><span class="english">He ordered su to the front.</span></p>

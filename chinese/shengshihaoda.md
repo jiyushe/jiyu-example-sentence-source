@@ -1,5 +1,7 @@
 # 声势浩大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshihaoda.md)
+
 <p><span class="chinese">这次乘车声势浩大，是历史性的，而且异常沉稳。</span><span class="english">The ride was momentous, historical, and calm.</span></p>
 
 <p><span class="chinese">这件丑闻终止了他那声势浩大的竞选运动。</span><span class="english">The scandal shut off his high-powered election campaign.</span></p>

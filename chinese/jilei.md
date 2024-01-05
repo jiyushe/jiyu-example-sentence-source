@@ -1,5 +1,7 @@
 # 积累
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jilei.md)
+
 <p><span class="chinese">积累一生的朋友客户，这才是你的优点。</span><span class="english">This is your advantage.</span></p>
 
 <p><span class="chinese">他积累了大量的金银财宝。</span><span class="english">He amassed great treasure.</span></p>

@@ -1,5 +1,7 @@
 # hinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hinder.md)
+
 <p><span class="chinese">消沈的思想妨碍进步。</span><span class="english">Downhearted thoughts hinder progress.</span></p>
 
 <p><span class="chinese">专注于能扶助你的人，而非妨害你的人。</span><span class="english">Focus on people who help, not hinder you</span></p>

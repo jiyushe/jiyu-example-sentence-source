@@ -1,5 +1,7 @@
 # 棱镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengjing_1.md)
+
 <p><span class="chinese">我想要一个与棱镜电视标志。</span><span class="english">I want one logo with Prisma Tv.</span></p>
 
 <p><span class="chinese">例如使用这些华丽的棱镜眼镜。</span><span class="english">Take these Deluxe Prism Glasses for example.</span></p>

@@ -1,5 +1,7 @@
 # incise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incise.md)
+
 <p><span class="chinese">新型切口保护膜能有效减少切口及切口内的污染。</span><span class="english">The new plastic incise drape could reduce incision and inner incision contamination.</span></p>
 
 <p><span class="chinese">理论上，管端切割机器人能完成任意形状的圆管端头的切割。</span><span class="english">In theory, the four axis tube-end incisory robot can incise round tubes' ends of any form.</span></p>

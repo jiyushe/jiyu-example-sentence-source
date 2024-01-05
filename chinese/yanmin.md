@@ -1,5 +1,7 @@
 # 烟民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmin.md)
+
 <p><span class="chinese">如果你是个烟民，停止吸烟。</span><span class="english">If you are a smoker, stop smoking.</span></p>
 
 <p><span class="chinese">难道烟民比恋童癖者还不堪吗？</span><span class="english">Have smokers become more maligned than pedophiles?</span></p>

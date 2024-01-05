@@ -1,5 +1,7 @@
 # pacifism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pacifism.md)
+
 <p><span class="chinese">他倾向于和平主义。</span><span class="english">He leaned to pacifism.</span></p>
 
 <p><span class="chinese">后来，他放弃了和平主义立场。</span><span class="english">He later cast aside his pacifism.</span></p>

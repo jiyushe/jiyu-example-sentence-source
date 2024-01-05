@@ -1,5 +1,7 @@
 # 标称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaocheng.md)
+
 <p><span class="chinese">检测中，标称的进口产品不合格率较高。</span><span class="english">In detecting, nominal entrance product fraction defective is taller.</span></p>
 
 <p><span class="chinese">订货时请明电缆标称截面，绝缘外径，铠装或非铠装电缆。</span><span class="english">All the cable section , insulation Dia. ar. armored or not should be signed.</span></p>

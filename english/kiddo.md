@@ -1,5 +1,7 @@
 # kiddo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiddo.md)
+
 <p><span class="chinese">你可以走啦吗？孩子？</span><span class="english">You ready to go. kiddo?</span></p>
 
 <p><span class="chinese">丫头，随时给我打电话。</span><span class="english">Hey, call me anytime kiddo.</span></p>

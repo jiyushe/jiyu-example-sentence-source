@@ -1,5 +1,7 @@
 # mitotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitotic.md)
+
 <p><span class="chinese">有丝分裂的途径可以看到。</span><span class="english">The mitotic route can be seen.</span></p>
 
 <p><span class="chinese">有丝分裂细胞仍可见到。</span><span class="english">Mitotic cells could be seen too.</span></p>

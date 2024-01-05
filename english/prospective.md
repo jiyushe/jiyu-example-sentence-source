@@ -1,5 +1,7 @@
 # prospective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prospective.md)
+
 <p><span class="chinese">所以我带领预备学生参观</span><span class="english">so I give tours to prospective students.</span></p>
 
 <p><span class="chinese">这个研究是前瞻性群组研究</span><span class="english">This particular study was a prospective cohort.</span></p>

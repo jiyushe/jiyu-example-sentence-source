@@ -1,5 +1,7 @@
 # 略逊一筹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvexunyichou.md)
+
 <p><span class="chinese">这些后期画作的价值略逊一筹。</span><span class="english">These later paintings are slightly inferior in value.</span></p>
 
 <p><span class="chinese">水彩画似乎仍比油画略逊一筹。</span><span class="english">Watercolour still seems somehow to be the poor relation of oil painting.</span></p>

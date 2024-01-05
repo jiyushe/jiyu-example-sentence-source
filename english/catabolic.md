@@ -1,5 +1,7 @@
 # catabolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catabolic.md)
+
 <p><span class="chinese">从18岁到35岁这两者之间是平衡的，35岁以后分解过程占主导。</span><span class="english">From 18 to 35 there is balance between the two, and after 35 the catabolic process dominates.</span></p>
 
 <p><span class="chinese">从烧伤休克期转变到分解代谢或开放伤期的界线时常是不清晰的。</span><span class="english">The transition into the catabolic or open wound phase of injury is often not clearly demarcated.</span></p>

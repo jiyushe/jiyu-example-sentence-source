@@ -1,5 +1,7 @@
 # calcination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcination.md)
+
 <p><span class="chinese">石灰石的烧结，在900度烧结。</span><span class="english">This is the calcination of limestone.</span></p>
 
 <p><span class="chinese">烧时间是影响氧化铁红质量的主要因素。</span><span class="english">And the calcination time is the most important factor.</span></p>

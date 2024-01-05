@@ -1,5 +1,7 @@
 # 领情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingqing.md)
+
 <p><span class="chinese">尽管我做了这一切，可她仍然不领情。</span><span class="english">After all I had done, she was still ungrateful.</span></p>
 
 <p><span class="chinese">轮到约翰尼要人领情地耐心了。</span><span class="english">It was Johnny's turn to be patronizingly patient.</span></p>

@@ -1,5 +1,7 @@
 # mortimer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortimer.md)
+
 <p><span class="chinese">莫蒂默教授身子向后靠并咧开嘴笑。</span><span class="english">Professor Mortimer leaned back and grinned.</span></p>
 
 <p><span class="chinese">千万别问莫蒂默他正在养的是什么花。</span><span class="english">Don't ask Mortimer what kind of rose he's growing.</span></p>

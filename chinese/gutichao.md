@@ -1,5 +1,7 @@
 # 固体潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gutichao.md)
+
 <p><span class="chinese">用震例分析证明了倾斜固体潮振幅异常用于地震预报的可行性。</span><span class="english">The earthquake case analyses indicate that y value anomaly may be applied to predict earthquake.</span></p>
 
 <p><span class="chinese">2004年以来，观测资料稳定，并清晰地记录到了固体潮形态。</span><span class="english">Since 2004, the observed data have been steady and the forms of the solid tide have been clearly recorded.</span></p>

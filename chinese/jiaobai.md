@@ -1,5 +1,7 @@
 # 茭白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaobai.md)
+
 <p><span class="chinese">村中以种水稻、茭白、水果为主。</span><span class="english">The village with rice, wild rice, fruit.</span></p>
 
 <p><span class="chinese">茭白属于禾本科多年生宿根沼泽草本植物。</span><span class="english">Wild rice stem belongs to herb of marsh of gramineous vivacious perennial root.</span></p>

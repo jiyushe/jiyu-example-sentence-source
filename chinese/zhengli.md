@@ -1,5 +1,7 @@
 # 争利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengli.md)
+
 <p><span class="chinese">律师总是代表别人去争利。</span><span class="english">Lawyers are always acting on behalf of someone else.</span></p>
 
 <p><span class="chinese">反对争利，倡导谦让，这是中华民族的优良传统。</span><span class="english">The virtue of comity is Chinese nation's fine tradition.</span></p>

@@ -1,5 +1,7 @@
 # sei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sei.md)
+
 <p><span class="chinese">妈妈我不再害怕当你和我在一起。</span><span class="english">Mamma non ho più paura quando sei con me.</span></p>
 
 <p><span class="chinese">从图片的时间增加了对收购SEI的时间码支持。</span><span class="english">Added support for timecode acquisition from Picture timing SEI.</span></p>

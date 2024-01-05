@@ -1,5 +1,7 @@
 # arbor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arbor.md)
+
 <p><span class="chinese">上年的植树节，我种了两棵树。</span><span class="english">Last Arbor Day I planted two trees.</span></p>
 
 <p><span class="chinese">今天是植树节，你有什么打算吗？</span><span class="english">Today is Arbor Day What are you going to do?</span></p>

@@ -1,5 +1,7 @@
 # aden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aden.md)
+
 <p><span class="chinese">就是胃不和则卧不安。</span><span class="english">She just broke up with Aden.</span></p>
 
 <p><span class="chinese">叶门亚丁湾星际之�…</span><span class="english">Gulf of Aden Stargate is Opening ?</span></p>

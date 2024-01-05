@@ -1,5 +1,7 @@
 # inspirational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspirational.md)
+
 <p><span class="chinese">即将过去的2007年，是催人奋进的一年。</span><span class="english">Over the past in 2007, inspirational year.</span></p>
 
 <p><span class="chinese">茶桶，将此增入于感应类中。</span><span class="english">Detong, add this to inspirational category.</span></p>

@@ -1,5 +1,7 @@
 # 含沙量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanshaliang.md)
+
 <p><span class="chinese">它是世界上含沙量最多的河流。</span><span class="english">It is the most sandiness river in the world.</span></p>
 
 <p><span class="chinese">黄河水因高含沙量而成黄色。</span><span class="english">The river is yellow because of high content of sand in the water.</span></p>

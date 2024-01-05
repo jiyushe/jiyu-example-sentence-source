@@ -1,5 +1,7 @@
 # wombat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wombat.md)
+
 <p><span class="chinese">一只愚蠢的袋熊。</span><span class="english">A stupid wombat.</span></p>
 
 <p><span class="chinese">它叫做「袋熊」。</span><span class="english">It is called a wombat.</span></p>

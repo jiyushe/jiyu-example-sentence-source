@@ -1,5 +1,7 @@
 # naboth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naboth.md)
+
 <p><span class="chinese">上帝告诉我等拿伯死后再对亚哈做出审判。</span><span class="english">God told me to make judgement on Ahabwhen Naboth was dead.</span></p>
 
 <p><span class="chinese">宣告禁食，叫拿伯坐在民间的高位上。</span><span class="english">They proclaimed a fast, and set Naboth on high among the people.</span></p>

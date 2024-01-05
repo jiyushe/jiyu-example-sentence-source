@@ -1,5 +1,7 @@
 # dioecious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dioecious.md)
+
 <p><span class="chinese">买麻藤雌雄异株，具穗状花序。</span><span class="english">G. montanum is dioecious with spike inflorescence.</span></p>
 
 <p><span class="chinese">花两性的或植株功能上为雌雄异株。</span><span class="english">Flowers hermaphroditic or plants functionally dioecious.</span></p>

@@ -1,5 +1,7 @@
 # 价钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaqian.md)
+
 <p><span class="chinese">我可以给你个好价钱。</span><span class="english">I can give you a deal.</span></p>
 
 <p><span class="chinese">那么你值更高的价钱么？</span><span class="english">So you are worth more?</span></p>

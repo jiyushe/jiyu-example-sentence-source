@@ -1,5 +1,7 @@
 # ark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ark.md)
+
 <p><span class="chinese">诺亚方舟遗迹被发现了？</span><span class="english">Noah's Ark Found?</span></p>
 
 <p><span class="chinese">铁达尼号还是挪亚方舟?。</span><span class="english">Titanic or Noah's Ark?</span></p>

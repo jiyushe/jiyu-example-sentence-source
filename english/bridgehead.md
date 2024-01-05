@@ -1,5 +1,7 @@
 # bridgehead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bridgehead.md)
+
 <p><span class="chinese">在桑多梅日桥头堡，敌军的坦克更多一些。</span><span class="english">There were more tanks at the Sandomierz bridgehead.</span></p>
 
 <p><span class="chinese">布拉德，听我说，我有桥头堡跨越萨尔地区。</span><span class="english">Brad, listen, I've got a bridgehead across the Saar.</span></p>

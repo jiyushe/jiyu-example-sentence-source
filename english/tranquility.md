@@ -1,5 +1,7 @@
 # tranquility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tranquility.md)
+
 <p><span class="chinese">名声很宁静永远不能是同床者。</span><span class="english">Fame and tranquility can never be bedfellows.</span></p>
 
 <p><span class="chinese">爱、幸福与宁静都是有感染力的。</span><span class="english">Love, happiness and tranquility are all contagious.</span></p>

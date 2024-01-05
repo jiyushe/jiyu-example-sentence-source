@@ -1,5 +1,7 @@
 # subterranean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subterranean.md)
+
 <p><span class="chinese">然而，乘坐地下巨龙出行的感受到底如何呢？</span><span class="english">But what is it like riding this subterranean dragon?</span></p>
 
 <p><span class="chinese">一定会在盖太诺告诉你的那个地下宫殿里。</span><span class="english">No doubt In the subterranean palace Gaetano told you of.</span></p>

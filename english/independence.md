@@ -1,5 +1,7 @@
 # independence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/independence.md)
+
 <p><span class="chinese">今天是独立日吗？</span><span class="english">It’s Independence Day?</span></p>
 
 <p><span class="chinese">何时是独立节?。</span><span class="english">When is Independence Day?</span></p>

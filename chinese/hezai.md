@@ -1,5 +1,7 @@
 # 何在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hezai.md)
+
 <p><span class="chinese">原因何在？</span><span class="english">And the reason?</span></p>
 
 <p><span class="chinese">不过，这个谣言的价值何在？</span><span class="english">What’s the rumor worth?</span></p>

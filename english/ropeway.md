@@ -1,5 +1,7 @@
 # ropeway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ropeway.md)
+
 <p><span class="chinese">滑速是滑索设计的关键。</span><span class="english">Sliding speed is key to the design of strop ropeway.</span></p>
 
 <p><span class="chinese">总之，这是一个较完善的索道运行管理系统。</span><span class="english">In a word, this is a perfect managed system on ropeway.</span></p>

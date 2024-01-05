@@ -1,5 +1,7 @@
 # 风俗画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengsuhua.md)
+
 <p><span class="chinese">你最喜欢的风俗画家是谁？</span><span class="english">Who is your favorite genre painter?</span></p>
 
 <p><span class="chinese">风俗画让位给景观。</span><span class="english">Genre painting gives way to landscape.</span></p>

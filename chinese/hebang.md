@@ -1,5 +1,7 @@
 # 河蚌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hebang.md)
+
 <p><span class="chinese">一个人看见了这个河蚌。</span><span class="english">But a man saw the shell.</span></p>
 
 <p><span class="chinese">他就用一个网抓到了河蚌。</span><span class="english">So he went to use a net to get it.</span></p>

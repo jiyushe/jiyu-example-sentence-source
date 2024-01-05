@@ -1,5 +1,7 @@
 # 无机肥料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujifeiliao.md)
+
 <p><span class="chinese">有机无机肥料配施比单施有机肥或单施无机肥更能提高冬小麦的产量。</span><span class="english">The combined application of organic and inorganic fertilizers could increase the yield of winter wheat effectively.</span></p>
 
 <p><span class="chinese">应用淹水培养方法，研究了在红壤性水稻土中有机无机肥料配合施用后氮素转化的规律。</span><span class="english">The priming effect of organic and inorganic fertilizer on soil nitrogen was studied by using water-logged incubation method.</span></p>

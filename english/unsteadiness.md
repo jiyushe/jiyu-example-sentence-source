@@ -1,5 +1,7 @@
 # unsteadiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsteadiness.md)
+
 <p><span class="chinese">压力不稳是液相色谱常见的故障。</span><span class="english">The press unsteadiness is a familiar trouble.</span></p>
 
 <p><span class="chinese">这样就消除了图象的模糊和不稳定。</span><span class="english">Thus eliminating blurring and unsteadiness of the images.</span></p>

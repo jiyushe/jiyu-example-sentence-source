@@ -1,5 +1,7 @@
 # 驱散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qusan.md)
+
 <p><span class="chinese">人群被驱散了。</span><span class="english">The crowd were squandered.</span></p>
 
 <p><span class="chinese">队长驱散了他们。</span><span class="english">The captain dispersed them.</span></p>

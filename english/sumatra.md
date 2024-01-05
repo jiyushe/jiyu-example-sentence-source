@@ -1,5 +1,7 @@
 # sumatra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sumatra.md)
+
 <p><span class="chinese">产于马来半岛和苏门答腊岛的貘。</span><span class="english">a tapir found in Malaya and Sumatra.</span></p>
 
 <p><span class="chinese">苏门答腊岛本身就是岛弧的一部分。</span><span class="english">Sumatra itself is part of an island arc.</span></p>

@@ -1,5 +1,7 @@
 # guru
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guru.md)
+
 <p><span class="chinese">违抗或对古茹不敬。</span><span class="english">To disobey or disrespect the guru.</span></p>
 
 <p><span class="chinese">用古鲁给予的神之圣名为自己播下种子。</span><span class="english">Of God that your guru has given to you.</span></p>

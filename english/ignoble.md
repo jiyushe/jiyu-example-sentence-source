@@ -1,5 +1,7 @@
 # ignoble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ignoble.md)
+
 <p><span class="chinese">通过他的卑鄙行为你可以判断他是个什么样的人。</span><span class="english">You can judge what he is like by his ignoble actions.</span></p>
 
 <p><span class="chinese">“危机反应”有着悠久而不光彩的传统。</span><span class="english">The "crisis response "has a long and ignoble tradition.</span></p>

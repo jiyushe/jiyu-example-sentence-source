@@ -1,5 +1,7 @@
 # datagram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/datagram.md)
+
 <p><span class="chinese">异步数据报通道与多播</span><span class="english">Asynchronous datagram channels and multicasting</span></p>
 
 <p><span class="chinese">IP数据报的内容体现了网际互联层的网间协议的协议机制。</span><span class="english">IP datagram embodies the mechanism of internet protocol in IP layer.</span></p>

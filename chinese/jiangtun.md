@@ -1,5 +1,7 @@
 # 江豚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangtun.md)
+
 <p><span class="chinese">长江江豚的灭亡将会是生态系统遭受破坏的一个标志。</span><span class="english">The finless porpoise is an icon of an ecosystem under siege.</span></p>
 
 <p><span class="chinese">这使得五头江豚几近窒息，其中包括三头怀孕的雌性江豚。</span><span class="english">Five porpoises asphyxiated, including three pregnant females.</span></p>

@@ -1,5 +1,7 @@
 # 圣城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengcheng.md)
+
 <p><span class="chinese">来到这拜占庭的圣城。</span><span class="english">To the holy city of Byzantium.</span></p>
 
 <p><span class="chinese">万佛圣城三周禅七时间表。</span><span class="english">Three Weeks Chan Meditation Session.</span></p>

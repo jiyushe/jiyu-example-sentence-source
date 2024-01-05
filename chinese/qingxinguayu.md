@@ -1,5 +1,7 @@
 # 清心寡欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxinguayu.md)
+
 <p><span class="chinese">他是个清心寡欲的人。</span><span class="english">He is a man who want less.</span></p>
 
 <p><span class="chinese">我可以生活，我可以清心寡欲。</span><span class="english">I can live, and need little.</span></p>

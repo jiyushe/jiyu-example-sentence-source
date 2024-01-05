@@ -1,5 +1,7 @@
 # 力主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizhu.md)
+
 <p><span class="chinese">斯塔普是力主在汽车上采用座椅安全带的早期创导者。</span><span class="english">Stapp became a strong early proponent of automobile seat belts.</span></p>
 
 <p><span class="chinese">类似考文垂之类的城镇里的议员正在力主反对改变制度。</span><span class="english">Councillors in towns like Coventry are already campaigning against a change.</span></p>

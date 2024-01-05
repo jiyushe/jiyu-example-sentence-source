@@ -1,5 +1,7 @@
 # 诗篇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shipian_1.md)
+
 <p><span class="chinese">诗篇作者说。</span><span class="english">The Psalmist said.</span></p>
 
 <p><span class="chinese">诗篇作者说。</span><span class="english">The Psalmist says.</span></p>

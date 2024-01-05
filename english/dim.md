@@ -1,5 +1,7 @@
 # dim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dim.md)
+
 <p><span class="chinese">前途暗淡。</span><span class="english">The prospects are dim.</span></p>
 
 <p><span class="chinese">灯光很暗。</span><span class="english">The light is rather dim.</span></p>

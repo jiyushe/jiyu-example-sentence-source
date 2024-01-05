@@ -1,5 +1,7 @@
 # intellective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intellective.md)
+
 <p><span class="chinese">哥哥大招有智力缺陷，往往弄巧成拙。</span><span class="english">Elder brother big move has intellective drawback, often outsmart oneself.</span></p>
 
 <p><span class="chinese">智力理论是现代教育理论的基础之一。</span><span class="english">Intellective Theory is one of the bases of the modern educational theories.</span></p>

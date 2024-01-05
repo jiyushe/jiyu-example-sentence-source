@@ -1,5 +1,7 @@
 # flashback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flashback.md)
+
 <p><span class="chinese">他童年的故事是用倒叙法来表现的。</span><span class="english">The events of his boyhood are shown in a flashback.</span></p>
 
 <p><span class="chinese">所以拍一集闪回会很有意思。</span><span class="english">So it would be really fun to do a flashback episode.</span></p>

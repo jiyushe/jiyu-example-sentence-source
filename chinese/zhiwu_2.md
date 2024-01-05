@@ -1,5 +1,7 @@
 # 织物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwu_2.md)
+
 <p><span class="chinese">糊墙织物。</span><span class="english">Textile wall coverings.</span></p>
 
 <p><span class="chinese">最好的织物是毛织品。</span><span class="english">The best fabric is wool.</span></p>

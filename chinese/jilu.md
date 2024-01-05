@@ -1,5 +1,7 @@
 # 辑录
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jilu.md)
+
 <p><span class="chinese">这是由弟子王浩在我的指导下所辑录。</span><span class="english">It was compiled by disciple Wang Hao under my guidance.</span></p>
 
 <p><span class="chinese">这个集子辑录了这位已故作家的所有来往信件。</span><span class="english">All the letters of the late writer are compiled in this collection.</span></p>

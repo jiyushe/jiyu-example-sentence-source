@@ -1,5 +1,7 @@
 # 以为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwei_1.md)
+
 <p><span class="chinese">你以为不会吗？</span><span class="english">You think not?</span></p>
 
 <p><span class="chinese">我以为镇服了她。</span><span class="english">I had her, I thought.</span></p>

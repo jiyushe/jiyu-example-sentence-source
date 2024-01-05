@@ -1,5 +1,7 @@
 # manorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manorial.md)
+
 <p><span class="chinese">唐顿庄园赢来了新的仆人。</span><span class="english">Tang Du is manorial win came new lackey.</span></p>
 
 <p><span class="chinese">此外，他们还建立了领地制。</span><span class="english">Thirdly, they also established the manorial system.</span></p>

@@ -1,5 +1,7 @@
 # midrib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midrib.md)
+
 <p><span class="chinese">中脉科技有限公司文件。</span><span class="english">Midrib Technology Co. , Ltd. document.</span></p>
 
 <p><span class="chinese">叶片着生于中脉上表面的两侧。</span><span class="english">Lamina attached late- rally to upper surface of midrib.</span></p>

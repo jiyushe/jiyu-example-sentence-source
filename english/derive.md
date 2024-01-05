@@ -1,5 +1,7 @@
 # derive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derive.md)
+
 <p><span class="chinese">现在你们能得到这个。</span><span class="english">Now you can derive this.</span></p>
 
 <p><span class="chinese">推到这些方程也非常直接。</span><span class="english">And they're straightforward to derive.</span></p>

@@ -1,5 +1,7 @@
 # peninsular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peninsular.md)
+
 <p><span class="chinese">半岛战争期间，敌对双方常见交好。</span><span class="english">Fraternisation during the Peninsular War was very common.</span></p>
 
 <p><span class="chinese">马来半岛在1942年到1945年被日本占领。</span><span class="english">The Malay Peninsular was occupied by Japan from 1942 to 1945.</span></p>

@@ -1,5 +1,7 @@
 # 东西南北
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongxinanbei.md)
+
 <p><span class="chinese">千磨万击还坚劲，任尔东西南北风。</span><span class="english">Thousands of mill strike also hard, ren erdong southwest north wind.</span></p>
 
 <p><span class="chinese">它代表了发达国家和发展中国家，代表了东西南北各国。</span><span class="english">It represents developed and developing, North and South, East and West.</span></p>

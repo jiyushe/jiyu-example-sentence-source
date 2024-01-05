@@ -1,5 +1,7 @@
 # 赴汤蹈火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/futangdaohuo.md)
+
 <p><span class="chinese">我愿为你赴汤蹈火，宝贝，你是知道的。</span><span class="english">I would do anything for you, baby, you know that.</span></p>
 
 <p><span class="chinese">我愿为我的好朋友赴汤蹈火。</span><span class="english">I'd go through fire and water for my good friend.</span></p>

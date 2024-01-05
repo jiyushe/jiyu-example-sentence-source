@@ -1,5 +1,7 @@
 # matriarchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matriarchy.md)
+
 <p><span class="chinese">那是因为他们仍然是母系社会。</span><span class="english">That is due to the matriarchy of its society.</span></p>
 
 <p><span class="chinese">摩梭人另外一个很明显的母系习俗就是他们的婚姻是走婚制。</span><span class="english">Another obvious feature of the matriarchy of the Mosuo People is the marriage.</span></p>

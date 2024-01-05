@@ -1,5 +1,7 @@
 # 想望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangwang_1.md)
+
 <p><span class="chinese">它是一个“想望”还是“需要”呢？</span><span class="english">Is it a 'want' or a 'need'?</span></p>
 
 <p><span class="chinese">我们想望有车有房。</span><span class="english">We dreamed of having a car and a house.</span></p>

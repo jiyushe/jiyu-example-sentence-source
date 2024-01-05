@@ -1,5 +1,7 @@
 # senseless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senseless.md)
+
 <p><span class="chinese">安德烈将杰克痛扁直至其不省人事。</span><span class="english">Andre beats Jack senseless.</span></p>
 
 <p><span class="chinese">他救醒了那个失去知觉的小孩。</span><span class="english">He revived the senseless child.</span></p>

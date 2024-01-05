@@ -1,5 +1,7 @@
 # organized 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organized.md)
+
 <p><span class="chinese">巳经将这个班组织起来。</span><span class="english">The class has been organized.</span></p>
 
 <p><span class="chinese">他们有条理清晰、乐于交际。</span><span class="english">They were organized and social.</span></p>

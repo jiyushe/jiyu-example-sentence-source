@@ -1,5 +1,7 @@
 # sufficiently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sufficiently.md)
+
 <p><span class="chinese">我想要一个足够相似的我。</span><span class="english">I want them to be sufficiently like me.</span></p>
 
 <p><span class="chinese">脚趾圆拱，指甲沉重。</span><span class="english">The toes are sufficiently arched and heavily nailed.</span></p>

@@ -1,5 +1,7 @@
 # 小学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxue.md)
+
 <p><span class="chinese">全天参观寒泉小学。</span><span class="english">Day at Cold Spring School.</span></p>
 
 <p><span class="chinese">我在五一小学上学。</span><span class="english">I go to Wuyi Primary School.</span></p>

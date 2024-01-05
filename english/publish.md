@@ -1,5 +1,7 @@
 # publish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/publish.md)
+
 <p><span class="chinese">发行部。</span><span class="english">Publish Dept.</span></p>
 
 <p><span class="chinese">发布您的资产。</span><span class="english">Publish your assets.</span></p>

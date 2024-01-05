@@ -1,5 +1,7 @@
 # 风源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyuan.md)
+
 <p><span class="chinese">分开或隐蔽反对我部扩大权限的风源当然是博尔曼。</span><span class="english">Bormann was surely the source of all the overt or covert opposition to an expansion of my Ministry.</span></p>
 
 <p><span class="chinese">分开或隐蔽反对我部扩大权限的风源当然是博尔曼。</span><span class="english">Bormann was surely the source of all the overt or covert opposition to an expansion of my ministry.</span></p>

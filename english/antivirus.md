@@ -1,5 +1,7 @@
 # antivirus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antivirus.md)
+
 <p><span class="chinese">一个没有更新的反病毒程序是没有用的。</span><span class="english">An antivirus without updates is nothing.</span></p>
 
 <p><span class="chinese">但你能做到这一点的平均防毒亲？？？</span><span class="english">But can you do it for AVG antivirus pro???</span></p>

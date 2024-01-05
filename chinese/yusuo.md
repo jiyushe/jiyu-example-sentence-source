@@ -1,5 +1,7 @@
 # 寓所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yusuo.md)
+
 <p><span class="chinese">本田流床位寓所。</span><span class="english">Apartments Honda Stream bed.</span></p>
 
 <p><span class="chinese">我的寓所和她的地产毗邻。</span><span class="english">My small rectory abuts her estate.</span></p>

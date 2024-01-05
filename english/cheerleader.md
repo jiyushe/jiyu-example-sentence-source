@@ -1,5 +1,7 @@
 # cheerleader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheerleader.md)
+
 <p><span class="chinese">我是拉拉队员，你知道吗？</span><span class="english">I don't know how to speak cheerleader.</span></p>
 
 <p><span class="chinese">你搞过金发的拉拉队员么?。</span><span class="english">You ever have sex with blond cheerleader?</span></p>

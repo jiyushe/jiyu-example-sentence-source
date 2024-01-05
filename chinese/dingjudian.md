@@ -1,5 +1,7 @@
 # 定居点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingjudian.md)
+
 <p><span class="chinese">他也没有提及定居点问题。</span><span class="english">He also made no mention of settlements.</span></p>
 
 <p><span class="chinese">保持与你的海盗净化定居点。</span><span class="english">KEEP PURIFYING SETTLEMENTS WITH YOUR VIKINGS.</span></p>

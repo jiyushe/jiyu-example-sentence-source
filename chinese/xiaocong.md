@@ -1,5 +1,7 @@
 # 小葱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaocong.md)
+
 <p><span class="chinese">但是我不愿意，我担心，小葱会生病的！</span><span class="english">But I do not want, I am worried, shallot will be sick!</span></p>
 
 <p><span class="chinese">BNC中薄荷、糯米和小葱就是典型。</span><span class="english">The mint, rice and leek in BNC’s identity are typical.</span></p>

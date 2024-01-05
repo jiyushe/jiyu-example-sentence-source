@@ -1,5 +1,7 @@
 # mountain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mountain.md)
+
 <p><span class="chinese">蓝色山溪啊。</span><span class="english">Blue mountain river.</span></p>
 
 <p><span class="chinese">攀越每道山岭。</span><span class="english">Climb every mountain.</span></p>

@@ -1,5 +1,7 @@
 # 英姿飒爽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingzisashuang.md)
+
 <p><span class="chinese">为我的祖国雕塑英姿飒爽的形象。</span><span class="english">For my sculpture image of the motherland.</span></p>
 
 <p><span class="chinese">快乐的骑士在马上英姿飒爽。</span><span class="english">Full jolly knight he seemd, and faire did sith.</span></p>

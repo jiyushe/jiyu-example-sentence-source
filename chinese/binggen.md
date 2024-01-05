@@ -1,5 +1,7 @@
 # 病根
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binggen.md)
+
 <p><span class="chinese">病根太深，伤在心底。</span><span class="english">But it rooted in my heart deeply.</span></p>
 
 <p><span class="chinese">找出病根等于治愈了一半。</span><span class="english">To know the disease is half the cure.</span></p>

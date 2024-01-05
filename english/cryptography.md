@@ -1,5 +1,7 @@
 # cryptography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryptography.md)
+
 <p><span class="chinese">这里就使用了密码技术。</span><span class="english">There's cryptography going on.</span></p>
 
 <p><span class="chinese">密码学究竟是什么呢？</span><span class="english">Can you tell us what exactly cryptography is?</span></p>

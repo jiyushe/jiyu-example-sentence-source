@@ -1,5 +1,7 @@
 # 诊疗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenliao.md)
+
 <p><span class="chinese">诊疗爱的创伤唯有加倍地去爱。</span><span class="english">There is no remedy for love but to lovemore.</span></p>
 
 <p><span class="chinese">事实上，医生提供不必要的诊疗反而不用多费口舌。</span><span class="english">Offering unnecessary care would, in fact, be faster.</span></p>

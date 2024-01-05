@@ -1,5 +1,7 @@
 # 口诀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koujue.md)
+
 <p><span class="chinese">取而代之，使用记心口诀记住他们。</span><span class="english">Instead, use memory tricks to remember them.</span></p>
 
 <p><span class="chinese">精要口诀是非常非常珍贵的。</span><span class="english">And pith instructions are really, really valuable.</span></p>

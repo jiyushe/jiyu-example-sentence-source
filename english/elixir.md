@@ -1,5 +1,7 @@
 # elixir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elixir.md)
+
 <p><span class="chinese">那个妙香飘浮在森林的空中。</span><span class="english">That elixir wafted to the sky in the forest.</span></p>
 
 <p><span class="chinese">陪同嫦娥，并捣制长生不老药。</span><span class="english">Accompanied Chang, and ramming system elixir.</span></p>

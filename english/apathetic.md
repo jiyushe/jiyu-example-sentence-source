@@ -1,5 +1,7 @@
 # apathetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apathetic.md)
+
 <p><span class="chinese">“那无情的东西在作什么？”</span><span class="english">What is that apathetic being doing?</span></p>
 
 <p><span class="chinese">他似乎比以前更显得麻木不仁。</span><span class="english">Hurstwood seemed more apathetic than ever.</span></p>

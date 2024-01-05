@@ -1,5 +1,7 @@
 # 聪敏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congmin.md)
+
 <p><span class="chinese">人是聪敏的动物表现如低能儿。</span><span class="english">Man is a clever animal who behaves like an imbecile.</span></p>
 
 <p><span class="chinese">凡有幽默的素养者，都是聪敏颖悟的。</span><span class="english">Where the quality of humor, are smart perspicacious.</span></p>

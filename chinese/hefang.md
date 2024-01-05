@@ -1,5 +1,7 @@
 # 何妨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hefang.md)
+
 <p><span class="chinese">德国和日本何妨把臂同去。</span><span class="english">Let Germany and Japan follow.</span></p>
 
 <p><span class="chinese">醉倒何妨花底卧。</span><span class="english">Why not spend the end of lying drunk.</span></p>

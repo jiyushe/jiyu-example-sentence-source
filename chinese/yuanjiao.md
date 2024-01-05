@@ -1,5 +1,7 @@
 # 远郊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjiao.md)
+
 <p><span class="chinese">我们已在城市远郊找到一处美丽的安静之地。</span><span class="english">We have found ourselves a beautiful exurban retreat.</span></p>
 
 <p><span class="chinese">这个风景区位于北京的西北远郊。</span><span class="english">The scenic spot is on northwestern outskirts of Beijing.</span></p>

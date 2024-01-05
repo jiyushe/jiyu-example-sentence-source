@@ -1,5 +1,7 @@
 # 出巡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuxun.md)
+
 <p><span class="chinese">侦察兵在夜间出巡。</span><span class="english">The scouts went out during the night.</span></p>
 
 <p><span class="chinese">今日酒后我要出巡。</span><span class="english">Today I'm going for a drunken stroll.</span></p>

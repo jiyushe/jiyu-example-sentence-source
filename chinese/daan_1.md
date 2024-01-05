@@ -1,5 +1,7 @@
 # 大案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daan_1.md)
+
 <p><span class="chinese">武汉警察破获赌博大案。</span><span class="english">Wuhan police uncover major gambling cases.</span></p>
 
 <p><span class="chinese">许多人与这起诈骗银行的大案有牵连。</span><span class="english">The big bank swindle involved a lot of people.</span></p>

@@ -1,5 +1,7 @@
 # preciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preciously.md)
+
 <p><span class="chinese">您是否曾经被前雇主或单位解雇或开除？</span><span class="english">Do you have been dismissed or fired preciously?</span></p>
 
 <p><span class="chinese">没有人确切的知道轮子是什么时候发明的。</span><span class="english">No one knows preciously when the wheel is invented.</span></p>

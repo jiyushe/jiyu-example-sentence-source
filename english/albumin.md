@@ -1,5 +1,7 @@
 # albumin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albumin.md)
+
 <p><span class="chinese">一些测试，如白蛋白和胆红素，这样做。</span><span class="english">Some tests, such as albumin and bilirubin , do.</span></p>
 
 <p><span class="chinese">同时白蛋白和甲胎蛋白的合成被熄灭。</span><span class="english">At the same time that albumin and fetoprotein synthesis is extinguished.</span></p>

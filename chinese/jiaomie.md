@@ -1,5 +1,7 @@
 # 剿灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaomie.md)
+
 <p><span class="chinese">要往山上逃跑，免得你被剿灭。</span><span class="english">Flee to the mountains or you will be swept away!</span></p>
 
 <p><span class="chinese">北约和阿富汗声称在昆都士剿灭130个塔利班成员。</span><span class="english">NATO, Afghans claim to kill 130 Taliban in Kunduz.</span></p>

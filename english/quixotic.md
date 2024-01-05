@@ -1,5 +1,7 @@
 # quixotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quixotic.md)
+
 <p><span class="chinese">这是个堂吉诃德式的任务吗？</span><span class="english">Is this a quixotic task?</span></p>
 
 <p><span class="chinese">这些似乎是不切实际或自相矛盾的选择，但请先容我讲完。</span><span class="english">These may seem quixotic or paradoxical choices, but bear with me.</span></p>

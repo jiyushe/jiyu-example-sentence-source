@@ -1,5 +1,7 @@
 # typical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typical.md)
+
 <p><span class="chinese">这就是典型的德国人。</span><span class="english">Typical Germans.</span></p>
 
 <p><span class="chinese">他是个典型的浪荡公子。</span><span class="english">He is a typical B. T. O.</span></p>

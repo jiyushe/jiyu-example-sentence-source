@@ -1,5 +1,7 @@
 # 着笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuobi.md)
+
 <p><span class="chinese">拿着笔沉思吧。</span><span class="english">Meditate with a pen in your hand.</span></p>
 
 <p><span class="chinese">我会把交着笔费用当作投资成本。</span><span class="english">I would pay as a cost of doing business.</span></p>

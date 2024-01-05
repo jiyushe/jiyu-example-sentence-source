@@ -1,5 +1,7 @@
 # 鹅毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/emao.md)
+
 <p><span class="chinese">鹅毛，纱线。</span><span class="english">feathers, yarn.</span></p>
 
 <p><span class="chinese">尾座鹅毛笔直径。</span><span class="english">Tailstock quill dia.</span></p>

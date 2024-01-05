@@ -1,5 +1,7 @@
 # electrics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrics.md)
+
 <p><span class="chinese">最好的柴油电力混合动力车是每加仑柴油5.3英里。</span><span class="english">The best diesel electrics got 5.3 mpg.</span></p>
 
 <p><span class="chinese">汽车厂商在1979-80的原油危机后，也开始打起了电的主意。</span><span class="english">Manufacturers dabbled with electrics after the oil shock of 1979-80.</span></p>

@@ -1,5 +1,7 @@
 # 出卖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chumai.md)
+
 <p><span class="chinese">这能以高价出卖。</span><span class="english">It can sell high.</span></p>
 
 <p><span class="chinese">我是一名出卖经理。</span><span class="english">Iim a sales manager.</span></p>

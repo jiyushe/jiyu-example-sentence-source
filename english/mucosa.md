@@ -1,5 +1,7 @@
 # mucosa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mucosa.md)
+
 <p><span class="chinese">在粘膜内可见实性的肿瘤细胞巢。</span><span class="english">There are solid neoplastic nests in the mucosa.</span></p>
 
 <p><span class="chinese">胃粘膜已经消失或溃烂。</span><span class="english">Here the gastric mucosa has been lost, or ulcerated.</span></p>

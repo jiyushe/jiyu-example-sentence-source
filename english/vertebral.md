@@ -1,5 +1,7 @@
 # vertebral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vertebral.md)
+
 <p><span class="chinese">椎体高度压缩率和恢复率。</span><span class="english">The vertebral compression rate and restoring rate.</span></p>
 
 <p><span class="chinese">脊椎压到神经要怎么样治疗啊？</span><span class="english">Vertebral overwhelm how does nerve want treatment?</span></p>

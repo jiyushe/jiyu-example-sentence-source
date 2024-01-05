@@ -1,5 +1,7 @@
 # hemosiderin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemosiderin.md)
+
 <p><span class="chinese">无急性出血或者是含铁血黄素沉积。</span><span class="english">No acute haemorrhage or hemosiderin deposit is seen.</span></p>
 
 <p><span class="chinese">也可出现出血形成的含铁血黄素。</span><span class="english">There can be hemosiderin pigment from hemorrhage as well.</span></p>

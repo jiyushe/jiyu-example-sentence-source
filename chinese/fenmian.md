@@ -1,5 +1,7 @@
 # 分娩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenmian.md)
+
 <p><span class="chinese">那天晚上，我进入了分娩状态。</span><span class="english">That night, I went into labor.</span></p>
 
 <p><span class="chinese">巨大儿和剖宫产分娩。</span><span class="english">Macrosomia and cesarean delivery.</span></p>

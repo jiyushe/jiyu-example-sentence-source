@@ -1,5 +1,7 @@
 # 莜麦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youmai.md)
+
 <p><span class="chinese">莜麦面是糖尿病疗效食品。</span><span class="english">Nake oats is a healthy food for diabetics.</span></p>
 
 <p><span class="chinese">相应对莜麦和小南瓜田进行了田间水分渗漏观测。</span><span class="english">Water leakage of naked-oats and cushaw was also studied.</span></p>

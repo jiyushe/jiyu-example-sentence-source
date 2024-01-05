@@ -1,5 +1,7 @@
 # 不辞劳苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bucilaoku.md)
+
 <p><span class="chinese">他不辞劳苦。</span><span class="english">He spares no pains.</span></p>
 
 <p><span class="chinese">她工作起来太不辞劳苦了。</span><span class="english">She works herself too hard.</span></p>

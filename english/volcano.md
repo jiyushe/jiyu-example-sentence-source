@@ -1,5 +1,7 @@
 # volcano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volcano.md)
+
 <p><span class="chinese">维苏威山是一座火山。</span><span class="english">Vesuvius is a volcano.</span></p>
 
 <p><span class="chinese">这座火山是座死火山。</span><span class="english">The volcano is extinct.</span></p>

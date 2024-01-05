@@ -1,5 +1,7 @@
 # 卵细胞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanxibao.md)
+
 <p><span class="chinese">FSH催促卵细胞在卵巢的成熟。</span><span class="english">FSH spurs egg maturation in ovary.</span></p>
 
 <p><span class="chinese">计数雌性个体体腔卵细胞。</span><span class="english">Oocytes of female coelom were counted.</span></p>

@@ -1,5 +1,7 @@
 # 原样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanyang.md)
+
 <p><span class="chinese">这比原样差。</span><span class="english">It is below the original sample.</span></p>
 
 <p><span class="chinese">请把原样给我看看。</span><span class="english">Show me the original sample, please.</span></p>

@@ -1,5 +1,7 @@
 # moabite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moabite.md)
+
 <p><span class="chinese">摩押的使臣就在巴兰那里住下了。</span><span class="english">So the Moabite princes stayed with him.</span></p>
 
 <p><span class="chinese">那天，所有顽抗的摩押兵都被我们消灭了。</span><span class="english">We killed every single Moabite that was fighting in the battle that day.</span></p>

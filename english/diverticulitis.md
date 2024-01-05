@@ -1,5 +1,7 @@
 # diverticulitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diverticulitis.md)
+
 <p><span class="chinese">什么是憩室炎？。</span><span class="english">What Is Diverticulitis?</span></p>
 
 <p><span class="chinese">有症状的十二指肠憩室炎罕见。</span><span class="english">Symptomatic duodenal diverticulitis is rare.</span></p>

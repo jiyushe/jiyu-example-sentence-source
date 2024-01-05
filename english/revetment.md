@@ -1,5 +1,7 @@
 # revetment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revetment.md)
+
 <p><span class="chinese">生态护岸是一种新式的护岸技能。</span><span class="english">Ecological revetment is a new revetment skills.</span></p>
 
 <p><span class="chinese">护岸工程在建造和运营中，经常会遇到各种风险。</span><span class="english">Different risks may often come up in constructing and operating the bank revetment.</span></p>

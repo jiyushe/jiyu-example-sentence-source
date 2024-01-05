@@ -1,5 +1,7 @@
 # 出岔子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchazi.md)
+
 <p><span class="chinese">希望别出岔子。</span><span class="english">I hope nothing goes wrong.</span></p>
 
 <p><span class="chinese">别出岔子。这个计划太重要了。</span><span class="english">Don't goof up. This plan is very important.</span></p>

@@ -1,5 +1,7 @@
 # ostensible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ostensible.md)
+
 <p><span class="chinese">非常有组织，在面对当前的表面势力对他不利。</span><span class="english">Very organized in the face of the ostensible forces against him.</span></p>
 
 <p><span class="chinese">他借口身体不好。辞去书记的职务。</span><span class="english">He resigned his secretaryship on the ostensible ground of health.</span></p>

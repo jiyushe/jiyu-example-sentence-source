@@ -1,5 +1,7 @@
 # 指标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibiao.md)
+
 <p><span class="chinese">这个指标偏低。</span><span class="english">The target is on the low side.</span></p>
 
 <p><span class="chinese">一个更好的血糖检测指标。</span><span class="english">A better index of overall glycemia.</span></p>

@@ -1,5 +1,7 @@
 # 眼中钉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhongding.md)
+
 <p><span class="chinese">他是我的眼中钉。</span><span class="english">He is a thorn in my side.</span></p>
 
 <p><span class="chinese">他总把我当作眼中钉。</span><span class="english">He aways treats me like enemy.</span></p>

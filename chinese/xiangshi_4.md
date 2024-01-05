@@ -1,5 +1,7 @@
 # 详实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshi_4.md)
+
 <p><span class="chinese">对于爱情而言，资料更为详实。</span><span class="english">In love, the data is even clearer.</span></p>
 
 <p><span class="chinese">所有内容，即便很无聊，但是笔记那部分确实是详实的。</span><span class="english">All of these, however, bore out the notes in full.</span></p>

@@ -1,5 +1,7 @@
 # licence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/licence.md)
+
 <p><span class="chinese">自由并非特许证。</span><span class="english">Liberty is not licence.</span></p>
 
 <p><span class="chinese">这是我的驾驶执照。</span><span class="english">This is my driving licence.</span></p>

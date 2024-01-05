@@ -1,5 +1,7 @@
 # advisable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advisable.md)
+
 <p><span class="chinese">预作准备是明智的。</span><span class="english">It is advisable to be forearmed.</span></p>
 
 <p><span class="chinese">这当然是一厢情愿的海市蜃楼。</span><span class="english">This course of action is advisable.</span></p>

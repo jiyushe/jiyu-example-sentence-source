@@ -1,5 +1,7 @@
 # functionality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/functionality.md)
+
 <p><span class="chinese">功能是为用户服务的。</span><span class="english">functionality is for the user.</span></p>
 
 <p><span class="chinese">自动分割功能补充。</span><span class="english">Auto-segmentation functionality added.</span></p>

@@ -1,5 +1,7 @@
 # 暴戾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoli_1.md)
+
 <p><span class="chinese">“这说明他并不暴戾。”拉辛汗说。</span><span class="english">"So he's not violent, "Rahim Khan said.</span></p>
 
 <p><span class="chinese">也不要畏缩于冰雹的暴戾</span><span class="english">Nor shrink from the whips of the terrible hail</span></p>

@@ -1,5 +1,7 @@
 # 终场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongchang_1.md)
+
 <p><span class="chinese">这出拙劣的悲剧在这里一直演到终场。</span><span class="english">Here the squalid tragedy was played out.</span></p>
 
 <p><span class="chinese">终场前19分钟，安德森把比分改写为3比1。</span><span class="english">And 19 minutes from the end, Anderson made it 3-1.</span></p>

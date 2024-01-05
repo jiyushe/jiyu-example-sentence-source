@@ -1,5 +1,7 @@
 # convict
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convict.md)
+
 <p><span class="chinese">我是个苦役犯。</span><span class="english">I am a convict from the galleys.</span></p>
 
 <p><span class="chinese">我宁愿死也不愿做个囚犯。</span><span class="english">I'd rather die than be a convict.</span></p>

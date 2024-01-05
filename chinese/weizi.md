@@ -1,5 +1,7 @@
 # 位子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizi.md)
+
 <p><span class="chinese">先生，这是我的位子。</span><span class="english">This is my place, sir.</span></p>
 
 <p><span class="chinese">我们可不可以坐靠窗的位子?</span><span class="english">Can we sit by a window.</span></p>

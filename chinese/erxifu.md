@@ -1,5 +1,7 @@
 # 儿媳妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erxifu.md)
+
 <p><span class="chinese">我的儿媳妇是个律师。</span><span class="english">My daughter-in-law is an lawyer.</span></p>
 
 <p><span class="chinese">山姆，现在你可以亲吻我的儿媳妇了！</span><span class="english">Sam, you may now kiss my daughter-in-law.</span></p>

@@ -1,5 +1,7 @@
 # 公升
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongsheng.md)
+
 <p><span class="chinese">小便时把尿装进1.5公升的瓶子里。</span><span class="english">Collect my piss into 1.5L bottle.</span></p>
 
 <p><span class="chinese">每公升在案件公开骨节方法。</span><span class="english">Per litre in case of open-beck method.</span></p>

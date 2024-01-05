@@ -1,5 +1,7 @@
 # 欢送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huansong.md)
+
 <p><span class="chinese">乐队奏乐欢送贵宾。</span><span class="english">The band played the guests off.</span></p>
 
 <p><span class="chinese">欢送来到膀催眠的花园。</span><span class="english">Welcome to the hypnotic garden.</span></p>

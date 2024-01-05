@@ -1,5 +1,7 @@
 # fourteen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fourteen.md)
+
 <p><span class="chinese">他十四岁了。</span><span class="english">He’s fourteen.</span></p>
 
 <p><span class="chinese">五加九等于十四。</span><span class="english">Five plus nine is fourteen.</span></p>

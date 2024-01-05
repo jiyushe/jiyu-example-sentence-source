@@ -1,5 +1,7 @@
 # sep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sep.md)
+
 <p><span class="chinese">谢谢你9月18日的来信。</span><span class="english">Thank you for your letter dated Sep. 18.</span></p>
 
 <p><span class="chinese">2001年9月21日由陆地卫星5号拍摄</span><span class="english">Image taken by Landsat 5 on Sep. 21, 2001</span></p>

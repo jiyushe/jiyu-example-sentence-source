@@ -1,5 +1,7 @@
 # literature 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/literature.md)
+
 <p><span class="chinese">他爱好文学。</span><span class="english">He loves literature.</span></p>
 
 <p><span class="chinese">看一下文学作品</span><span class="english">Look at the literature.</span></p>

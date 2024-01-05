@@ -1,5 +1,7 @@
 # 夜明珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yemingzhu.md)
+
 <p><span class="chinese">通常情况下所说的夜明珠是指荧光石、夜光石。</span><span class="english">Usually say pearl refers to fluorescent stone, luminous.</span></p>
 
 <p><span class="chinese">夜华打趣白浅，要准备什么礼物，夜明珠吗？</span><span class="english">Night Hua jokes white shallow, to prepare what gift, pearl?</span></p>

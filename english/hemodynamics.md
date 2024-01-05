@@ -1,5 +1,7 @@
 # hemodynamics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemodynamics.md)
+
 <p><span class="chinese">结果围术期血流动力学基本平稳。</span><span class="english">Results The hemodynamics was stable in the perioperated phase.</span></p>
 
 <p><span class="chinese">并对患肢足背动脉血流动力学变化、创口愈合情况进行观察。</span><span class="english">Hemodynamics of dorsal pedes artery and the cure of lesions were observed.</span></p>

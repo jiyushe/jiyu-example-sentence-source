@@ -1,5 +1,7 @@
 # outgrowth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outgrowth.md)
+
 <p><span class="chinese">这里体现了斐波纳契数列结果。</span><span class="english">Here the Fibonacci Outgrowth is represented.</span></p>
 
 <p><span class="chinese">小麦根毛的生长和新根的发生也受到了抑制。</span><span class="english">The outgrowth of root hair and new roots were inhibited.</span></p>

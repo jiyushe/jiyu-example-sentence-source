@@ -1,5 +1,7 @@
 # 生手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshou_1.md)
+
 <p><span class="chinese">他对那项工作是个生手。</span><span class="english">He is young at the work.</span></p>
 
 <p><span class="chinese">对这项工作来说我仍然是个生手。</span><span class="english">I'm still green at the job.</span></p>

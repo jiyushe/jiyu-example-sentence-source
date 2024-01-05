@@ -1,5 +1,7 @@
 # funnily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/funnily.md)
+
 <p><span class="chinese">说来真怪，我昨天还碰到她的。</span><span class="english">Funnily enough, I met her only yesterday.</span></p>
 
 <p><span class="chinese">有趣的是，很多的Akei族人对蜜蜂的叮咬免疫。</span><span class="english">Funnily enough, most Akei are immune to bee stings.</span></p>

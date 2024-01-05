@@ -1,5 +1,7 @@
 # 猎户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liehu.md)
+
 <p><span class="chinese">猎户将出行。</span><span class="english">A-hunting we will go.</span></p>
 
 <p><span class="chinese">我一直很喜欢注视猎户星座。</span><span class="english">I always like looking at Orion.</span></p>

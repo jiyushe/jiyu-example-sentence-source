@@ -1,5 +1,7 @@
 # 上家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangjia.md)
+
 <p><span class="chinese">没有一个地方比得上家.</span><span class="english">There’s no place like home.</span></p>
 
 <p><span class="chinese">我今天要连着上家教课。</span><span class="english">I have back-to-back tutoring sessions today.</span></p>

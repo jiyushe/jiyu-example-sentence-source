@@ -1,5 +1,7 @@
 # steeply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steeply.md)
+
 <p><span class="chinese">飞机斜着往上升。</span><span class="english">The plane climbed steeply.</span></p>
 
 <p><span class="chinese">小路陡直而下直到村子。</span><span class="english">The path descends steeply to the village.</span></p>

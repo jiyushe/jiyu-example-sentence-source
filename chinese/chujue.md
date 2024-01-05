@@ -1,5 +1,7 @@
 # 触觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chujue.md)
+
 <p><span class="chinese">盲人有敏锐的触觉。</span><span class="english">The blind have a keen touch.</span></p>
 
 <p><span class="chinese">这就是触觉的神奇之处。</span><span class="english">And that's the magic of touch.</span></p>

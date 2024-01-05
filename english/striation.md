@@ -1,5 +1,7 @@
 # striation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/striation.md)
+
 <p><span class="chinese">也减少绿松石线状的强度。</span><span class="english">The intensity of the turquoise striation is also reduced.</span></p>
 
 <p><span class="chinese">断口分析表明，合金低周疲劳断口的主要特征是平行的条纹及韧窝。</span><span class="english">The chief character of fracture is fatigue striation and dimple.</span></p>

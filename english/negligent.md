@@ -1,5 +1,7 @@
 # negligent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negligent.md)
+
 <p><span class="chinese">在回狐牙峰的路上，众人稍有懈怠。</span><span class="english">In the back to fox tooth peak on the road, they slightly negligent.</span></p>
 
 <p><span class="chinese">第六部分是共同过失犯罪的立法献言。</span><span class="english">The sixth part is the legislative suggestion of the joint negligent crime.</span></p>

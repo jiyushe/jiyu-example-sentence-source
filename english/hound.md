@@ -1,5 +1,7 @@
 # hound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hound.md)
+
 <p><span class="chinese">猫王的猎犬狗.</span><span class="english">Elvis the hound dog.</span></p>
 
 <p><span class="chinese">于是穆那查到了猎狗那里。</span><span class="english">He came to the hound.</span></p>

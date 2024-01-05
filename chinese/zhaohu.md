@@ -1,5 +1,7 @@
 # 招呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaohu.md)
+
 <p><span class="chinese">阿真招呼道。</span><span class="english">True hello way.</span></p>
 
 <p><span class="chinese">蒂姆热情地招呼她。</span><span class="english">Tim greets her warmly.</span></p>

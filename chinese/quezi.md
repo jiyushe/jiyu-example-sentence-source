@@ -1,5 +1,7 @@
 # 瘸子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quezi.md)
+
 <p><span class="chinese">取笑瘸子是残忍的。</span><span class="english">It's cruel to make fun of a cripple.</span></p>
 
 <p><span class="chinese">逗弄瘸子是残忍的。</span><span class="english">It's cruel to make fun of a cripple.</span></p>

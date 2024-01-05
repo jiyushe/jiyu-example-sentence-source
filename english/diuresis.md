@@ -1,5 +1,7 @@
 # diuresis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diuresis.md)
+
 <p><span class="chinese">白茅根能清热利尿。</span><span class="english">Cogongrass Rhizome clears heat and induces diuresis.</span></p>
 
 <p><span class="chinese">强迫利尿，例如管理巴比妥中毒。</span><span class="english">Forced diuresis e. g. management of barbiturate poisoning.</span></p>

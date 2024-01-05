@@ -1,5 +1,7 @@
 # 顾忌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guji_7.md)
+
 <p><span class="chinese">也许下交他不忠前会有所顾忌。</span><span class="english">Maybe next time he'll think before he cheats.</span></p>
 
 <p><span class="chinese">陈超顾忌孟菲感受，没有再同意欣儿的恳求。</span><span class="english">Chen MengFei feeling, no scruple of supplication.</span></p>

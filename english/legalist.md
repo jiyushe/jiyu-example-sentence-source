@@ -1,5 +1,7 @@
 # legalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legalist.md)
+
 <p><span class="chinese">为了这个案子，他们请教了某个法律学家。</span><span class="english">They consulted some legalist regarding the case.</span></p>
 
 <p><span class="chinese">法家韩非从不同角度论和。</span><span class="english">Legalist Han Fei theory and from different angles.</span></p>

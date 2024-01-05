@@ -1,5 +1,7 @@
 # agilely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agilely.md)
+
 <p><span class="chinese">她会灵活地顺着梯子爬上去，远远地躲开这些卑鄙龌龊的人。</span><span class="english">She would have steered agilely up the ladders and left the snakes alone.</span></p>
 
 <p><span class="chinese">我每天训练她，30天之后，它已经可以灵活地倒著走路。</span><span class="english">I trained her a while each day. After 30 days she could agilely walk upside down.</span></p>

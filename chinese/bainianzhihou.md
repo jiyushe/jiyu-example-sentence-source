@@ -1,5 +1,7 @@
 # 百年之后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bainianzhihou.md)
+
 <p><span class="chinese">你是谁，读者，百年之后，读著我的诗？</span><span class="english">Who are you, reader, reading my poems an hundred years hence?</span></p>
 
 <p><span class="chinese">但是在其百年之后的今日，我们再来祭奠这段历史的时候，或许应当有更多的启示。</span><span class="english">But, when we sacrifice the period of history after a hundred year, there could be more significant.</span></p>

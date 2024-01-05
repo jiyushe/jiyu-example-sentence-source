@@ -1,5 +1,7 @@
 # bohemian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bohemian.md)
+
 <p><span class="chinese">那都是你波西米亚的朋友，对吗？</span><span class="english">This more of your bohemian crew, is it?</span></p>
 
 <p><span class="chinese">带着一点波希米亚式的反叛，还有一点贵族气的粗暴。</span><span class="english">A bit of the Bohemian rebel, a bit of the noble savage.</span></p>

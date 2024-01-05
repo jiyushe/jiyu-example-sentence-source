@@ -1,5 +1,7 @@
 # 片子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianzi.md)
+
 <p><span class="chinese">不过说回异性恋的片子。</span><span class="english">But back to straight porn.</span></p>
 
 <p><span class="chinese">打开别离舱门，美国经典片子。哈尔。</span><span class="english">Open the pod bay doors- HAL.</span></p>

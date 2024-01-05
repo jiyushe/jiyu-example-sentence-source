@@ -1,5 +1,7 @@
 # 东华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donghua.md)
+
 <p><span class="chinese">欢迎来到东华大学网球社的博客！</span><span class="english">Welcom to the Blog of DHU Tennis Club!</span></p>
 
 <p><span class="chinese">本文作者是东华大学名誉教授。</span><span class="english">Dai Chenping is an emeritus professor of Dong Hua University.</span></p>

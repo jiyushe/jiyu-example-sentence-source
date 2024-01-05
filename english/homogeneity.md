@@ -1,5 +1,7 @@
 # homogeneity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homogeneity.md)
+
 <p><span class="chinese">成员社会背景和意识形态的同质化</span><span class="english">Homogeneity of Members' Social Background and Ideology</span></p>
 
 <p><span class="chinese">劳动价值论是建立在劳动同质性假设基础上的。</span><span class="english">The theory is based on the assumption of labor homogeneity.</span></p>

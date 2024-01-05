@@ -1,5 +1,7 @@
 # bandwidth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandwidth.md)
+
 <p><span class="chinese">广域网链路的带宽管理</span><span class="english">Bandwidth management for WAN links</span></p>
 
 <p><span class="chinese">有足够的网络带宽。</span><span class="english">Have sufficient network bandwidth.</span></p>

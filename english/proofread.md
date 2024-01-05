@@ -1,5 +1,7 @@
 # proofread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proofread.md)
+
 <p><span class="chinese">这些你校对了吗？</span><span class="english">Did you proofread these?</span></p>
 
 <p><span class="chinese">拼音书写查缉和校对。</span><span class="english">Spell check and proofread.</span></p>

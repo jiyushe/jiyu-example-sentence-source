@@ -1,5 +1,7 @@
 # 利弊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/libi.md)
+
 <p><span class="chinese">我们权衡了利弊得失。</span><span class="english">We weighed up the pros and cons.</span></p>
 
 <p><span class="chinese">使用该药，患者必须权衡利弊。</span><span class="english">One must balance risk versus benefit.</span></p>

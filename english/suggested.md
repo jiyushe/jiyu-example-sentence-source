@@ -1,5 +1,7 @@
 # suggested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suggested.md)
+
 <p><span class="chinese">我提议道。</span><span class="english">I suggested.</span></p>
 
 <p><span class="chinese">他提议搞一主家餐。</span><span class="english">He suggested a-air meas.</span></p>

@@ -1,5 +1,7 @@
 # 咖啡碱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kafeijian.md)
+
 <p><span class="chinese">饮茶所引起的兴奋作用，是咖啡碱的功效。</span><span class="english">DrinkTeaThe excited effect that causes, it is the effect of theine.</span></p>
 
 <p><span class="chinese">1838年发现茶中的一种物质叫咖啡碱与咖啡因有相同的效用。</span><span class="english">In 1838, it was found that theine, a substance in tea, was identical to caffeine.</span></p>

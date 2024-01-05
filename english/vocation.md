@@ -1,5 +1,7 @@
 # vocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocation.md)
+
 <p><span class="chinese">你的职业是啥子?。</span><span class="english">May Iknow your vocation?</span></p>
 
 <p><span class="chinese">对于迪尔凯姆来说社会学是一种职业。</span><span class="english">For Durkheim, sociology was a vocation.</span></p>

@@ -1,5 +1,7 @@
 # distillation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distillation.md)
+
 <p><span class="chinese">艺术是现实生活的升华。</span><span class="english">Art is the distillation of life.</span></p>
 
 <p><span class="chinese">蒸馏和所有其他的内容。</span><span class="english">Distillation and everything else.</span></p>

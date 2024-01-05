@@ -1,5 +1,7 @@
 # hypochondriac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypochondriac.md)
+
 <p><span class="chinese">我一直都有臆想症。</span><span class="english">I've always been a hypochondriac.</span></p>
 
 <p><span class="chinese">但得了疑病症确实可以瘫痪一个人的身心。</span><span class="english">But being a hypochondriac can be crippling.</span></p>

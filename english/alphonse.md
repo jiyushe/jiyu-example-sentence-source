@@ -1,5 +1,7 @@
 # alphonse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alphonse.md)
+
 <p><span class="chinese">阿尔方斯想要你扔它。</span><span class="english">Alphonse wants you to throw it.</span></p>
 
 <p><span class="chinese">阿方斯立刻认可了他们。</span><span class="english">Alphonse recognized them immediately.</span></p>

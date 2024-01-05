@@ -1,5 +1,7 @@
 # certainly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/certainly.md)
+
 <p><span class="chinese">当然是个妇人。</span><span class="english">Why, certainly.</span></p>
 
 <p><span class="chinese">当然是的。</span><span class="english">Yes, certainly.</span></p>

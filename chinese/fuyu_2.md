@@ -1,5 +1,7 @@
 # 馥郁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyu_2.md)
+
 <p><span class="chinese">成熟红果和香料的芬芳十分馥郁。</span><span class="english">Rich aromas of ripe red fruit and spices.</span></p>
 
 <p><span class="chinese">恰像馥郁的玫瑰花心的毛虫。</span><span class="english">Which like a canker in the fragrant rose.</span></p>

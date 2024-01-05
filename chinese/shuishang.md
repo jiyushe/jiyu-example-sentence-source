@@ -1,5 +1,7 @@
 # 水上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuishang.md)
+
 <p><span class="chinese">没有水上乐园？</span><span class="english">No water park?</span></p>
 
 <p><span class="chinese">我们可是水上人家呀！</span><span class="english">We are water people.</span></p>

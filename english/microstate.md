@@ -1,5 +1,7 @@
 # microstate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microstate.md)
+
 <p><span class="chinese">这是一个系统的微观状态。</span><span class="english">So this is a system microstate.</span></p>
 
 <p><span class="chinese">其中pi是某个微观状态的概率。</span><span class="english">Where the p's are the microstate probabilities.</span></p>

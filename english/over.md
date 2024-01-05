@@ -1,5 +1,7 @@
 # over
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/over.md)
+
 <p><span class="chinese">于是我去了。</span><span class="english">I went over.</span></p>
 
 <p><span class="chinese">因此等于RT除以。</span><span class="english">V RT over V.</span></p>

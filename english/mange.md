@@ -1,5 +1,7 @@
 # mange
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mange.md)
+
 <p><span class="chinese">你是怎么做成这笔买卖的？</span><span class="english">How did you mange that?</span></p>
 
 <p><span class="chinese">是啊，但是我想我能应付。</span><span class="english">Yes, but I think I can mange.</span></p>

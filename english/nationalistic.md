@@ -1,5 +1,7 @@
 # nationalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nationalistic.md)
+
 <p><span class="chinese">也很民族主义，这是说得通的。</span><span class="english">that makes sense that they feel nationalistic about it.</span></p>
 
 <p><span class="chinese">当事情不顺利的时候，多数人会变得民族主义。</span><span class="english">When things don't go well, most people become nationalistic.</span></p>

@@ -1,5 +1,7 @@
 # cripple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cripple.md)
+
 <p><span class="chinese">妻子是个跛子。</span><span class="english">Wife is a cripple.</span></p>
 
 <p><span class="chinese">他就这样成了一个残废者。</span><span class="english">He was left a cripple.</span></p>

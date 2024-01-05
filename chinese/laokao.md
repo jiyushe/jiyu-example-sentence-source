@@ -1,5 +1,7 @@
 # 牢靠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laokao.md)
+
 <p><span class="chinese">这把椅子不太牢靠。</span><span class="english">This chair is not very strong.</span></p>
 
 <p><span class="chinese">牢靠的人是牢靠成功的基础。</span><span class="english">Standbys are essential for secure success.</span></p>

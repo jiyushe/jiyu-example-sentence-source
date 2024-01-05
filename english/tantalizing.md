@@ -1,5 +1,7 @@
 # tantalizing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tantalizing.md)
+
 <p><span class="chinese">这光景真叫人干着急。</span><span class="english">The sight is most tantalizing.</span></p>
 
 <p><span class="chinese">那是诱人的铃声！</span><span class="english">That was a tantalizing tintinnabulation!</span></p>

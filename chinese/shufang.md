@@ -1,5 +1,7 @@
 # 书房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shufang.md)
+
 <p><span class="chinese">别让那条狗进我的书房。</span><span class="english">Keep that out of my study.</span></p>
 
 <p><span class="chinese">这是布克叔叔的书房。</span><span class="english">This is Uncle Booky 's study.</span></p>

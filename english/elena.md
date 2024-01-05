@@ -1,5 +1,7 @@
 # elena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elena.md)
+
 <p><span class="chinese">埃琳娜•卡根是犹太人。</span><span class="english">Elena Kagan is Jewish.</span></p>
 
 <p><span class="chinese">埃伦娜·奥尔蒂斯的头发是黑色的。</span><span class="english">Elena Ortiz's hair was black.</span></p>

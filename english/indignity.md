@@ -1,5 +1,7 @@
 # indignity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indignity.md)
+
 <p><span class="chinese">中国人民不可欺，不可辱。</span><span class="english">The Chinese people brook no indignity or insult.</span></p>
 
 <p><span class="chinese">再也无需雨打日晒地乞讨，再也没有侮辱。</span><span class="english">No more begging in the intense sun and rain, and no more indignity.</span></p>

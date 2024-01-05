@@ -1,5 +1,7 @@
 # nephrology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nephrology.md)
+
 <p><span class="chinese">海口市人民医院肾内科创建于1996年。</span><span class="english">The Nephrology Department of Haikou Municipal People's Hospital was founded in 1996.</span></p>
 
 <p><span class="chinese">这一研究结果最近发表于美国肾脏病学会杂志上。</span><span class="english">The findings were recently published in the Journal of the American Society of Nephrology.</span></p>

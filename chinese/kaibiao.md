@@ -1,5 +1,7 @@
 # 开标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaibiao.md)
+
 <p><span class="chinese">届时请投标人代表出席开标仪式。</span><span class="english">We sincerely invite the bidders to attend the bid opening.</span></p>
 
 <p><span class="chinese">有组织开标、评标、定标的能力。</span><span class="english">It has the ability to organize bid opening, bid assessment and selection.</span></p>

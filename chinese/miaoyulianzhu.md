@@ -1,5 +1,7 @@
 # 妙语连珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaoyulianzhu.md)
+
 <p><span class="chinese">妙语连珠和提示读者。</span><span class="english">"Pranks" and readers tips.</span></p>
 
 <p><span class="chinese">他有妙语连珠的天分。</span><span class="english">He has a genius for epigram.</span></p>

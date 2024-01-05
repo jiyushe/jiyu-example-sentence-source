@@ -1,5 +1,7 @@
 # 喇嘛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lama.md)
+
 <p><span class="chinese">与喇嘛相处愉快。</span><span class="english">Bill and Loden Lama.</span></p>
 
 <p><span class="chinese">我也喜欢喇嘛庙。</span><span class="english">I like the Temple, too.</span></p>

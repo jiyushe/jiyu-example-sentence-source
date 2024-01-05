@@ -1,5 +1,7 @@
 # 土性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuxing_3.md)
+
 <p><span class="chinese">碎土性能强，作业后地面平整。</span><span class="english">The strong crashing earth, the ground flat after working.</span></p>
 
 <p><span class="chinese">其鼓点本土性强，群众易接受传承的特征。</span><span class="english">Its strong indigenous drums , the people easily accept the inheritance of characteristics.</span></p>

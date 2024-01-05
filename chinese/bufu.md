@@ -1,5 +1,7 @@
 # 不服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bufu.md)
+
 <p><span class="chinese">如果你不服从他，他就会发脾气。</span><span class="english">He will be nasty if you disobey him.</span></p>
 
 <p><span class="chinese">因为不服神的律法，也是不能服。</span><span class="english">If God is for us, who can be against us?</span></p>

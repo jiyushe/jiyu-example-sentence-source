@@ -1,5 +1,7 @@
 # 糅合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouhe_2.md)
+
 <p><span class="chinese">Suica的数据还得到了糅合应用，Sherelog便是明证。</span><span class="english">There have been mashups made with Suica data.</span></p>
 
 <p><span class="chinese">把人本主义，心理学，符号学和设计糅合到一起，我们得到的是“交互设计”。</span><span class="english">Put together, humanism, psychology, semiotic and design.</span></p>

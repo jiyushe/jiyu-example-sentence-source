@@ -1,5 +1,7 @@
 # 甘露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganlu.md)
+
 <p><span class="chinese">甘露咖啡酒是一种利口酒。</span><span class="english">Kahlua is a kind of liqueur.</span></p>
 
 <p><span class="chinese">野蜜，甘露和仙果。</span><span class="english">And honey wild, and manna dew.</span></p>

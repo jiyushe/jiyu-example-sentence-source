@@ -1,5 +1,7 @@
 # jadeite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jadeite.md)
+
 <p><span class="chinese">这块翡翠是豆绿种。</span><span class="english">This jadeite is Bean Green variety.</span></p>
 
 <p><span class="chinese">翡翠俗称玉中之王。</span><span class="english">Jadeite is usally called "king of jade".</span></p>

@@ -1,5 +1,7 @@
 # sleepwear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleepwear.md)
+
 <p><span class="chinese">美丽睡衣温和的气候。</span><span class="english">Beautiful sleepwear for balmy weather.</span></p>
 
 <p><span class="chinese">千万别忘了袜子、鞋子、内衣还有睡衣裤。</span><span class="english">Always remember socks, shoes, underwear and sleepwear.</span></p>

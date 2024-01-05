@@ -1,5 +1,7 @@
 # silas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silas.md)
+
 <p><span class="chinese">欢迎来到西拉团！</span><span class="english">Welcome to Silas Fellowship!</span></p>
 
 <p><span class="chinese">但多数人都赞扬赛拉斯。</span><span class="english">Most people, however , praised Silas.</span></p>

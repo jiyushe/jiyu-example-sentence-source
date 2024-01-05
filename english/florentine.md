@@ -1,5 +1,7 @@
 # florentine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/florentine.md)
+
 <p><span class="chinese">马奇亚维利是佛罗伦萨人。</span><span class="english">Machiavelli was a Florentine.</span></p>
 
 <p><span class="chinese">佛罗伦萨的女人在耳垂上涂胭脂。</span><span class="english">Florentine women rouged their earlobes.</span></p>

@@ -1,5 +1,7 @@
 # heckle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heckle.md)
+
 <p><span class="chinese">他去他们的会议起哄。</span><span class="english">He went to heckle at their meetings.</span></p>
 
 <p><span class="chinese">那天，我听到观众中有人大声吹口哨向我起哄。</span><span class="english">I heard some of the audience heckle me with loud whistles.</span></p>

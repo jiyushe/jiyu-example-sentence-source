@@ -1,5 +1,7 @@
 # 失水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishui.md)
+
 <p><span class="chinese">咖啡因会使身体失水。</span><span class="english">Caffeinated drinks cause the body to lose water.</span></p>
 
 <p><span class="chinese">由于失水造成的细胞膨胀性的消失。</span><span class="english">Wilting The loss of turgor due to lack of water.</span></p>

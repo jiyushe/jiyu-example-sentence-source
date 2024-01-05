@@ -1,5 +1,7 @@
 # 并力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingli_1.md)
+
 <p><span class="chinese">克莱斯勒一直寻求与菲亚特签署援助协议,并力图让债务协议拍板定案.</span><span class="english">Chrysler has been seeking a rescue deal from the Italian automaker while also trying to finalize its debt agreement.</span></p>
 
 <p><span class="chinese">在创作思想上，当时的小说创作更是遵循史家惯例，广泛搜求资料并力证其可靠性。</span><span class="english">In addition I the novelists followed the historians' practice of widely collecting materials and justifying their reliability.</span></p>

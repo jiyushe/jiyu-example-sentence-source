@@ -1,5 +1,7 @@
 # ductility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ductility.md)
+
 <p><span class="chinese">岩棉板使用中延展性很。</span><span class="english">Rock wool board use ductility.</span></p>
 
 <p><span class="chinese">而一旦把延展性引入进来，材料就变得脆弱了。</span><span class="english">Once ductility is introduced, materials become weak.</span></p>

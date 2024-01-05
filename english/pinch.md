@@ -1,5 +1,7 @@
 # pinch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinch.md)
+
 <p><span class="chinese">捏捏耳朵。</span><span class="english">Pinch your ears.</span></p>
 
 <p><span class="chinese">最后，加一撮盐。</span><span class="english">Then, add a pinch of salt.</span></p>

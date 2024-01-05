@@ -1,5 +1,7 @@
 # chugging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chugging.md)
+
 <p><span class="chinese">火车轰隆隆地爬上山去。</span><span class="english">The train went chugging up the hill.</span></p>
 
 <p><span class="chinese">一副引擎砰砰响着却不提供能量。</span><span class="english">An engine was chugging but not delivering heat.</span></p>

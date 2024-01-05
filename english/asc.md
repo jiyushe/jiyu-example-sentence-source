@@ -1,5 +1,7 @@
 # asc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asc.md)
+
 <p><span class="chinese">成为ASC成员后，对你的生活和职业产生了什么影响吗?</span><span class="english">How has ASC membership impacted your life and career?</span></p>
 
 <p><span class="chinese">感谢Parc公司的ASC小组进行的工作，特别是我们在此引用的图片。</span><span class="english">Thanks to the ASC group at Parc for their work, especially those graphs we've reproduced.</span></p>

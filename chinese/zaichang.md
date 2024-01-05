@@ -1,5 +1,7 @@
 # 在场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaichang.md)
+
 <p><span class="chinese">你有不在场证据吗？</span><span class="english">Have you an alibi?</span></p>
 
 <p><span class="chinese">你可以告诉在场的人，</span><span class="english">and you can tell them,</span></p>

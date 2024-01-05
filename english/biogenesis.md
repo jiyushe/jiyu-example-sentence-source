@@ -1,5 +1,7 @@
 # biogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biogenesis.md)
+
 <p><span class="chinese">分析了天然产物研究中的基本问题和生源研究。</span><span class="english">Some basic problems and biogenesis on natural products research were analysed.</span></p>
 
 <p><span class="chinese">线粒体生物合成依赖于细胞核与线粒体基因的协同表达。</span><span class="english">Mitochondrial biogenesis depends on coordinated expression of genes in the nucleus and mitochondria.</span></p>

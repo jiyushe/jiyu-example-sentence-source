@@ -1,5 +1,7 @@
 # hibernate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hibernate.md)
+
 <p><span class="chinese">熊属半冬眠动物。</span><span class="english">Some bears hibernate.</span></p>
 
 <p><span class="chinese">熊常在山洞里冬眠。</span><span class="english">Bears often hibernate in caves.</span></p>

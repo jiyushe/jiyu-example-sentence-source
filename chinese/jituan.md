@@ -1,5 +1,7 @@
 # 集团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jituan.md)
+
 <p><span class="chinese">白氏集团接班人。</span><span class="english">Bai group successor.</span></p>
 
 <p><span class="chinese">利库德集团和哈马斯也不会。</span><span class="english">Nor are Likud and Hamas.</span></p>

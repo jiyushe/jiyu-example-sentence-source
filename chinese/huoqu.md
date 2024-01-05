@@ -1,5 +1,7 @@
 # 获取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoqu.md)
+
 <p><span class="chinese">我们从树木获取木材。</span><span class="english">We get wood from trees.</span></p>
 
 <p><span class="chinese">什么是多行获取？</span><span class="english">What is multi-row fetch?</span></p>

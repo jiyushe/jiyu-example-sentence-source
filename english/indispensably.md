@@ -1,5 +1,7 @@
 # indispensably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indispensably.md)
+
 <p><span class="chinese">当然，不可缺少的还有你讲故事的能力。</span><span class="english">Of course, return the capacity that has your taletelling indispensably.</span></p>
 
 <p><span class="chinese">水是人类赖以生存和不可缺少的一种重要资源。</span><span class="english">Water is an important resource on which mankind rely for existence indispensably.</span></p>

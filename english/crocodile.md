@@ -1,5 +1,7 @@
 # crocodile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crocodile.md)
+
 <p><span class="chinese">掉鳄鱼的眼泪。</span><span class="english">Shed crocodile tears.</span></p>
 
 <p><span class="chinese">噢，它是一只小鳄鱼。</span><span class="english">I can see a crocodile.</span></p>

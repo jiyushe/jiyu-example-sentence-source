@@ -1,5 +1,7 @@
 # conditionality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conditionality.md)
+
 <p><span class="chinese">灵活信贷额度工具不涉及事后条款。</span><span class="english">And it involves no ex-post conditionality.</span></p>
 
 <p><span class="chinese">由于各种条件的限制，导致了刑事积案与日俱增。</span><span class="english">Various conditionality results in increasingly growth of long-pending criminal cases.</span></p>

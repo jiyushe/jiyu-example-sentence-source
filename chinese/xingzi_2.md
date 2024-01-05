@@ -1,5 +1,7 @@
 # 杏子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzi_2.md)
+
 <p><span class="chinese">杏子其实是桃子家族的一员。</span><span class="english">Almonds are a member of the peach family.</span></p>
 
 <p><span class="chinese">杏子，新鲜或干燥的，富含贝它胡萝卜素。</span><span class="english">Apricots, fresh or dried, are high in beta-carotene.</span></p>

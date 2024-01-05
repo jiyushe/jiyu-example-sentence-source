@@ -1,5 +1,7 @@
 # 酝酿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunniang.md)
+
 <p><span class="chinese">酝酿出一个梦。</span><span class="english">Incubate a dream.</span></p>
 
 <p><span class="chinese">外面暴风雨正在酝酿中。</span><span class="english">A storm was brewing outside.</span></p>

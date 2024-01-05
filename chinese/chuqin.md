@@ -1,5 +1,7 @@
 # 出勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuqin.md)
+
 <p><span class="chinese">每个小组自己登记出勤情况。</span><span class="english">Each group kept its own records of attendance.</span></p>
 
 <p><span class="chinese">出勤我不区分有故和无故缺席。</span><span class="english">I do not distinguish between excused and unexcused absences.</span></p>

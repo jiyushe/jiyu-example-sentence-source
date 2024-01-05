@@ -1,5 +1,7 @@
 # notably 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notably.md)
+
 <p><span class="chinese">显而易见，有不同的指示标志。</span><span class="english">Notably   there are different indicators.</span></p>
 
 <p><span class="chinese">新的前定风翼有一个显著不同的尾盘端板。</span><span class="english">The new front wing has notably different endplates.</span></p>

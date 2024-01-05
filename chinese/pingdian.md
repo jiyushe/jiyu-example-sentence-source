@@ -1,5 +1,7 @@
 # 评点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingdian.md)
+
 <p><span class="chinese">金圣叹的评点对后人的影响也是显而易见的。</span><span class="english">The influence of he to posterity is clear.</span></p>
 
 <p><span class="chinese">李贽是中国古典文学的评点家。</span><span class="english">Lizhi is a literature critic of the Chinese classical literature.</span></p>

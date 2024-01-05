@@ -1,5 +1,7 @@
 # landfill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landfill.md)
+
 <p><span class="chinese">现在被装进黑色塑胶袋的我静静躺在掩埋场里。</span><span class="english">I am in a plastic bag in a landfill now.</span></p>
 
 <p><span class="chinese">填了的地方是否属于第11号渔塘的呢？</span><span class="english">Is the landfill area part of pond no. 11?</span></p>

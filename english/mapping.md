@@ -1,5 +1,7 @@
 # mapping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mapping.md)
+
 <p><span class="chinese">德洛梅测绘产品。</span><span class="english">Delorme mapping products.</span></p>
 
 <p><span class="chinese">精确测绘犁沟距间。</span><span class="english">Mapping the furrow exactly.</span></p>

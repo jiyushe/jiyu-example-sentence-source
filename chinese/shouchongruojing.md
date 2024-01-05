@@ -1,5 +1,7 @@
 # 受宠若惊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouchongruojing.md)
+
 <p><span class="chinese">我并不想那么做，我受宠若惊，谢谢你。</span><span class="english">I didn no dat. I'm flattered, ty.</span></p>
 
 <p><span class="chinese">受到你的邀请，我感到受宠若惊。</span><span class="english">I feel flattered by your invitation.</span></p>

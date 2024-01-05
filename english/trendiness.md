@@ -1,5 +1,7 @@
 # trendiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trendiness.md)
+
 <p><span class="chinese">买衣服时，他都尽量不赶时髦。</span><span class="english">He tries to avoid trendiness when he buys new clothes.</span></p>
 
 <p><span class="chinese">通过配饰，鞋子，手提包的搭配来增添色彩的冲击，让你看起来更时尚。</span><span class="english">Add punchy color and trendiness with accessories, shoes and handbags.</span></p>

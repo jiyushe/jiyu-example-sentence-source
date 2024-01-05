@@ -1,5 +1,7 @@
 # incase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incase.md)
+
 <p><span class="chinese">因为其中一条有个洞！</span><span class="english">Incase he got a hole in one!</span></p>
 
 <p><span class="chinese">万一发生了火灾，打开这扇安全门。</span><span class="english">Incase of fire, open this safety door.</span></p>

@@ -1,5 +1,7 @@
 # dolphin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dolphin.md)
+
 <p><span class="chinese">海豚。白鹭。</span><span class="english">The dolphin. The egret.</span></p>
 
 <p><span class="chinese">海豚帮助你做到这一点。</span><span class="english">Dolphin helps you do that.</span></p>

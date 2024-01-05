@@ -1,5 +1,7 @@
 # 选派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanpai.md)
+
 <p><span class="chinese">他被选派扮演奥赛罗的角色。</span><span class="english">He was cast in the role of Othello.</span></p>
 
 <p><span class="chinese">导演选派我扮演科学家。</span><span class="english">The director cast me as a scientist.</span></p>

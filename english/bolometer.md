@@ -1,5 +1,7 @@
 # bolometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolometer.md)
+
 <p><span class="chinese">分析了超导辐射热探测器的响应率。</span><span class="english">The responsivity of the superconducting bolometer is analyzed.</span></p>
 
 <p><span class="chinese">用它在HT—6B托卡马克上作了等离子体辐射和粒子损失测量。</span><span class="english">Radiation loss and neutral flux loss in HT—6B TOKAMAK have been measured by means of the bolometer.</span></p>

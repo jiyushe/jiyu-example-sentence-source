@@ -1,5 +1,7 @@
 # 报仇雪恨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baochouxuehen.md)
+
 <p><span class="chinese">这次暴动正是为了报仇雪恨。</span><span class="english">This riot was designed to revenge.</span></p>
 
 <p><span class="chinese">它用一种报仇雪恨的神情望着你。</span><span class="english">It looked at you with a vengeful aspect.</span></p>

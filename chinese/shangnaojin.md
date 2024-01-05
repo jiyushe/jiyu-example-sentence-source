@@ -1,5 +1,7 @@
 # 伤脑筋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangnaojin.md)
+
 <p><span class="chinese">让达尔文大伤脑筋的问题今天仍在继续。</span><span class="english">That trouble continues today.</span></p>
 
 <p><span class="chinese">有什么问题让你伤脑筋吗?</span><span class="english">Do you have some trouble with you?</span></p>

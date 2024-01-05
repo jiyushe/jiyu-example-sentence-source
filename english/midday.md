@@ -1,5 +1,7 @@
 # midday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midday.md)
+
 <p><span class="chinese">在正午休会。</span><span class="english">The adjourn at midday.</span></p>
 
 <p><span class="chinese">邮轮中午达到停泊地。</span><span class="english">The liner berthed at midday.</span></p>

@@ -1,5 +1,7 @@
 # stairwell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stairwell.md)
+
 <p><span class="chinese">挂画沿着楼梯间。</span><span class="english">Hanging Pictures along a Stairwell.</span></p>
 
 <p><span class="chinese">每层楼梯间应安装应急灯。</span><span class="english">Emergency lights at every stairwell.</span></p>

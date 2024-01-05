@@ -1,5 +1,7 @@
 # 裹足不前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guozubuqian.md)
+
 <p><span class="chinese">汤姆总是裹足不前。</span><span class="english">Tom always gets cold feet.</span></p>
 
 <p><span class="chinese">你的臭钱，那是不能让我裹足不前的。</span><span class="english">All your money won't stop me.</span></p>

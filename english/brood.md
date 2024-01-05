@@ -1,5 +1,7 @@
 # brood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brood.md)
+
 <p><span class="chinese">蜜蜂窝很暖和。</span><span class="english">Honey bees brood warm.</span></p>
 
 <p><span class="chinese">一只母鸡在孵小鸡。</span><span class="english">The hen rears her brood.</span></p>

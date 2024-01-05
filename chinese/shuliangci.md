@@ -1,5 +1,7 @@
 # 数量词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuliangci.md)
+
 <p><span class="chinese">双数量词构式对进入其内的概念实体有约束和压制作用。</span><span class="english">The construction imposes constraint or coercion on entities that enter it.</span></p>
 
 <p><span class="chinese">这类句子例示或详述的是双数量词构式。</span><span class="english">The sentences in the construction are its instantiations and elaborations.</span></p>

@@ -1,5 +1,7 @@
 # campania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/campania.md)
+
 <p><span class="chinese">前12年三月阿格里帕卒于坎帕尼亚，年五十一。</span><span class="english">He died at Campania in March of 12 BC at the age of 51.</span></p>
 
 <p><span class="chinese">意大利肉卷，用来自坎帕尼亚地区的精美的葡萄酒泡制过的。</span><span class="english">Cannelloni , washed down with a nice wine from the Campania region.</span></p>

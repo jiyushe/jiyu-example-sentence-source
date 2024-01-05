@@ -1,5 +1,7 @@
 # 万念俱灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wannianjuhui.md)
+
 <p><span class="chinese">万念俱灰。</span><span class="english">All ambitions are blasted.</span></p>
 
 <p><span class="chinese">而令我万念俱灰的是，她还真找到了一份工作。</span><span class="english">And to my utter dismay she got a job.</span></p>

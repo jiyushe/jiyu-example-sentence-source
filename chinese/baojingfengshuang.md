@@ -1,5 +1,7 @@
 # 饱经风霜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baojingfengshuang.md)
+
 <p><span class="chinese">她饱经风霜的脸说明艰苦的生活。</span><span class="english">Her weather-beaten face tells of a hard life.</span></p>
 
 <p><span class="chinese">鹳雀楼心境则包含了饱经风霜、回家途中的人生智慧。</span><span class="english">The feelings of Guanquelou embody weather-eaten life wisdom.</span></p>

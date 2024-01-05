@@ -1,5 +1,7 @@
 # saturnian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saturnian.md)
+
 <p><span class="chinese">后来，赫歇尔发现了另一颗土星的卫星，以及天王星的两颗卫星。</span><span class="english">He would go on to discover another of Saturnian satellite as well as two of Uranus's moons.</span></p>
 
 <p><span class="chinese">今年夏天提供了一个研究木星、土星系统的绝佳机会。</span><span class="english">This past summer offered excellent opportunities to study the Jovian and Saturnian systems.</span></p>

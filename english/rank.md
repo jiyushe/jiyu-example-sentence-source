@@ -1,5 +1,7 @@
 # rank 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rank.md)
+
 <p><span class="chinese">非参数检验最好用秩和检验。</span><span class="english">Rank sum test is preferred.</span></p>
 
 <p><span class="chinese">但多数学校对此却并不排名。</span><span class="english">But many schools don't rank.</span></p>

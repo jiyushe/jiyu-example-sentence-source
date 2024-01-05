@@ -1,5 +1,7 @@
 # venery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venery.md)
+
 <p><span class="chinese">这在狩猎中叫做“假遁”。</span><span class="english">In venery this is called false re-imbushment.</span></p>
 
 <p><span class="chinese">照狩猎的术语他完全够得上被称作一头“乖狗”。</span><span class="english">He was, in the full force of the term, what is called in venery a knowing dog.</span></p>

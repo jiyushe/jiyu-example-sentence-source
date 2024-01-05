@@ -1,5 +1,7 @@
 # 固然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guran.md)
+
 <p><span class="chinese">我固然会来。</span><span class="english">Of course I'll come.</span></p>
 
 <p><span class="chinese">固然可以。我的名儿叫拜伦。</span><span class="english">Sure. My name is Byron.</span></p>

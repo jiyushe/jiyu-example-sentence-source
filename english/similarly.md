@@ -1,5 +1,7 @@
 # similarly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/similarly.md)
+
 <p><span class="chinese">对斑枭也一样。</span><span class="english">Similarly the spotted owl.</span></p>
 
 <p><span class="chinese">攀冰也是同样纯粹的运动。</span><span class="english">Ice climbing is similarly pure.</span></p>

@@ -1,5 +1,7 @@
 # correspondingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correspondingly.md)
+
 <p><span class="chinese">中西译论因此有了不同的发展轨迹。</span><span class="english">And their respective development tracks vary correspondingly.</span></p>
 
 <p><span class="chinese">四位选手时则依此原则安排发射位置。</span><span class="english">With four athletes the positions will be assigned correspondingly.</span></p>

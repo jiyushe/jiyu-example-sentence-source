@@ -1,5 +1,7 @@
 # ninja
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ninja.md)
+
 <p><span class="chinese">那就得像忍者那样写代码。</span><span class="english">So you code like a ninja.</span></p>
 
 <p><span class="chinese">你是个忍者宇航员。</span><span class="english">You’re a Ninja Astronaut.</span></p>

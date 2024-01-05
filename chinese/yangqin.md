@@ -1,5 +1,7 @@
 # 扬琴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangqin.md)
+
 <p><span class="chinese">扬琴对我来说是生命中不可缺少的一部分。</span><span class="english">The dulcimer to me is in the life an essential part.</span></p>
 
 <p><span class="chinese">我发现扬琴与我的个性极其相似，都有着平淡的优秀。</span><span class="english">I found the harp and very similar to my personality, good has a flat.</span></p>

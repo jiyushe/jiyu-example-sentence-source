@@ -1,5 +1,7 @@
 # 击打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jida.md)
+
 <p><span class="chinese">这一击打中了他的腹部。</span><span class="english">The blow found his stomach.</span></p>
 
 <p><span class="chinese">那一击打中了他的眼睛。</span><span class="english">The blow got him in the eye.</span></p>

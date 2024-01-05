@@ -1,5 +1,7 @@
 # foregrounding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foregrounding.md)
+
 <p><span class="chinese">第二章语言符号前景化。</span><span class="english">Chapter II is the foregrounding of the language symbols.</span></p>
 
 <p><span class="chinese">“前景化”是文学语言的标志性特征。</span><span class="english">Foregrounding is a symbolic feature of literary language.</span></p>

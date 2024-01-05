@@ -1,5 +1,7 @@
 # 女性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvxing.md)
+
 <p><span class="chinese">男性还是女性？</span><span class="english">MorF Male or Female?</span></p>
 
 <p><span class="chinese">这招女性也适用哦。</span><span class="english">And women also notice.</span></p>

@@ -1,5 +1,7 @@
 # overexertion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overexertion.md)
+
 <p><span class="chinese">避免过度运动。</span><span class="english">Avoid overexertion.</span></p>
 
 <p><span class="chinese">应避免过度操劳，这是肯定的。</span><span class="english">That overexertion should be avoided is certain.</span></p>

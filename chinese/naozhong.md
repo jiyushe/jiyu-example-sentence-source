@@ -1,5 +1,7 @@
 # 孬种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naozhong.md)
+
 <p><span class="chinese">他会认为我是个孬种。</span><span class="english">He'd think I'm a wimp.</span></p>
 
 <p><span class="chinese">你这该死的婊子养的孬种！</span><span class="english">You damned lily livered coward!</span></p>

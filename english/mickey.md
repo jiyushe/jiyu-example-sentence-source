@@ -1,5 +1,7 @@
 # mickey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mickey.md)
+
 <p><span class="chinese">米老鼠有票。</span><span class="english">Mickey has tickets.</span></p>
 
 <p><span class="chinese">我有米老鼠洗发精。</span><span class="english">I have Mickey Mouse shampoo.</span></p>

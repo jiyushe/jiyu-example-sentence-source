@@ -1,5 +1,7 @@
 # 元年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuannian.md)
+
 <p><span class="chinese">东晋太元年间，有个武陵人以捕鱼作为职业。</span><span class="english">Jin is too yuan, Wuling people fishing for the industry.</span></p>
 
 <p><span class="chinese">达尼尔就这样一直到居鲁士王元年。</span><span class="english">And Daniel continued even to the first year of king Cyrus.</span></p>

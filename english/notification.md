@@ -1,5 +1,7 @@
 # notification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notification.md)
+
 <p><span class="chinese">已经启用电子邮件通知。</span><span class="english">E-mail notification is enabled.</span></p>
 
 <p><span class="chinese">未来版本的更新提醒。</span><span class="english">Update Notification of future releases.</span></p>

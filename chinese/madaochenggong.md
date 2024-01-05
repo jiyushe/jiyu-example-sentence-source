@@ -1,5 +1,7 @@
 # 马到成功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/madaochenggong.md)
+
 <p><span class="chinese">祝你马到成功。</span><span class="english">I wish every success with you.</span></p>
 
 <p><span class="chinese">祝你马到成功！</span><span class="english">I wish you an immediate success!</span></p>

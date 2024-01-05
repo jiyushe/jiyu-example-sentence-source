@@ -1,5 +1,7 @@
 # polymorph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymorph.md)
+
 <p><span class="chinese">多形体纸卷将被保留。</span><span class="english">Polymorph scrolls will be kept.</span></p>
 
 <p><span class="chinese">他们也用可能羊…</span><span class="english">They may also polymorph a target.</span></p>

@@ -1,5 +1,7 @@
 # 佳偶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaou.md)
+
 <p><span class="chinese">我们是一对佳偶。</span><span class="english">We make a good couple.</span></p>
 
 <p><span class="chinese">这是遇到佳偶的好办法。</span><span class="english">This is a great way to meet a suitor.</span></p>

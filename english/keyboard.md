@@ -1,5 +1,7 @@
 # keyboard 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keyboard.md)
+
 <p><span class="chinese">键盘托架。</span><span class="english">Keyboard tray.</span></p>
 
 <p><span class="chinese">我是一名电脑录入员。</span><span class="english">I'm a keyboard operator.</span></p>

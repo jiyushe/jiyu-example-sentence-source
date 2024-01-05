@@ -1,5 +1,7 @@
 # appurtenant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appurtenant.md)
+
 <p><span class="chinese">印刷电路板带有附属的调剂。</span><span class="english">The printed circuit board has appurtenant reliefs.</span></p>
 
 <p><span class="chinese">服装的主体性和整体性决定了鞋子的从属地位。</span><span class="english">The main body sex of dress and integral sex decided the appurtenant position of shoe.</span></p>

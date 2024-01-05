@@ -1,5 +1,7 @@
 # chromatographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chromatographic.md)
+
 <p><span class="chinese">你将透析了的溶液进行分子排阻层析。</span><span class="english">You run the dialyzed solution over a size-exclusion chromatographic column.</span></p>
 
 <p><span class="chinese">硝化甘油和1，2，4-丁三醇三硝酸酯的气相色谱分析。</span><span class="english">Gas Chromatographic Analysis of Nitroglycerin and 1,2,4-Butanetriol Trinitrate.</span></p>

@@ -1,5 +1,7 @@
 # 院落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanluo.md)
+
 <p><span class="chinese">院落别墅的时代之筵。</span><span class="english">Era' feast of yard villa.</span></p>
 
 <p><span class="chinese">蒙面人像幽灵一般穿过月光下的院落。</span><span class="english">The masked men ghosted across the moonlit yard.</span></p>

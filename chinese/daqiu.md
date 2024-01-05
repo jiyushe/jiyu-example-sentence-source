@@ -1,5 +1,7 @@
 # 打球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daqiu.md)
+
 <p><span class="chinese">草地适于打球。</span><span class="english">The lawn plays well.</span></p>
 
 <p><span class="chinese">只适合在发展联盟打球。</span><span class="english">Only in the D-League.</span></p>

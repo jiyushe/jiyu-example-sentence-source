@@ -1,5 +1,7 @@
 # debra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debra.md)
+
 <p><span class="chinese">黛博拉对海洋有份狂热。</span><span class="english">Debra has a passion for the ocean.</span></p>
 
 <p><span class="chinese">戴伯拉是一个过分小心的司机。</span><span class="english">Debra is an overly careful driver.</span></p>

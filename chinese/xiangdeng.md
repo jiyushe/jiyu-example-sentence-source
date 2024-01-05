@@ -1,5 +1,7 @@
 # 相等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangdeng.md)
+
 <p><span class="chinese">不相等，好，回答得很好。</span><span class="english">No. All right, good answer.</span></p>
 
 <p><span class="chinese">一个人认为是相等的。</span><span class="english">One person thinks it's equal.</span></p>

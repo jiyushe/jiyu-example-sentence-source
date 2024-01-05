@@ -1,5 +1,7 @@
 # 霸王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bawang.md)
+
 <p><span class="chinese">霸王龙的尾部是独一无二的。</span><span class="english">But T. rex's tail was unique.</span></p>
 
 <p><span class="chinese">他们还制造商霸王。</span><span class="english">They are also the makers of Duracell.</span></p>

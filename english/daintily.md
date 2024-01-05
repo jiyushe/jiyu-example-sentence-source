@@ -1,5 +1,7 @@
 # daintily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daintily.md)
+
 <p><span class="chinese">她优美地踮起双脚。</span><span class="english">She pointed her toes daintily.</span></p>
 
 <p><span class="chinese">她优雅地走下台阶。</span><span class="english">She walked daintily down the steps.</span></p>

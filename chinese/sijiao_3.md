@@ -1,5 +1,7 @@
 # 私交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sijiao_3.md)
+
 <p><span class="chinese">要准备好在工作和私交时扮演不同的角色。</span><span class="english">Be prepared to wear different hats while at work and after work.</span></p>
 
 <p><span class="chinese">请求你，看我们曾经私交甚笃的面子上，让我平静的死去吧。</span><span class="english">Please. As someone who was once your friend, let me die in peace.</span></p>

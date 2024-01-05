@@ -1,5 +1,7 @@
 # 误入歧途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuruqitu.md)
+
 <p><span class="chinese">然而，光环也能让投资者误入歧途。</span><span class="english">But halos also can lead investors astray.</span></p>
 
 <p><span class="chinese">他对赛马运动的酷爱使他误入歧途。</span><span class="english">His passion for horseracing carried him astray.</span></p>

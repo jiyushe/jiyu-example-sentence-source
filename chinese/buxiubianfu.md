@@ -1,5 +1,7 @@
 # 不修边幅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxiubianfu.md)
+
 <p><span class="chinese">他偶尔不修边幅。</span><span class="english">He is a slob occasionally.</span></p>
 
 <p><span class="chinese">如果你在管理一家银行，你总不能穿得不修边幅吧。</span><span class="english">If you run a bank, you can’t look like a slob.</span></p>

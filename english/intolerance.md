@@ -1,5 +1,7 @@
 # intolerance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intolerance.md)
+
 <p><span class="chinese">其四耐寒怕热。</span><span class="english">Fourth cold Heat intolerance.</span></p>
 
 <p><span class="chinese">没有包容心是互相理解的最大障碍。</span><span class="english">Intolerance is a barrier to understanding.</span></p>

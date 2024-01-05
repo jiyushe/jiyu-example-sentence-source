@@ -1,5 +1,7 @@
 # segregation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/segregation.md)
+
 <p><span class="chinese">中国扁茎大豆是个不稳定的分离群体。</span><span class="english">Fasciated soybean of China was a segregation population.</span></p>
 
 <p><span class="chinese">糊剂的稠度可以预防分离错误。</span><span class="english">The consistency of the paste then prevents segregation errors.</span></p>

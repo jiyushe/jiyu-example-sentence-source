@@ -1,5 +1,7 @@
 # champagne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/champagne.md)
+
 <p><span class="chinese">他们开怀畅饮香槟酒。</span><span class="english">I drink only champagne.</span></p>
 
 <p><span class="chinese">香槟香槟是什么？。</span><span class="english">What Is Cuvee Champagne?</span></p>

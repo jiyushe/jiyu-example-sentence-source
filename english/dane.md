@@ -1,5 +1,7 @@
 # Dane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dane.md)
+
 <p><span class="chinese">这是给大丹狗吃的吗？</span><span class="english">Does a great dane live here?</span></p>
 
 <p><span class="chinese">我说,戴恩也是你的儿子。</span><span class="english">I said, Dane was your son too.</span></p>

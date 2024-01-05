@@ -1,5 +1,7 @@
 # restenosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restenosis.md)
+
 <p><span class="chinese">这个被称为再狭窄。</span><span class="english">This is called restenosis.</span></p>
 
 <p><span class="chinese">切割球囊血管成形术的成功率高且安全、有效。</span><span class="english">Cutting balloon is a safe and efficient to coronary artery in-stent restenosis.</span></p>

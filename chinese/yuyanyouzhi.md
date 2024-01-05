@@ -1,5 +1,7 @@
 # 欲言又止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyanyouzhi.md)
+
 <p><span class="chinese">我的歌叹息着，欲言又止，打不定主意。</span><span class="english">My song heaves a sigh and trembles with uncertain desire.</span></p>
 
 <p><span class="chinese">看她的样子好象有话要说，却总是欲言又止。</span><span class="english">It seems that she had something to say but stopped for some reason.</span></p>

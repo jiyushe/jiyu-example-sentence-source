@@ -1,5 +1,7 @@
 # 层出不穷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cengchubuqiong.md)
+
 <p><span class="chinese">这一世纪有层出不穷的创造发明。</span><span class="english">The century was in full flood of invention.</span></p>
 
 <p><span class="chinese">这就是我的潜意识使我做到的——新想法层出不穷。</span><span class="english">And that is what my Subconscious does — it feeds me idea after idea.</span></p>

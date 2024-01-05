@@ -1,5 +1,7 @@
 # pompous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pompous.md)
+
 <p><span class="chinese">你怎么能容忍那个自大的糊涂虫呢?。</span><span class="english">How can you tolerate that pompous idiot ?</span></p>
 
 <p><span class="chinese">他的散文夹杂着浮夸的修辞。</span><span class="english">His prose is larded with pompous expressions.</span></p>

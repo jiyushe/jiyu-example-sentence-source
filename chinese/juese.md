@@ -1,5 +1,7 @@
 # 角色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juese.md)
+
 <p><span class="chinese">我们的角色是什么？</span><span class="english">What is our role?</span></p>
 
 <p><span class="chinese">什么是用户角色？</span><span class="english">What is a persona?</span></p>

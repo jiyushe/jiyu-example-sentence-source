@@ -1,5 +1,7 @@
 # detergency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detergency.md)
+
 <p><span class="chinese">因为牙膏中含有研磨剂，去污力十分强。</span><span class="english">Because of toothpaste containing abrasives, detergency is very strong.</span></p>
 
 <p><span class="chinese">电导活化能与洗涤效果之间有一定的关系。</span><span class="english">There was a relationship between the conductance activation energy and detergency.</span></p>

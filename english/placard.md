@@ -1,5 +1,7 @@
 # placard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placard.md)
+
 <p><span class="chinese">我们将把广告贴在墙上。</span><span class="english">We'll placard the wall with advertisements.</span></p>
 
 <p><span class="chinese">“是否合理”并非是评判宣传标语好坏的标准。</span><span class="english">“Sensible” is not the criterion for a placard.</span></p>

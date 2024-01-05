@@ -1,5 +1,7 @@
 # eloquent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eloquent.md)
+
 <p><span class="chinese">她口才很好。</span><span class="english">She's eloquent.</span></p>
 
 <p><span class="chinese">她那双动人的眼睛瞟向他。</span><span class="english">She turned her eloquent eyes upon him.</span></p>

@@ -1,5 +1,7 @@
 # 乡民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangmin.md)
+
 <p><span class="chinese">这些淳朴的乡民来自于一个偏远的乡村。</span><span class="english">The honest villagers came from a lonely village.</span></p>
 
 <p><span class="chinese">从乡民到市民，以及生存的挑战</span><span class="english">From Rusticitas to Urbanitas and the challenge of survival</span></p>

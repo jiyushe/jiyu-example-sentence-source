@@ -1,5 +1,7 @@
 # syringe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syringe.md)
+
 <p><span class="chinese">不带针头的注射器-用来收集水银</span><span class="english">syringe without needle- to pick up mercury</span></p>
 
 <p><span class="chinese">枪骑兵和舞者经过一次被投毒的注射。</span><span class="english">Lancers and dancers pass a poisoned syringe.</span></p>

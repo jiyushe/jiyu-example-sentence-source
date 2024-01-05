@@ -1,5 +1,7 @@
 # astrophysical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrophysical.md)
+
 <p><span class="chinese">该研究将在十月20号的天体物理学报上登出。</span><span class="english">The research will appear October 20 in The Astrophysical Journal.</span></p>
 
 <p><span class="chinese">但对这种现象，有一个完美的自然天体物理学解释。</span><span class="english">But the phenomenon has a perfectly natural astrophysical explanation.</span></p>

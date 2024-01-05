@@ -1,5 +1,7 @@
 # gerbil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gerbil.md)
+
 <p><span class="chinese">如果沙鼠的一方死去，另一方可能或者不可能接受新的伴侣。</span><span class="english">If a mate dies, a gerbil may or may not accept a new mate.</span></p>
 
 <p><span class="chinese">目的建立长爪沙鼠速发型高脂血症模型的方法。</span><span class="english">Objective To establish a rapid hyperlipidemic gerbil model.</span></p>

@@ -1,5 +1,7 @@
 # 说教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuojiao.md)
+
 <p><span class="chinese">他的说教听起来很空洞。</span><span class="english">His preachings rang hollow.</span></p>
 
 <p><span class="chinese">千万别对她进行说教。</span><span class="english">Never try to sermonize her.</span></p>

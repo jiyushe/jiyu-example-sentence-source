@@ -1,5 +1,7 @@
 # 公路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonglu.md)
+
 <p><span class="chinese">在公路上？</span><span class="english">Upon the highway?</span></p>
 
 <p><span class="chinese">我会走高速路360号和州际公路30号。</span><span class="english">I'll take 360 and I-30.</span></p>

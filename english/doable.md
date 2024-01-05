@@ -1,5 +1,7 @@
 # doable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doable.md)
+
 <p><span class="chinese">我认为这是可行的。</span><span class="english">I truly believe this is doable.</span></p>
 
 <p><span class="chinese">因为，否则就过不去了。</span><span class="english">because it's, otherwise not really doable.</span></p>

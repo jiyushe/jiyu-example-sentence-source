@@ -1,5 +1,7 @@
 # stringency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stringency.md)
+
 <p><span class="chinese">校方不应以财政紧绌为理由，解雇员工。</span><span class="english">The University should not lay off its employees on the ground of financial stringency.</span></p>
 
 <p><span class="chinese">也就是说，评级员的相对严格或宽松，对某一特定案例是不等价的。</span><span class="english">That is, the relative stringency , or leniency, of raters for a particular case is not equivalent.</span></p>

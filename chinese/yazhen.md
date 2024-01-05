@@ -1,5 +1,7 @@
 # 压阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yazhen.md)
+
 <p><span class="chinese">蜂拥队列纷纷压阵，重旅应先行。</span><span class="english">The swarming ranks press on and on, the dense brigades press on.</span></p>
 
 <p><span class="chinese">在阅兵部队后面压阵的，是鼓乐齐鸣的军乐团。</span><span class="english">Troops in the parade behind the hold the line, is the Band drum sing.</span></p>

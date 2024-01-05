@@ -1,5 +1,7 @@
 # rubbery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rubbery.md)
+
 <p><span class="chinese">他正嚼着一块嚼不烂的肉。</span><span class="english">He is chewing a rubbery piece of meat.</span></p>
 
 <p><span class="chinese">它的皮肤摸起来坚韧有弹性，像一只老式的热水袋的表面。</span><span class="english">Its skin felt rubbery and firm like an old fashioned hot water bottle.</span></p>

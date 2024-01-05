@@ -1,5 +1,7 @@
 # 面盆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianpen.md)
+
 <p><span class="chinese">17你的筐子和你的抟面盆都必受咒诅。</span><span class="english">Cursed shall be thy basket and thy store.</span></p>
 
 <p><span class="chinese">你的筐子和你的抟面盆都必蒙福。</span><span class="english">Blessed shall be thy basket and thy store.</span></p>

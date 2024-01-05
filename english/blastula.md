@@ -1,5 +1,7 @@
 # blastula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blastula.md)
+
 <p><span class="chinese">在卵受精后第1天和第4天分别到达囊胚期和原肠期。</span><span class="english">Blastula and gastrulae arrived 1 and 4 d after fertilization.</span></p>
 
 <p><span class="chinese">试验选择体内受精生产的发育级别为A级和B级的桑椹胚，使用玻璃切割针进行切割。</span><span class="english">In the experiment, 30 A- and B- grade morula and blastula were selected for sexing.</span></p>

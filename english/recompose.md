@@ -1,5 +1,7 @@
 # recompose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recompose.md)
+
 <p><span class="chinese">由于德彪西手稿的不精确性和他本人后来的修改变动，产生了不同出处的谱面差异。</span><span class="english">The imprecision and recompose of Debussy" s script resulted in enormous differences in provenance."</span></p>
 
 <p><span class="chinese">如果你想自动对焦至无限远，只要将相机对准月亮，自动对焦，然后重新调整稳定。</span><span class="english">If you wish to autofocus at infinity, just aim your camera at the moon, autofocus, then recompose accordingly.</span></p>

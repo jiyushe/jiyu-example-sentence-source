@@ -1,5 +1,7 @@
 # regulative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regulative.md)
+
 <p><span class="chinese">那么如何采取调控措施呢？</span><span class="english">How then takes the regulative measure?</span></p>
 
 <p><span class="chinese">这样才能得到更明显的调控效果。</span><span class="english">This can obtain the more obvious regulative effect.</span></p>

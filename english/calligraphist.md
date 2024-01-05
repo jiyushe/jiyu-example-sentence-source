@@ -1,5 +1,7 @@
 # calligraphist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calligraphist.md)
+
 <p><span class="chinese">试错是学习书法，成为一个出色的书法家的重要组成部分。</span><span class="english">Trial and error is a big part of learning calligraphy and becoming a good calligraphist.</span></p>
 
 <p><span class="chinese">他擅长书画，字写得峻拔挺秀，为我国著名的书法家，对后世的影响很大，有“书圣”的称号。</span><span class="english">He , as a famous calligraphist in our country has exerted tremendous influence on the later generations.</span></p>

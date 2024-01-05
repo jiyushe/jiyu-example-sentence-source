@@ -1,5 +1,7 @@
 # foldaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foldaway.md)
+
 <p><span class="chinese">哪儿能买到折叠伞呢？</span><span class="english">Where do I go to buy a foldaway umbrella?</span></p>
 
 <p><span class="chinese">不妨试试这个折叠式划船机。</span><span class="english">Why don't you try this foldaway rowing machine?</span></p>

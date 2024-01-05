@@ -1,5 +1,7 @@
 # wapiti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wapiti.md)
+
 <p><span class="chinese">对马鹿流产胎儿的肝脏中的细菌进行分离和鉴定。</span><span class="english">To isolate and identify the bacteria form the liver of aborted fetus of wapiti.</span></p>
 
 <p><span class="chinese">结论本试验表明马鹿茸有性激素样作用。</span><span class="english">ConclusionThe test proved that wapiti velvet antler possesses gonadotripic effect.</span></p>

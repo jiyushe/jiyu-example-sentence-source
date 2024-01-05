@@ -1,5 +1,7 @@
 # 扯谎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chehuang.md)
+
 <p><span class="chinese">我们扯谎是为了避免冲突。</span><span class="english">We fib to avoid conflict.</span></p>
 
 <p><span class="chinese">孩子和愚人不会扯谎。</span><span class="english">Children and fools cannot lie.</span></p>

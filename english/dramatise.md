@@ -1,5 +1,7 @@
 # dramatise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dramatise.md)
+
 <p><span class="chinese">生活的戏剧化是不健康的。</span><span class="english">It is unhealthy to dramatise life.</span></p>
 
 <p><span class="chinese">但我也不想多说些什么让事情复杂化。</span><span class="english">But I also do not want to dramatise things.</span></p>

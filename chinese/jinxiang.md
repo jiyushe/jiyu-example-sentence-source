@@ -1,5 +1,7 @@
 # 进项
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxiang.md)
+
 <p><span class="chinese">企业发生存货盘亏，相应已抵扣的进项税额是否要转出?。</span><span class="english">Should Input Tax Credited be Paidback when Inventory Losses Occur?</span></p>
 
 <p><span class="chinese">因此，他们可以登记增值税，从而恢复他们的供应作出进项税额。</span><span class="english">They can therefore register for VAT and recover input VAT on supplies made to them.</span></p>

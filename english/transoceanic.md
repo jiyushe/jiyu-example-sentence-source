@@ -1,5 +1,7 @@
 # transoceanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transoceanic.md)
+
 <p><span class="chinese">哪里是“大洋彼岸中国”？</span><span class="english">Where the heck is Transoceanic China?</span></p>
 
 <p><span class="chinese">他收到了一封从伦敦来的越洋电报。</span><span class="english">He received a transoceanic cable from London.</span></p>

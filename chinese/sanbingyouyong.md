@@ -1,5 +1,7 @@
 # 散兵游勇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanbingyouyong.md)
+
 <p><span class="chinese">人们并不清楚蓝色散兵游勇形式。</span><span class="english">It is not clear how blue stragglers form.</span></p>
 
 <p><span class="chinese">那些散兵游勇向政府投降了。</span><span class="english">Those stragglers and disbanded soldiers surrendered to the government.</span></p>

@@ -1,5 +1,7 @@
 # groove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groove.md)
+
 <p><span class="chinese">这样的木槽叫水槽。</span><span class="english">The groove so cut.</span></p>
 
 <p><span class="chinese">将轴承及护脂毡圈紧靠在卡环上。</span><span class="english">Shaft snap ring in groove on shaft.</span></p>

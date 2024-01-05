@@ -1,5 +1,7 @@
 # pollinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollinate.md)
+
 <p><span class="chinese">许多园林植物需要蝴蝶授粉他们。</span><span class="english">Many garden plants need butterflies to pollinate them.</span></p>
 
 <p><span class="chinese">蜜峰与蝴蝶将果园里的树授粉。</span><span class="english">Bees and butterflies pollinate the trees in the orchard.</span></p>

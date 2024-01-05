@@ -1,5 +1,7 @@
 # warily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warily.md)
+
 <p><span class="chinese">托比和我警惕地向对方瞪视着。</span><span class="english">Toby and I stared at each other warily.</span></p>
 
 <p><span class="chinese">昆塔总要警惕地闻一闻炖菜再吃。</span><span class="english">Kunta warily smelled the stew before tasting it.</span></p>

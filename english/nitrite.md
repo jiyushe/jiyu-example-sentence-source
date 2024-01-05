@@ -1,5 +1,7 @@
 # nitrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitrite.md)
+
 <p><span class="chinese">亚硝酸盐一般用于加工肉类食品。</span><span class="english">Nitrite is used for curing meat.</span></p>
 
 <p><span class="chinese">什么是安全剂量的亚硝酸钠？</span><span class="english">What is the safe dose of sodium nitrite ?</span></p>

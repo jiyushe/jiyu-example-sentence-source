@@ -1,5 +1,7 @@
 # 三思而后行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sansierhouxing.md)
+
 <p><span class="chinese">但他们需要三思而后行。</span><span class="english">But they should think twice.</span></p>
 
 <p><span class="chinese">不管怎样，你要三思而后行。</span><span class="english">Anyways, you have to think twice before you act.</span></p>

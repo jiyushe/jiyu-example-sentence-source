@@ -1,5 +1,7 @@
 # parapsychology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parapsychology.md)
+
 <p><span class="chinese">一些科学家把灵学归类到骗术范围。</span><span class="english">Some scientists relegate parapsychology to the sphere of quackery.</span></p>
 
 <p><span class="chinese">一些科学家把灵学归类到骗术范围。</span><span class="english">Some scientists relegate parapsychology to the sphere of quackery.</span></p>

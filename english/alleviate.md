@@ -1,5 +1,7 @@
 # alleviate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alleviate.md)
+
 <p><span class="chinese">用冷敷来减少疼痛。</span><span class="english">Apply cold compresses on it to alleviate the pain.</span></p>
 
 <p><span class="chinese">缓解各种肌肉酸痛及肌肉痉挛。</span><span class="english">Alleviate various muscles to ache and muscle spasm.</span></p>

@@ -1,5 +1,7 @@
 # 默想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moxiang.md)
+
 <p><span class="chinese">他们开始沉思默想。</span><span class="english">They fell to thinking.</span></p>
 
 <p><span class="chinese">她站在那里沉思默想。</span><span class="english">She stood there in a brown study.</span></p>

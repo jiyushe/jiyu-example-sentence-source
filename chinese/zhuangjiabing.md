@@ -1,5 +1,7 @@
 # 装甲兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangjiabing.md)
+
 <p><span class="chinese">我们的步兵和装甲兵均比敌军少。</span><span class="english">We have less infantry and amour than the enemy.</span></p>
 
 <p><span class="chinese">我们的步兵和装甲兵均比敌军的少。</span><span class="english">We have less infantry and armour than the enemy.</span></p>

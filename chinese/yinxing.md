@@ -1,5 +1,7 @@
 # 印行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxing.md)
+
 <p><span class="chinese">这本书现在可以任人自由印行了。</span><span class="english">The book is now in the public domain.</span></p>
 
 <p><span class="chinese">我印行这小册子又是一件错误。</span><span class="english">My printing this pamphlet was another erratum.</span></p>

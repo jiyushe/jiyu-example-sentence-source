@@ -1,5 +1,7 @@
 # 不足为奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzuweiqi.md)
+
 <p><span class="chinese">这是不足为奇的。</span><span class="english">This is nothing to be surprised at.</span></p>
 
 <p><span class="chinese">Fath的安拉的故事也就不足为奇了。</span><span class="english">Fath Allah's story is not surprising.</span></p>

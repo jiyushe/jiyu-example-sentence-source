@@ -1,5 +1,7 @@
 # quantitatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantitatively.md)
+
 <p><span class="chinese">我们一会儿将定量地做一点探讨。</span><span class="english">We'll see that quantitatively a little bit later.</span></p>
 
 <p><span class="chinese">流程采用量化的方式进行检查，并加以控制。</span><span class="english">The process has been examined quantitatively and controlled.</span></p>

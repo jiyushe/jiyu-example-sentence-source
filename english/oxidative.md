@@ -1,5 +1,7 @@
 # oxidative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxidative.md)
+
 <p><span class="chinese">慢性乙型肝炎患者ALT正常者，体内氧化损伤程度不高。</span><span class="english">In patients with normal ALT, oxidative stress level was low.</span></p>
 
 <p><span class="chinese">最后，氧化磷酸化本身也可能会伤害细胞。</span><span class="english">Finally, oxidative phosphorylation itself can also harm the cell.</span></p>

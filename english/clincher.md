@@ -1,5 +1,7 @@
 # clincher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clincher.md)
+
 <p><span class="chinese">透明度是硬道理。</span><span class="english">Transparency is the clincher.</span></p>
 
 <p><span class="chinese">理论是灰色的，市场才是硬道理。</span><span class="english">Theory is the grey market clincher.</span></p>

@@ -1,5 +1,7 @@
 # 原名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanming.md)
+
 <p><span class="chinese">杨光，原名杨光锷，出生于70年代。诗人，艺术评论家。</span><span class="english">Yang Guang, originally Yang Guang, born in 1970's.</span></p>
 
 <p><span class="chinese">希望中文学校原名为坦佩中文学校。</span><span class="english">Hope Chinese School is also known as Tempe Chinese School.</span></p>

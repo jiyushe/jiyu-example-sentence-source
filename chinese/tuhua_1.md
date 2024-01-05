@@ -1,5 +1,7 @@
 # 土话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuhua_1.md)
+
 <p><span class="chinese">他们很喜欢听他说土话，吹牛皮或胡说八道。</span><span class="english">They like his slang and his brag and his blunders.</span></p>
 
 <p><span class="chinese">一绷子—北京土话，即很长时间的意思。</span><span class="english">Beijing dialect, that is, the meaning of a very long time.</span></p>

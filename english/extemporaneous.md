@@ -1,5 +1,7 @@
 # extemporaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extemporaneous.md)
+
 <p><span class="chinese">卡娅是一位杰出的即席演讲者和辩手。</span><span class="english">Kaya is an outstanding extemporaneous speaker and debater.</span></p>
 
 <p><span class="chinese">我尤其欣赏我们刚刚听过的即席演讲。</span><span class="english">I especially enjoyed the extemporaneous speech we just heard.</span></p>

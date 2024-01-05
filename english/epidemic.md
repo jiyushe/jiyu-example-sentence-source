@@ -1,5 +1,7 @@
 # epidemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epidemic.md)
+
 <p><span class="chinese">一种流行病突然开始流行。</span><span class="english">An epidemic broke out.</span></p>
 
 <p><span class="chinese">简直就是全球传染病。</span><span class="english">It's literally global epidemic.</span></p>

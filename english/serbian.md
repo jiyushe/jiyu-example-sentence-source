@@ -1,5 +1,7 @@
 # serbian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serbian.md)
+
 <p><span class="chinese">货币-塞尔维亚第纳尔和欧元</span><span class="english">Currency C Serbian Dinar and euro</span></p>
 
 <p><span class="chinese">在塞尔维亚飞地中这是最常见的说法。</span><span class="english">It is a common refrain in the Serbian enclaves.</span></p>

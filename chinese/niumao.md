@@ -1,5 +1,7 @@
 # 牛毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niumao.md)
+
 <p><span class="chinese">牛毛细雨下了一整夜。</span><span class="english">It drizzled throughout the night.</span></p>
 
 <p><span class="chinese">牛毛细雨已下了好几个小时了。</span><span class="english">The rain has been drizzling down for hours.</span></p>

@@ -1,5 +1,7 @@
 # tenderee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenderee.md)
+
 <p><span class="chinese">投标包管金是为了保护招标机构战购圆免遭果投标冉材动做而担当义踪。</span><span class="english">Tender bond is designed to protect Tenderee and Buyer from losses because of any actions of tenderers.</span></p>
 
 <p><span class="chinese">招标人在收到投标人的确认函和投标保证金后，发出招标文件。</span><span class="english">The Tenderee will issue the Bidding Document after receiving the confirmation letter and bid security.</span></p>

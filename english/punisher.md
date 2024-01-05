@@ -1,5 +1,7 @@
 # punisher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punisher.md)
+
 <p><span class="chinese">惩罚者的惩罚成本的一个货币单位。</span><span class="english">Punishment cost the punisher one unit of money.</span></p>
 
 <p><span class="chinese">残酷且不必要的处罚使处罚者与受罚者双方失去人性。</span><span class="english">Cruel and unnecessary punishment dehumanizes both the punisher and the punished.</span></p>

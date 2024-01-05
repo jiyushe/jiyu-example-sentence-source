@@ -1,5 +1,7 @@
 # 中焦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjiao.md)
+
 <p><span class="chinese">铁矿石烧结中焦粉的燃烧过程取决于焦粉的粒度。</span><span class="english">The coke combustion process in iron ore sintering is dependent on the coke size.</span></p>
 
 <p><span class="chinese">片中焦波对感人生活细节的讲述，突显了本片的故事化倾向。</span><span class="english">Jiao Bos narration about the moving details in the daily life highlights the tendency to dramatization.</span></p>

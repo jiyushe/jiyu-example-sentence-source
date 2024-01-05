@@ -1,5 +1,7 @@
 # 灾区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiqu.md)
+
 <p><span class="chinese">然后他们又走了两天路，从灾区出来。</span><span class="english">They then walked two days to get out.</span></p>
 
 <p><span class="chinese">加油！支持！为灾区人民献出我们的爱心！</span><span class="english">Show our love to flood-stricken people!</span></p>

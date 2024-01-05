@@ -1,5 +1,7 @@
 # 吸毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xidu.md)
+
 <p><span class="chinese">投资者们不会去吸毒。</span><span class="english">Investors aren't dopes.</span></p>
 
 <p><span class="chinese">我希望能戒掉吸毒。</span><span class="english">I wish I could cut out drugging.</span></p>

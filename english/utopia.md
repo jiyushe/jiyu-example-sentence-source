@@ -1,5 +1,7 @@
 # Utopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utopia.md)
+
 <p><span class="chinese">但柏拉图的书的确是乌托邦。</span><span class="english">But Plato's book is a utopia.</span></p>
 
 <p><span class="chinese">该网站对茅先生发起了控告，控告其犯有颠覆罪和诽谤罪。</span><span class="english">Utopia accuses Mr Mao of subversion and libel.</span></p>

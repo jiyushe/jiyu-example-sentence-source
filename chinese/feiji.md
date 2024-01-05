@@ -1,5 +1,7 @@
 # 飞机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiji.md)
+
 <p><span class="chinese">飞机怎么飞起来？</span><span class="english">How do planes fly?</span></p>
 
 <p><span class="chinese">飞机飞过去了。</span><span class="english">The planes passed.</span></p>

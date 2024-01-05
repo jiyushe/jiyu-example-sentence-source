@@ -1,5 +1,7 @@
 # grand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grand.md)
+
 <p><span class="chinese">但爱情是伟大的。</span><span class="english">But love is grand.</span></p>
 
 <p><span class="chinese">这座宫殿很宏大。</span><span class="english">This palace is grand.</span></p>

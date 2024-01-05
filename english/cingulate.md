@@ -1,5 +1,7 @@
 # cingulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cingulate.md)
+
 <p><span class="chinese">同时伴有前扣带回和前额叶功能不良。</span><span class="english">With anterior cingulate and the frontal lobes dysfunction.</span></p>
 
 <p><span class="chinese">前扣带回共情，情感，决策，认知控制。</span><span class="english">Anterior cingulate Empathy, affect, decision making, cognitive control.</span></p>

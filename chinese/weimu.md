@@ -1,5 +1,7 @@
 # 帷幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weimu.md)
+
 <p><span class="chinese">随后帷幕落下。</span><span class="english">Then the curtain falls.</span></p>
 
 <p><span class="chinese">帷幕降下，树丛间掌声雷动。</span><span class="english">Applause is sweeping through the trees.</span></p>

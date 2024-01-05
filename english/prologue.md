@@ -1,5 +1,7 @@
 # prologue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prologue.md)
+
 <p><span class="chinese">凡是过去，皆为序章。</span><span class="english">What's past is prologue.</span></p>
 
 <p><span class="chinese">正像它显示出的那样不可思议，所有的一切都仅仅只是开场白。</span><span class="english">Incredible as it seems, all that is mere prologue.</span></p>

@@ -1,5 +1,7 @@
 # 外强中干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiqiangzhonggan.md)
+
 <p><span class="chinese">哪一个君王不过是外强中干的空架子？</span><span class="english">Who is this king, but a king of air?</span></p>
 
 <p><span class="chinese">可是我觉得我现在是“外强中干”。</span><span class="english">But I am "outwardly strong and inwardly weak".</span></p>

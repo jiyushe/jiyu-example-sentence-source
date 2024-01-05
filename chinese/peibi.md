@@ -1,5 +1,7 @@
 # 配比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peibi.md)
+
 <p><span class="chinese">讨论了最佳氮磷钾配比及适宜范围。</span><span class="english">The optimum compound also was discussed.</span></p>
 
 <p><span class="chinese">解释房产、厂房、设备折旧如何体现了配比原则？</span><span class="english">Explain how depreciating PP&E is an example of the matching principle.</span></p>

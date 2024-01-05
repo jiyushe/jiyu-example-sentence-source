@@ -1,5 +1,7 @@
 # mideast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mideast.md)
+
 <p><span class="chinese">中东地区进一步的动荡也将导致“限制”。</span><span class="english">Further Mideast unrest could also lead to tightening.</span></p>
 
 <p><span class="chinese">中东问题对世界所有的政治家来说都是个烫手的山芋。</span><span class="english">The Mideast conflict is really a hot potato for all politicians around the world.</span></p>

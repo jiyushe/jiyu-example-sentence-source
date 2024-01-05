@@ -1,5 +1,7 @@
 # 书册
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuce.md)
+
 <p><span class="chinese">书册们在窃窃私语。</span><span class="english">The books are whispering.</span></p>
 
 <p><span class="chinese">就像那书册中有意识的生命。</span><span class="english">Was like the conscious being of the book.</span></p>

@@ -1,5 +1,7 @@
 # 丧葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangzang.md)
+
 <p><span class="chinese">日本丧葬业繁荣或成“死亡国度”。</span><span class="english">Death industry reaps grim profit as Japan dies.</span></p>
 
 <p><span class="chinese">退休费及丧葬费用也包含其中。</span><span class="english">Retirement and funeral expenses are also covered.</span></p>

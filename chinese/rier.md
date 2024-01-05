@@ -1,5 +1,7 @@
 # 日珥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rier.md)
+
 <p><span class="chinese">这火焰，就是日珥。</span><span class="english">This flame is the prominence.</span></p>
 
 <p><span class="chinese">日珥以各种形状出现。</span><span class="english">Prominences occur in a variety of forms.</span></p>

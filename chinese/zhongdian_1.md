@@ -1,5 +1,7 @@
 # 终点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdian_1.md)
+
 <p><span class="chinese">他是他的唯一终点。</span><span class="english">And he is his only end.</span></p>
 
 <p><span class="chinese">但是这是否有一个终点？</span><span class="english">But is there an endpoint?</span></p>

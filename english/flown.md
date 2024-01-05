@@ -1,5 +1,7 @@
 # flown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flown.md)
+
 <p><span class="chinese">那只鸟飞走了。</span><span class="english">The bird has flown away.</span></p>
 
 <p><span class="chinese">这位飞机行员已经驾驶飞机多年了。</span><span class="english">The pilot has flown for years.</span></p>

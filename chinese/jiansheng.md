@@ -1,5 +1,7 @@
 # 俭省
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiansheng.md)
+
 <p><span class="chinese">俭省是致富之本。</span><span class="english">From saving comes having.</span></p>
 
 <p><span class="chinese">他甚至必需品也要俭省。</span><span class="english">He even pinches on necessities.</span></p>

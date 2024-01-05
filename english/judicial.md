@@ -1,5 +1,7 @@
 # judicial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judicial.md)
+
 <p><span class="chinese">什么是司法考试？</span><span class="english">What is the judicial examination?</span></p>
 
 <p><span class="chinese">目前他正遭到司法监押，等待受审。</span><span class="english">He is in judicial custody awaiting trial.</span></p>

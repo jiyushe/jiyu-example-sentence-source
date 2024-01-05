@@ -1,5 +1,7 @@
 # 蛮横
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manheng.md)
+
 <p><span class="chinese">你怎麽能容忍他蛮横无礼？</span><span class="english">How can you suffer his insolence?</span></p>
 
 <p><span class="chinese">它还在继续无理蛮横的行为。</span><span class="english">It has continued to act unreasonably.</span></p>

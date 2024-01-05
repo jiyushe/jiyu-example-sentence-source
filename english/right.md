@@ -1,5 +1,7 @@
 # right
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/right.md)
+
 <p><span class="chinese">一句话，问题就是？</span><span class="english">All right?</span></p>
 
 <p><span class="chinese">是的，没错。</span><span class="english">Yep, right.</span></p>

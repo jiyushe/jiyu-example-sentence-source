@@ -1,5 +1,7 @@
 # aomori
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aomori.md)
+
 <p><span class="chinese">第五届亚洲冬季运动会将于2003年在日本青森市举行。</span><span class="english">Fifth Asian Winter Games in 2003 will be held in the city of Aomori in Japan.</span></p>
 
 <p><span class="chinese">日本青森县田舍馆村近日迎来一年一度的"稻田艺术节"。</span><span class="english">The annual rice field art festival began recently in the Aomori village of Inakadate, Japan.</span></p>

@@ -1,5 +1,7 @@
 # 面生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miansheng.md)
+
 <p><span class="chinese">我以及他都面生玛丽。</span><span class="english">He and I don't know Mary.</span></p>
 
 <p><span class="chinese">我觉得他很面生。</span><span class="english">I just think he is wicked.</span></p>

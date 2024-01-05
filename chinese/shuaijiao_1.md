@@ -1,5 +1,7 @@
 # 摔跤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaijiao_1.md)
+
 <p><span class="chinese">那就是摔跤。</span><span class="english">That was to wrestle.</span></p>
 
 <p><span class="chinese">别向后看，不然你会摔跤的。</span><span class="english">Don't look behind or you may fall.</span></p>

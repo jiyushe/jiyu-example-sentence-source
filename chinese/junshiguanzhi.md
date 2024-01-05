@@ -1,5 +1,7 @@
 # 军事管制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junshiguanzhi.md)
+
 <p><span class="chinese">解除敌对国之间缓冲区域的军事管制。</span><span class="english">The bush acted as a cushion to my fall.</span></p>
 
 <p><span class="chinese">解除敌对国之间缓冲区域的军事管制。</span><span class="english">Demilitarize a buffer zone between hostile countries.</span></p>

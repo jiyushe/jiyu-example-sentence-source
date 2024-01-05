@@ -1,5 +1,7 @@
 # 出其不意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuqibuyi.md)
+
 <p><span class="chinese">他出其不意地撞我的身体。</span><span class="english">He jabbed me in the body.</span></p>
 
 <p><span class="chinese">他出其不意地使我招认了。</span><span class="english">He surprised me into confession.</span></p>

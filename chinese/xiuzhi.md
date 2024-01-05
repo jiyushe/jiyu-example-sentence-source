@@ -1,5 +1,7 @@
 # 休止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuzhi.md)
+
 <p><span class="chinese">但是，假如你休止发短信息，我会宰了你。</span><span class="english">But, if u stop sending msgs, I'll kill you.</span></p>
 
 <p><span class="chinese">我一定要唱一首永远永远不休止的歌。</span><span class="english">I´d play a song that would never, ever end.</span></p>

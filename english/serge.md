@@ -1,5 +1,7 @@
 # serge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serge.md)
+
 <p><span class="chinese">他穿着一套蓝色哔叽西服。</span><span class="english">He wore a blue serge suit.</span></p>
 
 <p><span class="chinese">哔叽是从法国辉煌的自由职业插画家。</span><span class="english">Serge is a brilliant freelance illustrator from France.</span></p>

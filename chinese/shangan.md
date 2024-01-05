@@ -1,5 +1,7 @@
 # 上岸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangan.md)
+
 <p><span class="chinese">每到一个港口他都上岸。</span><span class="english">He went ashore at every port.</span></p>
 
 <p><span class="chinese">我们合力把鱼拖上岸来。</span><span class="english">Between us we landed the fish.</span></p>

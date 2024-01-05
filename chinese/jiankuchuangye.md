@@ -1,5 +1,7 @@
 # 艰苦创业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiankuchuangye.md)
+
 <p><span class="chinese">是大寨艰苦创业的代表人物之一。</span><span class="english">Dazhai are representative of one of hard work.</span></p>
 
 <p><span class="chinese">公司以艰苦创业的精神，积极开拓的热忱。</span><span class="english">Company to the spirit of hard work, and actively explore enthusiasm.</span></p>

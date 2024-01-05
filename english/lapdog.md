@@ -1,5 +1,7 @@
 # lapdog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lapdog.md)
+
 <p><span class="chinese">梅德韦德夫是普京的小宠物吗？</span><span class="english">Is Medvedev the lapdog of Putin?</span></p>
 
 <p><span class="chinese">狗奴才需要得到它主子的祝福。</span><span class="english">A lapdog needs to get his master's blessing.</span></p>

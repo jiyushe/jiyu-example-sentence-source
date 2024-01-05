@@ -1,5 +1,7 @@
 # 始终不渝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhongbuyu.md)
+
 <p><span class="chinese">同时也是我们始终不渝的经营理念。</span><span class="english">At the same time, it's our lodestar.</span></p>
 
 <p><span class="chinese">佛朗哥复函，表示他始终不渝的忠诚。</span><span class="english">Franco replied, expressing his undying loyalty.</span></p>

@@ -1,5 +1,7 @@
 # thorium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thorium.md)
+
 <p><span class="chinese">铀或钍矿砂及其精矿。</span><span class="english">Uranium or thorium ores and concentrates.</span></p>
 
 <p><span class="chinese">用萃取色层法分离钍。</span><span class="english">Thorium is separated by extraction chromatography.</span></p>

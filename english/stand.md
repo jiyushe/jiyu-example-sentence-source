@@ -1,5 +1,7 @@
 # stand 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stand.md)
+
 <p><span class="chinese">立领。</span><span class="english">Stand collar.</span></p>
 
 <p><span class="chinese">罗伯特指着冰面上刻着的一条线说，“你就站在这里。</span><span class="english">Just stand here.</span></p>

@@ -1,5 +1,7 @@
 # 应约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyue.md)
+
 <p><span class="chinese">我是应约来面试的。</span><span class="english">I'm here for an interview as requested.</span></p>
 
 <p><span class="chinese">我是应约来面试的。</span><span class="english">I have come at your invitation for an interview.</span></p>

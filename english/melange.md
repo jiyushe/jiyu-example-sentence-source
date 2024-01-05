@@ -1,5 +1,7 @@
 # melange
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melange.md)
+
 <p><span class="chinese">像一个汇集了各种事物的大杂烩。</span><span class="english">like a melange of all different sort of things.</span></p>
 
 <p><span class="chinese">诚然，一份目录，就其本质来说便应当是混杂的。</span><span class="english">Granted that a catalog is by its very nature a mélange.</span></p>

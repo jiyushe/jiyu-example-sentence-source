@@ -1,5 +1,7 @@
 # 太保
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taibao.md)
+
 <p><span class="chinese">神行太保2000每天可施展1次时空之门。</span><span class="english">Gatemaster 2000 Casts Master rank Town Portal 1x per day.</span></p>
 
 <p><span class="chinese">凯雷和中国太保对此均未予置评.</span><span class="english">Both Carlyle and China Pacific declined to comment for this article.</span></p>

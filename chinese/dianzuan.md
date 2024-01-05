@@ -1,5 +1,7 @@
 # 电钻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianzuan.md)
+
 <p><span class="chinese">现在，打开电钻。</span><span class="english">Now, run the drill.</span></p>
 
 <p><span class="chinese">用于打钻墙壁锚栓孔的电钻。</span><span class="english">Drill for drilling wall anchor holes.</span></p>

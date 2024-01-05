@@ -1,5 +1,7 @@
 # 中的
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdi.md)
+
 <p><span class="chinese">犹太教中的先知。</span><span class="english">Prophet of Judaism.</span></p>
 
 <p><span class="chinese">无为，是道学中的东西。</span><span class="english">It's a Daoist thing.</span></p>

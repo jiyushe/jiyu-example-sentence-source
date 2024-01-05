@@ -1,5 +1,7 @@
 # depose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depose.md)
+
 <p><span class="chinese">皇帝企图废黜教皇。</span><span class="english">The emperor attempted to depose the Pope.</span></p>
 
 <p><span class="chinese">选举和撤换酋长的权利。</span><span class="english">The right to elect chieftains and to depose them.</span></p>

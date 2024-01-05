@@ -1,5 +1,7 @@
 # finity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finity.md)
+
 <p><span class="chinese">使永恒在有限里得以延续。</span><span class="english">That lasts in the finity.</span></p>
 
 <p><span class="chinese">把握你手里的就是无限。</span><span class="english">Hold in finity in the palm of your hand.</span></p>

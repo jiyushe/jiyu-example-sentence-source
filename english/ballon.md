@@ -1,5 +1,7 @@
 # ballon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballon.md)
+
 <p><span class="chinese">汽球会发生什么变化？</span><span class="english">What happens to the ballon?</span></p>
 
 <p><span class="chinese">给我一个气球、一个气球、一个气球。</span><span class="english">Give me a balloon, a balloon, a ballon.</span></p>

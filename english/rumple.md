@@ -1,5 +1,7 @@
 # rumple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rumple.md)
+
 <p><span class="chinese">弄皱衣服、弄乱头发。</span><span class="english">Rumple one's clothes, hair.</span></p>
 
 <p><span class="chinese">你千万不要穿着新裙子去玩耍，你会把它弄皱的。</span><span class="english">You mustn't play in your new skirt, you'll rumple it.</span></p>

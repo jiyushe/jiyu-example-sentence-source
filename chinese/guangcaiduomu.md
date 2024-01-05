@@ -1,5 +1,7 @@
 # 光彩夺目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangcaiduomu.md)
+
 <p><span class="chinese">我想要我的翅膀两面都光彩夺目。</span><span class="english">I want bothe sides of my wings to shine.</span></p>
 
 <p><span class="chinese">经过充分切刻的光彩夺目的钻石有68个小平面。</span><span class="english">A fully cut brilliant diamond has 68 facets.</span></p>

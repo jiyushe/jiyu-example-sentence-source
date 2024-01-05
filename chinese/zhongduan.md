@@ -1,5 +1,7 @@
 # 中断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongduan.md)
+
 <p><span class="chinese">异常中断程序。</span><span class="english">Aborts the program.</span></p>
 
 <p><span class="chinese">老妇在极度痛苦中断气。</span><span class="english">The old woman expired in agony.</span></p>

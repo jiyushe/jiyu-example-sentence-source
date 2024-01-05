@@ -1,5 +1,7 @@
 # hematogenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hematogenous.md)
+
 <p><span class="chinese">少数病例也可经血行转移至前尿道。</span><span class="english">A few of cases may be due to hematogenous metastasis.</span></p>
 
 <p><span class="chinese">基于病史，本例最可能是血行性转移。</span><span class="english">Based on history, hematogenous metastases is most likely.</span></p>

@@ -1,5 +1,7 @@
 # 子金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijin.md)
+
 <p><span class="chinese">长子亚历山大出生于1973年，次子金出生在1977年。</span><span class="english">Son Alexander born in 1973, son Kim born in 1977.</span></p>
 
 <p><span class="chinese">王家崴子金矿床赋存于辽南古元古代浅变质岩系中。</span><span class="english">Wangjiawaizi gold deposit occurs in Lower Proterozoic opimetamorphic rock series.</span></p>

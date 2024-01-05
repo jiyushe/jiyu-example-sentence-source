@@ -1,5 +1,7 @@
 # tijuana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tijuana.md)
+
 <p><span class="chinese">我也许会远离蒂华纳，但什么是公平的游戏。</span><span class="english">I'll probably stay away from Tijuana , but anything else is fair game.</span></p>
 
 <p><span class="chinese">该趟飞机在墨西哥城接到79位乘客另在提华纳接到19位乘客。</span><span class="english">The plane picked up 79 Chinese nationals in Mexico City and 19 others in Tijuana.</span></p>

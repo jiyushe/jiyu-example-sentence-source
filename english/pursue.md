@@ -1,5 +1,7 @@
 # pursue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pursue.md)
+
 <p><span class="chinese">将追梅莫及。</span><span class="english">Will pursue Mei Moji.</span></p>
 
 <p><span class="chinese">不惜一切代价追求。</span><span class="english">Pursue it at all costs.</span></p>

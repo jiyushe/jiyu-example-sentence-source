@@ -1,5 +1,7 @@
 # 文风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenfeng.md)
+
 <p><span class="chinese">她的文风倾向于雕琢。</span><span class="english">Her style tends to elaboration.</span></p>
 
 <p><span class="chinese">事实上，作家文风的形成因素是多方面的，刘琨也不例外。</span><span class="english">In fact, many things shape cultural style. LiuKun is one example too.</span></p>

@@ -1,5 +1,7 @@
 # 双钩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuanggou.md)
+
 <p><span class="chinese">双钩环闭合，方便上下车。</span><span class="english">Double hook-and-loop closure for easy on and off.</span></p>
 
 <p><span class="chinese">双钩针织物缝创造更多更快。</span><span class="english">The double crochet stitch creates more fabric faster.</span></p>

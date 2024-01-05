@@ -1,5 +1,7 @@
 # snowbird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowbird.md)
+
 <p><span class="chinese">2001年2月，我们在雪鸟滑雪场相聚。</span><span class="english">We got together in February 2001 in Snowbird.</span></p>
 
 <p><span class="chinese">犹他州的公园城市和雪鸟让一些儿童免费滑雪。</span><span class="english">Park City and Snowbird in Utah let some children ski free.</span></p>

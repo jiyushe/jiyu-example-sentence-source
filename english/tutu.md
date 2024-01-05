@@ -1,5 +1,7 @@
 # tutu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tutu.md)
+
 <p><span class="chinese">你是图图吗？</span><span class="english">Are you Tutu?</span></p>
 
 <p><span class="chinese">德斯蒙德图图问道。</span><span class="english">Desmond Tutu.</span></p>

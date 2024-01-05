@@ -1,5 +1,7 @@
 # deformity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deformity.md)
+
 <p><span class="chinese">这是两种常见的胸廓畸形。</span><span class="english">This is two common thoracic deformity.</span></p>
 
 <p><span class="chinese">软骨病是主要发生在儿童群体中的身体畸形。</span><span class="english">Rickets is a deformity mainly found in children.</span></p>

@@ -1,5 +1,7 @@
 # staphylococcus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staphylococcus.md)
+
 <p><span class="chinese">单词Staphylococcus源于希腊语，意为“成串的葡萄”。</span><span class="english">Staphylococcus from Greek means “bunch of grapes.”</span></p>
 
 <p><span class="chinese">疖病常常由金黄色葡萄球菌所引起。</span><span class="english">Furunculosis is usually due to Staphylococcus aureus.</span></p>

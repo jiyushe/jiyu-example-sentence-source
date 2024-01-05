@@ -1,5 +1,7 @@
 # abusively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abusively.md)
+
 <p><span class="chinese">您遇到过那种明明是在虐待，口口声声说这仅仅是支配的人吗？</span><span class="english">Have you ever seen people who behave abusively but claim it's merely dominance?</span></p>
 
 <p><span class="chinese">它实际上是一种网络环境中的詈骂行为。</span><span class="english">In fact, it is one kind of the behavior that speaks abusively in network environment.</span></p>

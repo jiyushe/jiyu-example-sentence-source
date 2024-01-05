@@ -1,5 +1,7 @@
 # insulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insulate.md)
+
 <p><span class="chinese">使用隔离罩的电热水器。</span><span class="english">Use a cover to insulate the water heater.</span></p>
 
 <p><span class="chinese">那天花板瓦能使房间隔热。</span><span class="english">The ceiling tiles help to insulate a room.</span></p>

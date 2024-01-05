@@ -1,5 +1,7 @@
 # 参观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canguan.md)
+
 <p><span class="chinese">谢绝参观。</span><span class="english">Inspection declined.</span></p>
 
 <p><span class="chinese">你去参观那座庙宇了吗？</span><span class="english">Did you see the Temple?</span></p>

@@ -1,5 +1,7 @@
 # dissatisfaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissatisfaction.md)
+
 <p><span class="chinese">他大声发泄他的不满情绪。</span><span class="english">He bawled his dissatisfaction.</span></p>
 
 <p><span class="chinese">她口气激烈地说出了她的不满。</span><span class="english">She hurled her dissatisfaction.</span></p>

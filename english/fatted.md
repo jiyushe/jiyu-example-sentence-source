@@ -1,5 +1,7 @@
 # fatted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatted.md)
+
 <p><span class="chinese">我们没时间做更好的饭菜来招待你。</span><span class="english">We didn't have time to kill fatted calf.</span></p>
 
 <p><span class="chinese">杰克，浪子回家，你准备宰杀那头小。</span><span class="english">Are you going to kill the fatted calf for the prodigal son, Jack?</span></p>

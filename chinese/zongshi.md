@@ -1,5 +1,7 @@
 # 宗室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongshi.md)
+
 <p><span class="chinese">宗室是我国古代皇权政治下的产物。</span><span class="english">Imperial clan is result of authoritarians'politics in Chinese history.</span></p>
 
 <p><span class="chinese">作为整个宋词词坛的组成部分，宗室词有其自身的价值和意义。</span><span class="english">As part of the Song Ci as a whole, imperial clan Ci has its own value and significance.</span></p>

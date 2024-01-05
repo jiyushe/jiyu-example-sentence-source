@@ -1,5 +1,7 @@
 # deceit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deceit.md)
+
 <p><span class="chinese">那种骗术瞒不过我。</span><span class="english">That deceit won't pass with me.</span></p>
 
 <p><span class="chinese">鸿沟的这场雪盲欺骗。</span><span class="english">Chasm of this snow-blind deceit.</span></p>

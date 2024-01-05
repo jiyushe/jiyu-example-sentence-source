@@ -1,5 +1,7 @@
 # instrumentally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instrumentally.md)
+
 <p><span class="chinese">它的利用价值也是好的。</span><span class="english">But it's also instrumentally good.</span></p>
 
 <p><span class="chinese">或者有坏的利用价值。</span><span class="english">Or, for that matter, instrumentally bad.</span></p>

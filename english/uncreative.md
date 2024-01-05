@@ -1,5 +1,7 @@
 # uncreative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncreative.md)
+
 <p><span class="chinese">他的作品缺乏创造性的想像力。</span><span class="english">His works show an uncreative imagination.</span></p>
 
 <p><span class="chinese">他们总在犯同样的错误，太没意思了。</span><span class="english">They make the same mistakes, so uncreative.</span></p>

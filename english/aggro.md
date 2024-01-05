@@ -1,5 +1,7 @@
 # aggro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggro.md)
+
 <p><span class="chinese">他们还要继续闹事吗？</span><span class="english">Were they in for more aggro?</span></p>
 
 <p><span class="chinese">每当他施放贼星时注重看你的愤恨。</span><span class="english">Watch your aggro every time he does a meteor.</span></p>

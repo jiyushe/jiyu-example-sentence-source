@@ -1,5 +1,7 @@
 # gael
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gael.md)
+
 <p><span class="chinese">阿森纳准备出售左后卫克里希。</span><span class="english">Arsenal are preparing to sell left-back Gael Clichy.</span></p>
 
 <p><span class="chinese">基兰·吉布斯将取代轮休的盖尔·克利希出场。</span><span class="english">Kieran Gibbs will replace Gael Clichy, who is rested.</span></p>

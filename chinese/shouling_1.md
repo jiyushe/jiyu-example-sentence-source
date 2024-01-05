@@ -1,5 +1,7 @@
 # 首领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouling_1.md)
+
 <p><span class="chinese">我是这座堡垒的首领！</span><span class="english">I am the captain of my fort!</span></p>
 
 <p><span class="chinese">这位女首领就是冼太夫人。</span><span class="english">This woman was named Lady Xian.</span></p>

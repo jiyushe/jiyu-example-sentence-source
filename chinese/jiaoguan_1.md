@@ -1,5 +1,7 @@
 # 浇灌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoguan_1.md)
+
 <p><span class="chinese">浇灌高尔夫球场？</span><span class="english">Water a golf course?</span></p>
 
 <p><span class="chinese">收集雨水，并用它们浇灌植物。</span><span class="english">Collect rain water and water the plants with it.</span></p>

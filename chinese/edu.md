@@ -1,5 +1,7 @@
 # 恶毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/edu.md)
+
 <p><span class="chinese">那么他是恶毒的。</span><span class="english">Then he is malevolent.</span></p>
 
 <p><span class="chinese">这是一个恶毒的地方。</span><span class="english">This is one nasty place.</span></p>

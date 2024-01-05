@@ -1,5 +1,7 @@
 # rearmament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rearmament.md)
+
 <p><span class="chinese">该方案必须能防止哈马斯重新武装。</span><span class="english">It has to be a solution that does not allow the rearmament of Hamas.</span></p>
 
 <p><span class="chinese">其次，联邦德国在美国的支持下走上了重新武装的道路。</span><span class="english">Secondly, the Federal Republic was given rearmament by America's support.</span></p>

@@ -1,5 +1,7 @@
 # encyclopedic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encyclopedic.md)
+
 <p><span class="chinese">这本书是百科全书。</span><span class="english">The book is encyclopedic.</span></p>
 
 <p><span class="chinese">一部全新的中型小百科词典。</span><span class="english">A brand new medium-sized encyclopedic dictionary.</span></p>

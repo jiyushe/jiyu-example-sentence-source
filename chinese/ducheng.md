@@ -1,5 +1,7 @@
 # 都城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ducheng.md)
+
 <p><span class="chinese">西安曾是一个古代的都城。</span><span class="english">Xi’an was once an ancient capital.</span></p>
 
 <p><span class="chinese">这就是他的都城变成废墟的原因。</span><span class="english">That caused the ruin of his capital.</span></p>

@@ -1,5 +1,7 @@
 # 马脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/majiao.md)
+
 <p><span class="chinese">他无意中露出了马脚。</span><span class="english">He betrayed himself without meaning to.</span></p>
 
 <p><span class="chinese">哈哈，你终于露出马脚了，欧先生。</span><span class="english">Oh, you've finally got on the track, Mr.</span></p>

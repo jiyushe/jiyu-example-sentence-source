@@ -1,5 +1,7 @@
 # caterpillar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caterpillar.md)
+
 <p><span class="chinese">它是一条胖嘟嘟的大毛虫了。</span><span class="english">He was a big, fat caterpillar.</span></p>
 
 <p><span class="chinese">毛毛虫这个角色不好！</span><span class="english">The Caterpillar is a loser part.</span></p>

@@ -1,5 +1,7 @@
 # 不共戴天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bugongdaitian.md)
+
 <p><span class="chinese">他是杰克不共戴天的敌人。</span><span class="english">He was Jack's sworn enemy.</span></p>
 
 <p><span class="chinese">他们是我们不共戴天的仇敌。</span><span class="english">They are our mortal enemies.</span></p>

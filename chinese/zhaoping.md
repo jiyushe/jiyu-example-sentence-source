@@ -1,5 +1,7 @@
 # 找平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoping.md)
+
 <p><span class="chinese">你能帮我们找平吗？</span><span class="english">Please, can you help us find Ping?</span></p>
 
 <p><span class="chinese">你也找平你的专业以及。</span><span class="english">You are also leveling your profession as well.</span></p>

@@ -1,5 +1,7 @@
 # disembark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disembark.md)
+
 <p><span class="chinese">为什么不上岸去见见您的朋友呢？</span><span class="english">Why not disembark and see your friend?</span></p>
 
 <p><span class="chinese">我们应该从右边出口下船。</span><span class="english">We should disembark from the right exit.</span></p>

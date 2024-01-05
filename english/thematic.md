@@ -1,5 +1,7 @@
 # thematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thematic.md)
+
 <p><span class="chinese">专题地图是甚麽？</span><span class="english">What are thematic maps?</span></p>
 
 <p><span class="chinese">这就是我们所说的主题性释放。</span><span class="english">It's what we call a thematic rollout.</span></p>

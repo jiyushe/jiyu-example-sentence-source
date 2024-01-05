@@ -1,5 +1,7 @@
 # martyrdom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/martyrdom.md)
+
 <p><span class="chinese">足球成为他们殉国之道。</span><span class="english">They turned soccer to martyrdom.</span></p>
 
 <p><span class="chinese">基督的道路就是殉难的道路。</span><span class="english">The path of Christ is the path of martyrdom.</span></p>

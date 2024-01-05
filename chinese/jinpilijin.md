@@ -1,5 +1,7 @@
 # 筋疲力尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinpilijin.md)
+
 <p><span class="chinese">我觉得筋疲力尽。</span><span class="english">I feel all pooped out.</span></p>
 
 <p><span class="chinese">我们都筋疲力尽。</span><span class="english">We were all exhausted.</span></p>

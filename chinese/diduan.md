@@ -1,5 +1,7 @@
 # 地段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diduan.md)
+
 <p><span class="chinese">地段上郁郁葱葱的绿化区让您享受。</span><span class="english">Lots lush green areas for you to enjoy.</span></p>
 
 <p><span class="chinese">他们有凝固汽油弹好听的名字，该地段。</span><span class="english">They have lots of fancy names for that napalm.</span></p>

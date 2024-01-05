@@ -1,5 +1,7 @@
 # laparoscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laparoscope.md)
+
 <p><span class="chinese">从鲸须以腹腔镜。</span><span class="english">From whalebone to laparoscope.</span></p>
 
 <p><span class="chinese">方法对20例腹部外伤患者采用腹腔镜诊断和治疗。</span><span class="english">Method To use laparoscope in diagnosis and treatment for 20 cases abdominal trauma.</span></p>

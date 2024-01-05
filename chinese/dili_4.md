@@ -1,5 +1,7 @@
 # 砥砺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dili_4.md)
+
 <p><span class="chinese">真正的好朋友是能互相规劝、砥砺的。</span><span class="english">The genuine good friend is can admonish mutually, steel.</span></p>
 
 <p><span class="chinese">朋友互相砥砺，有如以铁锉铁。</span><span class="english">Iron sharpeneth iron, so a man sharpeneth the countenance of his friend.</span></p>

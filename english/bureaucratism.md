@@ -1,5 +1,7 @@
 # bureaucratism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bureaucratism.md)
+
 <p><span class="chinese">形式主义也是官僚主义。</span><span class="english">Formalism is a kind of bureaucratism.</span></p>
 
 <p><span class="chinese">不要沾染官僚主义作风。</span><span class="english">Don't be contaminated by bureaucratism.</span></p>

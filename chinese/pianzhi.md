@@ -1,5 +1,7 @@
 # 偏执
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianzhi.md)
+
 <p><span class="chinese">你是偏执狂吗？</span><span class="english">Are you paranoid?</span></p>
 
 <p><span class="chinese">偏执狂是一种优点。</span><span class="english">Paranoia is a virtue.</span></p>

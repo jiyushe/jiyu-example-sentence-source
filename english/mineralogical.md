@@ -1,5 +1,7 @@
 # mineralogical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mineralogical.md)
+
 <p><span class="chinese">取得了一系列的矿物学参数。</span><span class="english">A series of mineralogical parameters have been obtained.</span></p>
 
 <p><span class="chinese">本文研究花岗岩的矿物相和重熔结构。</span><span class="english">Mineralogical phases and remelting texture of granite are reviewed.</span></p>

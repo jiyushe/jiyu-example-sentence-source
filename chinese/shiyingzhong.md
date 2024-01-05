@@ -1,5 +1,7 @@
 # 石英钟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyingzhong.md)
+
 <p><span class="chinese">请寄给我们贵方的石英钟价目单。</span><span class="english">Please send us your price list of quartz clocks.</span></p>
 
 <p><span class="chinese">我上次逛街时看见一个石英钟挺漂亮的。</span><span class="english">I saw a beautiful clock last time I was shopping.</span></p>

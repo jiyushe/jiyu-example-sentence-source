@@ -1,5 +1,7 @@
 # Norway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norway.md)
+
 <p><span class="chinese">瑞典与挪威、芬兰接壤。</span><span class="english">Sweden borders Norway and Finland.</span></p>
 
 <p><span class="chinese">绝路桥坐落于挪威的大西洋之路。</span><span class="english">A bridge on the Atlantic Road in Norway.</span></p>

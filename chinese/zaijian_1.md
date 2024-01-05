@@ -1,5 +1,7 @@
 # 在建
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaijian_1.md)
+
 <p><span class="chinese">你这是在建空中楼阁。</span><span class="english">You are building a castle in the air.</span></p>
 
 <p><span class="chinese">引导可以继续做梦吧在建邦。</span><span class="english">Venkat can keep dreaming on Telangana.</span></p>

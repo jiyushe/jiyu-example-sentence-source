@@ -1,5 +1,7 @@
 # tensely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tensely.md)
+
 <p><span class="chinese">我紧张地瞧着他。</span><span class="english">I tensely watched him.</span></p>
 
 <p><span class="chinese">众人紧张地站立着。</span><span class="english">They are all standing tensely.</span></p>

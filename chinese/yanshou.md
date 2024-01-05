@@ -1,5 +1,7 @@
 # 严守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanshou.md)
+
 <p><span class="chinese">在交易中你做到了严守纪律吗？</span><span class="english">Are you disciplined enough to succeed in trading?</span></p>
 
 <p><span class="chinese">我答应Sarah我会严守秘密的。</span><span class="english">I promised Sarah that I was going to keep it a secret.</span></p>

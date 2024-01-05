@@ -1,5 +1,7 @@
 # 评注
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingzhu.md)
+
 <p><span class="chinese">那就是评注的工作。</span><span class="english">That's what exegesis does.</span></p>
 
 <p><span class="chinese">有些人边读书边作评注。</span><span class="english">Some people annotate as they read.</span></p>

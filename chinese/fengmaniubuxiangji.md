@@ -1,5 +1,7 @@
 # 风马牛不相及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengmaniubuxiangji.md)
+
 <p><span class="chinese">许多东西和科学家们根本风马牛不相及。</span><span class="english">Many more don't engage with scientists at all.</span></p>
 
 <p><span class="chinese">我当然绝非暗示卫慧是鲍勃。狄伦，那可风马牛不相及。</span><span class="english">I don't mean to suggest that Wei Hui is the new Bob Dylan.</span></p>

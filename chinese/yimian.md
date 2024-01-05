@@ -1,5 +1,7 @@
 # 以免
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimian.md)
+
 <p><span class="chinese">经常擦油，以免生锈。</span><span class="english">Oil it regularly to prevent rust.</span></p>
 
 <p><span class="chinese">以免它们会觉得太孤单。</span><span class="english">so that they won't feel too lonely!</span></p>

@@ -1,5 +1,7 @@
 # unpatriotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpatriotic.md)
+
 <p><span class="chinese">市场既不会爱国，也不会不爱国，而且它们从不撒谎。</span><span class="english">Markets are neither patriotic nor unpatriotic and they never lie.</span></p>
 
 <p><span class="chinese">你要是去沃尔玛买东西，你就是卖国贼。</span><span class="english">If you're buying Chinese crap at Wal-Mart you are being unpatriotic.</span></p>

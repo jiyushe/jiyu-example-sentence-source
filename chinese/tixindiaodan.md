@@ -1,5 +1,7 @@
 # 提心吊胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tixindiaodan.md)
+
 <p><span class="chinese">提心吊胆的世界。</span><span class="english">The scary world.</span></p>
 
 <p><span class="chinese">也非常非常非常提心吊胆。</span><span class="english">And very very very scary.</span></p>

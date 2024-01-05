@@ -1,5 +1,7 @@
 # 老谋深算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laomoushensuan.md)
+
 <p><span class="chinese">他是个老谋深算的老狐狸。</span><span class="english">He is a wily old fox.</span></p>
 
 <p><span class="chinese">有个刺杀领导人的老谋深算的密谋。</span><span class="english">There was a deep plot to assassinate the leader.</span></p>

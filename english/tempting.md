@@ -1,5 +1,7 @@
 # tempting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tempting.md)
+
 <p><span class="chinese">央视一定试图阻挠对手。</span><span class="english">It must be tempting to nobble a rival.</span></p>
 
 <p><span class="chinese">因此故意对付对手肯定很有吸引力。</span><span class="english">It must be tempting to nobble a rival.</span></p>

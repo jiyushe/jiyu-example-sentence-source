@@ -1,5 +1,7 @@
 # fishbone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishbone.md)
+
 <p><span class="chinese">骨鲠在喉，一吐方快。</span><span class="english">A fishbone stuck in my throat.</span></p>
 
 <p><span class="chinese">一根鱼刺卡在他喉咙里了。</span><span class="english">A fishbone stuck in his throat.</span></p>

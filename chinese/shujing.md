@@ -1,5 +1,7 @@
 # 竖井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shujing.md)
+
 <p><span class="chinese">系统是在竖井中构建的。</span><span class="english">Systems are built in silos.</span></p>
 
 <p><span class="chinese">我们的目标是超越竖井。</span><span class="english">Our goal is to transcend silos.</span></p>

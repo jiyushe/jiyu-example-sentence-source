@@ -1,5 +1,7 @@
 # 台阶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taijie.md)
+
 <p><span class="chinese">给他们找个台阶下吧。</span><span class="english">Give them an out.</span></p>
 
 <p><span class="chinese">冰雪砌的台阶崩塌了。</span><span class="english">A snow step avalanched.</span></p>

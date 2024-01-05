@@ -1,5 +1,7 @@
 # metaphysician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metaphysician.md)
+
 <p><span class="chinese">一个形而上学者，一个戏剧性的附属。</span><span class="english">George Eliot- a metaphysician with a dramatic attachment.</span></p>
 
 <p><span class="chinese">围绕这一问题西方形而上学家提出了六种不同的解答方式。</span><span class="english">The western metaphysician put forwards six ways to solve the problem.</span></p>

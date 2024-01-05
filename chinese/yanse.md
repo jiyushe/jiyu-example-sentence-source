@@ -1,5 +1,7 @@
 # 颜色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanse.md)
+
 <p><span class="chinese">别的颜色呢？</span><span class="english">Any other color?</span></p>
 
 <p><span class="chinese">我喜欢这颜色。</span><span class="english">I like the color.</span></p>

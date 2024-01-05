@@ -1,5 +1,7 @@
 # admiration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admiration.md)
+
 <p><span class="chinese">他赢得了人们的赞美。</span><span class="english">He won the admiration of people.</span></p>
 
 <p><span class="chinese">你需要也并值得羡慕。</span><span class="english">You need and deserve admiration.</span></p>

@@ -1,5 +1,7 @@
 # carnival
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnival.md)
+
 <p><span class="chinese">狂欢节结束了。</span><span class="english">Carnival is over.</span></p>
 
 <p><span class="chinese">这个节日，被称作为嘉年华会。</span><span class="english">The festival, known as Carnival.</span></p>

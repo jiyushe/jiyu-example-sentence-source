@@ -1,5 +1,7 @@
 # fjord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fjord.md)
+
 <p><span class="chinese">最长的峡湾是二百零三公里长的松恩峡湾。</span><span class="english">The longest fjord is Sognefjorden, which is 203 kilometers long.</span></p>
 
 <p><span class="chinese">更早袭击峡湾的巨浪发生在1853、1874、1899和1936年。</span><span class="english">Previous monster waves struck the fjord in 1853, 1874, 1899 and 1936.</span></p>

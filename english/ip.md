@@ -1,5 +1,7 @@
 # ip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ip.md)
+
 <p><span class="chinese">那是一个柒的条目。</span><span class="english">It was a stone ip thread.</span></p>
 
 <p><span class="chinese">违者屏蔽IP处理。</span><span class="english">Offenders shielding IP address.</span></p>

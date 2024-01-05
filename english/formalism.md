@@ -1,5 +1,7 @@
 # formalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formalism.md)
+
 <p><span class="chinese">形式主义的危险是真实的。</span><span class="english">The danger of formalism is real.</span></p>
 
 <p><span class="chinese">此之谓形式主义。</span><span class="english">This is what is called formalism.</span></p>

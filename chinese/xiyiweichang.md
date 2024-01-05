@@ -1,5 +1,7 @@
 # 习以为常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyiweichang.md)
+
 <p><span class="chinese">他们对此习以为常。</span><span class="english">They get good at it.</span></p>
 
 <p><span class="chinese">因此,我们也逐渐习以为常</span><span class="english">So, we get used to this.</span></p>

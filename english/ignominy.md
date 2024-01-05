@@ -1,5 +1,7 @@
 # ignominy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ignominy.md)
+
 <p><span class="chinese">丢失军旗和鹰旗，所带来的耻辱，也变的同样重大起来。</span><span class="english">The ignominy of losing your standard, your eagle standard, became equally great.</span></p>
 
 <p><span class="chinese">一旦他们被抓住，她就会名誉扫地，被很不光彩地撤职开除。</span><span class="english">If they were caught, she would be thrown out in disgrace, dismissed with ignominy.</span></p>

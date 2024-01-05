@@ -1,5 +1,7 @@
 # adapter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adapter.md)
+
 <p><span class="chinese">我的适配器在哪里？</span><span class="english">Where is my adapter?</span></p>
 
 <p><span class="chinese">创建内容适配器文件包</span><span class="english">Create the content adapter package</span></p>

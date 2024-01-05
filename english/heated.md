@@ -1,5 +1,7 @@
 # heated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heated.md)
+
 <p><span class="chinese">购买加热加湿。</span><span class="english">Add heated humidification.</span></p>
 
 <p><span class="chinese">放到热过的油里.</span><span class="english">And put into the heated oil.</span></p>

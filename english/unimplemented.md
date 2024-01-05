@@ -1,5 +1,7 @@
 # unimplemented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unimplemented.md)
+
 <p><span class="chinese">由于全国到处发生水灾，所余合同恐无法完成。</span><span class="english">Afraid contract balance unimplemented owing flood up country.</span></p>
 
 <p><span class="chinese">但是，基于应用程序的模式目前还基本没有实现。</span><span class="english">Application-based mode is, however, largely unimplemented at the moment.</span></p>

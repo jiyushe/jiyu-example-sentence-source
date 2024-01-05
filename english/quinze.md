@@ -1,5 +1,7 @@
 # quinze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quinze.md)
+
 <p><span class="chinese">十五日在家里是在世界上的零售？</span><span class="english">Is Quinze at home in the world of retail?</span></p>
 
 <p><span class="chinese">总之，阿纳·奎兹试图激发人与人之间的沟通和互动。</span><span class="english">But above all, Arne Quinze tries to evoke communication and human interaction.</span></p>

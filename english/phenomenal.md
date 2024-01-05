@@ -1,5 +1,7 @@
 # phenomenal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenomenal.md)
+
 <p><span class="chinese">为火箭喝彩。20连胜。</span><span class="english">Bravo rox. 20 is phenomenal.</span></p>
 
 <p><span class="chinese">葛斯汉的成功是不同凡响的。</span><span class="english">Grisham's success is phenomenal.</span></p>

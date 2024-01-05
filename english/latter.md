@@ -1,5 +1,7 @@
 # latter 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latter.md)
+
 <p><span class="chinese">这是后话。</span><span class="english">This was the latter.</span></p>
 
 <p><span class="chinese">他们选择了后者。</span><span class="english">They chose the latter.</span></p>

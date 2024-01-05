@@ -1,5 +1,7 @@
 # 受难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shounan.md)
+
 <p><span class="chinese">离耶稣受难地几千英里。</span><span class="english">thousands from Calvary.</span></p>
 
 <p><span class="chinese">就让我回到丑恶的名声中去受苦受难吧！</span><span class="english">Suffer me to go back to my infamy!</span></p>

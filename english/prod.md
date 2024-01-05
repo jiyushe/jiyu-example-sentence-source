@@ -1,5 +1,7 @@
 # prod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prod.md)
+
 <p><span class="chinese">你最好提醒她一下。</span><span class="english">You'd better give her memory a prod.</span></p>
 
 <p><span class="chinese">国会的督促并没有必要。</span><span class="english">There is no need for a congressional prod.</span></p>

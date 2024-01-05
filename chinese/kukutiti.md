@@ -1,5 +1,7 @@
 # 哭哭啼啼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kukutiti.md)
+
 <p><span class="chinese">我动辄就哭哭啼啼。</span><span class="english">I often cry.</span></p>
 
 <p><span class="chinese">她只是哭哭啼啼。</span><span class="english">She does nothing but cry.</span></p>

@@ -1,5 +1,7 @@
 # idolize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idolize.md)
+
 <p><span class="chinese">我们过度崇拜成功和地位，从而削弱了彼此间的尊重。</span><span class="english">We idolize success and status and thus undermine our mutual respect.</span></p>
 
 <p><span class="chinese">假如人能够了解彼此，那他们就不会相互崇拜或者憎恨。</span><span class="english">If men could only know each other, they would neither idolize nor hate.</span></p>

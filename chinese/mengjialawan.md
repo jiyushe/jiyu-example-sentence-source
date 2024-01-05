@@ -1,5 +1,7 @@
 # 孟加拉湾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengjialawan.md)
+
 <p><span class="chinese">或者去位于孟加拉湾中部的布莱尔港冲浪。</span><span class="english">Or go surfing in Port Blair in the Bay of Bengal.</span></p>
 
 <p><span class="chinese">印度东部位于孟加拉湾的一个邦。</span><span class="english">The modern Indic language of West Bengal and Bangladesh.</span></p>

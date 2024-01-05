@@ -1,5 +1,7 @@
 # 礼尚往来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishangwanglai.md)
+
 <p><span class="chinese">单方面的礼貌不会持久，礼尚往来。</span><span class="english">Courtesy on one side only lasts not long.</span></p>
 
 <p><span class="chinese">礼尚往来，是中华民族的传统。</span><span class="english">Courtesy calls for reciprocity, is China's tradition.</span></p>

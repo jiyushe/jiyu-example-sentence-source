@@ -1,5 +1,7 @@
 # wandering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wandering.md)
+
 <p><span class="chinese">男孩在那周围逡巡。</span><span class="english">The boy was wandering around.</span></p>
 
 <p><span class="chinese">悲伤德人们满街游走。</span><span class="english">Sad people wandering the streets.</span></p>

@@ -1,5 +1,7 @@
 # jacobian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jacobian.md)
+
 <p><span class="chinese">我们就用雅克比来求。</span><span class="english">And, for that, we use the Jacobian.</span></p>
 
 <p><span class="chinese">雅可比矩阵是描述机器人特征的重要参数之一。</span><span class="english">Jacobian matrix is one of the important parameters of robots.</span></p>

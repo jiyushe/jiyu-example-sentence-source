@@ -1,5 +1,7 @@
 # automaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automaker.md)
+
 <p><span class="chinese">这家汽车制造商在2008年损失惨重，估计在09年也很可能如此。</span><span class="english">The automaker lost money in 2008 and likely will again in '09.</span></p>
 
 <p><span class="chinese">之后数十年，再无国产汽车制造品牌。</span><span class="english">For the following decade, the automaker had no homegrown brands.</span></p>

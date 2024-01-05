@@ -1,5 +1,7 @@
 # excellent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excellent.md)
+
 <p><span class="chinese">精彩的一门课。</span><span class="english">Excellent class.</span></p>
 
 <p><span class="chinese">庄稼长得真棒。</span><span class="english">The crops are excellent.</span></p>

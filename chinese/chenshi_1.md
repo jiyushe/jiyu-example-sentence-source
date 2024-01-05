@@ -1,5 +1,7 @@
 # 趁势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenshi_1.md)
+
 <p><span class="chinese">他越过对方后卫，趁势把球踢入球门。</span><span class="english">He dribbled past the fullback and scored a goal.</span></p>
 
 <p><span class="chinese">他显出犹豫不决的样子。老吴趁势加大压力。</span><span class="english">He looked uncertain. Lao Wu pressed his advantage.</span></p>

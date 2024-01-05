@@ -1,5 +1,7 @@
 # 周旋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouxuan.md)
+
 <p><span class="chinese">女主人周旋于宾客之间。</span><span class="english">The hostess circulated among her guests.</span></p>
 
 <p><span class="chinese">你们必须耐心和巴西队周旋到底’。</span><span class="english">You have to have patience against Brazil.”’</span></p>

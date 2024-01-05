@@ -1,5 +1,7 @@
 # loanable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loanable.md)
+
 <p><span class="chinese">这将使我们的可借贷资金的供应增加。</span><span class="english">That is, we have increased the supply of loanable funds.</span></p>
 
 <p><span class="chinese">用可贷资金来表示，情况会是怎样呢？</span><span class="english">What does this situation look like in terms of loanable funds?</span></p>

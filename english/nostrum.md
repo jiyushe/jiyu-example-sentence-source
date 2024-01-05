@@ -1,5 +1,7 @@
 # nostrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nostrum.md)
+
 <p><span class="chinese">鼓吹可解决失业问题的妙策。</span><span class="english">Some nostrum peddled as a cure for unemployment.</span></p>
 
 <p><span class="chinese">译对付政治和社会罪恶没有简单的妙方。</span><span class="english">There is no simple nostrum for political and social evils.</span></p>

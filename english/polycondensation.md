@@ -1,5 +1,7 @@
 # polycondensation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polycondensation.md)
+
 <p><span class="chinese">按此方法可将树脂分为加聚物和缩聚物。</span><span class="english">This method can be added into polymer resins and polycondensation objects.</span></p>
 
 <p><span class="chinese">讨论了醇解和缩聚的温度及时间等因素。</span><span class="english">The temperature and time of alcoholysis and polycondensation were discussed.</span></p>

@@ -1,5 +1,7 @@
 # photooxidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photooxidation.md)
+
 <p><span class="chinese">适度遮荫可以有效的防止耐荫植物发生光氧化伤害。</span><span class="english">Moderate shade can protect shade endurance plants from photooxidation injury.</span></p>
 
 <p><span class="chinese">首次观察到末端双键在光氧化时的环氧化。</span><span class="english">It was the first time to observe epoxidation of terminal double bond under photooxidation.</span></p>

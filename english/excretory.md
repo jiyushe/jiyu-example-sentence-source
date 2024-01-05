@@ -1,5 +1,7 @@
 # excretory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excretory.md)
+
 <p><span class="chinese">P63蛋白主要标记颌下腺排泄管的基底细胞。</span><span class="english">P63 labels mainly the basal cells of excretory duct.</span></p>
 
 <p><span class="chinese">蚯蚓有好几种排泄机制。</span><span class="english">There are several other excretory mechanisms in earthworms.</span></p>

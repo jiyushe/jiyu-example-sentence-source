@@ -1,5 +1,7 @@
 # bounce 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bounce.md)
+
 <p><span class="chinese">教师拍一会球，停住。</span><span class="english">Who can bounce the ball ?</span></p>
 
 <p><span class="chinese">会弄脏手的，我不想拍球。</span><span class="english">I want to bounce the ball.</span></p>

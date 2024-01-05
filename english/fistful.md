@@ -1,5 +1,7 @@
 # fistful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fistful.md)
+
 <p><span class="chinese">一把揪住那异教徒的头发。</span><span class="english">Grabs a fistful of the infidels hair.</span></p>
 
 <p><span class="chinese">一连串的脏话后，他将一把硬币砸向出租车。</span><span class="english">In a flurry of F-and-C-words he threw a fistful of coins at the taxi.</span></p>

@@ -1,5 +1,7 @@
 # chicago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chicago.md)
+
 <p><span class="chinese">人的故城是芝加哥。</span><span class="english">Chicago is my hometown.</span></p>
 
 <p><span class="chinese">他乘火车去芝加哥。</span><span class="english">He entrained for Chicago.</span></p>

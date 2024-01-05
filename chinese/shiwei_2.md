@@ -1,5 +1,7 @@
 # 施威
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwei_2.md)
+
 <p><span class="chinese">酒店接近施威琴根城堡。</span><span class="english">It is close to the Schwetzingen Castle.</span></p>
 
 <p><span class="chinese">耶鲁大学的萨莉·施威茨说，“这意味着用于记忆的大脑线路改变了。”</span><span class="english">It means that the brain circuitry for memory had altered.</span></p>

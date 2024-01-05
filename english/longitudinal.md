@@ -1,5 +1,7 @@
 # longitudinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longitudinal.md)
+
 <p><span class="chinese">张力和纵向位移。</span><span class="english">Strain and longitudinal displacement.</span></p>
 
 <p><span class="chinese">拆下纵向互锁伺服电机。</span><span class="english">Remove longitudinal interlock servo motor.</span></p>

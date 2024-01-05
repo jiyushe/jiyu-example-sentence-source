@@ -1,5 +1,7 @@
 # gentleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentleness.md)
+
 <p><span class="chinese">他对她非常温存。</span><span class="english">He was all gentleness to her.</span></p>
 
 <p><span class="chinese">温柔对己则是皇后。</span><span class="english">And gentleness to oneself is queen.</span></p>

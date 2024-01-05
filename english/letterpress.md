@@ -1,5 +1,7 @@
 # letterpress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/letterpress.md)
+
 <p><span class="chinese">阳像线划原图和注记必须是不透明的。</span><span class="english">Positive line work and letterpress must be opaque.</span></p>
 
 <p><span class="chinese">把活字版锁稳与版框内所用的间隔材料。</span><span class="english">Letterpress spacing materials used when locking in chase.</span></p>

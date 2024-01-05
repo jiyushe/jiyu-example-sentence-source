@@ -1,5 +1,7 @@
 # 柿子椒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizijiao.md)
+
 <p><span class="chinese">在我的比萨上多加点柿子椒。</span><span class="english">Please put some extra bell pepper on my pizza.</span></p>
 
 <p><span class="chinese">黄柿子椒添加颜色和味道的任何配方。</span><span class="english">Yellow bell peppers add color and flavor to any recipe.</span></p>

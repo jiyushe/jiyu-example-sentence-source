@@ -1,5 +1,7 @@
 # nonchalantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonchalantly.md)
+
 <p><span class="chinese">最后农夫漫不经心的说，“好了，班尼，你也拉一下吧。”</span><span class="english">Then the farmer nonchalantly said, "Okay, Benny, pull."</span></p>
 
 <p><span class="chinese">昨天大儿子上车时就这样问我。</span><span class="english">So says my oldest nonchalantly as he go in the car yesterday.</span></p>

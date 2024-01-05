@@ -1,5 +1,7 @@
 # 夜盲症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yemangzheng.md)
+
 <p><span class="chinese">夜盲症是因为缺乏哪种维生素?。</span><span class="english">Night Blindness is caused by lacking which vitamin?</span></p>
 
 <p><span class="chinese">夜盲症是机体缺少哪种维生素？</span><span class="english">Is nyctalopia which kinds of vitamin airframe lacks ?</span></p>

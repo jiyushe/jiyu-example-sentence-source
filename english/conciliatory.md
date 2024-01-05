@@ -1,5 +1,7 @@
 # conciliatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conciliatory.md)
+
 <p><span class="chinese">他显出一副息事求和的样子，用手背抹了一下鼻子。</span><span class="english">He drew the back of his hand across his nose with a conciliatory air.</span></p>
 
 <p><span class="chinese">你没去外国国家国家疑题邀请简跟你一块来，就算是和解的表达。</span><span class="english">You do a conciliatory gesture facings Jane by inviting IT to coming dawn you.</span></p>

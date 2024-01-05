@@ -1,5 +1,7 @@
 # 心肝宝贝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinganbaobei.md)
+
 <p><span class="chinese">老板的心肝宝贝。</span><span class="english">My boss' cute baby.</span></p>
 
 <p><span class="chinese">我的心肝宝贝。</span><span class="english">My precious darling!</span></p>

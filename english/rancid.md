@@ -1,5 +1,7 @@
 # rancid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rancid.md)
+
 <p><span class="chinese">这大油哈喇了。</span><span class="english">The lard has gone rancid.</span></p>
 
 <p><span class="chinese">发酵不好的青贮料其味道腐臭。</span><span class="english">Poorly fermented silage smells rancid.</span></p>

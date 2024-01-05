@@ -1,5 +1,7 @@
 # 主意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyi_1.md)
+
 <p><span class="chinese">我有一个主意。</span><span class="english">I get an idea.</span></p>
 
 <p><span class="chinese">这主意真棒！这主意真高明！</span><span class="english">Brilliant idea!</span></p>

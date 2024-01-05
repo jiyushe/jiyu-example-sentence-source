@@ -1,5 +1,7 @@
 # 土地改革
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tudigaige.md)
+
 <p><span class="chinese">我们大力推行了土地改革。</span><span class="english">We have pushed forward with land reform.</span></p>
 
 <p><span class="chinese">土地改革法公布施行。</span><span class="english">June 30, 1950, promulgated the Land Reform Act.</span></p>

@@ -1,5 +1,7 @@
 # thermite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermite.md)
+
 <p><span class="chinese">在铁的铝热剂还原反应中，铁的氧化物与铝反应，从而生成液态铁。</span><span class="english">In an iron thermite reaction, iron oxide reacts with aluminum and comes out as liquid iron.</span></p>
 
 <p><span class="chinese">铝热效应改变的样子是前几秒钟燃烧造成的损害。</span><span class="english">Thermite effects changed to look like it is burning for several seconds before causing damage.</span></p>

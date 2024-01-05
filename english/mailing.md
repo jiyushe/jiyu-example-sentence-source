@@ -1,5 +1,7 @@
 # mailing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mailing.md)
+
 <p><span class="chinese">你现在的通信地址是什么？</span><span class="english">And your current mailing address?</span></p>
 
 <p><span class="chinese">她托我寄这封信。</span><span class="english">She entrusted me with mailing this letter.</span></p>

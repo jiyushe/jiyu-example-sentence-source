@@ -1,5 +1,7 @@
 # depersonalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depersonalization.md)
+
 <p><span class="chinese">在这种消解个性的过程中，艺术可能会达到一种科学的状态。</span><span class="english">It is in this depersonalization that art may be said to approach the condition of science.</span></p>
 
 <p><span class="chinese">有些不安的人进行人格解体过程中，他们的自我破坏。</span><span class="english">Some disturbed people undergo a depersonalization process in which their sense of self is undermined.</span></p>

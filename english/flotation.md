@@ -1,5 +1,7 @@
 # flotation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flotation.md)
+
 <p><span class="chinese">浮选操作法用于佛罗里达磷矿和科拉磷矿。</span><span class="english">Flotation is used for Florida and Kola rock.</span></p>
 
 <p><span class="chinese">磨矿，脱泥，浮选条件等。</span><span class="english">Milling, de-sliming, flotation conditions, etc.</span></p>

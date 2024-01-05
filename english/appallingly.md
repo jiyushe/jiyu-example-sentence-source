@@ -1,5 +1,7 @@
 # appallingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appallingly.md)
+
 <p><span class="chinese">新德里，莫斯科，圣保罗同样让人不颤而栗。</span><span class="english">New Delhi, Moscow and São Paulo also did appallingly.</span></p>
 
 <p><span class="chinese">岂止是不好，他对待动物让人毛骨悚然！</span><span class="english">Unkind is not the word for it ! He treats the animals appallingly !</span></p>

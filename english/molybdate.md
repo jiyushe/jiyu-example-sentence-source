@@ -1,5 +1,7 @@
 # molybdate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molybdate.md)
+
 <p><span class="chinese">钼酸铵的生产和服务。</span><span class="english">Production and service of ammonium molybdate.</span></p>
 
 <p><span class="chinese">多水钼铀矿属铀酰钼酸盐类矿物。</span><span class="english">Moluranite is a mineral of uranyl molybdate group.</span></p>

@@ -1,5 +1,7 @@
 # dithered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dithered.md)
+
 <p><span class="chinese">那老者站在那儿直发抖。</span><span class="english">The old man stood there and dithered.</span></p>
 
 <p><span class="chinese">2008年美国总统大选中默多克犹豫不决，最终选择共和党的约翰.麦凯恩。</span><span class="english">Murdoch dithered over the 2008 presidential election, eventually backing John McCain.</span></p>

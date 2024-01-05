@@ -1,5 +1,7 @@
 # 降旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangqi.md)
+
 <p><span class="chinese">每天傍晚日落是都要降旗。</span><span class="english">Every evening at sunset the flag was lowered.</span></p>
 
 <p><span class="chinese">我到的时候，正赶上降旗仪式。</span><span class="english">I came here at dusk when the flag was being lowered.</span></p>

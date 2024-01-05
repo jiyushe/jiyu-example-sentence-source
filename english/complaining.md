@@ -1,5 +1,7 @@
 # complaining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complaining.md)
+
 <p><span class="chinese">但他们没有任何抱怨。</span><span class="english">But they are not complaining.</span></p>
 
 <p><span class="chinese">他们就是投诉者。</span><span class="english">It's they who are complaining.</span></p>

@@ -1,5 +1,7 @@
 # montevideo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/montevideo.md)
+
 <p><span class="chinese">埃斯特角和首都蒙得维的亚是主要旅游地。</span><span class="english">Punta del Este and Montevideo , the capital is a major tourist destination.</span></p>
 
 <p><span class="chinese">而新盘主要集中荔湾西部，以南岸路和康王路为主。</span><span class="english">Lai Wan and the new site was concentrated in the western, mainly to Coast Road and Montevideo Road.</span></p>

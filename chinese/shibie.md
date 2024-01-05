@@ -1,5 +1,7 @@
 # 识别
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibie.md)
+
 <p><span class="chinese">你如何将其识别？</span><span class="english">How do you recognize it?</span></p>
 
 <p><span class="chinese">抗体是怎样识别抗原的呢</span><span class="english">How do they recognize it?</span></p>

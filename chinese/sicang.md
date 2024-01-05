@@ -1,5 +1,7 @@
 # 私藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sicang.md)
+
 <p><span class="chinese">去年他私藏了许多珍贵的物品。</span><span class="english">Last year he accumulated many scarce items.</span></p>
 
 <p><span class="chinese">他们被发现私藏汽油弹而获罪。</span><span class="english">They were found guilty of possessing petrol bombs.</span></p>

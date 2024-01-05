@@ -1,5 +1,7 @@
 # informal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/informal.md)
+
 <p><span class="chinese">他生性十分随意</span><span class="english">He was very informal.</span></p>
 
 <p><span class="chinese">是的，我们很不拘小节的。</span><span class="english">Yes, we're very informal.</span></p>

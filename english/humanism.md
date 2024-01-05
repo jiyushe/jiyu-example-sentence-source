@@ -1,5 +1,7 @@
 # humanism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humanism.md)
+
 <p><span class="chinese">讽刺的是，它的人文主义人性。</span><span class="english">The irony of humanism is that it dehumanizes.</span></p>
 
 <p><span class="chinese">这就是无神论者和人道主义的谎言。</span><span class="english">Well that is the lie of atheism and humanism.</span></p>

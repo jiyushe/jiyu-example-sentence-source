@@ -1,5 +1,7 @@
 # 伤风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangfeng_2.md)
+
 <p><span class="chinese">伤风使某人失去辨别滋味的能力。</span><span class="english">A cold dulls sb. 's taste.</span></p>
 
 <p><span class="chinese">他的伤风现已好转。</span><span class="english">His cold has cleared up now.</span></p>

@@ -1,5 +1,7 @@
 # lecturer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lecturer.md)
+
 <p><span class="chinese">我将在本学期担任各位的导师。</span><span class="english">I will be your lecturer this term.</span></p>
 
 <p><span class="chinese">演讲者是个中年男人。</span><span class="english">The lecturer was a middle-aged man.</span></p>

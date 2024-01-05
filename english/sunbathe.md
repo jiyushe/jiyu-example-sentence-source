@@ -1,5 +1,7 @@
 # sunbathe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunbathe.md)
+
 <p><span class="chinese">我喜欢做日光浴。</span><span class="english">I like to sunbathe.</span></p>
 
 <p><span class="chinese">狗为什么害怕沭日光浴?。</span><span class="english">Why are dogs afraid to sunbathe?</span></p>

@@ -1,5 +1,7 @@
 # transmute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmute.md)
+
 <p><span class="chinese">你知道你能够转化它。</span><span class="english">You knew you could transmute it.</span></p>
 
 <p><span class="chinese">我们可以将水力变成电力。</span><span class="english">We can transmute water power into electric power.</span></p>

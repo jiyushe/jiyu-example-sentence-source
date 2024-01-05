@@ -1,5 +1,7 @@
 # clinique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clinique.md)
+
 <p><span class="chinese">当然，我说“诊所”。</span><span class="english">Of course, I said "Clinique."</span></p>
 
 <p><span class="chinese">二十世纪六十年代，她命名了现在流行的品牌“倩碧”。</span><span class="english">She came up with the name of its popular Clinique brand during the 1960s.</span></p>

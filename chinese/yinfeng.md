@@ -1,5 +1,7 @@
 # 阴风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinfeng.md)
+
 <p><span class="chinese">芦苇和灯心草中的阴风。</span><span class="english">The wind in the reeds and the rushes.</span></p>
 
 <p><span class="chinese">但是一阵阴风吹来，他的名誉又被伤害。</span><span class="english">But by other rumors he shall be dishonored.</span></p>

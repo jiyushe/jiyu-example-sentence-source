@@ -1,5 +1,7 @@
 # medication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medication.md)
+
 <p><span class="chinese">药物治疗。</span><span class="english">Medication.</span></p>
 
 <p><span class="chinese">药物和治疗能够有帮助。</span><span class="english">Medication and therapy can help.</span></p>

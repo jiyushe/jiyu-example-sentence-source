@@ -1,5 +1,7 @@
 # mechanisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mechanisation.md)
+
 <p><span class="chinese">在这个农业国几乎没有机械化。</span><span class="english">There appears to be little mechanisation in this rural area.</span></p>
 
 <p><span class="chinese">职业教育是近代机器化大生产的产物。</span><span class="english">Vocational education was bron because of the mechanisation in the morden time.</span></p>

@@ -1,5 +1,7 @@
 # 千卡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianka.md)
+
 <p><span class="chinese">据说这一匹马就要上千卡斯。</span><span class="english">It is said that this horse ambition ascend kilocalorie Si.</span></p>
 
 <p><span class="chinese">我们最常用的热量单位是千卡。</span><span class="english">The unit of heat we shall use most frequently is the kilocalorie.</span></p>

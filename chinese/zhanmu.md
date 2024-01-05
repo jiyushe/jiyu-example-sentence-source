@@ -1,5 +1,7 @@
 # 战幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanmu.md)
+
 <p><span class="chinese">美西之战，在那个属于美国的世纪中，拉开了战幕。</span><span class="english">The Spanish-American War raised the curtain on the American century.</span></p>
 
 <p><span class="chinese">2004年珠海市业余足球联赛18日在市体育中心体育场拉开战幕。</span><span class="english">The 2004 Zhuhai Amateur Football League Match was kicked off in the Sports Center on Dec. 18.</span></p>

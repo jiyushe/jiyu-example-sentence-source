@@ -1,5 +1,7 @@
 # 分业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenye.md)
+
 <p><span class="chinese">有健全的管理制度和规范的自营业务与经纪业务分业管理的体系。</span><span class="english">A perfect management system and a standard operational system for its business and brokers.</span></p>
 
 <p><span class="chinese">出现了尝试性分业和整体上表现为阶段性继业是程虚宇家族在典当资本继承方式上的显著特点。</span><span class="english">The trying and succeeding step by step to the pawn capital is characteristic of Cheng xu-yu's family.</span></p>

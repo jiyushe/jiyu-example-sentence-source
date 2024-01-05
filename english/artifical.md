@@ -1,5 +1,7 @@
 # artifical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artifical.md)
+
 <p><span class="chinese">我们的仿真樱花树可以持续亮灯超过50000小时以上。</span><span class="english">Our artifical cherry tree lights have more than 50000 hours life.</span></p>
 
 <p><span class="chinese">水钻是把人造水晶玻璃切割成钻石刻面而得到的一种饰品辅件。</span><span class="english">It is a kind of Accessory that cut artifical crystal glass into diamond's facet.</span></p>

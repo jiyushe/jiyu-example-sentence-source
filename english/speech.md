@@ -1,5 +1,7 @@
 # speech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speech.md)
+
 <p><span class="chinese">这就是话语。</span><span class="english">This is speech.</span></p>
 
 <p><span class="chinese">背诵演讲稿。</span><span class="english">Memorize your speech.</span></p>

@@ -1,5 +1,7 @@
 # 油渍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzi_1.md)
+
 <p><span class="chinese">你看这一片都是油渍，我担心它洗不掉。</span><span class="english">Don't worry. We can have a way to wash it off.</span></p>
 
 <p><span class="chinese">她把她大衣上所有油渍都去掉了。</span><span class="english">She removed all the grease stains from her overcoat.</span></p>

@@ -1,5 +1,7 @@
 # phronesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phronesis.md)
+
 <p><span class="chinese">实践是形成实践智慧的前提条件。</span><span class="english">Practice is prior condition for create phronesis.</span></p>
 
 <p><span class="chinese">法律实践言说达成的真理是不同于自然科学性质的事后真理，它有其自身的限度。</span><span class="english">The law truth reached through phronesis saying is formed afterward, and has its own limits.</span></p>

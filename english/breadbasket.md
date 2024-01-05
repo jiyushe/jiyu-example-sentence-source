@@ -1,5 +1,7 @@
 # breadbasket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breadbasket.md)
+
 <p><span class="chinese">过去的半个世纪内，美国一直是世界的面包篮子。</span><span class="english">The United States has been the world’s breadbasket for more than half a century.</span></p>
 
 <p><span class="chinese">既然美国的面包篮子并没有变暖，美国种谷物的农民已经很幸运了。</span><span class="english">And since America's breadbasket has not warmed, American grain farmers have been fortunate.</span></p>

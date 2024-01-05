@@ -1,5 +1,7 @@
 # wicket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wicket.md)
+
 <p><span class="chinese">我走出检票口。</span><span class="english">I go out the ticket wicket.</span></p>
 
 <p><span class="chinese">他把球打进了自己的三柱门。</span><span class="english">He played the ball onto his wicket.</span></p>

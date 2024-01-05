@@ -1,5 +1,7 @@
 # 分离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenli_2.md)
+
 <p><span class="chinese">分离还是合好？</span><span class="english">Separate or united?</span></p>
 
 <p><span class="chinese">我们永不分离。</span><span class="english">And we'll never part.</span></p>

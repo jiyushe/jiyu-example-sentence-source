@@ -1,5 +1,7 @@
 # 分工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengong.md)
+
 <p><span class="chinese">市场的实质就是分工合作。</span><span class="english">The market is cooperation.</span></p>
 
 <p><span class="chinese">这三眼井啊是有分工的。</span><span class="english">The three wells have different functions.</span></p>

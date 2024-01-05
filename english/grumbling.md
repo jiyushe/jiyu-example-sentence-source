@@ -1,5 +1,7 @@
 # grumbling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grumbling.md)
+
 <p><span class="chinese">我们已经听厌了他的牢骚怪话。</span><span class="english">We are fed up with his grumbling.</span></p>
 
 <p><span class="chinese">这老太太总是嘀嘀咕咕。</span><span class="english">The old lady was forever grumbling.</span></p>

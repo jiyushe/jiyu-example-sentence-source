@@ -1,5 +1,7 @@
 # moustache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moustache.md)
+
 <p><span class="chinese">她拿他的八字胡开玩笑。</span><span class="english">She joked about his moustache.</span></p>
 
 <p><span class="chinese">他的嘴唇被小胡子遮盖住了。</span><span class="english">His lips are roofed by a moustache.</span></p>

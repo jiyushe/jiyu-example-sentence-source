@@ -1,5 +1,7 @@
 # whence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whence.md)
+
 <p><span class="chinese">谁也不知道她从何处来。</span><span class="english">No one knows whence she came.</span></p>
 
 <p><span class="chinese">他怎么会有这些财富？</span><span class="english">Whence has he all this wealth?</span></p>

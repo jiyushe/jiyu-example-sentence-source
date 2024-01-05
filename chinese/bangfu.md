@@ -1,5 +1,7 @@
 # 帮扶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangfu.md)
+
 <p><span class="chinese">性爱也是一种强有力的社会帮扶形式。</span><span class="english">Lovemaking is also a powerful form of social support.</span></p>
 
 <p><span class="chinese">中国于2004年开始帮扶筹建孔子学院。</span><span class="english">China began helping establish Confucius Institutes in 2004.</span></p>

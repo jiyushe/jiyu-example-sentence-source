@@ -1,5 +1,7 @@
 # 搪瓷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangci.md)
+
 <p><span class="chinese">“搪瓷”玻璃，呈棒状、条状和管状，未加工。</span><span class="english">"enamel"glass, in bars, rods and tubes, unworked.</span></p>
 
 <p><span class="chinese">对搪瓷钢板中的析出物进行了研究。</span><span class="english">The precipitates enamelled steel sheet were studied.</span></p>

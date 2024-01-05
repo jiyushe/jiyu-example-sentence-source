@@ -1,5 +1,7 @@
 # photocopier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photocopier.md)
+
 <p><span class="chinese">这是影印机。</span><span class="english">Here is the photocopier.</span></p>
 
 <p><span class="chinese">复印机在用吗？</span><span class="english">Is the photocopier working?</span></p>

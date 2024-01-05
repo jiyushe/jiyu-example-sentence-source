@@ -1,5 +1,7 @@
 # 卖力气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mailiqi.md)
+
 <p><span class="chinese">他固然身体不好，可是任务起来很卖力气。</span><span class="english">He worked hard, though still poor in health.</span></p>
 
 <p><span class="chinese">无论他在哪儿干活，他总是很卖力气。</span><span class="english">No mater where he works, he is always working hard.</span></p>

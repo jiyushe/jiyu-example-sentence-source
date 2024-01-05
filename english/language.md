@@ -1,5 +1,7 @@
 # language 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/language.md)
+
 <p><span class="chinese">语言和份数。</span><span class="english">Language and Copies.</span></p>
 
 <p><span class="chinese">学习一门新语言。</span><span class="english">Learn a new language.</span></p>

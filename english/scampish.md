@@ -1,5 +1,7 @@
 # scampish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scampish.md)
+
 <p><span class="chinese">网友把陈丽天称为“流氓教师”。</span><span class="english">The netizen calls Chen Li day " scampish teacher ".</span></p>
 
 <p><span class="chinese">首先我们要明白什么是流氓病毒，流氓软件。</span><span class="english">Above all we should understand what is scampish virus, scampish software.</span></p>

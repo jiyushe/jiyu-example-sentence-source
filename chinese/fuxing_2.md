@@ -1,5 +1,7 @@
 # 赋性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxing_2.md)
+
 <p><span class="chinese">我的赋性是什么样的？</span><span class="english">My character is what kind of?</span></p>
 
 <p><span class="chinese">那是人类的赋性。</span><span class="english">That is the nature of mankind.</span></p>

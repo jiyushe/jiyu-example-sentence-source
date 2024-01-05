@@ -1,5 +1,7 @@
 # arcanum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arcanum.md)
+
 <p><span class="chinese">空间的奥秘。</span><span class="english">The Arcanum of Space.</span></p>
 
 <p><span class="chinese">目前我正在研究奥秘中古老的异教信仰。</span><span class="english">Currently I am studying the older, pagan religions of Arcanum.</span></p>

@@ -1,5 +1,7 @@
 # muni
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muni.md)
+
 <p><span class="chinese">这就是牟尼沟的魅力所在了。</span><span class="english">This is the very charm of the Muni Valley.</span></p>
 
 <p><span class="chinese">我们先去欣赏一下牟尼沟的美景吧。</span><span class="english">Let's enjoy the beautiful Muni Valley first.</span></p>

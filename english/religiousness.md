@@ -1,5 +1,7 @@
 # religiousness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/religiousness.md)
+
 <p><span class="chinese">儒家之宗教性的本质是什么？</span><span class="english">What is the nature of Confucian religiousness?</span></p>
 
 <p><span class="chinese">在你看来，慈善是宗教性的一部分吗？</span><span class="english">In your vision, is charity a part of religiousness?</span></p>

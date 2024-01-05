@@ -1,5 +1,7 @@
 # fibular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibular.md)
+
 <p><span class="chinese">结论腓骨头与外踝较为相似。</span><span class="english">Conclusion Fibular head is similar to lateral malleolus.</span></p>
 
 <p><span class="chinese">恢复腓骨的长度对防止距骨移位与倾斜十分重要。</span><span class="english">Restoration of the fibular length was important to prevent talar shift and tilt.</span></p>

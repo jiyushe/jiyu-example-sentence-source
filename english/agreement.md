@@ -1,5 +1,7 @@
 # agreement 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agreement.md)
+
 <p><span class="chinese">我们达成协议了吗？</span><span class="english">Do we have an agreement?</span></p>
 
 <p><span class="chinese">每个人都同意了。</span><span class="english">Everyone is in agreement.</span></p>

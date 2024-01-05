@@ -1,5 +1,7 @@
 # infiltration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infiltration.md)
+
 <p><span class="chinese">对我们来说，渗透本身就是一个问题。</span><span class="english">For us the fact of infiltration itself is a problem.</span></p>
 
 <p><span class="chinese">浸润重的易合并出血。</span><span class="english">Severe infiltration often complicated with hemorrhage.</span></p>

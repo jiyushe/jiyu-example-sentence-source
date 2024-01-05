@@ -1,5 +1,7 @@
 # coptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coptic.md)
+
 <p><span class="chinese">现在波希利语是唯一幸存的科普特方言。</span><span class="english">Now Bohairic is the only surviving dialect of Coptic.</span></p>
 
 <p><span class="chinese">他生为阿拉伯人，而信仰科普特基督教，娶犹太人为妻。</span><span class="english">He is an Arab who is a Coptic Christian with a Jewish wife.</span></p>

@@ -1,5 +1,7 @@
 # daphnia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daphnia.md)
+
 <p><span class="chinese">叶青双对水蚤属低毒或近似无毒农药。</span><span class="english">The pesticide was low in toxicity or nearly non-toxic to Daphnia Magna.</span></p>
 
 <p><span class="chinese">研究了联苯胺对大型溞的急性毒性和慢性毒性。</span><span class="english">The acute and chronic toxicities of benzidine to Daphnia magna were studied.</span></p>

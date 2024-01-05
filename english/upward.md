@@ -1,5 +1,7 @@
 # upward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upward.md)
+
 <p><span class="chinese">向上达到天庭！</span><span class="english">Upward to heaven!</span></p>
 
 <p><span class="chinese">她的嘴唇翘起来。</span><span class="english">Her lips curled upward.</span></p>

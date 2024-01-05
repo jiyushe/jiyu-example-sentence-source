@@ -1,5 +1,7 @@
 # anticyclone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticyclone.md)
+
 <p><span class="chinese">在青岛石岛附近还存在一个中尺度的反气旋型涡旋。</span><span class="english">There is a mesoscale anticyclone addy near Qingdao and Shidao.</span></p>
 
 <p><span class="chinese">反气旋天气情况比气旋天气情况更有利些。</span><span class="english">The anticyclone weather situations are more favorable than the cyclonic ones.</span></p>

@@ -1,5 +1,7 @@
 # apocryphal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apocryphal.md)
+
 <p><span class="chinese">它被认为是新约次经。</span><span class="english">It's considered New Testament apocryphal writings.</span></p>
 
 <p><span class="chinese">虽然其中关于安德鲁·杰克逊的部分是不足凭信的。</span><span class="english">Although the part about Andrew Jackson is almost certainly apocryphal.</span></p>

@@ -1,5 +1,7 @@
 # 福分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fufen.md)
+
 <p><span class="chinese">福分是什么？</span><span class="english">What’s a blessing?</span></p>
 
 <p><span class="chinese">事实上，那是天大的福分。</span><span class="english">It is, in fact, great good fortune.</span></p>

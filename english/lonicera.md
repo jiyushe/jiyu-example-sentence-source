@@ -1,5 +1,7 @@
 # lonicera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lonicera.md)
+
 <p><span class="chinese">蓝靛果是忍冬科植物。</span><span class="english">Lonicera edulis is the plant of Caprifoliaceae.</span></p>
 
 <p><span class="chinese">兰靛果忍冬的果实解剖及其分类意义。</span><span class="english">Fruit anatomy of Lonicera edulis and its taxonomic significance.</span></p>

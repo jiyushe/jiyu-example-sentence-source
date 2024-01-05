@@ -1,5 +1,7 @@
 # 吭声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kengsheng.md)
+
 <p><span class="chinese">你为什么不吭声？</span><span class="english">Why do you keep silent?</span></p>
 
 <p><span class="chinese">很长时间她没吭声。</span><span class="english">For a long time I didn’t hear anything.</span></p>

@@ -1,5 +1,7 @@
 # 民愤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minfen.md)
+
 <p><span class="chinese">华尔街优先获得甲流疫苗激起民愤。</span><span class="english">Flu shots for Wall Street stirs ire in NY.</span></p>
 
 <p><span class="chinese">然而，在国内的洪灾受害者中，民愤一直在郁积。</span><span class="english">At home, however, rage has been building among flood victims.</span></p>

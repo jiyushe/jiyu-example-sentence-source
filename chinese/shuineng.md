@@ -1,5 +1,7 @@
 # 水能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuineng.md)
+
 <p><span class="chinese">水能使酒变淡。</span><span class="english">The water will dilute the wine.</span></p>
 
 <p><span class="chinese">泅水能帮我减肥吗？</span><span class="english">Can swimming help me lose weight?</span></p>

@@ -1,5 +1,7 @@
 # 师母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shimu.md)
+
 <p><span class="chinese">牧师与师母将前往参加。</span><span class="english">Pastor Pai and wife will be attending.</span></p>
 
 <p><span class="chinese">高师母仍在加州休养复原。</span><span class="english">Mrs. Ko is still recovering in California.</span></p>

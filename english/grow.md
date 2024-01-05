@@ -1,5 +1,7 @@
 # grow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grow.md)
+
 <p><span class="chinese">它能够增长。</span><span class="english">It can grow.</span></p>
 
 <p><span class="chinese">身强力壮。</span><span class="english">And grow strong.</span></p>

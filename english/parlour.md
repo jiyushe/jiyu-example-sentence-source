@@ -1,5 +1,7 @@
 # parlour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parlour.md)
+
 <p><span class="chinese">一列客厅车。</span><span class="english">A parlour car.</span></p>
 
 <p><span class="chinese">客厅与书房相连。</span><span class="english">The parlour connects with the study.</span></p>

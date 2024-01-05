@@ -1,5 +1,7 @@
 # horny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horny.md)
+
 <p><span class="chinese">也许他头上有角。</span><span class="english">Maybe he's horny.</span></p>
 
 <p><span class="chinese">其三是角线。</span><span class="english">It is horny line thirdly.</span></p>

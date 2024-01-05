@@ -1,5 +1,7 @@
 # default
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/default.md)
+
 <p><span class="chinese">默认情况下是'no'。</span><span class="english">Default is 'no'.</span></p>
 
 <p><span class="chinese">没有默认值。</span><span class="english">No default value.</span></p>

@@ -1,5 +1,7 @@
 # cyrillic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyrillic.md)
+
 <p><span class="chinese">西里尔图形字符集。</span><span class="english">The Cyrillic graphic character set.</span></p>
 
 <p><span class="chinese">服务器在接受斯拉夫语字母的输入时有困难。</span><span class="english">The server is having trouble with Cyrillic input.</span></p>

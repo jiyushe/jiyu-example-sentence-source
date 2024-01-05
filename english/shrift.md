@@ -1,5 +1,7 @@
 # shrift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrift.md)
+
 <p><span class="chinese">在我们家生闷气是没有人搭理的。</span><span class="english">A fit of sullens got short shrift in our house.</span></p>
 
 <p><span class="chinese">寻求庇护者也受到了冷遇。</span><span class="english">Those who seek asylum also receive short shrift.</span></p>

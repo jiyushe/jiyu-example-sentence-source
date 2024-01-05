@@ -1,5 +1,7 @@
 # resold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resold.md)
+
 <p><span class="chinese">撞坏的自行车草草地修了一下就卖掉了。</span><span class="english">The wrecked bicycle was patched up and resold.</span></p>
 
 <p><span class="chinese">光盘卖的贵是毋庸置疑的，因为它可以当作中古货被再次出售。</span><span class="english">The disc is undeniably more valuable, since it can be resold.</span></p>

@@ -1,5 +1,7 @@
 # impatiens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impatiens.md)
+
 <p><span class="chinese">一些最受欢迎的花有菊花，凤仙花和喇叭花。</span><span class="english">Some of the most popular bedding flowers are chrysanthemums, impatiens and petunias.</span></p>
 
 <p><span class="chinese">到目前为止，花盆里的秋海棠、凤仙花和伽蓝菜看起来还是完好无缺的。</span><span class="english">Thus far, the begonias and impatiens and kalanchoes in the planters all looked to be intact.</span></p>

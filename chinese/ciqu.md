@@ -1,5 +1,7 @@
 # 词曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciqu.md)
+
 <p><span class="chinese">一首词曲，唱了一遍又一遍。</span><span class="english">A song, sing it again and again.</span></p>
 
 <p><span class="chinese">甘肃陇南和陇东的劳动号子，词曲佳妙，风格独特。</span><span class="english">Southern Gansu, and eastern Gansu labor chant and songs Jia Miao, unique style.</span></p>

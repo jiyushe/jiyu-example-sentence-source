@@ -1,5 +1,7 @@
 # 粗大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuda.md)
+
 <p><span class="chinese">他们使用了粗大、厚实的棍子。</span><span class="english">Big, thick sticks were being used.</span></p>
 
 <p><span class="chinese">他那肥胖的手指向蠕虫一样粗大</span><span class="english">Hisgreasy fingers are thick as worms</span></p>

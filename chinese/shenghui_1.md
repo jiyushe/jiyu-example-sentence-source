@@ -1,5 +1,7 @@
 # 盛会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenghui_1.md)
+
 <p><span class="chinese">今晚是一个欢庆的盛会。</span><span class="english">This is a time to celebrate.</span></p>
 
 <p><span class="chinese">闭幕式也是一个大的盛会。</span><span class="english">The closing ceremony is one big party.</span></p>

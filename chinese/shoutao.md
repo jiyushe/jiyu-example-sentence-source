@@ -1,5 +1,7 @@
 # 寿桃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoutao.md)
+
 <p><span class="chinese">寿桃造型准确。</span><span class="english">Peach is accurate shape.</span></p>
 
 <p><span class="chinese">色彩艳丽、栩栩如生的面塑寿桃。</span><span class="english">Colorful and vivid dough moulded peaches.</span></p>

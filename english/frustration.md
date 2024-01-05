@@ -1,5 +1,7 @@
 # frustration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frustration.md)
+
 <p><span class="chinese">发泄你的失意。</span><span class="english">Vent your frustration.</span></p>
 
 <p><span class="chinese">我理解这种挫折感。</span><span class="english">I understand their frustration.</span></p>

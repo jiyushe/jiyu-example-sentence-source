@@ -1,5 +1,7 @@
 # 真人真事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenrenzhenshi.md)
+
 <p><span class="chinese">很多都是真人真事。</span><span class="english">They have so much variety.</span></p>
 
 <p><span class="chinese">不仅仅是真事，而是我的真人真事。</span><span class="english">Not the truth, but my truth.</span></p>

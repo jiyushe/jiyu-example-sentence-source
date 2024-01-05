@@ -1,5 +1,7 @@
 # scourge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scourge.md)
+
 <p><span class="chinese">会陷你于更难堪的痛苦。</span><span class="english">Would scourge thee to severer pangs.</span></p>
 
 <p><span class="chinese">天花曾是世界的大患。</span><span class="english">Smallpox was once the scourge of the world.</span></p>

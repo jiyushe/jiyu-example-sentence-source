@@ -1,5 +1,7 @@
 # diallel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diallel.md)
+
 <p><span class="chinese">双列杂交法分析抗性遗传规律。</span><span class="english">Hereditary features by diallel cross analysis.</span></p>
 
 <p><span class="chinese">本文提出了分析双列杂交试验资料的两个遗传模型。</span><span class="english">Two genetic models are proposed for analyzing experimental data from diallel crosses.</span></p>

@@ -1,5 +1,7 @@
 # equilateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equilateral.md)
+
 <p><span class="chinese">它的轮廓大致形成一个等边三角形。</span><span class="english">Its outline roughly forms an equilateral triangle.</span></p>
 
 <p><span class="chinese">哪个是等边三角形？</span><span class="english">Which of the following is an equilateral triangle?</span></p>

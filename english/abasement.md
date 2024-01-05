@@ -1,5 +1,7 @@
 # abasement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abasement.md)
+
 <p><span class="chinese">他的自卑是他升高的凭据。</span><span class="english">His abasement was the pledge of His exaltation.</span></p>
 
 <p><span class="chinese">他谦卑、恭顺，满怀自我贬斥与压抑。</span><span class="english">He was humble and meek, filled with self- disparagement and abasement.</span></p>

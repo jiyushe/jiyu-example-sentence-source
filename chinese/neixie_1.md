@@ -1,5 +1,7 @@
 # 那些
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neixie_1.md)
+
 <p><span class="chinese">那些男人。</span><span class="english">Those men.</span></p>
 
 <p><span class="chinese">那些银器呢？</span><span class="english">And the silver?</span></p>

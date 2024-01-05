@@ -1,5 +1,7 @@
 # steroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steroid.md)
+
 <p><span class="chinese">梦。以依稀甾改変。</span><span class="english">Dream. To vaguely steroid to alter.</span></p>
 
 <p><span class="chinese">长期使用类固醇类药物。</span><span class="english">Long-term use of steroid medicines.</span></p>

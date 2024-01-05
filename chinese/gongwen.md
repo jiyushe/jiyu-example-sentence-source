@@ -1,5 +1,7 @@
 # 公文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongwen.md)
+
 <p><span class="chinese">这公文的措词不当。</span><span class="english">The official document was misworded.</span></p>
 
 <p><span class="chinese">这儿所有的旧公文都值钱吗？</span><span class="english">Are all these old documents worth money?</span></p>

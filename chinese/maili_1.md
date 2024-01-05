@@ -1,5 +1,7 @@
 # 麦粒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maili_1.md)
+
 <p><span class="chinese">我给你大麦粒。</span><span class="english">I'll give you bread.</span></p>
 
 <p><span class="chinese">大麦粒在水中吸涨。</span><span class="english">Barley grains imbibe water.</span></p>

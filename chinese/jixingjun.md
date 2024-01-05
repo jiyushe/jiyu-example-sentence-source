@@ -1,5 +1,7 @@
 # 急行军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixingjun.md)
+
 <p><span class="chinese">士兵们在一片漆黑中急行军40英里。</span><span class="english">In inky darkness the men made a forced march of 40 miles.</span></p>
 
 <p><span class="chinese">他加快步伐，生怕在急行军中掉队。</span><span class="english">He hurried on, lest he should drop out in the forced match.</span></p>

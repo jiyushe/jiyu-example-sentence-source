@@ -1,5 +1,7 @@
 # 圆柱体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhuti.md)
+
 <p><span class="chinese">长方体、正方体、圆柱体。</span><span class="english">Cuboid, cube and cylinder.</span></p>
 
 <p><span class="chinese">所述的凸台由圆柱体和圆锥体两部分组成。</span><span class="english">The convex plate consists of a cylinder and a cone.</span></p>

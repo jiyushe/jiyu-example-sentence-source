@@ -1,5 +1,7 @@
 # 当即
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangji.md)
+
 <p><span class="chinese">那项建议当即遭到拒绝。</span><span class="english">The proposal was summarily dismissed.</span></p>
 
 <p><span class="chinese">明当即昏迷，被送往医院。</span><span class="english">Ming is concussed and goes to hospital.</span></p>

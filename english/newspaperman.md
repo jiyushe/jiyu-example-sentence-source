@@ -1,5 +1,7 @@
 # newspaperman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newspaperman.md)
+
 <p><span class="chinese">又有一位记者想要我现在的住址。</span><span class="english">A newspaperman wants my present address.</span></p>
 
 <p><span class="chinese">这是我作为一名报人感到骄傲的时刻。</span><span class="english">It was one time I was proud to be a newspaperman.</span></p>

@@ -1,5 +1,7 @@
 # benares
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benares.md)
+
 <p><span class="chinese">说完，他起程回了贝拿勒斯。</span><span class="english">So saying, he departed for Benares.</span></p>
 
 <p><span class="chinese">但是，你可以住在贝拿勒斯，那是属于湿婆的所在地。</span><span class="english">But you may live in Benares , which belongs to iva.</span></p>

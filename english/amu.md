@@ -1,5 +1,7 @@
 # amu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amu.md)
+
 <p><span class="chinese">阿木常常这么说。</span><span class="english">Amu often say.</span></p>
 
 <p><span class="chinese">每个夜晚阿木仅仅静静地听。</span><span class="english">Each night Amu just listen quietly.</span></p>

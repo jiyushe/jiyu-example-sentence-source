@@ -1,5 +1,7 @@
 # 养病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangbing.md)
+
 <p><span class="chinese">医生让我停止工作养病。</span><span class="english">The doctor told me to sign off.</span></p>
 
 <p><span class="chinese">好了你先安心的养病。</span><span class="english">Well you at ease and recuperate.</span></p>

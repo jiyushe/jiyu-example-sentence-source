@@ -1,5 +1,7 @@
 # aborning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aborning.md)
+
 <p><span class="chinese">我们自己的革命战争几乎因为缺乏广泛的支持而胎死腹中。</span><span class="english">Our own revolutionary war almost died aborning through lack of popular support- William '.</span></p>
 
 <p><span class="chinese">科学技术的高度发展，提高了人力资源在生产中的地位。</span><span class="english">The height of science and technology develops, improved the position of manpower resource aborning.</span></p>

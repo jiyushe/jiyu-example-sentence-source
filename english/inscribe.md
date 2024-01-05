@@ -1,5 +1,7 @@
 # inscribe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inscribe.md)
+
 <p><span class="chinese">下面是落款和日期。</span><span class="english">Below are inscribe and date.</span></p>
 
 <p><span class="chinese">他的名字刻在纪念碑上。</span><span class="english">His name is inscribe on the monument.</span></p>

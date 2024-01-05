@@ -1,5 +1,7 @@
 # amerindian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amerindian.md)
+
 <p><span class="chinese">印第安人的大鸟成了老鹰。</span><span class="english">The big bird of the Amerindian being the eagle.</span></p>
 
 <p><span class="chinese">收藏加拿大艺术、当代艺术、印第安人艺术和装饰艺术。</span><span class="english">Canadian art, contemporary art, Amerindian art, and decorative arts.</span></p>

@@ -1,5 +1,7 @@
 # enzymic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enzymic.md)
+
 <p><span class="chinese">利用酶学实验研究其特性。</span><span class="english">Its characteristics were studied by enzymic methods.</span></p>
 
 <p><span class="chinese">引起板栗褐变的原因包括酶促褐变和非酶褐变。</span><span class="english">Chestnuts browning includes enzymic and non-enzymic brownings.</span></p>

@@ -1,5 +1,7 @@
 # strap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strap.md)
+
 <p><span class="chinese">单肩带。</span><span class="english">Single shoulder strap.</span></p>
 
 <p><span class="chinese">单交体带。</span><span class="english">Single cross body strap.</span></p>

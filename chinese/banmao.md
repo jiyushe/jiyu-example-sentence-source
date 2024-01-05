@@ -1,5 +1,7 @@
 # 斑蝥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banmao.md)
+
 <p><span class="chinese">斑蝥是一种生活在地上的芫菁甲虫，原产自欧洲。</span><span class="english">Spanish Fly is ground-up blister beetle, indigenous to Europe.</span></p>
 
 <p><span class="chinese">该甲虫体内含有一种腐蚀性的酸性液体，名为斑蝥素。</span><span class="english">The beetle contains a caustic acid-like juice called cantharidin.</span></p>

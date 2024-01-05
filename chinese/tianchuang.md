@@ -1,5 +1,7 @@
 # 天窗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianchuang.md)
+
 <p><span class="chinese">是时候打开天窗说亮话了。</span><span class="english">It's time to talk turkey.</span></p>
 
 <p><span class="chinese">天窗又能起什么作用呢？</span><span class="english">And what role does a sunroof play?</span></p>

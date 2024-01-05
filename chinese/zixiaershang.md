@@ -1,5 +1,7 @@
 # 自下而上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixiaershang.md)
+
 <p><span class="chinese">所以敏捷方法是非常自下而上、程序员驱动的。</span><span class="english">So it is very much bottom-up, programmer driven.</span></p>
 
 <p><span class="chinese">我们展示的是自下而上的创新力。</span><span class="english">We showed that innovation can come up from the bottom.</span></p>

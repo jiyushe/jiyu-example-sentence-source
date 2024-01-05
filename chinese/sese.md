@@ -1,5 +1,7 @@
 # 瑟瑟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sese.md)
+
 <p><span class="chinese">也不会让人冷得瑟瑟发抖。</span><span class="english">And it's not too cold.</span></p>
 
 <p><span class="chinese">纸受压时瑟瑟做响。</span><span class="english">Paper crinkles when it is crushed.</span></p>

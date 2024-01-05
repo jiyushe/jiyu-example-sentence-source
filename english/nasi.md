@@ -1,5 +1,7 @@
 # nasi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nasi.md)
+
 <p><span class="chinese">椰浆饭是马来人最普遍的食品，虽然在每个新加坡的大排档都可以找得到，但只有马来人做的才是最好味、最正宗的。</span><span class="english">Nasi Lemak is a popular Malay dish made of rice cooked in coconut milk.</span></p>
 
 <p><span class="chinese">如果纳希没能迅速回到办公室，马多夫就会开始给他发传呼。</span><span class="english">If Nasi didn't get back to the office in short order, Madoff would start paging him.</span></p>

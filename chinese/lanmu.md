@@ -1,5 +1,7 @@
 # 栏目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanmu.md)
+
 <p><span class="chinese">但是现在，这只是履历表中的一个栏目。</span><span class="english">Now it’s just a résumé item.</span></p>
 
 <p><span class="chinese">我将会在未来的栏目里解释其原因。</span><span class="english">I’ll explain why in a future column.</span></p>

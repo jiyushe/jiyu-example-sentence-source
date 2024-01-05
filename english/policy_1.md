@@ -1,5 +1,7 @@
 # policy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/policy_1.md)
+
 <p><span class="chinese">这就是我的政策。</span><span class="english">That is our policy.</span></p>
 
 <p><span class="chinese">门户开放政策。</span><span class="english">The open-door policy.</span></p>

@@ -1,5 +1,7 @@
 # 门齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menchi.md)
+
 <p><span class="chinese">门牙，门齿，切牙。</span><span class="english">Incisor. He used his teeth.</span></p>
 
 <p><span class="chinese">啮齿目动物是长着大门齿的小哺乳动物。</span><span class="english">Rodents are small mammals with large front teeth.</span></p>

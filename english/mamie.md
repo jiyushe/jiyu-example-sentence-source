@@ -1,5 +1,7 @@
 # mamie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mamie.md)
+
 <p><span class="chinese">他们的女儿玛米古梅尔也是一个演员。</span><span class="english">Their daughter Mamie Gummer is also an actress.</span></p>
 
 <p><span class="chinese">玛米在公园看见他时装作不认识他。</span><span class="english">Mamie cut him dead when she saw him in the park.</span></p>

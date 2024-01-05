@@ -1,5 +1,7 @@
 # prissy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prissy.md)
+
 <p><span class="chinese">普丽赛，普丽赛，来把那只母牛绑起来！</span><span class="english">Prissy , Prissy , come tie up this cow!</span></p>
 
 <p><span class="chinese">买了她和她的小女儿百里茜。</span><span class="english">Bought her and her little wench, Prissy.</span></p>

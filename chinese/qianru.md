@@ -1,5 +1,7 @@
 # 潜入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianru.md)
+
 <p><span class="chinese">然后，他又潜入了水下。</span><span class="english">Then he submerged again.</span></p>
 
 <p><span class="chinese">他一个猛子潜入水底。</span><span class="english">He ducked and dived into the water.</span></p>

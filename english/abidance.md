@@ -1,5 +1,7 @@
 # abidance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abidance.md)
+
 <p><span class="chinese">我们在服侍耶和华时就得相信神与我们同在。</span><span class="english">Trust in the abidance of the Lord when we are serving Him.</span></p>
 
 <p><span class="chinese">安徽经济已经有了三年的持续高速增长。</span><span class="english">Anhui economy had had abidance of 3 years high speed grows.</span></p>

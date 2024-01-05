@@ -1,5 +1,7 @@
 # 潺潺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanchan.md)
+
 <p><span class="chinese">泉水潺潺地流下山峡。</span><span class="english">A spring rills down by the gorge.</span></p>
 
 <p><span class="chinese">溪水似银铃般潺潺流动。</span><span class="english">The brook tinkled like silver bells.</span></p>

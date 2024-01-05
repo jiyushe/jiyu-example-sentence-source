@@ -1,5 +1,7 @@
 # unpolished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpolished.md)
+
 <p><span class="chinese">那位摄影师看出她有一种未经修饰的美。</span><span class="english">The photographer saw in her an unpolished beauty.</span></p>
 
 <p><span class="chinese">尚未被造就的东西就无法好好地供人使用，人也是一样。</span><span class="english">An unpolished instrument is not usable. That's the same with men.</span></p>

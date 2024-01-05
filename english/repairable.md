@@ -1,5 +1,7 @@
 # repairable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repairable.md)
+
 <p><span class="chinese">可维修的2件式阀杆驱动。</span><span class="english">Repairable 2-piece stem drive.</span></p>
 
 <p><span class="chinese">文末给出了检验可修系统的一个实例。</span><span class="english">Finally, the example of repairable system is given.</span></p>

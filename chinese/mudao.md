@@ -1,5 +1,7 @@
 # 墓道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mudao.md)
+
 <p><span class="chinese">墓葬东壁还有一条斜坡墓道。</span><span class="english">There is an inclined passage in the east of tomb.</span></p>
 
 <p><span class="chinese">很多学者都认为，在先秦的多墓道墓葬中，墓道越多的墓葬规格也越高。</span><span class="english">Most scholars think that, the more tomb passages, the higher grade of the tombs.</span></p>

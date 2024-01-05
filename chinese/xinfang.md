@@ -1,5 +1,7 @@
 # 信访
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfang.md)
+
 <p><span class="chinese">做好信访工作，加强舆论监督和社会监督。</span><span class="english">Statistical work shall be subject to public supervision.</span></p>
 
 <p><span class="chinese">第八条信访人对下列信访事项，可以向有关行政机关提出</span><span class="english">Article 8 The following matters may be inquried by a complainant</span></p>

@@ -1,5 +1,7 @@
 # fukushima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fukushima.md)
+
 <p><span class="chinese">福岛核事故终结了核能复兴时代？</span><span class="english">Fukushima Killed the Nuclear Renaissance.</span></p>
 
 <p><span class="chinese">韩国与福岛并不在同一片海域。</span><span class="english">South Korea does not share a sea with Fukushima.</span></p>

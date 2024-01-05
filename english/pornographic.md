@@ -1,5 +1,7 @@
 # pornographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pornographic.md)
+
 <p><span class="chinese">不能听任黄色书刊充斥市场。</span><span class="english">We cannot allow pornographic books to flood the market.</span></p>
 
 <p><span class="chinese">我们应该禁止出售淫秽文学。</span><span class="english">We should prohibit the sale of pornographic literature.</span></p>

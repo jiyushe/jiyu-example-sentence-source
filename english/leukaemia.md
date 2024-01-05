@@ -1,5 +1,7 @@
 # leukaemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leukaemia.md)
+
 <p><span class="chinese">白血病和非甲状腺实体癌</span><span class="english">Leukaemia and non-thyroid solid cancer</span></p>
 
 <p><span class="chinese">牙龈经常出血，可能是白血病吗？？？</span><span class="english">Gum often bleeds, may be leukaemia? ? ?</span></p>

@@ -1,5 +1,7 @@
 # 落英缤纷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoyingbinfen.md)
+
 <p><span class="chinese">爱情在走向终结时，倒带回去，一路上或花草鲜美，或落英缤纷，而最初总是倾心的。</span><span class="english">When every love comes to the end if u look back u will find flowers and sorrows but it's always beautiful.</span></p>
 
 <p><span class="chinese">每段恋情在走向终结时，倒带回去，一路上或花草鲜美，或落英缤纷，而最初总是倾心的。</span><span class="english">When every love comes to the end, if u look back, u will find flowers and sorrows, but it's always beautiful.</span></p>

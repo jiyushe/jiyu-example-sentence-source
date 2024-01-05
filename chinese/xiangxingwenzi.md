@@ -1,5 +1,7 @@
 # 象形文字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxingwenzi.md)
+
 <p><span class="chinese">哦，那些是象形文字。</span><span class="english">Oh, those are hieroglyphs.</span></p>
 
 <p><span class="chinese">象形文字是一种古老的文字。</span><span class="english">Pictograph is an old writing.</span></p>

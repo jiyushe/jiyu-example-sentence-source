@@ -1,5 +1,7 @@
 # 耳听八方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ertingbafang.md)
+
 <p><span class="chinese">让自己眼观六路，耳听八方，并且思维开放。</span><span class="english">Keep your eyes, ears and mind wide open.</span></p>
 
 <p><span class="chinese">侦探就得眼观六路耳听八方。</span><span class="english">A detective must be all eyes and all ears.</span></p>

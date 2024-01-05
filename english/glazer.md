@@ -1,5 +1,7 @@
 # glazer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glazer.md)
+
 <p><span class="chinese">为什么你们会觉得格雷泽对曼联投了资呢？</span><span class="english">Why do you think Glazer has invested money in United?</span></p>
 
 <p><span class="chinese">祖纳芬基里沙拥有独特的视觉型格，他并不急于在短时间内表达一切。</span><span class="english">Jonathan Glazer has a distinctive visual style, and he is in no hurry.</span></p>

@@ -1,5 +1,7 @@
 # pharmaceutic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharmaceutic.md)
+
 <p><span class="chinese">一个小制药公司在那些观察力敏锐的朝圣者当中进行了一个试验性的计划。</span><span class="english">A petty pharmaceutic firm conducted a pilot scheme among pilgrims with piercing eyes.</span></p>
 
 <p><span class="chinese">黄瓜叶中含有丰富的黄酮类化合物。</span><span class="english">This data provided useful pharmaceutic in formation of flavonoids from leaves of cucumber.</span></p>

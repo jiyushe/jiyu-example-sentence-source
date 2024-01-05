@@ -1,5 +1,7 @@
 # 风景画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengjinghua.md)
+
 <p><span class="chinese">一幅数字绘制的风景画</span><span class="english">A digital painting of the landscape.</span></p>
 
 <p><span class="chinese">这个男孩子在纸上画了一张风景画。</span><span class="english">The boy painted a landscape on paper.</span></p>

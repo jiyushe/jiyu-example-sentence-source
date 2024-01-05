@@ -1,5 +1,7 @@
 # 露地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loudi.md)
+
 <p><span class="chinese">适宜在春秋露地及保护地栽培。</span><span class="english">In autumn production and site cultivation.</span></p>
 
 <p><span class="chinese">适宜华北地区春露地栽培。</span><span class="english">It is suitable for spring open cultivation in north China.</span></p>

@@ -1,5 +1,7 @@
 # 习尚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishang.md)
+
 <p><span class="chinese">太原市气侯类型属暖温带年夜陆性季习尚侯。</span><span class="english">Taiyuan is a warm temperate climate type continental monsoon climate.</span></p>
 
 <p><span class="chinese">过年燃焰火、放鞭炮已经成为当地的习尚。</span><span class="english">It is customary to set off firecrackers and fireworks during the Spring Festival.</span></p>

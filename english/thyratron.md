@@ -1,5 +1,7 @@
 # thyratron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thyratron.md)
+
 <p><span class="chinese">晶闸管一词源于其气体管等价物——闸流管。</span><span class="english">The term "thyristor" came from its gas tube equivalent, thyratron.</span></p>
 
 <p><span class="chinese">触发器用来产生激励脉冲，供闸流管点火。</span><span class="english">The trigger is used for generating excitation pulse for the thyratron to ignite.</span></p>

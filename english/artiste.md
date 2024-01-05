@@ -1,5 +1,7 @@
 # artiste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artiste.md)
+
 <p><span class="chinese">立威廉是个好心的艺人。</span><span class="english">Leon Williams is a kind artiste.</span></p>
 
 <p><span class="chinese">我要如何联络你艺人的资料？</span><span class="english">How can i update you with Artiste data?</span></p>

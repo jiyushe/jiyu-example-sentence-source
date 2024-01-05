@@ -1,5 +1,7 @@
 # largess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/largess.md)
+
 <p><span class="chinese">慷慨的赏赐，却不予转交？</span><span class="english">The bounteous largess given thee to give?</span></p>
 
 <p><span class="chinese">那交给你转交给别人的厚礼？</span><span class="english">The bounteous largess given thee to give?</span></p>

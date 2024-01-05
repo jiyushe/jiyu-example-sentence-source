@@ -1,5 +1,7 @@
 # rupee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rupee.md)
+
 <p><span class="chinese">它将把卢比和其他货币区别开来。</span><span class="english">It will distinguish the rupee from other currencies.</span></p>
 
 <p><span class="chinese">它的名称来源于印度货币单位卢比。</span><span class="english">The name derives from the Indian monetary unit rupee.</span></p>

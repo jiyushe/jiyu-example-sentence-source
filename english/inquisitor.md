@@ -1,5 +1,7 @@
 # inquisitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inquisitor.md)
+
 <p><span class="chinese">不要做个询问者。</span><span class="english">Don't be an inquisitor.</span></p>
 
 <p><span class="chinese">你一定不愿意跟“检察官”谈吧。</span><span class="english">You're gonna love talking to the inquisitor.</span></p>

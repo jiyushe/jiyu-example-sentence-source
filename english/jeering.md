@@ -1,5 +1,7 @@
 # jeering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeering.md)
+
 <p><span class="chinese">她用一桶水教训那些嘲弄的少年们。</span><span class="english">She dosed the jeering lads with a bucket of water.</span></p>
 
 <p><span class="chinese">她胆战心惊地被人抬着，穿过愤怒和嘲笑的人群。</span><span class="english">She flinched as she was carried through an angry, jeering crowd.</span></p>

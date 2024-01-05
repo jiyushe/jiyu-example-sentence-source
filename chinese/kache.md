@@ -1,5 +1,7 @@
 # 卡车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kache.md)
+
 <p><span class="chinese">一辆卡车急驶而过。</span><span class="english">A truck dashed by.</span></p>
 
 <p><span class="chinese">这辆卡车拉力大。</span><span class="english">The truck pulls well.</span></p>

@@ -1,5 +1,7 @@
 # mercifully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercifully.md)
+
 <p><span class="chinese">我愿是您明月，疼爱地终止您苦闷的一天。</span><span class="english">And let me be Your moon, To mercifully end Your anguished day.</span></p>
 
 <p><span class="chinese">1978粗劣的最初版播出第一季之后就被砍了。</span><span class="english">The corny 1978 original mercifully died after a single season.</span></p>

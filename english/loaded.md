@@ -1,5 +1,7 @@
 # loaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loaded.md)
+
 <p><span class="chinese">我是含着金汤匙出生的。</span><span class="english">I was born loaded.</span></p>
 
 <p><span class="chinese">阵列开始形成。</span><span class="english">And word array is loaded.</span></p>

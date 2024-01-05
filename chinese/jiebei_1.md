@@ -1,5 +1,7 @@
 # 界碑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiebei_1.md)
+
 <p><span class="chinese">界碑只是一种标识。</span><span class="english">A boundary marker is only a symbol.</span></p>
 
 <p><span class="chinese">你以为界碑就是边界啊？</span><span class="english">You thought the boundary marker means to be the boundary?</span></p>

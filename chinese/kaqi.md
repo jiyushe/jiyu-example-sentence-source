@@ -1,5 +1,7 @@
 # 卡其
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaqi.md)
+
 <p><span class="chinese">他们都穿着合身的T恤和牛仔裤或者卡其衫。</span><span class="english">They all wore taut T-shirts and jeans or khakis.</span></p>
 
 <p><span class="chinese">就便装而言，克林顿喜欢穿牛仔裤和卡其服装。</span><span class="english">In his casual wear, Clinton favors jeans and khakis.</span></p>

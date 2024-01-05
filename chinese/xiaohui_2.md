@@ -1,5 +1,7 @@
 # 销毁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohui_2.md)
+
 <p><span class="chinese">帮助他销毁一个魂器？</span><span class="english">Help him destroy a Horcrux?</span></p>
 
 <p><span class="chinese">然而，这些蚕豆还是会被销毁。</span><span class="english">The beans will be destroyed.</span></p>

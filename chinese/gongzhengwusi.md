@@ -1,5 +1,7 @@
 # 公正无私
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhengwusi.md)
+
 <p><span class="chinese">每个人都应该公正无私，正大光明。</span><span class="english">Everybody should be fair and square.</span></p>
 
 <p><span class="chinese">这名法官执法公正无私。</span><span class="english">The judge dispenses the law without bias.</span></p>

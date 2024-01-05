@@ -1,5 +1,7 @@
 # handwritten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handwritten.md)
+
 <p><span class="chinese">信是英文手写的。</span><span class="english">The letter is handwritten in English.</span></p>
 
 <p><span class="chinese">确定这是打印的文件还是手写的？</span><span class="english">Is it the type document or handwritten?</span></p>

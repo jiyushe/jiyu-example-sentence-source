@@ -1,5 +1,7 @@
 # 赈济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenji_3.md)
+
 <p><span class="chinese">大卫·贝克曼1991年就任“赈济饥民会”的总裁。</span><span class="english">David Beckmann became president of Bread for the World in 1991.</span></p>
 
 <p><span class="chinese">一些有能力也愿意工作的人被迫接受赈济品。</span><span class="english">Some people able and willing to work were forced to accept doles.</span></p>

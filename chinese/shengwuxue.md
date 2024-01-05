@@ -1,5 +1,7 @@
 # 生物学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengwuxue.md)
+
 <p><span class="chinese">对我来说，我想学生物学，</span><span class="english">For me, I want to do Biology,</span></p>
 
 <p><span class="chinese">当你学生物学的时候，</span><span class="english">where you're studying Biology,</span></p>

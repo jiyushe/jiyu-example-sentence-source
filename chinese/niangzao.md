@@ -1,5 +1,7 @@
 # 酿造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangzao.md)
+
 <p><span class="chinese">这是自家酿造的啤酒。</span><span class="english">This is home-brewed beer.</span></p>
 
 <p><span class="chinese">这葡萄酒酿造于一九○九年。</span><span class="english">The wine is of 1909 vintage.</span></p>

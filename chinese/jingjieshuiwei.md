@@ -1,5 +1,7 @@
 # 警戒水位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjieshuiwei.md)
+
 <p><span class="chinese">亚洲稻米储量达到了警戒水位。</span><span class="english">Asian rice stocks are near danger level.</span></p>
 
 <p><span class="chinese">湘江长沙段超警戒水位。</span><span class="english">C China's Xiangjiang River passes alert level.</span></p>

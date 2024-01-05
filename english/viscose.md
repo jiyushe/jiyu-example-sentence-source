@@ -1,5 +1,7 @@
 # viscose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscose.md)
+
 <p><span class="chinese">粘胶在酸浴中成形为粘胶人造丝。</span><span class="english">The viscose in acid bath coagulate to viscose rayon.</span></p>
 
 <p><span class="chinese">允许是镶嵌天然纤维和粘胶只。</span><span class="english">Allowed are inlays of natural fibres and viscose only.</span></p>

@@ -1,5 +1,7 @@
 # 行李车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingliche.md)
+
 <p><span class="chinese">您需要行李车吗?。</span><span class="english">Do you need a trolley?</span></p>
 
 <p><span class="chinese">我能用这辆行李车吗？</span><span class="english">Can I use the baggage cart?</span></p>

@@ -1,5 +1,7 @@
 # geocentric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geocentric.md)
+
 <p><span class="chinese">一个以地球为中心的轨道是什么?。</span><span class="english">Q. What is a geocentric orbit?</span></p>
 
 <p><span class="chinese">说明地心不垂直与地球表面。</span><span class="english">Geocentric not with the vertical surface of the Earth.</span></p>

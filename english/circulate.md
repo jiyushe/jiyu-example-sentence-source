@@ -1,5 +1,7 @@
 # circulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circulate.md)
+
 <p><span class="chinese">新思想迅速流传。</span><span class="english">New ideas circulate quickly.</span></p>
 
 <p><span class="chinese">H3N2病毒如今仍在迴圈流行。</span><span class="english">H3N2 viruses still circulate today.</span></p>

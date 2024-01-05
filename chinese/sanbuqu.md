@@ -1,5 +1,7 @@
 # 三部曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanbuqu.md)
+
 <p><span class="chinese">教父三部曲。</span><span class="english">The Godfather Trilogy 720p.</span></p>
 
 <p><span class="chinese">观看完魔戒三部曲的时间。</span><span class="english">The Lord of the Rings trilogy.</span></p>

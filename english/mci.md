@@ -1,5 +1,7 @@
 # mci
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mci.md)
+
 <p><span class="chinese">为美城工作是我在阳朔的一笔巨大财富收获。</span><span class="english">MCI School is a big part of our great fortune to be in Yangshuo.</span></p>
 
 <p><span class="chinese">大概一半MCI患者会发展成阿尔采末氏病。</span><span class="english">About half of the people with MCI progress to Alzheimer's disease.</span></p>

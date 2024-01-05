@@ -1,5 +1,7 @@
 # scrawny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrawny.md)
+
 <p><span class="chinese">完美的男人骨瘦如柴。</span><span class="english">Perfect men are scrawny.</span></p>
 
 <p><span class="chinese">仅有白雪、碧水、岩石与贫瘠的土壤相伴。</span><span class="english">just snow, water, rock and scrawny soil.</span></p>

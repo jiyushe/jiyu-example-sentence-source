@@ -1,5 +1,7 @@
 # 稀缺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xique_1.md)
+
 <p><span class="chinese">煤正在成为一种稀缺商品。</span><span class="english">Coal is becoming a rare.</span></p>
 
 <p><span class="chinese">这是一个资源稀缺的世界。</span><span class="english">This is the world of scarcity.</span></p>

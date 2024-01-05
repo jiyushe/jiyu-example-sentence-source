@@ -1,5 +1,7 @@
 # ottawa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ottawa.md)
+
 <p><span class="chinese">下次什么时候到渥太华来呀？</span><span class="english">When will you be back in Ottawa?</span></p>
 
 <p><span class="chinese">渥太华也必须看到城市，我目前居住的地方。</span><span class="english">Ottawa is also a must-see city where I currently live.</span></p>

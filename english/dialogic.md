@@ -1,5 +1,7 @@
 # dialogic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dialogic.md)
+
 <p><span class="chinese">本论文称之为对话潜势。</span><span class="english">In this thesis we call it dialogic potential.</span></p>
 
 <p><span class="chinese">第二章提出了巴赫金的对话理论。</span><span class="english">Chapter two mainly presents Bakhtin's dialogic theory.</span></p>

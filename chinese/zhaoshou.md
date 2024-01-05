@@ -1,5 +1,7 @@
 # 招手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoshou.md)
+
 <p><span class="chinese">他招手要我进去。</span><span class="english">He beckoned me in.</span></p>
 
 <p><span class="chinese">未来在向我们招手。</span><span class="english">The future is beckoning.</span></p>

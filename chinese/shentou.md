@@ -1,5 +1,7 @@
 # 深透
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shentou.md)
+
 <p><span class="chinese">我们通常会看得更深透些，去发现我们从不知道的事情。</span><span class="english">We can often look deeper to find things we never knew.</span></p>
 
 <p><span class="chinese">一个比穿深透度厚得多的样品，按指数律衰减。</span><span class="english">A specimen which is much thicker than the penetration depth decays exponentially.</span></p>

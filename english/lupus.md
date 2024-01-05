@@ -1,5 +1,7 @@
 # lupus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lupus.md)
+
 <p><span class="chinese">露西。沃登死于战后的一场狼疮。</span><span class="english">Lucy Vodden died after a battle with lupus.</span></p>
 
 <p><span class="chinese">即使狼亲属也被收入结构严密的组织。</span><span class="english">Even lupus Kinfolk gather in tightly knit packs.</span></p>

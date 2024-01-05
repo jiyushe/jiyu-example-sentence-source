@@ -1,5 +1,7 @@
 # 分子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzi_1.md)
+
 <p><span class="chinese">分子的状态。</span><span class="english">The molecular state.</span></p>
 
 <p><span class="chinese">但我们这里是分子。</span><span class="english">But we have molecules.</span></p>

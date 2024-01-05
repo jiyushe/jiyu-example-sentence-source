@@ -1,5 +1,7 @@
 # Iraqi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iraqi.md)
+
 <p><span class="chinese">向布什扔鞋的伊拉克男子被释放。</span><span class="english">Shoe-throwing Iraqi reporter to be freed.</span></p>
 
 <p><span class="chinese">帮助伊拉克部队但不一手包办</span><span class="english">HELPING IRAQI FORCES, NOT DOING IT FOR THEM</span></p>

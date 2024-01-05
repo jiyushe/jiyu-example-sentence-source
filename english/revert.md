@@ -1,5 +1,7 @@
 # revert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revert.md)
+
 <p><span class="chinese">冰川能够重新变回成蓬松的一团。</span><span class="english">A glacier can revert to a fluffy mass.</span></p>
 
 <p><span class="chinese">选中想要恢复的版本。</span><span class="english">Select the revision you wish to revert.</span></p>

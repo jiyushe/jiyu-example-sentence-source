@@ -1,5 +1,7 @@
 # pussycat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pussycat.md)
+
 <p><span class="chinese">猫咪从来不做任何坏事。</span><span class="english">Pussycat never did any harm.</span></p>
 
 <p><span class="chinese">汤米把猫咪放在井里了。</span><span class="english">Tommy put Pussycat in the well.</span></p>

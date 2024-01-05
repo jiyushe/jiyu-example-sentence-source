@@ -1,5 +1,7 @@
 # 列举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lieju.md)
+
 <p><span class="chinese">这里列举10个如下。</span><span class="english">Here are 10 of them.</span></p>
 
 <p><span class="chinese">你会列举工作清单吗？</span><span class="english">Do you make a to-do list?</span></p>

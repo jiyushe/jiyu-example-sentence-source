@@ -1,5 +1,7 @@
 # ohmic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ohmic.md)
+
 <p><span class="chinese">欧姆加热方法对大肠杆菌具有明显的杀死作用。</span><span class="english">Ohmic heating method had obvious sterilization effect on E. coli.</span></p>
 
 <p><span class="chinese">欧姆接触的好坏，对高功率半导体激光器至关重要。</span><span class="english">Ohmic contact is a critical factor for high power semiconductor lasers.</span></p>

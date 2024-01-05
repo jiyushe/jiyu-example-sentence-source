@@ -1,5 +1,7 @@
 # bioscience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioscience.md)
+
 <p><span class="chinese">生物科学和生物工程之间有一个很明显的区别。</span><span class="english">A clear distinction must be drawn between bioscience and biotechnology.</span></p>
 
 <p><span class="chinese">有生物和生物化学相关产品的应用和市场经验。</span><span class="english">Good bioscience &Bio-chemistry product, application and market knowledge.</span></p>

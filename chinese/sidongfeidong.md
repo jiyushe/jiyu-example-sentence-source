@@ -1,5 +1,7 @@
 # 似懂非懂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sidongfeidong.md)
+
 <p><span class="chinese">我似懂非懂。</span><span class="english">I understand.</span></p>
 
 <p><span class="chinese">孩子似懂非懂的点了点头。</span><span class="english">The child not fully understand nod.</span></p>

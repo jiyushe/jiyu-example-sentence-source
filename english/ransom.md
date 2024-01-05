@@ -1,5 +1,7 @@
 # ransom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ransom.md)
+
 <p><span class="chinese">他已经得到了赎身的钱了。</span><span class="english">He's got the ransom money.</span></p>
 
 <p><span class="chinese">我应该赎回我的自由么？</span><span class="english">Should I ransom my freedom?</span></p>

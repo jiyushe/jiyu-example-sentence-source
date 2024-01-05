@@ -1,5 +1,7 @@
 # 鸡毛蒜皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jimaosuanpi.md)
+
 <p><span class="chinese">他们在一些鸡毛蒜皮的小事上争吵不休。</span><span class="english">They haggled over the trifles.</span></p>
 
 <p><span class="chinese">不要为这些鸡毛蒜皮的事争吵。</span><span class="english">Don't altercate over such trivia.</span></p>

@@ -1,5 +1,7 @@
 # 如梦方醒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rumengfangxing.md)
+
 <p><span class="chinese">求婚时想入非非，结婚后如梦方醒。</span><span class="english">They dream in courtship, but in wedlock wake.</span></p>
 
 <p><span class="chinese">他用一种古怪的如梦方醒的神情看着她。</span><span class="english">He looked at her with a droll sort of awakening.</span></p>

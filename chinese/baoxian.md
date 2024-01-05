@@ -1,5 +1,7 @@
 # 保险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoxian.md)
+
 <p><span class="chinese">他们的保险标的是什么</span><span class="english">What do they insure?</span></p>
 
 <p><span class="chinese">您要保价/保险吗？</span><span class="english">Do you want to insure it?</span></p>

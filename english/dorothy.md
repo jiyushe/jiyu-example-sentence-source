@@ -1,5 +1,7 @@
 # dorothy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dorothy.md)
+
 <p><span class="chinese">多萝西对她甜甜一笑。</span><span class="english">Dorothy smiled sweetly at him.</span></p>
 
 <p><span class="chinese">多萝西以上帝的名义谋杀。</span><span class="english">Dorothy Murders in the name of god.</span></p>

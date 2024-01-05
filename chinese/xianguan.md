@@ -1,5 +1,7 @@
 # 县官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianguan.md)
+
 <p><span class="chinese">有一个人犯罪，被县官抓来打板。</span><span class="english">A man committed a crime and was arrested by thecountymagistrate.</span></p>
 
 <p><span class="chinese">瓮安最大的不法分子就是公安局和县官！</span><span class="english">In WengAn county head and the police are the biggest lawbreaker!</span></p>

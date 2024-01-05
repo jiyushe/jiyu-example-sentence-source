@@ -1,5 +1,7 @@
 # scots
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scots.md)
+
 <p><span class="chinese">玛丽，苏格兰女王。</span><span class="english">Mary, Queen of Scots.</span></p>
 
 <p><span class="chinese">但是，苏格兰人又是从哪里来的？</span><span class="english">But where were the Scots from?</span></p>

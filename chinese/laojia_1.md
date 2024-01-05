@@ -1,5 +1,7 @@
 # 劳驾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laojia_1.md)
+
 <p><span class="chinese">劳驾。</span><span class="english">Excuse me.</span></p>
 
 <p><span class="chinese">劳驾，一张去伦敦的单程票。</span><span class="english">A single to London, please.</span></p>

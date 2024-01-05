@@ -1,5 +1,7 @@
 # medivac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medivac.md)
+
 <p><span class="chinese">医疗船方面有点小问题。</span><span class="english">There are minor problems with Medivac.</span></p>
 
 <p><span class="chinese">医疗运输机是极具争议的护士的替代品。</span><span class="english">The Medivac Dropship was the controversial replacement to the Medic.</span></p>

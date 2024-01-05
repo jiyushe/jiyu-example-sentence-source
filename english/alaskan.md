@@ -1,5 +1,7 @@
 # alaskan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alaskan.md)
+
 <p><span class="chinese">如今，西沃德日是阿拉斯加州的正式节日。</span><span class="english">Now Seward's Day is an Alaskan state holiday.</span></p>
 
 <p><span class="chinese">我可以点一份阿拉斯加海扇鲜贝吗？</span><span class="english">Could I have the Alaskan Sea Scallops, please?</span></p>

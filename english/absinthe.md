@@ -1,5 +1,7 @@
 # absinthe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absinthe.md)
+
 <p><span class="chinese">你给他们喝的是苦艾酒？</span><span class="english">You've given them absinthe ?</span></p>
 
 <p><span class="chinese">没走几步，苦艾酒的香味就充满了每个人的喉咙。</span><span class="english">After a few steps, the smell of absinthe seizes one by the throat.</span></p>

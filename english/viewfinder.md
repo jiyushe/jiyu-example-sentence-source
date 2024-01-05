@@ -1,5 +1,7 @@
 # viewfinder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viewfinder.md)
+
 <p><span class="chinese">要注意你取景器中的画面。</span><span class="english">Be sensitive to the scene in your viewfinder.</span></p>
 
 <p><span class="chinese">想象取景器中一点一点移动的栅格。</span><span class="english">Imagine a tick-tack-toe grid in your viewfinder.</span></p>

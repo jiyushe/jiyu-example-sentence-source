@@ -1,5 +1,7 @@
 # 万能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanneng.md)
+
 <p><span class="chinese">万能速干胶？</span><span class="english">Quick dry glue?</span></p>
 
 <p><span class="chinese">万能翻译器？</span><span class="english">The Universal Translator?</span></p>

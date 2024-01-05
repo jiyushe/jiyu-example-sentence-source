@@ -1,5 +1,7 @@
 # sinhalese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sinhalese.md)
+
 <p><span class="chinese">这是僧伽罗语的复杂性方面。</span><span class="english">This is the complection of Sinhalese.</span></p>
 
 <p><span class="chinese">总统又提及古代僧伽罗战争英雄。</span><span class="english">The president also harked back to ancient Sinhalese martial heroes.</span></p>

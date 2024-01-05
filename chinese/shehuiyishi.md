@@ -1,5 +1,7 @@
 # 社会意识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehuiyishi.md)
+
 <p><span class="chinese">垃圾食品已经成为社会意识的一部分</span><span class="english">Part of the social scene.</span></p>
 
 <p><span class="chinese">我是指不完全是靠社会意识</span><span class="english">I mean not a complete social construction.</span></p>

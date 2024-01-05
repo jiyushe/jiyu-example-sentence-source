@@ -1,5 +1,7 @@
 # 山泉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanquan.md)
+
 <p><span class="chinese">它生活在石缝里、山泉边，大名叫石蟹。</span><span class="english">Stone crab is its proper name.</span></p>
 
 <p><span class="chinese">这眼山泉干涸了。</span><span class="english">The mountain spring has run dry.</span></p>

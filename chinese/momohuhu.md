@@ -1,5 +1,7 @@
 # 模模糊糊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/momohuhu.md)
+
 <p><span class="chinese">我听到了他说的话，但只是模模糊糊的。</span><span class="english">I heard him, but only vaguely.</span></p>
 
 <p><span class="chinese">农场房屋和水车护架都模模糊糊，呈现着浅蓝色。</span><span class="english">The farm buildings and the wheel-house were all dim and bluish.</span></p>

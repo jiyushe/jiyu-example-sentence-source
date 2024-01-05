@@ -1,5 +1,7 @@
 # contrastively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrastively.md)
+
 <p><span class="chinese">对照观察了青、老年大鼠与针刺后老年大鼠的血流变状况。</span><span class="english">Contrastively observation the blood rheology of puber, senile and acupuntered mice.</span></p>
 
 <p><span class="chinese">采用1027型和RAD7型连续测氡仪对比测量某房间的氡气含量。</span><span class="english">Contrastively measuring radon levels of a room by 1027 and RAD7 continuous radon monitor.</span></p>

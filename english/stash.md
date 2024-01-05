@@ -1,5 +1,7 @@
 # stash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stash.md)
+
 <p><span class="chinese">在地下室，没有存东西的地方了。</span><span class="english">In the basement there's no room to stash.</span></p>
 
 <p><span class="chinese">大暗袋上包面，便于使用。</span><span class="english">Large stash pocket on pack face for easy access.</span></p>

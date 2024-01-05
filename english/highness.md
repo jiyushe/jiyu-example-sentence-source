@@ -1,5 +1,7 @@
 # highness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/highness.md)
+
 <p><span class="chinese">公主殿下。</span><span class="english">Her Royal  Highness.</span></p>
 
 <p><span class="chinese">公主殿下气派非凡地来了。</span><span class="english">Her Highness arrived in style.</span></p>

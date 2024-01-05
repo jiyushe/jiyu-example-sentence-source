@@ -1,5 +1,7 @@
 # gooey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gooey.md)
+
 <p><span class="chinese">粘粘的，稠稠的，蓝色的胶，新鲜的胶，稠稠的，粘粘的。</span><span class="english">Gooey. Gooey. Blue goo. New goo. Gluey. Gluey.</span></p>
 
 <p><span class="chinese">透明质酸是十九世纪八十年代在一种胶黏糖中发现的。</span><span class="english">Hyaluronan is a long, gooey sugar discovered in the 1970s.</span></p>

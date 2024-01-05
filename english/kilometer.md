@@ -1,5 +1,7 @@
 # kilometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kilometer.md)
+
 <p><span class="chinese">你可以在计价器上看到公里数。</span><span class="english">You can read the kilometer on the meter.</span></p>
 
 <p><span class="chinese">加拿大的面积有多少平方公里？</span><span class="english">What’s the area of Canada in square kilometer?</span></p>

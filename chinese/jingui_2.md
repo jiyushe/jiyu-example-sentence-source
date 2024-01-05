@@ -1,5 +1,7 @@
 # 金龟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingui_2.md)
+
 <p><span class="chinese">岛上有金龟亭、二王亭、观音阁。</span><span class="english">Island beetles Pavilion, the Wang Ting, Kwun Yam Club.</span></p>
 
 <p><span class="chinese">迪斯尼甚至拍了金龟车贺比/Herbie的系列电影，一辆可爱的甲壳虫。</span><span class="english">Disney even made several movies about Herbie, the Love Bug.</span></p>

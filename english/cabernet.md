@@ -1,5 +1,7 @@
 # cabernet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabernet.md)
+
 <p><span class="chinese">是一款经典优雅的卡贝纳红酒。</span><span class="english">It is a classic and elegant Cabernet.</span></p>
 
 <p><span class="chinese">卡本纳-佛朗是智利的一颗小宝石。</span><span class="english">Cabernet Franc is a small gem for Chile.</span></p>

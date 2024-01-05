@@ -1,5 +1,7 @@
 # 心力交瘁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinlijiaocui.md)
+
 <p><span class="chinese">这件麻烦事确实使他心力交瘁。</span><span class="english">This trouble has really broken him up.</span></p>
 
 <p><span class="chinese">直到心力交瘁，方知自己是谁。</span><span class="english">Till our own weakness shows us what we are.</span></p>

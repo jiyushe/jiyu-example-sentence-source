@@ -1,5 +1,7 @@
 # 海产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haichan.md)
+
 <p><span class="chinese">这有可能成为未来的海产食品。</span><span class="english">It may be the future of seafood.</span></p>
 
 <p><span class="chinese">基隆以其新鲜的海产著名。</span><span class="english">Keelung is known for its fresh seafood.</span></p>

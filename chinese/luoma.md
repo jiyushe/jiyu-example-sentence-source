@@ -1,5 +1,7 @@
 # 骡马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoma.md)
+
 <p><span class="chinese">一支庞大的骡马队伍从青海省香日德城出发了。</span><span class="english">A giant mulish horse team saved city of sweet day heart to set out from Qinghai.</span></p>
 
 <p><span class="chinese">“虽然他们是从阿斯塔波骑过来的，但骡马几乎不剩了，”马赛莱恩这样汇报给她。</span><span class="english">"There is scarcely a horse or mule left, though many rode from Astapor, " Marselen reported to her.</span></p>

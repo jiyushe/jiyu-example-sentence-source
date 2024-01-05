@@ -1,5 +1,7 @@
 # 主角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhujue.md)
+
 <p><span class="chinese">那部电影的主角是谁？</span><span class="english">Who stars in that film?</span></p>
 
 <p><span class="chinese">她将在一部新影片中出任主角。</span><span class="english">She is to star in a new film.</span></p>

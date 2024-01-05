@@ -1,5 +1,7 @@
 # 十恶不赦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiebushe.md)
+
 <p><span class="chinese">没有比盗窃更十恶不赦的事情了。</span><span class="english">There is no act more wretched than stealing.</span></p>
 
 <p><span class="chinese">捏造数据是十恶不赦的科学之罪。</span><span class="english">Fabricating data is a heinous scientific sin.</span></p>

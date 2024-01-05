@@ -1,5 +1,7 @@
 # dazzling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dazzling.md)
+
 <p><span class="chinese">阳光耀眼。</span><span class="english">The sunshine is dazzling.</span></p>
 
 <p><span class="chinese">这块布的颜色太扎眼。</span><span class="english">This cloth is too dazzling.</span></p>

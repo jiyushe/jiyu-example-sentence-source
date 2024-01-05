@@ -1,5 +1,7 @@
 # 近东
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jindong.md)
+
 <p><span class="chinese">在近东地区的翻译员。</span><span class="english">An interpreter and guide in the near east.</span></p>
 
 <p><span class="chinese">根据联合国近东巴勒斯坦难民救济和工程处的资料，13000多人流离失所。</span><span class="english">According to UNWRA, over 13 000 people have been displaced.</span></p>

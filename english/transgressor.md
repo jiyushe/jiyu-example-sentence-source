@@ -1,5 +1,7 @@
 # transgressor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transgressor.md)
+
 <p><span class="chinese">我素来所拆毁的，若重新建造，这就证明自己是犯罪的人。</span><span class="english">For if I build again the things which I destroyed, I make myself a transgressor.</span></p>
 
 <p><span class="chinese">基督之死是代表违法者的赎罪之工完成了吗？</span><span class="english">Did the death of Christ finish the work of atonement in behalf of the transgressor?</span></p>

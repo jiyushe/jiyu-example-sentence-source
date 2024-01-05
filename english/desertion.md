@@ -1,5 +1,7 @@
 # desertion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desertion.md)
+
 <p><span class="chinese">他当兵开小差使得全家人蒙羞。</span><span class="english">His desertion from the army brought dishonour on his family.</span></p>
 
 <p><span class="chinese">在所有的事情中，她的遗弃确实让他最为痛苦。</span><span class="english">He was really affected most miserably of all by this desertion.</span></p>

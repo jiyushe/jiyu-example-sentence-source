@@ -1,5 +1,7 @@
 # footman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footman.md)
+
 <p><span class="chinese">她现在是一个男仆。</span><span class="english">Goldie is now a footman.</span></p>
 
 <p><span class="chinese">男仆恭恭敬敬地送走了客人。</span><span class="english">The footman bowed the guests out.</span></p>

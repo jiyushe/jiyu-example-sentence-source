@@ -1,5 +1,7 @@
 # kazakstan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kazakstan.md)
+
 <p><span class="chinese">去年，他去了哈萨克斯坦。</span><span class="english">Last year he went to Kazakstan.</span></p>
 
 <p><span class="chinese">西伯利亚板块与哈萨克斯坦板块间的缝合线在达尔布特-克拉麦里。</span><span class="english">The suture of Siberia plate and Kazakstan plate goes along Darbut-Kelameili.</span></p>

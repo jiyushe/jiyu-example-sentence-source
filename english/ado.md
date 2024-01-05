@@ -1,5 +1,7 @@
 # ado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ado.md)
+
 <p><span class="chinese">完全是庸人自扰。</span><span class="english">It was much ado about nothing.</span></p>
 
 <p><span class="chinese">意思是说庸人多自忧，不要小题大作。</span><span class="english">Don't make much ado about nothing.</span></p>

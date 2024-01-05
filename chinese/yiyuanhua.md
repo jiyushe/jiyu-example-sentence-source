@@ -1,5 +1,7 @@
 # 一元化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyuanhua.md)
+
 <p><span class="chinese">为简易一元化调整型。</span><span class="english">Simple adjustments for the uniform type.</span></p>
 
 <p><span class="chinese">一元化调节时，请翻转使用。</span><span class="english">Centralized regulation, please use overturned.</span></p>

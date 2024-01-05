@@ -1,5 +1,7 @@
 # destine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destine.md)
+
 <p><span class="chinese">灵魂注定是勇敢的？</span><span class="english">Does the soul destine brave?</span></p>
 
 <p><span class="chinese">你认为缘分是什么呢？</span><span class="english">What do you think of destine?</span></p>

@@ -1,5 +1,7 @@
 # 屠户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuhu.md)
+
 <p><span class="chinese">待驴老了，干不动活时，他们就把它卖给屠户杀了。</span><span class="english">When the donkey became old, they sold it off to a butcher for profit.</span></p>
 
 <p><span class="chinese">屠户也佩带了布料围裙，但他们是主要蓝色的。</span><span class="english">The butchers also wore cloth apron but they were mostly blue in color.</span></p>

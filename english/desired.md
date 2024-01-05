@@ -1,5 +1,7 @@
 # desired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desired.md)
+
 <p><span class="chinese">他也渴望看到这些尸体。</span><span class="english">he desired to see them.</span></p>
 
 <p><span class="chinese">它们是尔所有欲供。</span><span class="english">They were all I desired.</span></p>

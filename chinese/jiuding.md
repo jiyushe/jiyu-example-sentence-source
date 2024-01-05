@@ -1,5 +1,7 @@
 # 九鼎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuding.md)
+
 <p><span class="chinese">九鼎香优质礼篮已面世！</span><span class="english">High-quality gift baskets is available!</span></p>
 
 <p><span class="chinese">近日，公司高管约见了九鼎投资相关负责人，商讨合作事宜。</span><span class="english">Recently, China Sage management met with Jiuding Capital for cooperation discussions.</span></p>

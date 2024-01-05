@@ -1,5 +1,7 @@
 # 复辟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fubi_1.md)
+
 <p><span class="chinese">这就是所谓的王政复辟。</span><span class="english">It was called the Restoration.</span></p>
 
 <p><span class="chinese">他成了复辟王朝的忠实走卒。</span><span class="english">He became a faithful restoration dynasty pawns.</span></p>

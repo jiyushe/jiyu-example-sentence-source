@@ -1,5 +1,7 @@
 # retail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retail.md)
+
 <p><span class="chinese">建议零售价？</span><span class="english">Recommended retail price?</span></p>
 
 <p><span class="chinese">从金宝贝零售商店。</span><span class="english">From Gymboree Retail Store.</span></p>

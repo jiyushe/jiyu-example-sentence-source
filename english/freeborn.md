@@ -1,5 +1,7 @@
 # freeborn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freeborn.md)
+
 <p><span class="chinese">唯有出生于自由民的男性方可参加奥运会比赛。</span><span class="english">Only freeborn male citizens could take part in the Olympic Games.</span></p>
 
 <p><span class="chinese">我们是生而自由的英国人或者美国被遗忘的人们。</span><span class="english">Us is the freeborn Brit or the forgotten men and women of America.</span></p>

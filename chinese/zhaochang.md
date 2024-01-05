@@ -1,5 +1,7 @@
 # 照常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaochang.md)
+
 <p><span class="chinese">照常进行转换。</span><span class="english">Transform as usual.</span></p>
 
 <p><span class="chinese">一切照常进行。</span><span class="english">Everything proceeds as usual.</span></p>

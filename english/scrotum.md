@@ -1,5 +1,7 @@
 # scrotum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrotum.md)
+
 <p><span class="chinese">男孩也有阴囊和睾丸。</span><span class="english">Boys also have a scrotum and testicles.</span></p>
 
 <p><span class="chinese">我的阴囊有不痛的肿大。</span><span class="english">I have had painless swelling in my scrotum.</span></p>

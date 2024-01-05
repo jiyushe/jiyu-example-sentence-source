@@ -1,5 +1,7 @@
 # blackmailer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackmailer.md)
+
 <p><span class="chinese">敲诈者会变成杀人犯吗？</span><span class="english">Will a Blackmailer Turn to Murder?</span></p>
 
 <p><span class="chinese">可恨的是罪恶而非功臣。</span><span class="english">Hate the sin but not the blackmailer.</span></p>

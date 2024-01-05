@@ -1,5 +1,7 @@
 # pact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pact.md)
+
 <p><span class="chinese">血之契印现在有工具提示。</span><span class="english">Blood Pact now has a tooltip.</span></p>
 
 <p><span class="chinese">血之契印现在有了一个提示。</span><span class="english">Blood Pact now has a tooltip.</span></p>

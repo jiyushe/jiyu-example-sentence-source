@@ -1,5 +1,7 @@
 # liar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liar.md)
+
 <p><span class="chinese">神爱是个骗子。</span><span class="english">God loves a liar.</span></p>
 
 <p><span class="chinese">他是个大骗子。</span><span class="english">He is such a liar.</span></p>

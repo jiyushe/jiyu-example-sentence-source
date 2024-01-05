@@ -1,5 +1,7 @@
 # lancelot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lancelot.md)
+
 <p><span class="chinese">我封你为兰斯洛特骑士。</span><span class="english">I dub thee Sir Lancelot.</span></p>
 
 <p><span class="chinese">兰斯洛特同意将他培养为骑士。</span><span class="english">Lancelot agreed to make him a knight.</span></p>

@@ -1,5 +1,7 @@
 # accomplishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accomplishment.md)
+
 <p><span class="chinese">比如说成就。</span><span class="english">Take the example of accomplishment.</span></p>
 
 <p><span class="chinese">他经常居功自傲。</span><span class="english">He often plumes himself on his accomplishment.</span></p>

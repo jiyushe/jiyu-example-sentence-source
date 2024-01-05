@@ -1,5 +1,7 @@
 # gracilis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gracilis.md)
+
 <p><span class="chinese">这一点与蛇蜥非常接近。</span><span class="english">This point and the ophisaurus gracilis are close.</span></p>
 
 <p><span class="chinese">而纤细角毛藻对球等鞭金藻的化感作用主要由饱和脂肪酸引起。</span><span class="english">The allelopathy effect of C. gracilis on I. galbana was caused by saturate fatty acids.</span></p>

@@ -1,5 +1,7 @@
 # spam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spam.md)
+
 <p><span class="chinese">内置的防止评论垃圾广告。</span><span class="english">Comment spam protection built-in.</span></p>
 
 <p><span class="chinese">并把它应用到反垃圾邮件中。</span><span class="english">Then applies it in the spam mail.</span></p>

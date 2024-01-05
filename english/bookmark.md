@@ -1,5 +1,7 @@
 # bookmark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookmark.md)
+
 <p><span class="chinese">这张书签是给麦克的。</span><span class="english">This bookmark is for Mike.</span></p>
 
 <p><span class="chinese">滑针毡书签。</span><span class="english">Slip Stitch Felted Bookmark.</span></p>

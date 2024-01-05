@@ -1,5 +1,7 @@
 # expectancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expectancy.md)
+
 <p><span class="chinese">现在的平均寿命已达到75。5岁。</span><span class="english">Life expectancy is now 75.5 years.</span></p>
 
 <p><span class="chinese">她去见他时带著有所期待的神情。</span><span class="english">She go to meet him with an air of expectancy.</span></p>

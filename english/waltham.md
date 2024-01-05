@@ -1,5 +1,7 @@
 # waltham
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waltham.md)
+
 <p><span class="chinese">关爱式科学研究是支撑威豪中心所有工作的基础。</span><span class="english">Caring Science is the ethos that underpins all we do at WALTHAM.</span></p>
 
 <p><span class="chinese">根据沃尔瑟姆宠物营养中心得出的结论，宠物可以帮助人类缓解紧张状态。</span><span class="english">According to the Waltham Centre for Pet Nutrition, pets help reduce stress.</span></p>

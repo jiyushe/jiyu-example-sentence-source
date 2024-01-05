@@ -1,5 +1,7 @@
 # 陪酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peijiu.md)
+
 <p><span class="chinese">我明天整个上午都在机场陪酒井先生。</span><span class="english">I' ll be at the airport all morning with Mr. Sakai.</span></p>
 
 <p><span class="chinese">通俗文化也使得陪酒职业更加普遍。</span><span class="english">Popular culture is also fueling hostessing’s popularity.</span></p>

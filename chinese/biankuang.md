@@ -1,5 +1,7 @@
 # 边框
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biankuang.md)
+
 <p><span class="chinese">双实线边框。</span><span class="english">A double solid line border.</span></p>
 
 <p><span class="chinese">带有4毫米粗边框的框。</span><span class="english">Box that has a 4-mm thick border.</span></p>

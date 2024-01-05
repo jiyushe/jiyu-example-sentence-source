@@ -1,5 +1,7 @@
 # 神灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenling.md)
+
 <p><span class="chinese">可是，是哪位神灵的屁股呢？</span><span class="english">Which god's arse, though?</span></p>
 
 <p><span class="chinese">梵天给予了他这一神灵保佑。</span><span class="english">Brahma granted him the boon.</span></p>

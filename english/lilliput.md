@@ -1,5 +1,7 @@
 # lilliput
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lilliput.md)
+
 <p><span class="chinese">我只是想帮利力浦特。</span><span class="english">I only want to help Lilliput !</span></p>
 
 <p><span class="chinese">那就是利力浦特的问题。</span><span class="english">That's the problem in Lilliput.</span></p>

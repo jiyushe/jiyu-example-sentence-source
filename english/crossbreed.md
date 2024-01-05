@@ -1,5 +1,7 @@
 # crossbreed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossbreed.md)
+
 <p><span class="chinese">为什么有人把像熊这样非常有用的生物跟枭杂交呢？</span><span class="english">Why would anyone crossbreed a perfectly serviceable bear with an owl?</span></p>
 
 <p><span class="chinese">小偃54是一个具有杂种优势、品质优良的小麦品种。</span><span class="english">Xiaoyan 54 wheat is of high quality and has an advantage of crossbreed.</span></p>

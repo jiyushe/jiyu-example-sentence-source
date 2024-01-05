@@ -1,5 +1,7 @@
 # separately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/separately.md)
+
 <p><span class="chinese">他们分头吃饭。</span><span class="english">They eat separately.</span></p>
 
 <p><span class="chinese">咱们想要分开算帐。</span><span class="english">We love to offer separately.</span></p>

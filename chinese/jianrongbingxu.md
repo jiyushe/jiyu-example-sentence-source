@@ -1,5 +1,7 @@
 # 兼容并蓄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianrongbingxu.md)
+
 <p><span class="chinese">第四、兼容并蓄，保持开放。</span><span class="english">Fourth, embracing inclusiveness and staying open.</span></p>
 
 <p><span class="chinese">缸器厚重，兼容并蓄，朴拙富古趣，是运用范围极广的花器。</span><span class="english">Jars have the greatest scope of utilization of any floral vessel.</span></p>

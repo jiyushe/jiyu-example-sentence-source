@@ -1,5 +1,7 @@
 # seymour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seymour.md)
+
 <p><span class="chinese">早上好，我是菲莉丝·希莫。</span><span class="english">Good morning. Phyllis Seymour speaking.</span></p>
 
 <p><span class="chinese">对西摩先生来说这真是一次痛苦的休假。</span><span class="english">It was really a painful vacation for Mr. Seymour.</span></p>

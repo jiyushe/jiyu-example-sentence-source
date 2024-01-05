@@ -1,5 +1,7 @@
 # 雷鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leiniao.md)
+
 <p><span class="chinese">如何用雷鸟备份你的gmail帐户</span><span class="english">How to backup your Gmail account using Thunderbird</span></p>
 
 <p><span class="chinese">新雷鸟还拥有一个非常棒的过滤搜索系统。</span><span class="english">The new Thunderbird also has a very cool filtered search system.</span></p>

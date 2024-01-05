@@ -1,5 +1,7 @@
 # countrywide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countrywide.md)
+
 <p><span class="chinese">全国降半旗。</span><span class="english">Countrywide flags all half-mast.</span></p>
 
 <p><span class="chinese">山西是全国能源重化工基地。</span><span class="english">Shanxi is base of countrywide energy heavy chemical industry.</span></p>

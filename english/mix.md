@@ -1,5 +1,7 @@
 # mix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mix.md)
+
 <p><span class="chinese">混合起来。</span><span class="english">Mix it up.</span></p>
 
 <p><span class="chinese">别无选择？</span><span class="english">What's the mix?</span></p>

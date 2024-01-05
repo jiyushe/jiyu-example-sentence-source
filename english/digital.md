@@ -1,5 +1,7 @@
 # digital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digital.md)
+
 <p><span class="chinese">数值地形模型?。</span><span class="english">Digital terrain model?</span></p>
 
 <p><span class="chinese">你那个是电子表吗？</span><span class="english">Is your watch digital.</span></p>

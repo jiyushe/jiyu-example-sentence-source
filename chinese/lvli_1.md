@@ -1,5 +1,7 @@
 # 膂力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvli_1.md)
+
 <p><span class="chinese">魔鬼练习让良多人膂力不支。</span><span class="english">The devil exercises help greatly people hypodynamic brawn.</span></p>
 
 <p><span class="chinese">恒久生病消耗了这老人的膂力。</span><span class="english">The long illness hadvertising wasted the old manas strength.</span></p>

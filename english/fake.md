@@ -1,5 +1,7 @@
 # fake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fake.md)
+
 <p><span class="chinese">招标无假货！</span><span class="english">No Fake biddings!</span></p>
 
 <p><span class="chinese">无假货邮政编码。</span><span class="english">NO Fake Zip Codes.</span></p>

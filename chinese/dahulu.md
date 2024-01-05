@@ -1,5 +1,7 @@
 # 打呼噜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahulu.md)
+
 <p><span class="chinese">首先，她打呼噜。</span><span class="english">First, she snores.</span></p>
 
 <p><span class="chinese">昨天晚上你打呼噜了。</span><span class="english">You were snoring last night.</span></p>

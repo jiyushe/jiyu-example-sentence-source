@@ -1,5 +1,7 @@
 # choker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/choker.md)
+
 <p><span class="chinese">帕米拉摆弄一下紧围在她细脖子上的珍珠项链。</span><span class="english">Pamela fingered the pearl choker around her thin throat.</span></p>
 
 <p><span class="chinese">配上水晶的项圈和戒指。</span><span class="english">I've added some statements like statement crystal choker and rings.</span></p>

@@ -1,5 +1,7 @@
 # skein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skein.md)
+
 <p><span class="chinese">她递给我一绞毛线。</span><span class="english">She passed me a skein of wool.</span></p>
 
 <p><span class="chinese">她递给我一绞羊毛线。</span><span class="english">She passed me a skein of wool.</span></p>

@@ -1,5 +1,7 @@
 # 军功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jungong.md)
+
 <p><span class="chinese">军功授地是美国土地制度中的一个重要问题。</span><span class="english">Military bounty land is an important issue in U. S. land system.</span></p>
 
 <p><span class="chinese">军功授地是美国土地制度中的一个重要问题。</span><span class="english">Military bounty land is an important issue in U. S. land system. U.</span></p>

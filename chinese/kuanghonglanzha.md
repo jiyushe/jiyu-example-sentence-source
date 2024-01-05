@@ -1,5 +1,7 @@
 # 狂轰滥炸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanghonglanzha.md)
+
 <p><span class="chinese">但是今天的四年级女生受到了媒体上纤瘦形像的狂轰滥炸。</span><span class="english">But today's fourth-grade girls are barraged by media images of thinness.</span></p>
 
 <p><span class="chinese">她表现得十分顽强，但她的狂轰滥炸也不至于将我轰出球场。</span><span class="english">She played extremely solid, but it's not like I was blown off the court.</span></p>

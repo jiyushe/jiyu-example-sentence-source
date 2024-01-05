@@ -1,5 +1,7 @@
 # 阴魂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhun_1.md)
+
 <p><span class="chinese">目的是想吓走阴魂鬼神。</span><span class="english">It is meant to frighten off evil spirits.</span></p>
 
 <p><span class="chinese">就算离开一段距离，这种味道依然阴魂不散。</span><span class="english">But even from a distance those fumes linger.</span></p>

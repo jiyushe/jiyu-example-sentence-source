@@ -1,5 +1,7 @@
 # fenestration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fenestration.md)
+
 <p><span class="chinese">这种窗体包括带有low-e涂层和有色涂层的玻璃。</span><span class="english">The fenestration comprises double-glazing with a low-E coating and body-tinted glass.</span></p>
 
 <p><span class="chinese">百叶窗可过滤光纤，为室内创造出柔和的光影效果。</span><span class="english">Louvred fenestration allows filtered light in to the indoors creating a soft play of light and shade.</span></p>

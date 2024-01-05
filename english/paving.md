@@ -1,5 +1,7 @@
 # paving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paving.md)
+
 <p><span class="chinese">铺路石被中午的太阳晒得滚烫。</span><span class="english">The paving stones burned in the noon sun.</span></p>
 
 <p><span class="chinese">杂草从铺石路面的缝隙中长出来。</span><span class="english">Weeds grew through the cracks in the paving.</span></p>

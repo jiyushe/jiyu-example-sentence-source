@@ -1,5 +1,7 @@
 # oxygenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxygenic.md)
+
 <p><span class="chinese">结果表明，随着煤的变质程度增高，含氧官能团减少。</span><span class="english">The result shows that the oxygenic groups decrease with the increase of coal ranks.</span></p>
 
 <p><span class="chinese">蓝藻是一类能进行光合放氧作用的原核生物。</span><span class="english">Cyanobacteria are autotrophic prokaryotes performing oxygenic photosynthesis similar to that of higher plants.</span></p>

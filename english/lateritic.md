@@ -1,5 +1,7 @@
 # lateritic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lateritic.md)
+
 <p><span class="chinese">玄武岩红土壳具帝状结构。</span><span class="english">Lateritic crust of basalts is of zonal texture.</span></p>
 
 <p><span class="chinese">红土型金矿是一种新的金矿工业类型。</span><span class="english">The lateritic gold deposit is a new gold industrial type.</span></p>

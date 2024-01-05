@@ -1,5 +1,7 @@
 # eerie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eerie.md)
+
 <p><span class="chinese">外面的天空很黑，也很怪异。</span><span class="english">The sky outside was eerie and dark.</span></p>
 
 <p><span class="chinese">他们真的很可怕，像融化过一样。</span><span class="english">The really were eerie. Like, melted.</span></p>

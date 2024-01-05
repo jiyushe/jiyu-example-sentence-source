@@ -1,5 +1,7 @@
 # 悠哉游哉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzaiyouzai.md)
+
 <p><span class="chinese">我玩命地工作的时候我老板竟然在酒馆里悠哉游哉。</span><span class="english">I was working my ass off when my boss kicked back in the pub.</span></p>
 
 <p><span class="chinese">你或者可以在你的加勒比海小岛上悠哉游哉下去，或者可以考虑开始下一个生意。</span><span class="english">Then either you go relax on your Caribbean island, or you try to start another one.</span></p>

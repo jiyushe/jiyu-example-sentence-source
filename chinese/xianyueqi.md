@@ -1,5 +1,7 @@
 # 弦乐器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyueqi.md)
+
 <p><span class="chinese">这些弦乐器在做什么呢</span><span class="english">What were the strings doing?</span></p>
 
 <p><span class="chinese">然后是弦乐器。</span><span class="english">And then the strings come in.</span></p>

@@ -1,5 +1,7 @@
 # 同等学力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongdengxueli.md)
+
 <p><span class="chinese">第三部分全面分析了同等学力人员申请硕士学位教育存在的问题以及影响因素。</span><span class="english">I will inspect the problems of and affecting factors of the programs in part 3.</span></p>
 
 <p><span class="chinese">硕士或同等学力，工商管理、场或相关专业。</span><span class="english">Master degree or similar professional qualification with engineering background.</span></p>

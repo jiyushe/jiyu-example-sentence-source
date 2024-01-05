@@ -1,5 +1,7 @@
 # curiae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curiae.md)
+
 <p><span class="chinese">第一章，法庭之友制度的历史回顾。</span><span class="english">Chapter One reviews the history of Amicus Curiae.</span></p>
 
 <p><span class="chinese">法庭之友就是在与真实发现的扩充与限制中发展与兴盛起来的。</span><span class="english">Amicus Curiae develop and thrive with the expansion and limitations of fact-finding.</span></p>

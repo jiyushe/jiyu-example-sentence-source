@@ -1,5 +1,7 @@
 # tailored
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tailored.md)
+
 <p><span class="chinese">这套衣服裁制得很好。</span><span class="english">The suit was well tailored.</span></p>
 
 <p><span class="chinese">裁缝给他缝制了一套衣服。</span><span class="english">The tailor tailored him a suit.</span></p>

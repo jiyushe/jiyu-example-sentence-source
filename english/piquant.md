@@ -1,5 +1,7 @@
 # piquant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piquant.md)
+
 <p><span class="chinese">一块果子酱油炸饼圈和一支冰淇淋。</span><span class="english">A piquant sauce of soy, vinegar, and spices.</span></p>
 
 <p><span class="chinese">这话中的意思暗合事实，她觉得有点触心。</span><span class="english">The touch of fact in it made it slightly piquant.</span></p>

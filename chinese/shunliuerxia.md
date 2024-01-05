@@ -1,5 +1,7 @@
 # 顺流而下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunliuerxia.md)
+
 <p><span class="chinese">我们划着船顺流而下。</span><span class="english">We rowed down the river.</span></p>
 
 <p><span class="chinese">他乘木筏顺流而下。</span><span class="english">He rafted down the stream.</span></p>

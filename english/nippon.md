@@ -1,5 +1,7 @@
 # nippon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nippon.md)
+
 <p><span class="chinese">我们已经决定不租力宝中心。</span><span class="english">We have decided not to rent the Nippon Center.</span></p>
 
 <p><span class="chinese">有一次公司从日本航空公司买了一架727型喷气机。</span><span class="english">At one point the company bought from Nippon Airways a 727 jet.</span></p>

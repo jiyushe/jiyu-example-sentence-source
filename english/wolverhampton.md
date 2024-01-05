@@ -1,5 +1,7 @@
 # wolverhampton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wolverhampton.md)
+
 <p><span class="chinese">伍尔弗汉普顿工厂2008年销售额约为1亿美元。</span><span class="english">Wolverhampton sales for the calendar year 2008 were approximately ＄100 million.</span></p>
 
 <p><span class="chinese">伍尔弗汉普顿的产品线将补充穆格公司的飞机控制部门。</span><span class="english">The Wolverhampton product line would be complementary to Moog's Aircraft Controls Segment.</span></p>

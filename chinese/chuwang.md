@@ -1,5 +1,7 @@
 # 楚王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuwang.md)
+
 <p><span class="chinese">后为楚王来，黄金答母恩。</span><span class="english">After the King of Chu, the Gold-en A mother.</span></p>
 
 <p><span class="chinese">昏庸的楚王为什么把屈原流放了？</span><span class="english">Why did the fatuous King send him into exile?</span></p>

@@ -1,5 +1,7 @@
 # 空中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongzhong.md)
+
 <p><span class="chinese">空中爆炸。</span><span class="english">Air Bursts.</span></p>
 
 <p><span class="chinese">我去空中跳伞了。</span><span class="english">I went sky-diving.</span></p>

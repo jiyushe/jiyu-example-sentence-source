@@ -1,5 +1,7 @@
 # trojan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trojan.md)
+
 <p><span class="chinese">特洛伊熊猫？</span><span class="english">Trojan panda?</span></p>
 
 <p><span class="chinese">后来在特洛伊战争中果然发生了这样的事。</span><span class="english">And so he was in the Trojan War.</span></p>

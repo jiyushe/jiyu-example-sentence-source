@@ -1,5 +1,7 @@
 # 空气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongqi.md)
+
 <p><span class="chinese">打开空气轨。</span><span class="english">Air track one.</span></p>
 
 <p><span class="chinese">它使用热空气。</span><span class="english">It uses hot air.</span></p>

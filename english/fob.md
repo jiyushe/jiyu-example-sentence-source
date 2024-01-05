@@ -1,5 +1,7 @@
 # fob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fob.md)
+
 <p><span class="chinese">这是我们的FOB价格单。</span><span class="english">Here are our FOB price.</span></p>
 
 <p><span class="chinese">你们报的是到岸价仍是离岸价?。</span><span class="english">Do you quote CIG or FOB?</span></p>

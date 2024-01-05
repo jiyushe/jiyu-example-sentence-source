@@ -1,5 +1,7 @@
 # 封闭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengbi.md)
+
 <p><span class="chinese">为什么儿童要做窝沟封闭？</span><span class="english">Why seal a child's teeth?</span></p>
 
 <p><span class="chinese">拉链前半封闭。</span><span class="english">Half zipper front closure.</span></p>

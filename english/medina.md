@@ -1,5 +1,7 @@
 # medina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medina.md)
+
 <p><span class="chinese">Medina说，Elan在接受治疗以前根本无法与人进行口头交流。</span><span class="english">Before the treatment, Elan wasn’t able to communicate verbally, Medina said.</span></p>
 
 <p><span class="chinese">在麦迪那他被承认为上帝的先知，和他的追随者在增加。</span><span class="english">At Medina he was recognized as the prophet of God, and his followers increased.</span></p>

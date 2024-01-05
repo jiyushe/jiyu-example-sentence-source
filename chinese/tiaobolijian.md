@@ -1,5 +1,7 @@
 # 挑拨离间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaobolijian.md)
+
 <p><span class="chinese">他在朋友中间挑拨离间。</span><span class="english">He sowed discord among his friends.</span></p>
 
 <p><span class="chinese">他在朋友中间挑拨离间。</span><span class="english">He is sowing discord among his friends.</span></p>

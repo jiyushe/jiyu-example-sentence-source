@@ -1,5 +1,7 @@
 # adverbial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adverbial.md)
+
 <p><span class="chinese">你怎么理解第二个状语从句?。</span><span class="english">How do you think of the second adverbial clause?</span></p>
 
 <p><span class="chinese">这些减译、增译的成分主要是状语，其次是定语。</span><span class="english">The element added or omitted is mainly adverbial , or attribute.</span></p>

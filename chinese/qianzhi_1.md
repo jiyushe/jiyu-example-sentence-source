@@ -1,5 +1,7 @@
 # 牵制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzhi_1.md)
+
 <p><span class="chinese">高粮产地，牵制性战斗。</span><span class="english">High grain region, diversionary battle.</span></p>
 
 <p><span class="chinese">我们的战士知道如何牵制敌人。</span><span class="english">Our solders knew how to pin down enemies.</span></p>

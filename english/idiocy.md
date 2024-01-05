@@ -1,5 +1,7 @@
 # idiocy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idiocy.md)
+
 <p><span class="chinese">在这样恶劣的天气里去爬山简直是愚蠢到家了。</span><span class="english">It's sheer idiocy to go climbing in such bad weather.</span></p>
 
 <p><span class="chinese">亲爱的高寒先生，你的愚蠢又再次让我惊愕。</span><span class="english">Dear Mr Gao, you amazed me with your idiocy once again.</span></p>

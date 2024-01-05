@@ -1,5 +1,7 @@
 # ucla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ucla.md)
+
 <p><span class="chinese">所以我在UCLA还有第五年。</span><span class="english">So I have a fifth year here at UCLA.</span></p>
 
 <p><span class="chinese">我们在UCLA可以看见许多直升机，</span><span class="english">And we get to see a lot of them at UCLA</span></p>

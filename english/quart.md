@@ -1,5 +1,7 @@
 # quart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quart.md)
+
 <p><span class="chinese">请加一夸脱机油。</span><span class="english">A quart of oil,please.</span></p>
 
 <p><span class="chinese">你的机油少一夸脱。</span><span class="english">You're one quart low on oil.</span></p>

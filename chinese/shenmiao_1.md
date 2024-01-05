@@ -1,5 +1,7 @@
 # 神庙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenmiao_1.md)
+
 <p><span class="chinese">巴克斯神庙外观。</span><span class="english">Exterior of Temple of Bacchus.</span></p>
 
 <p><span class="chinese">◎底比斯，卡纳克大神庙。</span><span class="english">Great temple at Karnak, Thebes.</span></p>

@@ -1,5 +1,7 @@
 # transsexual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transsexual.md)
+
 <p><span class="chinese">变性巨龙龙影布朗诅咒一个人！</span><span class="english">Transsexual Lony Brown fucks a guy!</span></p>
 
 <p><span class="chinese">当一个易性人是一件神奇美妙的事。</span><span class="english">But to be a transsexual is a magical, wondrous thing.</span></p>

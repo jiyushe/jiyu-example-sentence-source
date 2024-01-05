@@ -1,5 +1,7 @@
 # 经学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxue.md)
+
 <p><span class="chinese">我教经学已有三年之久。</span><span class="english">I've been teaching Economics for three years.</span></p>
 
 <p><span class="chinese">他们已经学会同逆境做斗争。</span><span class="english">They have learned to struggle against adversity.</span></p>

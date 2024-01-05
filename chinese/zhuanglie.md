@@ -1,5 +1,7 @@
 # 壮烈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanglie.md)
+
 <p><span class="chinese">你壮烈去我仍苟活。</span><span class="english">That I live and you are gone.</span></p>
 
 <p><span class="chinese">高尚的生活，常在壮烈的牺牲中。</span><span class="english">Noble life, often of heroic sacrifice.</span></p>

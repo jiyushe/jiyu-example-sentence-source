@@ -1,5 +1,7 @@
 # outpouring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outpouring.md)
+
 <p><span class="chinese">政治家们也流露出他们的心声。</span><span class="english">Politicians added their voice to the outpouring.</span></p>
 
 <p><span class="chinese">士丹利在这个发明流露流。</span><span class="english">Stanley is in this stream of inventive outpouring.</span></p>

@@ -1,5 +1,7 @@
 # 科教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kejiao.md)
+
 <p><span class="chinese">某些国家当局憎恨联合国科教文组织的干预。</span><span class="english">Some national authorities resent UNESCO's meddling.</span></p>
 
 <p><span class="chinese">武昌是科教中心。</span><span class="english">Wuchang is the center for technology and education.</span></p>

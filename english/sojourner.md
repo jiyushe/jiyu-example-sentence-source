@@ -1,5 +1,7 @@
 # sojourner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sojourner.md)
+
 <p><span class="chinese">我是那个小村庄的逗留者。</span><span class="english">I am a sojourner of that village.</span></p>
 
 <p><span class="chinese">或许那些人只是我生命中的过客。</span><span class="english">May those who just a sojourner in my life.</span></p>

@@ -1,5 +1,7 @@
 # 医护
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yihu.md)
+
 <p><span class="chinese">我要一个医护兵和一部电台！</span><span class="english">I need a corpsman and a radio!</span></p>
 
 <p><span class="chinese">最后一种是医护兵，他能治疗和复活其他玩家。</span><span class="english">Finally, Medics heal and revive other players.</span></p>

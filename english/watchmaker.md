@@ -1,5 +1,7 @@
 # watchmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watchmaker.md)
+
 <p><span class="chinese">这位钟表匠是个近视眼。</span><span class="english">Thee watchmaker is near-sighted.</span></p>
 
 <p><span class="chinese">我出生在伦敦的一个钟表匠家庭。</span><span class="english">I was Born of a watchmaker in London.</span></p>

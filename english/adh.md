@@ -1,5 +1,7 @@
 # adh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adh.md)
+
 <p><span class="chinese">夜晚人体分泌的抗利尿激素较多。</span><span class="english">We all produce more ADH hormone at night.</span></p>
 
 <p><span class="chinese">抗利尿激素向肾脏发出减慢新陈代谢的信号。</span><span class="english">ADH signals the kidney to slow down production.</span></p>

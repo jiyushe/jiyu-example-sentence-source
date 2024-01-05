@@ -1,5 +1,7 @@
 # teacher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teacher.md)
+
 <p><span class="chinese">我是一名教是吗？</span><span class="english">Am I a teacher?</span></p>
 
 <p><span class="chinese">一个女老师。</span><span class="english">A female teacher.</span></p>

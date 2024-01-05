@@ -1,5 +1,7 @@
 # 同调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongdiao.md)
+
 <p><span class="chinese">与非同调性光的转移速率。</span><span class="english">Transition rate due to incoherent light.</span></p>
 
 <p><span class="chinese">人心若与上帝同调，怎能不高唱赞美歌？</span><span class="english">A heart in tune with God can't help but sing His praise.</span></p>

@@ -1,5 +1,7 @@
 # undernourishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undernourishment.md)
+
 <p><span class="chinese">他有几个孩子因营养不良而死亡。</span><span class="english">Some of his children died of undernourishment.</span></p>
 
 <p><span class="chinese">一方面因为工作过度，一方面因为营养不良，他哥哥病得很重。</span><span class="english">What with overwork and what with undernourishment his brother became very ill.</span></p>

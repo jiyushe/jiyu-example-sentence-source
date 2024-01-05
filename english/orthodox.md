@@ -1,5 +1,7 @@
 # orthodox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthodox.md)
+
 <p><span class="chinese">大豆种子是正常性种子。</span><span class="english">Soybean seeds belong to Orthodox seeds.</span></p>
 
 <p><span class="chinese">全世界最北边的东正教堂。</span><span class="english">The world’s northernmost Orthodox church.</span></p>

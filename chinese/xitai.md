@@ -1,5 +1,7 @@
 # 戏台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xitai.md)
+
 <p><span class="chinese">戏台不就是戏台嘛。</span><span class="english">A stage is a stage.</span></p>
 
 <p><span class="chinese">大牛你看，这戏台上。</span><span class="english">Daniel, look. On the stage.</span></p>

@@ -1,5 +1,7 @@
 # singapore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singapore.md)
+
 <p><span class="chinese">但是在新加坡就不同了。</span><span class="english">But not in Singapore.</span></p>
 
 <p><span class="chinese">我来自新加坡。</span><span class="english">I come from Singapore.</span></p>

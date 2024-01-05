@@ -1,5 +1,7 @@
 # 毕肖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bixiao.md)
+
 <p><span class="chinese">希尔的老板是埃德?毕肖尔靠过身来，点了点头。</span><span class="english">Hill's boss, Ed Beshore, leans in and nods.</span></p>
 
 <p><span class="chinese">伊莉莎白-毕肖普1911年生于美国麻省。</span><span class="english">Elizabeth Bishop was born in Worcester, Massachusetts in 1911.</span></p>

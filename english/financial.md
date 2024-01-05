@@ -1,5 +1,7 @@
 # financial 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/financial.md)
+
 <p><span class="chinese">财政纪律松驰。</span><span class="english">Financial discipline is lax.</span></p>
 
 <p><span class="chinese">金融危机是一件。</span><span class="english">The financial crisis was one.</span></p>

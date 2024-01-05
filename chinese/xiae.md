@@ -1,5 +1,7 @@
 # 下颚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiae.md)
+
 <p><span class="chinese">下颚打浆机秸秆画上步行者。</span><span class="english">Pacers paint straw beater jaw.</span></p>
 
 <p><span class="chinese">雄鲑鱼弯下颚弯曲或钩状的雄鲑鱼的下颌。</span><span class="english">Curved or hooked lower jaw of a male salmon.</span></p>

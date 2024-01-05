@@ -1,5 +1,7 @@
 # applicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applicable.md)
+
 <p><span class="chinese">这个方法是适用的。</span><span class="english">The way was applicable.</span></p>
 
 <p><span class="chinese">QAP是可用的一种方法。</span><span class="english">QAP is an applicable solution.</span></p>

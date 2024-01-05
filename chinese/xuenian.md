@@ -1,5 +1,7 @@
 # 学年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuenian.md)
+
 <p><span class="chinese">没有，我们见面时还是学年刚开始的时候。</span><span class="english">No, I think it was early in the year.</span></p>
 
 <p><span class="chinese">学年结束时，情况如何？</span><span class="english">What happened by the end of the year?</span></p>

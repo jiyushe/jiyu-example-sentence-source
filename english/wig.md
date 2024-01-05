@@ -1,5 +1,7 @@
 # wig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wig.md)
+
 <p><span class="chinese">戴上手工缝制的假发。</span><span class="english">A hand-stitched wig.</span></p>
 
 <p><span class="chinese">然后，她买了假发。</span><span class="english">Then she bought a wig.</span></p>

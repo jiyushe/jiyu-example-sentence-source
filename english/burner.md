@@ -1,5 +1,7 @@
 # burner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burner.md)
+
 <p><span class="chinese">我的燃烧器看起来像这样。</span><span class="english">My burner looks like this.</span></p>
 
 <p><span class="chinese">一个CD刻录机和一张空白的CD。</span><span class="english">A CD burner and a blank CD.</span></p>

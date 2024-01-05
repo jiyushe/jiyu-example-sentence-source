@@ -1,5 +1,7 @@
 # 帮助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bangzhu_1.md)
+
 <p><span class="chinese">我需要帮助。</span><span class="english">I need help.</span></p>
 
 <p><span class="chinese">他帮助埃玛。</span><span class="english">He helps Emma.</span></p>

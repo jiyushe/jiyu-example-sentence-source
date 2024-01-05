@@ -1,5 +1,7 @@
 # 日光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/riguang.md)
+
 <p><span class="chinese">为什么可以在日光返辉中看到油污？</span><span class="english">Why is oil visible in sunglint?</span></p>
 
 <p><span class="chinese">我想——呵，那是日光！</span><span class="english">I thought -- Oh, it is daylight!</span></p>

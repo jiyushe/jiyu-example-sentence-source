@@ -1,5 +1,7 @@
 # inaugural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inaugural.md)
+
 <p><span class="chinese">托马斯杰斐逊在1805年举行第一次开放日。</span><span class="english">Thomas Jefferson held the first Inaugural open house in 1805.</span></p>
 
 <p><span class="chinese">首届奥运会自行车公路赛是在马拉松的赛道上进行的。</span><span class="english">That inaugural Olympic road race was held on the marathon course.</span></p>

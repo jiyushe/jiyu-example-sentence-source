@@ -1,5 +1,7 @@
 # realtor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realtor.md)
+
 <p><span class="chinese">在英国他们叫作房地产经纪人。</span><span class="english">In england they call a realtor a land agent.</span></p>
 
 <p><span class="chinese">房屋中介告诉我这间公寓己经租出去了。</span><span class="english">The realtor told me this apartment has been rented.</span></p>

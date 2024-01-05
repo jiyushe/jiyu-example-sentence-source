@@ -1,5 +1,7 @@
 # tela
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tela.md)
+
 <p><span class="chinese">方法采用NO测试盒对35例胃癌患者血清和组织进行NO测定。</span><span class="english">Methods The serum and tela NO in 35 patients with gastric carcinoma were detected.</span></p>
 
 <p><span class="chinese">胃壁由粘膜、粘膜下层、肌层和浆膜四层组成。</span><span class="english">The wall of the stomach consists of tunica mucosa, tela submucosa, tunica muscularis and serosa.</span></p>

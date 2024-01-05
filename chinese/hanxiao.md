@@ -1,5 +1,7 @@
 # 含笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanxiao.md)
+
 <p><span class="chinese">爱情，原来是含笑饮毒酒。</span><span class="english">Love, it is smiling drink wine.</span></p>
 
 <p><span class="chinese">她近来还常常骂你吗？”觉慧含笑道。</span><span class="english">Has she scolded you again lately?</span></p>

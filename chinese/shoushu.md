@@ -1,5 +1,7 @@
 # 寿数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushu.md)
+
 <p><span class="chinese">我必加增你十五年的寿数。</span><span class="english">I will add fifteen years to your life.</span></p>
 
 <p><span class="chinese">坐几个小时就可能减寿数年。</span><span class="english">Sitting for hours can shave years off life</span></p>

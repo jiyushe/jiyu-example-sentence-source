@@ -1,5 +1,7 @@
 # 琐事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoshi_1.md)
+
 <p><span class="chinese">记忆中的琐事。</span><span class="english">The triviality of my memory.</span></p>
 
 <p><span class="chinese">别拿琐事烦我。</span><span class="english">Don't labour me with trifles.</span></p>

@@ -1,5 +1,7 @@
 # 感叹句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gantanju.md)
+
 <p><span class="chinese">感叹句。多自私的狗呀！</span><span class="english">What a selfish dog!</span></p>
 
 <p><span class="chinese">把这句话变成感叹句。</span><span class="english">Change it to an exclamatory sentence.</span></p>

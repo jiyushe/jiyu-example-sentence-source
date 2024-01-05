@@ -1,5 +1,7 @@
 # wheeze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheeze.md)
+
 <p><span class="chinese">他呼吸时胸部发出轻微的响声。</span><span class="english">He has a slight wheeze in his chest.</span></p>
 
 <p><span class="chinese">对目前喘鸣来说，结果是相似的。</span><span class="english">Results were similar for current wheeze.</span></p>

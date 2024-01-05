@@ -1,5 +1,7 @@
 # 以及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiji.md)
+
 <p><span class="chinese">以及“我们在乎的是什么“分离开来的？</span><span class="english">What do we care about?</span></p>
 
 <p><span class="chinese">以及自我毁灭。</span><span class="english">About self-destruction.</span></p>

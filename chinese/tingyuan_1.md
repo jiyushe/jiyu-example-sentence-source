@@ -1,5 +1,7 @@
 # 庭院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingyuan_1.md)
+
 <p><span class="chinese">我在庭院中除杂草。</span><span class="english">I weed the yard.</span></p>
 
 <p><span class="chinese">我们来到一个农家庭院。</span><span class="english">We're coming to a farmyard.</span></p>

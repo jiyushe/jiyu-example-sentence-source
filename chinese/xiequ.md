@@ -1,5 +1,7 @@
 # 撷取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiequ.md)
+
 <p><span class="chinese">妈咪出口夫人巴克撷取一些水。</span><span class="english">Mommy exits to fetch Mrs. Barker some water.</span></p>
 
 <p><span class="chinese">与此DVD的开膛手，你可以撷取的CSS保护的DVD电影。</span><span class="english">With this DVD Ripper, you can Rip CSS protected DVD movies.</span></p>

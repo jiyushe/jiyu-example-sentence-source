@@ -1,5 +1,7 @@
 # 近邻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinlin.md)
+
 <p><span class="chinese">远亲不如近邻。</span><span class="english">A good neighbour is better than a brother far off.</span></p>
 
 <p><span class="chinese">近邻是基于统计的分类方法。</span><span class="english">K-NN is a method of classifying based on statistics.</span></p>

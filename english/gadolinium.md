@@ -1,5 +1,7 @@
 # gadolinium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gadolinium.md)
+
 <p><span class="chinese">用钆造影后信号几乎没有加强。</span><span class="english">There is very little enhancement with gadolinium.</span></p>
 
 <p><span class="chinese">增强扫描可以显示明显的转移灶。</span><span class="english">MR post Gadolinium enhancement shows marked enhancement of metastasis.</span></p>

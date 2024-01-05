@@ -1,5 +1,7 @@
 # messiah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/messiah.md)
+
 <p><span class="chinese">甚至神的弥赛亚。</span><span class="english">Even God's own Messiah.</span></p>
 
 <p><span class="chinese">弥赛亚意味着什么？</span><span class="english">What does Messiah mean?</span></p>

@@ -1,5 +1,7 @@
 # yonder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yonder.md)
+
 <p><span class="chinese">那栋房子在村外。</span><span class="english">The house over yonder.</span></p>
 
 <p><span class="chinese">那边是最后一个弯。</span><span class="english">Yonder is the last bend.</span></p>

@@ -1,5 +1,7 @@
 # classification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classification.md)
+
 <p><span class="chinese">模型分类。</span><span class="english">Model classification.</span></p>
 
 <p><span class="chinese">测试用例分类。</span><span class="english">Test case classification.</span></p>

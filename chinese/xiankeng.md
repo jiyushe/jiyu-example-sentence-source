@@ -1,5 +1,7 @@
 # 陷坑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiankeng.md)
+
 <p><span class="chinese">他们竟然挖陷坑害我。</span><span class="english">Yet they have dug a pit for me.</span></p>
 
 <p><span class="chinese">地上的居民哪，恐惧，陷坑，网罗，都临近你。</span><span class="english">Terror and pit and snare await you, O people of the earth.</span></p>

@@ -1,5 +1,7 @@
 # airproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airproof.md)
+
 <p><span class="chinese">不兴不不污剂洋的溶剂难挥发，给夺目密封。</span><span class="english">In addition to the dirty of volatile solvents, to airproof.</span></p>
 
 <p><span class="chinese">检查净化器与灶具之间连接的气密性。</span><span class="english">Examine the airproof of the connection between filter and the stove.</span></p>

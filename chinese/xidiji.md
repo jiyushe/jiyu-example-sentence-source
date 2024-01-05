@@ -1,5 +1,7 @@
 # 洗涤剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xidiji.md)
+
 <p><span class="chinese">分为护肤膏和洗涤剂。</span><span class="english">Cent creams to protect skin and scour.</span></p>
 
 <p><span class="chinese">洗涤剂不能被使用未稀释。</span><span class="english">Detergents must not be used undiluted.</span></p>

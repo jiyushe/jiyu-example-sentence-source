@@ -1,5 +1,7 @@
 # ol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ol.md)
+
 <p><span class="chinese">别动。我给你揎一张在岩石上的照片。</span><span class="english">Don't move. m take a photo Ol you on the rock.</span></p>
 
 <p><span class="chinese">我的工作证是看不清楚的。哈哈。我在房地产公司上班。</span><span class="english">Nice! Professional OL look haha. Better than my job.</span></p>

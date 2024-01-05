@@ -1,5 +1,7 @@
 # endure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endure.md)
+
 <p><span class="chinese">我对此再也无法忍受了。</span><span class="english">I could endure it no longer.</span></p>
 
 <p><span class="chinese">他们能忍受很多痛苦。</span><span class="english">They could endure much pain.</span></p>

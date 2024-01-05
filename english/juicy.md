@@ -1,5 +1,7 @@
 # juicy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juicy.md)
+
 <p><span class="chinese">他喜欢喝果味酒。</span><span class="english">He likes juicy drinks.</span></p>
 
 <p><span class="chinese">那块牛排鲜嫩多汁。</span><span class="english">The steaks were tender and juicy.</span></p>

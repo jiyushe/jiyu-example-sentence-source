@@ -1,5 +1,7 @@
 # 劝诫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanjie.md)
+
 <p><span class="chinese">劝诫她招认真情吧！</span><span class="english">Exhort her to confess the truth!</span></p>
 
 <p><span class="chinese">区里派了一个干部去对地主进行劝诫。</span><span class="english">A district official went to remonstrate with the landowners.</span></p>

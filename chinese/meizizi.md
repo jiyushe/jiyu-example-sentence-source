@@ -1,5 +1,7 @@
 # 美滋滋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meizizi.md)
+
 <p><span class="chinese">我的称赞使她感到美滋滋的。</span><span class="english">My praise made her sing.</span></p>
 
 <p><span class="chinese">他们在美滋滋地吃奶油蛋糕。</span><span class="english">They are regaling on cream cakes.</span></p>

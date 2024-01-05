@@ -1,5 +1,7 @@
 # braze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/braze.md)
+
 <p><span class="chinese">这对钢的黄铜焊接也是较优的。</span><span class="english">It's also superior for braze welding of steel.</span></p>
 
 <p><span class="chinese">用于所有低含银量钎焊合金的膏状助溶剂。</span><span class="english">Paste flux for braze welding with Brazing Alloy 18.</span></p>

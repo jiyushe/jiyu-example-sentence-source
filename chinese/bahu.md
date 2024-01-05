@@ -1,5 +1,7 @@
 # 跋扈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bahu.md)
+
 <p><span class="chinese">她说你跋扈横蛮。</span><span class="english">She said you were domineering and rude.</span></p>
 
 <p><span class="chinese">我觉得莫丽的跋扈更容易被客户所误解。</span><span class="english">I feel Mollys domineer is easily misinterpreted by clients.</span></p>

@@ -1,5 +1,7 @@
 # angelic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angelic.md)
+
 <p><span class="chinese">她脸上绽出天使般的笑容。</span><span class="english">She cracked an angelic smile.</span></p>
 
 <p><span class="chinese">她脸上绽出天使般笑容。</span><span class="english">She cracked an angelic smile.</span></p>

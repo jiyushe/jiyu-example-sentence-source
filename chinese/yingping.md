@@ -1,5 +1,7 @@
 # 影评
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingping.md)
+
 <p><span class="chinese">影评家把这部影片贬得一无是处。</span><span class="english">The film was rubbished by the critics.</span></p>
 
 <p><span class="chinese">影评经常会误导观众。</span><span class="english">Movie reviews often mislead the audience.</span></p>

@@ -1,5 +1,7 @@
 # arsenal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arsenal.md)
+
 <p><span class="chinese">阿森纳锁不住你的心。</span><span class="english">Arsenal can't lock your heart.</span></p>
 
 <p><span class="chinese">巴我原谅你，我讨厌阿森纳队。</span><span class="english">I forgive you, I hate Arsenal.</span></p>

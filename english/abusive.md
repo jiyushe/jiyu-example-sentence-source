@@ -1,5 +1,7 @@
 # abusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abusive.md)
+
 <p><span class="chinese">三个来自破碎的家庭。</span><span class="english">Three come from abusive households.</span></p>
 
 <p><span class="chinese">他喝醉时就满口脏话骂人了。</span><span class="english">He became abusive when he was drunk.</span></p>

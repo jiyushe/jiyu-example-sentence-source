@@ -1,5 +1,7 @@
 # bountiful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bountiful.md)
+
 <p><span class="chinese">我认为自然界并非无限富足。</span><span class="english">I do not believe that Nature is limitlessly bountiful.</span></p>
 
 <p><span class="chinese">但对于少数开明的老板来说，则收益颇多。</span><span class="english">But for the enlightened few, the benefits are  bountiful.</span></p>

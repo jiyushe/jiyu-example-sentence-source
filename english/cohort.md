@@ -1,5 +1,7 @@
 # cohort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cohort.md)
+
 <p><span class="chinese">这个研究是前瞻性群组研究</span><span class="english">This particular study was a prospective cohort.</span></p>
 
 <p><span class="chinese">本文进行了一项队列内病例对照研究。</span><span class="english">A case control study nested in cohort was conducted.</span></p>

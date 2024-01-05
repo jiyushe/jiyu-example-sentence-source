@@ -1,5 +1,7 @@
 # wintertime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wintertime.md)
+
 <p><span class="chinese">那时是冬天。</span><span class="english">It's wintertime.</span></p>
 
 <p><span class="chinese">在冬天我们通常缺乏运动。</span><span class="english">We’re often less active in wintertime.</span></p>

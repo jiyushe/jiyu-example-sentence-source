@@ -1,5 +1,7 @@
 # snoop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snoop.md)
+
 <p><span class="chinese">只是狗屎黑鬼，是的，支持监听。</span><span class="english">Just blaze that shit up nigga, yeah, 'sup Snoop??</span></p>
 
 <p><span class="chinese">首先，我们要把史奴比狗狗移到我这桌。</span><span class="english">So, first of all, we need to move Snoop Dogg to my table.</span></p>

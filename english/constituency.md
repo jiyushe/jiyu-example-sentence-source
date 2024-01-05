@@ -1,5 +1,7 @@
 # constituency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constituency.md)
+
 <p><span class="chinese">伊斯兰堡是他的选区之一。</span><span class="english">Islamabad is part of his constituency.</span></p>
 
 <p><span class="chinese">Jay-Z则针对非常不同的选民。</span><span class="english">Jay-Z speaks to a very different constituency.</span></p>

@@ -1,5 +1,7 @@
 # duple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duple.md)
+
 <p><span class="chinese">这是二拍子的</span><span class="english">So it's duple meter.</span></p>
 
 <p><span class="chinese">多少人认为是二拍子呢</span><span class="english">How many think it's in duple meter?</span></p>

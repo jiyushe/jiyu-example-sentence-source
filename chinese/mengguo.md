@@ -1,5 +1,7 @@
 # 盟国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengguo.md)
+
 <p><span class="chinese">另一个盟国能这样、又不能那样做。</span><span class="english">Another ally can do this but not that.</span></p>
 
 <p><span class="chinese">某一盟国能在某一地方、却不能在其它地点作战。</span><span class="english">One ally can fight here but not another place.</span></p>

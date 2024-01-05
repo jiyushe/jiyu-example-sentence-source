@@ -1,5 +1,7 @@
 # shrinkable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrinkable.md)
+
 <p><span class="chinese">没关系，先生，它不缩水。</span><span class="english">That's all right sir it's not shrinkable.</span></p>
 
 <p><span class="chinese">服务员，你的领带在我的汤里了。没关系，先生，它不缩水。</span><span class="english">Waiter, your tie is in my soup! That's all right, sir, it's not shrinkable.</span></p>

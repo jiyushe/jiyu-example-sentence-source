@@ -1,5 +1,7 @@
 # 摇动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaodong.md)
+
 <p><span class="chinese">狗的尾巴摇动着。</span><span class="english">The dog's tail wagged.</span></p>
 
 <p><span class="chinese">亨利摇动着脚趾头。</span><span class="english">Henry wiggled his toes.</span></p>

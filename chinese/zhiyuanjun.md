@@ -1,5 +1,7 @@
 # 志愿军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyuanjun.md)
+
 <p><span class="chinese">志愿军战士们一直在灌木丛中，没有暴露目标。</span><span class="english">Volunteers were in the bush all the time and didn't let on.</span></p>
 
 <p><span class="chinese">志愿军战士们一直在灌木丛中，没有暴露目标。</span><span class="english">The Volunteers were in the bush all the time and didn't let on.</span></p>

@@ -1,5 +1,7 @@
 # bullfrog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullfrog.md)
+
 <p><span class="chinese">一只牛蛙充满了超生命。</span><span class="english">A bullfrog is chock-full of hyperlife.</span></p>
 
 <p><span class="chinese">一大堆牛蛙的卵在池塘上。</span><span class="english">A big bunch of bullfrog eggs float in the pond.</span></p>

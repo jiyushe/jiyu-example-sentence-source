@@ -1,5 +1,7 @@
 # 吉祥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixiang.md)
+
 <p><span class="chinese">这是非常吉祥的。</span><span class="english">It is very auspicious.</span></p>
 
 <p><span class="chinese">祝你们兔年吉祥！！！</span><span class="english">Happ Year of the Rabbit! ! !</span></p>

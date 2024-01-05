@@ -1,5 +1,7 @@
 # 庄严
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangyan.md)
+
 <p><span class="chinese">用温柔的庄严。</span><span class="english">With tender majesty.</span></p>
 
 <p><span class="chinese">并感受其一片漆黑的庄严</span><span class="english">And feel its total dark sublime</span></p>

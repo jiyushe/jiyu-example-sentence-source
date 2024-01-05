@@ -1,5 +1,7 @@
 # 侍从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shicong.md)
+
 <p><span class="chinese">拉姆西大人的侍从，是么？</span><span class="english">Lord Ramsay's squire, was he not?</span></p>
 
 <p><span class="chinese">如今是御用侍从卫士在管理。</span><span class="english">The yeoman warders manage it now.</span></p>

@@ -1,5 +1,7 @@
 # profess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/profess.md)
+
 <p><span class="chinese">任何人都应该有自由去宣说。</span><span class="english">All men shall be free to profess.</span></p>
 
 <p><span class="chinese">几乎所有卡塔尔人都信仰伊斯兰教。</span><span class="english">Nearly all Qataris profess Islam.</span></p>

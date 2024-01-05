@@ -1,5 +1,7 @@
 # 相形失色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxingshise.md)
+
 <p><span class="chinese">她的演奏使我的相形失色。</span><span class="english">Her playing pats mine in the shade.</span></p>
 
 <p><span class="chinese">但周五的就业数据恐将让本周其他数据相形失色.</span><span class="english">But Friday's jobs data could overshadow the rest of the week's numbers.</span></p>

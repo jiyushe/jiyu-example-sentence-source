@@ -1,5 +1,7 @@
 # 老古董
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laogudong.md)
+
 <p><span class="chinese">科学适合老古董。</span><span class="english">Science is for curios.</span></p>
 
 <p><span class="chinese">这张唱片真是老古董了。</span><span class="english">This record is a real oldie.</span></p>

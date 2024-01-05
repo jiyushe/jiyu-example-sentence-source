@@ -1,5 +1,7 @@
 # 人去楼空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renquloukong.md)
+
 <p><span class="chinese">发现这个巨大的都市完全人去楼空，并没有感到惊讶。</span><span class="english">He was not surprised to find the huge metropolis totally deserted.</span></p>
 
 <p><span class="chinese">“将军”下令怀亚特除去赛尔夫，但是在赛尔夫家里，怀亚特发现他早已人去楼空。</span><span class="english">Pad Man gives Wyatt the order to kill Self, but Wyatt finds Self's house empty.</span></p>

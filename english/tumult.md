@@ -1,5 +1,7 @@
 # tumult
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tumult.md)
+
 <p><span class="chinese">一场风波平息了。</span><span class="english">The tumult has subsided.</span></p>
 
 <p><span class="chinese">全城骚动。</span><span class="english">The whole city was in tumult.</span></p>

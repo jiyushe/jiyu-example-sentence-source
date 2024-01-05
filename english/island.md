@@ -1,5 +1,7 @@
 # island 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/island.md)
+
 <p><span class="chinese">诺福克岛。</span><span class="english">Norfolk Island.</span></p>
 
 <p><span class="chinese">没有谁能像一座孤岛。</span><span class="english">No manis an island.</span></p>

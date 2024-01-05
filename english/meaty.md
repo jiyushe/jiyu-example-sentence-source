@@ -1,5 +1,7 @@
 # meaty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meaty.md)
+
 <p><span class="chinese">网站上还有一个耐人寻味的论坛。</span><span class="english">It also has a meaty discussion forum.</span></p>
 
 <p><span class="chinese">但是这汤看起来其实也挺“荤”的。</span><span class="english">But the soup might turn out to be pretty meaty.</span></p>

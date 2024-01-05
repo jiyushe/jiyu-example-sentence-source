@@ -1,5 +1,7 @@
 # 延误
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanwu.md)
+
 <p><span class="chinese">延误使他们战败。</span><span class="english">The delay lost them the battle.</span></p>
 
 <p><span class="chinese">品质零缺点、交期零延误！</span><span class="english">Quality zero defect, zero delay!</span></p>

@@ -1,5 +1,7 @@
 # silly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silly.md)
+
 <p><span class="chinese">他们看起来真可笑。</span><span class="english">They look silly.</span></p>
 
 <p><span class="chinese">你这个小笨蛋！</span><span class="english">You silly twerp!</span></p>

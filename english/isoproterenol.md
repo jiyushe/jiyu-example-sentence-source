@@ -1,5 +1,7 @@
 # isoproterenol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isoproterenol.md)
+
 <p><span class="chinese">异丙肾上腺素的急性毒性比肾上腺素小得多。</span><span class="english">The acute toxicity of isoproterenol is much less than that of epinephrine.</span></p>
 
 <p><span class="chinese">结论强心汤对异丙肾上腺素引起的大鼠实验性心肌肥厚具有一定的改善作用。</span><span class="english">ConclusionQiangxin oral liquid can improve the experimental myocardial hypertrophy of rats induced by isoproterenol.</span></p>

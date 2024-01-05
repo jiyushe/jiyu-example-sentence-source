@@ -1,5 +1,7 @@
 # 受孕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyun.md)
+
 <p><span class="chinese">它道破了玫瑰般肌肤与受孕子宫的秘密。</span><span class="english">It speaks of Rosy flesh and seeded womb.</span></p>
 
 <p><span class="chinese">她始终没有停止过尝试受孕。</span><span class="english">She never stopped trying to get pregnant.</span></p>

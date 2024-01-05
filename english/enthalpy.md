@@ -1,5 +1,7 @@
 # enthalpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enthalpy.md)
+
 <p><span class="chinese">你想要的任何地方。</span><span class="english">Enthalpy is just u plus p V.</span></p>
 
 <p><span class="chinese">也就是我们为什么定义焓的原因。</span><span class="english">That's why we created enthalpy.</span></p>

@@ -1,5 +1,7 @@
 # 形似
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingsi.md)
+
 <p><span class="chinese">形似观音古董船首像。</span><span class="english">Antique Figurehead, possibly of Guangyin.</span></p>
 
 <p><span class="chinese">大型分叉的珊瑚，形似鹿角。</span><span class="english">Large branching coral resembling antlers.</span></p>

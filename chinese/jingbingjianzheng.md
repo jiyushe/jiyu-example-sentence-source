@@ -1,5 +1,7 @@
 # 精兵简政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingbingjianzheng.md)
+
 <p><span class="chinese">国企还正在通过精兵简政来解决自身的问题。</span><span class="english">The soe problem is also solving itself through attrition.</span></p>
 
 <p><span class="chinese">英镑目前的汇率将迫使英国公司厉行精兵简政。</span><span class="english">The value of the pound will force British companies to be leaner and fitter.</span></p>

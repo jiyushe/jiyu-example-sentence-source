@@ -1,5 +1,7 @@
 # 我行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woxing.md)
+
 <p><span class="chinese">他喜欢任我行。</span><span class="english">He likes you.</span></p>
 
 <p><span class="chinese">任我行得到江山没有？</span><span class="english">As we get there?</span></p>

@@ -1,5 +1,7 @@
 # connive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connive.md)
+
 <p><span class="chinese">有些警察纵容赌博。</span><span class="english">Some policemen connive at gambling.</span></p>
 
 <p><span class="chinese">我们不应该纵容恐怖活动。</span><span class="english">We should not connive at terrorism.</span></p>

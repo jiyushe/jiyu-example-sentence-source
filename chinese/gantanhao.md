@@ -1,5 +1,7 @@
 # 感叹号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gantanhao.md)
+
 <p><span class="chinese">这句标语后面的感叹号或许应被一个问号所替代。</span><span class="english">tagline should perhaps have been a question mark instead.</span></p>
 
 <p><span class="chinese">我这个方法或可称为邓氏感叹号法。</span><span class="english">For reason below, I would call this the Tang's exclamation mark method.</span></p>

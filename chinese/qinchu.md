@@ -1,5 +1,7 @@
 # 禽畜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinchu.md)
+
 <p><span class="chinese">“回去，”大师说，“把禽畜放出去。”</span><span class="english">"Go back", said the Master, "and put the animals out".</span></p>
 
 <p><span class="chinese">增加套种和禽畜-作物一体化。</span><span class="english">Step up double cropping and livestock-crop integration.</span></p>

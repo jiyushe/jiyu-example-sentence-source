@@ -1,5 +1,7 @@
 # richly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/richly.md)
+
 <p><span class="chinese">皇冠是国王的象征。</span><span class="english">The crown is richly bejeweled.</span></p>
 
 <p><span class="chinese">在众人当中，我是最蒙神厚福的人！</span><span class="english">I am, among men, most richly blessed!</span></p>

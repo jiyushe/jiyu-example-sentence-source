@@ -1,5 +1,7 @@
 # varna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varna.md)
+
 <p><span class="chinese">我对瓦尔纳很好奇。</span><span class="english">I am curious about Varna.</span></p>
 
 <p><span class="chinese">您也可以考虑瓦尔纳机场。</span><span class="english">You may also consider Varna Airport.</span></p>

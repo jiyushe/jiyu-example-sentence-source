@@ -1,5 +1,7 @@
 # 改口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaikou.md)
+
 <p><span class="chinese">我又急忙改口说您都听懂了？</span><span class="english">I also hurriedly say you understand?</span></p>
 
 <p><span class="chinese">大多数人不喜欢改口。</span><span class="english">Consistency. Most people prefer to keep their word.</span></p>

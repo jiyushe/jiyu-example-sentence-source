@@ -1,5 +1,7 @@
 # 扑灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pumie.md)
+
 <p><span class="chinese">火被扑灭后发生了什麽事？</span><span class="english">What happens when the fire is out?</span></p>
 
 <p><span class="chinese">消防队员扑灭了一场林区大火。</span><span class="english">Fire fighters hosed down a bushfire.</span></p>

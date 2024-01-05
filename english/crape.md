@@ -1,5 +1,7 @@
 # crape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crape.md)
+
 <p><span class="chinese">你有个绉巴巴的胸吗？</span><span class="english">Crape Paper Chest, Anyone?</span></p>
 
 <p><span class="chinese">马吕斯在帽子上缠了一条黑纱，仅如此而已。</span><span class="english">Marius wore crape on his hat. That was all.</span></p>

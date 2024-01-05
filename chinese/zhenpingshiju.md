@@ -1,5 +1,7 @@
 # 真凭实据
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenpingshiju.md)
+
 <p><span class="chinese">那么让我们看看真凭实据。</span><span class="english">So let’s look at the evidence.</span></p>
 
 <p><span class="chinese">你要说服他要有真凭实据。</span><span class="english">You'll need real proof to convince him.</span></p>

@@ -1,5 +1,7 @@
 # rascal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rascal.md)
+
 <p><span class="chinese">我们深恶痛绝那个无赖。</span><span class="english">We abominated the rascal.</span></p>
 
 <p><span class="chinese">这个流氓是个好色之徒。</span><span class="english">The rascal is a randy man.</span></p>

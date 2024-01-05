@@ -1,5 +1,7 @@
 # hoot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoot.md)
+
 <p><span class="chinese">美国有没有想到过非洲一丁点的最佳利益？</span><span class="english">Did America care one hoot for Africa's best interest?</span></p>
 
 <p><span class="chinese">戴夫这个人蛮有意思。他经常有很有趣的故事讲给我们。</span><span class="english">Dave sure is a hoot. He's always got a funny story to tell.</span></p>

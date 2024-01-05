@@ -1,5 +1,7 @@
 # wuchang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wuchang.md)
+
 <p><span class="chinese">去武昌有直达车吗？</span><span class="english">Be there a direct train for Wuchang?</span></p>
 
 <p><span class="chinese">去武昌有直达车吗?。</span><span class="english">Is there a direct train for Wuchang ?</span></p>

@@ -1,5 +1,7 @@
 # astute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astute.md)
+
 <p><span class="chinese">这个精明的政策被过去的作为所熟知。</span><span class="english">This astute policy is informed by the past.</span></p>
 
 <p><span class="chinese">精明的商人懂得如何感情投资。</span><span class="english">Astute salesmen know how to invest emotionally.</span></p>

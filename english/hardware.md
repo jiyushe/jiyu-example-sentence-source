@@ -1,5 +1,7 @@
 # hardware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardware.md)
+
 <p><span class="chinese">硬件故障。</span><span class="english">Hardware fault.</span></p>
 
 <p><span class="chinese">为何做开放硬件？</span><span class="english">Why do open hardware?</span></p>

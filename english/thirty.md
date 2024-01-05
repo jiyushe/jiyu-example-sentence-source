@@ -1,5 +1,7 @@
 # thirty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thirty.md)
+
 <p><span class="chinese">二十,三十</span><span class="english">Twenty, thirty?</span></p>
 
 <p><span class="chinese">她三十岁左右。</span><span class="english">She’s about thirty.</span></p>

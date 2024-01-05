@@ -1,5 +1,7 @@
 # solarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solarium.md)
+
 <p><span class="chinese">这大约需要30分钟，以高度的日光浴场。</span><span class="english">It takes about 30 minutes to attach the Solarium.</span></p>
 
 <p><span class="chinese">专业生产美容仪器日光浴机！</span><span class="english">Professional in producing beauty machine solarium !</span></p>

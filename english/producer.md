@@ -1,5 +1,7 @@
 # producer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/producer.md)
+
 <p><span class="chinese">关闭生产者。</span><span class="english">Closes the producer.</span></p>
 
 <p><span class="chinese">制片人是做什么的啊?</span><span class="english">What does a producer do?</span></p>

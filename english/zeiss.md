@@ -1,5 +1,7 @@
 # zeiss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zeiss.md)
+
 <p><span class="chinese">1986年，耶拿东蔡重新开始生产相机。</span><span class="english">While in 1986, Carl Zeiss Jena resumed production of cameras.</span></p>
 
 <p><span class="chinese">1863年，卡尔。蔡司成为宫廷的指定提供商。</span><span class="english">In1863 Carl Zeiss is appointed supplier to the Grand-Ducal court.</span></p>

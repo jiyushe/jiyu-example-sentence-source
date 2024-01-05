@@ -1,5 +1,7 @@
 # 鹭鸶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lusi.md)
+
 <p><span class="chinese">鹳，鹭鸶与其类，戴胜与蝙蝠。</span><span class="english">the stork, any kind of heron, the hoopoe and the bat.</span></p>
 
 <p><span class="chinese">美丽的野鸭在湖中安憩，巨大的鹭鸶在觅食。</span><span class="english">rests in his beauty on the water, and the great heron feeds.</span></p>

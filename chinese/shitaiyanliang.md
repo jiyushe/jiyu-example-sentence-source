@@ -1,5 +1,7 @@
 # 世态炎凉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitaiyanliang.md)
+
 <p><span class="chinese">世态炎凉、我心安稳、爱你如初！</span><span class="english">My heart is stable, the fickleness of the world, love you again!</span></p>
 
 <p><span class="chinese">对生命的漠视和麻木，岂止是世态炎凉。</span><span class="english">Disregard for human life and numbness, is not only the fickleness of the world.</span></p>

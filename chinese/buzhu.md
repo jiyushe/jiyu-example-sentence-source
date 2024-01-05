@@ -1,5 +1,7 @@
 # 不住
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhu.md)
+
 <p><span class="chinese">这片森林还藏不住它！</span><span class="english">The forest cannot hide it!</span></p>
 
 <p><span class="chinese">记不住这些名单？</span><span class="english">Can t memorize these lists?</span></p>

@@ -1,5 +1,7 @@
 # authoritarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authoritarian.md)
+
 <p><span class="chinese">在中国，国家才是权力者。</span><span class="english">In China, it is the State that is the authoritarian.</span></p>
 
 <p><span class="chinese">和乔布斯一样，在他强而有力的领导下，人们走到了一起。</span><span class="english">Like Jobs, he was an authoritarian who brought people together.</span></p>

@@ -1,5 +1,7 @@
 # 和风细雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hefengxiyu.md)
+
 <p><span class="chinese">和风细雨的季节又来了。</span><span class="english">The season comes in a gentle and mild way.</span></p>
 
 <p><span class="chinese">当然，随之而来的也是和风细雨。</span><span class="english">Of course, the attendant is sweetness and light.</span></p>

@@ -1,5 +1,7 @@
 # conical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conical.md)
+
 <p><span class="chinese">这三座山都呈尖尖的圆锥形。</span><span class="english">All three seemed sharp and conical in figure.</span></p>
 
 <p><span class="chinese">箭头分为圆锥头和破甲头等。</span><span class="english">The arrow head and Penetration into conical top.</span></p>

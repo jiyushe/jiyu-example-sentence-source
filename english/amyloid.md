@@ -1,5 +1,7 @@
 # amyloid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amyloid.md)
+
 <p><span class="chinese">匹兹堡化合物B结合在脑组织淀粉样斑点上。</span><span class="english">PIB adheres to amyloid plaques in the brain.</span></p>
 
 <p><span class="chinese">载脂蛋白E在淀粉状蛋白的致死性转变中起着重要的作用。</span><span class="english">Apo E is a key player in the deadly transformation of amyloid. Dr.</span></p>

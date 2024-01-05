@@ -1,5 +1,7 @@
 # electrothermal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrothermal.md)
+
 <p><span class="chinese">在北京地暖中电热膜地暖几乎很少使用。</span><span class="english">In Beijing to warm the electrothermal film warm rarely used.</span></p>
 
 <p><span class="chinese">估算了电热元件的工作温度。</span><span class="english">Operating temperature of electrothermal element is estimated.</span></p>

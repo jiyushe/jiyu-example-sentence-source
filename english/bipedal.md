@@ -1,5 +1,7 @@
 # bipedal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bipedal.md)
+
 <p><span class="chinese">这些“基因机器”其中的一个，一个群居的两足人猿开始了模仿。</span><span class="english">One of these gene machines, a social and bipedal ape, began to imitate.</span></p>
 
 <p><span class="chinese">人用两足行走，双手得到解放，可以用来抓握和操作。</span><span class="english">Bipedal locomotion in humans frees the hands for grasping and manipulation.</span></p>

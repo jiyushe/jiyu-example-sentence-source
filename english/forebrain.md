@@ -1,5 +1,7 @@
 # forebrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forebrain.md)
+
 <p><span class="chinese">建筑的影片可能会让人窒闷难耐。</span><span class="english">A film about architecture could leave a forebrain stifled.</span></p>
 
 <p><span class="chinese">前脑是脑中最大、最复杂的部分。</span><span class="english">The forebrain is the largest and most complex part of the brain.</span></p>

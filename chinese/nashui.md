@@ -1,5 +1,7 @@
 # 纳税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nashui.md)
+
 <p><span class="chinese">谁人会享受纳税？</span><span class="english">Who enjoys taxes?</span></p>
 
 <p><span class="chinese">我没有要申报纳税的东西。</span><span class="english">I have nothing to declare.</span></p>

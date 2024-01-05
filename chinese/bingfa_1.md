@@ -1,5 +1,7 @@
 # 并发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingfa_1.md)
+
 <p><span class="chinese">可能会并发感染。</span><span class="english">It may supervene with infection.</span></p>
 
 <p><span class="chinese">两个子进程并发执行。</span><span class="english">Concurrent execution of two sub-processes.</span></p>

@@ -1,5 +1,7 @@
 # 尊夫人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunfuren.md)
+
 <p><span class="chinese">请代向尊夫人问好。</span><span class="english">Please say hello to your wife.</span></p>
 
 <p><span class="chinese">请代为问候尊夫人。</span><span class="english">Please give my regards to your family.</span></p>

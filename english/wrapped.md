@@ -1,5 +1,7 @@
 # wrapped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrapped.md)
+
 <p><span class="chinese">如图卷好。</span><span class="english">Wrapped well as picture.</span></p>
 
 <p><span class="chinese">我把书用纸包好。</span><span class="english">I wrapped the book in paper.</span></p>

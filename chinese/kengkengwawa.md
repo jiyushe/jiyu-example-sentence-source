@@ -1,5 +1,7 @@
 # 坑坑洼洼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kengkengwawa.md)
+
 <p><span class="chinese">塑料地毯遮住了坑坑洼洼的车道。</span><span class="english">The plastic rug hides a bumpy driveway.</span></p>
 
 <p><span class="chinese">道路坎坷不平，到处是坑坑洼洼的雨水。</span><span class="english">The road was deeply rutted and pooled with rain.</span></p>

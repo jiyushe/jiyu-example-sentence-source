@@ -1,5 +1,7 @@
 # 年中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianzhong.md)
+
 <p><span class="chinese">你有没有做年中检讨呢？</span><span class="english">Do you do mid-year reviews?</span></p>
 
 <p><span class="chinese">年中时，该会约有450名会员。</span><span class="english">In mid-1999, it had around 450 members.</span></p>

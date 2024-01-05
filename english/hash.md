@@ -1,5 +1,7 @@
 # hash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hash.md)
+
 <p><span class="chinese">散列来生成一个检索的列表。</span><span class="english">Hash to make a list of searches.</span></p>
 
 <p><span class="chinese">无法取得有效的登入杂凑。</span><span class="english">Unable to get a valid login hash.</span></p>

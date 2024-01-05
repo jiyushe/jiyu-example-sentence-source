@@ -1,5 +1,7 @@
 # squadron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squadron.md)
+
 <p><span class="chinese">喂，我看到有护航的飞机。</span><span class="english">Yuke Squadron Hey, I see escort fighters.</span></p>
 
 <p><span class="chinese">美国空军中队以这艘航空母舰为基地。</span><span class="english">The U.S. squadron was based on the carrier.</span></p>

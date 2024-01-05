@@ -1,5 +1,7 @@
 # affirm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affirm.md)
+
 <p><span class="chinese">我觉得我在网上肯定成不了白金作家。</span><span class="english">I feel I affirm platinic writer on the net.</span></p>
 
 <p><span class="chinese">他们肯定奴隶有一些人权，但不具备全部的。</span><span class="english">They affirm some personal rights for the slave, but not all.</span></p>

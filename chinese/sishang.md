@@ -1,5 +1,7 @@
 # 死伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishang.md)
+
 <p><span class="chinese">这位老太太还在为儿子的死伤心。</span><span class="english">The old woman still mourns for her son.</span></p>
 
 <p><span class="chinese">军队在工人上开火，四死伤无数。</span><span class="english">The troops opened fire on workers and killed dozens.</span></p>

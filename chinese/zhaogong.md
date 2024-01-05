@@ -1,5 +1,7 @@
 # 招供
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaogong.md)
+
 <p><span class="chinese">这在某种程度上是招供。</span><span class="english">Which in a way is an admission.</span></p>
 
 <p><span class="chinese">没用的，查普曼。泰特招供了。</span><span class="english">It's no use, Chapman. Tate confessed.</span></p>

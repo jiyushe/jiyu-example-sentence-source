@@ -1,5 +1,7 @@
 # 抗原
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangyuan.md)
+
 <p><span class="chinese">抗体是怎样识别抗原的呢</span><span class="english">How do they recognize it?</span></p>
 
 <p><span class="chinese">它们粘附在抗原――抗体复合物上。</span><span class="english">They bind to antigen--antibody complexes.</span></p>

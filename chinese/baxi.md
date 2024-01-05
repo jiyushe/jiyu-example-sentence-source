@@ -1,5 +1,7 @@
 # 把戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baxi.md)
+
 <p><span class="chinese">这只是一个把戏？</span><span class="english">Just a try-on?</span></p>
 
 <p><span class="chinese">这种魔鬼的把戏儿。</span><span class="english">Such devil's fol -de-rol.</span></p>

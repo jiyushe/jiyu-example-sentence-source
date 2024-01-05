@@ -1,5 +1,7 @@
 # virtually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virtually.md)
+
 <p><span class="chinese">我实际上是个乐盲。</span><span class="english">I am virtually tone-deaf.</span></p>
 
 <p><span class="chinese">这座岛屿事实上是一块丰腴的土地。</span><span class="english">The island was virtually a hammock.</span></p>

@@ -1,5 +1,7 @@
 # 写意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieyi.md)
+
 <p><span class="chinese">写意出一首首寂寞的歌。</span><span class="english">Freehand out a lonely song.</span></p>
 
 <p><span class="chinese">中国写意画是“笔减而意繁”的典型个案。</span><span class="english">A typical case is in Chinese free sketch painting.</span></p>

@@ -1,5 +1,7 @@
 # dilemma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilemma.md)
+
 <p><span class="chinese">这就叫进退两难。</span><span class="english">This is the dilemma.</span></p>
 
 <p><span class="chinese">这可是一个两头不能讨好的难题。</span><span class="english">It is a no-win dilemma.</span></p>

@@ -1,5 +1,7 @@
 # 余味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuwei.md)
+
 <p><span class="chinese">这软饮料有种让人难忍受的余味。</span><span class="english">This soft drink has a nasty aftertaste.</span></p>
 
 <p><span class="chinese">这软饮料有种让人难受的余味。</span><span class="english">This soft drink get a nasty despitetaste.</span></p>

@@ -1,5 +1,7 @@
 # 菖蒲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changpu.md)
+
 <p><span class="chinese">天南星科菖蒲属一新变种。</span><span class="english">A new variety of Acorus of Araceae.</span></p>
 
 <p><span class="chinese">樱桃桑椹与菖蒲，更买雄黄酒一壶。</span><span class="english">Cherry mulberry and calamus, more buy realgar wine a pot of.</span></p>

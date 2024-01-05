@@ -1,5 +1,7 @@
 # 祖师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zushi.md)
+
 <p><span class="chinese">鲁班是建筑工匠的祖师。</span><span class="english">Lu Ban was the originator of architecture.</span></p>
 
 <p><span class="chinese">所以达摩祖师就由印度坐船到中国来了。</span><span class="english">Thus it happened that Patriarch Bodhidharma sailed from India to China.</span></p>

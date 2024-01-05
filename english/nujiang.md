@@ -1,5 +1,7 @@
 # nujiang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nujiang.md)
+
 <p><span class="chinese">怒江之战哪里有卖？</span><span class="english">Where war in Nujiang River has sell?</span></p>
 
 <p><span class="chinese">怒江之名意为愤怒的河流。</span><span class="english">The Nujiang is called The Angry River.</span></p>

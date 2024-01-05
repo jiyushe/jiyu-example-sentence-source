@@ -1,5 +1,7 @@
 # charmingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charmingly.md)
+
 <p><span class="chinese">这真的喜欢玩游戏和看憨态可掬。</span><span class="english">It really likes playing games and looks charmingly naïve.</span></p>
 
 <p><span class="chinese">她们从来都是无话可说，可是她们会迷人地说。</span><span class="english">They never have anything to say, but they say it charmingly.</span></p>

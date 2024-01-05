@@ -1,5 +1,7 @@
 # 招用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoyong.md)
+
 <p><span class="chinese">口头笑话把这一招用的淋漓尽致。</span><span class="english">Verbal jokes use this element to the greatest level possible.</span></p>
 
 <p><span class="chinese">我只要稍微耍点小花招用他们可以理解的方式解释。</span><span class="english">Bartleby-I just have to spin it and put in terms they can understand.</span></p>

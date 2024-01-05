@@ -1,5 +1,7 @@
 # leisure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leisure.md)
+
 <p><span class="chinese">闲暇是别忘上网冲浪。</span><span class="english">Surf the net leisure.</span></p>
 
 <p><span class="chinese">我很少有空闲。</span><span class="english">I am seldom at leisure.</span></p>

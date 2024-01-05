@@ -1,5 +1,7 @@
 # 按劳分配
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anlaofenpei.md)
+
 <p><span class="chinese">“按劳分配”是社会主义的一条重要原则。</span><span class="english">Distribution according to work is one of the principles of socialism.</span></p>
 
 <p><span class="chinese">按劳分配与按劳动力分配的关系又是如何?。</span><span class="english">And what is the relationship between the distribution according to work and labor?</span></p>

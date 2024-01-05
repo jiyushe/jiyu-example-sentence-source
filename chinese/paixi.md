@@ -1,5 +1,7 @@
 # 派系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paixi.md)
+
 <p><span class="chinese">如何控制派系。</span><span class="english">How to control for factions.</span></p>
 
 <p><span class="chinese">该党分裂成若干小派系。</span><span class="english">The party split into petty factions.</span></p>

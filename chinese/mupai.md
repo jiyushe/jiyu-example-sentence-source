@@ -1,5 +1,7 @@
 # 木排
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mupai.md)
+
 <p><span class="chinese">他们将木头绑成木排顺河运送。</span><span class="english">They rafted the logs down the river.</span></p>
 
 <p><span class="chinese">木排在波浪中浮沉着。</span><span class="english">The swimming raft was dancing in the waves.</span></p>

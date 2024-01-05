@@ -1,5 +1,7 @@
 # distributive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distributive.md)
+
 <p><span class="chinese">不仅仅是一个分配问题</span><span class="english">not just a distributive question</span></p>
 
 <p><span class="chinese">分配正义的问题。</span><span class="english">to the question of distributive justice.</span></p>

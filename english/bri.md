@@ -1,5 +1,7 @@
 # bri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bri.md)
+
 <p><span class="chinese">你还在这里做什么、布莱恩?。</span><span class="english">What're you still doing here, Bri?</span></p>
 
 <p><span class="chinese">第一个实施情况，支持7号信令，由亮其次。</span><span class="english">The first implementation was to support SS7, followed by BRI.</span></p>

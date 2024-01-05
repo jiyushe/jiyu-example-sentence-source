@@ -1,5 +1,7 @@
 # 干脆利落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gancuililuo.md)
+
 <p><span class="chinese">这回答干脆利落。</span><span class="english">It was a crisp answer.</span></p>
 
 <p><span class="chinese">它是一个干脆利落的视觉冲击。</span><span class="english">It has a crisp visual impact.</span></p>

@@ -1,5 +1,7 @@
 # 找茬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaocha.md)
+
 <p><span class="chinese">那个专找茬儿的捣蛋分子被逐出会场。</span><span class="english">The heckler was ejected from the meeting.</span></p>
 
 <p><span class="chinese">她现在的男朋友是个喜欢找茬儿的律师。</span><span class="english">Her new boyfriend is a nit-picking lawyer.</span></p>

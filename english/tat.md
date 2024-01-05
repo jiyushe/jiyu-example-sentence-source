@@ -1,5 +1,7 @@
 # tat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tat.md)
+
 <p><span class="chinese">什么，生吞一只老鼠？</span><span class="english">What. eat a tat alive?</span></p>
 
 <p><span class="chinese">东莞英达吸塑制品有限公司！</span><span class="english">Dongguan Ying Tat Blister Products Co. , Ltd.</span></p>

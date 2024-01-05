@@ -1,5 +1,7 @@
 # 行家里手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hangjialishou.md)
+
 <p><span class="chinese">你是行家里手。</span><span class="english">You are the bee's knees.</span></p>
 
 <p><span class="chinese">他是计算机软件方面的行家里手。</span><span class="english">He's expert at computer software.</span></p>

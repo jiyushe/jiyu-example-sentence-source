@@ -1,5 +1,7 @@
 # 宪法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianfa_1.md)
+
 <p><span class="chinese">而且这是在宪法中明文规定的。</span><span class="english">It's in "The Constitution. ""</span></p>
 
 <p><span class="chinese">中国有成文宪法。</span><span class="english">China has a written constitution.</span></p>

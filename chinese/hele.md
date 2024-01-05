@@ -1,5 +1,7 @@
 # 和乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hele.md)
+
 <p><span class="chinese">试一下和乐蟹吧。</span><span class="english">Try some Hele Crab, please.</span></p>
 
 <p><span class="chinese">乃至家庭也失去和乐。</span><span class="english">It can even cause disharmony in a family.</span></p>

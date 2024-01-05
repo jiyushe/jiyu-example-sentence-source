@@ -1,5 +1,7 @@
 # beatrix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beatrix.md)
+
 <p><span class="chinese">图为荷兰女王贝娅特丽克丝的肖像。</span><span class="english">Tiety Entjes-Weij, of Queen Beatrix.</span></p>
 
 <p><span class="chinese">史蒂芬妮巴顿，是碧翠丝波特的出版商。</span><span class="english">Stephanie Barton is Beatrix Potter's book publisher.</span></p>

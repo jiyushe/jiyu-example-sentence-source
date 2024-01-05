@@ -1,5 +1,7 @@
 # jeweler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeweler.md)
+
 <p><span class="chinese">我请那珠宝商修了我的表。</span><span class="english">I paid the jeweler to repair my watch.</span></p>
 
 <p><span class="chinese">钻石通过了珠宝商的仔细检查。</span><span class="english">The diamond passed the scrutiny of the jeweler.</span></p>

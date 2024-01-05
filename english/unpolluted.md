@@ -1,5 +1,7 @@
 # unpolluted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpolluted.md)
+
 <p><span class="chinese">可是没有人能够描述梵天，因此梵天不受污染。</span><span class="english">But no one has been able to describe Brahman. It is therefore unpolluted.</span></p>
 
 <p><span class="chinese">我羡慕你平和的心境，你的良心，你那未受污染的记忆。</span><span class="english">I envy your peace of mind, your clean conscience, your unpolluted memory.</span></p>

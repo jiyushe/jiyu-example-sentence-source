@@ -1,5 +1,7 @@
 # solid 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solid.md)
+
 <p><span class="chinese">铁、木和冰是固体。</span><span class="english">A dice is a solid.</span></p>
 
 <p><span class="chinese">楔板实心蒙乃尔。</span><span class="english">Wedge solid Monel.</span></p>

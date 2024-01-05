@@ -1,5 +1,7 @@
 # teleportation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teleportation.md)
+
 <p><span class="chinese">不同类型的可视化的心灵运输是。</span><span class="english">The different types of visual teleportation are.</span></p>
 
 <p><span class="chinese">优化相干态量子隐形传态的保真度。</span><span class="english">Optimizing the fidelity of coherent state of quantum teleportation.</span></p>

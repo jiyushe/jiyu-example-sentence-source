@@ -1,5 +1,7 @@
 # 谢世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshi_2.md)
+
 <p><span class="chinese">他父亲刚刚谢世。</span><span class="english">His father just passed away.</span></p>
 
 <p><span class="chinese">我的父亲去年以90高龄谢世。</span><span class="english">My father died last year at the age of 90.</span></p>

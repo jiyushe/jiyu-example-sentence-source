@@ -1,5 +1,7 @@
 # eunuch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eunuch.md)
+
 <p><span class="chinese">他既非阉人，亦非色鬼。</span><span class="english">He is neither an eunuch nor a satyr.</span></p>
 
 <p><span class="chinese">陈全请求宦官放了他。</span><span class="english">Chen Quan requested eunuch to put him.</span></p>

@@ -1,5 +1,7 @@
 # cyst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyst.md)
+
 <p><span class="chinese">表皮样囊肿与皮样囊肿。</span><span class="english">Epidermoid cyst and dermoid cyst.</span></p>
 
 <p><span class="chinese">会不会是皮样囊肿破裂?。</span><span class="english">What about ruptured dermoid cyst?</span></p>

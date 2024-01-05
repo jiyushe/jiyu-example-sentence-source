@@ -1,5 +1,7 @@
 # 外围
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiwei.md)
+
 <p><span class="chinese">使用你的外围视觉。</span><span class="english">Use your peripheral vision.</span></p>
 
 <p><span class="chinese">厂区外围增加一个摄像机。</span><span class="english">Add a vidicon around the factory.</span></p>

@@ -1,5 +1,7 @@
 # convergent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convergent.md)
+
 <p><span class="chinese">聚合型问题只有一个正确答案。</span><span class="english">Convergent questions have one correct answer.</span></p>
 
 <p><span class="chinese">实验证实，该算法是收敛的。</span><span class="english">Experiments show that the algorithm is convergent.</span></p>

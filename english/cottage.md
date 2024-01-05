@@ -1,5 +1,7 @@
 # cottage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cottage.md)
+
 <p><span class="chinese">他躲在一间小屋子里。</span><span class="english">He hid himself in a cottage.</span></p>
 
 <p><span class="chinese">借湖村的哈尼农舍。</span><span class="english">Hani cottage in Jiehu village.</span></p>

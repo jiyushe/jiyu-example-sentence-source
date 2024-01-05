@@ -1,5 +1,7 @@
 # 洋货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghuo_1.md)
+
 <p><span class="chinese">化工原料，食品原料，染料，颜料，洋货。</span><span class="english">Chemicals, Food Additives, Dyestuffs, Pigments and Sundries.</span></p>
 
 <p><span class="chinese">学习俄国民族志，洋货挡在大门口。</span><span class="english">Ethnographic study in Russia, foreign goods blocked at the gate.</span></p>

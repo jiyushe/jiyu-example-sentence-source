@@ -1,5 +1,7 @@
 # 姑母
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gumu.md)
+
 <p><span class="chinese">我也有两位姑母。</span><span class="english">I've got two aunts,too.</span></p>
 
 <p><span class="chinese">这些是我的叔叔和姑母。</span><span class="english">These are my uncle and aunt.</span></p>

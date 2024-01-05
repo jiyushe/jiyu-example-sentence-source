@@ -1,5 +1,7 @@
 # comparatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comparatively.md)
+
 <p><span class="chinese">台北市灾情较轻。</span><span class="english">Taipei escaped comparatively lightly.</span></p>
 
 <p><span class="chinese">而长期债券则相对较少</span><span class="english">there are comparatively fewer of bonds.</span></p>

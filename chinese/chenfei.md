@@ -1,5 +1,7 @@
 # 尘肺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenfei.md)
+
 <p><span class="chinese">碳黑尘肺常见并发症是什么?。</span><span class="english">Carbon black pneumoconiosis common complications is what?</span></p>
 
 <p><span class="chinese">引起碳黑尘肺的主要行业有哪些?。</span><span class="english">The main industry caused by carbon black pneumoconiosis have?</span></p>

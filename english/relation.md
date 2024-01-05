@@ -1,5 +1,7 @@
 # relation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relation.md)
+
 <p><span class="chinese">她跟你是什么亲戚关系？</span><span class="english">What relation is she to you?</span></p>
 
 <p><span class="chinese">没人能破坏这牵系。</span><span class="english">Nobody can broke the relation.</span></p>

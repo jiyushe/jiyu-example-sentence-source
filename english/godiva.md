@@ -1,5 +1,7 @@
 # godiva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godiva.md)
+
 <p><span class="chinese">也许比Godiva的还好。</span><span class="english">Maybe even better than Godiva.</span></p>
 
 <p><span class="chinese">我很喜欢Godiva巧克力。</span><span class="english">I really enjoy Godiva chocolate.</span></p>

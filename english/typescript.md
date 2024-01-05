@@ -1,5 +1,7 @@
 # typescript
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typescript.md)
+
 <p><span class="chinese">送来的诗歌是打字稿。</span><span class="english">The poems arrived in typescript.</span></p>
 
 <p><span class="chinese">送来的诗歌是五十页打字稿。</span><span class="english">The poems arrived in fifty pages of typescript.</span></p>

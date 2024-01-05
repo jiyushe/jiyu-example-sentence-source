@@ -1,5 +1,7 @@
 # 责罚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zefa.md)
+
 <p><span class="chinese">父亲由于儿子行为不轨而责罚他。</span><span class="english">The father chastised his son for his misconduct.</span></p>
 
 <p><span class="chinese">上帝在基督的十架上对罪的责罚。</span><span class="english">God's radical treatment of sin in the Cross of Christ.</span></p>

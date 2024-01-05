@@ -1,5 +1,7 @@
 # provider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/provider.md)
+
 <p><span class="chinese">神是我的供应者。</span><span class="english">God is my Provider.</span></p>
 
 <p><span class="chinese">连通性提供方服务器。</span><span class="english">Connectivity provider server.</span></p>

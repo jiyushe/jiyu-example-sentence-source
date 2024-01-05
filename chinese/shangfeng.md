@@ -1,5 +1,7 @@
 # 上峰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangfeng.md)
+
 <p><span class="chinese">我们上峰有指示，让他们闹去吧。</span><span class="english">We've instructions to lave them be.</span></p>
 
 <p><span class="chinese">偶尔，她也要占据一回上峰。</span><span class="english">Occasionally, she also wants to subjugate once last Feng.</span></p>

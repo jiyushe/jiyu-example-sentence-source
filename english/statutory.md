@@ -1,5 +1,7 @@
 # statutory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statutory.md)
+
 <p><span class="chinese">他们可能还享有法规保护。</span><span class="english">They may have statutory protection as well.</span></p>
 
 <p><span class="chinese">它们有些源起于普通法，其他则是属于成文法。</span><span class="english">Some arise from common law. Others are statutory.</span></p>

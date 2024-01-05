@@ -1,5 +1,7 @@
 # 恐慌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/konghuang.md)
+
 <p><span class="chinese">市场会恐慌。</span><span class="english">Markets would panic.</span></p>
 
 <p><span class="chinese">她对此感到恐慌。</span><span class="english">She felt scared at it.</span></p>

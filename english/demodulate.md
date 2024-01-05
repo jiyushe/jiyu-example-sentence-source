@@ -1,5 +1,7 @@
 # demodulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demodulate.md)
+
 <p><span class="chinese">该系统结构简单，易于解调。</span><span class="english">The system is simple and easy to demodulate.</span></p>
 
 <p><span class="chinese">对于一个实时的遥测系统，时统解调是必不可少的。</span><span class="english">It is absolutely necessary to demodulate the time-coordinated signal for a real-time system.</span></p>

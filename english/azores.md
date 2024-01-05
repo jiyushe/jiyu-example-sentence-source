@@ -1,5 +1,7 @@
 # azores
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azores.md)
+
 <p><span class="chinese">他背后躺着灰色的亚速尔岛</span><span class="english">Behind him lay the gray Azores</span></p>
 
 <p><span class="chinese">从拉普兰到亚速而岛，统一的货币已经成为了现实。</span><span class="english">From Lapland to the Azores , the single currency is a reality.</span></p>

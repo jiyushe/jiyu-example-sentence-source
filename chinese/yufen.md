@@ -1,5 +1,7 @@
 # 鱼粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yufen.md)
+
 <p><span class="chinese">红鱼粉含量对特定生长率影响显著。</span><span class="english">The RFM content affects SGR significantly.</span></p>
 
 <p><span class="chinese">鱼粉，50公斤麻袋装，以毛作净。</span><span class="english">Fish meal in gunny bags of 50kg , gross for net.</span></p>

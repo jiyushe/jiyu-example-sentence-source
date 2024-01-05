@@ -1,5 +1,7 @@
 # worth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worth.md)
+
 <p><span class="chinese">我了解他的品质。</span><span class="english">I know his worth.</span></p>
 
 <p><span class="chinese">它绝对值得一看。</span><span class="english">It’s worth seeing.</span></p>

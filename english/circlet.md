@@ -1,5 +1,7 @@
 # circlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circlet.md)
+
 <p><span class="chinese">我从这家商场里买了个小戒指。</span><span class="english">I got a circlet from the mall.</span></p>
 
 <p><span class="chinese">希望和爱都存在它的光环上。</span><span class="english">Hope and love in the circlet glow!</span></p>

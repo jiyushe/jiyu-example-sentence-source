@@ -1,5 +1,7 @@
 # jug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jug.md)
+
 <p><span class="chinese">你甚至可以用坛子。</span><span class="english">You can even use a jug.</span></p>
 
 <p><span class="chinese">我来把牛奶缸子拿开。</span><span class="english">Let me remove the milk- jug.</span></p>

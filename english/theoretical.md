@@ -1,5 +1,7 @@
 # theoretical 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theoretical.md)
+
 <p><span class="chinese">这并不只是理论上的风险。</span><span class="english">These risks are not merely theoretical.</span></p>
 
 <p><span class="chinese">有些局限是理论上的</span><span class="english">Some of these limitations are theoretical.</span></p>

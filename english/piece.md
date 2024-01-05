@@ -1,5 +1,7 @@
 # piece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piece.md)
+
 <p><span class="chinese">悲剧片？</span><span class="english">Tragedy piece?</span></p>
 
 <p><span class="chinese">这一乐章就结束了。</span><span class="english">That piece is over.</span></p>

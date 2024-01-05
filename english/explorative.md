@@ -1,5 +1,7 @@
 # explorative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explorative.md)
+
 <p><span class="chinese">数学探究教学在具体实施中存在诸多问题，且教学效果不理想。</span><span class="english">In practice, there were many questions in explorative teaching of mathematics.</span></p>
 
 <p><span class="chinese">民和盆地勘探主体包括巴州凹陷和永登凹陷。</span><span class="english">The main explorative targets in Minhe basin include Bazhou sag and Yongdeng sag.</span></p>

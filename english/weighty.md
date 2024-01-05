@@ -1,5 +1,7 @@
 # weighty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weighty.md)
+
 <p><span class="chinese">人孔盖在重移不动。</span><span class="english">The manhole cover is too weighty to move.</span></p>
 
 <p><span class="chinese">这样重大的事件谅必应进行更高级别的讨论吧？</span><span class="english">Surely such weighty matters merit a higher level of debate?</span></p>

@@ -1,5 +1,7 @@
 # genitourinary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genitourinary.md)
+
 <p><span class="chinese">在医学术语，这也是众所周知的所谓泌尿生殖系统。</span><span class="english">In medical terms, this is known as the genitourinary system.</span></p>
 
 <p><span class="chinese">学习肾脏与系统创伤的评估与处。</span><span class="english">Learn the evaluation and management of renal and genitourinary trauma.</span></p>

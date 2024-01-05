@@ -1,5 +1,7 @@
 # playground
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playground.md)
+
 <p><span class="chinese">运动场。</span><span class="english">The playground.</span></p>
 
 <p><span class="chinese">他一瘸一拐地离开了运动场。</span><span class="english">He limped off the playground.</span></p>

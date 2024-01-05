@@ -1,5 +1,7 @@
 # insurer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insurer.md)
+
 <p><span class="chinese">瞎掰，把你的资料告诉我。你的保险公司是哪家?。</span><span class="english">Nonsense. Give me your details. Who's your insurer?</span></p>
 
 <p><span class="chinese">承保人赔偿了投保人的巨额损失。</span><span class="english">The insurer indemnified the insured for the great losses.</span></p>

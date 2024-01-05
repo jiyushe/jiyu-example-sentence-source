@@ -1,5 +1,7 @@
 # proportionate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proportionate.md)
+
 <p><span class="chinese">那么，你认为俄罗斯的反映是否足够并且适当？</span><span class="english">Do you think the Russian reaction was adequate and proportionate?</span></p>
 
 <p><span class="chinese">随你便了，“合理适度”又是大不列颠的老一套了。</span><span class="english">So there you go. "Appropriate and proportionate", as is the British way.</span></p>

@@ -1,5 +1,7 @@
 # 住所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhusuo.md)
+
 <p><span class="chinese">像是个两居室住所。</span><span class="english">It was like a two- room flat.</span></p>
 
 <p><span class="chinese">他是一个没有固定住所的小贩。</span><span class="english">He is a pedlar of no fixed abode.</span></p>

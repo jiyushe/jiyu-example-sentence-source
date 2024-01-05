@@ -1,5 +1,7 @@
 # 烃基
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingji.md)
+
 <p><span class="chinese">烃基取代吡嗪和乙酰基取代吡嗪是两类新型的食用香料。</span><span class="english">Alkylpyrazines and acetylpyrazines are two kinds of new food flavorings.</span></p>
 
 <p><span class="chinese">探讨了苯环上烃基化的条件以及查尔酮合成方法和条件。</span><span class="english">The synthesis methods of chalcone and benzene ring alkylation are discussed.</span></p>

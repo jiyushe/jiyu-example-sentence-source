@@ -1,5 +1,7 @@
 # 贤士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_9.md)
+
 <p><span class="chinese">这是那三位贤士。</span><span class="english">These are the three wise men.</span></p>
 
 <p><span class="chinese">难道今天特别想贤士？</span><span class="english">Does today specially think magi?</span></p>

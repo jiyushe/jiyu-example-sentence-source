@@ -1,5 +1,7 @@
 # 草图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caotu.md)
+
 <p><span class="chinese">将此作为草图保存。</span><span class="english">Save it as draft.</span></p>
 
 <p><span class="chinese">构思草图。</span><span class="english">Ideation sketches.</span></p>

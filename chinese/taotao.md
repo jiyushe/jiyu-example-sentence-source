@@ -1,5 +1,7 @@
 # 套套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taotao.md)
+
 <p><span class="chinese">我能因此再得个套套吗？</span><span class="english">Can I get a case for that?</span></p>
 
 <p><span class="chinese">这时彼得抛出绳套套住了狼。</span><span class="english">Peter threw a rope around the wolf.</span></p>

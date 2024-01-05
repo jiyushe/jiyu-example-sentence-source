@@ -1,5 +1,7 @@
 # thermistor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermistor.md)
+
 <p><span class="chinese">热敏电阻操动报警灯。</span><span class="english">A thermistor operates an alarm lamp.</span></p>
 
 <p><span class="chinese">热敏电阻操动报警灯。</span><span class="english">A thermistor operates an alarm lamp.</span></p>

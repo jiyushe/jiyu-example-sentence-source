@@ -1,5 +1,7 @@
 # 食谱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shipu.md)
+
 <p><span class="chinese">按“彩虹食谱”搭配着吃。</span><span class="english">Eat the rainbow.</span></p>
 
 <p><span class="chinese">使用好的食谱。</span><span class="english">Get a good recipe.</span></p>

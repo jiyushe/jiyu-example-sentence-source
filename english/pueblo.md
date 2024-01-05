@@ -1,5 +1,7 @@
 # pueblo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pueblo.md)
+
 <p><span class="chinese">下了公路，他们拐上村庄的沙路。</span><span class="english">They turned off the highway onto the sandy Pueblo road.</span></p>
 
 <p><span class="chinese">陶斯美国新墨西哥州北部一村庄，位于陶斯镇的东北。</span><span class="english">A Pueblo people located north-northeast of Santa Fe, New Mexico.</span></p>

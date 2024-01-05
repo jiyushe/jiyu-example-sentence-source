@@ -1,5 +1,7 @@
 # 外务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiwu_1.md)
+
 <p><span class="chinese">王岐山将与日本外务大臣中曾根弘文一道共同主持这次会谈。</span><span class="english">Wang and Japanese Foreign Minister Hirofumi Nakasone will co-chair the talks.</span></p>
 
 <p><span class="chinese">杨洁篪当天上午在河内会见了日本外务大臣前原诚司。</span><span class="english">Yang met with Japanese Foreign Minister Seiji Maehara in Hanoi on that morning.</span></p>

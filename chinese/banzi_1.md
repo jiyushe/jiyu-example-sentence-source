@@ -1,5 +1,7 @@
 # 班子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banzi_1.md)
+
 <p><span class="chinese">这样麦凯恩的竞选班子就面临着一个麻烦的抉择。</span><span class="english">And so Mr McCain’s team faces an unenviable choice.</span></p>
 
 <p><span class="chinese">在班子建设和干部作风方面创先争优。</span><span class="english">Team building and work style of cadres in terms of A Good.</span></p>

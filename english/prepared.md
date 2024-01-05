@@ -1,5 +1,7 @@
 # prepared 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prepared.md)
+
 <p><span class="chinese">但是你毫无准备，而且母亲已神志不清。</span><span class="english">But you're not prepared.</span></p>
 
 <p><span class="chinese">你对此准备好了吗？</span><span class="english">Are you prepared for this?</span></p>

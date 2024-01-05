@@ -1,5 +1,7 @@
 # plotter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plotter.md)
+
 <p><span class="chinese">双色金属刻字机是小型起重机械的一种。</span><span class="english">Two-color metal cutting plotter is a small crane.</span></p>
 
 <p><span class="chinese">关于小刻字机工艺机器人。</span><span class="english">A small robot on the technology cutting "plotter."</span></p>

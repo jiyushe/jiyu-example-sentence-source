@@ -1,5 +1,7 @@
 # 照抄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaochao.md)
+
 <p><span class="chinese">请你把这个材料照抄一份。</span><span class="english">Please make a copy of this material.</span></p>
 
 <p><span class="chinese">她们所知道的全部就是“鹦鹉学舌”似地照抄照搬而己。</span><span class="english">They can copy, "parrot like, " and that is about all.</span></p>

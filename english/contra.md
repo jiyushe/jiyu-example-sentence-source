@@ -1,5 +1,7 @@
 # contra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contra.md)
+
 <p><span class="chinese">你玩过魂斗罗和合金弹头吗？</span><span class="english">You played contra or metal slug?</span></p>
 
 <p><span class="chinese">对罗马的比赛范尼能上么？</span><span class="english">Estará Van Nistelrooy para jugar contra la Roma?</span></p>

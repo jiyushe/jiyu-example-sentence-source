@@ -1,5 +1,7 @@
 # 刷洗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaxi.md)
+
 <p><span class="chinese">牙医刷洗我的牙齿。</span><span class="english">The dentist brushes and cleans my teeth.</span></p>
 
 <p><span class="chinese">他们刷洗过的手臂和工作服都被汗水浸湿变暗了。</span><span class="english">Their scrubs and gowns grew dark with sweat.</span></p>

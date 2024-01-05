@@ -1,5 +1,7 @@
 # tpn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tpn.md)
+
 <p><span class="chinese">TPN结合EN的综合治疗可能是更有益的。</span><span class="english">It is more beneficial for the combination of EN and TPN treatment.</span></p>
 
 <p><span class="chinese">目的观察复合辅酶在小儿外科静脉高营养中的保肝作用。</span><span class="english">OBJECTIVE To probe the protection of liver function in TPN of Pediatric Surgery with Compound Coenzyme.</span></p>

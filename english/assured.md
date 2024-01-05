@@ -1,5 +1,7 @@
 # assured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assured.md)
+
 <p><span class="chinese">包你没错。</span><span class="english">You can rest assured.</span></p>
 
 <p><span class="chinese">我确信这是事实。</span><span class="english">I am assured of tne truth.</span></p>

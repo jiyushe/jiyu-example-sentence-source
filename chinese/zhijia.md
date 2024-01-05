@@ -1,5 +1,7 @@
 # 指甲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijia.md)
+
 <p><span class="chinese">我的指甲呢？</span><span class="english">What about my nails?</span></p>
 
 <p><span class="chinese">修出完美的指甲。</span><span class="english">Fake a perfect manicure.</span></p>

@@ -1,5 +1,7 @@
 # steed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steed.md)
+
 <p><span class="chinese">一名没有高贵战马的骑士是什么样子？</span><span class="english">What's a knight without a noble steed?</span></p>
 
 <p><span class="chinese">你要去驯服那匹战马？</span><span class="english">You're going to tame the jousting steed?</span></p>

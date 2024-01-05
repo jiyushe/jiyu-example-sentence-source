@@ -1,5 +1,7 @@
 # farce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farce.md)
+
 <p><span class="chinese">我喜欢笑剧而不喜欢惨剧。</span><span class="english">I prefer farce to tragedy.</span></p>
 
 <p><span class="chinese">谁干的这种蠢事</span><span class="english">Who perpetrated this farce?</span></p>

@@ -1,5 +1,7 @@
 # castration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castration.md)
+
 <p><span class="chinese">我们所称的阉割是什麽呢？</span><span class="english">What do we call castration?</span></p>
 
 <p><span class="chinese">答案就是阉割。</span><span class="english">And the answer is castration.</span></p>

@@ -1,5 +1,7 @@
 # 月历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueli.md)
+
 <p><span class="chinese">这些月历提醒了我之所以坚持这样做的原因。</span><span class="english">The calendars reminded me of why.</span></p>
 
 <p><span class="chinese">我喜欢搜集不同国家的月历。</span><span class="english">I like to collect calendars of different countries.</span></p>

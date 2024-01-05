@@ -1,5 +1,7 @@
 # alkene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkene.md)
+
 <p><span class="chinese">某碳氢化合物已知可能是烯烃或是烷烃。</span><span class="english">A hydrocarbon was known to be either an alkene or alkane.</span></p>
 
 <p><span class="chinese">霍夫曼规则-----主要消除产物是取代基较少的烯烃。</span><span class="english">The Hofmann rule----yield mainly the least substituted alkene.</span></p>

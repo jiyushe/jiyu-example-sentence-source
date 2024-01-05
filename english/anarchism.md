@@ -1,5 +1,7 @@
 # anarchism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anarchism.md)
+
 <p><span class="chinese">这种情况过去称为无政府主义。</span><span class="english">This position used to be called anarchism.</span></p>
 
 <p><span class="chinese">你对于意识形态上的无政府主义如何看？</span><span class="english">From TianA What do you think of ideological anarchism?</span></p>

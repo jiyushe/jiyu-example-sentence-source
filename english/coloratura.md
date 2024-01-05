@@ -1,5 +1,7 @@
 # coloratura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coloratura.md)
+
 <p><span class="chinese">花腔女高音的声音频率是多少？</span><span class="english">Is Coloratura soprano singing a way of focus singing ?</span></p>
 
 <p><span class="chinese">长笛无疑是最好的花腔女高音。</span><span class="english">The flute is the best coloratura soprano without doubt.</span></p>

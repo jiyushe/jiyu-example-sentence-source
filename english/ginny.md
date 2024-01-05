@@ -1,5 +1,7 @@
 # ginny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ginny.md)
+
 <p><span class="chinese">琪妮在他胸膛上放了一个烟灰缸。</span><span class="english">Ginny put an ashtray on his chest.</span></p>
 
 <p><span class="chinese">“在那儿。”金妮贴着哈利的耳朵小声说。</span><span class="english">"In there, " whispered Ginny in Harry's ear.</span></p>

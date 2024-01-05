@@ -1,5 +1,7 @@
 # 上等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangdeng.md)
+
 <p><span class="chinese">这些茶都是上等品。</span><span class="english">The teas are all firsts.</span></p>
 
 <p><span class="chinese">你用的是上等苹果吗？</span><span class="english">Did you use pippin apples?</span></p>

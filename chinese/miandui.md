@@ -1,5 +1,7 @@
 # 面对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miandui.md)
+
 <p><span class="chinese">面对我，豪泽！</span><span class="english">Face me Hauser.</span></p>
 
 <p><span class="chinese">我会平静的面对这一切。</span><span class="english">I’m at peace with that.</span></p>

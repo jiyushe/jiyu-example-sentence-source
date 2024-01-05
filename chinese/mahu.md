@@ -1,5 +1,7 @@
 # 马虎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mahu.md)
+
 <p><span class="chinese">你如果这样马虎是会很麻烦的。</span><span class="english">What if she is tiger-like?</span></p>
 
 <p><span class="chinese">要好好地做，不可马虎。</span><span class="english">Do it properly-not just anyway.</span></p>

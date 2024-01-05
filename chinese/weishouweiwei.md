@@ -1,5 +1,7 @@
 # 畏首畏尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishouweiwei.md)
+
 <p><span class="chinese">碰到一个小小的书僮，就畏首畏尾？！</span><span class="english">Why are you scared by a little servant?</span></p>
 
 <p><span class="chinese">恐惧中长大的孩子，将来容易畏首畏尾。</span><span class="english">The kids growing up in fears will be flinched in future.</span></p>

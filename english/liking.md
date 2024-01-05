@@ -1,5 +1,7 @@
 # liking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liking.md)
+
 <p><span class="chinese">你喜欢这样吗？</span><span class="english">Are you liking this?</span></p>
 
 <p><span class="chinese">太方了，她不喜欢。</span><span class="english">Too square for her liking.</span></p>

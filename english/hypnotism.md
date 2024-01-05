@@ -1,5 +1,7 @@
 # hypnotism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypnotism.md)
+
 <p><span class="chinese">他对这个病人采用了催眠术疗法。</span><span class="english">He performed hypnotism on this patient.</span></p>
 
 <p><span class="chinese">催眠术有一些什么样的作用呢？</span><span class="english">What are some of the uses of hypnotism?</span></p>

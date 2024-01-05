@@ -1,5 +1,7 @@
 # mohair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mohair.md)
+
 <p><span class="chinese">文章利用等离子体对马海毛纤维进行处理。</span><span class="english">In this paper, the mohair fiber is processed by plasma.</span></p>
 
 <p><span class="chinese">错，安哥拉呢来自兔子，安哥拉山羊生产出的是马海毛。</span><span class="english">No, angora fiber comes from rabbits. Angora goats produce mohair.</span></p>

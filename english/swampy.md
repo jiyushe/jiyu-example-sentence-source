@@ -1,5 +1,7 @@
 # swampy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swampy.md)
+
 <p><span class="chinese">疟疾在一些沼泽地区仍很猖獗。</span><span class="english">Malaria is still rampant in some swampy regions.</span></p>
 
 <p><span class="chinese">排泄物必须被冲到水或沼泽中。</span><span class="english">Excreta must be contained in flood or swampy conditions.</span></p>

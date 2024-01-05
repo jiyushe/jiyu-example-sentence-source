@@ -1,5 +1,7 @@
 # 全民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanmin.md)
+
 <p><span class="chinese">全民植树日。</span><span class="english">National Tree-Planting Day.</span></p>
 
 <p><span class="chinese">我已经通过初级全民英检。</span><span class="english">I have already passed the basic-level GEPT.</span></p>

@@ -1,5 +1,7 @@
 # perimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perimeter.md)
+
 <p><span class="chinese">保护村子周边。</span><span class="english">Secure the perimeter around Ravenholm.</span></p>
 
 <p><span class="chinese">他的远投太不可靠吗？</span><span class="english">Was his perimeter shot too undependable?</span></p>

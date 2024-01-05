@@ -1,5 +1,7 @@
 # 不尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujin_1.md)
+
 <p><span class="chinese">很相近，但也不尽相同。</span><span class="english">Close, but not quite.</span></p>
 
 <p><span class="chinese">养成好习惯，一辈子受用不尽。</span><span class="english">Good habits, a lifetime ever.</span></p>

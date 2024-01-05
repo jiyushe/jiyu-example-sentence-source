@@ -1,5 +1,7 @@
 # 总归
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonggui.md)
+
 <p><span class="chinese">总归校园只有这么大而已“</span><span class="english">The campus is only so big."</span></p>
 
 <p><span class="chinese">我们总归都会和过往握手言和。</span><span class="english">We will always shake hands and past.</span></p>

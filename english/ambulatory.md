@@ -1,5 +1,7 @@
 # ambulatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambulatory.md)
+
 <p><span class="chinese">因此，我们必须要向门急诊领域扩展。</span><span class="english">So we need to get to the outpatient ambulatory realm.</span></p>
 
 <p><span class="chinese">另一个亚组采用动态血压监测。</span><span class="english">A subgroup of patients underwent ambulatory BP monitoring.</span></p>

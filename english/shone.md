@@ -1,5 +1,7 @@
 # shone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shone.md)
+
 <p><span class="chinese">在早上那太阳放着光芒。</span><span class="english">In the morning the sun shone.</span></p>
 
 <p><span class="chinese">他军帽上的红星闪闪发光。</span><span class="english">The red star shone on his cap.</span></p>

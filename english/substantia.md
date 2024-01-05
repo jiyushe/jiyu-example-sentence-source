@@ -1,5 +1,7 @@
 # substantia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substantia.md)
+
 <p><span class="chinese">在左边黑质处是正常数目的神经元，并且出现色素沉着。</span><span class="english">At the left, normal numbers of neurons substantia nigra are pigmented.</span></p>
 
 <p><span class="chinese">它是由于中脑塞梅林氏神经节中的神经细胞死亡导致的。</span><span class="english">It is caused by the death of nerve cells in a midbrain area called substantia nigra.</span></p>

@@ -1,5 +1,7 @@
 # marvin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marvin.md)
+
 <p><span class="chinese">嗨，我是马文。</span><span class="english">Hi, I’m Marvin.</span></p>
 
 <p><span class="chinese">马文跑上前去帮那个人。</span><span class="english">Marvin ran to help someone.</span></p>

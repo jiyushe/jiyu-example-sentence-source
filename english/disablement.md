@@ -1,5 +1,7 @@
 # disablement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disablement.md)
+
 <p><span class="chinese">目前去功能化的工作仍在继续。</span><span class="english">Work on disablement activities continues.</span></p>
 
 <p><span class="chinese">我们希望加快去功能化的程序。</span><span class="english">We want to speed up the rate of disablement.</span></p>

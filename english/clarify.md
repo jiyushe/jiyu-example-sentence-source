@@ -1,5 +1,7 @@
 # clarify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clarify.md)
+
 <p><span class="chinese">我来澄清一下。</span><span class="english">Let me clarify.</span></p>
 
 <p><span class="chinese">请澄清。</span><span class="english">Please clarify.</span></p>

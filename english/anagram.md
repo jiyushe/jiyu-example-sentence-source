@@ -1,5 +1,7 @@
 # anagram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anagram.md)
+
 <p><span class="chinese">这又是字谜？</span><span class="english">Is it another anagram?</span></p>
 
 <p><span class="chinese">纵横和字谜求解。</span><span class="english">Crossword and anagram solver.</span></p>

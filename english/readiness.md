@@ -1,5 +1,7 @@
 # readiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/readiness.md)
+
 <p><span class="chinese">他们管这个叫VHR，非常高的准备。</span><span class="english">They call this, VHR, very high readiness.</span></p>
 
 <p><span class="chinese">我们都佩服他乐于助人的精神。</span><span class="english">We all admire his readiness to help others.</span></p>

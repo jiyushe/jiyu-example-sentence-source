@@ -1,5 +1,7 @@
 # 矿藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangcang.md)
+
 <p><span class="chinese">四川各种矿藏蕴量丰富。</span><span class="english">Various ores were abundant.</span></p>
 
 <p><span class="chinese">衰老的身体正如一块自我孕育了矿藏的土地。</span><span class="english">The ageing body is like a field self-sown with mines.</span></p>

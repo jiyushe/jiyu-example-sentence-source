@@ -1,5 +1,7 @@
 # 退避
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuibi.md)
+
 <p><span class="chinese">西格弗里德畏缩了，退避到墙根。</span><span class="english">Siegfried cringed and shrank against the wall.</span></p>
 
 <p><span class="chinese">退避一旁对这个国家和他的政党没有任何益处。</span><span class="english">Standing back is not doing the country or his party any good.</span></p>

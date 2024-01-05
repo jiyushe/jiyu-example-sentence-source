@@ -1,5 +1,7 @@
 # deductible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deductible.md)
+
 <p><span class="chinese">提高你的扣除。</span><span class="english">Raise your deductible.</span></p>
 
 <p><span class="chinese">欢迎乐捐﹐捐款可减免所得税！</span><span class="english">Donations may be tax deductible.</span></p>

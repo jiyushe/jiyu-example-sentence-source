@@ -1,5 +1,7 @@
 # redistribute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redistribute.md)
+
 <p><span class="chinese">你会马上进行再分配，对吧？</span><span class="english">You'd redistribute in a flash, wouldn't you?</span></p>
 
 <p><span class="chinese">这里再转载一篇张涛之先生的文章。</span><span class="english">Redistribute the article of Zhang Tao 's Sir again here.</span></p>

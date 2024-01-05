@@ -1,5 +1,7 @@
 # obtuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obtuse.md)
+
 <p><span class="chinese">这个三角形是钝角三角形。</span><span class="english">The triangle is a obtuse.</span></p>
 
 <p><span class="chinese">这个三角形是钝角三角形。</span><span class="english">This triangle is a obtuse.</span></p>

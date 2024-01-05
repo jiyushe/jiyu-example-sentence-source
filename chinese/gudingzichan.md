@@ -1,5 +1,7 @@
 # 固定资产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudingzichan.md)
+
 <p><span class="chinese">关于固定资产购建问题。</span><span class="english">Issues on fixed assets construction.</span></p>
 
 <p><span class="chinese">公司固定资产数千万余元。</span><span class="english">The company thousands of yuan in fixed assets.</span></p>

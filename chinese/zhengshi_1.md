@@ -1,5 +1,7 @@
 # 正事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengshi_1.md)
+
 <p><span class="chinese">现在咱们谈正事。</span><span class="english">Now let's talk business.</span></p>
 
 <p><span class="chinese">先正事，后娱乐。</span><span class="english">Businesss before pleasure.</span></p>

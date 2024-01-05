@@ -1,5 +1,7 @@
 # 司机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siji_1.md)
+
 <p><span class="chinese">他是一个司机。</span><span class="english">He e's a driver.</span></p>
 
 <p><span class="chinese">他是一位公共汽车司机。</span><span class="english">He's a bus-driver.</span></p>

@@ -1,5 +1,7 @@
 # stranglehold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stranglehold.md)
+
 <p><span class="chinese">天空增强了自己对这项运动的控制，但也出了最高价。</span><span class="english">Sky has increased its stranglehold on the game, but has paid top dollar.</span></p>
 
 <p><span class="chinese">黑暗势力现在步履蹒跚，他们曾经强大的对你们世界控制力正在滑落。</span><span class="english">The dark is faltering and its once-mighty stranglehold on your world is slipping.</span></p>

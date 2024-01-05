@@ -1,5 +1,7 @@
 # kennedy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kennedy.md)
+
 <p><span class="chinese">佛罗里达，肯尼迪航天中心——星期一，亚特兰蒂斯航天飞机已经入轨并与国际空间站对接。</span><span class="english">KENNEDY SPACE CENTER, Fla.</span></p>
 
 <p><span class="chinese">参议员哈牧德，参议员肯尼迪，埃尔顿.约翰，参议员莫顿。</span><span class="english">Senator Kennedy. Elton John.</span></p>

@@ -1,5 +1,7 @@
 # syntactically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syntactically.md)
+
 <p><span class="chinese">这只是语法上说得通。</span><span class="english">It is in fact syntactically valid.</span></p>
 
 <p><span class="chinese">在语义构造上是对的，对么？</span><span class="english">It's syntactically correct. Right?</span></p>

@@ -1,5 +1,7 @@
 # 试卷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijuan.md)
+
 <p><span class="chinese">我会给试卷评分。</span><span class="english">I will grade the paper.</span></p>
 
 <p><span class="chinese">第一件事，阅读试卷。</span><span class="english">First thing, read the test.</span></p>

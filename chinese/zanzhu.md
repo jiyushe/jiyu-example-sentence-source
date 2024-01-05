@@ -1,5 +1,7 @@
 # 赞助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanzhu.md)
+
 <p><span class="chinese">他会为此赞助一切。</span><span class="english">and he pays for everything.</span></p>
 
 <p><span class="chinese">他们一直得到我们的赞助</span><span class="english">They have been sponsored by us.</span></p>

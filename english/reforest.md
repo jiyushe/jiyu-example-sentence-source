@@ -1,5 +1,7 @@
 # reforest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reforest.md)
+
 <p><span class="chinese">政府正作出艰苦的努力在山上重新造林。</span><span class="english">The government is making strenuous efforts to reforest the hills.</span></p>
 
 <p><span class="chinese">该项目旨在1990年之前森林遭砍伐的地区开展再造林工作。</span><span class="english">The project aims to reforest areas that were deforested before 1990.</span></p>

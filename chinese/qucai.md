@@ -1,5 +1,7 @@
 # 取材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qucai.md)
+
 <p><span class="chinese">这小说取材于一个真事的历史。</span><span class="english">The novel go since a ture story.</span></p>
 
 <p><span class="chinese">取材于非洲狮追捕猎物。</span><span class="english">Prey capture by the African lion.</span></p>

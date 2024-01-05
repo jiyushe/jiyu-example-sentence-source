@@ -1,5 +1,7 @@
 # stardom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stardom.md)
+
 <p><span class="chinese">我搬到了纽约，拼命表演。</span><span class="english">I moved to New York City, hell-bent on stardom.</span></p>
 
 <p><span class="chinese">这位男演员靠自己长得漂亮而毫不费力地成了明星。</span><span class="english">The actor coasted to stardom on his good looks.</span></p>

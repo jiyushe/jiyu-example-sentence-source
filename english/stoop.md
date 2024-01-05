@@ -1,5 +1,7 @@
 # stoop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stoop.md)
+
 <p><span class="chinese">哪有人能弯腰弯那么低的啊?</span><span class="english">How could anyone stoop so low?</span></p>
 
 <p><span class="chinese">这个老人驼着背走路。</span><span class="english">The old man walked with a stoop.</span></p>

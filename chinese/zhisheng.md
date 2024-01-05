@@ -1,5 +1,7 @@
 # 制胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhisheng.md)
+
 <p><span class="chinese">那为什么这会是一个制胜点呢？</span><span class="english">So why is it a big win?</span></p>
 
 <p><span class="chinese">你甚至可以把它当作制胜策略。</span><span class="english">You can even use it tactically.</span></p>

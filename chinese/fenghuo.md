@@ -1,5 +1,7 @@
 # 烽火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenghuo.md)
+
 <p><span class="chinese">他放烽火。</span><span class="english">He beaconed up a beacon.</span></p>
 
 <p><span class="chinese">如果刚多点燃烽火，罗翰国必须随时参战。</span><span class="english">If the beacons of Gondor are lit, Rohan must be ready for war.</span></p>

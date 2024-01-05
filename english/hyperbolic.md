@@ -1,5 +1,7 @@
 # hyperbolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperbolic.md)
+
 <p><span class="chinese">这个曲面是一个双曲抛物面。</span><span class="english">This one is a hyperbolic parabloid.</span></p>
 
 <p><span class="chinese">返回指定角度的双曲正切值。</span><span class="english">Returns the hyperbolic tangent of the specified angle.</span></p>

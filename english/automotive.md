@@ -1,5 +1,7 @@
 # automotive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automotive.md)
+
 <p><span class="chinese">汽车温度检测波纹管。</span><span class="english">Automotive temperature-sensing bellows.</span></p>
 
 <p><span class="chinese">我得到了一份汽车修理工的工作。</span><span class="english">I got a job as the automotive internist.</span></p>

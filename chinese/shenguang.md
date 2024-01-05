@@ -1,5 +1,7 @@
 # 深广
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenguang.md)
+
 <p><span class="chinese">诗歌情思空间的拓深广延。</span><span class="english">Opening up deep extension of poem affection space.</span></p>
 
 <p><span class="chinese">倾听这无际的黑夜，没有她在身旁夜更深广。</span><span class="english">To hear the immense night, even more immense without her.</span></p>

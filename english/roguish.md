@@ -1,5 +1,7 @@
 # roguish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roguish.md)
+
 <p><span class="chinese">这人是个彻底的无赖。</span><span class="english">The man is roguish through and through.</span></p>
 
 <p><span class="chinese">那人是个十足的无赖。</span><span class="english">The man was roguish through and through.</span></p>

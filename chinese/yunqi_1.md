@@ -1,5 +1,7 @@
 # 孕期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunqi_1.md)
+
 <p><span class="chinese">孕期可不可以吃大杏仁呢？</span><span class="english">Pregnancy can eat big almond?</span></p>
 
 <p><span class="chinese">准父母健康是孕期健康的关键。</span><span class="english">Parental health is key to a healthy pregnancy.</span></p>

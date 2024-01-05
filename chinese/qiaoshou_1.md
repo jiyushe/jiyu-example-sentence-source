@@ -1,5 +1,7 @@
 # 翘首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoshou_1.md)
+
 <p><span class="chinese">我们可以翘首期待。</span><span class="english">We can expect much more.</span></p>
 
 <p><span class="chinese">大家早就翘首期待这一切的到来。</span><span class="english">All of this is long overdue.</span></p>

@@ -1,5 +1,7 @@
 # 儒学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruxue.md)
+
 <p><span class="chinese">“教化”是儒学的一个核心观念。</span><span class="english">Humanization is a core idea of Confucian.</span></p>
 
 <p><span class="chinese">希腊哲学家，犬儒学派奠基人之一。</span><span class="english">Greek philosopher, a prototype of the Cynics.</span></p>

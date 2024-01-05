@@ -1,5 +1,7 @@
 # hardship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardship.md)
+
 <p><span class="chinese">我一不怕苦，二不怕死。</span><span class="english">I fear neither hardship nor death.</span></p>
 
 <p><span class="chinese">因为艰难是冠冕的代价。</span><span class="english">Hardship is the price of coronation.</span></p>

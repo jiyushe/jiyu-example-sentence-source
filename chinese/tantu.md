@@ -1,5 +1,7 @@
 # 坦途
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tantu.md)
+
 <p><span class="chinese">为学之路无坦途。</span><span class="english">There is no royal road to learn.</span></p>
 
 <p><span class="chinese">学无坦途。</span><span class="english">There's no royal road to learning.</span></p>

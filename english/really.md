@@ -1,5 +1,7 @@
 # really 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/really.md)
+
 <p><span class="chinese">真哒？</span><span class="english">Really?</span></p>
 
 <p><span class="chinese">嗳呀！真的吗！</span><span class="english">Really now!</span></p>

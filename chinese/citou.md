@@ -1,5 +1,7 @@
 # 刺头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/citou.md)
+
 <p><span class="chinese">基本上讲你就是个刺头。</span><span class="english">You are basically a prick.</span></p>
 
 <p><span class="chinese">一个脚趾头掉了下来，落在她掌中就好像一个玫瑰刺头。</span><span class="english">A toe falls off and lies like the tip of a rose thorn on her palm.</span></p>

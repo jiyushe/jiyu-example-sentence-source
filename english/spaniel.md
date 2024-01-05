@@ -1,5 +1,7 @@
 # spaniel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spaniel.md)
+
 <p><span class="chinese">这只獚在狗展中展出。</span><span class="english">The spaniel is benched.</span></p>
 
 <p><span class="chinese">我一直想要一蹦蹦跳跳的狗。</span><span class="english">I've always wanted a springer spaniel.</span></p>

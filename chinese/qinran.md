@@ -1,5 +1,7 @@
 # 侵染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinran.md)
+
 <p><span class="chinese">玉米丝黑穗病菌不能侵染高梁。</span><span class="english">Head smut fungus from corn did not infect sorghum.</span></p>
 
 <p><span class="chinese">小枝中的病原菌为黑斑病主要初侵染来源。</span><span class="english">The original infection pathogen was mainly in twigs.</span></p>

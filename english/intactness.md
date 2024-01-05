@@ -1,5 +1,7 @@
 # intactness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intactness.md)
+
 <p><span class="chinese">庄子在运用整体性理论时，将之推论到生死的问题上，可是一种大胆的尝试。</span><span class="english">It is bold try for Chuang Tzu to evolve intactness theory to the level of life and death.</span></p>
 
 <p><span class="chinese">中国古代的哲学家如庄子、老子等，他们重视完整性的道。</span><span class="english">Chinese philosophers, such as Chuang Tzu and Laotse, took much count of the intactness of Tao.</span></p>

@@ -1,5 +1,7 @@
 # pathogeny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathogeny.md)
+
 <p><span class="chinese">串珠镰刀菌是小麦根腐病病原菌之一。</span><span class="english">Fusarium moniliforme is one pathogeny of wheat common rot.</span></p>
 
 <p><span class="chinese">然而，对鼠疫病因病机的研究和介绍缺如。</span><span class="english">But there are not treatises on pathogeny and pathogenesis of plague.</span></p>

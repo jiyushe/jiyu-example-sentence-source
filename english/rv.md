@@ -1,5 +1,7 @@
 # rv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rv.md)
+
 <p><span class="chinese">好，就是个基本的房车。</span><span class="english">Yeah, it's just basic RV.</span></p>
 
 <p><span class="chinese">西单女孩错过公共汽车了?。</span><span class="english">Did you miss the motor coach rv?</span></p>

@@ -1,5 +1,7 @@
 # 下车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiache.md)
+
 <p><span class="chinese">我在这儿下车可以么？</span><span class="english">Can I get off here?</span></p>
 
 <p><span class="chinese">我说下车，贱货！</span><span class="english">I said get out bitch!</span></p>

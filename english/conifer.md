@@ -1,5 +1,7 @@
 # conifer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conifer.md)
+
 <p><span class="chinese">什么是针叶树？</span><span class="english">What is a conifer?</span></p>
 
 <p><span class="chinese">东部山区被针叶树林覆盖。</span><span class="english">Conifer forests cover the eastern versant.</span></p>

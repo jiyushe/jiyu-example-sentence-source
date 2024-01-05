@@ -1,5 +1,7 @@
 # 更上一层楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengshangyicenglou.md)
+
 <p><span class="chinese">柯尼卡胶卷使彩色摄影更上一层楼。</span><span class="english">A camera supplies the data for colour sorting.</span></p>
 
 <p><span class="chinese">新的学期，新的开始，祝愿大家都能更上一层楼！</span><span class="english">Wish everyone have new sucess in the new term!</span></p>

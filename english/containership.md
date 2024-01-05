@@ -1,5 +1,7 @@
 # containership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/containership.md)
+
 <p><span class="chinese">在左舷8海里外，遇到一艘对开的集装箱船。</span><span class="english">Met with a containership in the opposite course 8 miles off the port side.</span></p>
 
 <p><span class="chinese">在电子计算机详细计算的基础上所得结果用来分析集装箱船的方形系数。</span><span class="english">The results based on deal of calculation with computers are used to analyse block coefficient of containership.</span></p>

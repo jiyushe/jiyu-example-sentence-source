@@ -1,5 +1,7 @@
 # novel 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/novel.md)
+
 <p><span class="chinese">这本小说读起来很不错。</span><span class="english">This novel reads well.</span></p>
 
 <p><span class="chinese">这小说很好卖。</span><span class="english">This novel sells well.</span></p>

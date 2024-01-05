@@ -1,5 +1,7 @@
 # backed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backed.md)
+
 <p><span class="chinese">他被撵出了酒吧间。</span><span class="english">He was backed off the bar.</span></p>
 
 <p><span class="chinese">现在我们回到这里。</span><span class="english">Now we've backed up to here.</span></p>

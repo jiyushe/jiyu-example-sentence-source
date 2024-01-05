@@ -1,5 +1,7 @@
 # weirdly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weirdly.md)
+
 <p><span class="chinese">是什么导致他们做出如此反常的决定？</span><span class="english">What is driving this weirdly disinhibited decision-making?</span></p>
 
 <p><span class="chinese">有时会作出一些不可思议的举动，经常捉弄彼方。</span><span class="english">She sometimes behaves weirdly and often makes fun of Kanata.</span></p>

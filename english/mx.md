@@ -1,5 +1,7 @@
 # mx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mx.md)
+
 <p><span class="chinese">我的的帐户没有自定MX记录吗。</span><span class="english">I haven't any custom MX records on the account.</span></p>
 
 <p><span class="chinese">什麽因素影响你选择美心MX?。</span><span class="english">What are the factors affecting your choose Maxim's MX?</span></p>

@@ -1,5 +1,7 @@
 # surrealism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surrealism.md)
+
 <p><span class="chinese">这是一个超现实主义的法国人。</span><span class="english">This is a far, far reach from French surrealism.</span></p>
 
 <p><span class="chinese">艺术家萨尔瓦多·达利是超现实主义的同义词。</span><span class="english">The artist Salvador Dali is synonymous with surrealism.</span></p>

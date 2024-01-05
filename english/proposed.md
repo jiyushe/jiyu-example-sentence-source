@@ -1,5 +1,7 @@
 # proposed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proposed.md)
+
 <p><span class="chinese">他就向我求婚。</span><span class="english">He proposed to me.</span></p>
 
 <p><span class="chinese">我这儿有一份当时的推荐食谱</span><span class="english">Here's the proposed menu.</span></p>

@@ -1,5 +1,7 @@
 # impassively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impassively.md)
+
 <p><span class="chinese">他的房子被烧毁时，他毫无表情地在旁边看着。</span><span class="english">He watched impassively as his house burned down.</span></p>
 
 <p><span class="chinese">在一面玻璃窗户后，看不清面目的旁观者冷漠地看着Lincoln。</span><span class="english">Faceless onlookers watch Lincoln impassively through a glass window.</span></p>

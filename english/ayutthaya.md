@@ -1,5 +1,7 @@
 # ayutthaya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ayutthaya.md)
+
 <p><span class="chinese">是城府还是逃避？</span><span class="english">Is the Ayutthaya or escape?</span></p>
 
 <p><span class="chinese">目前该寺已成为大城府历史公园的一部分。</span><span class="english">The temple is part of Ayutthaya Historical Park.</span></p>

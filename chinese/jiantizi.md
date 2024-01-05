@@ -1,5 +1,7 @@
 # 简体字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiantizi.md)
+
 <p><span class="chinese">所学是正体字或简体字？</span><span class="english">Did you study standard or simplified Characters?</span></p>
 
 <p><span class="chinese">他们为自己没有使用简体字而感到自豪。</span><span class="english">And they pride themselves in not using the simplified version.</span></p>

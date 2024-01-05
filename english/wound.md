@@ -1,5 +1,7 @@
 # wound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wound.md)
+
 <p><span class="chinese">好好养伤。</span><span class="english">Keep wound well.</span></p>
 
 <p><span class="chinese">伤口溃烂了。</span><span class="english">The wound festered.</span></p>

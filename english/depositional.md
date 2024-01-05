@@ -1,5 +1,7 @@
 # depositional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depositional.md)
+
 <p><span class="chinese">坡折带是沉积地貌突变的古构造枢纽带。</span><span class="english">The slope-break zone is a pivotal zone of depositional physiognomy.</span></p>
 
 <p><span class="chinese">蓝田组沉积环境演化旋回性明显，由两个完整的旋回组成。</span><span class="english">Evolution of depositional environment of LF includes two entire cycles.</span></p>

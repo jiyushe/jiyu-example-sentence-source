@@ -1,5 +1,7 @@
 # 撕裂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/silie.md)
+
 <p><span class="chinese">并于2005年右韧带撕裂。</span><span class="english">In 2005, torn right hamstring.</span></p>
 
 <p><span class="chinese">他的皮肤已经撕裂到骨头了。</span><span class="english">His skin was shredded to the bone.</span></p>

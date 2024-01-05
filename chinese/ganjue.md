@@ -1,5 +1,7 @@
 # 感觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganjue.md)
+
 <p><span class="chinese">我感觉很麻木.</span><span class="english">I feel numb.</span></p>
 
 <p><span class="chinese">自我感觉安全。</span><span class="english">We feel safe.</span></p>

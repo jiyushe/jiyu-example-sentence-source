@@ -1,5 +1,7 @@
 # incitement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incitement.md)
+
 <p><span class="chinese">过度追求刺激，忽视和谐。</span><span class="english">Fifthly, pursue incitement excessively, neglect diapason.</span></p>
 
 <p><span class="chinese">毕竟，刚才经历了凤羽和龙琦的刺激。</span><span class="english">Just capable the incitement of Feng feather and Long Qi once and for all.</span></p>

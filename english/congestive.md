@@ -1,5 +1,7 @@
 # congestive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congestive.md)
+
 <p><span class="chinese">异搏定可导致心脏充血困难…</span><span class="english">Verapamil can cause congestive heart failure.</span></p>
 
 <p><span class="chinese">塔里克于1994年因充血性心力衰竭而逝世。</span><span class="english">Tarik passed away in 1994 due to congestive heart failure.</span></p>

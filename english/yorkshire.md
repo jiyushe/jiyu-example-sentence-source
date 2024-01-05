@@ -1,5 +1,7 @@
 # yorkshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yorkshire.md)
+
 <p><span class="chinese">去东约克郡试试吧。那里的猪多的是。</span><span class="english">Try East Yorkshire. '000's of them.</span></p>
 
 <p><span class="chinese">约克郡山谷国家公园，英格兰</span><span class="english">Yorkshire Dales National Park, England</span></p>

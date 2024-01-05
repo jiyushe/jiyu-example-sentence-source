@@ -1,5 +1,7 @@
 # crumbly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crumbly.md)
+
 <p><span class="chinese">不要用那么太干或者太容易碎的叶子。</span><span class="english">Avoid leaves that are dry or crumbly.</span></p>
 
 <p><span class="chinese">脆饼干是一种薄的、松脆的饼干。</span><span class="english">Shortbread is a short crumbly cookie.</span></p>

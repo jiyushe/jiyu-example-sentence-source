@@ -1,5 +1,7 @@
 # angelfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angelfish.md)
+
 <p><span class="chinese">神仙鱼是易于饲养的慈鲷科鱼种。</span><span class="english">Angelfish are an easy-to-keep cichlid species.</span></p>
 
 <p><span class="chinese">灰神仙鱼是常见的居民珊瑚礁。</span><span class="english">Gray angelfish are common inhabitants of coral reefs.</span></p>

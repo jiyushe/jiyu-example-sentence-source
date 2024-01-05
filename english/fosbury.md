@@ -1,5 +1,7 @@
 # fosbury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fosbury.md)
+
 <p><span class="chinese">阐述了体育院校在背越式跳高教学中的教学方法。</span><span class="english">The teaching method of fosbury flop, used in physical education colleges and universities were expounded.</span></p>
 
 <p><span class="chinese">主要采用实验教学法进行了短跑、背越式跳高两个项目的个案教学法与传统教学法的对比研究。</span><span class="english">A comparative research between case teaching and traditional teaching on sprint and Fosbury flop by experiment.</span></p>

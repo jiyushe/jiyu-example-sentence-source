@@ -1,5 +1,7 @@
 # 扪心自问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menxinziwen.md)
+
 <p><span class="chinese">扪心自问，这批评是对的吗？</span><span class="english">Ask if the criticism is helpful.</span></p>
 
 <p><span class="chinese">我想起我夜间的歌曲，扪心自问。</span><span class="english">I remembered my songs in the night.</span></p>

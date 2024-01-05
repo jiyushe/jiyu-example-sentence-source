@@ -1,5 +1,7 @@
 # 作弊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuobi.md)
+
 <p><span class="chinese">他作弊.</span><span class="english">He cheated.</span></p>
 
 <p><span class="chinese">相反，我作弊了。</span><span class="english">Instead, I cheated.</span></p>

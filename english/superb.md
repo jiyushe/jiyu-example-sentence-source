@@ -1,5 +1,7 @@
 # superb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superb.md)
+
 <p><span class="chinese">他是一位一流的科学家</span><span class="english">He's a superb scientist.</span></p>
 
 <p><span class="chinese">这个体育中心是一流的。</span><span class="english">The sports center is superb.</span></p>

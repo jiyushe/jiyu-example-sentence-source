@@ -1,5 +1,7 @@
 # pharynx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pharynx.md)
+
 <p><span class="chinese">鼻咽癌有治吗？</span><span class="english">Does nose pharynx cancer have treat?</span></p>
 
 <p><span class="chinese">声带，颈部腺体，咽喉。</span><span class="english">C5- Vocal cords, neck glands, pharynx.</span></p>

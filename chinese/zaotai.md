@@ -1,5 +1,7 @@
 # 灶台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaotai.md)
+
 <p><span class="chinese">利用厨房小车扩展灶台空间</span><span class="english">Expand the counter with a kitchen cart</span></p>
 
 <p><span class="chinese">他的父亲正坐在厨房的大餐桌旁整理渔网，他的母亲在灶台边忙碌着，准备开饭。</span><span class="english">His father sat at the big kitchen table, working on a fishing net.</span></p>

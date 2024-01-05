@@ -1,5 +1,7 @@
 # 本法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benfa.md)
+
 <p><span class="chinese">本法快速、方便。</span><span class="english">The method was fast and convinent.</span></p>
 
 <p><span class="chinese">软封面笔记本选用无酸纸，并以丝线书本法钉装。</span><span class="english">The notebooks are thread-bound on acid-free paper.</span></p>

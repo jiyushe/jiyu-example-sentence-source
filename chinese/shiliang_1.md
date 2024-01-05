@@ -1,5 +1,7 @@
 # 适量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiliang_1.md)
+
 <p><span class="chinese">所以吃些粗茶淡饭、适量饮食。</span><span class="english">So eat simply and moderately.</span></p>
 
 <p><span class="chinese">精盐、胡椒粉各适量。</span><span class="english">Salt, pepper the right amount.</span></p>

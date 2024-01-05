@@ -1,5 +1,7 @@
 # evangelicalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evangelicalism.md)
+
 <p><span class="chinese">他对20世纪福音派运动的冲击是令人惊奇的。</span><span class="english">His impact is staggering on 20th century evangelicalism.</span></p>
 
 <p><span class="chinese">对上帝之爱的自由观点如今也渗透了许多福音主义。</span><span class="english">Liberal thinking about God's love also permeates much of evangelicalism today.</span></p>

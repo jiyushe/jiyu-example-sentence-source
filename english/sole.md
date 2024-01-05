@@ -1,5 +1,7 @@
 # sole 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sole.md)
+
 <p><span class="chinese">皮底。</span><span class="english">Leather sole.</span></p>
 
 <p><span class="chinese">我吃炸鲽鱼吧。</span><span class="english">I'll have fried sole.</span></p>

@@ -1,5 +1,7 @@
 # husbandman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/husbandman.md)
+
 <p><span class="chinese">农夫不会一直打谷的，上帝也不会一直用杖的。</span><span class="english">The great Husbandman is not always threshing.</span></p>
 
 <p><span class="chinese">我是真葡萄树，我父是栽培的人。</span><span class="english">I am the true vine, and my Father is the husbandman.</span></p>

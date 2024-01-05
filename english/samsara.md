@@ -1,5 +1,7 @@
 # samsara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samsara.md)
+
 <p><span class="chinese">心甾感情中轮回就卜再高贵。</span><span class="english">Heart in sentiment samsara no longer noble.</span></p>
 
 <p><span class="chinese">整个再生的过程就称为轮回。</span><span class="english">The whole process of rebirths is called samsara.</span></p>

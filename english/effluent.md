@@ -1,5 +1,7 @@
 # effluent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effluent.md)
+
 <p><span class="chinese">现在就有出售排泄污染物权利的市场。</span><span class="english">You now have a market in effluent rights.</span></p>
 
 <p><span class="chinese">你应该用排出来的水洗停车场。</span><span class="english">You should wash the car park with effluent water.</span></p>

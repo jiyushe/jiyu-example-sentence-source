@@ -1,5 +1,7 @@
 # 在职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizhi.md)
+
 <p><span class="chinese">所有的在职员工都可以领到年终奖金。</span><span class="english">All employees can get year-end bonus.</span></p>
 
 <p><span class="chinese">他在职总统期间可谓波澜起伏。</span><span class="english">His term as president was tumultuous.</span></p>

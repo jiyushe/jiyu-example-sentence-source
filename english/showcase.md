@@ -1,5 +1,7 @@
 # showcase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/showcase.md)
+
 <p><span class="chinese">当然，我把它从陈列柜里拿出来，给您。</span><span class="english">Let me take it out of the showcase.</span></p>
 
 <p><span class="chinese">您觉得陈列柜里面的那几双怎么样?。</span><span class="english">How do you like these in the showcase?</span></p>

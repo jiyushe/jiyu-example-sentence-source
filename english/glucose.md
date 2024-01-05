@@ -1,5 +1,7 @@
 # glucose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glucose.md)
+
 <p><span class="chinese">乳糖产生葡萄糖和半乳糖。</span><span class="english">Lactose gives glucose and galactose.</span></p>
 
 <p><span class="chinese">葡萄糖正一滴一滴地输入病人体内。</span><span class="english">Glucose was dripping into the patient.</span></p>

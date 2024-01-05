@@ -1,5 +1,7 @@
 # counteroffensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counteroffensive.md)
+
 <p><span class="chinese">同时，全面大反攻的准备工作业已着手进行。</span><span class="english">Meanwhile, preparations went on for an all-out counteroffensive.</span></p>
 
 <p><span class="chinese">因为反攻才刚刚开始，并将愈演愈烈。</span><span class="english">Because the counteroffensive is just beginning, and it's going to be fierce.</span></p>

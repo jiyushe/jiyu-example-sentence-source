@@ -1,5 +1,7 @@
 # tainan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tainan.md)
+
 <p><span class="chinese">台南市运河。</span><span class="english">Canal of Tainan City.</span></p>
 
 <p><span class="chinese">这班火车什么时候到台南？</span><span class="english">What time is the train due in Tainan?</span></p>

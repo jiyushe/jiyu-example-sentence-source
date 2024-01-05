@@ -1,5 +1,7 @@
 # accrue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accrue.md)
+
 <p><span class="chinese">利息从月初开始自然增殖。</span><span class="english">Interest accrue from the begin of the month.</span></p>
 
 <p><span class="chinese">这个捐献每年生可使用的利息所得。</span><span class="english">Spendable earnings accrue on the gift annually.</span></p>

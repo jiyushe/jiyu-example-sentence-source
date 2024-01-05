@@ -1,5 +1,7 @@
 # 冰锥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingzhui.md)
+
 <p><span class="chinese">北冰洋上的一块大浮冰里孕育着一个冰锥状的洞穴。</span><span class="english">A large ice floe in the Arctic Ocean bears an icicle-trimmed cave.</span></p>
 
 <p><span class="chinese">艾尔莎公主还遭到魔力反噬，用冰锥刺穿了自己。</span><span class="english">The princess's powers backfire and she impales herself on an icicle.</span></p>

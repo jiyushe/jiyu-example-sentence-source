@@ -1,5 +1,7 @@
 # favela
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favela.md)
+
 <p><span class="chinese">里约热内卢贫民窟里孩童们在玩耍。</span><span class="english">Brazilian children play in a Rio de Janeiro favela.</span></p>
 
 <p><span class="chinese">几十幅图像改变了里约热内卢的贫民区形象。</span><span class="english">Here, a favela in Rio de Janeiro is transformed by dozens of images.</span></p>

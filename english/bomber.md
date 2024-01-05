@@ -1,5 +1,7 @@
 # bomber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bomber.md)
+
 <p><span class="chinese">就像自杀式袭击者那样。</span><span class="english">Right? We are kind of suicide bomber.</span></p>
 
 <p><span class="chinese">沙特亲王遭遇自杀式爆炸袭击受伤。</span><span class="english">Suicide bomber injures senior Saudi prince.</span></p>

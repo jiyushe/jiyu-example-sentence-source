@@ -1,5 +1,7 @@
 # 地平线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dipingxian.md)
+
 <p><span class="chinese">地平线是否平直？</span><span class="english">Is it straight?</span></p>
 
 <p><span class="chinese">他们消失在地平线上了。</span><span class="english">They faded out in the horizon.</span></p>

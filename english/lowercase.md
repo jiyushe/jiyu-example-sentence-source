@@ -1,5 +1,7 @@
 # lowercase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowercase.md)
+
 <p><span class="chinese">经常是只用小写字母。</span><span class="english">Often in all lowercase letters.</span></p>
 
 <p><span class="chinese">用小写的sigma表示。</span><span class="english">This will be called lowercase sigma.</span></p>

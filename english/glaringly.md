@@ -1,5 +1,7 @@
 # glaringly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glaringly.md)
+
 <p><span class="chinese">你怎么能对这可怜的孩子这么明目张胆地撒谎？</span><span class="english">How can you lie so glaringly to the poor child?</span></p>
 
 <p><span class="chinese">缅甸的这一例子中，很多失败之处格外明显。</span><span class="english">In the case of Myanmar, the failures are glaringly obvious.</span></p>

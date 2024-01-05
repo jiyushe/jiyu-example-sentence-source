@@ -1,5 +1,7 @@
 # 走样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouyang.md)
+
 <p><span class="chinese">别使你的鞋走样。</span><span class="english">Keep your shoes from losing shape.</span></p>
 
 <p><span class="chinese">反走样方法用在这里是无。</span><span class="english">The Anti-aliased Method used here is None.</span></p>

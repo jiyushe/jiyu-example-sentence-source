@@ -1,5 +1,7 @@
 # 水肥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuifei.md)
+
 <p><span class="chinese">而水肥耦合研究一直是节水技术研究的一个重要方面。</span><span class="english">The study on coupling effect of water and fertilizer is an important part.</span></p>
 
 <p><span class="chinese">在现有的水肥条件下，冬小麦和夏玉米有较大的增产潜力。</span><span class="english">Both of winter wheat and summer corn has still great potential to increase yield.</span></p>

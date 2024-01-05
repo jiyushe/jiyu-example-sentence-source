@@ -1,5 +1,7 @@
 # mainland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mainland.md)
+
 <p><span class="chinese">这份报告指责的是大陆么？</span><span class="english">Is this a report debasing mainland?</span></p>
 
 <p><span class="chinese">他怎么回大陆来了？</span><span class="english">Why does he return to the mainland?</span></p>

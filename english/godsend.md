@@ -1,5 +1,7 @@
 # godsend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godsend.md)
+
 <p><span class="chinese">你真是天降福星。</span><span class="english">You are a godsend.</span></p>
 
 <p><span class="chinese">似乎是上帝派他们来的，他们也的确是上帝派来的。</span><span class="english">They may seem like a godsend to you, and they are.</span></p>

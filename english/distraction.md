@@ -1,5 +1,7 @@
 # distraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distraction.md)
+
 <p><span class="chinese">只能使大家心烦意乱。</span><span class="english">It's just a distraction.</span></p>
 
 <p><span class="chinese">分心会害死你，或其他人。</span><span class="english">Distraction kills – you or others.</span></p>

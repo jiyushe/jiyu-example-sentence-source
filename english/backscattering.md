@@ -1,5 +1,7 @@
 # backscattering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backscattering.md)
+
 <p><span class="chinese">本文介绍沟道-背散射分析的实验装置。</span><span class="english">An experimental installation of channeling backscattering is described.</span></p>
 
 <p><span class="chinese">通过对两种分布表面的后向散射截面计算，得到了与解析法类似的结果。</span><span class="english">Beckmann and it is also used to calculate the backscattering cross sections.</span></p>

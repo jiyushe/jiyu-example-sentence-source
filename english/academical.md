@@ -1,5 +1,7 @@
 # academical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/academical.md)
+
 <p><span class="chinese">鼓励复制者，复制学术贴也可获得奖励。</span><span class="english">Copying academical articles are also encouraged and rewarded.</span></p>
 
 <p><span class="chinese">介绍了王樟连教授针灸学术思想。</span><span class="english">Professor Wang, s academical thought about Acu-Moxibustion are introduced.</span></p>

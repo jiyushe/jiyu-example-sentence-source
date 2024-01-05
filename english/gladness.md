@@ -1,5 +1,7 @@
 # gladness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gladness.md)
+
 <p><span class="chinese">让我的心盈满欢愉。</span><span class="english">Fill my heart with gladness.</span></p>
 
 <p><span class="chinese">为什么他们高兴快乐事奉神呢？</span><span class="english">Why do they serve with gladness?</span></p>

@@ -1,5 +1,7 @@
 # rhizopus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhizopus.md)
+
 <p><span class="chinese">例如水绵属和根霉属的植物。</span><span class="english">Spirogyra and Rhizopus are examples.</span></p>
 
 <p><span class="chinese">面包酶将这种酶分泌到面包上。</span><span class="english">Rhizopus secrets this enzyme into the bread.</span></p>

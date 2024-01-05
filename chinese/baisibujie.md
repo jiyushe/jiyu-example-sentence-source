@@ -1,5 +1,7 @@
 # 百思不解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baisibujie.md)
+
 <p><span class="chinese">你的话真是令人百思不解。</span><span class="english">Your words are simply incomprehensible.</span></p>
 
 <p><span class="chinese">这件神秘事情使我百思不解。</span><span class="english">I am puzzled by the difficult questions.</span></p>

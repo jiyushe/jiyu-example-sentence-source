@@ -1,5 +1,7 @@
 # postnasal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postnasal.md)
+
 <p><span class="chinese">血管运动性鼻炎的常见症状是经常鼻塞，鼻涕倒流。</span><span class="english">Common symptoms of vasomotor rhinitis are often nasal congestion and postnasal drip.</span></p>
 
 <p><span class="chinese">目的观察采用一次性带气囊导尿管进行后鼻孔填塞止血的临床效果。</span><span class="english">Objective To investigate the clinical effect of postnasal packing by using disposable balloon urinary catheter.</span></p>

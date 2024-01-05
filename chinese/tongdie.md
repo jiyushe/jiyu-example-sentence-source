@@ -1,5 +1,7 @@
 # 通牒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongdie.md)
+
 <p><span class="chinese">从下周起，维京传媒将向数以千计的非法下载或共享音乐的家庭发出通牒。</span><span class="english">The age of illegal music downloads could soon be over.</span></p>
 
 <p><span class="chinese">结算号召通牒时，你才需要选择五个永久物。</span><span class="english">You don't choose five permanents you control until Clarion Ultimatum resolves.</span></p>

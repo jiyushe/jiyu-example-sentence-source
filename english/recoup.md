@@ -1,5 +1,7 @@
 # recoup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recoup.md)
+
 <p><span class="chinese">叫我来弥补损失是不可能的。</span><span class="english">It is impossible for me to recoup.</span></p>
 
 <p><span class="chinese">他最近才恢复健康。</span><span class="english">He didn't recoup his health until recently.</span></p>

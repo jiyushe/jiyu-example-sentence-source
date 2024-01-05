@@ -1,5 +1,7 @@
 # jv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jv.md)
+
 <p><span class="chinese">政府采购普通公务车屏蔽合资车。</span><span class="english">Govt to exclude JV cars from purchase.</span></p>
 
 <p><span class="chinese">这是从属于联合经营的非常不同的安排。</span><span class="english">It was a very different arrangement under the JV.</span></p>

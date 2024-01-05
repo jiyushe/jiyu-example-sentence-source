@@ -1,5 +1,7 @@
 # 自荐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijian_1.md)
+
 <p><span class="chinese">这个女服务生已经向我们自荐了。</span><span class="english">The waitress has offered her services to us.</span></p>
 
 <p><span class="chinese">如果其它报道你能提供新闻线索，不妨自荐。</span><span class="english">Ask if you can help be a source for other stories.</span></p>

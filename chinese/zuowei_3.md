@@ -1,5 +1,7 @@
 # 座位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuowei_3.md)
+
 <p><span class="chinese">我们要非吸烟区的座位.</span><span class="english">Nonsmoking section.</span></p>
 
 <p><span class="chinese">此座位已被预订。</span><span class="english">This seat is engaged.</span></p>

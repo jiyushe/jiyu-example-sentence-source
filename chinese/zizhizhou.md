@@ -1,5 +1,7 @@
 # 自治州
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhizhou.md)
+
 <p><span class="chinese">现任贵州黔东南自治州作家协会副主席。</span><span class="english">Now he is the vice-president of Southeast Guizhou Writers Association.</span></p>
 
 <p><span class="chinese">在中国凉山彝族自治州，人们的生活常常是与世隔绝的。</span><span class="english">Family life in China's Liangshan Yi Autonomous Prefecture is often isolated.</span></p>

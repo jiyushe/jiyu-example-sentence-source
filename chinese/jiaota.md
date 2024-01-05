@@ -1,5 +1,7 @@
 # 脚踏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaota.md)
+
 <p><span class="chinese">脚踏溜冰鞋的胡萝卜。</span><span class="english">A carrot on ice-skates!</span></p>
 
 <p><span class="chinese">约翰是个脚踏两条船的混蛋！</span><span class="english">John is a two-timing jerk!</span></p>

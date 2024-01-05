@@ -1,5 +1,7 @@
 # randomicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/randomicity.md)
+
 <p><span class="chinese">OBSA多小波对前置滤波器选取具有任意性。</span><span class="english">OBSA multiwavelets have randomicity as to selection of the pre-filters.</span></p>
 
 <p><span class="chinese">去除声波数据的周期性、连续性、相关性，提取其随机性。</span><span class="english">Periodicity, continuity and correlation of sound data are wiped off and randomicity is extracted.</span></p>

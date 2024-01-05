@@ -1,5 +1,7 @@
 # 白皙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baixi.md)
+
 <p><span class="chinese">他那白皙的肤色，宛如夏雪。</span><span class="english">White his rode as the summer snow.</span></p>
 
 <p><span class="chinese">看那白皙的皮肤和浅浅的头发！</span><span class="english">Look at that white skin and fair hair!</span></p>

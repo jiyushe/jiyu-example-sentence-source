@@ -1,5 +1,7 @@
 # nagasaki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nagasaki.md)
+
 <p><span class="chinese">豪斯登堡是位于日本长崎附近的游乐园。</span><span class="english">Huis Ten Boch is an amusement park near Nagasaki in Japan.</span></p>
 
 <p><span class="chinese">相比之下，1945年美军在长崎投下的那颗原子弹的当量为2.1万吨。</span><span class="english">By comparison, the bomb dropped on Nagasaki in 1945 had a yield of 21 kilotons.</span></p>

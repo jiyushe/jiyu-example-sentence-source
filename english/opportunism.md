@@ -1,5 +1,7 @@
 # opportunism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opportunism.md)
+
 <p><span class="chinese">机会注意策略似乎已经成为哈马斯组织的新的特色。</span><span class="english">Opportunism as strategy appears to be the group’s new hallmark.</span></p>
 
 <p><span class="chinese">巴洛特利在成为一名成功的球员后谈到了“机会主义”这个词。</span><span class="english">Balotelli talked of "opportunism" in the wake of his success as a footballer.</span></p>

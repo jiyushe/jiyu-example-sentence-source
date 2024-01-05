@@ -1,5 +1,7 @@
 # antidote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antidote.md)
+
 <p><span class="chinese">你看到解药了么？</span><span class="english">Do you see an antidote?</span></p>
 
 <p><span class="chinese">解毒药多少钱？</span><span class="english">How much for the antidote?</span></p>

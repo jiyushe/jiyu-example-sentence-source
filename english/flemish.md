@@ -1,5 +1,7 @@
 # flemish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flemish.md)
+
 <p><span class="chinese">但结果却是纯尼德兰式的。</span><span class="english">But the result is purely Flemish.</span></p>
 
 <p><span class="chinese">不存在弗拉芒语这种语言。</span><span class="english">There is no such language as Flemish.</span></p>

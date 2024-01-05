@@ -1,5 +1,7 @@
 # texas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/texas.md)
+
 <p><span class="chinese">不要跟我们德克萨斯人较劲。</span><span class="english">Don't mess with Texas.</span></p>
 
 <p><span class="chinese">东北德克萨斯州的喀多族人。</span><span class="english">Caddo people of NE Texas.</span></p>

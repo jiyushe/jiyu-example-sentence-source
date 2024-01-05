@@ -1,5 +1,7 @@
 # 骄人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoren.md)
+
 <p><span class="chinese">南湾隧道项目一直保持骄人的安全纪录。</span><span class="english">Nam Wan Tunnel ? a project proud of its safety record.</span></p>
 
 <p><span class="chinese">这所大学在田径运动方面历来成绩骄人。</span><span class="english">This college has a long tradition of athletic excellence.</span></p>

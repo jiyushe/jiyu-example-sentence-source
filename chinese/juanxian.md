@@ -1,5 +1,7 @@
 # 捐献
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanxian.md)
+
 <p><span class="chinese">向慈善机构捐献食物。</span><span class="english">Donate food to a charity.</span></p>
 
 <p><span class="chinese">我是个骨髓捐献的在册人员。</span><span class="english">I am on the bone marrow register.</span></p>

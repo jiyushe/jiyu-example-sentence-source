@@ -1,5 +1,7 @@
 # ceaseless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceaseless.md)
+
 <p><span class="chinese">相信生命不息。</span><span class="english">Believing ceaseless life.</span></p>
 
 <p><span class="chinese">演出结束时，全场响起经久不息的掌声。</span><span class="english">At the end, there was ceaseless applause.</span></p>

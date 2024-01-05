@@ -1,5 +1,7 @@
 # 征调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdiao.md)
+
 <p><span class="chinese">委员会应立即采取措施，为防止各种不同的社团在各组征调人员……</span><span class="english">The committee must take measures to prevent recruiting in the sections for the different societies.</span></p>
 
 <p><span class="chinese">因此，需要日本提供详细的要求，我将向联邦各州征调这种机器人。</span><span class="english">Therefore, the need to provide details of Japan's request, I will requisition the robot federal states.</span></p>

@@ -1,5 +1,7 @@
 # introductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introductive.md)
+
 <p><span class="chinese">常见的导语有过渡式、解题式、悬念式、直观式等。</span><span class="english">The introductive words we often see are intergradation, topic-explaining, suspense, and intuition, etc.</span></p>
 
 <p><span class="chinese">导语应具有目的性、诱导性、传情性、趣味性、针对性和概括性等特点。</span><span class="english">Introductive words should be purposeful, inductive, feeling passing, amusing, pertinent and recapitulative.</span></p>

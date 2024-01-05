@@ -1,5 +1,7 @@
 # carboxylate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carboxylate.md)
+
 <p><span class="chinese">单环羧酸盐属于分散型聚合物成核剂。</span><span class="english">Monocyclic carboxylate is a dispersive-type polymer nucleating agent.</span></p>
 
 <p><span class="chinese">黄素2是现在最有可能在其两性离子地方式或作为其羧酸离子。</span><span class="english">Flavin 2 is most likely present in its zwitterionic form or as its carboxylate ion.</span></p>

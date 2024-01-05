@@ -1,5 +1,7 @@
 # authoritatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authoritatively.md)
+
 <p><span class="chinese">法官举止必须要庄严。</span><span class="english">A judge should comport himself authoritatively.</span></p>
 
 <p><span class="chinese">接着你非常心平气和地却又命令式地说“停下”。</span><span class="english">Then you very calmly, yet authoritatively say "Stop."</span></p>

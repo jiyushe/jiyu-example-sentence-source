@@ -1,5 +1,7 @@
 # vignette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vignette.md)
+
 <p><span class="chinese">以下就是故事的最后一幕。</span><span class="english">This is the final vignette of the story.</span></p>
 
 <p><span class="chinese">你们好，也许你们已经知道了，我已经为TV4的新偶像经历做好了音乐。</span><span class="english">As you may already know, I have done the music for TV4's new idol vignette.</span></p>

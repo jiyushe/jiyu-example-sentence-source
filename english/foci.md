@@ -1,5 +1,7 @@
 # foci
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foci.md)
+
 <p><span class="chinese">结果全部病灶获得手术切除。</span><span class="english">Results All foci were ablated.</span></p>
 
 <p><span class="chinese">真皮层可见坏死病灶。</span><span class="english">The necrosis foci were seen in corium.</span></p>

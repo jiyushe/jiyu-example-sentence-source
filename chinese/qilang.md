@@ -1,5 +1,7 @@
 # 气浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qilang.md)
+
 <p><span class="chinese">当气浪袭在她的身上，她会感受到。</span><span class="english">When waves of air beat against her, she felt them.</span></p>
 
 <p><span class="chinese">爆炸气浪把汽车掀起飞上空中。</span><span class="english">The force of the explosion blew the cars into the air.</span></p>

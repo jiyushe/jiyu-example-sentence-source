@@ -1,5 +1,7 @@
 # unexpectedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unexpectedly.md)
+
 <p><span class="chinese">灾难不期发生了！</span><span class="english">A disaster happened unexpectedly.</span></p>
 
 <p><span class="chinese">而现在她竟离他而去。</span><span class="english">But now she left him unexpectedly.</span></p>

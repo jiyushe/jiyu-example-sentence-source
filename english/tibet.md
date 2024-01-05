@@ -1,5 +1,7 @@
 # tibet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tibet.md)
+
 <p><span class="chinese">你知道它是中国一部分么？</span><span class="english">Do uno Tibet is a part of Chn ?</span></p>
 
 <p><span class="chinese">外国人为何需要办理“入藏旅游批准函”？</span><span class="english">Foreign tourists how to travel in Tibet?</span></p>

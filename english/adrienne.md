@@ -1,5 +1,7 @@
 # adrienne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adrienne.md)
+
 <p><span class="chinese">听着，安卓，你可不能告诉钱德。</span><span class="english">Listen, Adrienne , you can't tell Chandler about this.</span></p>
 
 <p><span class="chinese">雅克布认为阿德里安娜不知道我偷了珠宝。</span><span class="english">Jakob thinks that Adrienne doesn’t know I stole the jewels.</span></p>

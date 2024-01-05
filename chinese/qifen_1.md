@@ -1,5 +1,7 @@
 # 气氛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qifen_1.md)
+
 <p><span class="chinese">气氛达到高潮。</span><span class="english">A shouted climax.</span></p>
 
 <p><span class="chinese">我提供最好的气氛。</span><span class="english">I-I served the best air.</span></p>

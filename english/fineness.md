@@ -1,5 +1,7 @@
 # fineness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fineness.md)
+
 <p><span class="chinese">其次看涂料颗粒细度。</span><span class="english">See coating grain next fineness.</span></p>
 
 <p><span class="chinese">那种材料精良超过其他所有材料。</span><span class="english">That material surpasses all others in fineness.</span></p>

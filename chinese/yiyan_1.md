@@ -1,5 +1,7 @@
 # 遗言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyan_1.md)
+
 <p><span class="chinese">遗言执行人把这段大声朗诵了进去。</span><span class="english">The executor relisting it out loud.</span></p>
 
 <p><span class="chinese">你怎么会知道索尼耶赫的遗言？</span><span class="english">How couId you know Saunière's Iast words?</span></p>

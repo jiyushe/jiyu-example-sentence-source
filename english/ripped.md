@@ -1,5 +1,7 @@
 # ripped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ripped.md)
+
 <p><span class="chinese">风把帆张满了。</span><span class="english">The wind ripped the sail.</span></p>
 
 <p><span class="chinese">他突然脱掉大衣。</span><span class="english">He ripped off his overcoat.</span></p>

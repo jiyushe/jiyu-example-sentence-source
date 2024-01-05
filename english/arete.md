@@ -1,5 +1,7 @@
 # arete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arete.md)
+
 <p><span class="chinese">你不能让丹蒂·阿雷特就这么逃走。</span><span class="english">You can't just let Dante Arete get away.</span></p>
 
 <p><span class="chinese">其核心,就是"德性"这个概念</span><span class="english">At the core of it, is the concept of arete.</span></p>

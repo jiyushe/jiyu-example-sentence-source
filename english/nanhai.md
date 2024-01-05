@@ -1,5 +1,7 @@
 # nanhai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nanhai.md)
+
 <p><span class="chinese">我在南海大学上学。</span><span class="english">I attend Nanhai University.</span></p>
 
 <p><span class="chinese">南海涟波潭边杏，樱花尽朱落无音。</span><span class="english">Nanhai apricot blossoms enough ripple, do not fall.</span></p>

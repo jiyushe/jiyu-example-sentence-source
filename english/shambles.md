@@ -1,5 +1,7 @@
 # shambles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shambles.md)
+
 <p><span class="chinese">苹果还一片混乱。</span><span class="english">Apple was a shambles.</span></p>
 
 <p><span class="chinese">她把事情搞嘚一塌糊涂。</span><span class="english">She make a shambles of things.</span></p>

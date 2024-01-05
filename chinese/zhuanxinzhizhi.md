@@ -1,5 +1,7 @@
 # 专心致志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanxinzhizhi.md)
+
 <p><span class="chinese">他专心致志于纯科学。</span><span class="english">He was devoted to Pure Science.</span></p>
 
 <p><span class="chinese">你越专心致志，就工作得越好。</span><span class="english">The more you apply the better you will work.</span></p>

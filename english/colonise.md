@@ -1,5 +1,7 @@
 # colonise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonise.md)
+
 <p><span class="chinese">他相信人类必然会开发太空以求生存。</span><span class="english">He believes man must colonise space to survive.</span></p>
 
 <p><span class="chinese">然而，至今我们对这些拓殖地球的最小生物体的了解，竟然少之甚少。</span><span class="english">Still, we know surprisingly little about the smallest beings that colonise Earth.</span></p>

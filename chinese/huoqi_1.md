@@ -1,5 +1,7 @@
 # 火器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoqi_1.md)
+
 <p><span class="chinese">火器进口是被禁止的。</span><span class="english">The import of firearms is forbidden.</span></p>
 
 <p><span class="chinese">所以铁路将购买阻火器。</span><span class="english">So the railroad will buy the spark arrestor.</span></p>

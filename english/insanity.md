@@ -1,5 +1,7 @@
 # insanity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insanity.md)
+
 <p><span class="chinese">爱情不过是一种疯病。</span><span class="english">Love is one kind of insanity.</span></p>
 
 <p><span class="chinese">镀金百合将导致精神病。</span><span class="english">Gilding the lily leads to insanity.</span></p>

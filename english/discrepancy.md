@@ -1,5 +1,7 @@
 # discrepancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discrepancy.md)
+
 <p><span class="chinese">为何如此不同？</span><span class="english">Why that discrepancy?</span></p>
 
 <p><span class="chinese">实在是天差地别</span><span class="english">What a huge discrepancy there.</span></p>

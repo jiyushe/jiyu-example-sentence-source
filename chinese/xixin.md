@@ -1,5 +1,7 @@
 # 悉心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixin.md)
+
 <p><span class="chinese">我们的悉心照料得到了回报。</span><span class="english">Our care paid off.</span></p>
 
 <p><span class="chinese">悉心对待你的顾客。</span><span class="english">Look after your customers.</span></p>

@@ -1,5 +1,7 @@
 # glib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glib.md)
+
 <p><span class="chinese">他说起话来油腔滑调的。</span><span class="english">He has a glib tongue.</span></p>
 
 <p><span class="chinese">他是一个油嘴滑舌的推销员。</span><span class="english">He is a glib salesman.</span></p>

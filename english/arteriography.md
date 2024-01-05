@@ -1,5 +1,7 @@
 # arteriography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arteriography.md)
+
 <p><span class="chinese">本文报告31例选择性支气管动脉造影结果。</span><span class="english">The results of selective bronchial arteriography in 31 cases were reported.</span></p>
 
 <p><span class="chinese">目的探讨经桡动脉行冠状动脉造影术的护理经验。</span><span class="english">Objective To explore the nursing points in coronary arteriography via radial artery.</span></p>

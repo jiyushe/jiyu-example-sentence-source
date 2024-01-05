@@ -1,5 +1,7 @@
 # 不惑之年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buhuozhinian.md)
+
 <p><span class="chinese">四十岁，有人说这是个不惑之年。</span><span class="english">Forty years old, it is said that it means a man would not doubt everything.</span></p>
 
 <p><span class="chinese">不惑之年还时常会听那精典的歌，怀念着邓丽君的风彩。</span><span class="english">The age of 40 also often hear the classic song, miss Teresa Teng color of the wind.</span></p>

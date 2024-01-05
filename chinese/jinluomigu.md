@@ -1,5 +1,7 @@
 # 紧锣密鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinluomigu.md)
+
 <p><span class="chinese">，那通常是因为我们一直在紧锣密鼓的制作着！</span><span class="english">’ and it is usually because we have been making it!</span></p>
 
 <p><span class="chinese">更多的交易可能正在紧锣密鼓地进行着，那里必将烟雾缭绕。</span><span class="english">More deals are likely, thrashed out no doubt in vapour-filled rooms.</span></p>

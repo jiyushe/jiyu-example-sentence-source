@@ -1,5 +1,7 @@
 # 富国强兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuguoqiangbing.md)
+
 <p><span class="chinese">减民负担、富国强兵、统一北方。</span><span class="english">It made the country unify the Northern China.</span></p>
 
 <p><span class="chinese">与此同时，当夫差的王国每况愈下，越国则富国强兵。</span><span class="english">Meanwhile, as Fuchai’s kingdom declined, Yue grew rich and raised a new army.</span></p>

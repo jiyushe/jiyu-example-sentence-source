@@ -1,5 +1,7 @@
 # 猖獗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changjue.md)
+
 <p><span class="chinese">要求扫描的行为是猖獗的。</span><span class="english">Demand for scans is rampant.</span></p>
 
 <p><span class="chinese">这房子鼠害猖獗。</span><span class="english">The house is overrun with rats.</span></p>

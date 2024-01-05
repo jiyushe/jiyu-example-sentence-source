@@ -1,5 +1,7 @@
 # 适可而止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shikeerzhi.md)
+
 <p><span class="chinese">是时候说应该适可而止了。</span><span class="english">It's time to say enough is enough.</span></p>
 
 <p><span class="chinese">㪷翡得不到的付出，要懂得适可而止。</span><span class="english">Not to pay, to know not overdo sth.</span></p>

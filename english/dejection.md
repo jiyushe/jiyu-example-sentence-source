@@ -1,5 +1,7 @@
 # dejection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dejection.md)
+
 <p><span class="chinese">他灰溜溜地走了。</span><span class="english">He went away in dejection.</span></p>
 
 <p><span class="chinese">失败者垂头丧气地坐着，全身瘫软。</span><span class="english">The loser sat slumped in dejection.</span></p>

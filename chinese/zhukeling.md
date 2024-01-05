@@ -1,5 +1,7 @@
 # 逐客令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhukeling.md)
+
 <p><span class="chinese">一位信心伟人被一个异教君王下了逐客令！</span><span class="english">A man of faith was asked to leave by a heathen king!</span></p>
 
 <p><span class="chinese">很快，他就开始挖苦我，然后下了逐客令。</span><span class="english">He grew sarcastic very quickly and asked me to leave.</span></p>

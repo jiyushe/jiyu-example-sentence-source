@@ -1,5 +1,7 @@
 # paratroops
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paratroops.md)
+
 <p><span class="chinese">你会加入360空降部队吗?。</span><span class="english">Will you join 360 Paratroops ?</span></p>
 
 <p><span class="chinese">这些空降部队装备精良。</span><span class="english">The paratroops were armed to the teeth.</span></p>

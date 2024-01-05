@@ -1,5 +1,7 @@
 # raze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raze.md)
+
 <p><span class="chinese">我会把这里给夷为平地。</span><span class="english">I'll raze this place to hell!</span></p>
 
 <p><span class="chinese">强震把这个都市夷为平地。</span><span class="english">The earthquake do the country raze to the ground.</span></p>

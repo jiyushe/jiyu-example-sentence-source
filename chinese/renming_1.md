@@ -1,5 +1,7 @@
 # 任命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renming_1.md)
+
 <p><span class="chinese">乔纳森伊夫被任命为苹果电脑公司首席执行官。</span><span class="english">Jonathan Ive named Apple CEO.</span></p>
 
 <p><span class="chinese">必须由元老院任命。</span><span class="english">The Senate had to appoint you.</span></p>

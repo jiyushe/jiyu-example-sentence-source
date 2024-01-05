@@ -1,5 +1,7 @@
 # ganglion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ganglion.md)
+
 <p><span class="chinese">这些细胞被称为黑视素神经节细胞。</span><span class="english">These cells are called melanopsin ganglion cells.</span></p>
 
 <p><span class="chinese">与杆状和锥状细胞一样，神经节细胞也是在视网膜上发现的。</span><span class="english">Like rods and cones, these ganglion cells are found in the retina.</span></p>

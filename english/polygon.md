@@ -1,5 +1,7 @@
 # polygon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polygon.md)
+
 <p><span class="chinese">十条边的形状叫十边形。</span><span class="english">A polygon with ten sides is a decagon.</span></p>
 
 <p><span class="chinese">这就叫做多边形环绕。</span><span class="english">This is called the winding of a polygon.</span></p>

@@ -1,5 +1,7 @@
 # linn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linn.md)
+
 <p><span class="chinese">丁香属植物二新栽培变种。</span><span class="english">Two new cultivated varieties of syringa linn.</span></p>
 
 <p><span class="chinese">您可以雇佣偌布·林遛狗和剪草坪。</span><span class="english">Robb Linn will walk your dog or cut your grass.</span></p>

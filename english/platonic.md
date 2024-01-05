@@ -1,5 +1,7 @@
 # platonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platonic.md)
+
 <p><span class="chinese">它是另一种抽象的柏拉图式的型相</span><span class="english">It's another abstract Platonic form.</span></p>
 
 <p><span class="chinese">这是柏拉图式对数学的理解</span><span class="english">That's the Platonic take on mathematics.</span></p>

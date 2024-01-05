@@ -1,5 +1,7 @@
 # haziness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haziness.md)
+
 <p><span class="chinese">没有泪水，却满是阴霾。</span><span class="english">No more tears, but full of haziness.</span></p>
 
 <p><span class="chinese">使体育现代化从朦胧中走出来。</span><span class="english">So as to make the modernization come out of haziness.</span></p>

@@ -1,5 +1,7 @@
 # 脉脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/momo_1.md)
+
 <p><span class="chinese">她脉脉地注视着伏案苦读的儿子。</span><span class="english">She stared at her son studying at the desk with loving eyes.</span></p>
 
 <p><span class="chinese">沉浸在陶瓷文化的脉脉流韵中，直让你感叹不虚此行。</span><span class="english">Immersed in the ceramic culture and rhyme flow, let you sigh not straight.</span></p>

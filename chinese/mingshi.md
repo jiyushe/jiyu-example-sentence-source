@@ -1,5 +1,7 @@
 # 名士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingshi.md)
+
 <p><span class="chinese">他能进名士堂，这一点也不特别。</span><span class="english">He's very deserving to be in the Hall of Fame.</span></p>
 
 <p><span class="chinese">余教授是位儒林名士。</span><span class="english">Professor Yu is famous among Confucian scholars.</span></p>

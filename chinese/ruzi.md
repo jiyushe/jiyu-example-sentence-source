@@ -1,5 +1,7 @@
 # 褥子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruzi.md)
+
 <p><span class="chinese">起来收拾你的褥子。</span><span class="english">Get up and take care of your mat.</span></p>
 
 <p><span class="chinese">他们让伤员们躺在那些厚褥子上。</span><span class="english">On these mattresses they had laid the wounded.</span></p>

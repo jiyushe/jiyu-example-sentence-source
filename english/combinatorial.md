@@ -1,5 +1,7 @@
 # combinatorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combinatorial.md)
+
 <p><span class="chinese">音乐也拥有组合系统</span><span class="english">Music also has a combinatorial system.</span></p>
 
 <p><span class="chinese">我们生活在一个创新呈组合形式存在的时代。</span><span class="english">We live in an age of combinatorial innovation.</span></p>

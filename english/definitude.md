@@ -1,5 +1,7 @@
 # definitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/definitude.md)
+
 <p><span class="chinese">该算法只需要整定两个控制参数，他们有明确的物理意义。</span><span class="english">The method only needs setting two parameters and they had definitude physical meaning.</span></p>
 
 <p><span class="chinese">结果表明，新拟合方法几何意义明确，具有良好的拟合效果。</span><span class="english">The result shows the new method with geometry meaning definitude and the better effect.</span></p>

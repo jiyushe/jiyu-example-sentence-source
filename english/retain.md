@@ -1,5 +1,7 @@
 # retain 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retain.md)
+
 <p><span class="chinese">我们将保留我们的权利。</span><span class="english">We shall retain our rights.</span></p>
 
 <p><span class="chinese">这些玫瑰花仍有余香。</span><span class="english">These roses retain their scent.</span></p>

@@ -1,5 +1,7 @@
 # 狙击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juji.md)
+
 <p><span class="chinese">狙击了敌人。</span><span class="english">Our soldiers sniped at enemy.</span></p>
 
 <p><span class="chinese">狙击技能从幽灵兵身上移除了么？</span><span class="english">Has the snipe ability been removed from the Ghost?</span></p>

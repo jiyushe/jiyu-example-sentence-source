@@ -1,5 +1,7 @@
 # flume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flume.md)
+
 <p><span class="chinese">典型的Flume应用由两类进程构成。</span><span class="english">A typical Flume application consists of processes of two types.</span></p>
 
 <p><span class="chinese">槽型减摇水舱尺度的变化对船横摇运动有一定的影响。</span><span class="english">The influence of flume tank parameters on ship rolling are discussed.</span></p>

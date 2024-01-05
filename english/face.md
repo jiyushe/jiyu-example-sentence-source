@@ -1,5 +1,7 @@
 # face 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/face.md)
+
 <p><span class="chinese">小熊脸。</span><span class="english">Bear face.</span></p>
 
 <p><span class="chinese">面子健忘症。</span><span class="english">Face amnesia.</span></p>

@@ -1,5 +1,7 @@
 # 通勤车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongqinche.md)
+
 <p><span class="chinese">电动自行车会成为新潮'通勤车'吗？</span><span class="english">Will E-Bikes Be The New 'Commuter Cool'?</span></p>
 
 <p><span class="chinese">那正是你所期待的通勤车。</span><span class="english">That's exactly what you want to hear about a commuter car.</span></p>

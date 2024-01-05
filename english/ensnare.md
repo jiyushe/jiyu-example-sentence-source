@@ -1,5 +1,7 @@
 # ensnare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ensnare.md)
+
 <p><span class="chinese">树根缠绕和诱捕再次对英雄有效。</span><span class="english">Entangling Roots and Ensnare work on Heroes again.</span></p>
 
 <p><span class="chinese">诱捕的作用时间15秒降低到12秒。</span><span class="english">Ensnare duration reduced from 15 seconds to 12 seconds.</span></p>

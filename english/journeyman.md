@@ -1,5 +1,7 @@
 # journeyman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/journeyman.md)
+
 <p><span class="chinese">古斯•希丁克曾是一个不错的足球运动员，但却是一位一级棒的经理。</span><span class="english">Guus Hiddink was a journeyman footballer, but is a first-rate manager.</span></p>
 
 <p><span class="chinese">这名经历了数队的大前锋应该在季候赛中发挥关键作用。</span><span class="english">The journeyman power forward ought to play a key role in the postseason.</span></p>

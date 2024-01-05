@@ -1,5 +1,7 @@
 # 大肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachang_1.md)
+
 <p><span class="chinese">可以用来加热大肠镜检测仪器。</span><span class="english">Warm up the colonoscopy instruments.</span></p>
 
 <p><span class="chinese">奶类中验出大肠菌羣代表含有恶菌吗？</span><span class="english">Coliforms in Milk – Presence of Bad Bugs?</span></p>

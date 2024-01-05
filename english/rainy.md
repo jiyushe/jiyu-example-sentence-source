@@ -1,5 +1,7 @@
 # rainy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rainy.md)
+
 <p><span class="chinese">这是一个阴雨天。</span><span class="english">It's a rainy day.</span></p>
 
 <p><span class="chinese">天气寒冷、阴湿。</span><span class="english">It's like cold and rainy.</span></p>

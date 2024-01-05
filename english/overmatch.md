@@ -1,5 +1,7 @@
 # overmatch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overmatch.md)
+
 <p><span class="chinese">这是一个需要强者的时代。</span><span class="english">But, we are right of overmatch.</span></p>
 
 <p><span class="chinese">这是一个需要强者的时代。</span><span class="english">This is a period that needs overmatch.</span></p>

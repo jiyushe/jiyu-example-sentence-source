@@ -1,5 +1,7 @@
 # escrow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escrow.md)
+
 <p><span class="chinese">付款是通过GAF型代管而已。</span><span class="english">Payment is thru GAF escrow only.</span></p>
 
 <p><span class="chinese">如果您不接受托管费，然后不出价。</span><span class="english">If you don't accept escrow payments, then don't bid.</span></p>

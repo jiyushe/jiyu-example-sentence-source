@@ -1,5 +1,7 @@
 # 刻骨铭心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kegumingxin.md)
+
 <p><span class="chinese">关于童年，有两件事让他刻骨铭心。</span><span class="english">As a child he remembers two things.</span></p>
 
 <p><span class="chinese">那是一种不被爱的刻骨铭心的感觉。</span><span class="english">The overwhelming sense of not being loved.</span></p>

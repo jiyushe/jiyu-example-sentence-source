@@ -1,5 +1,7 @@
 # worrying 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worrying.md)
+
 <p><span class="chinese">这不免让人担心</span><span class="english">That's worrying.</span></p>
 
 <p><span class="chinese">犯愁有什么用呢？</span><span class="english">What's the use worrying?</span></p>

@@ -1,5 +1,7 @@
 # satisfying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satisfying.md)
+
 <p><span class="chinese">为性满足营造良好的舞台</span><span class="english">Set the stage for satisfying sex</span></p>
 
 <p><span class="chinese">我终于找到了可心的工作。</span><span class="english">I found a satisfying job at last.</span></p>

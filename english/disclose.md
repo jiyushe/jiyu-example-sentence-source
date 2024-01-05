@@ -1,5 +1,7 @@
 # disclose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disclose.md)
+
 <p><span class="chinese">广西柳工没有透露其在美国市场的销售情况。</span><span class="english">Liugong doesn't disclose its U.S. sales.</span></p>
 
 <p><span class="chinese">花朵在春天显露其多姿多彩。</span><span class="english">In spring the flowers disclose their colours.</span></p>

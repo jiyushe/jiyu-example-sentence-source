@@ -1,5 +1,7 @@
 # 钻头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuantou.md)
+
 <p><span class="chinese">记下钻头系列号和型号。</span><span class="english">Record bit serial number.</span></p>
 
 <p><span class="chinese">下金刚石取芯钻头。</span><span class="english">Run in a diamond core bit.</span></p>

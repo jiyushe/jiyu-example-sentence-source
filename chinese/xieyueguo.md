@@ -1,5 +1,7 @@
 # 协约国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieyueguo.md)
+
 <p><span class="chinese">法俄两国，成立协约国集团。</span><span class="english">France and Russia, establish the entente group.</span></p>
 
 <p><span class="chinese">其时，21艘协约国战舰正在港口停泊。</span><span class="english">Meanwhile, 21 allied warships sat in the harbour.</span></p>

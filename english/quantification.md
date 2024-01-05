@@ -1,5 +1,7 @@
 # quantification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantification.md)
+
 <p><span class="chinese">这一准则的提出为光顺的量控提供了依据。</span><span class="english">This rule will provide the basis for the quantification of fairness.</span></p>
 
 <p><span class="chinese">结果发现，镀铝层的表面层存在非晶态金属相。</span><span class="english">The quantification of amorphous phase can not be obtained by Rietveld.</span></p>

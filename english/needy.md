@@ -1,5 +1,7 @@
 # needy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/needy.md)
+
 <p><span class="chinese">少时闲混，到老穷困。</span><span class="english">Idle young, needy old.</span></p>
 
 <p><span class="chinese">我变得很空虚又很黏人。</span><span class="english">I got all needy ad clingy.</span></p>

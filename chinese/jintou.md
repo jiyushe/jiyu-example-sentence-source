@@ -1,5 +1,7 @@
 # 劲头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jintou.md)
+
 <p><span class="chinese">他工作起来总是劲头十足。</span><span class="english">He always works like a tiger.</span></p>
 
 <p><span class="chinese">我们全都劲头十足地加入了合唱。</span><span class="english">All of us joined lustily in the chorus.</span></p>

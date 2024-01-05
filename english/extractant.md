@@ -1,5 +1,7 @@
 # extractant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extractant.md)
+
 <p><span class="chinese">将其制备成固相萃取微分离柱。</span><span class="english">The extractant was then loaded onto a micro-column.</span></p>
 
 <p><span class="chinese">每个萃取剂的几何构型构通过PM3方法优化得到。</span><span class="english">The geometry of each extractant wasoptimized by using PM3 method.</span></p>

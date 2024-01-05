@@ -1,5 +1,7 @@
 # 其次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qici.md)
+
 <p><span class="chinese">其次是支持。</span><span class="english">Next is support.</span></p>
 
 <p><span class="chinese">其次，中国需要一带一路。</span><span class="english">Next, China needs OBOR.</span></p>

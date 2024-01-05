@@ -1,5 +1,7 @@
 # 置之脑后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhinaohou.md)
+
 <p><span class="chinese">她把我的忠告置之脑后。</span><span class="english">She devested herself of my advice.</span></p>
 
 <p><span class="chinese">如何才能将所有的担心忧虑置之脑后呢？</span><span class="english">How can I cast away all my cares and worries ?</span></p>

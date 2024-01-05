@@ -1,5 +1,7 @@
 # 纤毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianmao.md)
+
 <p><span class="chinese">粘膜上皮主要为单层柱状纤毛细胞。</span><span class="english">Most of the epithelia are ciliated columnar cells.</span></p>
 
 <p><span class="chinese">他看见纤毛从她的人类身体上脱落。</span><span class="english">He sees the roots falling away from her human body.</span></p>

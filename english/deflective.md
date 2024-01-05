@@ -1,5 +1,7 @@
 # deflective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deflective.md)
+
 <p><span class="chinese">分析了高压蒸汽管线带磁及焊接时产生磁偏吹的原因，介绍了简易消磁焊接新方法。</span><span class="english">The reason of magnetic deflective blow when high pressure vapor pipe is magnetized and welded is analyzed.</span></p>
 
 <p><span class="chinese">眼球向外偏斜，称外斜视，俗称“斜白眼”。</span><span class="english">Eyeball is outward and deflective , the strabismus outside saying, common says " inclined supercilious look ".</span></p>

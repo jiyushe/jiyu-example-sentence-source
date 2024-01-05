@@ -1,5 +1,7 @@
 # battleground
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battleground.md)
+
 <p><span class="chinese">这些是州是他们拼杀的“战场”。</span><span class="english">These are the "battleground" states.</span></p>
 
 <p><span class="chinese">所有的军阶和战场声望无效了么？</span><span class="english">Are all ranks and battleground reputations gone?</span></p>

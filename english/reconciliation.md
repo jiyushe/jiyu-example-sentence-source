@@ -1,5 +1,7 @@
 # reconciliation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconciliation.md)
+
 <p><span class="chinese">但要调和的时间摆在前面。</span><span class="english">But an time of reconciliation lies ahead.</span></p>
 
 <p><span class="chinese">这场危机趋于和解。</span><span class="english">The crisis trends toward a reconciliation.</span></p>

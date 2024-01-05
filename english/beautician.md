@@ -1,5 +1,7 @@
 # beautician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beautician.md)
+
 <p><span class="chinese">我要去美容师那儿做脸。</span><span class="english">I'm going to the beautician to have a facial.</span></p>
 
 <p><span class="chinese">不愿成为电脑程序员、音乐家或美容师。</span><span class="english">A computer programmer, a musician or beautician.</span></p>

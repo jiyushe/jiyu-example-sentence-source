@@ -1,5 +1,7 @@
 # notorious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notorious.md)
+
 <p><span class="chinese">阿尔。卡彭是一位臭名远扬的匪徒。</span><span class="english">Al Capone was a notorious gangster.</span></p>
 
 <p><span class="chinese">乔布斯是个举世皆知的控制狂。</span><span class="english">Mr Jobs is a notorious control freak.</span></p>

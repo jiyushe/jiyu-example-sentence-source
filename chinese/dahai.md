@@ -1,5 +1,7 @@
 # 大海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahai.md)
+
 <p><span class="chinese">或许它更像那大海。</span><span class="english">May it be lide ocean.</span></p>
 
 <p><span class="chinese">当时有超过400人葬身大海。</span><span class="english">More than 400 drowned.</span></p>

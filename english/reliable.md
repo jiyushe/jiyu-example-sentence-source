@@ -1,5 +1,7 @@
 # reliable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reliable.md)
+
 <p><span class="chinese">这消息靠得住。</span><span class="english">The news is reliable.</span></p>
 
 <p><span class="chinese">我觉得它很可靠。</span><span class="english">I think it's reliable.</span></p>

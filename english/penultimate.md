@@ -1,5 +1,7 @@
 # penultimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penultimate.md)
+
 <p><span class="chinese">但penultimate并不意味着第二最好的。</span><span class="english">But penultimate doesn't mean second-best.</span></p>
 
 <p><span class="chinese">到达终点的前一天，我们在哈巴罗夫斯克停留。</span><span class="english">On the penultimate day, we stopped at Khabarovsk.</span></p>

@@ -1,5 +1,7 @@
 # mitten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitten.md)
+
 <p><span class="chinese">她说她的求婚被驹了。</span><span class="english">She said that she had been given the mitten.</span></p>
 
 <p><span class="chinese">一只红色小猫迷惘地躺在白杨树下。</span><span class="english">One red mitten lying lost under a poplar tree.</span></p>

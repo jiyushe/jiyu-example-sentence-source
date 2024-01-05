@@ -1,5 +1,7 @@
 # sear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sear.md)
+
 <p><span class="chinese">看来他开始变得无情了。</span><span class="english">It seemed that he began to sear.</span></p>
 
 <p><span class="chinese">你的光辉艺术则永不凋残。</span><span class="english">But your glowing art will never sear.</span></p>

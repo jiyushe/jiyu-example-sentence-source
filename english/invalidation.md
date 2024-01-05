@@ -1,5 +1,7 @@
 # invalidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invalidation.md)
+
 <p><span class="chinese">失效方法很少被调用。</span><span class="english">Invalidation methods rarely get called.</span></p>
 
 <p><span class="chinese">这些缓存失效场景通常分为两类</span><span class="english">These cache invalidation scenarios generally fall into two categories</span></p>

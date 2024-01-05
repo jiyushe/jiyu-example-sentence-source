@@ -1,5 +1,7 @@
 # 冷飕飕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengsousou.md)
+
 <p><span class="chinese">今天冷飕飕的。</span><span class="english">It's chilly today.</span></p>
 
 <p><span class="chinese">早晨开始变得冷飕飕的了。</span><span class="english">The mornings begin chilly.</span></p>

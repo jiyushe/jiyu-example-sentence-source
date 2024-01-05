@@ -1,5 +1,7 @@
 # dollar 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dollar.md)
+
 <p><span class="chinese">每一块钱都是如此。</span><span class="english">Every dollar.</span></p>
 
 <p><span class="chinese">元儿怎么了？</span><span class="english">Dollar son how?</span></p>

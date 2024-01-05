@@ -1,5 +1,7 @@
 # 随处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suichu.md)
+
 <p><span class="chinese">山色不厌远，我行随处深。</span><span class="english">Can I be far mountains, deep.</span></p>
 
 <p><span class="chinese">新的理论随处可来。</span><span class="english">New ideas can come from anywhere.</span></p>

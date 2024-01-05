@@ -1,5 +1,7 @@
 # 衰朽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaixiu.md)
+
 <p><span class="chinese">去防御你的衰朽，把自己加强？</span><span class="english">Who for thy self art so unprovident.</span></p>
 
 <p><span class="chinese">一百岁，对礼拜堂来说这是青年时期，对一般房屋来说却是衰朽时期了。</span><span class="english">A hundred years is youth in a church and age in a house.</span></p>

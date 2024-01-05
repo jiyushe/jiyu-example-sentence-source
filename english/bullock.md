@@ -1,5 +1,7 @@
 # bullock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullock.md)
+
 <p><span class="chinese">和山羊的一个奄牛！</span><span class="english">A bullock with goat!</span></p>
 
 <p><span class="chinese">阉牛是切除了睾丸的公牛。</span><span class="english">A bullock is a castrated bull.</span></p>

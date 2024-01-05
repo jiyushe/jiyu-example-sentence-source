@@ -1,5 +1,7 @@
 # 量筒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangtong.md)
+
 <p><span class="chinese">你需要一个量筒测液体。</span><span class="english">Measure 23 Ml of water in a graduated cylinder.</span></p>
 
 <p><span class="chinese">量筒内注满待研究的泥浆。</span><span class="english">The cylinder is filled with the slurry to be studied.</span></p>

@@ -1,5 +1,7 @@
 # 鸣笛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingdi.md)
+
 <p><span class="chinese">你能听到火车的鸣笛声吗？</span><span class="english">Can you hear the train whistle?</span></p>
 
 <p><span class="chinese">我们鸣笛与过往船打招呼。</span><span class="english">We spoke a ship with the whistle.</span></p>

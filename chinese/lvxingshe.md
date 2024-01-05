@@ -1,5 +1,7 @@
 # 旅行社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvxingshe.md)
+
 <p><span class="chinese">康辉旅行社我们去看看那座城堡吧。</span><span class="english">Let's go to see the castle.</span></p>
 
 <p><span class="chinese">现在他拥有了一家旅行社。</span><span class="english">Now he owns a travel agency.</span></p>

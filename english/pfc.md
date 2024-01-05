@@ -1,5 +1,7 @@
 # pfc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pfc.md)
+
 <p><span class="chinese">提出的结构可以应用于实现PFC的无源无损吸收。</span><span class="english">It can also be used for passive lossless snubber in PFC.</span></p>
 
 <p><span class="chinese">论文还研究了平均电流型PFC电路。</span><span class="english">The thesis also analyzes the average current type of PFC.</span></p>

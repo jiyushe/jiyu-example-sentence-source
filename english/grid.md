@@ -1,5 +1,7 @@
 # grid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grid.md)
+
 <p><span class="chinese">那么，哪种栅格最适合呢？</span><span class="english">So, which grid is best?</span></p>
 
 <p><span class="chinese">电池极板干燥机“，”</span><span class="english">Battery Grid Drying Machine.</span></p>

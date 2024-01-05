@@ -1,5 +1,7 @@
 # aneurysmal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aneurysmal.md)
+
 <p><span class="chinese">动脉瘤样骨囊肿属骨的瘤样病变。</span><span class="english">Aneurysmal bone cyst is a tumor like lesion of bones.</span></p>
 
 <p><span class="chinese">而这些研究都依赖于建立可信的动脉瘤模型。</span><span class="english">But all of these studies depend on reliable aneurysmal models.</span></p>

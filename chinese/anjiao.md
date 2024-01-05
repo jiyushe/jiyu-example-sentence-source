@@ -1,5 +1,7 @@
 # 暗礁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anjiao.md)
+
 <p><span class="chinese">我们的船撞到了暗礁上。</span><span class="english">Our ship was thrown on a reef.</span></p>
 
 <p><span class="chinese">那船触到了一些暗礁沉没了。</span><span class="english">The ship hit some rocks and sank.</span></p>

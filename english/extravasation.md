@@ -1,5 +1,7 @@
 # extravasation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extravasation.md)
+
 <p><span class="chinese">囊内容物的外渗可以引起周边结构的炎症导致增强。</span><span class="english">Extravasation of cystic contents may inflame nearby structures, resulting in enhancement.</span></p>
 
 <p><span class="chinese">冷敷能快速、有效、安全地消除静脉外渗性肿胀。</span><span class="english">Cold compress could resolve the swelling due to extravasation rapidly, effectively and safely.</span></p>

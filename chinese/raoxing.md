@@ -1,5 +1,7 @@
 # 绕行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/raoxing.md)
+
 <p><span class="chinese">广告邮件请绕行，多谢！</span><span class="english">No spam, AD mails, pls.</span></p>
 
 <p><span class="chinese">此路不通，行人绕行。</span><span class="english">No Through Route For Pedestrians Detour.</span></p>

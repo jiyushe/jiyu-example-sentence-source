@@ -1,5 +1,7 @@
 # sbr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sbr.md)
+
 <p><span class="chinese">溶液聚合丁苯橡胶。</span><span class="english">SBR of solution polymerization.</span></p>
 
 <p><span class="chinese">电子受体的种类是启动反硝化除磷反应器的关键。</span><span class="english">The key of the SBR startup was the nature of the electron acceptors.</span></p>

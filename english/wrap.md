@@ -1,5 +1,7 @@
 # wrap 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrap.md)
+
 <p><span class="chinese">请给包一下。</span><span class="english">Please wrap it.</span></p>
 
 <p><span class="chinese">扣脚踝包。</span><span class="english">Buckled ankle wrap.</span></p>

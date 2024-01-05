@@ -1,5 +1,7 @@
 # huguenot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huguenot.md)
+
 <p><span class="chinese">离胡格诺派的教会墓地不远。</span><span class="english">Huguenot churchyard near there.</span></p>
 
 <p><span class="chinese">科里尼将军是最受尊敬的胡格诺领袖。</span><span class="english">Admiral de Coligny was the most respected Huguenot leader.</span></p>

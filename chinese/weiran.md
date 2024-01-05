@@ -1,5 +1,7 @@
 # 巍然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiran.md)
+
 <p><span class="chinese">大桥巍然横跨在江上。</span><span class="english">The bridge stands majestic astride the river.</span></p>
 
 <p><span class="chinese">这座大桥巍然横跨在长江之上。</span><span class="english">The bridge stands majestic astride the Yangtze River.</span></p>

@@ -1,5 +1,7 @@
 # 巧言令色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoyanlingse.md)
+
 <p><span class="chinese">她是个巧言令色的说谎高手。</span><span class="english">She was a plausible liar.</span></p>
 
 <p><span class="chinese">巧言令色之友，是你最可怕的敌人。</span><span class="english">A flattering friend is your worse enemy.</span></p>

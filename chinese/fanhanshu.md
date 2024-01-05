@@ -1,5 +1,7 @@
 # 反函数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanhanshu.md)
+
 <p><span class="chinese">请找出反函数，并绘图。</span><span class="english">Please find the inverse function and sketch.</span></p>
 
 <p><span class="chinese">采用反函数放大器就可以解决这个问题。</span><span class="english">This can be easily solved by using an inverse function amplifier.</span></p>

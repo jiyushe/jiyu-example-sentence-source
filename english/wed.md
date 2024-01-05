@@ -1,5 +1,7 @@
 # wed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wed.md)
+
 <p><span class="chinese">一个刚刚嫁人。</span><span class="english">One has just been wed.</span></p>
 
 <p><span class="chinese">你曾承诺娶我。</span><span class="english">You promised me to wed.</span></p>

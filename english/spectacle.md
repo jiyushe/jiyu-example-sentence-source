@@ -1,5 +1,7 @@
 # spectacle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectacle.md)
+
 <p><span class="chinese">目击了这一奇异的景象。</span><span class="english">A curious spectacle was witnessed.</span></p>
 
 <p><span class="chinese">这真是一个荒唐的场面。</span><span class="english">It was really an absurd spectacle.</span></p>

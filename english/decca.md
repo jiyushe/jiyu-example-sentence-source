@@ -1,5 +1,7 @@
 # decca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decca.md)
+
 <p><span class="chinese">我船位置已通过台卡获得。</span><span class="english">My position has been obtained by Decca.</span></p>
 
 <p><span class="chinese">德克唱片公司，拒绝披头士的评语，1962。</span><span class="english">Decca Recording Co. , rejecting the Beatles, 1962</span></p>

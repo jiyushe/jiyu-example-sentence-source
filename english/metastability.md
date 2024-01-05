@@ -1,5 +1,7 @@
 # metastability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metastability.md)
+
 <p><span class="chinese">多时钟域设计的一个难题是如何避免亚稳态的产生。</span><span class="english">An important problem in multi-clock domain design is how to avoid metastability.</span></p>
 
 <p><span class="chinese">避免亚稳态问题及空满控制信号的产生是异步FIFO设计的两个关键。</span><span class="english">Metastability and how to generate empty and full flag correctly is key in the design of asynchronous FIFO.</span></p>

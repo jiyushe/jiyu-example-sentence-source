@@ -1,5 +1,7 @@
 # heavenly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heavenly.md)
+
 <p><span class="chinese">我没有天父！</span><span class="english">I have no Heavenly Father!</span></p>
 
 <p><span class="chinese">我们同有一位天上的父。</span><span class="english">We have one heavenly Father.</span></p>

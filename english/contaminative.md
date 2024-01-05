@@ -1,5 +1,7 @@
 # contaminative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contaminative.md)
+
 <p><span class="chinese">将疑为拖带污染的标本进行双孔检测，分析拖带污染的原因。</span><span class="english">Made diplopore detection to suspected towing contaminative samples, and analyzed the possible cause.</span></p>
 
 <p><span class="chinese">而对谐波污染不严重的线性用户采用基波交流参数测量的方法仍然具有较高的准确性。</span><span class="english">And that it is high veracious by base wave AC parameters measurement method to those not bad contaminative.</span></p>

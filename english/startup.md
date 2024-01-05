@@ -1,5 +1,7 @@
 # startup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/startup.md)
+
 <p><span class="chinese">端口映射服务启动失败！</span><span class="english">MAP service startup failed!</span></p>
 
 <p><span class="chinese">采用快速启动碘镓灯。</span><span class="english">Fast startup iodine-gallium lamp.</span></p>

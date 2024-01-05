@@ -1,5 +1,7 @@
 # sitar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sitar.md)
+
 <p><span class="chinese">这是一小段锡塔尔琴音乐</span><span class="english">So that's a bit of sitar music.</span></p>
 
 <p><span class="chinese">毕竟他是位可敬的锡塔尔琴演奏家</span><span class="english">So--but he is the venerable sitar player.</span></p>

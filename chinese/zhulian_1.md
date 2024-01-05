@@ -1,5 +1,7 @@
 # 竹帘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhulian_1.md)
+
 <p><span class="chinese">竹帘、瓜灯，中式房间中的午后显得如此浪漫。</span><span class="english">Bamboo curtain and melon lamp make the room look romantic in the afternoon.</span></p>
 
 <p><span class="chinese">她穿过掩着一扇通向暗处的门的竹帘，消失了。</span><span class="english">She disappeared through a bamboo curtain that covered a door into the back.</span></p>

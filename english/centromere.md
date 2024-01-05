@@ -1,5 +1,7 @@
 # centromere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centromere.md)
+
 <p><span class="chinese">带显示的区域主要在着丝点附近。</span><span class="english">N-bands were mainly distributed near centromere in rice.</span></p>
 
 <p><span class="chinese">易位断点靠近着丝粒。</span><span class="english">The breakpoints of these translocations were adjacent to centromere.</span></p>

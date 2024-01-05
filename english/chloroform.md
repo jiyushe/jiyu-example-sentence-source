@@ -1,5 +1,7 @@
 # chloroform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chloroform.md)
+
 <p><span class="chinese">这是氯仿。</span><span class="english">There's chloroform.</span></p>
 
 <p><span class="chinese">你有氯仿。</span><span class="english">And you have chloroform.</span></p>

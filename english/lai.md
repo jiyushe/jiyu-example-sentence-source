@@ -1,5 +1,7 @@
 # lai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lai.md)
+
 <p><span class="chinese">叶亚来？他是谁啊？</span><span class="english">Ye Ya Lai? Who is he?</span></p>
 
 <p><span class="chinese">我们一定要向赖宁学习。</span><span class="english">We must learn from Lai Ning.</span></p>

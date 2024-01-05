@@ -1,5 +1,7 @@
 # 油气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youqi_1.md)
+
 <p><span class="chinese">三塘湖盆地是一个有含油气远景的盆地。</span><span class="english">Santanghu Basin is of oil and gas prospect.</span></p>
 
 <p><span class="chinese">花状构造能成为油气圈闭。</span><span class="english">Flower structures can form hydrocarbon traps.</span></p>

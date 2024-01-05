@@ -1,5 +1,7 @@
 # zing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zing.md)
+
 <p><span class="chinese">机关枪子弹的尖啸声吓到了她。</span><span class="english">The zing of the passing bullet scared her.</span></p>
 
 <p><span class="chinese">所以接下来你可能会问，要如何增加演讲中的活力呢？</span><span class="english">But how can you increase the "zing" quotient in your speeches?</span></p>

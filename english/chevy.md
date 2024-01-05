@@ -1,5 +1,7 @@
 # chevy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chevy.md)
+
 <p><span class="chinese">他斜靠在四门的雪弗莱。</span><span class="english">He leaned against the four-door Chevy sedan.</span></p>
 
 <p><span class="chinese">所以我的雪弗莱可能也有灵魂，只是我看不到而已。</span><span class="english">So my ’52 Chevy probably did have a soul. I just</span></p>

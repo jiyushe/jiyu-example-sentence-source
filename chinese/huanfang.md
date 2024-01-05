@@ -1,5 +1,7 @@
 # 换防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanfang.md)
+
 <p><span class="chinese">是否有人喊你去换防？</span><span class="english">Is someone yelling at you to switch?</span></p>
 
 <p><span class="chinese">有一次防守中，哈斯勒姆觉得需要换防。</span><span class="english">There was one play where Udonis Haslem felt he had to switch.</span></p>

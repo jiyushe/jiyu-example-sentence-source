@@ -1,5 +1,7 @@
 # tycho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tycho.md)
+
 <p><span class="chinese">然而，第谷·布拉赫的发射将成为丹麦最大的一次。</span><span class="english">However, the launch of Tycho Brahe will be Denmark's biggest.</span></p>
 
 <p><span class="chinese">从高空往下看，航天飞机第谷·布拉赫号正被安置到热火-1X火箭发动机上。</span><span class="english">Seen from above, the spacecraft Tycho Brahe is settled onto the HEAT-1X rocket engine.</span></p>

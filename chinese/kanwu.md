@@ -1,5 +1,7 @@
 # 刊物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanwu.md)
+
 <p><span class="chinese">这是它1922年的一期刊物。</span><span class="english">This is an issue of 1922.</span></p>
 
 <p><span class="chinese">研究院主办14种学术刊物。</span><span class="english">The AMSS sponsor 14 academic journals.</span></p>

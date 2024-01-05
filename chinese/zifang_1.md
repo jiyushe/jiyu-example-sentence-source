@@ -1,5 +1,7 @@
 # 资方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zifang_1.md)
+
 <p><span class="chinese">资方封闭工厂，阻止工人进厂开工。</span><span class="english">The management has locked the men out.</span></p>
 
 <p><span class="chinese">资方补偿我们工作时间的报酬。</span><span class="english">Management compensated us for the time we worked.</span></p>

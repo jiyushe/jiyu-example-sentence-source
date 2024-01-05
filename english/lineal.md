@@ -1,5 +1,7 @@
 # lineal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lineal.md)
+
 <p><span class="chinese">他是直系子孙。</span><span class="english">He is the lineal descendant.</span></p>
 
 <p><span class="chinese">火药是希腊火的直接衍生物。</span><span class="english">Gunpowder was the lineal successor of the Greek fire.</span></p>

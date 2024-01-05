@@ -1,5 +1,7 @@
 # innately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innately.md)
+
 <p><span class="chinese">如果你早晨起来闻到咖啡香，你就会想来一杯。</span><span class="english">If you wake up and smell coffee, you'll innately crave a cup.</span></p>
 
 <p><span class="chinese">这个男人的身上天然就带着让人舒服的性感。</span><span class="english">In a comfortable way, there really is something innately sexy about this man.</span></p>

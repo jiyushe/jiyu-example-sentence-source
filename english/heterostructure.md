@@ -1,5 +1,7 @@
 # heterostructure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterostructure.md)
+
 <p><span class="chinese">研制这种分布反馈双异质结构激光器要求在皱折层上生长出单晶层。</span><span class="english">Development of such distributed feedback heterostructure lasers requires crystal growth on corrugated layers.</span></p>
 
 <p><span class="chinese">从而深化了对异质谷间转移电子器件及其工作机理的研究。</span><span class="english">The heterostructure intervalley transferred electron effect and its devices have been thoroughly analyzed through this work.</span></p>

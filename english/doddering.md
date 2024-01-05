@@ -1,5 +1,7 @@
 # doddering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doddering.md)
+
 <p><span class="chinese">使我不再像那个蹒跚的老太婆。</span><span class="english">As if I were a doddering old relic.</span></p>
 
 <p><span class="chinese">表面上的活力，是否是内心的衰竭。</span><span class="english">The active on surface, means the doddering inside?</span></p>

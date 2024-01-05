@@ -1,5 +1,7 @@
 # 背弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiqi.md)
+
 <p><span class="chinese">他背弃了自己的诺言。</span><span class="english">He receded from his promise.</span></p>
 
 <p><span class="chinese">她背弃了她的男朋友。</span><span class="english">She has forsaken her boyfriend.</span></p>

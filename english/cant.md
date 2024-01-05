@@ -1,5 +1,7 @@
 # cant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cant.md)
+
 <p><span class="chinese">我猜你不能。</span><span class="english">I bet you cant.</span></p>
 
 <p><span class="chinese">熊不会说话。</span><span class="english">Bears cant talk.</span></p>

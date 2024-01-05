@@ -1,5 +1,7 @@
 # figurine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/figurine.md)
+
 <p><span class="chinese">不多不少，捏成两个泥人。</span><span class="english">No less, knead into two clay figurine.</span></p>
 
 <p><span class="chinese">这里的女子被称为“红泥人”。</span><span class="english">The woman here is called " red clay figurine ".</span></p>

@@ -1,5 +1,7 @@
 # skiff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skiff.md)
+
 <p><span class="chinese">谁家今夜扁舟子。</span><span class="english">Who a tonight skiff son.</span></p>
 
 <p><span class="chinese">轻舟能过几重山？</span><span class="english">How many hills can my skiff pass?</span></p>

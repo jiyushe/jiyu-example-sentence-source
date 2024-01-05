@@ -1,5 +1,7 @@
 # inductance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inductance.md)
+
 <p><span class="chinese">由于继电器线圈也是一种线圈，所以也会有自感应。</span><span class="english">A relay coil also has inductance since it is a coil of wire.</span></p>
 
 <p><span class="chinese">互感电路的谐振是一个比较复杂的问题。</span><span class="english">Resonance of mutual inductance circuits is a complex problem.</span></p>

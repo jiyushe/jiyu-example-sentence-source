@@ -1,5 +1,7 @@
 # dolomite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dolomite.md)
+
 <p><span class="chinese">理石、白云石、理石米开采加工。</span><span class="english">Lidan , dolomite , li shi metres mining processing.</span></p>
 
 <p><span class="chinese">镁制品生产的主要原料为白云石。</span><span class="english">Dolomite is the main material of magnesium products.</span></p>

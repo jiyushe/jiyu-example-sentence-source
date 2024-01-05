@@ -1,5 +1,7 @@
 # delinquency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delinquency.md)
+
 <p><span class="chinese">拖欠和取消赎回抵押品权的比例开始上升。</span><span class="english">Delinquency and foreclosure rates rose.</span></p>
 
 <p><span class="chinese">我们可以通过教育来控制少年犯罪。</span><span class="english">We can curb juvenile delinquency by education.</span></p>

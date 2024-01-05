@@ -1,5 +1,7 @@
 # 治病救人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibingjiuren.md)
+
 <p><span class="chinese">治病救人是我的工作。</span><span class="english">Saving people's lives is my job.</span></p>
 
 <p><span class="chinese">看来她具备治病救人的才能。</span><span class="english">She seems to have a vocation for healing.</span></p>

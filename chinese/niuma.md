@@ -1,5 +1,7 @@
 # 牛马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niuma.md)
+
 <p><span class="chinese">某人过着牛马不如的生活。</span><span class="english">Somebody is leading a dog's life.</span></p>
 
 <p><span class="chinese">那可怜的老人过着牛马不如的生活。</span><span class="english">The poor old man leads a dog's life.</span></p>

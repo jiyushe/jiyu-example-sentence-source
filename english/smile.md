@@ -1,5 +1,7 @@
 # smile 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smile.md)
+
 <p><span class="chinese">我会心一笑。</span><span class="english">I smile.</span></p>
 
 <p><span class="chinese">十笑乐逍遥！</span><span class="english">Ten smile joy!</span></p>

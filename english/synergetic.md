@@ -1,5 +1,7 @@
 # synergetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synergetic.md)
+
 <p><span class="chinese">因此，我们提出了协同管理。</span><span class="english">Therefore we have put forward to synergetic management.</span></p>
 
 <p><span class="chinese">TBHQ对迷迭香酸具有一定的协同抗氧化作用。</span><span class="english">TBHQ and rosmarinic acid had synergetic antioxidant effect.</span></p>

@@ -1,5 +1,7 @@
 # 匿名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niming.md)
+
 <p><span class="chinese">匿名登录。</span><span class="english">Anonymous Login.</span></p>
 
 <p><span class="chinese">谁是匿名网民？</span><span class="english">Who is Anonymous?</span></p>

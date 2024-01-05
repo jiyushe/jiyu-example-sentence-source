@@ -1,5 +1,7 @@
 # hayloft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hayloft.md)
+
 <p><span class="chinese">本•罗杰斯家的干草棚里。</span><span class="english">In Ben Rogers' hayloft.</span></p>
 
 <p><span class="chinese">男娃子们在干草棚里。</span><span class="english">De boys up in de hayloft.</span></p>

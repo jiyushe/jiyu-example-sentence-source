@@ -1,5 +1,7 @@
 # ghana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghana.md)
+
 <p><span class="chinese">特马，是西非加纳的港口。</span><span class="english">Tema is the port of Ghana in West Africa.</span></p>
 
 <p><span class="chinese">特马，是西非加纳的港口。</span><span class="english">Tema is the port of Ghana in West Bfrica.</span></p>

@@ -1,5 +1,7 @@
 # tantalum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tantalum.md)
+
 <p><span class="chinese">与钽电容器相比价格更低。</span><span class="english">Low price compared to tantalum capacitors.</span></p>
 
 <p><span class="chinese">用一些合适的钽电容来作为电源部分。</span><span class="english">Replace them with some reasonable Tantalum for the power sections.</span></p>

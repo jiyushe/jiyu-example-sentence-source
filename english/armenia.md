@@ -1,5 +1,7 @@
 # armenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armenia.md)
+
 <p><span class="chinese">亚美尼亚没有海岸和港口。</span><span class="english">Armenia lacks a seacoast or a port.</span></p>
 
 <p><span class="chinese">我有两个故乡，而亚美尼亚是那第一个。</span><span class="english">I have two homelands and Armenia is the first one.</span></p>

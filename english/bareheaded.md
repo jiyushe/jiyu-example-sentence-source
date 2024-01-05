@@ -1,5 +1,7 @@
 # bareheaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bareheaded.md)
+
 <p><span class="chinese">记得那时还剃了个光头。</span><span class="english">I remember that I was bareheaded then.</span></p>
 
 <p><span class="chinese">宝宝剃几个光头最好?。</span><span class="english">Darling shave a few bareheaded are best?</span></p>

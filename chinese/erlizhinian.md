@@ -1,5 +1,7 @@
 # 而立之年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erlizhinian.md)
+
 <p><span class="chinese">他在而立之年转入教学工作。</span><span class="english">He switched over to teaching in mid-career.</span></p>
 
 <p><span class="chinese">姚明将在9月进入而立之年，但他在脚伤之后缺席了整个09-10赛季。</span><span class="english">Yao turns 30 in September and missed last season following foot surgery.</span></p>

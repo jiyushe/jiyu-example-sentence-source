@@ -1,5 +1,7 @@
 # roughen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roughen.md)
+
 <p><span class="chinese">先把表面弄毛糙再涂颜料。</span><span class="english">Roughen the surface before applying the paint.</span></p>
 
 <p><span class="chinese">是通过打磨分割层皮革的表面，使它变粗糙而得到的。</span><span class="english">By sanding the split leather surface to roughen it up.</span></p>

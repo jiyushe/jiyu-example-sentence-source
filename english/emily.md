@@ -1,5 +1,7 @@
 # emily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emily.md)
+
 <p><span class="chinese">埃米莉能做这项工作吗?。</span><span class="english">Can Emily do this work?</span></p>
 
 <p><span class="chinese">你好，我是艾米丽。</span><span class="english">Hello, this is Emily Posa.</span></p>

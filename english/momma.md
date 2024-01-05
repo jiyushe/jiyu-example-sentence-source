@@ -1,5 +1,7 @@
 # momma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/momma.md)
+
 <p><span class="chinese">山里的妈妈迎我回还。</span><span class="english">Mountain momma greets me back.</span></p>
 
 <p><span class="chinese">当一切不顺心时你会打电话给妈妈吗？</span><span class="english">Call up momma when all else fails?</span></p>

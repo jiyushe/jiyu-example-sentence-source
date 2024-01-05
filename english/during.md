@@ -1,5 +1,7 @@
 # during
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/during.md)
+
 <p><span class="chinese">在这鬼天气了。</span><span class="english">During the dog days.</span></p>
 
 <p><span class="chinese">在下班时间致电。</span><span class="english">Call during off hours.</span></p>

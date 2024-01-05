@@ -1,5 +1,7 @@
 # 天经地义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianjingdiyi.md)
+
 <p><span class="chinese">男女平等实属天经地义。</span><span class="english">Equality between men and women is fully justified.</span></p>
 
 <p><span class="chinese">我们曾经天真的以为这是天经地义的。</span><span class="english">We have been naive to think that it is perfectly justified.</span></p>

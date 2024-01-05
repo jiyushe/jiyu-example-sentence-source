@@ -1,5 +1,7 @@
 # prf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prf.md)
+
 <p><span class="chinese">零后的第一个完整的材料，PRF给予优先释放。</span><span class="english">Zero after the first full release of materials, PRF grant priority.</span></p>
 
 <p><span class="chinese">在雷达导引头中经常采用高PRF倒置接收体制。</span><span class="english">High PRF and inverse receiver are often used in radar missile guidance.</span></p>

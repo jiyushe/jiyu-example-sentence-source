@@ -1,5 +1,7 @@
 # 冗赘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongzhui.md)
+
 <p><span class="chinese">言词冗赘的演讲者、讲话、文体。</span><span class="english">A verbose speaker, speech, style.</span></p>
 
 <p><span class="chinese">你的文章行文冗赘，弄得我有点糊涂了。</span><span class="english">I got lost in your rather diffuse essay.</span></p>

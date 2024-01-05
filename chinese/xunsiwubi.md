@@ -1,5 +1,7 @@
 # 徇私舞弊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunsiwubi.md)
+
 <p><span class="chinese">他徇私舞弊，是个贪官。</span><span class="english">Investigation of fraud was their commission.</span></p>
 
 <p><span class="chinese">徇私舞弊者，何时查出，何时取消学籍。</span><span class="english">Practicing favoritism, when found, when abolition of school.</span></p>

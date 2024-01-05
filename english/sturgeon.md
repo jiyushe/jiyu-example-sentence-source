@@ -1,5 +1,7 @@
 # sturgeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sturgeon.md)
+
 <p><span class="chinese">雄鱼雄性个体，尤其指雄性的鲟鱼。</span><span class="english">Male sturgeon or male fish generally.</span></p>
 
 <p><span class="chinese">渔民每年错误地捕捞大概3000头中华鲟。</span><span class="english">Fishermen catchas many as 3, 000 sturgeon by mistake every year.</span></p>

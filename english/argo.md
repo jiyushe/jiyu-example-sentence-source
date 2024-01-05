@@ -1,5 +1,7 @@
 # argo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argo.md)
+
 <p><span class="chinese">这就是为什么代尔ARGO计划销售的情况非常自豪地目前最优秀的全地形车的任何地方。</span><span class="english">That's why Adair ARGO Sales is so very proud to present the finest ATVs anywhere.</span></p>
 
 <p><span class="chinese">支持ARGO计划的地理信息系统平台能分析处理海量的海洋信息。</span><span class="english">The GIS software that support ARGO program can analysis a great lot of data in ocean.</span></p>

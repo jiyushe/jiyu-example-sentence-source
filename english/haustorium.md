@@ -1,5 +1,7 @@
 # haustorium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haustorium.md)
+
 <p><span class="chinese">胚囊发育类型为英地百合型，合点端形成胚囊吸器。</span><span class="english">With embryo sac haustorium in chalazal end, the embryo sac is Endymion type.</span></p>
 
 <p><span class="chinese">核型胚乳，合点端具胚乳吸器。</span><span class="english">Endosperm formation is nuclear type and the endosperm forms chalazal haustorium.</span></p>

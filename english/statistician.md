@@ -1,5 +1,7 @@
 # statistician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statistician.md)
+
 <p><span class="chinese">统计员用图表来表示统计结果。</span><span class="english">The statistician diagrammed the statistical results.</span></p>
 
 <p><span class="chinese">塞拉过去教心理学，而现在她是一个公司的统计员。</span><span class="english">Sara used to teach psychology, but now she's a corporate statistician.</span></p>

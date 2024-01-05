@@ -1,5 +1,7 @@
 # midyear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midyear.md)
+
 <p><span class="chinese">关键性转折始于09年中期。</span><span class="english">A pivotal turn began midyear.</span></p>
 
 <p><span class="chinese">它反映了直到年中依然相对强劲的经济。</span><span class="english">It reflects the relatively strong economy until midyear.</span></p>

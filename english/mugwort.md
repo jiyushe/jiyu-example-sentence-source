@@ -1,5 +1,7 @@
 # mugwort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mugwort.md)
+
 <p><span class="chinese">喜食猪毛菜和艾蒿之类的草类。</span><span class="english">Preference Salsola and mugwort sort of grass.</span></p>
 
 <p><span class="chinese">别担心，我今晚不会再用苦艾酒或艾蒿来做预知梦了。</span><span class="english">Don't worry, I won't be hitting the absinthe or the mugwort to try to induce the visions tonight.</span></p>

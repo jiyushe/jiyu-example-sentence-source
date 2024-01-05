@@ -1,5 +1,7 @@
 # gastrectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastrectomy.md)
+
 <p><span class="chinese">全胃切除术是常见的胃癌根治术之一。</span><span class="english">Total gastrectomy is one of radical resections for gastric cancer.</span></p>
 
 <p><span class="chinese">目的分析和总结胃癌全胃切除术治疗经验。</span><span class="english">Objective To summarize the experience of total gastrectomy for gastric carcinoma.</span></p>

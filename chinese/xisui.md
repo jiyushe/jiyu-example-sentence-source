@@ -1,5 +1,7 @@
 # 细碎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xisui.md)
+
 <p><span class="chinese">人类的知识似乎越来越细碎化了。</span><span class="english">Human knowledge seems to grow fractally.</span></p>
 
 <p><span class="chinese">再见了，那年细碎少年，不在了，已经过去。</span><span class="english">Goodbye, that fine young, not in, has in the past.</span></p>

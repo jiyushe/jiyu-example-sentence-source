@@ -1,5 +1,7 @@
 # swarm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swarm.md)
+
 <p><span class="chinese">养蜂人把蜂群装入蜂箱。</span><span class="english">The beekeeper hived the swarm.</span></p>
 
 <p><span class="chinese">莱恩，那是群体智慧吗？</span><span class="english">Len, is that swarm intelligence?</span></p>

@@ -1,5 +1,7 @@
 # 治安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhian.md)
+
 <p><span class="chinese">乔治安娜，现在学得怎么样啦，达西？</span><span class="english">How does Georgiana get on, Darcy?</span></p>
 
 <p><span class="chinese">委任状上盖有治安官的印章。</span><span class="english">The warrant bore the sheriff's seal.</span></p>

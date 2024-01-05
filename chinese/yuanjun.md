@@ -1,5 +1,7 @@
 # 援军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjun.md)
+
 <p><span class="chinese">找援军。</span><span class="english">Call reinforcements.</span></p>
 
 <p><span class="chinese">与此同时，俄罗斯向阿布哈兹派出援军。</span><span class="english">Meanwhile, Russia's sending reinforcements to Abkhazia.</span></p>

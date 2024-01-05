@@ -1,5 +1,7 @@
 # bah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bah.md)
+
 <p><span class="chinese">小手袋，呸呸呸。</span><span class="english">Small handbags, bah.</span></p>
 
 <p><span class="chinese">呸，你快乐的圣诞节！</span><span class="english">Bah to a happy Chirstmas!</span></p>

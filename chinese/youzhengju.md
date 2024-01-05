@@ -1,5 +1,7 @@
 # 邮政局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhengju.md)
+
 <p><span class="chinese">敬辞如何前往邮政局?。</span><span class="english">How do Iget to the post office?</span></p>
 
 <p><span class="chinese">有一张沙发在邮政局。</span><span class="english">There is a sofa in the postoffice.</span></p>

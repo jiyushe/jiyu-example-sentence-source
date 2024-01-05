@@ -1,5 +1,7 @@
 # 聪明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congming.md)
+
 <p><span class="chinese">聪明智慧！</span><span class="english">Smart!</span></p>
 
 <p><span class="chinese">聪明的小妞。</span><span class="english">Smart chick.</span></p>

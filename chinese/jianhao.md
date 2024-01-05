@@ -1,5 +1,7 @@
 # 见好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianhao.md)
+
 <p><span class="chinese">他的病见好了。</span><span class="english">He's on the mend.</span></p>
 
 <p><span class="chinese">我们下周一见好吗？</span><span class="english">Shall we meet next Monday?</span></p>

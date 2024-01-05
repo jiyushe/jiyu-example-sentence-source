@@ -1,5 +1,7 @@
 # acrolein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acrolein.md)
+
 <p><span class="chinese">对EO法及丙烯醛法路线进行了技术、经济比较。</span><span class="english">The routes from EO and acrolein are compared in technology and economy.</span></p>
 
 <p><span class="chinese">甲醛、乙醛和丙烯醛均为环境中常见的醛类。</span><span class="english">Formaldehyde, acetaldehyde and acrolein are common aldehyde in the environment.</span></p>

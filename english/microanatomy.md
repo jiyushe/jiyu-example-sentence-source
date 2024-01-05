@@ -1,5 +1,7 @@
 # microanatomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microanatomy.md)
+
 <p><span class="chinese">目的为临床神经外科提供鞍区显微解剖和解剖参数。</span><span class="english">Objective To provide the microanatomy of sellar region for the clinical neurosurgery.</span></p>
 
 <p><span class="chinese">目的为大脑岛叶区域的手术操作提供显微解剖参数。</span><span class="english">Objective To provide the microanatomy for surgical operation in the region of the insula.</span></p>

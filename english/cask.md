@@ -1,5 +1,7 @@
 # cask
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cask.md)
+
 <p><span class="chinese">酒有桶的味道。</span><span class="english">The wine is tanged with cask.</span></p>
 
 <p><span class="chinese">桶上的塞子很脏。</span><span class="english">The tap on the cask was dirty.</span></p>

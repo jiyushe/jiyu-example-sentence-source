@@ -1,5 +1,7 @@
 # 面临
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianlin.md)
+
 <p><span class="chinese">我们面临着实实在在的威胁。</span><span class="english">We face real threats.</span></p>
 
 <p><span class="chinese">重新组织自己面临的状况。</span><span class="english">Reframe the situation.</span></p>

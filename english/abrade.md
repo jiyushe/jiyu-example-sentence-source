@@ -1,5 +1,7 @@
 # abrade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abrade.md)
+
 <p><span class="chinese">擦伤会留下疤吗?好恐怖。</span><span class="english">Can abrade leave scar? Very horrible.</span></p>
 
 <p><span class="chinese">摔倒后皮肤就会擦伤一大块。</span><span class="english">The skin after trip is met abrade one chunk.</span></p>

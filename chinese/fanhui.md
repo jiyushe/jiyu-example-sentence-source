@@ -1,5 +1,7 @@
 # 反悔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanhui.md)
+
 <p><span class="chinese">绝对不能有反悔。</span><span class="english">There must be no reneging.</span></p>
 
 <p><span class="chinese">总统经常第一天说好，第二天又反悔。</span><span class="english">One day the president said yes, the next no.</span></p>

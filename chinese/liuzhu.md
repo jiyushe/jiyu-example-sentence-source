@@ -1,5 +1,7 @@
 # 留住
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuzhu.md)
+
 <p><span class="chinese">唉，要是我们能留住他！</span><span class="english">Ay, if we can keep him!</span></p>
 
 <p><span class="chinese">博颜又是怎么留住自己人才的呢？</span><span class="english">How does Beyondsoft keep its talent?</span></p>

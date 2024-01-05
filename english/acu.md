@@ -1,5 +1,7 @@
 # acu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acu.md)
+
 <p><span class="chinese">UEF的指挥官可以升级隐藏在胸部内的火炮。</span><span class="english">The UEF ACU can be upgraded with an artillery gun which is hidden in his chest.</span></p>
 
 <p><span class="chinese">而陈在上海长乐路开设的另一潮店“ACU”也生意惨淡。</span><span class="english">In "ACU", a fashion shop opened by Edison in Shanghai, the outlook also looks bleak.</span></p>

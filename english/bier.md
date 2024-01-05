@@ -1,5 +1,7 @@
 # bier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bier.md)
+
 <p><span class="chinese">在举行葬礼以前尸体被放在棺材里。</span><span class="english">The body was placed in bier before burial.</span></p>
 
 <p><span class="chinese">从现在在，之上我在白天的棺架中睡觉。</span><span class="english">From now on, I sleep in the bier at daytime.</span></p>

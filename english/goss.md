@@ -1,5 +1,7 @@
 # goss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goss.md)
+
 <p><span class="chinese">南苏丹政府腐败，尤其是基层干部，这已经成为普遍的看法。</span><span class="english">The widespread perception is that the GOSS is corrupt, especially at the lower levels.</span></p>
 
 <p><span class="chinese">但是格斯教授同时也说在没有却是要从水中检验出特定的细菌之前通过这样一个议案是很困难的。</span><span class="english">But Goss said it's hard to pass a verdict on the finding without knowing which specific bacteria were found in the water.</span></p>

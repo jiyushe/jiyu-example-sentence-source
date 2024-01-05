@@ -1,5 +1,7 @@
 # 人力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renli.md)
+
 <p><span class="chinese">你拥有人力。</span><span class="english">You have the people.</span></p>
 
 <p><span class="chinese">人力资源验核。</span><span class="english">Human Resource Auditing.</span></p>

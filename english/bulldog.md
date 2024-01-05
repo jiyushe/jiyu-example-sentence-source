@@ -1,5 +1,7 @@
 # bulldog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulldog.md)
+
 <p><span class="chinese">我喜欢牛头犬。</span><span class="english">I like bulldog.</span></p>
 
 <p><span class="chinese">我有一只英国牛头犬。</span><span class="english">I have an English Bulldog.</span></p>

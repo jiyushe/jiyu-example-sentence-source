@@ -1,5 +1,7 @@
 # multiply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiply.md)
+
 <p><span class="chinese">我可以试着把它乘以。</span><span class="english">Maybe if I multiply by one.</span></p>
 
 <p><span class="chinese">现在两边同时乘以v</span><span class="english">Now, multiply both sides by v.</span></p>

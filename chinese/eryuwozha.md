@@ -1,5 +1,7 @@
 # 尔虞我诈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eryuwozha.md)
+
 <p><span class="chinese">人类也许是一个尔虞我诈的种族。</span><span class="english">Humans can be an untrusting race.</span></p>
 
 <p><span class="chinese">但是我们生活在一个尔虞我诈世界。</span><span class="english">But we live in a world of deception.</span></p>

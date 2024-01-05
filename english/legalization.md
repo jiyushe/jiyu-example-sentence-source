@@ -1,5 +1,7 @@
 # legalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legalization.md)
+
 <p><span class="chinese">同性恋婚姻合法化的斗争</span><span class="english">The fight for same-sex marriage legalization</span></p>
 
 <p><span class="chinese">足球博彩合法化?好事还是坏事?。</span><span class="english">Legalization of football betting ? a boon or a bane?</span></p>

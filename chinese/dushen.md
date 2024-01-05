@@ -1,5 +1,7 @@
 # 独身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dushen.md)
+
 <p><span class="chinese">独身“挑战”</span><span class="english">Celibacy 'challenge'</span></p>
 
 <p><span class="chinese">我想我会保持独身！</span><span class="english">I think I will stay single!</span></p>

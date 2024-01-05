@@ -1,5 +1,7 @@
 # 男女平等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nannvpingdeng.md)
+
 <p><span class="chinese">男女平等实属天经地义。</span><span class="english">Equality between men and women is fully justified.</span></p>
 
 <p><span class="chinese">争取选举权的妇女是英国最早的男女平等主义者。</span><span class="english">Suffragettes were among the first feminists in Britain.</span></p>

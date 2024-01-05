@@ -1,5 +1,7 @@
 # 乐队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuedui.md)
+
 <p><span class="chinese">什么样的乐队?</span><span class="english">What kind of band?</span></p>
 
 <p><span class="chinese">乐队不停地演奏着摇滚乐曲。</span><span class="english">The band rocked away.</span></p>

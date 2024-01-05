@@ -1,5 +1,7 @@
 # footstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footstone.md)
+
 <p><span class="chinese">同时，无论对宏观经济还是微观经济都有着重要影响。</span><span class="english">Consumption theory is the footstone of Keynes macro-economics , and it.</span></p>
 
 <p><span class="chinese">个别化教育计划是特殊教育的基石。</span><span class="english">Individualized educational program is a footstone of special education.</span></p>

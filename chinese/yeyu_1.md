@@ -1,5 +1,7 @@
 # 揶揄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeyu_1.md)
+
 <p><span class="chinese">我的愁绪揶揄以问我它们自己的名字来揶揄我。</span><span class="english">My sad thoughts tease me asking me their own name.</span></p>
 
 <p><span class="chinese">他受人揶揄讥嘲的时代已经过去了。</span><span class="english">The time has passed when he was an object of ridicule.</span></p>

@@ -1,5 +1,7 @@
 # 树挂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shugua.md)
+
 <p><span class="chinese">风筝被树挂住了。</span><span class="english">The kite caught in a tree.</span></p>
 
 <p><span class="chinese">风筝被树挂住了。</span><span class="english">The kite caught in the trees.</span></p>

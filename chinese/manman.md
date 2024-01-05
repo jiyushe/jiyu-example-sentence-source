@@ -1,5 +1,7 @@
 # 慢慢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manman.md)
+
 <p><span class="chinese">他慢慢向她靠拢。</span><span class="english">He edged up to her.</span></p>
 
 <p><span class="chinese">像乌龟一样慢慢跑。</span><span class="english">Run like a tortoise.</span></p>

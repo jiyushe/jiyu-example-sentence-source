@@ -1,5 +1,7 @@
 # cousin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cousin.md)
+
 <p><span class="chinese">那是你的堂哥吗？</span><span class="english">Is that your cousin?</span></p>
 
 <p><span class="chinese">她是我的第一代堂姐妹。</span><span class="english">He's my first cousin.</span></p>

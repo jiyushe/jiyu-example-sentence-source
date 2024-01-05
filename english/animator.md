@@ -1,5 +1,7 @@
 # animator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animator.md)
+
 <p><span class="chinese">渡边在20岁时就开始绘制卡通片。</span><span class="english">Watanabe began his career as an animator at age 20.</span></p>
 
 <p><span class="chinese">一个动画师则必需要可以把这些转换到角色上。</span><span class="english">An animator has to be able to convey this with a character.</span></p>

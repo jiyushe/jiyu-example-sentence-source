@@ -1,5 +1,7 @@
 # busy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busy.md)
+
 <p><span class="chinese">生活是忙碌的。</span><span class="english">Life is busy.</span></p>
 
 <p><span class="chinese">他们变得忙碌。</span><span class="english">They get busy.</span></p>

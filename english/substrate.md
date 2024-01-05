@@ -1,5 +1,7 @@
 # substrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substrate.md)
+
 <p><span class="chinese">诱导底物的影响。</span><span class="english">Effect of inducing substrate.</span></p>
 
 <p><span class="chinese">实验以氨苄西林为底物。</span><span class="english">Ampicillin was used as substrate.</span></p>

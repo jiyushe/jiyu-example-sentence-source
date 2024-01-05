@@ -1,5 +1,7 @@
 # fashionable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fashionable.md)
+
 <p><span class="chinese">霏欧纳说，“这些都是很流行的款式。”</span><span class="english">Fiona said. “Very fashionable.”</span></p>
 
 <p><span class="chinese">这么说却不太合潮流。</span><span class="english">It is not fashionable to say so.</span></p>

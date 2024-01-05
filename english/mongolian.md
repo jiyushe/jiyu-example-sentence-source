@@ -1,5 +1,7 @@
 # mongolian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mongolian.md)
+
 <p><span class="chinese">这就是蒙古帝国。</span><span class="english">It was the Mongolian Empire.</span></p>
 
 <p><span class="chinese">我们有只稀有的蒙古兔！</span><span class="english">We have a rare Mongolian rabbit.</span></p>

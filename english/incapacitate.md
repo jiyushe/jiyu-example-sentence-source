@@ -1,5 +1,7 @@
 # incapacitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incapacitate.md)
+
 <p><span class="chinese">我赶在恐惧击倒我以前对那个声音下令。</span><span class="english">I commanded the voice before terror could incapacitate me.</span></p>
 
 <p><span class="chinese">炸弹和手榴弹现在可以对免疫昏迷和瘫痪效果的目标造成伤害。</span><span class="english">Bomb and Grenades can now inflict damage to targets immune to Stun and Incapacitate effects.</span></p>

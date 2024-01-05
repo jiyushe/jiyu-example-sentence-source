@@ -1,5 +1,7 @@
 # terribly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terribly.md)
+
 <p><span class="chinese">我非常想念她。</span><span class="english">I miss her terribly.</span></p>
 
 <p><span class="chinese">冷得邪乎</span><span class="english">It is terribly cold.</span></p>

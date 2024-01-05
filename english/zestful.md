@@ -1,5 +1,7 @@
 # zestful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zestful.md)
+
 <p><span class="chinese">书籍是朋友，虽然没有热情，却非常忠实。——格言。</span><span class="english">Books are friends who are not zestful , but faithful.</span></p>
 
 <p><span class="chinese">在离开三个月之后见到他的家人是很令人感到来劲的时刻。</span><span class="english">Seeing his family after three months away was a zestful moment.</span></p>

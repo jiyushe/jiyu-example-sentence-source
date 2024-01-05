@@ -1,5 +1,7 @@
 # viscosimeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscosimeter.md)
+
 <p><span class="chinese">用WTP-B1型毛细血管血液黏度计测定血液流变学指标。</span><span class="english">Hemorrheological index was determined the by WTP-B1 capillary blood viscosimeter.</span></p>
 
 <p><span class="chinese">本文介绍了一种新改进的常亮式光电旋转粘度计。</span><span class="english">In this article the author gives an account of his newly renovated slag viscosimeter.</span></p>

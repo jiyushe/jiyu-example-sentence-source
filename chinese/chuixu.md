@@ -1,5 +1,7 @@
 # 吹嘘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuixu.md)
+
 <p><span class="chinese">他吹嘘道。</span><span class="english">canapes! he boasts.</span></p>
 
 <p><span class="chinese">她喜欢自我吹嘘。</span><span class="english">She likes to advertise herself.</span></p>

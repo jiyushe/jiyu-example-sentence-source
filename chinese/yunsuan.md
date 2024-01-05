@@ -1,5 +1,7 @@
 # 运算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunsuan.md)
+
 <p><span class="chinese">先运算，再返回结果。</span><span class="english">It evaluates, and it prints.</span></p>
 
 <p><span class="chinese">它是怎么完成运算的？这个程序现在？</span><span class="english">How is it attempting to work?</span></p>

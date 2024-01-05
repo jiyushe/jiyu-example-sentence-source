@@ -1,5 +1,7 @@
 # affect 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affect.md)
+
 <p><span class="chinese">“十二宫图”会影响我们吗？</span><span class="english">Does the zodiac affect us?</span></p>
 
 <p><span class="chinese">它并不会影响人类。</span><span class="english">It does not affect humans.</span></p>

@@ -1,5 +1,7 @@
 # 脱产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuochan.md)
+
 <p><span class="chinese">他们应当有更多的脱产进修的机会。</span><span class="english">They should be given more opportunities for mid-career studies.</span></p>
 
 <p><span class="chinese">学习可以脱产或利用业余时间，课程包括44个实践课程。</span><span class="english">Study may be full time or part time and programmes include a44practice component.</span></p>

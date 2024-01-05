@@ -1,5 +1,7 @@
 # eyedrop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyedrop.md)
+
 <p><span class="chinese">眼睛干涩用什么眼药水最好？</span><span class="english">Is the eye dry with what eyedrop best?</span></p>
 
 <p><span class="chinese">假性近视可以用眼药水治吗？</span><span class="english">Can be pseudomyopia treated with eyedrop ?</span></p>

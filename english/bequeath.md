@@ -1,5 +1,7 @@
 # bequeath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bequeath.md)
+
 <p><span class="chinese">有巢氏阶段的文化遗存为凌家滩遗址。</span><span class="english">The cultural bequeath of Youchao is Ling-jia-tan site.</span></p>
 
 <p><span class="chinese">大多数人把他们的财产遗留给他们的配偶和孩子们。</span><span class="english">Most people bequeath their property to their spouses and children.</span></p>

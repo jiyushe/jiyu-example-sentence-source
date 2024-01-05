@@ -1,5 +1,7 @@
 # 体育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiyu.md)
+
 <p><span class="chinese">她爱好体育。</span><span class="english">She loves sports.</span></p>
 
 <p><span class="chinese">我喜欢美术和体育。</span><span class="english">I like Art and P. E.</span></p>

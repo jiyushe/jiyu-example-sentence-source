@@ -1,5 +1,7 @@
 # sensuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensuality.md)
+
 <p><span class="chinese">耽于声色口腹之乐乃是这个时代的罪行。</span><span class="english">Sensuality is the sin of the age.</span></p>
 
 <p><span class="chinese">他的系列“卡雷相思“，是一种纯粹的感官视觉。</span><span class="english">His serie "Carré Blanc" is a vision of pure sensuality.</span></p>

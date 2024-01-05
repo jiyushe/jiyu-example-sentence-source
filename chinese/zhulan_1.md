@@ -1,5 +1,7 @@
 # 竹篮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhulan_1.md)
+
 <p><span class="chinese">竹篮儿打水一场空。</span><span class="english">pour water into a sieve.</span></p>
 
 <p><span class="chinese">你是竹篮打水一场空。</span><span class="english">You are drawing water with a sieve.</span></p>

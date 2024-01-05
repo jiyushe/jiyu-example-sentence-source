@@ -1,5 +1,7 @@
 # bioluminescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioluminescence.md)
+
 <p><span class="chinese">科学家一般称这一过程为“生物发光”。</span><span class="english">And scientists call this process as bioluminescence.</span></p>
 
 <p><span class="chinese">生物发光现象的产生需要至少两种化学物质。</span><span class="english">At least two chemicals are required to produce bioluminescence.</span></p>

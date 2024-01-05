@@ -1,5 +1,7 @@
 # 反败为胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanbaiweisheng.md)
+
 <p><span class="chinese">眼看武馆馆主将要反败为胜。</span><span class="english">See the martial arts will be crowned and win the game.</span></p>
 
 <p><span class="chinese">该队在上半场惨败后重整旗鼓反败为胜。</span><span class="english">After a disastrous first half the team fought back to win.</span></p>

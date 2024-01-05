@@ -1,5 +1,7 @@
 # vernalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vernalization.md)
+
 <p><span class="chinese">主茎总叶数的变化是量测小麦春化反应性的一个可靠指标。</span><span class="english">Finalleaf number on main stem could be a reliable measure for wheat vernalization response.</span></p>
 
 <p><span class="chinese">并对春化相关基因克隆方面的进展进行了分析和综述。</span><span class="english">Also introduced are the research achievements about cloning of vernalization -related genes.</span></p>

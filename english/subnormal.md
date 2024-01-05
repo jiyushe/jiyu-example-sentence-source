@@ -1,5 +1,7 @@
 # subnormal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subnormal.md)
+
 <p><span class="chinese">白痴的智商低于正常水平。</span><span class="english">An idiot has a subnormal IQ.</span></p>
 
 <p><span class="chinese">这所学校是为低能儿童开的。</span><span class="english">This school is for subnormal children.</span></p>

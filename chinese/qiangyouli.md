@@ -1,5 +1,7 @@
 # 强有力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangyouli.md)
+
 <p><span class="chinese">他的发球强有力。</span><span class="english">He has a powerful serve.</span></p>
 
 <p><span class="chinese">他面临一个强有力的敌手</span><span class="english">He had a worthy opponent.</span></p>

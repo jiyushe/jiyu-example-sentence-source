@@ -1,5 +1,7 @@
 # 贮备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhubei.md)
+
 <p><span class="chinese">如何贮备你的食物储藏室。</span><span class="english">How to stock your pantry.</span></p>
 
 <p><span class="chinese">还有许多其他贮备能源。</span><span class="english">There are still many other energy sources in store.</span></p>

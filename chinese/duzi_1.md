@@ -1,5 +1,7 @@
 # 独资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duzi_1.md)
+
 <p><span class="chinese">国有独资公司。</span><span class="english">Wholly state-owned company.</span></p>
 
 <p><span class="chinese">鲽鱼或独资，煮熟，3盎司。</span><span class="english">Flounder or sole, cooked, 3 ounces.</span></p>

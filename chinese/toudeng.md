@@ -1,5 +1,7 @@
 # 头等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toudeng.md)
+
 <p><span class="chinese">我想要一张回程不定期的头等往返票。</span><span class="english">I want a first-class open return.</span></p>
 
 <p><span class="chinese">这次摸彩的头等奖是一辆新的宝马汽车。</span><span class="english">The draw's first prize is a new BMW.</span></p>

@@ -1,5 +1,7 @@
 # tob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tob.md)
+
 <p><span class="chinese">我想当一名美术老师。</span><span class="english">I want tob an art teacher.</span></p>
 
 <p><span class="chinese">所有的喜欢，最后只有一小部分能够成为爱情。</span><span class="english">All of like, only a small part tob love last.</span></p>

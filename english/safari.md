@@ -1,5 +1,7 @@
 # safari
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/safari.md)
+
 <p><span class="chinese">世界上最奢华的狩猎之旅</span><span class="english">The world's most deluxe safari.</span></p>
 
 <p><span class="chinese">这次春游，我们去野生动物园玩。</span><span class="english">We went to safari park for spring outing.</span></p>

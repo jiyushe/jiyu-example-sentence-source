@@ -1,5 +1,7 @@
 # gynaecologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gynaecologist.md)
+
 <p><span class="chinese">她介绍玛莉看妇科医生。</span><span class="english">She referred Mary to a gynaecologist.</span></p>
 
 <p><span class="chinese">这里妇科学家不承认这点。</span><span class="english">The gynaecologist here will not acknowledge this either.</span></p>

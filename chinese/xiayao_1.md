@@ -1,5 +1,7 @@
 # 下药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiayao_1.md)
+
 <p><span class="chinese">我认为他是那一个下药我。</span><span class="english">I think he was the one drugging me.</span></p>
 
 <p><span class="chinese">我必须先解决她吃下药就吐出的病况。</span><span class="english">I must help her hold the medicine down.</span></p>

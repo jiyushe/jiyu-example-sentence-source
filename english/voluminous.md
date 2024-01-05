@@ -1,5 +1,7 @@
 # voluminous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voluminous.md)
+
 <p><span class="chinese">他是个多产作家。</span><span class="english">He is a voluminous writer.</span></p>
 
 <p><span class="chinese">她那肥大的裤腿呈喇叭形展开。</span><span class="english">The legs of her voluminous trousers flared out.</span></p>

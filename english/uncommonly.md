@@ -1,5 +1,7 @@
 # uncommonly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncommonly.md)
+
 <p><span class="chinese">他们感到特别自豪。</span><span class="english">They were uncommonly proud.</span></p>
 
 <p><span class="chinese">来自日本的一些非常乐观的报告反映出了这一转变。</span><span class="english">Some uncommonly upbeat reports from Japan reflect the shift.</span></p>

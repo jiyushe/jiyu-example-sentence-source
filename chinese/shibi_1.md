@@ -1,5 +1,7 @@
 # 时弊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shibi_1.md)
+
 <p><span class="chinese">这本书切中了我们现在经济的时弊。</span><span class="english">The book diagnoses our present economic ills.</span></p>
 
 <p><span class="chinese">他成了一个摒弃一切幻想，严厉抨击时弊的批评家。</span><span class="english">He became a progressively harsh and disillusioned critic of his country's failings.</span></p>

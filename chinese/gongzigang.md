@@ -1,5 +1,7 @@
 # 工字钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzigang.md)
+
 <p><span class="chinese">介绍了一种新型矿用工字钢。</span><span class="english">A kind of new type I-beam for mining is introduced.</span></p>
 
 <p><span class="chinese">电机通风用异形钢材是一种机械零件，其断面形状类似工字钢和H型钢。</span><span class="english">Electromotor ventilation section shape is similar to the I beam and H beam.</span></p>

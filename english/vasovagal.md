@@ -1,5 +1,7 @@
 # vasovagal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasovagal.md)
+
 <p><span class="chinese">血管迷走性晕厥机制复杂。</span><span class="english">The mechanism of vasovagal syncope is complex.</span></p>
 
 <p><span class="chinese">血管迷走神经性晕厥出现的先兆症状和体征有哪些?。</span><span class="english">What premonitory signs and symptoms may exist for vasovagal syncope ?</span></p>

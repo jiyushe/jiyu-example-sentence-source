@@ -1,5 +1,7 @@
 # 清茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingcha_1.md)
+
 <p><span class="chinese">一杯清茶，散发出沁人心脾的清香。</span><span class="english">A cup of tea, emitting a refreshing scent.</span></p>
 
 <p><span class="chinese">桌上有清茶，手中有雅诗。</span><span class="english">Table has green tea, has the hands of Ascott.</span></p>

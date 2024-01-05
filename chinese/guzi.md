@@ -1,5 +1,7 @@
 # 股子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzi.md)
+
 <p><span class="chinese">这些小伙子真有股子愣劲儿。</span><span class="english">These boys are really full of pep.</span></p>
 
 <p><span class="chinese">有这股子狂劲，没准他真能赢得最后的胜利。</span><span class="english">With his fanaticism, he may win at last.</span></p>

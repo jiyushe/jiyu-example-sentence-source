@@ -1,5 +1,7 @@
 # countess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countess.md)
+
 <p><span class="chinese">你认识我的侄女奥兰斯卡伯爵夫人吗？</span><span class="english">You know my niece Countess Olenska?</span></p>
 
 <p><span class="chinese">一位时髦的对珠宝有品味的伯爵夫人。</span><span class="english">A neo-politan countess with a taste for jewellery.</span></p>

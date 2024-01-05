@@ -1,5 +1,7 @@
 # lcm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lcm.md)
+
 <p><span class="chinese">TAB工艺是LCM制造工艺中最常用的一种。</span><span class="english">TAB technology is one the most commonly used in LCM manufacturing.</span></p>
 
 <p><span class="chinese">纤维预成型技术是LCM工艺的一个重要环节。</span><span class="english">The tackified fiber preform technology is important in LCM process.</span></p>

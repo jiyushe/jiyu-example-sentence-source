@@ -1,5 +1,7 @@
 # harlem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harlem.md)
+
 <p><span class="chinese">你能给我们讲讲哈莱姆这个地区吗？</span><span class="english">Could you tell us about Harlem?</span></p>
 
 <p><span class="chinese">这是一个冬天，我是在黑人住宅区。</span><span class="english">It was winter, and I was in Harlem.</span></p>

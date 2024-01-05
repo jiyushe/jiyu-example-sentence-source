@@ -1,5 +1,7 @@
 # micropore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micropore.md)
+
 <p><span class="chinese">孔形状因子与水泥石强度之间存在着较显著的相关性。</span><span class="english">Correlations between strengths and micropore shape factor have been found.</span></p>
 
 <p><span class="chinese">但没有发现线粒体、多糖颗粒、微孔和膜下微管。</span><span class="english">No mi-cothondria, polysaccharide granules, micropore or microtubules were found.</span></p>

@@ -1,5 +1,7 @@
 # 青蒿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinghao_1.md)
+
 <p><span class="chinese">目的观察青蒿琥酯对新生血管生成的影响。</span><span class="english">OBJECTIVE To study the effects of artesunate on angiogenesis.</span></p>
 
 <p><span class="chinese">它是一种从青蒿属植物中分离出来的药物。</span><span class="english">It is isolated from the leaves and flowers of Artemisia annual.</span></p>

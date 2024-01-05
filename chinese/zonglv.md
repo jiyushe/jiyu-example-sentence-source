@@ -1,5 +1,7 @@
 # 棕榈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonglv.md)
+
 <p><span class="chinese">那是一棵棕榈。</span><span class="english">The tree was a palm.</span></p>
 
 <p><span class="chinese">我的名字是魏懋棕榈。</span><span class="english">My name is Justina Palm.</span></p>

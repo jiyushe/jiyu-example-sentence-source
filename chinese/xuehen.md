@@ -1,5 +1,7 @@
 # 血痕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuehen.md)
+
 <p><span class="chinese">洒上空枝见血痕。</span><span class="english">Tears on the branch with some blood stains.</span></p>
 
 <p><span class="chinese">独把花锄偷洒泪，洒上空枝见血痕。</span><span class="english">Falling on the bare twigs with blood stains.</span></p>

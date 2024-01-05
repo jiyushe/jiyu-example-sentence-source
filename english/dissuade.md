@@ -1,5 +1,7 @@
 # dissuade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissuade.md)
+
 <p><span class="chinese">而卢孟并没有劝阻她。</span><span class="english">Lu did not dissuade her.</span></p>
 
 <p><span class="chinese">你最好劝阻他别那样干。</span><span class="english">You'd better dissuade him from doing that.</span></p>

@@ -1,5 +1,7 @@
 # pearlite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pearlite.md)
+
 <p><span class="chinese">其典型的显微组织为层片状珠光体。</span><span class="english">Its typic microstructure calls lamellar pearlite.</span></p>
 
 <p><span class="chinese">强度较低的试样中第二相组织为团状珠光体。</span><span class="english">The second microstructure in lower strength samples is agglomerate pearlite.</span></p>

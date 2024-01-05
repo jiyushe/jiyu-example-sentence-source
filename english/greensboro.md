@@ -1,5 +1,7 @@
 # greensboro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greensboro.md)
+
 <p><span class="chinese">他的妻子、儿子和女儿继续在格林斯伯勒生活。</span><span class="english">His wife, son and daughter continue to live in Greensboro.</span></p>
 
 <p><span class="chinese">他开始玩池在1974年和目前居住在格林斯伯勒，北卡罗莱纳州，美国。</span><span class="english">He began playing pool in 1974 and currently resides in Greensboro , North Carolina, USA.</span></p>

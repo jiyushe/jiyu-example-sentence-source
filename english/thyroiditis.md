@@ -1,5 +1,7 @@
 # thyroiditis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thyroiditis.md)
+
 <p><span class="chinese">亚急性甲状腺炎的诊断及治疗。</span><span class="english">Diagnosis and treatment of subacute thyroiditis.</span></p>
 
 <p><span class="chinese">慢性自身免疫性甲状腺炎是原发甲减的主要原因。</span><span class="english">Chronic autoimmune thyroiditis was a main cause of primary hypothyroidism.</span></p>

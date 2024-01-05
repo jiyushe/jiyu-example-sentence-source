@@ -1,5 +1,7 @@
 # 游手好闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youshouhaoxian.md)
+
 <p><span class="chinese">我讨厌游手好闲的人。</span><span class="english">I hate the loafers.</span></p>
 
 <p><span class="chinese">我不会是一个精神上的游手好闲者。</span><span class="english">He is a bit of a loafer.</span></p>

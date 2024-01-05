@@ -1,5 +1,7 @@
 # deploy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deploy.md)
+
 <p><span class="chinese">然后，部署该文件。</span><span class="english">Next, deploy the file.</span></p>
 
 <p><span class="chinese">本地配置能力。</span><span class="english">Ability to deploy natively.</span></p>

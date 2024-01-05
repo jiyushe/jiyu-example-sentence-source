@@ -1,5 +1,7 @@
 # leisured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leisured.md)
+
 <p><span class="chinese">男士牛仔休闲衬衫高质量超低价！</span><span class="english">Men's leisured jeans shirt, high quality, supper lower price!</span></p>
 
 <p><span class="chinese">这位老人宁愿干点事也不愿闲着。</span><span class="english">The old man prefers doing something useful to being leisured.</span></p>

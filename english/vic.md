@@ -1,5 +1,7 @@
 # vic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vic.md)
+
 <p><span class="chinese">大家好，我是仔仔啦。</span><span class="english">Everybody good, I am vic.</span></p>
 
 <p><span class="chinese">我们从周渝民身上学到什麽?。</span><span class="english">What do we learn from Vic?</span></p>

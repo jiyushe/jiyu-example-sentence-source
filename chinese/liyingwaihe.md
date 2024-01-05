@@ -1,5 +1,7 @@
 # 里应外合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyingwaihe.md)
+
 <p><span class="chinese">当然，这次越狱行动是一份里应外合的杰作。</span><span class="english">Of course the escape was an inside job.</span></p>
 
 <p><span class="chinese">海绵与布，里应外合！双层结构，卓越首创！</span><span class="english">Foam inside, fabric outside, double layers, make it perfect.</span></p>

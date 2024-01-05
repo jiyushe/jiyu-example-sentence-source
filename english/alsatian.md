@@ -1,5 +1,7 @@
 # alsatian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alsatian.md)
+
 <p><span class="chinese">狮子狗，博美狗，阿尔萨斯。</span><span class="english">The Poodle, the Pom, the Alsatian.</span></p>
 
 <p><span class="chinese">习惯养着阿尔萨斯人，因为阿尔萨斯人习惯舔她们。</span><span class="english">Used to keep this Alsatian that used to lick them.</span></p>

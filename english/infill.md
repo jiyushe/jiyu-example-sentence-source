@@ -1,5 +1,7 @@
 # infill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infill.md)
+
 <p><span class="chinese">火山岩能解释月球表面大片的阴暗区的形成。</span><span class="english">Lava could account for the mare infill on the Moon.</span></p>
 
 <p><span class="chinese">补钻开发调整井是一项全局性、战略性的调整措施。</span><span class="english">Infill drilling is an adjustment measure to be taken strategically.</span></p>

@@ -1,5 +1,7 @@
 # 浑水摸鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunshuimoyu.md)
+
 <p><span class="chinese">浑水摸鱼。</span><span class="english">Fish in troubles water.</span></p>
 
 <p><span class="chinese">不要浑水摸鱼。</span><span class="english">Never fish in troubled waters.</span></p>

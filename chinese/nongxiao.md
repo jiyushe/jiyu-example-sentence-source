@@ -1,5 +1,7 @@
 # 农校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongxiao.md)
+
 <p><span class="chinese">第七章是对已被撤销的农校的个案分析。</span><span class="english">The seventh chapter is the case analyses on the already-canceled Peasant Schools.</span></p>
 
 <p><span class="chinese">第六章是对逐步转型的农校的个案分析。</span><span class="english">The sixth chapter is the case analyses on the transforming gradually Peasant Schools.</span></p>

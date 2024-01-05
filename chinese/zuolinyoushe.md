@@ -1,5 +1,7 @@
 # 左邻右舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuolinyoushe.md)
+
 <p><span class="chinese">她对左邻右舍概无好感。</span><span class="english">She's very ill-disposed towards her neighbours.</span></p>
 
 <p><span class="chinese">别那么大声说话，你快把左邻右舍都吵醒了。</span><span class="english">Don't talk so loud — you'll wake the whole street.</span></p>

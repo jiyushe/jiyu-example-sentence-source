@@ -1,5 +1,7 @@
 # 抽搐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouchu_1.md)
+
 <p><span class="chinese">雷尔夫感到他的嘴唇在抽搐。</span><span class="english">Ralph felt his lips twitch.</span></p>
 
 <p><span class="chinese">她的脸疼得抽搐起来。</span><span class="english">Her face twitched with pain.</span></p>

@@ -1,5 +1,7 @@
 # 预先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxian_2.md)
+
 <p><span class="chinese">预先建立的。</span><span class="english">Pre-established.</span></p>
 
 <p><span class="chinese">但是实际上你是可以预先准备的。</span><span class="english">But you can prep.</span></p>

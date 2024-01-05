@@ -1,5 +1,7 @@
 # 荒草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangcao.md)
+
 <p><span class="chinese">搜索队在荒草地分散行动。</span><span class="english">The search party spread out over the moor.</span></p>
 
 <p><span class="chinese">虱类一般在灌木丛或是荒草地内存活。</span><span class="english">Ticks normally live in woods and tall grass.</span></p>

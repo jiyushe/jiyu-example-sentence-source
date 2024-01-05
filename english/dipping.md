@@ -1,5 +1,7 @@
 # dipping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dipping.md)
+
 <p><span class="chinese">和一个凶手双式直插式封装池看！</span><span class="english">Dipping pool with a killer view!</span></p>
 
 <p><span class="chinese">额外添加浸渍叉的糖霜</span><span class="english">Extra icing sugar for dipping fork</span></p>

@@ -1,5 +1,7 @@
 # synchronize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchronize.md)
+
 <p><span class="chinese">同步所有节点。</span><span class="english">Synchronize all nodes.</span></p>
 
 <p><span class="chinese">什么时候需要同步？</span><span class="english">When do I need to synchronize?</span></p>

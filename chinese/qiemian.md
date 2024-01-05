@@ -1,5 +1,7 @@
 # 切面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiemian.md)
+
 <p><span class="chinese">，Here，，the，question，is，第一个切面和最后一个切面在哪？</span><span class="english">What is the last slice?</span></p>
 
 <p><span class="chinese">他在年夜理石上留下一个腻滑的切面。</span><span class="english">He made a smooth cut on the marble.</span></p>

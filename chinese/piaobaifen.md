@@ -1,5 +1,7 @@
 # 漂白粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaobaifen.md)
+
 <p><span class="chinese">泡了太多的漂白粉。</span><span class="english">That ate too much teal ?</span></p>
 
 <p><span class="chinese">在漂白粉与洗涤剂的溶液中搅拌衣服。</span><span class="english">Slosh clothes in a solution of bleach and detergent.</span></p>

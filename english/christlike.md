@@ -1,5 +1,7 @@
 # christlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christlike.md)
+
 <p><span class="chinese">基督式的接待是敞开家门，以诚相待。</span><span class="english">Christlike hospitality is an open heart and an open home.</span></p>
 
 <p><span class="chinese">如耶稣一样的品格的发展不会停止。</span><span class="english">The development of Christlike character cannot be rushed.</span></p>

@@ -1,5 +1,7 @@
 # 运筹学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunchouxue.md)
+
 <p><span class="chinese">这个名字是运筹学理论中的标准术语。</span><span class="english">The name is standard in operations research theory.</span></p>
 
 <p><span class="chinese">如果不了解运筹学理论，下面是一个实际的解释。</span><span class="english">If you don't, here's a a brief practical explanation.</span></p>

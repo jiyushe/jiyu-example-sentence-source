@@ -1,5 +1,7 @@
 # 宛转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanzhuan_1.md)
+
 <p><span class="chinese">不久后，他又宛转了好几个地方。</span><span class="english">Later on, he went to several other places.</span></p>
 
 <p><span class="chinese">鸟儿在树林边宛转地唱歌。</span><span class="english">The birds were singing at the edge of the woods.</span></p>

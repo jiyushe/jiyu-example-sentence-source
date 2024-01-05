@@ -1,5 +1,7 @@
 # ignite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ignite.md)
+
 <p><span class="chinese">约瑟夫*近一个烟花去引燃它。</span><span class="english">Joseph approached a firework to ignite it.</span></p>
 
 <p><span class="chinese">让我心中燃起希望的烈焰、响起春雷。</span><span class="english">Ignite hopes and spring thunder follows by.</span></p>

@@ -1,5 +1,7 @@
 # stubbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stubbed.md)
+
 <p><span class="chinese">哎哟，我踢伤脚趾头了。</span><span class="english">Ouch! I stubbed my toe.</span></p>
 
 <p><span class="chinese">他在她面前碰了一鼻子灰。</span><span class="english">He stubbed his toe before her.</span></p>

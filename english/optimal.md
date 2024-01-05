@@ -1,5 +1,7 @@
 # optimal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optimal.md)
+
 <p><span class="chinese">简单一点的子问题的最优方案来解决问题。</span><span class="english">Optimal sub structure.</span></p>
 
 <p><span class="chinese">我们为什么需要最佳的睡眠？</span><span class="english">Why do we need optimal sleep?</span></p>

@@ -1,5 +1,7 @@
 # 亲密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinmi.md)
+
 <p><span class="chinese">你有亲密的朋友吗？</span><span class="english">Do you have close friends?</span></p>
 
 <p><span class="chinese">他和爸爸的关系亲不亲密？</span><span class="english">Is he close to his father?</span></p>

@@ -1,5 +1,7 @@
 # 贵金属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guijinshu.md)
+
 <p><span class="chinese">贵金属矿砂及其精矿。</span><span class="english">Precious metal ores and concentrates.</span></p>
 
 <p><span class="chinese">交易产品包括外汇、黄金及贵金属。</span><span class="english">Trade products include Gold, Silver and Forex.</span></p>

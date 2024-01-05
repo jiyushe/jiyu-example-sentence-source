@@ -1,5 +1,7 @@
 # 休克
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuke.md)
+
 <p><span class="chinese">有多大的压力，是否该组休克需要呢？</span><span class="english">How much pressure does the LRS shock need?</span></p>
 
 <p><span class="chinese">他们俩在那里闹腾，老板娘差点休克。</span><span class="english">They were there Naoteng, she almost shock.</span></p>

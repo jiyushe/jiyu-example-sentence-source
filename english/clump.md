@@ -1,5 +1,7 @@
 # clump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clump.md)
+
 <p><span class="chinese">静脉为蔓状丛。</span><span class="english">Vein is tendril shape clump.</span></p>
 
 <p><span class="chinese">前面不远处有一丛树林。</span><span class="english">Not far ahead was a clump of trees.</span></p>

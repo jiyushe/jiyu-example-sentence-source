@@ -1,5 +1,7 @@
 # 夸大其词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuadaqici.md)
+
 <p><span class="chinese">我并非夸大其词。</span><span class="english">I’m not exaggerating.</span></p>
 
 <p><span class="chinese">不要说谎或夸大其词。</span><span class="english">Don't lie or exaggerate.</span></p>

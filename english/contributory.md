@@ -1,5 +1,7 @@
 # contributory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contributory.md)
+
 <p><span class="chinese">法庭作出判决认定受害方犯有共同过失。</span><span class="english">The court made a finding of contributory negligence.</span></p>
 
 <p><span class="chinese">组织不善肯定是导致危机的因素之一。</span><span class="english">Poor organization was certainly a contributory factor to the crisis.</span></p>

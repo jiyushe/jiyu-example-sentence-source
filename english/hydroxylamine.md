@@ -1,5 +1,7 @@
 # hydroxylamine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroxylamine.md)
+
 <p><span class="chinese">采用羟胺浸提-可见分光光度法测定了土壤无定形铁。</span><span class="english">Amorphous iron oxides in soil were determined by hydroxylamine extraction-spectrophotometry.</span></p>
 
 <p><span class="chinese">本发明公开了一种羟氨苯歧位酶及其编码基因与应用。</span><span class="english">This invention describes a hydroxylamine benzene dismutase, its coding gene and applications.</span></p>

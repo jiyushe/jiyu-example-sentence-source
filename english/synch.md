@@ -1,5 +1,7 @@
 # synch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synch.md)
+
 <p><span class="chinese">不知怎的，我和他就是合不来。</span><span class="english">He and I are somehow out of synch.</span></p>
 
 <p><span class="chinese">是否需要同步受保护的实际值?。</span><span class="english">Do you want to synch to protected actuals ?</span></p>

@@ -1,5 +1,7 @@
 # hotheaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotheaded.md)
+
 <p><span class="chinese">怎样压抑住自己易激动的情绪？</span><span class="english">How to depress him hotheaded mood?</span></p>
 
 <p><span class="chinese">鲁莽撞的人不应开车。</span><span class="english">Hotheaded people shouldn't drive cars.</span></p>

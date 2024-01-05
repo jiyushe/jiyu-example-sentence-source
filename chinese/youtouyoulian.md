@@ -1,5 +1,7 @@
 # 有头有脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtouyoulian.md)
+
 <p><span class="chinese">有头有脸的公职人员？</span><span class="english">Head has the face of public officials?</span></p>
 
 <p><span class="chinese">今天来参加宴会的都是些有头有脸的人物。</span><span class="english">The attendees of today's party are all the elite.</span></p>

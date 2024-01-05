@@ -1,5 +1,7 @@
 # intrigue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intrigue.md)
+
 <p><span class="chinese">这座宫殿曾是阴谋诡计的策源地。</span><span class="english">The palace was a nest of intrigue.</span></p>
 
 <p><span class="chinese">这回博尔曼的阴谋破产了。</span><span class="english">Bormann's intrigue had fallen through this time.</span></p>

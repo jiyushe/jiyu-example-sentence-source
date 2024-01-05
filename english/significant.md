@@ -1,5 +1,7 @@
 # significant 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/significant.md)
+
 <p><span class="chinese">她向他投去意味深长的一笑。</span><span class="english">She cast him a significant smile.</span></p>
 
 <p><span class="chinese">看见这是个很大的一笔数。</span><span class="english">So these are significant numbers.</span></p>

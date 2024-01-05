@@ -1,5 +1,7 @@
 # fennel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fennel.md)
+
 <p><span class="chinese">南费奈尔大街878号。</span><span class="english">Sure. 878 Fennel South.</span></p>
 
 <p><span class="chinese">还有茴香猪肉丸。</span><span class="english">and pork meatballs with fennel seeds.</span></p>

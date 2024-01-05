@@ -1,5 +1,7 @@
 # 倒好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daohao.md)
+
 <p><span class="chinese">哈，你想得倒好！</span><span class="english">Hah, you wish!</span></p>
 
 <p><span class="chinese">他们看我一眼，然后说，"说得倒好。</span><span class="english">They’ll look back at me, and say, “Right.</span></p>

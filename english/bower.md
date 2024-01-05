@@ -1,5 +1,7 @@
 # bower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bower.md)
+
 <p><span class="chinese">是这样，鲍华女士。</span><span class="english">That's right, Ms. Bower.</span></p>
 
 <p><span class="chinese">那边绿荫中的樱草花丛。</span><span class="english">Through primrose tufts, in that green bower.</span></p>

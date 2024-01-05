@@ -1,5 +1,7 @@
 # deceptively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deceptively.md)
+
 <p><span class="chinese">有大把时间享受这一短暂的迷幻之路。</span><span class="english">Allow plenty of time for this deceptively short journey.</span></p>
 
 <p><span class="chinese">这考试看似简单，因此许多粗心的学生都考得不好。</span><span class="english">The exam was deceptively easy, so many careless students did not do well on it.</span></p>

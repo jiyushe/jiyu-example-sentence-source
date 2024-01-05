@@ -1,5 +1,7 @@
 # authentically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authentically.md)
+
 <p><span class="chinese">或者你可以做真正的自己。</span><span class="english">Or you can be authentically yourself.</span></p>
 
 <p><span class="chinese">效率是做你喜欢做的事情，真实地活着的最后结果。</span><span class="english">It’s the end result of doing what you love and living authentically.</span></p>

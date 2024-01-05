@@ -1,5 +1,7 @@
 # desultorily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desultorily.md)
+
 <p><span class="chinese">否则，会让人感到主次不分、杂乱无章。</span><span class="english">Otherwise, can let a person feel primary and secondary is not divided, desultorily.</span></p>
 
 <p><span class="chinese">植物的数量不一定要多，合适就可以了，以免造成杂乱无章的感觉。</span><span class="english">Floral amount is differ want surely much, appropriate OK, lest cause desultorily feeling.</span></p>

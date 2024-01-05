@@ -1,5 +1,7 @@
 # megapixel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megapixel.md)
+
 <p><span class="chinese">它拥有500万像素的带闪光灯的摄像头。</span><span class="english">Include a 5- megapixel camera with flash.</span></p>
 
 <p><span class="chinese">内置的摄像头的分辨率还不到1百万像素。</span><span class="english">Its built-in camera has resolution of less than one megapixel.</span></p>

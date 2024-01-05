@@ -1,5 +1,7 @@
 # exponential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exponential.md)
+
 <p><span class="chinese">我们还看了指数分布。</span><span class="english">We also looked at exponential.</span></p>
 
 <p><span class="chinese">因为这里是指数函数。</span><span class="english">This is an exponential function.</span></p>

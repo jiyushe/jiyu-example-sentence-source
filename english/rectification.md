@@ -1,5 +1,7 @@
 # rectification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rectification.md)
+
 <p><span class="chinese">土地市场治理整顿不能松懈。</span><span class="english">Land market rectification can not relax.</span></p>
 
 <p><span class="chinese">这次整风，就是放一把明矾。</span><span class="english">The current rectification is like a dose of alum.</span></p>

@@ -1,5 +1,7 @@
 # 煤气灶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiqizao.md)
+
 <p><span class="chinese">我们管这叫煤气灶。</span><span class="english">We call this a gas cooker.</span></p>
 
 <p><span class="chinese">一壶水在煤气灶上翻滚着。</span><span class="english">A pot of water was boiling on a gas fire.</span></p>

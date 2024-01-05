@@ -1,5 +1,7 @@
 # premise 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/premise.md)
+
 <p><span class="chinese">这只是一个前提。</span><span class="english">There is only one premise.</span></p>
 
 <p><span class="chinese">这一前提显然是错误的。</span><span class="english">This premise is clearly false.</span></p>

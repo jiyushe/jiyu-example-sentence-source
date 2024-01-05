@@ -1,5 +1,7 @@
 # resort 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resort.md)
+
 <p><span class="chinese">把它们放进一个盒子。</span><span class="english">Resort them into one box.</span></p>
 
 <p><span class="chinese">三亚是个旅游胜地。</span><span class="english">Sanya is a tourist resort.</span></p>

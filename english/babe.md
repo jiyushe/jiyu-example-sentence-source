@@ -1,5 +1,7 @@
 # babe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babe.md)
+
 <p><span class="chinese">继续播这张唱片愀宝贝。</span><span class="english">Spin that record babe.</span></p>
 
 <p><span class="chinese">他们打电话给他，“唐恩的贝贝。”</span><span class="english">They called him, "Dunn's babe."</span></p>

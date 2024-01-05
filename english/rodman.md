@@ -1,5 +1,7 @@
 # rodman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rodman.md)
+
 <p><span class="chinese">罗德曼现在有什么好说的？</span><span class="english">What does Rodman have to say now?</span></p>
 
 <p><span class="chinese">罗德曼救下了凯撒并把他带回家。</span><span class="english">Rodman saves newborn Caesar and takes him home.</span></p>

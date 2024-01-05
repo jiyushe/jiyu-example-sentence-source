@@ -1,5 +1,7 @@
 # goner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goner.md)
+
 <p><span class="chinese">本人是一个已死者。</span><span class="english">I was a goner.</span></p>
 
 <p><span class="chinese">那个人是没有希望了。</span><span class="english">That man is a goner.</span></p>

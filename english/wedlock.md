@@ -1,5 +1,7 @@
 # wedlock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wedlock.md)
+
 <p><span class="chinese">婚姻如同一把锁。</span><span class="english">Wedlock is a padlock.</span></p>
 
 <p><span class="chinese">求婚时想入非非，结婚后如梦方醒。</span><span class="english">They dream in courtship, but in wedlock wake.</span></p>

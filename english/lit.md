@@ -1,5 +1,7 @@
 # lit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lit.md)
+
 <p><span class="chinese">野鸭飞落在水池。</span><span class="english">Ducks lit on the pond.</span></p>
 
 <p><span class="chinese">这支烟点着了。</span><span class="english">The cigarette was lit.</span></p>

@@ -1,5 +1,7 @@
 # 素养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suyang.md)
+
 <p><span class="chinese">文化素养从不停滞。</span><span class="english">Literacy skills never stop.</span></p>
 
 <p><span class="chinese">为什么我们一开始就强调文化素养呢？</span><span class="english">Why literacy in the first place?</span></p>

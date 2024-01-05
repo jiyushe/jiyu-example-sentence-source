@@ -1,5 +1,7 @@
 # mesothelioma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesothelioma.md)
+
 <p><span class="chinese">WT1基因阳性间皮瘤。</span><span class="english">WT1 positive for mesothelioma.</span></p>
 
 <p><span class="chinese">什么是危险因素间皮瘤?。</span><span class="english">What are the risk factors for mesothelioma?</span></p>

@@ -1,5 +1,7 @@
 # rear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rear.md)
+
 <p><span class="chinese">后方是斑驳陆离的时光。</span><span class="english">In the rear is time.</span></p>
 
 <p><span class="chinese">事故发生后，一个后轮发生了爆胎。</span><span class="english">A rear tyre was flat.</span></p>

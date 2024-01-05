@@ -1,5 +1,7 @@
 # suffering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suffering.md)
+
 <p><span class="chinese">痛苦可以成为唤醒者。</span><span class="english">Suffering can be an awakener.</span></p>
 
 <p><span class="chinese">为了探测苦海的深度。</span><span class="english">To test the deeps of suffering.</span></p>

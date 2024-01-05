@@ -1,5 +1,7 @@
 # 以牙还牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyahuanya.md)
+
 <p><span class="chinese">以眼还眼，以牙还牙。</span><span class="english">An eye for an eye and a tooth for a tooth.</span></p>
 
 <p><span class="chinese">报复型正义要求以眼还眼，以牙还牙。</span><span class="english">Retributive justice demands an eye for an eye.</span></p>

@@ -1,5 +1,7 @@
 # tarim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarim.md)
+
 <p><span class="chinese">塔里木河是我国最长的内陆河。</span><span class="english">Tarim River is one longest inland river of China.</span></p>
 
 <p><span class="chinese">改变了塔里木和柴达木盆地的运动状态。</span><span class="english">Changing the motion state of Tarim Basin and Qaidam Basin.</span></p>

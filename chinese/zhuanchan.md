@@ -1,5 +1,7 @@
 # 转产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanchan.md)
+
 <p><span class="chinese">这个公司已决定转产自行车。</span><span class="english">The company has decided to turn over to the making of bikes.</span></p>
 
 <p><span class="chinese">公司决定转产制造销路好的产品。</span><span class="english">The firm has decided to switch to another line of products, which are selling well.</span></p>

@@ -1,5 +1,7 @@
 # undergraduate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undergraduate.md)
+
 <p><span class="chinese">一名大学生长的不好看。</span><span class="english">An undergraduate was not good looking.</span></p>
 
 <p><span class="chinese">但你看，我以前也曾是本科生。</span><span class="english">Now look, I was an undergraduate once.</span></p>

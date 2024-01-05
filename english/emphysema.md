@@ -1,5 +1,7 @@
 # emphysema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emphysema.md)
+
 <p><span class="chinese">现在我爸爸得了肺气肿。</span><span class="english">And now my father has emphysema.</span></p>
 
 <p><span class="chinese">肺气肿案例郭成。</span><span class="english">Pulmonary emphysema case Guo Cheng.</span></p>

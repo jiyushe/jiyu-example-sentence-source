@@ -1,5 +1,7 @@
 # 执教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiao.md)
+
 <p><span class="chinese">我聘请了他，并认为他是一位伟大的教练，上一赛季他的执教胜率为57.7％。</span><span class="english">I think he had a great season last year.</span></p>
 
 <p><span class="chinese">内德维德会执教国家队？</span><span class="english">Nedved could become national team coach?</span></p>

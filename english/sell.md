@@ -1,5 +1,7 @@
 # sell 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sell.md)
+
 <p><span class="chinese">这能以高价出卖。</span><span class="english">It can sell high.</span></p>
 
 <p><span class="chinese">或者尝试兜售他们？</span><span class="english">Try to sell them?</span></p>

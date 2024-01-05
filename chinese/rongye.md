@@ -1,5 +1,7 @@
 # 溶液
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongye.md)
+
 <p><span class="chinese">加入鱼胶溶液。</span><span class="english">Add the gelatin water.</span></p>
 
 <p><span class="chinese">唾液是一种缓冲溶液。</span><span class="english">Saliva is a buffered solution.</span></p>

@@ -1,5 +1,7 @@
 # 太学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taixue.md)
+
 <p><span class="chinese">德雷克追逐著童年的兴趣，进入康奈尔大学和哈佛大学学习无线电航太学。</span><span class="english">Drake pursued his boyhood interest and studied radio astronomy at cornell and harvard.</span></p>
 
 <p><span class="chinese">和前代相比，宋代的太学教育制度有了很大的创新。</span><span class="english">Compared with previous ones, the education system of Song Dynasty is a great innovation.</span></p>

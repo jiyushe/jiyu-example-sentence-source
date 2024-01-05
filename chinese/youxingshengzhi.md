@@ -1,5 +1,7 @@
 # 有性生殖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxingshengzhi.md)
+
 <p><span class="chinese">有性生殖开始进入画面。</span><span class="english">Sexual reproduction enters the picture.</span></p>
 
 <p><span class="chinese">人类是通过有性生殖来繁衍同类的。</span><span class="english">Human beings propagate their species by sexual reproduction,</span></p>

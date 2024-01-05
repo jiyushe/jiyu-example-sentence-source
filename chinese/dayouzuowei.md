@@ -1,5 +1,7 @@
 # 大有作为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayouzuowei.md)
+
 <p><span class="chinese">我并不认为这张牌将大有作为。</span><span class="english">I don't really see this card doing much.</span></p>
 
 <p><span class="chinese">用你的箭头键可大有作为的作品。</span><span class="english">Use your arrow keys to manoeuver the pieces.</span></p>

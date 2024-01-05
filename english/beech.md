@@ -1,5 +1,7 @@
 # beech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beech.md)
+
 <p><span class="chinese">山毛榉在车床上很容易车制。</span><span class="english">Beech turns easily in the lathe.</span></p>
 
 <p><span class="chinese">操作台是由结实的山毛榉木做成的。</span><span class="english">The worktop is made of solid beech.</span></p>

@@ -1,5 +1,7 @@
 # more
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/more.md)
+
 <p><span class="chinese">少即是多？</span><span class="english">Less is more?</span></p>
 
 <p><span class="chinese">再多爱我一些。</span><span class="english">Love me more.</span></p>

@@ -1,5 +1,7 @@
 # merlin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merlin.md)
+
 <p><span class="chinese">梅林是个魔林师。</span><span class="english">Merlin is a magician.</span></p>
 
 <p><span class="chinese">墨林深深地爱上那少女。</span><span class="english">Merlin fell in a dotage on the damsel.</span></p>

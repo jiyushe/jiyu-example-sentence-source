@@ -1,5 +1,7 @@
 # 分摊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fentan.md)
+
 <p><span class="chinese">即共产主义就是绝对的风险分摊，对吧？</span><span class="english">That is complete risk-sharing, right?</span></p>
 
 <p><span class="chinese">按比例分摊海啸的高度。</span><span class="english">Prorate the height of the tidal waves.</span></p>

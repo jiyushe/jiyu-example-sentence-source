@@ -1,5 +1,7 @@
 # 业务
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yewu.md)
+
 <p><span class="chinese">业务进展情况暂未更新。</span><span class="english">No update on progress.</span></p>
 
 <p><span class="chinese">你做哪些业务？</span><span class="english">Which business do udo?</span></p>

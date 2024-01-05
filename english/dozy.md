@@ -1,5 +1,7 @@
 # dozy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dozy.md)
+
 <p><span class="chinese">今天下午我觉得有点困。</span><span class="english">I'm feeling a bit dozy this afternoon.</span></p>
 
 <p><span class="chinese">柔软的沙发让人忍不住就想睡在上面。</span><span class="english">Soft sofa lets a person cannot help dozy above.</span></p>

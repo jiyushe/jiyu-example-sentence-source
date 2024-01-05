@@ -1,5 +1,7 @@
 # bonanza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonanza.md)
+
 <p><span class="chinese">他的生意还没有走红运。</span><span class="english">His business was far from being a bonanza !</span></p>
 
 <p><span class="chinese">他们穿越了育空河，找到了黄金富矿。</span><span class="english">They crossed the Yukon River and found the bonanza gold.</span></p>

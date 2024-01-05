@@ -1,5 +1,7 @@
 # semiprecious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiprecious.md)
+
 <p><span class="chinese">镶有宝石的人骑鱼饰物。</span><span class="english">People riding fish inlaid with semiprecious stones.</span></p>
 
 <p><span class="chinese">一条精心制作的镶有宝石的项链。</span><span class="english">An elaborate necklace inlaid with semiprecious stones.</span></p>

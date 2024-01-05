@@ -1,5 +1,7 @@
 # 不远千里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyuanqianli.md)
+
 <p><span class="chinese">他不远千里从埃及来。</span><span class="english">He came all the way from Egypt.</span></p>
 
 <p><span class="chinese">你知道我会不远千里。</span><span class="english">You know I'd walk a thousand miles.</span></p>

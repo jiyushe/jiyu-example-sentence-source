@@ -1,5 +1,7 @@
 # fettered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fettered.md)
+
 <p><span class="chinese">阿戈娜意为“受束缚的妻子”。</span><span class="english">Agunah means "the fettered wife".</span></p>
 
 <p><span class="chinese">王被这下垂的发绺监禁了。</span><span class="english">The king is fettered by your tresses.</span></p>

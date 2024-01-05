@@ -1,5 +1,7 @@
 # 民选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minxuan.md)
+
 <p><span class="chinese">中华民国总统是由民选产生。</span><span class="english">The president of R. O. C. are selected by all voters.</span></p>
 
 <p><span class="chinese">他说，伊拉克人民有了一部宪法，现在又有了一个民选政府。</span><span class="english">Iraqis have a constitution and now an elected government, he said.</span></p>

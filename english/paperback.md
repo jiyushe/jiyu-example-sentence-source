@@ -1,5 +1,7 @@
 # paperback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paperback.md)
+
 <p><span class="chinese">是的。我们有平装本和精装本。</span><span class="english">Yes. We have both the paperback and the hardcover.</span></p>
 
 <p><span class="chinese">那原字典无精装版吗?。</span><span class="english">Do you have the paperback edition of this dictionary?</span></p>

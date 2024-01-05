@@ -1,5 +1,7 @@
 # 欣赏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshang_2.md)
+
 <p><span class="chinese">我很欣赏艾琳。</span><span class="english">I like Irene.</span></p>
 
 <p><span class="chinese">作为男人我很欣赏他。</span><span class="english">As a man I like him.</span></p>

@@ -1,5 +1,7 @@
 # noteworthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noteworthy.md)
+
 <p><span class="chinese">我认为这一点值得注意。</span><span class="english">I think it's noteworthy.</span></p>
 
 <p><span class="chinese">让我们来了解一下其中最值得关注的内容。</span><span class="english">Look at the most noteworthy.</span></p>

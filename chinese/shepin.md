@@ -1,5 +1,7 @@
 # 射频
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shepin.md)
+
 <p><span class="chinese">硅NPN晶体管。射频功率驱动器。</span><span class="english">Silicon NPN transistor. RF power driver.</span></p>
 
 <p><span class="chinese">射频测试正常只是不够的。</span><span class="english">Normal sample-based RF testing is not enough.</span></p>

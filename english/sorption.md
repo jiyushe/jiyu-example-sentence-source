@@ -1,5 +1,7 @@
 # sorption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorption.md)
+
 <p><span class="chinese">这是使用吸附等温线的五种方式。</span><span class="english">Here are five ways to use sorption isotherms.</span></p>
 
 <p><span class="chinese">吸湿与脱湿曲线间有一定的滞后现象。</span><span class="english">There is hysteresis between the sorption and desorption curves.</span></p>

@@ -1,5 +1,7 @@
 # ringed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ringed.md)
+
 <p><span class="chinese">士兵们已经把这两座豪华酒店包围起来。</span><span class="english">Soldiers have ringed the hotels.</span></p>
 
 <p><span class="chinese">花园周围修有篱笆。</span><span class="english">The garden was ringed with fence.</span></p>

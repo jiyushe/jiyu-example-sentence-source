@@ -1,5 +1,7 @@
 # 气色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qise.md)
+
 <p><span class="chinese">你看上去气色很好。</span><span class="english">You look great.</span></p>
 
 <p><span class="chinese">你今天看上去气色较好。</span><span class="english">You look better today.</span></p>

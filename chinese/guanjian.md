@@ -1,5 +1,7 @@
 # 关键
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanjian.md)
+
 <p><span class="chinese">关键在哪里？</span><span class="english">The key?</span></p>
 
 <p><span class="chinese">这是问题的关键。</span><span class="english">That's the key.</span></p>

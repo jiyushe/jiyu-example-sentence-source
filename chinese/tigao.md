@@ -1,5 +1,7 @@
 # 提高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tigao.md)
+
 <p><span class="chinese">提高武器发展。</span><span class="english">Enhances weapons dev.</span></p>
 
 <p><span class="chinese">提高你的扣除。</span><span class="english">Raise your deductible.</span></p>

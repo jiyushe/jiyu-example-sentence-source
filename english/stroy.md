@@ -1,5 +1,7 @@
 # stroy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stroy.md)
+
 <p><span class="chinese">我没发现这个故事很有趣。</span><span class="english">I don't this stroy.</span></p>
 
 <p><span class="chinese">这是一个多么有趣的故事。</span><span class="english">How interesting a stroy it is . !</span></p>

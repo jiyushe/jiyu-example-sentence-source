@@ -1,5 +1,7 @@
 # preamplifier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preamplifier.md)
+
 <p><span class="chinese">它被称为前置放大器或前置放大器。</span><span class="english">It called the preamplifier or preamp.</span></p>
 
 <p><span class="chinese">集成电路。通用型，低噪声前置放大器。</span><span class="english">Integrated circuit. General purpose, low noise preamplifier.</span></p>

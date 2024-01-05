@@ -1,5 +1,7 @@
 # 社会活动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehuihuodong.md)
+
 <p><span class="chinese">本周你的日程之中应有社会活动。</span><span class="english">Social activity should be on your agenda this week.</span></p>
 
 <p><span class="chinese">那个会社筹办的这次舞会是上流社会活动。</span><span class="english">The ball organised by that club was a blue- blooded event.</span></p>

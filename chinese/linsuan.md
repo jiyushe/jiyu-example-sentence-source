@@ -1,5 +1,7 @@
 # 磷酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linsuan.md)
+
 <p><span class="chinese">这酶是酸性磷酸酶。</span><span class="english">The enzyme was acid phosphatase.</span></p>
 
 <p><span class="chinese">这条通路由磷酸化来控制。</span><span class="english">This pathway operates by phosphorylation.</span></p>

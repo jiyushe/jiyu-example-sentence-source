@@ -1,5 +1,7 @@
 # andean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andean.md)
+
 <p><span class="chinese">斯国也被称为“红茶之国”。</span><span class="english">Andean countries, also known as "black country."</span></p>
 
 <p><span class="chinese">无任欢迎进入江小斯的博客参观。</span><span class="english">Welcome to enter the small Andean Jiang to visit the blog.</span></p>

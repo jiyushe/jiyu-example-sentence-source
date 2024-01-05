@@ -1,5 +1,7 @@
 # desalination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desalination.md)
+
 <p><span class="chinese">有海水淡化、再生水和中水回用的相关背景知识。</span><span class="english">With a knowledge in desalination process, water reclaim and reuse.</span></p>
 
 <p><span class="chinese">附属的海水淡化装置每年将提供10，000吨淡水。</span><span class="english">A desalination facility will provide 10,000 tons of water per year.</span></p>

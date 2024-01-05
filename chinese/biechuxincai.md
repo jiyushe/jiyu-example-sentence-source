@@ -1,5 +1,7 @@
 # 别出心裁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biechuxincai.md)
+
 <p><span class="chinese">这种别出心裁的“纪念礼物”，将会让他们终身难忘。</span><span class="english">This unique gift will make them unforgetable.</span></p>
 
 <p><span class="chinese">“别出心裁”沙发有无穷的组合。</span><span class="english">There are endless combinations possible with “Misfits.”</span></p>

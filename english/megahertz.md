@@ -1,5 +1,7 @@
 # megahertz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megahertz.md)
+
 <p><span class="chinese">他们通常被称为兆赫。</span><span class="english">They are often called megahertz.</span></p>
 
 <p><span class="chinese">它的处理器是1MHZ的。</span><span class="english">It had a processor speed of one megahertz.</span></p>

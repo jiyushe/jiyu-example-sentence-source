@@ -1,5 +1,7 @@
 # improvise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improvise.md)
+
 <p><span class="chinese">而且有的演员还会即兴发挥。</span><span class="english">However, some actors can improvise.</span></p>
 
 <p><span class="chinese">领唱歌手也可以有很多即兴发挥。</span><span class="english">And the lead singer can improvise a lot.</span></p>

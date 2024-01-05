@@ -1,5 +1,7 @@
 # bisque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bisque.md)
+
 <p><span class="chinese">大牛，像你这么个拍法。</span><span class="english">Daniel, if you pat the bisque like that.</span></p>
 
 <p><span class="chinese">蟹肉沙拉配虾酱，放在鳄梨泥上。</span><span class="english">Crab Salad with Avacado and Bisque Jelly.</span></p>

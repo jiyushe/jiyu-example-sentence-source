@@ -1,5 +1,7 @@
 # 沼气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoqi.md)
+
 <p><span class="chinese">在美国，沼气系统非常少见。</span><span class="english">In the United States, biogas systems are rare.</span></p>
 
 <p><span class="chinese">南桐煤矿为一高沼气严重突出矿井。</span><span class="english">Nantong Coal Mine is a high methane mine with serious outburst.</span></p>

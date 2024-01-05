@@ -1,5 +1,7 @@
 # toadstool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toadstool.md)
+
 <p><span class="chinese">不要吃。它可能是毒菇。</span><span class="english">Don't eat it. It could be toadstool.</span></p>
 
 <p><span class="chinese">伞菌在俚语中通常被称为“有毒的蘑菇”。</span><span class="english">Toadstool is slang for "poisonous mushroom".</span></p>

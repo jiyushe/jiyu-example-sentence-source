@@ -1,5 +1,7 @@
 # 盗版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoban_1.md)
+
 <p><span class="chinese">盗版问题是根深蒂固的。</span><span class="english">The problem is deep-rooted.</span></p>
 
 <p><span class="chinese">那么，这是一张盗版碟了。</span><span class="english">Then, it must be a pirate copy.</span></p>

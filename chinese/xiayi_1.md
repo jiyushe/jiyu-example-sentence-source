@@ -1,5 +1,7 @@
 # 狭义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiayi_1.md)
+
 <p><span class="chinese">这是一个狭义搜索。</span><span class="english">This is an exclusive search.</span></p>
 
 <p><span class="chinese">这是最狭义的城市定义</span><span class="english">That's the narrowest definition of cities.</span></p>

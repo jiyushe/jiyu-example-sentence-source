@@ -1,5 +1,7 @@
 # alimony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alimony.md)
+
 <p><span class="chinese">也可能症结是他拿不出赡养费。</span><span class="english">Possibly alimony was the stumbling-block.</span></p>
 
 <p><span class="chinese">赡养费，等于给死马买燕麦。</span><span class="english">Alimony is like buy oats for a dead horse.</span></p>

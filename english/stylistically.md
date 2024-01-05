@@ -1,5 +1,7 @@
 # stylistically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stylistically.md)
+
 <p><span class="chinese">亚洲的艺术，在文体上较近于物质的、永恒的、本质的、外在的部份。</span><span class="english">Asian art is stylistically nearer to physical, eternal, internal and external.</span></p>
 
 <p><span class="chinese">设计上考虑为一个“回阳台”船民，风格，它的不错的前瞻性。</span><span class="english">Design Considerations For a "back porch" boat, stylistically it's pretty good looking.</span></p>

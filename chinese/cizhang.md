@@ -1,5 +1,7 @@
 # 次长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cizhang.md)
+
 <p><span class="chinese">第二次长出来的森林就是次生林。</span><span class="english">The newly emerged forest is called secondary forest.</span></p>
 
 <p><span class="chinese">发到26章后，他出了次长差。</span><span class="english">After posting Chapter 26, he went on a long business trip.</span></p>

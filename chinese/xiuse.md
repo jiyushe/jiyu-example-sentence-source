@@ -1,5 +1,7 @@
 # 秀色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuse.md)
+
 <p><span class="chinese">你真是秀色可餐。</span><span class="english">You are really a dish.</span></p>
 
 <p><span class="chinese">是啊，没有哪一天我不让人说我秀色可餐的！</span><span class="english">Yeah, it's an off day when I don't get.</span></p>

@@ -1,5 +1,7 @@
 # die
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/die.md)
+
 <p><span class="chinese">生或死。</span><span class="english">Live or die.</span></p>
 
 <p><span class="chinese">我们便会死去。</span><span class="english">Then we die.</span></p>

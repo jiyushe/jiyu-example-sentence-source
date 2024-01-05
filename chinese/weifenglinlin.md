@@ -1,5 +1,7 @@
 # 威风凛凛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weifenglinlin.md)
+
 <p><span class="chinese">威风凛凛的白头鹰也爱吃鲑鱼。</span><span class="english">Majestic bald eagles also feast on the salmon.</span></p>
 
 <p><span class="chinese">这支骑兵部队非常威风凛凛。</span><span class="english">They were taken in flank by a troop of cavalry.</span></p>

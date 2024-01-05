@@ -1,5 +1,7 @@
 # silhouette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silhouette.md)
+
 <p><span class="chinese">我删除了她的侧影。</span><span class="english">I cut out her silhouette.</span></p>
 
 <p><span class="chinese">拍摄对象成了剪影。</span><span class="english">The subject becomes a silhouette.</span></p>

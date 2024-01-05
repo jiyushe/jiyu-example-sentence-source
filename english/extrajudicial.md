@@ -1,5 +1,7 @@
 # extrajudicial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrajudicial.md)
+
 <p><span class="chinese">至少五名平民被法外处决。</span><span class="english">At least five civilians were killed in extrajudicial executions.</span></p>
 
 <p><span class="chinese">失踪"的人常常面临很高的酷刑或法外处决风险。</span><span class="english">"Disappeared" persons are often at high risk of torture or extrajudicial execution.</span></p>

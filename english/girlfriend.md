@@ -1,5 +1,7 @@
 # girlfriend 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/girlfriend.md)
+
 <p><span class="chinese">他有一位女朋友。</span><span class="english">He has a girlfriend.</span></p>
 
 <p><span class="chinese">因为我没有女友。</span><span class="english">I had no girlfriend.</span></p>

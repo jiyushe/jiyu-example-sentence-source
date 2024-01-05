@@ -1,5 +1,7 @@
 # safest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/safest.md)
+
 <p><span class="chinese">被踏平的路最为安全。</span><span class="english">The beaten road is the safest.</span></p>
 
 <p><span class="chinese">性爱是世界上最安全的镇定剂。</span><span class="english">Sex is the safest tranquilizer in the world.</span></p>

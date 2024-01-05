@@ -1,5 +1,7 @@
 # 接替
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieti.md)
+
 <p><span class="chinese">谁将接替他的职位?</span><span class="english">Who will succeed his post?</span></p>
 
 <p><span class="chinese">尚不清楚谁将接替房利美的艾利森。</span><span class="english">It isn't clear who would succeed Mr.</span></p>

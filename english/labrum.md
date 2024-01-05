@@ -1,5 +1,7 @@
 # labrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labrum.md)
+
 <p><span class="chinese">在髋臼周围的软骨中，上唇是薄弱环节。</span><span class="english">The labrum is a thin ring of cartilage that lines the acetabulum, or hip socket.</span></p>
 
 <p><span class="chinese">盂唇损伤的正确诊断对指导其临床治疗有着重要的意义。</span><span class="english">The correct diagnosis of labrum injury has great significance to guide clinical treatment.</span></p>

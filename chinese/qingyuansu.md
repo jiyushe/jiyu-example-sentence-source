@@ -1,5 +1,7 @@
 # 轻元素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyuansu.md)
+
 <p><span class="chinese">氢是自然界中最轻元素。</span><span class="english">Hydrogen is the lightest element in nature.</span></p>
 
 <p><span class="chinese">此仪器可用于气体分析以及轻元素的同位素丰度测定。</span><span class="english">This instrument can be used for gas analysis and determine of isotopic abundance of light elements.</span></p>

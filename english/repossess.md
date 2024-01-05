@@ -1,5 +1,7 @@
 # repossess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repossess.md)
+
 <p><span class="chinese">他们是来查封的。</span><span class="english">They had come to repossess their goods.</span></p>
 
 <p><span class="chinese">银行怎麽会愿意收回一条收费公路?</span><span class="english">What bank would like to repossess a toll road?</span></p>

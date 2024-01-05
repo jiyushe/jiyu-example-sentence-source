@@ -1,5 +1,7 @@
 # 医治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_4.md)
+
 <p><span class="chinese">时间能医治所有的创伤。</span><span class="english">Time cures all wounds.</span></p>
 
 <p><span class="chinese">时间能医治一切创伤。</span><span class="english">Time heals all wounds.</span></p>

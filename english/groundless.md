@@ -1,5 +1,7 @@
 # groundless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groundless.md)
+
 <p><span class="chinese">谣言并非都是没根没据的。</span><span class="english">Rumors are not totally groundless.</span></p>
 
 <p><span class="chinese">而钱氏之说是缺乏根据的。</span><span class="english">But Qian's proposal was groundless.</span></p>

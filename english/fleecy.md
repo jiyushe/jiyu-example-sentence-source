@@ -1,5 +1,7 @@
 # fleecy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleecy.md)
+
 <p><span class="chinese">浮云飘然而过。</span><span class="english">Fleecy clouds floated past.</span></p>
 
 <p><span class="chinese">一朵白云正在飘然而过。</span><span class="english">A fleecy cloud was drifting past.</span></p>

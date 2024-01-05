@@ -1,5 +1,7 @@
 # incipient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incipient.md)
+
 <p><span class="chinese">正在崛起的煤矿业加剧了这种担忧。</span><span class="english">The anxiety has been sharpened by the incipient mining boom.</span></p>
 
 <p><span class="chinese">实际上，即使在利率为零的情况下，一开始也会有一个储蓄的过剩供给。</span><span class="english">In effect, we have an incipient excess supply of savings even at a zero interest rate.</span></p>

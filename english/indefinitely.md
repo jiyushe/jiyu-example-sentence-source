@@ -1,5 +1,7 @@
 # indefinitely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indefinitely.md)
+
 <p><span class="chinese">不要让工作无期限地进行下去。</span><span class="english">Don't let tasks go on indefinitely.</span></p>
 
 <p><span class="chinese">这种状况似乎要无限期地继续下去。</span><span class="english">This situation seemed to go on indefinitely.</span></p>

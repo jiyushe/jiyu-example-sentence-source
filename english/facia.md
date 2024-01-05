@@ -1,5 +1,7 @@
 # facia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facia.md)
+
 <p><span class="chinese">在仪表板，可能会在一个或两个颜色。</span><span class="english">The facia may come in one or two colours.</span></p>
 
 <p><span class="chinese">客户还可以选择四个不同类型的仪表板，按版和装饰水平。</span><span class="english">Customers can also choose from four different types of facia according to version and trim level.</span></p>

@@ -1,5 +1,7 @@
 # atone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atone.md)
+
 <p><span class="chinese">为我罪人付赎价。</span><span class="english">And He came for sinners to atone.</span></p>
 
 <p><span class="chinese">无论你做什么，都不能弥补过去的罪行。</span><span class="english">Whatever you've done couldn't atone for the misdeeds.</span></p>

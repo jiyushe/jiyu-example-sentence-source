@@ -1,5 +1,7 @@
 # 故障
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzhang.md)
+
 <p><span class="chinese">我的车出故障了。</span><span class="english">My car has stalled.</span></p>
 
 <p><span class="chinese">后雾灯出现故障。</span><span class="english">Rear fog light failure.</span></p>

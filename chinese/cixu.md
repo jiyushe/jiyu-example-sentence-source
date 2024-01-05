@@ -1,5 +1,7 @@
 # 次序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cixu.md)
+
 <p><span class="chinese">命令的次序错误。</span><span class="english">Bad sequence of mands.</span></p>
 
 <p><span class="chinese">次序倒了。</span><span class="english">The order is reversed.</span></p>

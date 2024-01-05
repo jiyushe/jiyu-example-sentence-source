@@ -1,5 +1,7 @@
 # 铜壶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghu.md)
+
 <p><span class="chinese">亮闪闪的铜壶，手套毛绒绒。</span><span class="english">Bright copper kettles and warm woolen mittens.</span></p>
 
 <p><span class="chinese">那把已经废弃的铜壶上长满了铜锈。</span><span class="english">Verdigris has spread all over that abandoned copper pot.</span></p>

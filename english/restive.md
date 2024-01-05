@@ -1,5 +1,7 @@
 # restive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restive.md)
+
 <p><span class="chinese">因此外来人员日益感到不安也就不足为奇了。</span><span class="english">No wonder that the migrants are increasingly restive.</span></p>
 
 <p><span class="chinese">然而随着大限日期逼近,市场可能会更加焦躁不安.</span><span class="english">But as the deadline nears, markets may grow more restive.</span></p>

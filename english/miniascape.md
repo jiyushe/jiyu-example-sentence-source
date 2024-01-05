@@ -1,5 +1,7 @@
 # miniascape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miniascape.md)
+
 <p><span class="chinese">这是迄今为止国内发现的最大的一座千层石假山盆景。</span><span class="english">This is by far the largest domestic found qianceng stone rockery miniascape.</span></p>
 
 <p><span class="chinese">在红富士苹果盆景的生产过程中，存在果锈发生严重的问题。</span><span class="english">There were some very serious fruit peel rusts of Fuji apple miniascape in its production.</span></p>

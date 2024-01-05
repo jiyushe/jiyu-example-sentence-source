@@ -1,5 +1,7 @@
 # 磨炼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/molian.md)
+
 <p><span class="chinese">我会用三种方法来磨炼我的灵魂。</span><span class="english">I will exercise my soul in three ways.</span></p>
 
 <p><span class="chinese">竞争磨炼才能。</span><span class="english">Competition is the whetstone of talent.</span></p>

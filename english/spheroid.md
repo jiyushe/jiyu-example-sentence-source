@@ -1,5 +1,7 @@
 # spheroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spheroid.md)
+
 <p><span class="chinese">木星因为它的旋转速度很快，因此它的球体呈扁圆状。</span><span class="english">Because of its rapid rotation the planet is an oblate spheroid.</span></p>
 
 <p><span class="chinese">它看起来是圆形，但仔细观察后发现它实际上是回转椭球体。</span><span class="english">It looked like a sphere but on closer examination I saw it was really a spheroid.</span></p>

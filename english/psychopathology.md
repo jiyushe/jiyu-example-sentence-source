@@ -1,5 +1,7 @@
 # psychopathology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychopathology.md)
+
 <p><span class="chinese">电子书-在精神病理学和临床干预中的附加理论。</span><span class="english">Lawrence. Erlbaum. Assoc. Attachment. Issues. In. Psychopathology. And.</span></p>
 
 <p><span class="chinese">变态心理学研究变态行为和精神病理学。</span><span class="english">Abnormal Psychology is the study of abnormal behavior and psychopathology.</span></p>

@@ -1,5 +1,7 @@
 # congregational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congregational.md)
+
 <p><span class="chinese">这两篇诗篇都可以用在会所中。</span><span class="english">These two historical psalms would have been for congregational use.</span></p>
 
 <p><span class="chinese">属于、关于公理会的，或有公理会特点的。</span><span class="english">Religion of or pertaining to or characteristic of a Congregational church.</span></p>

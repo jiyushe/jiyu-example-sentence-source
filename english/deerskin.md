@@ -1,5 +1,7 @@
 # deerskin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deerskin.md)
+
 <p><span class="chinese">鹿皮是十分优良的皮革。</span><span class="english">Deerskin is very good leather.</span></p>
 
 <p><span class="chinese">鹿皮夹克衫相当昂贵。</span><span class="english">A deerskin jacket is quite expensive.</span></p>

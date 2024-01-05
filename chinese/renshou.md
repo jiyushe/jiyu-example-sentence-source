@@ -1,5 +1,7 @@
 # 人寿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshou.md)
+
 <p><span class="chinese">心胸开朗，使人寿长。</span><span class="english">A light heart lives long.</span></p>
 
 <p><span class="chinese">中国人寿是什么样的公司？</span><span class="english">What about the China Life?</span></p>

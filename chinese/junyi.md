@@ -1,5 +1,7 @@
 # 军医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junyi.md)
+
 <p><span class="chinese">军医问我。</span><span class="english">The medic asked.</span></p>
 
 <p><span class="chinese">成型，50军医间距，双列直插式电阻网络。</span><span class="english">Molded, 50 Mil Pitch, Dual-In-Line Resistor Networks.</span></p>

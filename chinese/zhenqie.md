@@ -1,5 +1,7 @@
 # 真切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenqie.md)
+
 <p><span class="chinese">如此骄健，如此威勇，如此真切。</span><span class="english">So strong, so brave, so true.</span></p>
 
 <p><span class="chinese">而且我可以真切地感受到，</span><span class="english">And I can see that in a very tangible way</span></p>

@@ -1,5 +1,7 @@
 # uses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uses.md)
+
 <p><span class="chinese">神要使用人。</span><span class="english">God uses people.</span></p>
 
 <p><span class="chinese">它使用热空气。</span><span class="english">It uses hot air.</span></p>

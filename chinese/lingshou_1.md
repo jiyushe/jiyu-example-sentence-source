@@ -1,5 +1,7 @@
 # 零售
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingshou_1.md)
+
 <p><span class="chinese">从金宝贝零售商店。</span><span class="english">From Gymboree Retail Store.</span></p>
 
 <p><span class="chinese">此地的零售走入高价位了？</span><span class="english">Retail is going u cale here?</span></p>

@@ -1,5 +1,7 @@
 # shapely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shapely.md)
+
 <p><span class="chinese">她的眉毛很秀气。</span><span class="english">Her eyebrows are shapely.</span></p>
 
 <p><span class="chinese">艾琳有一双曲线美好的腿。</span><span class="english">Evelyn has a pair of shapely legs.</span></p>

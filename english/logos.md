@@ -1,5 +1,7 @@
 # logos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/logos.md)
+
 <p><span class="chinese">她的首要因素是逻各斯。</span><span class="english">Its dominant element is the Logos.</span></p>
 
 <p><span class="chinese">来自词典中神话的同义词是“理性”。</span><span class="english">A synonym from the lexicon is logos.</span></p>

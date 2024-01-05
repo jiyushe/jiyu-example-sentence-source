@@ -1,5 +1,7 @@
 # myelin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myelin.md)
+
 <p><span class="chinese">它被称为髓磷脂。</span><span class="english">It’s called myelin.</span></p>
 
 <p><span class="chinese">髓磷脂在此标本中呈网状外观。</span><span class="english">The myelin has a netlike appearance in such preparations.</span></p>

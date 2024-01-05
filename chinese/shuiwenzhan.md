@@ -1,5 +1,7 @@
 # 水文站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiwenzhan.md)
+
 <p><span class="chinese">确定雨量站网密度是水文站网规划中的一个重要问题。</span><span class="english">Determination of precipitation station is an important problem for the hydrological network design.</span></p>
 
 <p><span class="chinese">对马莲河流域各水文站的日径流过程形态分维进行了对比分析。</span><span class="english">Fractal dimension plays an important role in investigating the fractal features of daily stream flow.</span></p>

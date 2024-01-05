@@ -1,5 +1,7 @@
 # 恒久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengjiu.md)
+
 <p><span class="chinese">真正的友谊恒久不变。</span><span class="english">True friendship lasts forever.</span></p>
 
 <p><span class="chinese">哦，不！爱是恒久不变的标记。</span><span class="english">Oh, no! It is an ever-fixed mark.</span></p>

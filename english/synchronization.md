@@ -1,5 +1,7 @@
 # synchronization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchronization.md)
+
 <p><span class="chinese">垂直同步?。</span><span class="english">VSYNC? Vertical SYNChronization?</span></p>
 
 <p><span class="chinese">这就是所谓的同步化过程。</span><span class="english">This is the synchronization process.</span></p>

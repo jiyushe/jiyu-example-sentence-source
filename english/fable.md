@@ -1,5 +1,7 @@
 # fable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fable.md)
+
 <p><span class="chinese">他引用了一段类似寓言的东西</span><span class="english">He quotes a kind of a fable.</span></p>
 
 <p><span class="chinese">转世轮回是确有其事还是无稽之谈？</span><span class="english">Is reincarnation fact or fable?</span></p>

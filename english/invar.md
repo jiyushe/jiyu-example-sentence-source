@@ -1,5 +1,7 @@
 # invar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invar.md)
+
 <p><span class="chinese">基于图像处理的铟钢尺自动检测系统。</span><span class="english">Automatic Measurement System of Invar Rods Based on Image Processing.</span></p>
 
 <p><span class="chinese">相对应，从而在非晶态金属-金属型因瓦合金中证实了因瓦效应与铁磁性的不稳定有关。</span><span class="english">This result provided the experimental evidence that the invar effect of the metal- metal amor.</span></p>

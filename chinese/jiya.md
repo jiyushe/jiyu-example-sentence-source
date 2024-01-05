@@ -1,5 +1,7 @@
 # 挤压
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiya.md)
+
 <p><span class="chinese">深度挤压胃脏。</span><span class="english">Deep compression of stomach organs.</span></p>
 
 <p><span class="chinese">挤压石灰填补姜汁啤酒。</span><span class="english">Squeeze lime fill with ginger beer.</span></p>

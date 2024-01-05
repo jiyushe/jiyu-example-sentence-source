@@ -1,5 +1,7 @@
 # reconnoitre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconnoitre.md)
+
 <p><span class="chinese">加强营战士们行军速度有限。</span><span class="english">Reconnoitre the soldiers marching speed limited.</span></p>
 
 <p><span class="chinese">他们停下来，开始勘测地形。</span><span class="english">They stopped and began to reconnoitre the terrain.</span></p>

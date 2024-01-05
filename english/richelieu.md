@@ -1,5 +1,7 @@
 # richelieu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/richelieu.md)
+
 <p><span class="chinese">黎塞的阴影是马萨林。</span><span class="english">The shade of Richelieu was Mazarin.</span></p>
 
 <p><span class="chinese">红衣主教黎塞留是阴谋反对安妮女王。</span><span class="english">Cardinal Richelieu is plotting against Queen Anne.</span></p>

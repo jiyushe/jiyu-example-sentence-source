@@ -1,5 +1,7 @@
 # horseless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horseless.md)
+
 <p><span class="chinese">他梦见了一辆旧式的汽车。</span><span class="english">He dreamed of a horseless carriage.</span></p>
 
 <p><span class="chinese">他曾经梦想着去制造一辆无马行进的车。</span><span class="english">he dreamed of a horseless carriage.</span></p>

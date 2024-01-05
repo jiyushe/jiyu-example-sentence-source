@@ -1,5 +1,7 @@
 # 相聚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangju.md)
+
 <p><span class="chinese">我父亲和我只在进餐时间相聚。</span><span class="english">My father and I only meet at meals.</span></p>
 
 <p><span class="chinese">相聚的每一刻，就是将来。</span><span class="english">Every quarter meeting, it is future.</span></p>

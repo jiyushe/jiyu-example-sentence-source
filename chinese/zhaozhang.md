@@ -1,5 +1,7 @@
 # 昭彰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaozhang.md)
+
 <p><span class="chinese">你怎么可以和一个恶名昭彰的人交朋友呢？</span><span class="english">How can you make friends with a man with ill fame?</span></p>
 
 <p><span class="chinese">很难去设想一个更恶名昭彰的背叛。</span><span class="english">It's hard to conceive of a more egregious betrayal.</span></p>

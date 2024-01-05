@@ -1,5 +1,7 @@
 # 孔穴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongxue.md)
+
 <p><span class="chinese">图章能完美的置入孔穴。</span><span class="english">The medallions sat perfectly on the openings.</span></p>
 
 <p><span class="chinese">时不时有这样的孔穴给幽径透点亮光。</span><span class="english">From time to time such holes light up the path.</span></p>

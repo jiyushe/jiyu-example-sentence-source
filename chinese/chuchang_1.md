@@ -1,5 +1,7 @@
 # 出场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuchang_1.md)
+
 <p><span class="chinese">只有内尔森-里瓦斯不能出场。</span><span class="english">Only Nelson Rivas is out.</span></p>
 
 <p><span class="chinese">在某一个星期中，他甚至没有出场。</span><span class="english">One week, he didn’t even show up.</span></p>

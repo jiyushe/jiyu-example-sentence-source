@@ -1,5 +1,7 @@
 # 嫣然一笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanranyixiao.md)
+
 <p><span class="chinese">他朝我们嫣然一笑。</span><span class="english">He gave us a pleasant smile.</span></p>
 
 <p><span class="chinese">嫣然一笑，在风轻云淡的日子里飘浅。</span><span class="english">Smiling, in clear days with light.</span></p>

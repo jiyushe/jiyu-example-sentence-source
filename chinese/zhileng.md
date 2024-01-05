@@ -1,5 +1,7 @@
 # 制冷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhileng.md)
+
 <p><span class="chinese">肯莫尔制冷机冰桶。</span><span class="english">Kenmore refrigerator ice bucket.</span></p>
 
 <p><span class="chinese">买个能制冷的冰箱吧。</span><span class="english">Get a fricking fridge that works.</span></p>

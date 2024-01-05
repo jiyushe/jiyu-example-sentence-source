@@ -1,5 +1,7 @@
 # 小将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojiang.md)
+
 <p><span class="chinese">片段的大小将小于或等于这个大小。</span><span class="english">Fragments will be this size or smaller.</span></p>
 
 <p><span class="chinese">小手册透露出这些小将雄心的还真有不少。</span><span class="english">The ambitions of the young and talented also reveal a lot.</span></p>

@@ -1,5 +1,7 @@
 # 逍遥自在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyaozizai.md)
+
 <p><span class="chinese">她是一个逍遥自在的，坦白的和虚心的少女。</span><span class="english">She is an easygoing, frank and open-minded girl.</span></p>
 
 <p><span class="chinese">我们静静地站着，看着鱼儿逍遥自在地游来游去。</span><span class="english">We stood in silence watching the fish glide effortlessly.</span></p>

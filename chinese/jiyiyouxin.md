@@ -1,5 +1,7 @@
 # 记忆犹新
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiyiyouxin.md)
+
 <p><span class="chinese">我总是对此事记忆犹新。</span><span class="english">I always remember that.</span></p>
 
 <p><span class="chinese">时间流逝，但记忆犹新。</span><span class="english">Time has passed, but the memories do not fade.</span></p>

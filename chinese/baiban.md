@@ -1,5 +1,7 @@
 # 白斑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiban.md)
+
 <p><span class="chinese">这只母鸡灰色带白斑点。</span><span class="english">This hen is gray with white speckles.</span></p>
 
 <p><span class="chinese">“我认为有一个白斑上的，”约翰逊说。</span><span class="english">I think there's a walleye on that one, " said Johnson."</span></p>

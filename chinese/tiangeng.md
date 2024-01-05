@@ -1,5 +1,7 @@
 # 田埂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiangeng.md)
+
 <p><span class="chinese">我们坐在田埂上休息。</span><span class="english">We had a rest on the ridges.</span></p>
 
 <p><span class="chinese">她住在灌木篱笆下面的田埂里。</span><span class="english">She lived in a band under a hedge.</span></p>

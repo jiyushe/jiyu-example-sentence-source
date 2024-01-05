@@ -1,5 +1,7 @@
 # 情丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingsi.md)
+
 <p><span class="chinese">一个牵了情丝。</span><span class="english">A pull the Qingsi of.</span></p>
 
 <p><span class="chinese">德芙妮为谁尽情丝滑?。</span><span class="english">DE daphne's silky heartily for who?</span></p>

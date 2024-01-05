@@ -1,5 +1,7 @@
 # 画地为牢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huadiweilao.md)
+
 <p><span class="chinese">你在无能无力中老去，画地为牢。</span><span class="english">You end up feeling incapable, powerless.</span></p>
 
 <p><span class="chinese">黑暗降临了！我独自一人画地为牢。</span><span class="english">I desired to draw a circle where I stayed alone.</span></p>

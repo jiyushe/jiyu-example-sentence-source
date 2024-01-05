@@ -1,5 +1,7 @@
 # materially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/materially.md)
+
 <p><span class="chinese">这两种能力都有助于大大缩短学习过程。</span><span class="english">Both help to shorten materially the learning process.</span></p>
 
 <p><span class="chinese">他们既得到了我们的物质上的支持也得到我们精神上的声援。</span><span class="english">They were supported by us both materially and spiritually.</span></p>

@@ -1,5 +1,7 @@
 # compensator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compensator.md)
+
 <p><span class="chinese">滚珠丝杠轴向补偿器的设计与实现。</span><span class="english">Ball screw axis of the compensator is designed.</span></p>
 
 <p><span class="chinese">有些精密仪器用了热补偿器。</span><span class="english">Some precision gages used a thermal compensator.</span></p>

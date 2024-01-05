@@ -1,5 +1,7 @@
 # anticlimax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticlimax.md)
+
 <p><span class="chinese">必将来的高潮时刻更多的却是失落。</span><span class="english">The inevitable climax was more of an anticlimax.</span></p>
 
 <p><span class="chinese">他们放弃比赛，真是扫兴。</span><span class="english">It was an anticlimax when they abandoned the game.</span></p>

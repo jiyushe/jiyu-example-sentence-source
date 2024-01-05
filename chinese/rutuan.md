@@ -1,5 +1,7 @@
 # 入团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rutuan.md)
+
 <p><span class="chinese">我永远也忘不了我入团的那一天。</span><span class="english">I'll never forget the day.</span></p>
 
 <p><span class="chinese">他是在2003年入团的。</span><span class="english">He joined the League in 2003.</span></p>

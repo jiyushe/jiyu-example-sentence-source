@@ -1,5 +1,7 @@
 # 据为己有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juweijiyou.md)
+
 <p><span class="chinese">理所当然地将宇宙据为己有。</span><span class="english">The universe for granted as their own.</span></p>
 
 <p><span class="chinese">不论你作什麽，切不要把这个大好信息据为己有！</span><span class="english">Whatever you do, don't keep it to yourself!</span></p>

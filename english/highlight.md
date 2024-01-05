@@ -1,5 +1,7 @@
 # highlight 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/highlight.md)
+
 <p><span class="chinese">让我高亮显示下它。</span><span class="english">Let me highlight that.</span></p>
 
 <p><span class="chinese">能给我头发挑染一下吗？</span><span class="english">Can you highlight my hair?</span></p>

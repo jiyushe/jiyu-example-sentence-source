@@ -1,5 +1,7 @@
 # tricot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tricot.md)
+
 <p><span class="chinese">经编内衬腰带和飞。</span><span class="english">Tricot lined waistband and fly.</span></p>
 
 <p><span class="chinese">然后它上升在前以发光的手编织品织品结束。</span><span class="english">Then it ups the ante with a shiny tricot fabric finish.</span></p>

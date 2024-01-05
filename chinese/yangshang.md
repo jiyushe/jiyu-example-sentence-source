@@ -1,5 +1,7 @@
 # 养伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangshang.md)
+
 <p><span class="chinese">好好养伤。</span><span class="english">Keep wound well.</span></p>
 
 <p><span class="chinese">在医院养伤期间，我开始阅读圣经。</span><span class="english">While I was there, I took to reading the Bible.</span></p>

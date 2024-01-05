@@ -1,5 +1,7 @@
 # mouthwatering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mouthwatering.md)
+
 <p><span class="chinese">空气中漂浮着新烤的面包诱人的香味。</span><span class="english">In the air is the mouthwatering smell of freshly baked bread.</span></p>
 
 <p><span class="chinese">中式婚宴多用美味的北京烤鸭待客。</span><span class="english">Chinese wedding banquet often serves a mouthwatering Peking duck.</span></p>

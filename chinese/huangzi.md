@@ -1,5 +1,7 @@
 # 幌子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangzi.md)
+
 <p><span class="chinese">不要将你的敬畏建立在他们的幌子之上。</span><span class="english">Don’t base your awe of them on their aphorisms.</span></p>
 
 <p><span class="chinese">她的自吹自擂不过是不真诚的幌子。</span><span class="english">His bragging is just a front for his insincerity.</span></p>

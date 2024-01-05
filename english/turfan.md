@@ -1,5 +1,7 @@
 # turfan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turfan.md)
+
 <p><span class="chinese">苏联军队未能提前越过吐鲁番。</span><span class="english">GPU Soviet troops did not advance beyond Turfan.</span></p>
 
 <p><span class="chinese">离吐鲁番不远有一座火焰山。</span><span class="english">Not far from Turfan lies the 'Flaming Mountain'.</span></p>

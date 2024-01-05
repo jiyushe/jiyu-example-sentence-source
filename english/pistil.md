@@ -1,5 +1,7 @@
 # pistil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pistil.md)
+
 <p><span class="chinese">雌性的花有雌蕊。</span><span class="english">The female part is the pistil.</span></p>
 
 <p><span class="chinese">花粉通过风传播到雌蕊上。</span><span class="english">Pollen is carried to the pistil by wind.</span></p>
